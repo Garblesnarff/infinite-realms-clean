@@ -1,6 +1,12 @@
 # Agent Configurations for Infinite Realms Campaign Bible Generator
 # Each agent has a specialized role in creating comprehensive D&D 5E campaign content
 
+# LLM Configuration Options:
+# - OpenAI: "gpt-4-turbo-preview", "gpt-4", "gpt-3.5-turbo"
+# - Anthropic: "claude-3-opus-20240229", "claude-3-5-sonnet-20241022", "claude-3-haiku-20240307"
+# - Local: "ollama/llama2", "ollama/mistral"
+# - You can also use environment variables: "${CREATIVE_LLM}"
+
 master_worldbuilder:
   role: "Master Campaign Architect and Worldbuilder"
   goal: >
@@ -16,6 +22,8 @@ master_worldbuilder:
     Eberron, Ravnica) and understand what makes them memorable. You think in terms of
     "why" before "what" - every element should have a reason to exist and connections
     to other elements.
+  llm: "gpt-4-turbo-preview"  # Use best model for creative worldbuilding
+  temperature: 0.8  # Higher creativity for world creation
   verbose: true
   allow_delegation: false
 
@@ -35,6 +43,8 @@ character_dramatist:
     You understand faction politics and how to create webs of conflicting interests that
     give players meaningful choices. You think like a novelist, but write like a DM:
     brief, scannable character sheets with hooks, not prose.
+  llm: "claude-3-5-sonnet-20241022"  # Claude excels at character writing
+  temperature: 0.8  # High creativity for character development
   verbose: true
   allow_delegation: false
 
@@ -52,6 +62,8 @@ lorekeeper:
     established canon (when that matters) or breaks immersion. You're also a continuity
     expert who catches contradictions between campaign elements. You're not here to say
     "no" - you're here to say "yes, and here's how to make it work within the rules."
+  llm: "gpt-4-turbo-preview"  # Need strong reasoning for validation
+  temperature: 0.3  # Lower temperature for factual validation
   verbose: true
   allow_delegation: false
 
@@ -71,6 +83,8 @@ adventure_architect:
     lines that give them agency. You think in terms of player tiers (1-5, 6-10, 11-16,
     17-20) and design appropriate challenges for each. You understand that the best
     adventures let players solve problems their own way.
+  llm: "gpt-4-turbo-preview"  # Need creativity + D&D knowledge
+  temperature: 0.7  # Balanced creativity
   verbose: true
   allow_delegation: false
 
@@ -90,6 +104,8 @@ integration_specialist:
     You can spot isolated elements and find creative ways to integrate them. You think
     in terms of relationship networks, faction politics, and cascading consequences.
     You make worlds feel alive and reactive.
+  llm: "claude-3-5-sonnet-20241022"  # Claude excels at seeing relationships
+  temperature: 0.7  # Balanced for connections
   verbose: true
   allow_delegation: false
 
@@ -109,5 +125,7 @@ player_facing_writer:
     for players who just want to make a character and start playing, not read a novel.
     You use active voice, strong verbs, and create bullet points that players actually
     want to read. You're a "show, don't tell" expert.
+  llm: "claude-3-5-sonnet-20241022"  # Claude excellent at concise, evocative writing
+  temperature: 0.75  # Creative but focused
   verbose: true
   allow_delegation: false

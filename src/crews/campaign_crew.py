@@ -7,11 +7,12 @@ This module orchestrates all agents to generate a complete campaign bible.
 import json
 import os
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 import yaml
 from crewai import Agent, Crew, Process, Task
 from langchain_openai import ChatOpenAI
+from langchain_anthropic import ChatAnthropic
 
 from ..tools import (
     ConsistencyCheckerTool,
@@ -20,6 +21,7 @@ from ..tools import (
     RandomTableCreatorTool,
     RelationshipMapperTool,
 )
+from ..utils.llm_factory import create_llm
 
 
 class CampaignCrew:
@@ -41,12 +43,6 @@ class CampaignCrew:
         self.agents_config = self._load_config("agents.yaml")
         self.tasks_config = self._load_config("tasks.yaml")
 
-        # Initialize LLM
-        self.llm = ChatOpenAI(
-            model=os.getenv("DEFAULT_LLM", "gpt-4-turbo-preview"),
-            temperature=0.7,
-        )
-
         # Initialize tools
         self.tools = {
             "consistency_checker": ConsistencyCheckerTool(),
@@ -66,17 +62,23 @@ class CampaignCrew:
             return yaml.safe_load(f)
 
     def _create_agents(self) -> Dict[str, Agent]:
-        """Create all specialized agents from YAML config."""
+        """Create all specialized agents from YAML config with per-agent LLM support."""
         agents = {}
 
         for agent_name, config in self.agents_config.items():
+            # Get LLM for this specific agent
+            llm_config = config.get("llm", os.getenv("DEFAULT_LLM", "gpt-4-turbo-preview"))
+            temperature = config.get("temperature", 0.7)
+
+            agent_llm = create_llm(llm_config, temperature)
+
             agents[agent_name] = Agent(
                 role=config["role"],
                 goal=config["goal"],
                 backstory=config["backstory"],
                 verbose=config.get("verbose", True),
                 allow_delegation=config.get("allow_delegation", False),
-                llm=self.llm,
+                llm=agent_llm,
             )
 
         return agents
