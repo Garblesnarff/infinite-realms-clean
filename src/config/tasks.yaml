@@ -1,0 +1,296 @@
+# Task Configurations for Infinite Realms Campaign Bible Generator
+# Tasks are organized in workflow order: Analysis → Generation → Integration → Validation → Packaging
+
+# PHASE 1: ANALYSIS & FOUNDATION
+
+analyze_campaign_concept:
+  description: >
+    Analyze the campaign concept provided by the user. Extract key themes, tone,
+    setting type, and any specific requirements. Identify what makes this campaign
+    unique and what the core pillars should be. Consider: What are the central conflicts?
+    What tone should this strike? What kind of adventures will this support?
+    What should make this world memorable?
+
+    Campaign Input: {campaign_input}
+  expected_output: >
+    A comprehensive analysis document including:
+    - Core themes (3-5 key themes)
+    - Tone and atmosphere description
+    - Central conflicts and tensions
+    - Unique selling points (what makes this setting special)
+    - Recommended power level and magic prevalence
+    - Key questions to answer during worldbuilding
+    Format as structured JSON.
+  agent: master_worldbuilder
+
+# PHASE 2: WORLD FOUNDATION
+
+create_world_foundation:
+  description: >
+    Based on the campaign analysis, create the foundational world elements:
+    geography, cosmology, history timeline, and magic system basics. Focus on elements
+    that will directly impact gameplay and player choices. Remember: geography affects
+    culture, history explains the present, magic creates wonder and problems.
+
+    Campaign Analysis: {campaign_analysis}
+    Player Information: {player_info}
+  expected_output: >
+    World foundation document including:
+    - Geography overview (major regions, geographical features, climate)
+    - Cosmology (planes, afterlife, how magic works at cosmic level)
+    - Historical timeline (major eras and events that shaped the current world)
+    - Magic system notes (how common is magic, who can use it, any special rules)
+    - Languages and major species
+    - Technology level
+    All in structured format with brief, scannable entries.
+  agent: master_worldbuilder
+
+# PHASE 3: FACTIONS & POLITICS
+
+design_factions:
+  description: >
+    Create {num_factions} major factions for the campaign. Each faction should have:
+    clear goals, resources/capabilities, key NPCs, rivals/enemies, and how players
+    might interact with them. Ensure factions have CONFLICTING goals to create natural
+    drama and player choice. Think about: What does each faction want? Why can't they
+    all have it? How do they compete?
+
+    World Foundation: {world_foundation}
+    Campaign Themes: {campaign_themes}
+  expected_output: >
+    Faction dossiers for {num_factions} factions, each including:
+    - Name and brief description (1-2 sentences)
+    - Primary goal and motivation
+    - Resources and capabilities
+    - Leadership structure and key NPCs (names only, full details come later)
+    - Allied and rival factions
+    - How players might join, oppose, or manipulate them
+    - 3 immediate plot hooks
+    Format as structured JSON array.
+  agent: character_dramatist
+
+# PHASE 4: NPC CREATION
+
+create_npcs:
+  description: >
+    Create {num_npcs} memorable NPCs distributed across the factions and locations.
+    Use the "wants, fears, offers" framework. Each NPC should be useful at the table:
+    give them clear motivations, concrete things they can offer players, and secrets
+    or complications. Mix of major NPCs (recurring characters) and minor NPCs
+    (quest givers, merchants, etc.). Remember: NPCs aren't stat blocks, they're
+    dramatic tools.
+
+    Factions: {factions}
+    World Foundation: {world_foundation}
+  expected_output: >
+    NPC cards for {num_npcs} characters, each including:
+    - Name, race, role/occupation
+    - Faction affiliation (if any)
+    - Wants (what they're trying to achieve)
+    - Fears (what threatens them or what they want to avoid)
+    - Offers (what they can give players: information, quests, rewards, training)
+    - Secrets (hidden motivations, connections, or information)
+    - Personality trait and quirk (for roleplay)
+    - Stat block reference (just CR or class/level, not full stats)
+    Format as structured JSON array.
+  agent: character_dramatist
+
+# PHASE 5: LOCATIONS
+
+create_locations:
+  description: >
+    Design {num_locations} key locations for the campaign. Mix of cities, towns,
+    dungeons, wilderness areas, and points of interest. Each location should answer:
+    Why would players go here? What makes it unique? What factions operate here?
+    What secrets does it hold? Locations should feel like characters - they should
+    have personality and purpose.
+
+    World Foundation: {world_foundation}
+    Factions: {factions}
+    NPCs: {npcs}
+  expected_output: >
+    Location descriptions for {num_locations} places, each including:
+    - Name and location type (city, dungeon, wilderness, etc.)
+    - Brief description (2-3 sentences capturing the essence)
+    - Key features (what makes this place memorable)
+    - Factions present or competing for control
+    - Important NPCs found here
+    - Secrets and hidden elements
+    - 3 adventure hooks specific to this location
+    - Random encounter suggestions
+    Format as structured JSON array.
+  agent: master_worldbuilder
+
+# PHASE 6: INTEGRATION & CONNECTIONS
+
+weave_connections:
+  description: >
+    Analyze all created elements (factions, NPCs, locations) and create meaningful
+    connections between them. Apply the "Rule of Three" - every element should connect
+    to at least 3 others. Look for: Which NPCs are secretly allied? Which factions
+    are fighting over which locations? What events connect disparate elements?
+    Create a web of relationships that makes the world feel interconnected and alive.
+
+    Factions: {factions}
+    NPCs: {npcs}
+    Locations: {locations}
+    Campaign Themes: {campaign_themes}
+  expected_output: >
+    Integration report including:
+    - Relationship map (JSON network data showing all connections)
+    - Identified key nodes (most connected elements)
+    - Orphaned elements (anything with fewer than 2 connections) and how to fix them
+    - Cross-faction conspiracies or alliances
+    - Location-based conflicts
+    - NPC relationship clusters
+    - Thematic through-lines tying elements together
+    Format as structured JSON with relationship arrays.
+  agent: integration_specialist
+
+# PHASE 7: ADVENTURE HOOKS & PLOT THREADS
+
+generate_adventure_hooks:
+  description: >
+    Generate adventure hooks and quest lines organized by character tier (1-5, 6-10,
+    11-16, 17-20). Ensure a mix of combat, social, exploration, and mystery hooks.
+    Each hook should tie into factions, NPCs, or locations. Create both one-shot
+    hooks and longer quest lines that span multiple sessions. Make sure players
+    have meaningful choices.
+
+    All Campaign Elements: {all_elements}
+    Player Level Range: {player_levels}
+  expected_output: >
+    Adventure hooks organized by tier:
+    - Tier 1 (Levels 1-5): {hooks_per_tier} hooks
+    - Tier 2 (Levels 6-10): {hooks_per_tier} hooks
+    - Tier 3 (Levels 11-16): {hooks_per_tier} hooks
+    - Tier 4 (Levels 17-20): {hooks_per_tier} hooks
+
+    Each hook includes:
+    - Hook title and description
+    - Hook type (combat/social/exploration/mystery)
+    - Tied elements (which NPCs, factions, locations)
+    - Expected outcome or consequences
+    - How it connects to larger campaign threads
+    Format as structured JSON organized by tier.
+  agent: adventure_architect
+
+# PHASE 8: VALIDATION & CONSISTENCY
+
+validate_consistency:
+  description: >
+    Review ALL campaign elements for internal consistency, contradictions, and
+    completeness. Check that factions make sense together, NPCs don't contradict
+    each other, geography is logical, and history is coherent. Ensure everything
+    feels like part of the same world, not randomly assembled pieces.
+
+    All Campaign Elements: {all_elements}
+  expected_output: >
+    Validation report including:
+    - Consistency issues found (with specific examples)
+    - Contradictions to resolve
+    - Missing connections or gaps in logic
+    - Elements that feel out of place
+    - Recommendations for fixes
+    - Overall coherence score (1-10)
+    Format as structured JSON with issue categories.
+  agent: lorekeeper
+
+validate_dnd_compliance:
+  description: >
+    Validate all campaign content against D&D 5E rules, mechanics, and conventions.
+    Check spell mechanics, CR ratings, encounter balance, ability scores, damage types,
+    and lore consistency with D&D standards. Flag anything that breaks rules or feels
+    un-D&D. Suggest fixes that preserve intent while maintaining compliance.
+
+    All Campaign Elements: {all_elements}
+  expected_output: >
+    D&D 5E compliance report including:
+    - Mechanical issues (rule violations)
+    - Balance concerns (overpowered or underpowered elements)
+    - Lore inconsistencies with D&D conventions
+    - Recommendations for fixes
+    - Elements that need stat blocks or mechanical clarification
+    - Overall compliance rating (compliant/minor issues/major issues)
+    Format as structured JSON with categorized findings.
+  agent: lorekeeper
+
+# PHASE 9: RANDOM TABLES & TOOLS
+
+create_random_tables:
+  description: >
+    Create setting-specific random tables for each major location type. Generate:
+    random encounter tables, weather tables, rumor tables, random event tables,
+    and quick NPC generators. These should be customized for the campaign setting,
+    not generic D&D content. DMs use these for improvisation at the table.
+
+    Locations: {locations}
+    World Foundation: {world_foundation}
+    Factions: {factions}
+  expected_output: >
+    Collection of random tables including:
+    - Random encounter tables (by location type)
+    - Weather tables (by climate/region)
+    - Rumor tables (by location, mix of true/false rumors)
+    - Random event tables (for cities, wilderness, dungeons)
+    - Quick NPC generator (for improvisation)
+    All tables should use standard dice (d6, d8, d10, d12, d20) and feel
+    specific to this campaign setting.
+    Format as structured JSON arrays with roll ranges.
+  agent: adventure_architect
+
+# PHASE 10: PLAYER-FACING CONTENT
+
+create_player_handout:
+  description: >
+    Create a compelling 3-4 page player handout that introduces the campaign setting
+    without revealing DM secrets. This should excite players and help them create
+    appropriate characters. Include: world primer, tone/themes, major factions overview,
+    character creation guidance, and what makes this campaign unique. Write like a
+    marketing copywriter - make them want to play!
+
+    Campaign Concept: {campaign_concept}
+    Factions: {factions}
+    World Foundation: {world_foundation}
+    Themes: {campaign_themes}
+  expected_output: >
+    Player handout in markdown format, structured as:
+
+    1. **Campaign Pitch** (1 paragraph - the elevator pitch)
+    2. **World Primer** (2-3 paragraphs - what players need to know)
+    3. **Tone & Themes** (1 paragraph - what this campaign feels like)
+    4. **Major Factions** (brief overview of player-relevant factions)
+    5. **Character Creation Guidance** (what fits, what doesn't)
+    6. **House Rules or Special Mechanics** (if any)
+
+    3-4 pages maximum, evocative but concise, no DM secrets revealed.
+    Use active voice, strong verbs, bullet points where appropriate.
+  agent: player_facing_writer
+
+# PHASE 11: FINAL ASSEMBLY
+
+assemble_campaign_bible:
+  description: >
+    Assemble all campaign elements into a comprehensive, well-organized DM reference
+    document. Structure it for ease of use at the table: quick reference format,
+    clear sections, cross-references between elements. Include table of contents,
+    quick-reference index, and both narrative summary and detailed breakdowns.
+
+    All Campaign Elements: {all_elements}
+    Player Handout: {player_handout}
+  expected_output: >
+    Complete campaign bible in markdown format with sections:
+
+    1. **Table of Contents**
+    2. **Campaign Overview** (synthesis of key information)
+    3. **World Foundation** (geography, history, cosmology)
+    4. **Factions** (detailed dossiers)
+    5. **NPCs** (character cards organized by faction)
+    6. **Locations** (detailed descriptions with maps notes)
+    7. **Adventure Hooks** (organized by tier)
+    8. **Plot Threads & Connections** (relationship maps)
+    9. **Random Tables** (all tables for improvisation)
+    10. **Appendices** (timeline, glossary, index)
+
+    Well-formatted markdown ready for export to PDF/Obsidian.
+  agent: integration_specialist

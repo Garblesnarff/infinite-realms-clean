@@ -1,0 +1,29 @@
+# Example Campaign: The Shadow Empire
+# A dark fantasy campaign about a fallen empire rising from the shadows
+
+campaign:
+  name: "The Shadow Empire"
+  pitch: "A thousand-year-old empire, destroyed by its own hubris, rises again from the shadows, corrupting the land with dark magic and undead armies. The players must unite fractured kingdoms before the Shadow Empire consumes the world."
+
+  themes:
+    - "Corruption and redemption"
+    - "Ancient evils awakening"
+    - "Political intrigue and alliance-building"
+    - "The cost of power"
+    - "Hope in darkness"
+
+  tone: "Dark fantasy with gothic horror elements, but with moments of heroism and hope. Morally complex villains. High stakes."
+
+  setting_type: "High magic, medieval technology, corrupted lands expanding from the Shadow Empire's capital"
+
+players:
+  count: 4
+  starting_level: 3
+  experience_level: "intermediate"
+
+preferences:
+  include_factions: 6
+  include_npcs: 20
+  include_locations: 12
+  detail_level: "comprehensive"
+  include_maps: true

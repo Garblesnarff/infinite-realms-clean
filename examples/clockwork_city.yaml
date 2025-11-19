@@ -1,0 +1,29 @@
+# Example Campaign: The Clockwork City
+# A steampunk-fantasy urban campaign
+
+campaign:
+  name: "The Clockwork City"
+  pitch: "In Gearford, a massive city powered by magic-infused clockwork, the Grand Architect has disappeared and the city's machinery is failing. Factions fight for control while the players uncover a conspiracy involving ancient warforged, stolen souls, and a machine that could reshape reality."
+
+  themes:
+    - "Magic meets technology"
+    - "Urban intrigue and faction politics"
+    - "Identity and consciousness (warforged, constructs)"
+    - "Progress vs. tradition"
+    - "Mysteries in the machine"
+
+  tone: "Steampunk noir with magical elements. Think Dishonored meets D&D. Morally gray choices, political intrigue, investigation-heavy."
+
+  setting_type: "Very high magic, industrial revolution technology, single massive city setting"
+
+players:
+  count: 4
+  starting_level: 5
+  experience_level: "advanced"
+
+preferences:
+  include_factions: 7
+  include_npcs: 25
+  include_locations: 10
+  detail_level: "comprehensive"
+  include_maps: true

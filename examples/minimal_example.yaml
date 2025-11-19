@@ -1,0 +1,14 @@
+# Minimal Example - Just the required fields
+# This is the bare minimum needed to generate a campaign
+
+campaign:
+  name: "The Forgotten Vale"
+  pitch: "An isolated valley, cut off from the world for centuries, is rediscovered. Ancient magic stirs, and the players must navigate warring settlements and awakening dangers."
+  themes:
+    - "Exploration"
+    - "Ancient secrets"
+  tone: "Classic D&D adventure"
+  setting_type: "Standard D&D fantasy"
+
+# Optional sections can be omitted - defaults will be used
+# Default: 4 players, level 1, 5 factions, 15 NPCs, 10 locations

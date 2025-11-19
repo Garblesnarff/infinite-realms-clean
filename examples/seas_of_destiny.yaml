@@ -1,0 +1,29 @@
+# Example Campaign: Seas of Destiny
+# A swashbuckling adventure on the high seas
+
+campaign:
+  name: "Seas of Destiny"
+  pitch: "In a world of island nations and endless oceans, ancient sea gods awaken and pirate lords vie for control of mystical trade routes. Players captain their own ship, building a crew and reputation while uncovering a conspiracy that threatens to drown the world."
+
+  themes:
+    - "Freedom and adventure"
+    - "Loyalty and betrayal"
+    - "Ancient mysteries beneath the waves"
+    - "Building your legend"
+    - "The call of the sea"
+
+  tone: "Swashbuckling adventure with Caribbean pirate vibes. Mix of humor and danger. Nautical fantasy with elements of Lovecraftian horror in the deep."
+
+  setting_type: "Moderate magic, age of sail technology, archipelago setting with vast oceans"
+
+players:
+  count: 5
+  starting_level: 1
+  experience_level: "mixed"
+
+preferences:
+  include_factions: 5
+  include_npcs: 15
+  include_locations: 15
+  detail_level: "comprehensive"
+  include_maps: true
