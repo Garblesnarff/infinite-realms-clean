@@ -101,7 +101,6 @@ monopolis-rising,Fantasy,FRAMEWORK
 motes-in-the-giants-eye,Fantasy,FRAMEWORK
 oath-of-the-forgotten,Fantasy,FRAMEWORK
 oaths-of-the-radiant,Fantasy,FRAMEWORK
-objection-your-infernal-honor,Fantasy,MINIMAL
 powder-revolution,Fantasy,FRAMEWORK
 reapers-of-the-veil,Fantasy,FRAMEWORK
 retrograde-catastrophe,Fantasy,FRAMEWORK
@@ -163,7 +162,6 @@ the-court-of-broken-promises,Fantasy,FRAMEWORK
 the-crimson-kitchen,Fantasy,FRAMEWORK
 the-crimson-rebirth,Fantasy,FRAMEWORK
 the-crossing-to-dreamtime,Fantasy,FRAMEWORK
-the-crown-of-aethermoor,Fantasy,MINIMAL
 the-crystal-of-truth,Fantasy,FRAMEWORK
 the-cube-realm-chronicles,Fantasy,FRAMEWORK
 the-curse-of-thorns-and-roses,Fantasy,FRAMEWORK
@@ -742,7 +740,6 @@ agents-of-concordia,Intrigue,FRAMEWORK
 all-for-one,Intrigue,FRAMEWORK
 atomic-arcana,Intrigue,FRAMEWORK
 beneath-the-watching-eye,Intrigue,FRAMEWORK
-goldport,Intrigue,MINIMAL
 hero-nameless-warrior,Intrigue,FRAMEWORK
 operation-dragonmark,Intrigue,FRAMEWORK
 operation-family-deception,Intrigue,FRAMEWORK
@@ -767,7 +764,7 @@ cartel-wars,Urban,FRAMEWORK
 central-city-noir,Urban,FRAMEWORK
 city-of-angels-city-of-sin,Urban,FRAMEWORK
 crash-and-burn-paradise,Urban,FRAMEWORK
-fates-warning,Urban,FRAMEWORK
+fates-warning,Urban,COMPLETE
 grind-city-prophets,Urban,FRAMEWORK
 hip-hop-street-empire,Urban,FRAMEWORK
 jazz-noir-city,Urban,FRAMEWORK
@@ -790,9 +787,9 @@ the-blue-dragon,Urban,FRAMEWORK
 the-casino-of-souls,Urban,FRAMEWORK
 the-chosen-slayer,Urban,FRAMEWORK
 the-coffee-and-tragedy,Urban,FRAMEWORK
-the-crimson-thread-of-silverport,Urban,FRAMEWORK
+the-crimson-thread-of-silverport,Urban,COMPLETE
 the-dark-lords-day-job,Urban,FRAMEWORK
-the-village-of-quiet-seasons,Urban,FRAMEWORK
+the-village-of-quiet-seasons,Urban,COMPLETE
 above-the-cloudline,Adventure,COMPLETE
 against-the-titans,Adventure,FRAMEWORK
 as-you-wish,Adventure,FRAMEWORK
