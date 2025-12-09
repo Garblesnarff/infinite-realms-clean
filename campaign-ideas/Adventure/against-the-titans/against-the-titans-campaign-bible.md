@@ -1,555 +1,375 @@
 # Campaign Bible: Against the Titans
 
-## [TAG: LORE_CORE] Deep Lore & History
+## 1. DEEP LORE & HISTORY
+[TAG: LORE_CORE]
 
-### Origin Myth: The Weeping of the World
-In the beginning, the world was a silent, gray sphere of smooth obsidian. It did not breathe, and it did not bleed. Then came the **Star-Vomit**, a cosmic sickness that struck the planet's core. To purge this alien infection, the world's crust cracked open, birthing the Titans—white blood cells of stone, fire, and fury. They were not designed to coexist with life; they were designed to scour the infection. Humanity, elves, and dwarves are merely the dust mites living on the fevered skin of a dying god, and the Titans are the immune system trying to scrub us off.
+### Origin Myth: The Cosmic Scars
+Before the world was, there was the **Cosmic Flesh**, an infinite, living tapestry of raw creation. The Titans were its first thoughts, vast and powerful, but also clumsy and destructive. In their primordial dance, they tore great gashes in the Cosmic Flesh, creating the stars, the planets, and the very fabric of reality. These gashes, however, never truly healed. They festered, becoming the **Void-Wounds**, from which monstrous, formless entities now leak into existence. The world is not a planet; it is a scab, precariously holding back the true horror of the Titans' careless birth. The Titans themselves are not evil; they are merely children, playing with a universe they do not understand, and their games threaten to unravel everything.
 
-### Timeline of the Colossus Era
-1.  **Year 0 (The Cracking):** The first Titan, *Orogenes*, erupts from the planetary mantle. The continent of Aethelgard is split in half.
-2.  **Year 15 (The Great Silence):** Civilization collapses. Magic becomes erratic near Titans due to their immense bio-gravitational fields.
-3.  **Year 50 (The First Fell):** The hero **Kaelen the Ant** climbs inside the Titan *Ignis* and severs its heart-artery. The first Slayer is born.
-4.  **Year 52:** The Slayer’s Guild is founded in the hollowed-out ribcage of *Ignis*.
-5.  **Year 108 (The Rain of Teeth):** A sky-born Titan sheds its milk-teeth over the capital city. The teeth are the size of houses; thousands die, but the survivors build unbreachable walls from the enamel.
-6.  **Year 200 (The Flesh-Graft Heresy):** A cult attempts to graph Titan flesh onto human infants. The result is the creation of the *Abominants*, now hunted by the Guild.
-7.  **Year 350 (The Singing Plague):** A Titan dies and its decomposing body releases a spore that causes victims to sing uncontrollably until their lungs liquify.
-8.  **Year 410 (The Day the Mountain Walked):** The Petramach is sighted. The Guild declares a Continental State of Emergency.
-9.  **Year 415:** Professor Arkwright proposes the "Symbiosis Theory," suggesting killing Titans accelerates the Star-Vomit infection. He is laughed out of the Royal Academy.
-10. **Present Day:** The Petramach changes course toward the Last Bastion.
+### Timeline of Events
+1.  **-10,000 Y (The Primordial Dance):** The Titans, in their chaotic birth, tear the Cosmic Flesh, creating the universe.
+2.  **-8000 Y (The First Void-Wound):** A tear in reality above the nascent world begins to leak formless horrors.
+3.  **-6000 Y (The Age of Giants):** Lesser Titans, the Giants, are born from the world's fear, acting as a buffer between mortals and their colossal parents.
+4.  **-4000 Y (The Great Sleep):** The Elder Titans, exhausted by their creation, fall into a deep slumber, their dreams shaping the world's early myths.
+5.  **-2000 Y (The Titanomachy Echo):** A localized psychic ripple from a forgotten Titan war causes all mountains to briefly sing in unison, driving 10% of the mortal population mad.
+6.  **-1000 Y (The Sky-Shattering):** A sleeping Titan rolls over, causing a meteor shower that lasts a century, reshaping continents and creating the "Crater-Lands."
+7.  **-500 Y (The Whispering Peaks):** A new Void-Wound opens in the highest mountain range. Those who climb too high hear the whispers of cosmic horror.
+8.  **-100 Y (The Titan's Sigh):** A Titan stirs in its sleep, causing a global earthquake that lasts a week, destroying ancient civilizations and revealing forgotten dungeons.
+9.  **-10 Y (The First Awakening):** A minor Titan, **Kronos the Restless**, begins to stir, its dreams manifesting as localized reality distortions and monstrous births.
+10. **Present Day:** Kronos the Restless fully awakens, its colossal shadow falling over the capital city. Its first act is to pluck the highest tower from the city and use it as a toothpick.
 
-### The Metaphysical "Why"
-The conflict is not Good vs. Evil; it is **Macro vs. Micro**. The Titans are fighting a war on a planetary scale against a cosmic cancer. Slayers are killing the world's defenders to save the "fleas" (civilization). If the Slayers win and eradicate the Titans, the Star-Vomit will consume the planet's core, and the world will rot from the inside out.
-
----
-
-## [TAG: FACTION_DATA] Factions
-
-### The Slayer's Guild (Major)
-**Type:** Martial Meritocracy / Monopoly
-**Leader:** Guildmaster Valerius (Human Fighter)
-**Asset:** **The God-Killer Ballistae** (Siege weapons mounted on rails around the Guildhall).
-**Rivals:** The Titanologists, The Wax-Dipped.
-**Note:** They control the economy of Titan-Bone, making them richer than kings.
-
-### The Titanologists (Minor)
-**Type:** Academic / Underground Research
-**Leader:** Professor Arkwright (Gnome Wizard)
-**Asset:** **The Whisper-Vats** (Tanks holding live Titan brains for interrogation).
-**Rivals:** Slayer's Guild (Ideological), The Church of the Stone.
-
-### The Gilded Vultures (Rival Crew)
-**Type:** Mercenary Opportunists
-**Leader:** "Golden" Gorm (Dwarf Rogue)
-**Asset:** **The Skyship *Avarice*** (Allows them to drop onto Titans from above).
-**Rivals:** The Player Party, Slayer's Guild leadership.
-
-### The Wax-Dipped
-**Type:** Scavenger Cult
-**Leader:** Mother Tallow (Human Warlock)
-**Asset:** **Pheromone-Masking Wax** (Allows them to walk unnoticed among Titan parasites).
-**Rivals:** Slayer's Guild (who view them as hyenas).
-**Note:** They coat their bodies in layers of yellow wax made from giant ear-mites. They speak in muffled squeaks.
-
-### The Society of Weeping Spoons
-**Type:** Surrealist Assassins
-**Leader:** The Ladle (Changeling Bard)
-**Asset:** **Liquid Sound Poison** (Harvested from the throat sacs of Screaming Titans).
-**Rivals:** Anyone who eats with a fork.
-**Lore:** They believe Titans are the world's soup, and they must stir the pot of chaos.
-
-### The Gear-Heart Collective
-**Type:** Warforged Extremists
-**Leader:** Unit 734-Prime
-**Asset:** **The Titan-Jack** (A massive hydraulic suit allowing a Warforged to wrestle smaller Titans).
-**Rivals:** The Flesh-Weavers.
-**Goal:** To upload their consciousness into a dead Titan and become a Machine God.
-
-### The Flesh-Weavers
-**Type:** Bio-Horror Surgeons
-**Leader:** Dr. Vane (Elf Artificer)
-**Asset:** **Grafting Tables** (Can attach monster limbs to players... for a price).
-**Rivals:** The Slayer's Guild (who hunt them on sight).
-
-### The Silt-Walkers
-**Type:** Nomadic Snipers
-**Leader:** Wind-Eye Jala (Human Ranger)
-**Asset:** **Dust-Skiffs** (Land boats that sail on the pulverized rock trails left by Titans).
-**Rivals:** The Petramach (they live in its wake).
-
-### The Chorus of the Void
-**Type:** Doomsday Cult
-**Leader:** The Silent One (No tongue)
-**Asset:** **Resonance Bells** (Can wake sleeping Titans).
-**Rivals:** Everyone who wants to live.
-
-### The Cartographers of the Colossus
-**Type:** Extreme Explorers
-**Leader:** Map-Maker Huro (Halfling Monk)
-**Asset:** **The Living Map** (A tattoo on Huro's back that updates magically).
-**Rivals:** None (they are too useful).
+### The "Why": The World as a Toy
+The conflict is not a battle for survival; it is a struggle for **Relevance**. The Titans are waking up, and they see the world as their plaything, a vast sandbox filled with interesting toys (mortals). They are not malicious, but utterly indifferent to the lives they crush underfoot. The world's existence is a cosmic accident, and the Titans are simply reclaiming their property. The party's struggle is to prove that their lives, their world, and their choices have meaning, even in the face of such overwhelming, indifferent power.
 
 ---
 
-## [TAG: NPC_TIER_1] Major NPC Roster (20 Profiles)
+## 2. FACTIONS
+[TAG: FACTION_DATA]
 
-**1. Guildmaster Valerius** (Human Fighter)
-**Personality:** Stoic, bitter, hides chronic pain. Treat players like raw recruits until they bleed.
-**Voice:** [Deep, gravelly, frequent pauses for breath, sound of teeth grinding.]
-**Goal:** Kill the Titan *Orogenes* before he dies of old age.
-**Secret:** He is secretly feeding Guild funds to the Flesh-Weavers to grow him a Titan-leg.
+### 1. The Titan-Slayers Guild
+**Type:** Elite Military / Monster Hunters
+**Leader:** Commander Valerius, a grizzled veteran with a prosthetic arm made from Titan bone.
+**Asset:** **Titan-Forged Weapons:** Specialized weapons crafted from fallen Titan scales or bone, capable of piercing their colossal hides.
+**Rivals:** The Cult of the Colossus.
 
-**2. Professor Arkwright** (Gnome Wizard)
-**Personality:** Manic, twitchy, speaks too fast. Constantly adjusting spectacles.
-**Voice:** [High-pitched, rapid-fire, breathy, stammers when excited.]
-**Goal:** Prove Titans are sentient.
-**Secret:** He has a Titan larva in a jar in his basement that he calls "Fluffy."
+### 2. The Cult of the Colossus
+**Type:** Nihilistic Worshippers / Doomsayers
+**Leader:** The Prophet of the Trembling Earth, a man who speaks only in rumbles.
+**Asset:** **Titan-Blood Rituals:** They believe sacrificing mortals to the Titans will appease them, and their rituals can temporarily calm a Titan's rage.
+**Rivals:** The Titan-Slayers Guild.
 
-**3. "Forge-Hand" Brynja** (Dwarf Cleric/Smith)
-**Personality:** Reverent, intense. Treats metal like a living thing.
-**Voice:** [Booming, Scottish lilt, whispers when talking about rare metals.]
-**Goal:** Forge a weapon that can cut the fabric of reality.
-**Secret:** She anneals her steel in the blood of unworthy apprentices (rumor? or fact?).
+### 3. The Sky-Shepherds
+**Type:** Nomadic Airship Fleet / Resource Gatherers
+**Leader:** Captain Zephyr, a woman who lost her family to a Titan's yawn.
+**Asset:** **Cloud-Harpoons:** Massive harpoons capable of tethering to a Titan's hide, allowing them to harvest resources from its body.
+**Rivals:** The Titan-Slayers Guild (who see them as desecrators).
 
-**4. Golden Gorm** (Dwarf Rogue)
-**Personality:** Flashy, arrogant, charmingly sleazy.
-**Voice:** [Oily, confident, laughs at his own jokes, heavy usage of slang.]
-**Goal:** Become the richest dwarf in history.
-**Secret:** He owes a debt to a Devil that can only be paid in Titan souls.
+### 4. The Void-Watchers
+**Type:** Mystic Order / Cosmic Scholars
+**Leader:** The Blind Seer, a woman whose eyes were burned out by gazing into a Void-Wound.
+**Asset:** **Void-Wound Divination:** They can predict where new Void-Wounds will open and what horrors will emerge.
+**Rivals:** The Titan-Slayers Guild (who dismiss their warnings).
 
-**5. Mother Tallow** (Human Warlock)
-**Personality:** Eerie, maternal, touchy-feely.
-**Voice:** [Muffled (as if behind a mask), soothing, rhythmic, hypnotic.]
-**Goal:** Cover the world in "sacred wax."
-**Secret:** She is actually a colony of sentient mites in a wax suit.
+### 5. The Earth-Shapers
+**Type:** Dwarven Engineers / Geologists
+**Leader:** Master Engineer Borin Stonehand.
+**Asset:** **Seismic Dampeners:** Devices capable of absorbing and redirecting the shockwaves from a Titan's footsteps.
+**Rivals:** The Titans themselves.
 
-**6. Unit 734-Prime** (Warforged Paladin)
-**Personality:** Cold, logical, literal.
-**Voice:** [Monotone, metallic reverb, clicks between sentences.]
-**Goal:** Synchronization with a Titan.
-**Secret:** It feels "fear" but deletes the log file immediately.
+### 6. The Dream-Weavers
+**Type:** Elven Enchanters / Psychic Protectors
+**Leader:** Lady Lyra, an elf whose dreams are a tapestry of Titan myths.
+**Asset:** **Dream-Shields:** Magical barriers that can protect cities from the reality-bending effects of a Titan's dreams.
+**Rivals:** The Void-Watchers (who believe dreams are dangerous).
 
-**7. Dr. Vane** (Elf Artificer)
-**Personality:** Clinical, detached, polite.
-**Voice:** [Soft, precise, enunciates every syllable, unsettlingly calm.]
-**Goal:** The perfect organism.
-**Secret:** His left arm is already a Titan tentacle hidden by illusion.
+### 7. The Scavenger Guild
+**Type:** Opportunistic Looters / Information Brokers
+**Leader:** "Rat" Kincaid, a nimble halfling.
+**Asset:** **Titan-Fall Maps:** Detailed maps of where Titans have fallen, indicating rich veins of rare materials.
+**Rivals:** The Titan-Slayers Guild (who often compete for salvage).
 
-**8. Wind-Eye Jala** (Human Ranger)
-**Personality:** Wild, superstitious, hates roofs.
-**Voice:** [Shouting (ears damaged by wind), harsh, direct.]
-**Goal:** Hunt the Titan that stepped on her village.
-**Secret:** She is pregnant and wants to leave the Silt-Walkers but can't find a way out.
+### 8. The Iron-Clad Legion
+**Type:** Human Military / Last Stand Defenders
+**Leader:** General Theron, a grim, determined commander.
+**Asset:** **Colossus-Cannons:** Massive siege weapons designed to fire projectiles capable of staggering a Titan.
+**Rivals:** The Cult of the Colossus (who undermine their efforts).
 
-**9. The Ladle** (Changeling Bard)
-**Personality:** Absurdist, chaotic, prone to non-sequiturs.
-**Voice:** [Changes pitch mid-sentence, mimics the listener, giggles inappropriately.]
-**Goal:** Make the Guildmaster laugh.
-**Secret:** The Ladle is actually a bored noble in disguise.
+### 9. The Whispering Woods
+**Type:** Sentient Forest / Nature's Defense
+**Leader:** The Elder Treant, a tree as old as the Titans' sleep.
+**Asset:** **Root-Tendrils:** Can ensnare and slow down even the largest Titans, though at great cost to themselves.
+**Rivals:** The Titans (who crush them underfoot).
 
-**10. "Old Salt" Hagar** (Human Barbarian)
-**Personality:** Drunk, melancholy, poetic.
-**Voice:** [Slurred, deep bass, sounds like he's gargling saltwater.]
-**Goal:** Die fighting the Leviathan.
-**Secret:** He saw the Leviathan blink, and it had a human eye.
-
-**11. Apprentice Miri** (Tiefling Rogue)
-**Personality:** Eager, clumsy, hero-worships the players.
-**Voice:** [Squeaky, fast, ends sentences with a question mark?]
-**Goal:** Touch a Titan without dying.
-**Secret:** She is stealing scraps from the forge to sell to the Black Market.
-
-**12. Quartermaster Grind** (Orc Fighter)
-**Personality:** Bored, bureaucratic, loves paperwork.
-**Voice:** [Flat, nasal, sighs constantly, sound of paper shuffling.]
-**Goal:** Keep the inventory balanced.
-**Secret:** He hoards the best healing potions for himself.
-
-**13. Seeress Kael** (Elf Sorcerer)
-**Personality:** Distant, eyes rolled back, speaks in riddles.
-**Voice:** [Whispery, dual-toned (two voices at once), echoey.]
-**Goal:** Prevent the "Great Unraveling."
-**Secret:** Her visions are actually hallucinations from Titan-dust addiction.
-
-**14. Captain Vane** (Human Paladin - No relation to Dr. Vane)
-**Personality:** By-the-book, rigid, inspiring.
-**Voice:** [Commanding, projection, "Hero Voice."]
-**Goal:** Restore honor to the Slayer's Guild.
-**Secret:** He knows Valerius is corrupt but is too cowardly to act.
-
-**15. "Needles"** (Kenku Monk)
-**Personality:** Silent, communicates through gestures and sound effects.
-**Voice:** [Sound of knives sharpening, coins clinking, bone snapping.]
-**Goal:** Perfect the "Titan-Strike" technique.
-**Secret:** He is an assassin hired by a rival kingdom to sabotage the Guild.
-
-**16. Baroness Vola** (Vampire Aristocrat)
-**Personality:** Decadent, bored, hungry.
-**Voice:** [Velvety, slow, purring, slight lisp.]
-**Goal:** Taste Titan blood.
-**Secret:** Sunlight doesn't kill her; it just makes her sparkle (a curse she hates).
-
-**17. Engineer Spark** (Gnome Artificer)
-**Personality:** Explosive, blackened by soot, optimistic.
-**Voice:** [Loud, coughing, manic laughter.]
-**Goal:** Build a bomb big enough to blow up the moon.
-**Secret:** He accidentally blew up his family.
-
-**18. The Archivist** (Construct)
-**Personality:** Ancient, dusty, glitchy.
-**Voice:** [Crackly, skipping audio, sounds like a warped record.]
-**Goal:** Preserve history.
-**Secret:** It has records of the time *before* Titans, but the files are encrypted.
-
-**19. Lyra the Lost** (Ghost)
-**Personality:** Sad, confused, tethered to a shield.
-**Voice:** [Faint, weeping, reverb.]
-**Goal:** Find her body.
-**Secret:** The shield she haunts is made from her own bones.
-
-**20. Xal the Merchant** (Tiefling Bard)
-**Personality:** Friendly, pushy, smells of sulfur.
-**Voice:** [Slick, fast-talking, salesman pitch.]
-**Goal:** Sell you "Genuine Titan Dandruff."
-**Secret:** It's just parmesan cheese.
+### 10. The Chronos-Keepers
+**Type:** Gnomish Time-Mages / Temporal Engineers
+**Leader:** Professor Tick-Tock, a gnome whose pocket watch is a temporal anomaly.
+**Asset:** **Temporal Stasis Fields:** Small, localized fields that can temporarily freeze a Titan's limb in time, creating a window for attack.
+**Rivals:** The Titans (whose movements disrupt their delicate calculations).
 
 ---
 
-## [TAG: NPC_TIER_2] Minor NPC Table (High Density RAG)
+## 3. NPC ROSTER
+[TAG: NPC_TIER_1]
+
+### Major NPCs (20 Profiles)
+
+1.  **Commander Valerius** (Human Fighter) - A grizzled, one-armed veteran of countless Titan encounters. **Voice:** Deep, raspy, speaks in clipped, military commands. **Goal:** To protect humanity, even if it means sacrificing everything. **Secret:** His prosthetic arm is slowly turning him to stone.
+2.  **The Prophet of the Trembling Earth** (Human Cultist) - A gaunt, wild-eyed man whose body is covered in cracks like dry earth. **Voice:** A low, guttural rumble, punctuated by sudden, violent tremors. **Goal:** To become one with the Titans. **Secret:** He is slowly being absorbed by the Titan Kronos.
+3.  **Captain Zephyr** (Human Airship Captain) - A fierce, independent woman who lost her family to a Titan's yawn. **Voice:** Clear, strong, carries over the roar of the wind. **Goal:** To harvest enough Titan-flesh to build a new, safe world. **Secret:** She believes the Titans are not indifferent, but actively malicious.
+4.  **The Blind Seer** (Human Oracle) - An ancient woman whose eyes are empty sockets, but who sees the future in the Void-Wounds. **Voice:** A soft, ethereal whisper, full of cosmic dread. **Goal:** To warn humanity of the true, greater horror beyond the Titans. **Secret:** She is slowly turning into a Void-Wound herself.
+5.  **Master Engineer Borin Stonehand** (Dwarf Artificer) - A gruff, brilliant dwarf who believes technology can solve any problem. **Voice:** A booming, metallic voice, like hammers on an anvil. **Goal:** To build a machine that can put the Titans back to sleep. **Secret:** He is secretly building a weapon that can kill a Titan.
+6.  **Lady Lyra** (Elf Dream-Weaver) - An ethereal elf whose dreams are a conduit to the Titans' slumbering minds. **Voice:** Soft, melodic, like a distant lullaby. **Goal:** To understand the Titans' dreams, hoping to find a way to control them. **Secret:** She is slowly losing herself in the Titans' dreams.
+7.  **"Rat" Kincaid** (Halfling Rogue) - A nimble, opportunistic scavenger who knows every crack and crevice in the Crater-Lands. **Voice:** Squeaky, fast, constantly looking over his shoulder. **Goal:** To find the ultimate treasure: a Titan's lost tooth. **Secret:** He has a map to a hidden Titan-fall site.
+8.  **General Theron** (Human Commander) - A grim, determined military leader. **Voice:** A sharp, commanding bark. **Goal:** To hold the line, no matter the cost. **Secret:** He is secretly negotiating with the Cult of the Colossus for a temporary truce.
+9.  **The Elder Treant** (Sentient Tree) - An ancient, wise tree that has witnessed the Titans' sleep and awakening. **Voice:** A deep, rumbling groan, like shifting earth. **Goal:** To protect the last remnants of nature. **Secret:** It knows a secret weakness of Kronos the Restless.
+10. **Professor Tick-Tock** (Gnome Chronomancer) - A frantic, brilliant gnome whose mind is always racing. **Voice:** Fast, high-pitched, punctuated by the ticking of his many watches. **Goal:** To find a way to rewind time before the Titans woke up. **Secret:** He accidentally caused Kronos to awaken.
+11. **Kronos the Restless** (Minor Titan) - A colossal, indifferent being whose movements reshape the landscape. **Voice:** A deep, resonant hum that vibrates through the earth. **Goal:** To stretch and wake up. **Secret:** It is lonely and seeks a playmate.
+12. **The Void-Spawn** (Aberration) - A monstrous entity that leaked from a Void-Wound. **Voice:** A cacophony of whispers and screams that drive mortals mad. **Goal:** To consume all form and order. **Secret:** It is drawn to strong emotions, especially fear.
+13. **Sergeant "Ironhide"** (Human Soldier) - A tough, loyal soldier under General Theron. **Voice:** Gruff, no-nonsense. **Goal:** To follow orders and survive. **Secret:** He has a family he's fighting for, hidden in a bunker.
+14. **Anya, the Sky-Harvester** (Human Engineer) - A young, idealistic engineer on Captain Zephyr's crew. **Voice:** Enthusiastic, slightly naive. **Goal:** To build a better future for humanity. **Secret:** She believes the Titans can be reasoned with.
+15. **Brother Silas** (Human Monk) - A quiet, contemplative monk from the Monks of the Unbroken Thread. **Voice:** Soft, measured, speaks in parables. **Goal:** To find inner peace amidst the chaos. **Secret:** He has a direct psychic link to the Cosmic Flesh.
+16. **The Titan-Touched** (Human Mutant) - A human who has been physically altered by prolonged exposure to a Titan's presence. **Voice:** Distorted, echoing, sometimes speaks in a language no one understands. **Goal:** To find others like them. **Secret:** They are slowly gaining minor Titan abilities.
+17. **The Oracle of the Crater-Lands** (Human Seer) - A hermit living in a massive crater, who sees visions in the shifting sands. **Voice:** Dry, crackling, like shifting sand. **Goal:** To interpret the Titans' dreams. **Secret:** Her visions are often misleading.
+18. **The Golem-Pilot** (Dwarf Artificer) - A dwarf who pilots a massive, steam-powered golem designed to fight Titans. **Voice:** Muffled, metallic, from inside the golem. **Goal:** To avenge his fallen clan. **Secret:** The golem is powered by his own life force.
+19. **The Whispering Wind** (Air Elemental) - A sentient air elemental that carries messages and secrets across the vast distances. **Voice:** A soft, ethereal whisper, like wind through chimes. **Goal:** To observe and report. **Secret:** It is a spy for the Elder Treant.
+20. **The Cosmic Cartographer** (Gnome Scholar) - A gnome obsessed with mapping the Void-Wounds. **Voice:** Fast, excited, prone to tangents about non-Euclidean geometry. **Goal:** To find the "edge" of the universe. **Secret:** He believes the universe is a single, infinitely large map.
+
+[TAG: NPC_TIER_2]
+### Minor NPCs (Table of 50)
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| **Born** | Stablehand | Guildhall | Eats hay when nervous. |
-| **Glim** | Torchbearer | Dungeons | Afraid of the dark. |
-| **Hess** | Baker | Town Square | Kneads dough with feet. |
-| **Jinx** | Beggar | Alleyway | Claims to be a polymorphed dragon. |
-| **Kro** | Guard | Gate | Only speaks in haiku. |
-| **Lura** | Barmaid | Tavern | Has a glass eye that glows. |
-| **Morn** | Smith | Forge | Allergic to iron (wears gloves). |
-| **Nix** | Thief | Sewers | Collects left shoes only. |
-| **Olo** | Scholar | Library | Reads books by licking the pages. |
-| **Pim** | Alchemist | Lab | Skin turns blue when lying. |
-| **Quin** | Jester | Court | Jokes are actually prophecies. |
-| **Rix** | Sailor | Docks | Has a hook for a foot, not a hand. |
-| **Sill** | Farmer | Fields | Grows square pumpkins. |
-| **Tora** | Hunter | Woods | Hunts with a giant spoon. |
-| **Uli** | Monk | Temple | Vow of silence, communicates by tap dancing. |
-| **Vex** | Scribe | Guild | Writes with own blood (saves ink). |
-| **Wym** | Child | Street | Levitates when asleep. |
-| **Xan** | Hermit | Cave | Wears a beehive as a hat. |
-| **Yor** | Gravekeeper | Cemetery | Plays chess with ghosts. |
-| **Zel** | Merchant | Market | Sells invisible pets. |
-| **Aba** | Cook | Kitchen | Spices food with gunpowder. |
-| **Bix** | Fletcher | Shop | Feathers arrows with pigeon wings. |
-| **Cyl** | Cobbler | Street | Shoes always squeak "help." |
-| **Dorn** | Miner | Pit | Eyes are solid gold (blind). |
-| **Efi** | Tailor | Shop | Uses spider silk from giant spiders. |
-| **Fim** | Brewer | Tavern | Beer tastes like sadness. |
-| **Gyl** | Mason | Wall | Carves secret messages in bricks. |
-| **Hix** | Fisher | Pier | Catch is always pre-cooked. |
-| **Ilo** | Bard | Inn | Lute is made of a skull. |
-| **Jal** | Druid | Grove | Turns into a potted plant. |
-| **Kex** | Soldier | Barracks | Sleeps standing up. |
-| **Lym** | Nurse | Infirmary | Bandages are actually long tongues. |
-| **Mox** | Gambler | Den | Dice are human teeth. |
-| **Nil** | Cartographer | Guild | Maps show the future. |
-| **Opa** | Jeweler | Shop | Gems scream when cut. |
-| **Pex** | Tanner | Tannery | Tans human skin (secretly). |
-| **Qil** | Glassblower | Shop | Breath is visible inside the glass. |
-| **Rym** | Locksmith | Alley | Opens locks by asking politely. |
-| **Sox** | Weaver | Loom | Weaves destiny, accidentally. |
-| **Tix** | Falconer | Roof | Bird is a clockwork drone. |
-| **Umo** | Potions | Stall | Potions are carbonated. |
-| **Vyl** | Scavenger | Ruins | Wears a necklace of ears. |
-| **Wex** | Ratcatcher | Sewer | Is actually 1000 rats in a coat. |
-| **Xyl** | Astrologer | Tower | Telescope points at the ground. |
-| **Yim** | Barber | Shop | Uses a sword to shave. |
-| **Zax** | Executioner | Square | Cries during beheadings. |
-| **Kora** | Florist | Market | Flowers bite people. |
-| **Lom** | Candlemaker | Shop | Candles smell like wet dog. |
-| **Mif** | Butcher | Shop | Meat regenerates on the hook. |
-| **Nop** | Banker | Vault | Is a dragon in human form. |
+| **Grit** | Scavenger | Crater-Lands | Collects only left boots from fallen Titans. |
+| **Sparky** | Engineer | Iron-Clad Legion | His hair stands on end when a Titan is near. |
+| **Misty** | Sky-Shepherd | Airship | Believes clouds are sentient and talks to them. |
+| **Rumble** | Earth-Shaper | Underground Bunker | Can tell a Titan's mood by the vibrations in the earth. |
+| **Pip** | Dream-Weaver Acolyte | Dream-Weaver Enclave | Falls asleep mid-sentence. |
+| **Dusty** | Cultist | Cult of the Colossus | Eats dust from Titan footprints for spiritual nourishment. |
+| **Clank** | Golem Guard | Iron-Clad Legion | Its internal clock is always 5 minutes fast. |
+| **Whisper** | Void-Watcher | Whispering Peaks | Only speaks in palindromes. |
+| **Bolt** | Sky-Shepherd | Airship | Has a pet lightning elemental. |
+| **Stoneskin** | Dwarf Miner | Earth-Shaper Outpost | His skin is slowly turning to granite. |
+| **Lyra** | Bard | Iron-Clad Legion | Sings songs that are so sad they make Titans weep (briefly). |
+| **Snarl** | Titan-Slayer Recruit | Training Camp | His war cry sounds like a kitten's meow. |
+| **Tick** | Chronos-Keeper | Temporal Lab | Has a pocket watch that runs backward. |
+| **Tock** | Chronos-Keeper | Temporal Lab | Has a pocket watch that runs forward. |
+| **Glimmer** | Scavenger | Titan-Fall Site | Collects only shiny objects, even if they're radioactive. |
+| **Boomer** | Iron-Clad Legion | Artillery Post | His hearing is permanently damaged from firing Colossus-Cannons. |
+| **Root** | Elder Treant Sapling | Whispering Woods | A small tree that constantly asks "Why?" |
+| **Zephyr's Shadow** | Airship Crew | Airship | A crew member who is terrified of heights. |
+| **The Trembler** | Cultist | Cult of the Colossus | Constantly shakes, even when standing still. |
+| **The Dream-Eater** | Void-Spawn Minion | Void-Wound | A small, shadowy creature that feeds on nightmares. |
+| **The Pebble-Collector** | Child | Crater-Lands | Collects pebbles that are actually Titan teeth. |
+| **The Sky-Fisher** | Sky-Shepherd | Airship | Fishes for clouds. |
+| **The Stone-Whisperer** | Dwarf Scout | Earth-Shaper Outpost | Can hear the thoughts of rocks. |
+| **The Sleep-Walker** | Dream-Weaver | Dream-Weaver Enclave | Walks in their sleep, solving complex problems. |
+| **The Dust-Devil** | Scavenger | Crater-Lands | A small, fast-moving scavenger who rides dust devils. |
+| **The Iron-Heart** | General Theron's Aide | Iron-Clad Legion | A soldier whose heart is made of clockwork. |
+| **The Whispering Willow** | Elder Treant Sapling | Whispering Woods | A tree that only whispers secrets. |
+| **The Time-Lost** | Chronos-Keeper | Temporal Lab | A gnome who is stuck in a 10-second time loop. |
+| **The Titan-Scale Merchant** | Scavenger | Market | Sells fake Titan scales to gullible adventurers. |
+| **The Colossus-Cannon Loader**| Iron-Clad Legion | Artillery Post | A strongman who can lift a cannonball the size of a car. |
+| **The Root-Runner** | Elder Treant Sapling | Whispering Woods | A small tree that can run surprisingly fast. |
+| **The Void-Gazer** | Void-Watcher | Whispering Peaks | A void-watcher who has replaced their eyes with polished obsidian. |
+| **The Cloud-Fisher** | Sky-Shepherd | Airship | Uses a net to catch clouds for water. |
+| **The Seismic Dancer** | Earth-Shaper | Underground Bunker | Dances to predict earthquakes. |
+| **The Dream-Catcher** | Dream-Weaver | Dream-Weaver Enclave | Weaves dreams into physical objects. |
+| **The Tremor-Speaker** | Cultist | Cult of the Colossus | Can communicate with the Titans through rhythmic chanting. |
+| **The Titan-Bone Carver** | Scavenger | Titan-Fall Site | Carves intricate sculptures from Titan bones. |
+| **The Iron-Clad Cook** | Iron-Clad Legion | Mess Hall | Cooks meals that are surprisingly delicious, despite the rations. |
+| **The Whispering Moss** | Elder Treant Sapling | Whispering Woods | A patch of moss that can repeat conversations it has heard. |
+| **The Time-Winder** | Chronos-Keeper | Temporal Lab | A gnome who can briefly reverse the flow of time for small objects. |
+| **The Sky-Sailor** | Sky-Shepherd | Airship | A sailor who can navigate by the stars, even when they're moving. |
+| **The Stone-Breaker** | Dwarf Miner | Earth-Shaper Outpost | Can break any rock with his bare hands. |
+| **The Dream-Singer** | Dream-Weaver | Dream-Weaver Enclave | Sings lullabies that can put even Titans to sleep. |
+| **The Dust-Collector** | Cultist | Cult of the Colossus | Collects dust from Titan footprints, believing it to be holy. |
+| **The Void-Whisperer** | Void-Watcher | Whispering Peaks | Can hear the whispers of the Void-Wounds and translate them. |
+| **The Titan-Scale Polisher**| Scavenger | Titan-Fall Site | Polishes fallen Titan scales until they gleam. |
+| **The Iron-Clad Bard** | Iron-Clad Legion | Barracks | Sings epic ballads of humanity's struggle against the Titans. |
+| **The Whispering Root** | Elder Treant Sapling | Whispering Woods | A root that can communicate telepathically. |
+| **The Time-Stopper** | Chronos-Keeper | Temporal Lab | A gnome who can briefly stop time for himself. |
+| **The Sky-Diver** | Sky-Shepherd | Airship | A daredevil who jumps from airships and lands on Titans. |
 
 ---
 
-## [TAG: LOCATIONS_MAIN] Location Blueprints
+## 4. LOCATIONS
+[TAG: LOCATIONS_MAIN]
 
-### Zone 1: The Slayer's Guildhall (The Bone Fortress)
-**Description:** A massive fortress carved from the calcified ribcage of *Ignis*, the Fire Titan.
-**Sensory:**
-*   *Smell:* Sulfur, old marrow, roasting meat.
-*   *Sound:* The constant low-frequency hum of the bone vibrating in the wind.
-*   *Sight:* Walls that look like ivory, stained with soot.
-**Locations:**
-1.  **The Marrow-Hall:** Main gathering hub. The floor is spongy.
-2.  **Valerius’s Perch:** The highest rib, overlooking the courtyard.
-3.  **The Whispering Archives:** Library housed in the skull. Acoustics make whispers audible everywhere.
-4.  **The Slag-Pit:** Where apprentice smiths dump failed weapons.
-5.  **The Grip:** A tavern built inside the Titan's left hand.
+### Zone 1: The Last City (Aegis)
+*   **Concept:** A sprawling, fortified metropolis built into the side of a massive mountain, constantly under the threat of Titan attack.
+*   **Loc 1: The Citadel:** The highest point of Aegis, housing the Iron-Clad Legion's command center and the Titan-Slayers Guild. **Smell:** Ozone, gunpowder, and fear. **Sound:** The distant rumble of Titans, the clang of steel, and the shouts of drill sergeants.
+*   **Loc 2: The Sky-Docks:** Massive platforms carved into the mountain, where the Sky-Shepherds' airships dock. **Smell:** Diesel, canvas, and high-altitude wind. **Sound:** The creak of ropes and the flapping of sails.
+*   **Loc 3: The Earth-Shaper's Foundry:** A vast underground complex where dwarven engineers forge weapons and build seismic dampeners. **Smell:** Hot metal, coal smoke, and dwarf sweat. **Sound:** The rhythmic clang of hammers and the roar of furnaces.
+*   **Loc 4: The Dream-Weaver's Enclave:** A serene, hidden garden within the mountain, where elves commune with the Titans' dreams. **Smell:** Lavender, strange herbs, and a faint, sweet scent of slumber. **Sound:** Soft, melodic humming and the rustle of leaves.
+*   **Loc 5: The Void-Watcher's Spire:** A lonely tower on the highest peak, where the Blind Seer gazes into the Void-Wounds. **Smell:** Cold stone and the faint, metallic tang of cosmic horror. **Sound:** The whisper of the wind and the occasional, unsettling psychic shriek.
 
-### Zone 2: The Petramach’s Path (The Scar)
-**Description:** A 50-mile wide swathe of flattened earth where the Earth Titan dragged its belly.
-**Sensory:**
-*   *Smell:* Ozone, crushed pine, petrichor.
-*   *Sound:* Distant rumbling, like thunder underground.
-*   *Sight:* Trees pressed flat like pressed flowers.
-**Locations:**
-1.  **The Glass Forest:** Sand turned to glass by friction heat.
-2.  **The Toppled Tower:** A wizard's tower, now horizontal but intact.
-3.  **The Geode Caves:** Exposed veins of crystal.
-4.  **Dust-Town:** A shantytown of scavengers following the Titan.
-5.  **The Footprint Lakes:** Massive depressions filled with rainwater.
+### Zone 2: The Crater-Lands
+*   **Concept:** A vast, desolate expanse of shattered earth, pockmarked by ancient Titan impacts, now home to scavengers and monstrous births.
+*   **Loc 1: The Titan-Fall Site:** A massive crater where a Titan fell millennia ago, its fossilized bones now forming a landscape of hills and valleys. **Smell:** Dry dust and ancient decay. **Sound:** The whistling of the wind through colossal bone structures.
+*   **Loc 2: The Whispering Peaks:** A mountain range riddled with Void-Wounds, from which strange entities leak into the world. **Smell:** Ozone and the metallic tang of cosmic horror. **Sound:** A constant, low, maddening whisper.
+*   **Loc 3: The Scavenger's Den:** A ramshackle settlement built into the ribcage of a fallen Titan, home to "Rat" Kincaid and his guild. **Smell:** Rust, stale food, and desperation. **Sound:** The clatter of scavenged metal and the nervous chatter of its inhabitants.
+*   **Loc 4: The Sunken City of Glass:** A city that was instantly vitrified by a Titan's breath, now a shimmering, deadly ruin.
+*   **Loc 5: The Chronos-Keeper's Lab:** A hidden, temporal anomaly where Professor Tick-Tock conducts his experiments. **Smell:** Burnt ozone and old parchment. **Sound:** The frantic ticking of a thousand clocks.
 
-### Zone 3: The Sky-Spire (Fulminox’s Roost)
-**Description:** A needle-thin mountain peak surrounded by a perpetual electrical storm.
-**Sensory:**
-*   *Smell:* Ionized air, burnt hair.
-*   *Sound:* Constant crackle of static, deafening thunder.
-*   *Sight:* Lightning arcing upward from the ground.
-**Locations:**
-1.  **The Static Bridge:** A hair-raising narrow path.
-2.  **The Thunder-Egg Nest:** Where Fulminox lays its explosive eggs.
-3.  **The Fulgurite Gardens:** Frozen lightning sculptures.
-4.  **The Cloud-Keep:** A floating ruin held up by magnetism.
-5.  **The Eye of the Storm:** A zone of absolute, terrifying silence.
+### Zone 3: The Titan's Shadow
+*   **Concept:** The immediate vicinity of Kronos the Restless, a landscape constantly reshaped by its movements and dreams.
+*   **Loc 1: The Trembling Plains:** The ground constantly shakes and shifts under the Titan's footsteps. **Sound:** A deep, resonant rumble that vibrates through your bones.
+*   **Loc 2: The Dream-Fog:** A localized, reality-bending fog that emanates from the Titan's dreams, causing hallucinations and temporal distortions. **Smell:** Sweet, cloying, like old memories.
+*   **Loc 3: The Colossus's Hand:** A massive, five-fingered mountain range that is actually the Titan's hand, resting on the earth.
+*   **Loc 4: The Void-Wound Lake:** A lake of black, still water that reflects not the sky, but the swirling chaos of the Void.
+*   **Loc 5: The Prophet's Pulpit:** A massive, floating rock where the Prophet of the Trembling Earth preaches to his cultists.
 
-### Zone 4: The Abyssal Trench (Leviathan’s Bed)
-**Description:** The deepest part of the ocean, where light dies.
-**Sensory:**
-*   *Smell:* Brine, rotting kelp.
-*   *Sound:* The crushing weight of water (creaking metal).
-*   *Sight:* Bioluminescent lures in the pitch black.
-**Locations:**
-1.  **The Coral Cathedral:** Grown from giant bones.
-2.  **The Vent-City:** Civilizations clustered around thermal vents.
-3.  **The Maw:** A cavern that looks like a mouth (it is).
-4.  **The Sunken Fleet:** Thousands of ships crushed together.
-5.  **The Pressure Dome:** An ancient air-filled outpost.
-
-### Zone 5: The Rusting Graveyard
-**Description:** A valley where old Titans go to die.
-**Sensory:**
-*   *Smell:* Rust, decay, oil.
-*   *Sound:* Metal groaning, wind whistling through holes.
-*   *Sight:* Mountains of corroded metal and bone.
-**Locations:**
-1.  **The Oil-River:** Black sludge flowing like water.
-2.  **The Scavenger's Paradise:** A fortress made of scrap.
-3.  **The Ghost-Engine:** A Titan heart that still beats.
-4.  **The Acid Pools:** Leaking digestive fluids.
-5.  **The Forgotten Shrine:** A temple to the entropy of machines.
+### Zone 4: The Sky-Ocean
+*   **Concept:** The vast, open skies above the world, where airships sail and Sky-Shepherds harvest resources from the Titans.
+*   **Loc 1: The Cloud-Harbor:** A massive, floating platform where airships dock and trade. **Smell:** Clean air, canvas, and the faint scent of ozone. **Sound:** The creak of ropes and the distant cries of Sky-Whales.
+*   **Loc 2: The Titan's Back:** The colossal, moving landscape of Kronos's back, covered in strange flora and fauna. **Smell:** Ancient stone and something indescribably vast. **Sound:** The slow, rhythmic creak of its colossal hide.
+*   **Loc 3: The Void-Storms:** Massive, reality-bending storms that rage around the Void-Wounds in the upper atmosphere.
+*   **Loc 4: The Sky-Whale Graveyard:** A region of space where the fossilized remains of ancient Sky-Whales drift.
+*   **Loc 5: The Sun-Forge:** A floating forge where Titan-Slayers craft their weapons from harvested Titan materials.
 
 ---
 
-## [TAG: QUEST_MAIN] Main Quest Architecture (Linear)
+## 5. QUEST ARCHITECTURE
+[TAG: QUEST_MAIN]
 
-1.  **The Awakening:** Player survives a minor Titan tremor. Join the Guild.
-2.  **The First Hunt:** Kill a "Titan-Tick" (Size: Elephant) to prove worth.
-3.  **The Research:** Locate the Petramach's path. Study its dung.
-4.  **The Sabotage:** Stop the Gilded Vultures from waking the Titan early.
-5.  **The Ambush:** Set trap in the Canyon of Echoes.
-6.  **The Climb:** Board the moving Petramach (Shadow of the Colossus style).
-7.  **The Heart-Strike:** Destroy the Petramach's crystal heart.
-8.  **The Feast:** Celebration. Discovery of the Fulminox threat.
-9.  **The Ascent:** Climb the Sky-Spire. Weather mechanics introduced.
-10. **The Sky-Battle:** Aerial combat using gliders/griffins against Fulminox.
-11. **The Fall:** Fulminox crashes into the ocean, waking the Leviathan.
-12. **The Descent:** Submarine mission to the Trench.
-13. **The Betrayal:** Valerius tries to use Leviathan to kill *Orogenes*.
-14. **The Choice:** Side with Valerius (Genocide) or Arkwright (Balance).
-15. **The Final Boss:** Fight the Leviathan (and potentially Valerius).
-16. **The Aftermath:** A new world order established.
+### Main Quest: The Titan's Lullaby
+1.  **The Awakening:** Kronos the Restless awakens, its shadow falling over Aegis. The party is caught in the initial chaos.
+2.  **The First Strike:** Commander Valerius tasks the party with a reconnaissance mission to gather data on Kronos's movements.
+3.  **The Void-Wound:** The Blind Seer warns of a new Void-Wound opening near Kronos, threatening to unleash greater horrors.
+4.  **The Earth-Shaper's Plea:** Master Engineer Borin needs rare materials from the Crater-Lands to build a seismic dampener.
+5.  **The Dream-Heist:** Lady Lyra needs the party to enter Kronos's dreams to find a weakness, but the dreams are dangerous.
+6.  **The Sky-Shepherd's Aid:** Captain Zephyr offers to transport the party to Kronos's back for a price.
+7.  **The Harvest:** The party must harvest a specific Titan-scale from Kronos's hide, avoiding its colossal movements.
+8.  **The Cult's Interference:** The Cult of the Colossus attempts to sabotage the party's efforts, believing it will appease Kronos.
+9.  **The Chronos-Keeper's Folly:** Professor Tick-Tock's temporal experiments go awry, creating a localized time loop the party must fix.
+10. **The Void-Spawn's Attack:** A Void-Spawn leaks from the new Void-Wound, attacking Aegis.
+11. **The Titan-Slayer's Gambit:** Commander Valerius plans a daring assault on Kronos, using the seismic dampener and Colossus-Cannons.
+12. **The Dream-Shield:** Lady Lyra creates a massive Dream-Shield to protect Aegis from Kronos's reality-bending dreams.
+13. **The Lullaby:** The party must deliver a powerful Dream-Weaver artifact to Kronos's "heart" (a specific Void-Wound on its chest) to put it back to sleep.
+14. **The Prophet's Sacrifice:** The Prophet of the Trembling Earth attempts to merge with Kronos, becoming a conduit for its rage.
+15. **The Final Stand:** The party confronts the Prophet and the Void-Spawn at Kronos's heart, fighting to put the Titan back to sleep.
 
----
-
-## [TAG: QUEST_SIDE] Side Quest Database (30 Items)
+[TAG: QUEST_SIDE]
+### Side Quests (Table of 30)
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| **The Left Shoe** | Nix (Thief) | Steal the Duke's left shoe. | Key to the sewers. |
-| **Spoon-Fed** | The Ladle | Replace the Guildmaster's sword with a giant spoon. | Ring of Tasha's Laughter. |
-| **Wax-On** | Mother Tallow | Collect 10 lbs of Titan ear-wax. | Pheromone Cloak. |
-| **Egg-Hunt** | Arkwright | Steal an unhatched Titan egg. | Spell Scroll: Earthquake. |
-| **Lost Lute** | Xal | Retrieve a lute from a Bulette's stomach. | Discount on "Titan Dandruff". |
-| **Ghost Story** | Lyra | Find Lyra's finger bone in the slag pit. | Ghost Touch Weapon Oil. |
-| **Rat King** | Wex | Kill the albino rat in the pantry. | Pipe of the Sewers. |
-| **Cold Case** | Valerius | Find the tag of a Slayer lost 10 years ago. | Vintage Potion of Haste. |
-| **Map Check** | Huro | Verify if the map tattoo on his back is accurate. | Boots of Striding. |
-| **Love Letter** | Jinx | Deliver a letter to a harpy. | Feather Fall Token. |
-| **Beer Run** | Fim | Collect water from a Titan's footprint for brewing. | Dwarven Thrower (Replica). |
-| **Clockwork Heart** | Unit 734 | Find a gear from a dead Warforged. | Armblade. |
-| **Silent Bell** | The Silent One | Ring the bell at the top of the Spire. | Silence Spell Stone. |
-| **Golden Fleece** | Gorm | Steal the golden wool of a Thunder-Sheep. | Gold-plated Armor (AC+1). |
-| **Tooth Fairy** | Miri | Collect a tooth from a Titan-Tick. | Dagger of Venom. |
-| **Ink Well** | Vex | Fill a jar with Kraken ink. | Tattoo of Warding. |
-| **Flower Power** | Kora | Plant a rose in a Titan's nostril. | Druidic Focus. |
-| **Meat Shield** | Mif | Escort a meat wagon through the badlands. | 50 lbs of Jerky. |
-| **Echo Location** | Bat-Man | Map the acoustic caves. | Blindsight Helm (10ft). |
-| **Rust Bucket** | Spark | Retrieve a piston from the Rust Graveyard. | Grenade Launcher. |
-| **Eye Spy** | Lura | Find her missing glass eye. | Potion of Invisibility. |
-| **Square Meal** | Sill | Harvest a square pumpkin. | Seed of Growth. |
-| **Fishy Business** | Hix | Catch a fish with three eyes. | Trident of Fish Command. |
-| **Grave Robber** | Yor | Stop the necromancer in the crypt. | Shovel of Digging. |
-| **Sky High** | Tix | Fly a kite in the lightning storm. | Lightning Resistance Ring. |
-| **Hot Potato** | Born | Carry a burning coal to the forge by hand. | Fire Resistance Potion. |
-| **Book Worm** | Olo | Find the book that screams. | Lore Bard Skill Book. |
-| **Dice Roll** | Mox | Win a game of dice against a devil. | Lucky Feat (Temp). |
-| **Skin Deep** | Pex | Bring a hide of a displacer beast. | Cloak of Displacement. |
-| **Final Rest** | Old Salt | Throw his ashes into the sea (when he dies). | Map to buried treasure. |
+| **The Lost Tooth** | "Rat" Kincaid | Retrieve a specific Titan tooth from a dangerous Titan-Fall Site. | A map to a hidden Titan-fall site. |
+| **The Sky-Whale's Song** | Sky-Shepherd | Record the song of a Sky-Whale for a dying crewmate. | A charm that grants water breathing. |
+| **The Elder Treant's Sapling** | Elder Treant | Rescue a young Treant sapling from being crushed by a Titan's foot. | A seed that grows into a temporary shelter. |
+| **The Chronos-Keeper's Watch** | Professor Tick-Tock | Retrieve a runaway pocket watch that is causing localized time distortions. | A device that can slow time for 1 round. |
+| **The Cultist's Conversion** | General Theron | Infiltrate the Cult of the Colossus and rescue a captured soldier. | Information on the Cult's plans. |
+| **The Void-Watcher's Vision** | Blind Seer | Interpret a cryptic vision of a future Void-Wound. | A temporary resistance to psychic damage. |
+| **The Earth-Shaper's Drill** | Master Engineer Borin | Retrieve a lost drill bit from a dangerous underground cavern. | A powerful seismic grenade. |
+| **The Dream-Weaver's Nightmare**| Lady Lyra | Enter the dream of a Dream-Weaver who is trapped in a Titan's nightmare. | A dream-catcher that wards off bad dreams. |
+| **The Scavenger's Map** | "Rat" Kincaid | Find a map to a pre-Titanomachy ruin. | A valuable piece of Old World tech. |
+| **The Iron-Clad Cook's Ration** | Iron-Clad Cook | Find a rare ingredient from the Crater-Lands to improve morale. | A meal that grants temporary hit points. |
+| **The Whispering Woods' Plea** | Elder Treant | Clear a section of the woods from Void-Spawn corruption. | A blessing of nature (Adv. on survival checks). |
+| **The Time-Lost Artifact** | Professor Tick-Tock | Retrieve an artifact that was lost in a temporal anomaly. | A device that can reverse small events. |
+| **The Titan-Scale Armor** | Commander Valerius | Harvest enough Titan scales to forge a new suit of armor. | A suit of Titan-Scale armor. |
+| **The Prophet's Prophecy** | Prophet of the Trembling Earth | Deliver a message to a Titan (without being crushed). | A temporary immunity to fear. |
+| **The Sky-Shepherd's Lost Flock**| Captain Zephyr | Round up a flock of Sky-Whales that have drifted too close to a Void-Wound. | A ride on a Sky-Whale. |
+| **The Void-Watcher's Warning** | Blind Seer | Plant a warning beacon near a newly opened Void-Wound. | A charm that protects against madness. |
+| **The Earth-Shaper's Blueprint** | Master Engineer Borin | Retrieve a lost blueprint from a collapsed dwarven mine. | A new blueprint for a powerful weapon. |
+| **The Dream-Weaver's Lullaby** | Lady Lyra | Sing a lullaby to a Titan-Touched child to calm its nightmares. | A permanent resistance to psychic attacks. |
+| **The Scavenger's Cache** | "Rat" Kincaid | Find a hidden cache of pre-Titanomachy supplies. | A valuable collection of Old World goods. |
+| **The Iron-Clad Bard's Muse** | Iron-Clad Bard | Find a new source of inspiration for his epic ballads. | A song that can inspire courage. |
+| **The Whispering Root's Secret**| Elder Treant | Find out what a whispering root is trying to tell you. | A secret passage through the woods. |
+| **The Time-Stopper's Dilemma** | Professor Tick-Tock | A gnome has accidentally stopped time for himself; fix it. | A device that can stop time for 1 second. |
+| **The Sky-Sailor's Race** | Sky-Shepherd | Win a race against another airship through a dangerous canyon. | A faster airship. |
+| **The Stone-Breaker's Challenge**| Dwarf Miner | Break a seemingly unbreakable rock with your bare hands. | A pickaxe that can break any stone. |
+| **The Dream-Singer's Song** | Dream-Weaver | Sing a song that can put a Titan to sleep (temporarily). | A song that can charm beasts. |
+| **The Dust-Collector's Offering**| Cultist | Collect a rare dust from a Titan's footprint. | A temporary blessing from the Titan. |
+| **The Void-Whisperer's Translation**| Void-Watcher | Translate the whispers of a Void-Wound. | A clue about the Void-Spawn. |
+| **The Titan-Scale Polisher's Art**| Scavenger | Polish a fallen Titan scale until it gleams. | A piece of Titan-Scale jewelry. |
+| **The Iron-Clad Bard's Epic** | Iron-Clad Bard | Help him complete his epic ballad of humanity's struggle. | A permanent boost to morale for the Legion. |
+| **The Sky-Diver's Leap** | Sky-Shepherd | Perform a daring leap from an airship onto a Titan. | A reputation for bravery. |
 
 ---
 
-## [TAG: ITEM_LEGENDARY] Legendary Artifacts
+## 6. ITEM DATABASE
+[TAG: ITEM_LEGENDARY]
 
-1.  **The Earth-Breaker (Maul):** Crafted from Petramach’s shinbone.
-    *   *Mechanic:* On a crit, creates a localized earthquake (DC 15 Dex save or prone). Deals double damage to structures.
-2.  **Fulminox’s Talon (Spear):** Crafted from the beak of the Sky-Tyrant.
-    *   *Mechanic:* Can be thrown and recalled as a bonus action. Deals 2d6 Lightning damage. Teleports wielder to the spear on command.
-3.  **The Abyssal Ward (Shield):** Crafted from Leviathan scale.
-    *   *Mechanic:* Absorbs up to 50 damage/day. Can release absorbed damage as a tidal wave cone.
-4.  **The Chrono-Lens (Amulet):** Eye of a Time-Titan.
-    *   *Mechanic:* Allows the user to redo one action per long rest (reroll).
-5.  **The Scream-Eater (Cloak):** Skin of a Banshee-Titan.
-    *   *Mechanic:* Grants immunity to Thunder damage. Wearer can cast *Silence* at will.
+### Artifacts of the Colossus
+1.  **The Heart of the Cosmic Flesh:** A pulsating, organic artifact that, when held, allows the user to feel the pain and joy of all living things on the planet. It can heal any wound, but at the cost of experiencing the suffering of the world.
+2.  **The Titan-Slayer's Blade (God-Splitter):** A colossal sword forged from the scale of a fallen Elder Titan. It can cleave through mountains and has a +5 bonus against creatures of Huge or larger size.
+3.  **The Dream-Weaver's Loom:** A portable loom that can weave the dreams of mortals into tangible objects or illusions. It can also be used to enter and manipulate the dreams of others, even Titans.
+4.  **The Chronos-Anchor:** A small, intricate device that can create a localized temporal stasis field, freezing a 10-foot radius for 1d4 rounds. It has 3 charges per day.
+5.  **The Void-Wound Compass:** A compass that doesn't point north; it points to the nearest Void-Wound. It also glows brighter the closer it gets to a Void-Spawn.
 
----
-
-## [TAG: ITEM_LOOT] Unique Loot (Low Probability)
-
-1.  **Screaming Sword:** Screams when swung. +2 damage, -5 Stealth.
-2.  **Titan-Sweat Jar:** Evaporates into steam that smells of fear. Used for fear toxins.
-3.  **Petrified Eyeball:** Size of a bowling ball. Rolls uphill.
-4.  **Infinite Rope:** Rope that never ends but gets heavier the more you pull.
-5.  **Jar of Pickled Toes:** Giants' toes. Delicacy.
-6.  **Bag of Holding (Cursed):** Eats 1 out of every 10 items put inside.
-7.  **Invisibility Paint:** Only works on inanimate objects.
-8.  **Feather of Lead:** Weighs 100lbs.
-9.  **Compass of Desire:** Points to what you want most (usually a sandwich).
-10. **Self-Cooking Pot:** Heats up when insulted.
-11. **Mirror of Vanity:** Shows you as you see yourself, not as you are.
-12. **Boots of Squeaking:** Loud squeak with every step.
-13. **Helm of Thoughts:** Broadcasts your thoughts to everyone in 10ft.
-14. **Ring of Fire detection:** Glows red when you are on fire.
-15. **Wand of Bubbles:** Shoots bubbles. That's it.
-16. **Shield of Attraction:** Arrows curve *towards* it.
-17. **Potion of Bravery:** Actually just vodka.
-18. **Gloves of Slapping:** Auto-slaps anyone who insults you.
-19. **Cape of Billowing:** Billows dramatically on command (Bonus Action).
-20. **Rock of Gravity:** Always falls up.
+[TAG: ITEM_LOOT]
+### Custom Loot (Weird/Low Probability)
+1.  **A Pebble from a Titan's Footprint:** It hums faintly with residual cosmic energy.
+2.  **A Jar of Titan's Yawn:** Contains a localized, temporary anti-gravity field.
+3.  **A Scale from Kronos the Restless:** It's the size of a dinner plate and constantly sheds tiny, sharp flakes.
+4.  **The Prophet's Cracked Skull:** It whispers prophecies of doom when held to the ear.
+5.  **A Bottle of Dream-Fog:** When opened, it creates a small, localized area of reality-bending fog.
+6.  **A Piece of Sky-Whale Baleen:** It's surprisingly light and can be used as a makeshift glider.
+7.  **A Colossus-Cannonball (Miniature):** A perfectly spherical, heavy cannonball that fits in your hand. It's surprisingly warm.
+8.  **The Elder Treant's Acorn:** If planted, it will grow into a small, sentient tree that only speaks in riddles.
+9.  **A Chronos-Keeper's Broken Watch:** It always shows the time of the Titan's awakening.
+10. **A Scavenger's Lucky Charm:** A collection of rusted nuts and bolts that clink together when danger is near.
+11. **A Void-Watcher's Obsidian Eye:** A polished obsidian sphere that, when looked into, shows a brief, terrifying glimpse of the Void.
+12. **A Sky-Shepherd's Cloud-Harpoon (Miniature):** A small, toy-like harpoon that can tether to clouds.
+13. **A Cultist's Robe:** Made from rough, itchy fabric, but it has a faint, rhythmic tremor.
+14. **A Dwarf's Seismic Hammer (Toy):** A small, toy hammer that, when struck, causes a tiny, localized tremor.
+15. **A Dream-Weaver's Pillow:** A pillow that, when slept on, gives you vivid, prophetic dreams (often terrifying).
+16. **A Titan-Touched Finger Bone:** It glows faintly in the dark and causes minor reality distortions around it.
+17. **The Oracle's Shifting Sands:** A small pouch of sand that constantly rearranges itself into cryptic patterns.
+18. **A Golem-Pilot's Control Amulet (Broken):** It still hums faintly with residual power.
+19. **The Whispering Wind Chime:** A wind chime made from Titan bone. It only chimes when a secret is spoken nearby.
+20. **The Cosmic Cartographer's Quill:** A quill that, when used to draw a map, sometimes draws features that don't exist yet.
 
 ---
 
-## [TAG: ENEMY_STATBLOCK] Custom Monsters
+## 7. BESTIARY
+[TAG: ENEMY_STATBLOCK]
 
-**1. Titan-Tick (CR 3)**
-*   *HP:* 50, *AC:* 16 (Chitin), *Speed:* 30ft.
-*   *Ability:* **Blood-Bloat:** When it hits, it attaches. Auto-damage next turn. Explodes if killed while attached (Acid AOE).
+### Custom Stat Blocks
+1.  **Void-Spawn** (CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Formless Horror* (Resistance to non-magical physical damage; can move through creatures and objects), *Reality Warp* (As a bonus action, can cause a 10-foot radius to become difficult terrain or grant disadvantage on a saving throw).
+2.  **Titan-Touched Human** (CR 4 Humanoid). HP: 60, AC: 14. **Abilities:** *Cosmic Resilience* (Advantage on saves vs. fear and charm), *Reality Ripple* (Melee attack deals extra force damage and pushes target 5 feet).
+3.  **Glass Golem** (CR 7 Construct). HP: 110, AC: 17. **Abilities:** *Razor Sharp* (Deals 1d6 piercing damage to any creature that hits it with a melee attack), *Shatter* (Explodes for 4d6 piercing damage in a 10-foot radius upon death).
+4.  **Sky-Whale Calf** (CR 5 Beast). HP: 80, AC: 13. **Abilities:** *Airborne* (Fly speed 60ft), *Sonic Cry* (30-ft cone, DC 14 CON save or take 3d6 thunder damage and be deafened).
+5.  **Sand-Wyrm** (CR 9 Beast). HP: 150, AC: 16. **Abilities:** *Burrow* (Can burrow through sand at full speed), *Swallow Whole* (Can swallow a Large or smaller creature).
+6.  **Colossus-Cannon Crew** (CR 3 Humanoid). HP: 45, AC: 15. **Abilities:** *Coordinated Fire* (If two or more crew target the same creature, they gain advantage on attack rolls), *Reload* (Takes an action to reload the cannon).
+7.  **Dream-Eater** (CR 6 Fey). HP: 90, AC: 15. **Abilities:** *Dream Walk* (Can enter the dreams of sleeping creatures), *Nightmare Touch* (Deals psychic damage and forces a WIS save vs. fear).
+8.  **Seismic Golem** (CR 10 Construct). HP: 180, AC: 18. **Abilities:** *Earthquake Stomp* (Creates a localized earthquake), *Tremor Sense* (Blindsight 120ft).
+9.  **Titan-Scale Drake** (CR 4 Beast). HP: 60, AC: 15. **Abilities:** *Hardened Scales* (Resistance to bludgeoning damage), *Acid Breath* (15-ft cone, 2d6 acid damage).
+10. **Kronos the Restless (Avatar)** (CR 20 Giant). HP: 400, AC: 22. **Abilities:** *World-Shaking Step* (Creates a massive earthquake), *Reality-Bending Dream* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Indifference* (Immune to all mind-affecting spells).
 
-**2. Silica-Wasp (CR 2)**
-*   *HP:* 20, *AC:* 13, *Fly:* 50ft.
-*   *Ability:* **Glass Sting:** Target turns to glass (Paralyzed) on failed Con save.
+[TAG: ENCOUNTER_TABLE]
+### Encounter Tables (d20)
 
-**3. Magma-Leech (CR 4)**
-*   *HP:* 60, *AC:* 15, *Speed:* 20ft.
-*   *Ability:* **Heat Aura:** 1d6 Fire damage to anyone within 5ft.
-
-**4. Hollow-Man (CR 1)**
-*   *HP:* 15, *AC:* 12, *Speed:* 30ft.
-*   *Ability:* **Collapse:** Upon death, collapses into a pile of bones that is difficult terrain.
-
-**5. Gear-Grinder (CR 5)**
-*   *HP:* 80, *AC:* 18, *Speed:* 40ft.
-*   *Ability:* **Sawblade:** 3d8 Slashing.
-
-**6. Abominant (CR 6)**
-*   *HP:* 90, *AC:* 14, *Speed:* 30ft.
-*   *Ability:* **Graft-Attack:** Has 4 arms, each with a different weapon. Multiattack x4.
-
-**7. Crystal-Golem (CR 5)**
-*   *HP:* 100, *AC:* 20, *Speed:* 20ft.
-*   *Ability:* **Reflect:** Spells targeting it reflect back to the caster on a roll of 1-5.
-
-**8. Spore-Zombie (CR 1/2)**
-*   *HP:* 10, *AC:* 8, *Speed:* 15ft.
-*   *Ability:* **Puff:** Explodes into spores on death. Save or infected.
-
-**9. Void-Eel (CR 3)**
-*   *HP:* 40, *AC:* 14, *Swim:* 60ft.
-*   *Ability:* **Phase:** Can move through solid objects.
-
-**10. The Petramach (Boss - CR 20)**
-*   *HP:* 500 per leg, 2000 Core. *AC:* 25.
-*   *Ability:* **Earth-Shaker:** DC 20 Dex save or fall prone map-wide.
-*   *Ability:* **Living Dungeon:** Players walk *on* the stat block.
+**Crater-Lands:**
+1.  A patrol of 1d4 Titan-Touched Humans.
+2.  A Scavenger Guild crew, picking through Titan-fall debris.
+3.  A small Void-Wound, leaking minor Void-Spawn.
+4.  A herd of mutated, two-headed desert goats.
+5.  The fossilized skull of a lesser Titan.
+6.  A Glass Golem, wandering aimlessly.
+7.  A sandstorm, reducing visibility to zero.
+8.  The tracks of something impossibly large.
+9.  A hidden cache of pre-Titanomachy supplies.
+10. A group of Cult of the Colossus pilgrims.
+11-20. (Desolate, empty landscape).
 
 ---
 
-## [TAG: ENCOUNTER_TABLE] Encounter Tables (d20)
+## 8. MECHANICS
+[TAG: RULES_CUSTOM]
 
-**Urban (Guildhall)**
-1.  Drunken Slayers brawl.
-2.  Smith drops a hammer on foot.
-3.  Thief steals purse.
-4.  Noble demands tour.
-5.  Titan alarm sounds (Drill).
-6.  Food poisoning at tavern.
-7.  Rival crew insults party.
-8.  Scholar needs heavy lifting.
-9.  Bard sings annoying song.
-10. Mystery package delivery.
-11-20. [Standard City Encounters]
+### Subsystem: Titan Proximity
+*   **Aura of Indifference:** When within 1 mile of an active Titan, all creatures must make a WIS save (DC 10 + 1 per mile closer) at the start of each day. On a failure, they gain a level of "Cosmic Indifference," making them less empathetic and more prone to nihilism.
+*   **Reality Distortion:** When within 1000 feet of an active Titan, localized reality distortions can occur. Roll a d6 at the start of each hour:
+    *   1-2: Minor gravity fluctuations (jump height doubled/halved).
+    *   3-4: Sensory overload (colors shift, sounds echo strangely).
+    *   5-6: Temporal stutter (one round is skipped or repeated).
 
-**Wilderness (Petramach's Path)**
-1.  1d4 Titan-Ticks.
-2.  Landslide.
-3.  Abandoned campsite.
-4.  Giant footprint lake.
-5.  Rival crew ambush.
-6.  Bulette attack.
-7.  Storm of glass shards.
-8.  Silt-Walker trade caravan.
-9.  Lost child.
-10. Herd of displaced deer.
-11-20. [Nature Encounters]
+### Subsystem: Colossus-Scale Combat
+*   **Targeting:** Attacking a Titan is like attacking a moving mountain. Specific "weak points" (eyes, joints, Void-Wounds) must be targeted, requiring high attack rolls or specific maneuvers.
+*   **Movement:** Titans move so slowly that their movement is often measured in "zones" rather than feet. Players can spend multiple rounds traversing a Titan's limb.
+*   **Environmental Hazards:** A Titan's movements create environmental hazards: earthquakes, rockslides, dust clouds, and even localized weather changes.
 
 ---
 
-## [TAG: RULES_CUSTOM] Mechanics & Systems
+## 9. SESSION GUIDE
+[TAG: DM_GUIDE]
 
-### 1. Physics: The Scale Law
-Gravity is heavier near Titans due to their mass.
-*   *Rule:* When climbing a Titan, Athletics checks are made at Disadvantage unless the player has **Climbing Gear**.
-*   *Rule:* Falling damage is doubled within 1 mile of a Titan.
-
-### 2. Harvest System
-After a kill, players have 1 hour before the Titan dissolves/rots.
-*   **Skill Challenge (DC 15):** Survival/Medicine.
-*   **Success:** 1 Legendary Part.
-*   **Failure:** The part is ruined (Acid spray/Shatter).
-*   **Critical Success:** 2 Parts + 1 Rare Essence.
-
-### 3. Sanity: The Awe Factor
-Seeing a Titan for the first time requires a Wisdom Save (DC 12).
-*   *Fail:* **Stunned** for 1 round (Awe-struck).
-*   *Crit Fail:* Gain a short-term madness (e.g., "I am an ant, I cannot fight god").
+*   **Session 1: The Awakening.** Kronos awakens. The party is caught in the chaos, forced to evacuate Aegis. *Combat:* Escape from a collapsing city, fighting off smaller Void-Spawn.
+*   **Session 2: The First Mission.** Commander Valerius tasks the party with a reconnaissance mission into the Crater-Lands. *Exploration:* Navigate the treacherous landscape. *Loot:* Find a piece of Titan-Forged equipment.
+*   **Session 3: The Whispering Peaks.** The party investigates a new Void-Wound, encountering the Blind Seer and the Void-Watchers. *Horror:* Psychic encounters with the Void.
+*   **Session 4: The Sky-Shepherd's Aid.** The party needs airship transport to Kronos's back. They must earn Captain Zephyr's trust. *Social:* Negotiate with the Sky-Shepherds. *Combat:* Defend the airship from Sky-Whale poachers.
+*   **Session 5: The Harvest.** The party lands on Kronos's back and must harvest a Titan-scale. *Dungeon Crawl:* A moving, living dungeon. *Combat:* Fight Titan-Scale Drakes.
+*   **Session 6: The Dream-Heist.** Lady Lyra needs the party to enter Kronos's dreams. *Puzzle:* Navigate a surreal dreamscape, avoiding Titan nightmares.
+*   **Session 7: The Earth-Shaper's Dilemma.** Master Engineer Borin needs help retrieving a crucial component from a collapsing dwarven mine. *Combat:* Fight Seismic Golems.
+*   **Session 8: The Prophet's Gambit.** The Cult of the Colossus attempts a massive ritual to merge with Kronos. *Combat:* A large-scale battle against cultists and Void-Spawn.
+*   **Session 9: The Titan-Slayer's Assault.** Commander Valerius launches a full-scale assault on Kronos. The party is part of the vanguard. *Combat:* Colossus-Scale Combat against Kronos.
+*   **Session 10: The Heart of the Titan.** The party must reach Kronos's "heart" (a specific Void-Wound on its chest) to deliver the Dream-Weaver artifact. *Dungeon Crawl:* A perilous journey through the Titan's internal landscape.
+*   **Session 11: The Final Stand.** The Prophet of the Trembling Earth attempts to become a conduit for Kronos's rage. *Boss Fight:* Confront the Prophet and the Void-Spawn.
+*   **Session 12: The Lullaby.** The party successfully puts Kronos back to sleep. *Epilogue:* The world is saved, but the scars remain. The party decides their future.
 
 ---
 
-## [TAG: DM_GUIDE] Session Guide
-
-*   **Session 1:** Intro. Guildhall tour. Bar fight. Accept Petramach contract.
-*   **Session 2:** Travel to zone. Encounter Titan-Ticks. Meet Silt-Walkers.
-*   **Session 3:** Tracking skill challenge. First glimpse of Titan (Sanity check).
-*   **Session 4:** Prep phase. Mining explosives. Dealing with Rival Crew.
-*   **Session 5:** **BOSS FIGHT Part 1:** Topple the Titan. Blow the legs.
-*   **Session 6:** **BOSS FIGHT Part 2:** Climb the Titan. Dungeon crawl on the body.
-*   **Session 7:** **BOSS FIGHT Part 3:** Heart chamber. Kill it. Looting.
-*   **Session 8:** Downtime. Crafting legendary gear. Political intrigue (Arkwright vs Valerius).
-*   **Session 9:** Fulminox info gathering. Climb the Sky-Spire.
-*   **Session 10:** Sky-Battle.
-*   **Session 11:** Leviathan reveal. Submarine prep.
-*   **Session 12:** Endgame raid.
-
----
-
-## [TAG: INDEX_KEYWORDS] RAG Index
-Slayer's Guild, Valerius, Arkwright, Brynja, Petramach, Fulminox, Leviathan, Titan-Tick, Wax-Dipped, Hollow Bone, Star-Vomit, Orogenes, Kaelen, God-Killer Ballistae, Whisper-Vats, Gilded Vultures, Silt-Walkers, Gear-Heart, Flesh-Weavers, Void-Eel, Earth-Breaker, Titan-Jack.
+## 10. RAG INDEX
+[TAG: INDEX_KEYWORDS]
+Titans, Kronos the Restless, Cosmic Flesh, Void-Wounds, Aegis, Titan-Slayers Guild, Cult of the Colossus, Sky-Shepherds, Void-Watchers, Earth-Shapers, Dream-Weavers, Scavenger Guild, Iron-Clad Legion, Whispering Woods, Chronos-Keepers, Commander Valerius, Prophet of the Trembling Earth, Captain Zephyr, Blind Seer, Master Engineer Borin, Lady Lyra, "Rat" Kincaid, General Theron, Elder Treant, Professor Tick-Tock, Titan Proximity, Colossus-Scale Combat.

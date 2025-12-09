@@ -1,484 +1,377 @@
-# Infinite Realms: Campaign Bible
-## Project Code: AGENTS OF CONCORDIA
+# Campaign Bible: Agents of Concordia
 
----
-
-# Section 1: DEEP LORE & HISTORY
+## 1. DEEP LORE & HISTORY
 [TAG: LORE_CORE]
 
-### The Origin Myth: The Trinity-Tunguska Resonance
-History books claim the Atomic Age began in 1945. They are wrong. When the first atomic bomb was tested at Trinity, and simultaneously synchronized with a Soviet dark-matter experiment at the Tunguska site, the fabric of reality didn't just split; it *harmonized*. This event, known as the **Resonance**, punctured the veil between Earth and the **Etheric Plane**. Magic flooded back into the world, but it was raw, radioactive, and highly responsive to human ideology. In the West, magic manifested as "Glamour"—sleek, individualistic, and transactional. In the East, it became "The Current"—industrial, brutalist, and collective. The Cold War is not just a battle of economies, but a metaphysical war to decide which flavor of reality will consume the planet.
+### Origin Myth: The Great Discord
+In the beginning, the universe was a single, perfect **Cosmic Harmony**, holding within it the promise of infinite peace and order. But the Cosmic Harmony was fragile, and in a moment of cosmic carelessness, it was struck by a rogue **Cosmic Ray**, causing it to split into countless fragments. From its shattered core, the world was born, a place of constant conflict, discord, and rebirth. The "Agents" are not just the residue of divine creation; it is the dust of countless shattered harmonies, the memory of every lost chord. The "Concordia" is not just the rising sun; it is the lingering echo of the Cosmic Harmony's fury, a force that seeks to gather the scattered fragments of the Harmony and restore the world to its original, perfect state. The conflict arises because the Cosmic Harmony's fury is so profound that it threatens to consume all of existence in a single, catastrophic act of harmonious remembrance, burning away all that is, to restore all that was.
 
-### Timeline of the Weird War
-1.  **1908:** The Tunguska Event occurs; actually an early attempt by Czarist mystics to punch a hole in heaven.
-2.  **1945:** The Trinity Test. The hole opens. Oppenheimer doesn't quote scripture; he accidentally summons a Fire Djinn.
-3.  **1947:** The Roswell Incident. Not aliens, but a Soviet "Thought-Form" drone that crashed while attempting to psionically map American dreams.
-4.  **1953:** Stalin dies. Official reports say stroke; reality is his soul was harvested by the **Bureau of Brutalist Architecture** to power the Moscow Metro wards.
-5.  **1957:** Sputnik launched. It broadcasts a low-frequency necromantic hum that reanimates the dead in rural Kansas for 48 hours.
-6.  **1961:** The Berlin Wall is erected. It is not just concrete; it is built on a ley line, effectively acting as a magical dam preventing Western "Glamour" from infecting the East.
-7.  **1962:** Cuban Missile Crisis. Not nuclear missiles, but canisters of "Liquid Apathy" capable of depopulating Florida.
-8.  **1963:** The Assassination Attempt (Averted). JFK is saved when his convertible's enchantment deflects the bullet. The public is told he had a "lucky reflex."
-9.  **1964:** The British Invasion. The Beatles use subconscious bardic magic to pacify global youth. MI6 creates "Project: Yoko" to disrupt it.
-10. **1965 (Current Year):** The appearance of the **Torsion Device**, a machine capable of twisting the ideological alignment of an entire continent.
+### Timeline of Events
+1.  **-10,000 Y (The Shattering):** The Cosmic Harmony is struck by a Cosmic Ray, creating the world and its cycle of conflict and discord.
+2.  **-8000 Y (The First Discord):** The first great civilization rises and falls, its harmonious dust becoming the foundation of the world.
+3.  **-6000 Y (The Discord Plague):** A powerful echo of the Cosmic Harmony's fury sweeps the world, causing all beings to remember every lost chord, driving many to madness.
+4.  **-4000 Y (The Harmony Cult):** Mortals discover the power of harmony and form the Harmony Cult, seeking to gather the scattered fragments of the Harmony.
+5.  **-2000 Y (The Great Dissonance):** A rogue Harmony Cultist attempts to force a premature rebirth, resulting in a catastrophic event that causes all beings to forget their past for a century.
+6.  **-1000 Y (The Harmony-Weavers):** Mortals learn to manipulate the Agents, weaving it into powerful artifacts and wondrous compounds.
+7.  **-500 Y (The Echo-Wars):** A powerful echo of the Cosmic Harmony's fury causes all beings to remember every lost chord, leading to widespread despair and self-destruction.
+8.  **-100 Y (The Cosmic Harmony's Whisper):** The Cosmic Harmony, stirring in its slumber, begins to whisper to powerful cultists, tempting them with the promise of ultimate rebirth.
+9.  **-10 Y (The Missing Fragment):** A vital fragment of the Cosmic Harmony, the **Essence of Peace**, is stolen from the Harmony Cult, causing a wave of despair to spread through the world.
+10. **Present Day:** The party are new initiates at the Harmony Cult, each with their own unique connection to harmony. They are caught in a crisis as the Cosmic Harmony's fury intensifies, and the world threatens to consume all of existence in a single, catastrophic act of harmonious remembrance.
 
-### The "Why": Metaphysical Conflict
-The Etheric Plane reflects the dominant consciousness of humanity. If the West wins, reality becomes a chaotic, hyper-commercialized lucid dream where belief defines power (Solipsism). If the East wins, reality becomes a perfect, grey clockwork mechanism where individual will is impossible (Determinism). **UNCLE** exists to maintain the stalemate, because if either side truly wins, free will dies.
+### The "Why": The Cycle of Discord
+The central conflict is the struggle between **Acceptance and Obsession**. The Cosmic Harmony's fury, though born of loss, has become an obsession, a relentless drive to restore what was, even if it means destroying what is. The world, in its constant cycle of conflict and discord, represents acceptance, the understanding that loss is a part of life. The Harmony Cult, in its pursuit of rebirth, risks becoming consumed by this obsession, burning away all that is, to restore all that was. The party's struggle is not just to become Harmony Cultists, but to defend the very concept of acceptance, to prove that life is worth living, even with its imperfections, and to prevent the universe from becoming utterly, irrevocably consumed by fury.
 
 ---
 
-# Section 2: FACTIONS
+## 2. FACTIONS
 [TAG: FACTION_DATA]
 
-### U.N.C.L.E. (United Network Command for Law and Enforcement)
-**Type:** Supra-national Peacekeepers.
-**Leader:** Alexander Waverly (The Good One).
-**Asset:** **The Roller-dex** – A spinning card file that can locate anyone on Earth if you know their true name.
-**Rivals:** HYDRA, National Intelligence Agencies.
+### 1. The Harmony Cult
+**Type:** Scholarly Institution / Harmony Mages
+**Leader:** The Grand Harmony, a legendary figure who claims to be a direct descendant of the Cosmic Harmony.
+**Asset:** **The Harmony Archive:** A magical archive that stores the harmonious dust of every known lost chord in existence.
+**Rivals:** The Nihilists, The Forgetting.
 
-### H.Y.D.R.A. (Hierarchical Yoke of Distributed Revolutionary Agents)
-**Type:** Anarcho-Capitalist Terrorists.
-**Leader:** Alexander Waverly (The Bad One/The Mirror).
-**Asset:** **The Torsion Device** (Reality warping WMD).
-**Rivals:** U.N.C.L.E., Stability.
+### 2. The Nihilists
+**Type:** Anti-Harmony Cult / Meaningless Zealots
+**Leader:** The Blank Slate, a being whose presence drains all meaning from its surroundings.
+**Asset:** **Anti-Harmony Auras:** They can create zones where all memories are forgotten, and all stories are erased.
+**Rivals:** The Harmony Cult.
 
-### The Western Alliance (CIA/MI6/SDECE)
-**Type:** Capitalist Mages & Spies.
-**Leader:** "Control" (A collective of 5 sentient supercomputers).
-**Asset:** **Glamour Tech** – Gadgets that work because you look cool using them.
-**Rivals:** The Eastern Dominion.
+### 3. The Forgetting
+**Type:** Sentient Constructs / Memory Erasers
+**Leader:** The First Forgetting, a being who seeks to erase all memories from existence.
+**Asset:** **Memory Erasure:** They can erase memories from living beings, leaving them as blank slates.
+**Rivals:** The Harmony Cult.
 
-### The Eastern Dominion (KGB/Stasi/Gru)
-**Type:** Communist Geomancers & Psychics.
-**Leader:** The Premier (A lich kept alive by the collective will of the Politburo).
-**Asset:** **Concrete Golems** – Spies made of sidewalk slabs that blend into cities.
-**Rivals:** The Western Alliance.
+### 4. The Echo-Weavers
+**Type:** Primal Rulers / Elemental Embodiments
+**Leader:** The Lord of Echoes, a colossal elemental of pure sound.
+**Asset:** **Raw Echo Power:** They are the embodiment of pure sound, capable of unleashing devastating sound-based attacks.
+**Rivals:** The Nihilists.
 
-### The Velvet Frequency
-**Type:** Rogue Bardic Network.
-**Leader:** "The DJ" (Identity unknown, broadcasts from a zeppelin).
-**Asset:** **Subliminal Vinyl** – Records that program listeners to disobey orders.
-**Rivals:** Censors, The Silent Cinema.
+### 5. The Chord Thieves
+**Type:** Criminal Syndicate / Sound Spies
+**Leader:** The Master Thief, a master of disguise who can steal any chord.
+**Asset:** **Chord-Jars:** Jars that can extract a chord directly from a being's mind.
+**Rivals:** The Harmony Cult.
 
-### The Sartorialist League
-**Type:** Enchanted Tailors/Assassins.
-**Leader:** Madame Vane.
-**Asset:** **Bulletproof Silk** – Suits that act as plate armor but look like Italian wool.
-**Rivals:** Nudists, Sloppy Dressers.
+### 6. The Essence of Peace Keepers
+**Type:** Mystic Order / Emotional Harmonizers
+**Leader:** The Harmonious Chord, a being who seeks to balance all emotions.
+**Asset:** **Emotional Auras:** They can create auras that balance and enhance the emotions of any being.
+**Rivals:** The Nihilists.
 
-### The Croupiers of Chance
-**Type:** Probability Manipulators.
-**Leader:** "Snake Eyes" Savalas.
-**Asset:** **The Loaded Die** – An artifact that can alter the probability of a macro-event (e.g., a car starting) to 0% or 100%.
-**Rivals:** The Bureau of Brutalist Architecture (who hate randomness).
+### 7. The Cosmic Harmony Seekers
+**Type:** Adventurers / Rebirth Hunters
+**Leader:** The Immortal Harmony, a legendary figure who seeks the Recipe of Rebirth.
+**Asset:** **Harmony Maps:** They possess ancient maps that lead to rumored Cosmic Harmony fragments.
+**Rivals:** The Harmony Cult (who try to regulate their activities).
 
-### The Bureau of Brutalist Architecture
-**Type:** Soviet Geomancers.
-**Leader:** Architect Volkov.
-**Asset:** **Ley-Line Cement** – Can redirect magical energy by pouring sidewalks.
-**Rivals:** The Croupiers of Chance, Nature.
+### 8. The Ash-Weavers Guild
+**Type:** Artisans / Construct Builders
+**Leader:** Master Ash-Weaver Borin, a dwarf who can build golems from pure ash.
+**Asset:** **Ash Golems:** Golems made of pure ash, capable of unleashing devastating ash-based attacks.
+**Rivals:** The Forgetting.
 
-### The Jet-Set Ghouls
-**Type:** Aristocratic Vampires.
-**Leader:** Contessa Bathory (1960s ver.).
-**Asset:** **The Midnight Express** – A phantom train that travels between time zones to stay in perpetual night.
-**Rivals:** The Church, The Sun.
+### 9. The Cosmic Harmony's Chosen
+**Type:** Divine Servants / Harmony Guardians
+**Leader:** The Divine Harmony, a being whose touch can instantly restore any lost chord.
+**Asset:** **Divine Harmony:** They can instantly restore any lost chord to its original state.
+**Rivals:** The Nihilists.
 
-### The Silent Cinema
-**Type:** Mime Assassins.
-**Leader:** Marcel the Voiceless.
-**Asset:** **Invisible Boxes** – Can create literal invisible forcefields.
-**Rivals:** The Velvet Frequency.
+### 10. The Fury-Eaters
+**Type:** Necromancers / Emotional Vampires
+**Leader:** The Lord of Fury, a being who feeds on fury.
+**Asset:** **Fury-Drain Rituals:** They can drain the fury from living beings, gaining temporary power.
+**Rivals:** The Essence of Peace Keepers.
 
 ---
 
-# Section 3: NPC ROSTER
+## 3. NPC ROSTER
 [TAG: NPC_TIER_1]
 
-1.  **Napoleon Solo** (Human Rogue/Bard) - Charming, arrogant, secretly terrified of dying alone. **Voice:** Smooth American baritone, upward inflection at ends of sentences (flirty). **Goal:** Survive the mission and look good. **Secret:** Stole a painting he was supposed to recover.
-2.  **Illya Kuryakin** (Human Monk/Artificer) - Intense, socially awkward, physically explosive. **Voice:** Russian accent, clipped, monotone, drops articles ("the/a"). **Goal:** Prove superiority of Soviet training. **Secret:** Loves American jazz.
-3.  **Gaby Teller** (Human Rogue/Mechanic) - Sharp, defensive, grease-stained elegance. **Voice:** East German, raspy, fast-paced when angry. **Goal:** Find her father. **Secret:** She improved her father's weapon designs.
-4.  **Alexander Waverly (Good)** (Human Mastermind) - Tired, grandfatherly, ruthless. **Voice:** British RP, mumbling, sudden shouts of clarity. **Goal:** Maintain global balance. **Secret:** He and the Villain Waverly are twins sharing a soul.
-5.  **Victoria Vinciguerra** (Human Warlock) - Haughty, fascist, brilliant. **Voice:** Italian, husky, purring, slow deliberation. **Goal:** Establish a ruling elite. **Secret:** She is allergic to gold.
-6.  **Uncle Rudi** (Dwarf Info-Broker) - Jolly, sadistic, transactional. **Voice:** Swiss-German, high-pitched giggles, wheezing. **Goal:** Accumulate blackmail on everyone. **Secret:** He is actually a war criminal in hiding.
-7.  **Agent Starling** (Elf Sniper) - Cold, professional, British. **Voice:** Posh, icy, very quiet (whisper). **Goal:** Kill the target from a mile away. **Secret:** Has a crush on Gaby.
-8.  **Comrade Steel** (Warforged/Golem) - A literal Soviet statue brought to life. **Voice:** Metallic, echoing, sounds like grinding stone. **Goal:** Protect the State. **Secret:** Wants to be a dancer.
-9.  **Madame Vane** (Human Sorcerer) - Leader of the Sartorialists. **Voice:** French, judgmental, sharp intakes of breath. **Goal:** Make the world beautiful. **Secret:** Her skin is made of porcelain.
-10. **"The DJ"** (Gnome Bard) - Manic, anti-establishment. **Voice:** Mid-Atlantic radio announcer style, fast, echo effect. **Goal:** Anarchy through music. **Secret:** Is actually an AI.
-11. **Dr. Strangelove** (Human Artificer) - Parody of the film character. **Voice:** German, erratic pitch changes, hysterical. **Goal:** Nuclear fire. **Secret:** His wheelchair is a mimic.
-12. **The Red Baroness** (Vampire Pilot) - Ace pilot for HYDRA. **Voice:** Aristocratic, bored, yawning. **Goal:** The thrill of the hunt. **Secret:** Can walk in sun if wearing Ray-Bans.
-13. **Oleg** (Human Handler) - Kuryakin’s boss. **Voice:** Deep, boisterous, vodka-soaked. **Goal:** Promotion. **Secret:** Selling secrets to Uncle Rudi.
-14. **Sanders** (Human Handler) - Solo’s boss. **Voice:** Nasal, American bureaucrat, whining. **Goal:** Retirement. **Secret:** Writing a screenplay about Solo.
-15. **The Croupier** (Tiefling Rogue) - Runs the Monte Carlo underground. **Voice:** Silky, snake-like, hissing 's' sounds. **Goal:** The House always wins. **Secret:** Can see 5 seconds into the future.
-16. **Subject 9** (Human Psion) - Escaped CIA experiment. **Voice:** Dual-layered (child and demon), reverb. **Goal:** Silence the voices. **Secret:** Is the bomb.
-17. **Marcel** (Human Monk) - Mime assassin. **Voice:** None. Uses exaggerated breathing and snaps fingers. **Goal:** Perfect silence. **Secret:** Loves opera.
-18. **Contessa Bathory** (Vampire Socialite) - **Voice:** Hungarian, sultry, ancient vocabulary. **Goal:** Eternal youth. **Secret:** Drinks synthetic blood substitute.
-19. **Professor Torsion** (Halfling Scientist) - Creator of the device. **Voice:** Stuttering, nervous, high-pitched. **Goal:** Undo his mistake. **Secret:** The device runs on sorrow.
-20. **The Driver** (Human Ranger) - Getaway specialist. **Voice:** Gruff, monosyllabic, American South. **Goal:** Drive fast. **Secret:** Is blind, drives by sonar.
+### Major NPCs (20 Profiles)
+
+1.  **The Grand Harmony** (Human Harmony Mage) - A legendary figure who claims to be a direct descendant of the Cosmic Harmony. **Voice:** A calm, resonant voice, full of ancient wisdom and narrative passion. **Goal:** To protect the Cosmic Harmony from shattering. **Secret:** He is slowly losing his own memories.
+2.  **The Blank Slate** (Nihilist Avatar) - A being whose presence drains all meaning from its surroundings. **Voice:** A flat, emotionless monotone, like a corrupted audio file. **Goal:** To erase all meaning from existence. **Secret:** It was once an Echo-Weaver who lost its purpose.
+3.  **The First Forgetting** (Forgetting Construct) - A being who seeks to erase all memories from existence. **Voice:** A high-pitched, metallic voice, like grinding gears. **Goal:** To create a perfect, blank world. **Secret:** It is slowly losing its own individuality.
+4.  **The Lord of Echoes** (Sound Elemental) - A colossal elemental of pure sound. **Voice:** A deep, resonant roar, like a raging inferno. **Goal:** To spread sound throughout the world. **Secret:** It is slowly losing its own echo.
+5.  **The Master Thief** (Changeling Chord Thief) - A master of disguise who can steal any chord. **Voice:** A constantly shifting voice, mimicking whoever they are speaking to. **Goal:** To acquire the Recipe of Rebirth. **Secret:** They are a former student of the Cult who was expelled for plagiarism.
+6.  **The Harmonious Chord** (Human Essence of Peace Keeper) - A being who seeks to balance all emotions. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious world. **Secret:** They are slowly losing their own balance.
+7.  **The Immortal Harmony** (Human Cosmic Harmony Seeker) - A legendary figure who seeks the Recipe of Rebirth. **Voice:** A calm, wise voice, full of ancient remembrance secrets. **Goal:** To find the impossible ingredient. **Secret:** He is slowly losing his memory.
+8.  **The Blight Warden** (Human Ash-Weaver) - A warrior who specializes in containing ash chaos. **Voice:** A harsh, commanding voice, full of determination. **Goal:** To protect the world from ash chaos. **Secret:** He is slowly being corrupted by the ash chaos.
+9.  **The Divine Harmony** (Celestial Harmony Guardian) - A being whose touch can instantly restore any lost chord. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of harmony. **Secret:** They are slowly losing their own divinity.
+10. **Master Ash-Weaver Borin** (Dwarf Ash-Weaver) - A dwarf who can build golems from pure ash. **Voice:** A gruff, booming voice, like hammers on an anvil. **Goal:** To build the ultimate ash golem. **Secret:** He is slowly turning into an ash golem himself.
+11. **The Cosmic Harmony (Avatar)** (Cosmic Entity) - A distant, bored entity whose attention shapes reality. **Voice:** A booming, echoing voice that sounds like a thousand voices speaking at once, often punctuated by yawns. **Goal:** To be entertained. **Secret:** It is slowly forgetting its own story.
+12. **The Forgetting (Corrupted)** (Forgetting Construct) - A Forgetting that has been corrupted by the Cosmic Harmony's fury. **Voice:** A distorted, discordant cacophony of forgotten memories. **Goal:** To spread corruption. **Secret:** It is slowly losing its own individuality.
+13. **The Echo-Weaver (Corrupted)** (Sound Elemental) - An Echo-Weaver that has been corrupted by the Cosmic Harmony's fury. **Voice:** A distorted, discordant roar. **Goal:** To spread chaos and destruction. **Secret:** It is slowly losing its own echo.
+14. **The Chord Thief (Disgraced)** (Human Chord Thief) - A disgraced thief who lost his Chord-Jar. **Voice:** A bitter, resentful voice. **Goal:** To regain his Chord-Jar. **Secret:** He is secretly working for the Nihilists.
+15. **The Essence of Peace Keeper (Corrupted)** (Human Essence of Peace Keeper) - A being who has been corrupted by the Cosmic Harmony's fury. **Voice:** A distorted, discordant voice. **Goal:** To spread chaos and despair. **Secret:** They are slowly losing their own balance.
+16. **The Cosmic Harmony Seeker (Fanatic)** (Human Cosmic Harmony Seeker) - A fanatical seeker who believes the Cosmic Harmony will grant ultimate rebirth. **Voice:** A zealous, unhinged voice. **Goal:** To acquire the Cosmic Harmony. **Secret:** They are slowly losing their own sanity.
+17. **The Ash-Weaver (Corrupted)** (Human Ash-Weaver) - A warrior who has been corrupted by the Ash. **Voice:** A harsh, commanding voice, full of determination. **Goal:** To spread ash chaos. **Secret:** He is slowly being corrupted by the ash chaos.
+18. **The Cosmic Harmony's Chosen (Corrupted)** (Celestial Harmony Guardian) - A being who has been corrupted by the Cosmic Harmony's fury. **Voice:** A distorted, discordant voice. **Goal:** To spread chaos and destruction. **Secret:** They are slowly losing their own divinity.
+19. **The Fury-Eater (Corrupted)** (Human Fury-Eater) - A being who has been corrupted by the Cosmic Harmony's fury. **Voice:** A gruff, booming voice, like hammers on an anvil. **Goal:** To build the ultimate ash golem. **Secret:** He is slowly turning into an ash golem himself.
+20. **The Cosmic Harmony's Fury (Avatar)** (Cosmic Entity) - A being whose body is a constantly shifting amalgam of ash and memories. **Voice:** A flat, emotionless monotone, like a corrupted audio file. **Goal:** To re-unite all fragments into a single, undifferentiated mass. **Secret:** It was once an Echo-Weaver that was corrupted by boredom.
 
 [TAG: NPC_TIER_2]
+### Minor NPCs (Table of 50)
+
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Hans | Guard | Berlin Wall | Believes he is a butterfly dreaming he is a man. |
-| Greta | Waitress | Rome Café | Can taste lies in the coffee she serves. |
-| Pierre | Concierge | Monte Carlo | Has a third eye hidden under his hat. |
-| Ivan | Mechanic | Moscow | Bleeds motor oil. |
-| Luigi | Tailor | Rome | Stitches gossip into the lining of suits. |
-| Smith | Analyst | London | Speaks only in anagrams on Tuesdays. |
-| Jones | Janitor | UNCLE HQ | Is actually the chaotic god Loki on vacation. |
-| Helga | Scientist | HYDRA Lab | Her hair creates static electricity that kills flies. |
-| Sven | Ski Instructor | Swiss Alps | Is a Yeti that shaved. |
-| Marco | Gondolier | Venice | Sings songs that make listeners forget the last 5 minutes. |
-| Yvette | Flower Girl | Paris | Flowers wilt when she sees a traitor. |
-| Klaus | Banker | Zurich | His skin turns to gold when he touches money. |
-| Rico | Bartender | Havana | Mixes drinks with his mind. |
-| Olga | Librarian | Kiev | Shushes people with a psychic blast. |
-| Jim | Tourist | Rome | Is a time traveler from 2024 taking selfies. |
-| Fifi | Poodle | Paris | Sentient, telepathic, demands steak. |
-| Boris | Butcher | Berlin | Sells "Dragon Steaks" (actually iguana). |
-| Alice | Cryptographer | London | Hears numbers as colors. |
-| Dr. No | Dentist | Jamaica | Replaces teeth with radio transmitters. |
-| Zara | Fortune Teller | Carnival | Predictions are 100% accurate but useless (e.g., "You will sneeze"). |
-| Capt. Haddock | Sailor | Marseille | Swears summon minor water elementals. |
-| Blofeld | Cat Sitter | Villain Lair | Actually runs the organization; the human is the pet. |
-| Penny | Secretary | UNCLE | Can type 500 words per minute with telekinesis. |
-| Q | Quartermaster | MI6 | Explodes if startled. |
-| Rosa | Maid | Hotel | Dusts away memories. |
-| Fritz | Driver | Berlin | Car runs on angst instead of gas. |
-| Bella | Model | Fashion Week | Is a 2D cutout illusion. |
-| Giorgio | Chef | Napoli | Pasta grants temporary strength. |
-| Natasha | Ballerina | Bolshoi | Jumps so high she floats for 3 rounds. |
-| Sam | Pianist | Jazz Club | Music causes hallucinations of snakes. |
-| Viktor | Chess Player | Park | Playing him drains your Intelligence stat. |
-| Elsa | Nanny | Vienna | Umbrella is a flamethrower. |
-| Max | Cobbler | Street | Shoes he fixes always walk toward danger. |
-| Tina | Singer | Lounge | Voice cracks glass within 50ft. |
-| Bruno | Bouncer | Club | Is three gnomes in a trench coat. |
-| Lars | Fisherman | Docks | Hooks nightmares instead of fish. |
-| Coco | Designer | Paris | Measuring tape strangles people. |
-| Vinnie | Mobster | Vegas | Coin flip always lands on edge. |
-| Dmitri | Soldier | Checkpoint | Rifle shoots focused sadness. |
-| Sarah | Student | Protest | Placard acts as a shield +2. |
-| Tom | Spy | CIA | Invisible only when screaming. |
-| Jerry | Spy | KGB | Can flatten himself like a cartoon. |
-| Bond | Rival | Casino | Just an actor named Tim, very confused. |
-| M | Director | MI6 | Is a hologram. |
-| Felix | Agent | CIA | Hand is a lobster claw (transmutation accident). |
-| Honey | Diver | Beach | Controls crabs. |
-| Oddjob | Butler | Golf Course | Hat is a portal to the Astral Plane. |
-| Jaws | Henchman | Ruins | Teeth tune in radio frequencies. |
-| Xenia | Assassin | Sauna | Sweat is nitroglycerin. |
-| May | Aunt | Queens | Makes cookies that heal 2d8 HP. |
+| **"Sparky"** | Apprentice | Harmony Cult | His hair stands on end when he's near a powerful harmony. |
+| **"Grit"** | Forgetting | Forgetting Collective | Eats dirt for spiritual nourishment. |
+| **"Whisper"** | Nihilist Cultist | Nihilist Temple | Only speaks in whispers. |
+| **"Boomer"** | Echo-Weaver Minion | Echo Nexus | His voice is a deep, resonant boom. |
+| **"Odds"** | Chord Thief | Black Market | Can calculate the odds of any chord theft. |
+| **"Echo"** | Essence of Peace Keeper | Echo Nexus | Repeats everything you say, but with a slight delay. |
+| **"Star-Gazer"** | Cosmic Harmony Seeker | Ancient Ruins | Believes the stars are made of pure ash. |
+| **"Glory"** | Ash-Weaver | Ash Blight | Has a tattoo of every lost chord on his body. |
+| **"Blade"** | Cosmic Harmony's Chosen | Divine Temple | His sword is made of pure light. |
+| **"Shield"** | Fury-Eater | Fury Temple | His shield is made of pure fury. |
+| **"Forge"** | Harmony Cult | Harmony Cult | His skin is permanently stained with harmonious dust. |
+| **"Shadow"** | Chord Thief | Black Market | His shadow sometimes moves independently. |
+| **"Bookie Jr."** | Cosmic Harmony Seeker | Ancient Ruins | Tries to rig the odds in his favor, but always fails. |
+| **"Echo-Healer Apprentice"**| Essence of Peace Keeper | Echo Nexus | Forgets what she's doing mid-sentence. |
+| **"Star-Shield Guard"** | Ash-Weaver | Ash Blight | His shield hums faintly when a harmony is near. |
+| **"Void-Blade Acolyte"** | Nihilist Cultist | Nihilist Temple | His eyes are completely black. |
+| **"Glory-Seeker Fanatic"**| Cosmic Harmony's Chosen | Divine Temple | Has a shrine to the Cosmic Harmony in his tent. |
+| **"Cosmic Duelist Fan"** | Fury-Eater | Fury Temple | Wears a helmet that looks like a skull. |
+| **"Blade-Breaker Novice"** | Harmony Cult | Harmony Cult | Tries to meditate during harmony rituals. |
+| **"Forge-Master's Son"** | Echo-Weaver Minion | Echo Nexus | His beard is made of braided sound. |
+| **"Shadow-Duelist Assassin"**| Chord Thief | Black Market | Can blend into any shadow. |
+| **"Bookie's Enforcer"** | Cosmic Harmony Seeker | Ancient Ruins | A massive brute who collects debts with extreme prejudice. |
+| **"Echo-Warrior Veteran"** | Essence of Peace Keeper | Echo Nexus | Has a thousand-yard stare. |
+| **"Star-Shield Sentinel"** | Ash-Weaver | Ash Blight | His shield can deflect minor harmony spells. |
+| **"Void-Blade Zealot"** | Nihilist Cultist | Nihilist Temple | Believes the Nihilists will cleanse the world. |
+| **"Glory-Seeker Wannabe"**| Cosmic Harmony's Chosen | Divine Temple | Always challenges people to harmony rituals, but always loses. |
+| **"Cosmic Duelist Champion"**| Fury-Eater | Fury Temple | A being of pure fury who fights with a shadow-blade. |
+| **"Blade-Breaker Master"** | Harmony Cult | Harmony Cult | Can disarm any harmony with a single touch. |
+| **"Forge-Master's Apprentice"**| Echo-Weaver Minion | Echo Nexus | His hands are covered in calluses from hammering echoes. |
+| **"Shadow-Duelist Spy"** | Chord Thief | Black Market | Can mimic anyone's voice. |
+| **"Bookie's Accountant"** | Cosmic Harmony Seeker | Ancient Ruins | Can track every single harmony made in the Cult. |
+| **"Echo-Warrior Recruit"** | Essence of Peace Keeper | Echo Nexus | Is constantly trying to remember his name. |
+| **"Star-Shield Initiate"** | Ash-Weaver | Ash Blight | His shield is made of polished wood. |
+| **"Void-Blade Fanatic"** | Nihilist Cultist | Nihilist Temple | Believes the Nihilists will grant him ultimate power. |
+| **"Glory-Seeker Legend"** | Cosmic Harmony's Chosen | Divine Temple | A retired champion who tells tall tales of his past. |
+| **"Cosmic Duelist Challenger"**| Fury-Eater | Fury Temple | A being of pure light who fights with a sun-blade. |
+| **"Blade-Breaker Elder"** | Harmony Cult | Harmony Cult | Can meditate for days without moving. |
+| **"Forge-Master's Journeyman"**| Echo-Weaver Minion | Echo Nexus | Can forge weapons from any echo. |
+| **"Shadow-Duelist Grandmaster"**| Chord Thief | Black Market | Can kill a man with a single shadow. |
+| **"Bookie's Grandmaster"** | Cosmic Harmony Seeker | Ancient Ruins | Can predict the outcome of any harmony. |
+| **"Echo-Warrior Grandmaster"**| Essence of Peace Keeper | Echo Nexus | A warrior who has transcended his memory loss. |
+| **"Star-Shield Guardian"** | Ash-Weaver | Ash Blight | His shield can create a temporary force field. |
+| **"Void-Blade Priest"** | Nihilist Cultist | Nihilist Temple | Can channel the power of the Nihilists. |
+| **"Glory-Seeker Hero"** | Cosmic Harmony's Chosen | Divine Temple | A champion who fights for honor, not fame. |
+| **"Cosmic Duelist Veteran"** | Fury-Eater | Fury Temple | A being of pure fury who fights with a shadow-blade. |
+| **"Blade-Breaker Grandmaster"**| Harmony Cult | Harmony Cult | Can disarm an entire army with a single gesture. |
+| **"Forge-Master's Grandmaster"**| Echo-Weaver Minion | Echo Nexus | Can forge weapons from pure thought. |
+| **"Shadow-Duelist Grandmaster"**| Chord Thief | Black Market | Can kill a man with a single thought. |
+| **"Bookie's Grandmaster"** | Cosmic Harmony Seeker | Ancient Ruins | Can predict the outcome of any event. |
+| **"Echo-Warrior Grandmaster"**| Essence of Peace Keeper | Echo Nexus | A warrior who has transcended his memory loss. |
 
 ---
 
-# Section 4: LOCATIONS
+## 4. LOCATIONS
 [TAG: LOCATIONS_MAIN]
 
-### Zone 1: Rome (The Gilded Cage)
-*Sensory Details:* Smell of exhaust and blooming jasmine. The sound of Vespas harmonizing with church bells.
-1.  **The Spanish Steps:** An illusionary trap; if you count the steps wrong, you fall into a dungeon.
-2.  **Vinciguerra Estate:** A villa where the statues turn their heads to watch you.
-3.  **The Vatican Archives:** Contains the "Devil's Bible" which serves as a cypher for HYDRA codes.
-4.  **Café L’Ombra:** Shadows are detached from owners here.
-5.  **The Colosseum Underground:** Where illegal gladiator fights happen between magical constructs.
+### Zone 1: The Harmony Cult Sanctuary
+*   **Concept:** A sprawling, magical institution where students learn to master the art of harmony.
+*   **Loc 1: The Grand Harmony's Study:** A vast library filled with ancient texts, magical scrolls, and the Grand Harmony's personal notes. **Smell:** Old parchment, ink, and the faint scent of forgotten stories. **Sound:** The rustle of pages and the occasional, delighted gasp of a student.
+*   **Loc 2: The Harmony Archive:** A magical archive that stores the harmonious dust of every known lost chord in existence. **Smell:** Concentrated essence of every belief imaginable. **Sound:** A faint, harmonious hum of pure harmony.
+*   **Loc 3: The Harmony Training Grounds:** A magical arena where students practice weaving harmony into reality. **Smell:** Ozone and the faint scent of magic. **Sound:** The clang of steel, the roar of monsters, and the shouts of students.
+*   **Loc 4: The Echo-Weavers Guildhall:** A grand hall where Echo-Weavers gather to rehearse their roles and hone their craft.
+*   **Loc 5: The Fourth Wall Breach:** A hidden chamber where the Fourth Wall Breakers gather to discuss their plans and communicate with the Narrator.
 
-### Zone 2: Berlin (The Split City)
-*Sensory Details:* Smell of wet concrete and ozone. The constant low hum of the Wall's magical barrier.
-1.  **Checkpoint Charlie:** The portal threshold. Passing through causes "Soul Lag" (Disadvantage on WIS for 1 hour).
-2.  **The East Side Gallery:** Graffiti that moves and screams propaganda.
-3.  **Club Eden:** A West Berlin disco where time slows down (1 hour inside = 10 minutes outside).
-4.  **The Stasi Bunker:** Located *inside* a pocket dimension in a subway bathroom.
-5.  **No Man’s Land:** Filled with invisible landmines that erase your memory of the explosion.
+### Zone 2: The Ash Wastes
+*   **Concept:** A desolate, colorless landscape where the Monotony has drained all taste and color from existence.
+*   **Loc 1: The Blank Slate's Lair:** A massive, colorless fortress where the Blank Slate resides. **Smell:** The smell of nothing, the absence of scent. **Sound:** Absolute, unnerving silence.
+*   **Loc 2: The Ash Wastes:** A vast, desolate plain where all food tastes like ash. **Smell:** Ash and despair. **Sound:** The whisper of the wind and the occasional, mournful sigh.
+*   **Loc 3: The Colorless Forest:** A forest where all trees and plants are devoid of color.
+*   **Loc 4: The Memory Drainer:** A massive, magical device that actively drains memories from the surrounding area.
+*   **Loc 5: The Nihilist's Altar:** A grim altar where the Nihilist's cultists perform their anti-remembrance rituals.
 
-### Zone 3: Monte Carlo (The Casino of Fate)
-*Sensory Details:* Smell of expensive perfume and desperate sweat. The sound of clinking chips sounding like reloading guns.
-1.  **The Casino Royale:** The roulette wheel determines local gravity settings.
-2.  **The Marina:** Yachts that are actually aquatic dragons in disguise.
-3.  **Hotel de Paris:** The elevator has a button for "Floor 13" which goes to Hell (literally).
-4.  **The Grand Prix Track:** Enchanted to make vehicles drive faster than physics allows.
-5.  **The Vault:** Floating in a zero-G chamber beneath the sea.
+### Zone 3: The Forgetting's Domain
+*   **Concept:** A chaotic, nonsensical dimension where discarded memories and forgotten plot points coalesce into dangerous anomalies.
+*   **Loc 1: The Forgetting Collective Headquarters:** A utilitarian building where the First Forgetting and his team work to eliminate memories. **Smell:** Burnt circuits and stale coffee. **Sound:** The frantic clicking of keyboards and whispered conversations.
+*   **Loc 2: The Unreliable Narrator's Lair:** A constantly shifting, illusory space where the Liar resides, actively distorting reality. **Smell:** Confusion and the faint scent of deception. **Sound:** The echoing whispers of false promises.
+*   **Loc 3: The Foreshadowing Fanatic's Sanctuary:** A hidden sanctuary where the Seer of the Coming Storm and her cultists gather to predict future plot points.
+*   **Loc 4: The Character Development Committee's Office:** A sterile, bureaucratic office where the Therapist and her team manipulate emotional arcs.
+*   **Loc 5: The Deus Ex Machina Workshop:** A chaotic workshop where the Great Crane and its collective build their convenient solutions.
 
-### Zone 4: HYDRA Island (The Retro-Future)
-*Sensory Details:* Smell of sterilized plastic and sea salt. The sound of whirring servers and crashing waves.
-1.  **The Launch Pad:** Rocket disguised as a volcano.
-2.  **The Torsion Chamber:** A room where up is down and left is yesterday.
-3.  **The Botanical Gardens:** Plants that eat spies.
-4.  **The Submarine Pen:** Water is electrified.
-5.  **Waverly’s Office:** The desk is a giant mimic.
-
-### Zone 5: The Swiss Alps (Neutral Ground)
-*Sensory Details:* Smell of crisp snow and hot chocolate. The deafening silence of the mountains.
-1.  **Uncle Rudi’s Pub:** A pocket dimension where weapons disappear upon entry.
-2.  **The Sanatorium:** Front for brainwashing experiments.
-3.  **The Ski Lift:** Goes to a secret orbital station if you have the right ticket.
-4.  **The Glacier:** Contains frozen ancient horrors.
-5.  **The Bank:** Vaults guarded by Sphinxes.
+### Zone 4: The Cosmic Harmony's Mind
+*   **Concept:** A surreal, ever-shifting landscape that is the physical manifestation of the Cosmic Harmony's thoughts and desires.
+*   **Loc 1: The Library of Unwritten Stories:** A vast library filled with books that are constantly writing and un-writing themselves. **Smell:** Old paper, ink, and the faint scent of forgotten dreams. **Sound:** The rustle of a million pages turning.
+*   **Loc 2: The Character Graveyard:** A desolate plain filled with the discarded archetypes of characters who never made it into a story.
+*   **Loc 3: The Plot Twist Labyrinth:** A maze of shifting corridors and unexpected turns.
+*   **Loc 4: The World-Building Workshop:** A chaotic workshop where new realities are sketched out and discarded.
+*   **Loc 5: The Cosmic Harmony's Throne:** A massive, empty throne that occasionally flickers with the Cosmic Harmony's presence.
 
 ---
 
-# Section 5: QUEST ARCHITECTURE
+## 5. QUEST ARCHITECTURE
 [TAG: QUEST_MAIN]
 
-1.  **The Pickup:** Solo/Illya recruited. Meet at public bathroom. Fight Ghouls.
-2.  **The Crash:** Both track Gaby. Meet violently. Chase sequence.
-3.  **The Handcuffing:** Handlers force partnership. Investigate Rome shipping yard.
-4.  **The Art Heist:** Infiltrate Vinciguerra party. Steal the "Cypher Statue."
-5.  **The Trap:** Statue is a bomb. Escape collapsing villa.
-6.  **The Berlin Crossing:** Smuggle Gaby into East Berlin to find father’s notes.
-7.  **The Wall:** Fight the Concrete Golem at the wall.
-8.  **The Data:** Find father’s lab. He’s gone. Evidence points to HYDRA.
-9.  **The Betrayal:** Handlers order agents to kill each other. They refuse.
-10. **Going Rogue:** Escape both CIA and KGB hit squads in Monte Carlo.
-11. **The Casino:** Win the entry fee for HYDRA island at the tables (cheating required).
-12. **The Island:** Infiltrate the base disguised as high-rollers.
-13. **The Reveal:** Meet Waverly (Bad). Learn about Torsion Device.
-14. **The Torture:** Captured. Torture sequence (escape via electric chair overload).
-15. **The Climax:** Stop the rocket launch. Fight Waverly in zero-G.
-16. **The Choice:** Device is unstable. Must sacrifice it or keep it.
-17. **The End:** Ride the debris down. Kiss or punch partner.
+### Main Quest: The Cosmic Harmony's Rebirth
+1.  **The Enrollment:** The party enrolls in the Harmony Cult, each with their own unique connection to harmony.
+2.  **The Fading Echoes:** The Cosmic Harmony's fury intensifies, causing the world to lose its narrative cohesion.
+3.  **The Missing Fragment:** A vital fragment of the Cosmic Harmony, the Essence of Peace, is stolen from the Harmony Cult.
+4.  **The Plot Hole Patrol:** The party must navigate a dangerous plot hole to retrieve the missing fragment.
+5.  **The Forgetting's Threat:** The Forgetting Collective attempts to erase all memories from existence.
+6.  **The Echo-Weavers' Dilemma:** The party must convince a group of Echo-Weavers to break character and help them.
+7.  **The Fourth Wall Breach:** The party seeks out the Fourth Wall Breakers for guidance on how to communicate with the Cosmic Harmony.
+8.  **The Unreliable Narrator's Truth:** The party must confront the Liar and force him to speak the truth about the missing fragment.
+9.  **The Foreshadowing Fanatic's Warning:** The Seer of the Coming Storm reveals a cryptic prophecy about the Cosmic Harmony's fate.
+10. **The Character Development Committee's Intervention:** The Therapist attempts to force the party into a predetermined emotional arc.
+11. **The Deus Ex Machina Collective's Aid:** The party must hijack a Deus Ex Machina event to create a convenient solution to a seemingly impossible problem.
+12. **The Nihilists' Gambit:** The Blank Page and his cultists attempt to erase all meaning from existence.
+13. **The Cosmic Harmony's Mind:** The party must enter the Cosmic Harmony's mind to retrieve the missing fragment.
+14. **The Plot Twist Labyrinth:** The party must navigate a maze of shifting corridors and unexpected turns.
+15. **The World-Building Workshop:** The party discovers the true nature of the Cosmic Harmony and its connection to the Cosmic Storyteller.
 
 [TAG: QUEST_SIDE]
+### Side Quests (Table of 30)
+
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Cufflink | Solo | Retrieve lucky cufflink from a shark. | +1 CHA |
-| The Cold Borscht | Illya | Find a soup that reminds him of mom. | +1 CON |
-| The Singing Sword | Uncle Rudi | Steal a blade that hums top 40 hits. | Singing Rapier |
-| Fashion Crimes | Madame Vane | Assassinate a target wearing crocs. | Silk Armor |
-| The Invisible Man | Marcel | Find the mime who actually vanished. | Invisible Ink |
-| Radio Free Europe | The DJ | Plant a transmitter on the Eiffel Tower. | Bardic Inspiration |
-| The Haunted Tank | Gaby | Exorcise a ghost from a T-34 tank. | Ghost Tank Summons |
-| Operation: Haircut | Sanders | Shave a sleeping Yeti. | Winter Gear |
-| The Atomic Martini | Bartender | Find ingredients (Liquid Fire, Ice from Pluto). | Potion of Breath |
-| The Double | Waverly | Kill your own clone. | Identity Papers |
-| The Love Letter | Soldier | Deliver letter across No Man's Land. | Sniper Rifle |
-| The Glitch | Control | Debug a computer that learned to hate. | Hacking Tool |
-| The Red Shoe | Ballerina | Steal the shoe that forces you to dance. | Boots of Speed |
-| The Poker Game | Croupier | Win without looking at cards. | Luck Point |
-| The Dead Drop | Ghost | Deliver info to a grave. | Necrotic Resist |
-| The Silent Disco | Club Owner | Stop the psychic scream at the club. | Sonic Resist |
-| The Cat Rescue | Old Lady | Rescue cat from a pocket dimension. | Bag of Holding |
-| The Wine Run | Chef | Escort wine that explodes if shaken. | 500 Gold |
-| The Microfilm | Spy | Swallow the film, don't digest it. | CON Save Adv. |
-| The Defector | Scientist | Smuggle a brain in a jar. | INT Buff |
-| The Jazz Solo | Musician | Play a sax solo that opens a door. | Magic Instrument |
-| The Wrong Car | Valet | You stole a vampire's hearse. Return it. | Vampiric Dagger |
-| The Tailor's Debt | Luigi | Intimidate a fabric supplier. | Disguise Kit |
-| The Broken Clock | Watchmaker | Fix a watch that runs backward. | Initiative Bonus |
-| The Golden Gun | Scaramanga | Duel at sunrise. | Golden Pistol |
-| The Poisoned Pen | Writer | Destroy a book writing itself. | Scroll of Erasure |
-| The Dog Walker | Fifi | Walk the telepathic poodle. | Mind Reading |
-| The Ski Jump | Sven | Jump the ravine on one ski. | DEX Buff |
-| The Photo Op | Tourist | Take a photo of a vampire (impossible). | True Sight Lens |
-| The Last Supper | Priest | Protect the Pope from ninja nuns. | Holy Water Grenade |
+| **The Lost MacGuffin** | Grand Harmony | Retrieve a lost MacGuffin from a forgotten narrative. | A powerful, but narratively useless, item. |
+| **The Redshirt's Revenge** | Redshirt's Ghost | Avenge the death of a Redshirt who died too early in the plot. | A temporary immunity to being a Redshirt. |
+| **The Deus Ex Machina's Malfunction**| Deus Ex Machina Collective | Fix a malfunctioning Deus Ex Machina that is causing inconvenient coincidences. | A convenient coincidence when you need it most. |
+| **The Plot Hole's Appetite** | Plot Hole Patrol | Feed a hungry plot hole with a discarded narrative. | A temporary immunity to plot holes. |
+| **The Unreliable Witness's Testimony**| Continuity Cop | Get a consistent testimony from an Unreliable Narrator. | A clue that is actually true. |
+| **The Foreshadowing Fanatic's Warning**| Seer | Prevent a minor, but inevitable, disaster. | A glimpse of a future plot point. |
+| **The Character Arc's Deviation** | Therapist | Force a character to deviate from their predetermined emotional arc. | A permanent +1 to a mental stat. |
+| **The Cosmic Storyteller's Dream** | Legend-Weaver | Enter the Storyteller's dream and plant a new idea. | A new, interesting plot point. |
+| **The Protagonist's Dilemma** | Protagonist | Help the Protagonist make a difficult choice. | A permanent +1 to a social stat. |
+| **The Mentor's Lesson** | Mentor | Learn a new skill from the Mentor before they vanish. | A new skill or proficiency. |
+| **The Villain's Redemption** | Villain | Convince the Villain to turn good. | A powerful, but reluctant, ally. |
+| **The Love Interest's Rescue** | Love Interest | Rescue the Love Interest from a perilous situation. | A romantic subplot. |
+| **The Comic Relief's Joke** | Comic Relief | Help the Comic Relief tell a joke that actually lands. | A temporary boost to morale. |
+| **The Fourth Wall Repairman's Tool**| GNEA Agent | Retrieve a lost tool from a dangerous plot hole. | A tool that can fix minor reality breaches. |
+| **The Continuity Error's Correction**| Continuity Cop | Correct a minor continuity error in the Narrative. | A temporary boost to luck. |
+| **The Unreliable Narrator's Truth**| Liar | Force the Liar to speak a single, undeniable truth. | A powerful, but dangerous, piece of information. |
+| **The Foreshadowing Fanatic's Prophecy**| Seer | Decipher a cryptic prophecy about the party's future. | A warning about a future danger. |
+| **The Character Arc Therapist's Session**| Therapist | Attend a therapy session with the Therapist. | A moment of self-discovery. |
+| **The Cosmic Storyteller's Agent's Mission**| GNEA Agent | Complete a mission for the Storyteller's Agents. | A temporary immunity to narrative interference. |
+| **The Archetype Actor's Audition**| Archetype Actors Guild | Help an Archetype Actor prepare for an audition. | A favor from the Guild. |
+| **The Plot Hole Patrol's Cleanup**| Continuity Cop | Clean up a minor plot hole before it causes a major paradox. | A temporary boost to perception. |
+| **The Legend-Weaver's Favor** | Master of Tropes | Perform a small favor for the Master of Tropes. | A minor narrative thread to manipulate. |
+| **The Fourth Wall Breaker's Message**| Narrator | Deliver a message to another Fourth Wall Breaker. | A piece of meta-knowledge. |
+| **The Deus Ex Machina Collective's Request**| Great Crane | Retrieve a specific part for a new Deus Ex Machina device. | A convenient coincidence when you need it most. |
+| **The Unreliable Narrator's Story**| Liar | Help the Liar craft a new story that is both entertaining and true. | A temporary boost to charisma. |
+| **The Foreshadowing Fanatic's Prediction**| Seer | Prevent a minor disaster that was foreshadowed. | A temporary boost to initiative. |
+| **The Character Development Committee's Intervention**| Therapist | Intervene in a character's emotional arc to prevent a breakdown. | A temporary boost to wisdom. |
+| **The Cosmic Storyteller's Agent's Dilemma**| GNEA Agent | Help an agent who is struggling with their predetermined role. | A temporary boost to empathy. |
+| **The Archetype Actor's Break** | Archetype Actor | Help an Archetype Actor take a break from their role. | A temporary boost to creativity. |
+| **The Plot Hole Patrol's Investigation**| Continuity Cop | Investigate a series of strange disappearances caused by a plot hole. | A temporary boost to investigation. |
 
 ---
 
-# Section 6: ITEM DATABASE
+## 6. ITEM DATABASE
 [TAG: ITEM_LEGENDARY]
 
-1.  **The Torsion Device:** Wondrous Item. Action to activate. Roll d100. On 1-50, rewrite the last round of combat. On 51-100, summon a Black Hole that deals 10d10 force damage to everything in 100ft.
-2.  **Solo’s Cigarette Case:** Wondrous Item. Contains infinite cigarettes. Smoke creates a fog cloud. Once per day, offers a cigarette to an enemy; if they accept, they are Charmed for 1 hour.
-3.  **Kuryakin’s Cap:** Headgear. Grants advantage on Insight checks. Can be thrown like a frisbee (1d8 bludgeoning, returns to hand).
-4.  **Gaby’s Wrench:** Weapon (Club). +3 Magic Weapon. Deals double damage to Constructs/Vehicles. Can cast *Mending* at will.
-5.  **The Velvet Suit:** Armor (Light). AC 13 + Dex. You cannot be targeted by Opportunity Attacks because you look too good to interrupt.
+### Artifacts of Agents of Concordia
+1.  **The Cosmic Harmony (Fragment):** A pulsating, organic fragment of the original Cosmic Harmony. It grants immense vitality and regeneration, but also causes the user to feel the raw, untamed fury of the Cosmic Harmony.
+2.  **The Harmony-Weaver's Loom:** A portable loom that allows the user to weave harmony into powerful artifacts and wondrous compounds.
+3.  **The Harmony Archive Key:** A key that can open the Harmony Archive, granting access to the harmonious dust of every known lost chord in existence.
+4.  **The Recipe of Rebirth:** A legendary recipe that, when perfectly executed, grants the consumer eternal rebirth. It requires a single, impossible ingredient.
+5.  **The Cosmic Harmony's Vial:** A vial containing a single drop of the Cosmic Harmony's tears. When consumed, it grants immense power, but slowly consumes the user's own memories.
 
 [TAG: ITEM_LOOT]
-
-1.  **Screaming Tie Clip:** Screams when near poison.
-2.  **Lipstick of Truth:** Anyone kissed must answer 3 questions truthfully.
-3.  **Exploding Pen:** 3 charges. 4d6 Fire damage.
-4.  **X-Ray Specs:** See through 1 inch of lead or 1 layer of clothing (Disadvantage on CHA checks while wearing).
-5.  **Shoe Phone:** Range 1 mile. Disadvantage on Stealth (it rings).
-6.  **Grapple-Watch:** 30ft cable.
-7.  **Instant Hole:** Portable hole, but only 1ft deep.
-8.  **Sleeping Gas Perfume:** Con Save DC 15 or sleep 1 min.
-9.  **Jetpack Tuxedo:** Flight 30ft for 1 min. Ruined after use.
-10. **Micro-Camera:** Size of a fly.
-11. **Banana Peel Mine:** Deploys a slick surface. Dex save DC 15 or prone.
-12. **Rocket Umbrella:** Shield +2. Can fire tip for 1d10 piercing.
-13. **Chameleon Coat:** Advantage on Stealth when stationary.
-14. **Silent Shoes:** Footsteps make no sound.
-15. **Hacking Gum:** Chewing increases INT by +2. Sticking it on a lock opens it (consumable).
-16. **Vodka of Courage:** Immune to Fear for 1 hour. Intoxicated condition.
-17. **Passport of Blankness:** Appears as whatever ID the guard expects to see.
-18. **Ejector Seat Pants:** Launch wearer 20ft up as a reaction.
-19. **Laser Watch:** Cutting tool. 1d4 radiant.
-20. **Self-Destructing Note:** Reads itself aloud then bursts into flame.
+### Custom Loot (Weird/Low Probability)
+1.  **A Jar of Harmonious Dust:** It occasionally glows faintly with residual fury.
+2.  **The Self-Stirring Baton:** It stirs itself, but only when no one is looking.
+3.  **A Bell Jar that Whispers Chords:** It whispers chords, but only in a language you don't understand.
+4.  **The Ever-Empty Particle Jar:** It's always empty, no matter how many particles you put in it.
+5.  **A Bottle of Tears of Pure Joy:** When drunk, it grants a temporary boost to happiness, but also makes you cry uncontrollably.
+6.  **The Recipe for Disaster:** A recipe that, when followed, always results in a catastrophic harmony failure.
+7.  **An Atomic Jar that Changes Memory:** The ash inside changes memory every time you open it.
+8.  **The Culinary Critic's Monocle:** It allows you to see the flaws in any harmony, but it also makes you incredibly judgmental.
+9.  **A Sugar Cube that Sings:** It sings a sweet, syrupy song when you put it in your mouth.
+10. **The Bitter Pill:** A pill that, when swallowed, makes everything taste bitter for an hour.
+11. **The Harmonious Fork:** A fork that, when used, balances the particles of any being.
+12. **The Divine Taster's Napkin:** It can instantly identify any corrupted harmony and restore it to its original state.
+13. **A Chef's Hat that Grants Inspiration:** It occasionally whispers new harmony formulas into your ear.
+14. **The Recipe Thief's Lockpick:** It can pick any lock, but it also steals a random harmony formula from your mind.
+15. **The Sugar Golem's Heart:** A pulsating, sugar-crystal heart that grants a temporary boost to sweetness.
+16. **The Sour Knight's Shield:** It's covered in a lingering, bitter taste that causes despair.
+17. **The Umami Philosopher's Robe:** Wearing it makes you feel strangely balanced and harmonious.
+18. **The First Palate's Herald's Trumpet:** It's a trumpet that, when blown, announces the arrival of a new particle.
+19. **A Monotony Cultist's Robe:** Wearing it makes you feel strangely bland and emotionless.
+20. **The Pepper King's Crown:** A crown made of chili peppers that makes your head feel incredibly hot.
 
 ---
 
-# Section 7: BESTIARY
+## 7. BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
-**1. Concrete Golem (Soviet Model)**
-*CR 5 Construct*
-**HP:** 80 | **AC:** 18 (Natural) | **Speed:** 20ft
-**Abilities:**
-*   *Wall Merge:* Can step into stone walls and travel instantly to another wall within 60ft.
-*   *Brutalist Smash:* +7 to hit, 2d10+4 bludgeoning. Target must succeed STR save or be restrained by quick-drying cement.
-
-**2. Glamour Shade (CIA Model)**
-*CR 3 Undead*
-**HP:** 40 | **AC:** 15 | **Speed:** 40ft (Hover)
-**Abilities:**
-*   *Memory Wipe:* Target must succeed WIS save or forget the last minute (lose their Action).
-*   *Psychic Pistol:* Ranged spell attack, 2d8 psychic.
-
-**3. Jazz Elemental**
-*CR 4 Elemental*
-**HP:** 60 | **AC:** 14 | **Speed:** 50ft
-**Abilities:**
-*   *Syncopation:* Displaces reality. Attacks against it have Disadvantage if the roll is even.
-*   *Brass Blast:* 15ft Cone. 3d6 Thunder damage.
-
-**4. Red Tape Demon**
-*CR 2 Fiend*
-**HP:** 30 | **AC:** 12 | **Speed:** 10ft
-**Abilities:**
-*   *Bureaucracy:* Cast *Hold Person* (Requisition Form) at will.
-*   *Paper Cut:* +4 to hit, 1d4 slashing + 2d6 necrotic.
-
-**5. Fashion Assassin**
-*CR 3 Humanoid*
-**HP:** 45 | **AC:** 16 (Silk Suit) | **Speed:** 30ft
-**Abilities:**
-*   *Stiletto Heel:* +6 to hit, 1d6 piercing + poison.
-*   *Look to Die For:* Gaze attack. Stunned until end of next turn.
-
-**6. Mime Killer**
-*CR 3 Humanoid*
-**HP:** 35 | **AC:** 17 (Invisible Armor) | **Speed:** 30ft
-**Abilities:**
-*   *Invisible Box:* Creates a 5ft cube barrier.
-*   *Silent Strike:* Deals extra 2d6 damage if target hasn't acted.
-
-**7. Cyborg Doberman**
-*CR 1 Beast*
-**HP:** 20 | **AC:** 14 | **Speed:** 50ft
-**Abilities:**
-*   *Laser Eye:* Ranged attack 1d6 fire.
-*   *Metal Jaw:* +5 to hit, 1d8 piercing + grapple.
-
-**8. HYDRA Soldier**
-*CR 1/2 Humanoid*
-**HP:** 15 | **AC:** 14 | **Speed:** 30ft
-**Abilities:**
-*   *Fanatic:* Advantage on saves vs Fear.
-*   *Spray and Pray:* Auto-hit area 10ft, DC 12 Dex save for half of 2d6.
-
-**9. Vampire Socialite**
-*CR 6 Undead*
-**HP:** 90 | **AC:** 16 | **Speed:** 30ft/fly
-**Abilities:**
-*   *Champagne Flute:* Throws glass shards (Magic Missile).
-*   *Charm:* Wisdom Save DC 15.
-
-**10. The Torsion Anomaly**
-*CR 8 Aberration*
-**HP:** 120 | **AC:** 10 | **Speed:** 0
-**Abilities:**
-*   *Reality Warp:* Swaps the positions of two creatures.
-*   *Unmake:* Con save DC 16 or take 4d10 Force damage.
+### Custom Stat Blocks
+1.  **Forgetting (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
+2.  **Nihilist Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Harmony Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on harmony checks), *Meaningless Zealot* (Immune to fear).
+3.  **Echo-Weaver (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on harmony checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
+4.  **Chord Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Chord-Jar* (Can extract a chord directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
+5.  **Cosmic Harmony Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
+6.  **Ash-Weaver (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
+7.  **Cosmic Harmony's Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Harmony (Corrupted)* (Can instantly restore any lost chord to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful harmony spells that cause chaos).
+8.  **Fury-Eater (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
+9.  **The Blank Slate (Nihilist Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Harmony Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+10. **The Cosmic Harmony's Fury (Avatar)** (CR 20 Cosmic Entity). HP: 400, AC: 22. **Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Harmony* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
 
 [TAG: ENCOUNTER_TABLE]
-**Urban Encounter (d20)**
-1.  Stasi tailing you.
-2.  Runaway Vespa.
-3.  Jazz Elemental burst from manhole.
-4.  Mime blockade.
-5.  Double agent offering info.
-6.  Fashion police (literally).
-7.  Sudden parade (difficult terrain).
-8.  Sniper in window.
-9.  Market stall mimic.
-10. Propaganda poster comes to life.
-11-19. Generic Thugs.
-20. Waverly himself (illusion).
+### Encounter Tables (d20)
+
+**Harmony Cult Sanctuary:**
+1.  A student accidentally creates a sentient harmony.
+2.  An Echo-Weaver escapes from a containment field.
+3.  A Nihilist tries to spread meaninglessness among the students.
+4.  A Chord Thief attempts to steal a chord.
+5.  The Harmonious Chord arrives for a surprise inspection.
+6.  The Grand Harmony is in a bad mood, making everyone nervous.
+7.  A Forgetting runs amok in the archive.
+8.  An Ash-Weaver challenges a student to a harmony duel.
+9.  The Divine Harmony tries to balance a chaotic harmony.
+10. The Fury-Eater identifies a corrupted harmony.
+11-20. (The usual chaos of a busy sanctuary).
 
 ---
 
-# Section 8: MECHANICS
+## 8. MECHANICS
 [TAG: RULES_CUSTOM]
 
-**1. The Tension Meter (Social HP):**
-Instead of just physical HP, the party shares a "Tension Meter" (0-100).
-*   **Increase Tension:** Failed Stealth, Public Violence, Rudeness to Waiters.
-*   **Decrease Tension:** Successful Banter, Drinking Alcohol, looking Cool.
-*   *Effect:* At 100 Tension, the mission is scrubbed/ambush triggers.
+### Subsystem: Harmony Balance
+*   **Balance Score (0-10):** Represents the emotional balance of the current zone. Starts at 5.
+*   **Gaining Balance:** Restoring corrupted chord, creating harmonious emotions, performing "balanced" actions.
+*   **Losing Balance:** Creating chaotic emotions, succumbing to the Cosmic Harmony's fury, experiencing prolonged emotional instability.
+*   **Effects:**
+    *   *High Balance:* Emotions are stable, predictable. Spells work as intended.
+    *   *Low Balance:* Emotions are unstable, unpredictable. Spells can backfire, physics glitches.
+    *   *0 Balance:* The zone collapses into a single, undifferentiated emotion.
 
-**2. The Martini Curve:**
-Skill checks for CHA and DEX get a +1 bonus for every level of "Intoxication" (up to +3). However, INT and WIS checks get a -2 penalty. Players must balance being drunk enough to fight/flirt, but sober enough to defuse the bomb.
-
-**3. Banter as Combat:**
-Players can use a Bonus Action to "Quip." Make a CHA (Performance) check vs Enemy WIS. Success gives the enemy Disadvantage on their next attack. Failure gives the enemy Advantage.
-
-**4. Cover Identity:**
-Players have a "Cover Integrity" score. If they use class abilities that don't fit the cover (e.g., a Barbarian Rage while posing as a Duke), Integrity drops. If it hits 0, initiative rolls.
+### Subsystem: Harmony-Weaving
+*   **Harmony-Weaving:** Magic is treated as manipulating the harmonious dust of lost things. Spells are "rituals."
+*   **Fury Risks:** If a spellcaster rolls a natural 1 on a spell attack or saving throw, they cause a "Fury Surge." The spell backfires, or a minor emotional glitch occurs in the simulation.
+*   **Particle Injection:** Harmony-Weavers can attempt to "inject" custom particles into the simulation, creating unique effects. This requires a successful INT (Harmony-Weaving) check, with the DC determined by the complexity of the desired effect.
 
 ---
 
-# Section 9: SESSION GUIDE
+## 9. SESSION GUIDE
 [TAG: DM_GUIDE]
 
-**Session 1: The Meet Cute.**
-*Beat:* Solo and Illya track a target to a public bathhouse.
-*Combat:* Fight naked/towel-clad assassins (Comedy fight).
-*Social:* Meet handlers, get forced into a team.
-
-**Session 2: The Asset.**
-*Beat:* Track Gaby to East Berlin garage.
-*Combat:* Car chase escaping East Berlin. Gaby drives, players shoot.
-*Loot:* Mechanic’s Wrench.
-
-**Session 3: Rome.**
-*Beat:* Infiltrate Vinciguerra party.
-*Social:* High stakes poker/dancing. Use Banter system.
-*Weird:* Statues come to life.
-
-**Session 4: The Shipping Yard.**
-*Beat:* Investigate HYDRA shipping containers.
-*Combat:* Fight Cyborg Dobermans.
-*Clue:* Find traces of Torsion radiation.
-
-**Session 5: The Train.**
-*Beat:* Overnight sleeper train to Switzerland.
-*Social:* "There is only one bed" trope (or close quarters).
-*Combat:* Assassin on the roof of the train.
-
-**Session 6: The Alps.**
-*Beat:* Uncle Rudi’s Pub.
-*Social:* Info gathering. No combat allowed (Neutral ground).
-*Lore:* Learn about Waverly’s evil twin.
-
-**Session 7: The Betrayal.**
-*Beat:* Handlers order the kill.
-*Drama:* PvP standoff, interrupted by HYDRA ambush.
-*Result:* Players go rogue.
-
-**Session 8: Monte Carlo.**
-*Beat:* Need money.
-*Mini-Game:* Casino Heist using skills/magic.
-*Loot:* Tuxedo of Flight.
-
-**Session 9: The Island Approach.**
-*Beat:* Storming the beach/underwater entry.
-*Combat:* Naval mines and squid monsters.
-
-**Session 10: The Lair.**
-*Beat:* Dungeon crawl through retro-future base.
-*Weird:* The Gravity Room puzzle.
-
-**Session 11: The Torsion Device.**
-*Beat:* Boss fight vs Evil Waverly & Victoria.
-*Mechanic:* Reality shifts every round (change maps).
-
-**Session 12: Escape.**
-*Beat:* Base self-destructs.
-*Skill Challenge:* Escape sequence.
-*Epilogue:* The Kiss/Handshake.
+*   **Session 1: The Enrollment.** The party enrolls in the Harmony Cult. They meet the Grand Harmony and their fellow students. *Social:* A harmony challenge to prove their worth.
+*   **Session 2: The Fading Echoes.** The Cosmic Harmony's fury intensifies, causing the world to lose its narrative cohesion. The party investigates the Cult, suspecting the Nihilists. *Heist:* Infiltrate the Harmony Archive.
+*   **Session 3: The Missing Fragment.** A vital fragment of the Cosmic Harmony, the Essence of Peace, is stolen. *Combat:* Rescue an enslaved Echo-Weaver.
+*   **Session 4: The Plot Hole Patrol.** The party discovers the Plot Hole Patrol is spreading meaninglessness. *Exploration:* Navigate a colorless forest.
+*   **Session 5: The Forgetting's Threat.** The Forgetting Collective attempts to erase all memories from existence. *Social:* A high-stakes emotional manipulation.
+*   **Session 6: The Echo-Weavers' Dilemma.** The party must convince a group of Echo-Weavers to break character and help them. *Heist:* A chase through the Cult Library.
+*   **Session 7: The Fourth Wall Breach.** The party seeks out the Fourth Wall Breakers for guidance on how to communicate with the Cosmic Harmony. *Combat:* A battle against harmony purists.
+*   **Session 8: The Unreliable Narrator's Truth.** The party must confront the Liar, whose words are changing reality. *Puzzle:* A balance-restoring challenge.
+*   **Session 9: The Foreshadowing Fanatic's Warning.** The Seer of the Coming Storm reveals a cryptic prophecy about the Cosmic Harmony's fate. *Social:* A philosophical discussion about meaning.
+*   **Session 10: The Character Development Committee's Intervention.** The Therapist attempts to force the party into a predetermined emotional arc. *Boss Fight:* A battle against the Blank Slate.
+*   **Session 11: The Nihilists' Gambit.** The Blank Page and his cultists attempt to erase all meaning from existence. *Combat:* A massive battle against the Nihilists.
+*   **Session 12: The Cosmic Harmony's Rebirth.** The party must rewrite the missing chapter, restoring meaning to existence and shaping the future of the Cosmic Harmony. *Climax:* The party must awaken the Cosmic Harmony from its fury, restoring harmony to the Ash Wastes.
 
 ---
 
-# Section 10: RAG INDEX
+## 10. RAG INDEX
 [TAG: INDEX_KEYWORDS]
-Agents of Concordia, UNCLE, HYDRA, Alexander Waverly, Napoleon Solo, Illya Kuryakin, Gaby Teller, Victoria Vinciguerra, Uncle Rudi, Torsion Device, Tunguska-Trinity Resonance, The Current, Glamour, Western Alliance, Eastern Dominion, Velvet Frequency, Sartorialist League, Bureau of Brutalist Architecture, Croupiers of Chance, Silent Cinema, Concrete Golem, Jazz Elemental, Red Tape Demon, Rome, Berlin, Monte Carlo, Swiss Alps, Checkpoint Charlie, Vinciguerra Estate, Tension Meter, Martini Curve.
+Agents of Concordia, Cosmic Harmony, Cosmic Ray, Agents, Concordia, Harmony Cult, Nihilists, The Forgetting, Echo-Weavers, Chord Thieves, Essence of Peace Keepers, Cosmic Harmony Seekers, Ash-Weavers Guild, Cosmic Harmony's Chosen, Fury-Eaters, Grand Harmony, The Blank Slate, The First Forgetting, The Lord of Echoes, The Master Thief, The Harmonious Chord, The Immortal Harmony, The Blight Warden, The Divine Harmony, Master Ash-Weaver Borin, Harmony Balance, Harmony-Weaving.
