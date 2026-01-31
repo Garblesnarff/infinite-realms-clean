@@ -1,495 +1,137 @@
-# CAMPAIGN BIBLE: ORDER OF THE EXCAVATION
+# Order of the Excavation: Campaign Bible
 
-## 1. DEEP LORE & HISTORY
-`[TAG: LORE_CORE]`
+## [TAG: LORE_CORE]
+### Origin Myth
+The World is a treasure chest that's waiting to be opened. Long ago, the 'Founders of Shovelry' realized that true heroism isn't found in a crown or a scepter, but in the call of the 'Strike the Earth.' They forged the 'Ancient Shovels'—tools of pure chivalry and excavation power—and used them to uncover the 'Gems of Virtue.' But the 'Enchantress' (The Shadow) has emerged from the Tower of Fate, corrupting the land with the 'Order of No Quarter'—eight themed knights who have abandoned their honor for power. Legend says that only a knight of cyan armor and golden accents can navigate the 'Themed Strongholds' and reunite the 'Shield of Protection.' The 'Aethel' of this world is the 'Treasure-Energy'—a shimmering force that turns gold and gems into fuel for heroic feats.
 
-### The Origin of the Bit-Plane
-In the beginning, there was only the Static. Then, the Great Developer inserted the Cartridge of Creation, blowing the Breath of Life into the connectors. The world rendered in layers: Background, Midground, and Foreground. The Palette was chosen—vibrant Cyans, Magentas, and Golds—and the logic of "The Grid" was established. Gravity became a constant downward force, save for those who knew the secrets of the Double Jump. It was a golden age of High Scores and perfect Frame Rates, until the Corrupted Sector began to expand from the Tower of Fate.
+### Timeline
+1.  **The Age of Digging (c. -1,000 years):** The first Shovel Knights uncover the Gems of Virtue and establish the Code of Chivalry.
+2.  **The Shield Betrayal (c. -10 years):** Shield Knight and Shovel Knight explore the Tower of Fate. Shield Knight is 'lost' to the Enchantress.
+3.  **The Rise of No Quarter (Last Year):** The Enchantress recruits eight themed knights to rule the strongholds of the land.
+4.  **The Call to Shovelry (Present Day - Day 1):** A cyan-armored knight (the player) leaves his quiet farm to reclaim the land from the Order of No Quarter.
+5.  **The Pridemoor Conquest (Ongoing):** Shovel Knight defeats King Knight in his golden castle, reclaiming the first Gem of Virtue.
+6.  **The Spectre Tower Ascent (Upcoming):** A gothic climb through a purple mist to face the Spectre Knight and his scythe.
+7.  **The Village Gathering (Ongoing):** A hub of friendly NPCs and shops is established at the base of the mountains.
+8.  **The Tower of Fate Reunion (Upcoming):** The final ascent to face the Enchantress and find the truth of Shield Knight's fate.
+9.  **The Present Day:** The world is a high-contrast nightmare of chunky pixels and vibrant colors. The gem eruption is imminent, and the cry 'For Shovelry!' echoes through the valleys.
 
-### Timeline of the Realms
-1.  **The Boot Sequence:** The world renders for the first time; the first "NPCs" awake with preset dialogue loops.
-2.  **The Age of Scrolling:** Civilization expands to the right. Going left is discovered to be physically impossible for centuries.
-3.  **The Palette War:** The Blue Kingdom and Red Empire fight until the Treaty of Purple is signed by the Specter.
-4.  **The Great Lag:** **(Rare Event)** Time slows to a crawl for ten years; people move in stuttering frames. Wizards call it "The Frame-Drop."
-5.  **The Input Delay:** A generation of warriors is born with slow reaction times, leading to the massacre at Reaction Ridge.
-6.  **Discovery of the Z-Axis:** Explorers find a way to move "into" the background, discovering the Secret Layer.
-7.  **The Glitch Plague:** **(Rare Event)** Villagers turn into garbled blocks of noise. The Alchemists cure it by resetting the local reality.
-8.  **The Rise of the Enchantress:** The Tower of Fate turns dark; the sky dithers into ominous black and purple.
-9.  **The Fall of Shovel & Shield:** The duo enters the Tower; only Shovel Knight returns, heartbroken and retired.
-10. **The Overflow Error:** **(Rare Event)** A merchant sells an item for negative gold, crashing the economy instantly.
+### The 'Why'
+The central conflict is the struggle for 'Honor' in a world of 'Themed Greed.' It is about the 'Retro Nostalgia' of standing before a boss—the realization that every pattern has a solution and every shovel has a story. The 'Why' is the question: 'Is a hero defined by what they dig up, or what they protect?' It explores the chunky pixels of the NES era, the joy of finding secret treasure, and the warmth of a campfire checkpoint. The players are the knights and assistants who must navigate the platforming hazards and boss patterns to find a resolution that honors the Code of Chivalry.
 
-### The Metaphysical "Why"
-The conflict exists because the **Source Code** is degrading. The Enchantress is not just a sorceress; she is a sentient **Malware** seeking to overwrite the world's logic, turning the vibrant adventure into a bleak, monochrome void. Shovel Knight’s shovel doesn't just dig dirt; it debugs the reality, uncovering the pristine code beneath the corruption.
+## [TAG: FACTION_DATA]
+### The Knights of Shovelry (The Heroes)
+**Type:** Association of Chivalrous Excavators
+**Leader:** Shovel Knight (Tier 1 NPC).
+**Asset:** Cyan armor, shovel-blade weapons, and the 'Strike the Earth' intuition.
+**Rivals:** The Order of No Quarter, The Enchantress.
 
----
+### The Order of No Quarter (The Bosses)
+**Type:** Elite/Themed Criminal Knight Guild
+**Leader:** King Knight (Socially) and The Enchantress (Spiritually).
+**Asset:** Themed strongholds, unique silhouettes (King, Spectre, Plague, Treasure), and absolute market control of gems.
+**Rivals:** The Knights of Shovelry.
 
-## 2. FACTIONS
-`[TAG: FACTION_DATA]`
+### The Village Hub (The Mundane)
+**Type:** Neutral/Service Class Town
+**Leader:** The Mayor.
+**Asset:** Shops with awnings, blacksmiths, and a network of friendly information brokers.
+**Rivals:** None (they are the people being protected).
 
-### [The Order of No Quarter]
-*   **Type:** Elite Boss Squad / Meritocracy
-*   **Leader:** The Enchantress (Puppet Master)
-*   **Asset:** The Tower of Fate (Magical conduit).
-*   **Rivals:** The Dig-Duo (Shovel/Shield), The Wandering Heroes.
+### The Enchantress's Coven (The Shadow)
+**Type:** Magical/Totalitarian Corrupting Force
+**Leader:** The Enchantress (Tier 1 NPC).
+**Asset:** Control of the Tower of Fate, 'Null-Honor' tech, and the ability to corrupt any hero.
+**Rivals:** Shield Knight.
 
-### [The Fellowship of the Shovel]
-*   **Type:** Idealistic Adventurers
-*   **Leader:** Shovel Knight
-*   **Asset:** The Campfire (Heals all wounds/restores sanity).
-*   **Rivals:** The Order, The Black Knight.
+### The Treasure Seekers (The Independent)
+**Type:** Neutral/Greed-Based Explorers
+**Leader:** Treasure Knight.
+**Asset:** Massive anchor weapons, knowledge of underwater blue tones, and a total disregard for the Code.
+**Rivals:** Both Knights (depending on the gold).
 
-### [The Troupple Faithful]
-*   **Type:** Aquatic Theocracy
-*   **Leader:** The Troupple King
-*   **Asset:** The Chalices of Ichor (Buff potions).
-*   **Rivals:** The Pollution Barons (Plague Knight).
+## [TAG: NPC_TIER_1]
+**Shovel Knight** (Hero - The Lead) - A knight in cyan armor with a horned helmet and hero's cape. **Voice:** Enthusiastic, earnest, and heroic. **Goal:** To defeat the Order of No Quarter and find Shield Knight. **Secret:** He is secretly a high-level Adept of 'Treasure-Energy' who can 'bounce' off an enemy's head using a downward shovel strike.
+**Shield Knight** (Hero - The Protector) - A knight in gold armor with a red cape and shield emblem. **Voice:** Warm, maternal, and protective. **Goal:** To guide Shovel Knight and protect him from the Enchantress. **Secret:** She is the current 'Host' for the Enchantress and is fighting a psychological war for her soul.
+**The Enchantress** (Shadow - The Mastermind) - A being of pure spectral energy and dark beauty. **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To rule the land through the corruption of honor and the collection of gems. **Secret:** She was once a Founder of Shovelry who was 'broken' by the weight of the treasure.
+**King Knight** (No Quarter - Pompous Boss) - A man in a golden crown and cape with a pompous stance. **Voice:** Arrogant, theatrical, and comically stern. **Goal:** To be the most famous and wealthy king in history. **Secret:** He is actually a high-level Illusionist who uses 'Golden Glitter' to hide his own insecurities.
+**Spectre Knight** (No Quarter - Melancholic Boss) - A man in purple and black with flowing spectral energy. **Voice:** Resonant, melancholic, and raspy. **Goal:** To serve the Enchantress and protect his gothic spire. **Secret:** He is already dead and is using his 'Scythe of Memories' to maintain his physical form.
 
-### [The Chester Conglomerate]
-*   **Type:** Inter-dimensional Merchants
-*   **Leader:** Chester
-*   **Asset:** Infinite Inventory Space.
-*   **Rivals:** Honest Shopkeepers.
-
-### [The Speedrunners]
-*   **Type:** Cult of Velocity (Rare/Weird)
-*   **Leader:** "Frame-Perfect" Felix
-*   **Asset:** "The Clip" (Ability to walk through thin walls).
-*   **Rivals:** The Completionists.
-*   **Belief:** They believe the world must be saved as fast as possible, ignoring all dialogue.
-
-### [The Hitbox Preservation Society]
-*   **Type:** Pacifist Monks
-*   **Leader:** Abbott Pixel
-*   **Asset:** Invisibility Cloaks.
-*   **Rivals:** The Hack-and-Slashers.
-
-### [The Colorless]
-*   **Type:** Nihilistic Terrorists
-*   **Leader:** The Grey Scale
-*   **Asset:** De-saturation Bombs (Turn zones black and white).
-*   **Rivals:** The Pridemoor Painters.
-
-### [The 8-Bit Purists]
-*   **Type:** Technological Luddites
-*   **Leader:** Old Man Sprite
-*   **Asset:** Ancient Artifacts (low-res but powerful).
-*   **Rivals:** The Tinker Knight’s Mechanists.
-
-### [The Sky Pirates of the Propeller]
-*   **Type:** Aerial Mercenaries
-*   **Leader:** Propeller Knight
-*   **Asset:** The Flying Machine (Airship fleet).
-*   **Rivals:** The Treasure Knight’s Navy.
-
-### [The Glitch-Hunters]
-*   **Type:** Arcane Researchers (Rare/Weird)
-*   **Leader:** MissingNo the Unknown
-*   **Asset:** "The Debug Stick" (Can edit enemy stats temporarily).
-*   **Rivals:** The Enchantress (She creates glitches; they study them).
-
----
-
-## 3. NPC ROSTER
-`[TAG: NPC_TIER_1]`
-
-**1. Shovel Knight** (Human Fighter) - Stoic, eternal optimist.
-*   **Voice:** Heroic baritone, speaks in short, punchy sentences. "Steel thy shovel!"
-*   **Goal:** Rescue Shield Knight.
-*   **Secret:** He is afraid he is becoming obsolete in a modernizing world.
-
-**2. The Enchantress** (Spirit/Possessor) - Seductive, echoing, cruel.
-*   **Voice:** Dual-layered voice, one high and sweet, one low and distorted.
-*   **Goal:** Overwrite the world's code.
-*   **Secret:** She is trapped in the amulet, not the body.
-
-**3. King Knight** (Human Bard/Paladin) - Pompous, insecure.
-*   **Voice:** Haughty, nasal, British aristocracy accent. High pitched laugh.
-*   **Goal:** To be adored by everyone.
-*   **Secret:** He still lives with his mother.
-
-**4. Spectre Knight** (Undead Rogue) - Cold, raspy, tragic.
-*   **Voice:** Whispered, like dry leaves scraping pavement. Reverb heavy.
-*   **Goal:** Protect Reize (his son's soul).
-*   **Secret:** He hates the Enchantress but is magically bound.
-
-**5. Plague Knight** (Human Alchemist) - Manic, stuttering, shy.
-*   **Voice:** High-pitched, fast, gibberish-adjacent. "Hee-hee! Boom!"
-*   **Goal:** Create the Ultimate Potion to woo Mona.
-*   **Secret:** He is actually incredibly handsome under the mask (no one believes it).
-
-**6. Treasure Knight** (Dwarf Artificer) - Greedy, boisterous.
-*   **Voice:** Deep, bubbly, like speaking underwater. Guttural pirate slang.
-*   **Goal:** Own 100% of the world's gold.
-*   **Secret:** He donates anonymously to orphanages (tax write-off).
-
-**7. Mole Knight** (Mole-kin Barbarian) - Gruff, sleepy.
-*   **Voice:** Low, gravelly, slow. Sounds like rocks grinding.
-*   **Goal:** Dig the deepest hole ever.
-*   **Secret:** He is claustrophobic.
-
-**8. Polar Knight** (Giant Viking) - Silent, imposing.
-*   **Voice:** Deep bass, slow, exhales sound like winter wind.
-*   **Goal:** Guard the Stranded Ship.
-*   **Secret:** He was Shovel Knight’s old mentor.
-
-**9. Tinker Knight** (Gnome Artificer) - Calculating, frantic.
-*   **Voice:** Mechanical, clipped, precise. Sounds auto-tuned.
-*   **Goal:** Build the perfect machine.
-*   **Secret:** He prefers organic gardening to machines.
-
-**10. Propeller Knight** (Human Swashbuckler) - Flamboyant, romantic.
-*   **Voice:** French accent, breathless, charming.
-*   **Goal:** Touch the clouds.
-*   **Secret:** He gets air-sick easily.
-
-**11. Shield Knight** (Human Paladin) - Possessed, struggling.
-*   **Voice:** Strained, fighting against the Enchantress's tone.
-*   **Goal:** Break free.
-*   **Secret:** She remembers everything she did while possessed.
-
-**12. The Black Knight** (Human Fighter) - Rival, protective.
-*   **Voice:** Snarky, muffled by helmet, cynical.
-*   **Goal:** Protect Shovel Knight from the truth.
-*   **Secret:** He is in love with Shield Knight too.
-
-**13. Chester** (Mimic-kin Merchant) - Insane, helpful.
-*   **Voice:** Loud carnival barker. "Step right up!"
-*   **Goal:** Sell junk for gold.
-*   **Secret:** He is a god of greed in disguise.
-
-**14. The Troupple King** (Fish Deity) - Majestic, wet.
-*   **Voice:** Booming, operatic, bubbly.
-*   **Goal:** Consume the Ichor.
-*   **Secret:** He controls the tides of the world.
-
-**15. Mona** (Human Alchemist) - Sweet, intelligent.
-*   **Voice:** Soft, scholarly, supportive.
-*   **Goal:** Master the art of potion brewing.
-*   **Secret:** She knows Plague Knight loves her; she's waiting for him to say it.
-
-**16. The Bard** (Human Bard) - Musical, quest-giver.
-*   **Voice:** Melodic, speaks in rhyming couplets.
-*   **Goal:** Collect all music sheets.
-*   **Secret:** He plays the background music the players hear.
-
-**17. Reize** (Human Rogue) - Youthful, adventurous.
-*   **Voice:** Cracking teenage voice, enthusiastic.
-*   **Goal:** Become a hero.
-*   **Secret:** He is the vessel for a dark spirit (Dark Reize).
-
-**18. Baz** (Human Barbarian) - Wannabe, intense.
-*   **Voice:** Grunting, loud, aggressive but pathetic.
-*   **Goal:** Join the Order of No Quarter.
-*   **Secret:** He was rejected by every guild.
-
-**19. Phantom Striker** (Lightning Spirit) - Honorable, fast.
-*   **Voice:** Static-filled, sharp, electric snaps.
-*   **Goal:** Duel worthy opponents.
-*   **Secret:** He is powered by a AA battery.
-
-**20. Mr. Hat** (Human/Hat?) - Obsessive, stylish.
-*   **Voice:** Changes based on the hat he wears (Military, posh, or wild).
-*   **Goal:** Wear every hat in existence.
-*   **Secret:** He has no head under the hats.
-
-`[TAG: NPC_TIER_2]`
-
+## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
-| :--- | :--- | :--- | :--- |
-| Goatician | Magic Vendor | Village | Eats the gold coins you give him immediately. |
-| Oolong | Musician | Village | Plays a goat instead of a lute. |
-| Madam Meeber | Fortune Teller | Village | Predicts the player's dice rolls before they happen. |
-| Percy | Horse-Man | Plains | Is a man wearing a horse head, neighs seriously. |
-| Blorb | Slime Pet | Dungeon | Cubical slime that only bounces on the beat of the music. |
-| Sir Grodus | Guard | Pridemoor | Can only turn left (Zoolander syndrome). |
-| Acolyte 64 | Cultist | Troupple Pond | Speaks in hexadecimal code. |
-| Grandma Swamp | Witch | Lich Yard | Offers cookies made of "suspicious bone meal." |
-| Depresso | Skeleton | Lich Yard | Too sad to attack; just sighs loudly. |
-| Sparky | Lab Assistant | Explodatorium | Constantly on fire, acts like it's fine. |
-| Bubbles | Diver | Iron Whale | Speaks only in bubbles (requires translation). |
-| Slippy | Ice Skater | Stranded Ship | Falls down every 3 steps, laughs historically. |
-| Dig-Doug | Miner | Lost City | Obsessed with finding "The Bottom." |
-| Cogssworth | Mechanic | Clockwork Tower | Ticks like a clock when nervous. |
-| Glide | Pilot | Flying Machine | Afraid of heights, keeps eyes closed. |
-| The Gastronomer | Chef | Village | Cooks food that tastes like "Blue." |
-| Hoop Kid | Child | Village | Rolls a hoop that defies physics. |
-| Sign-Post Guy | Guide | Roads | Holds a sign. Is actually the sign post come to life. |
-| Red | Dragon | Mountains | Only breathes smoke rings, no fire. |
-| Green | Dragon | Mountains | Breathes pixelated fire blocks. |
-| Checkpoint Gary | Save Point | Dungeons | Complains about how heavy the checkpoint flame is. |
-| Mimic Mike | Chest | Random | Tries to sell *you* items from inside his mouth. |
-| Hover-Mom | Villager | Village | Hovers 2 inches off ground due to lag. |
-| Pixel-Peep | Spy | Pridemoor | Only has one giant eye. |
-| The Auditor | Taxman | Village | Tries to tax the party's XP. |
-| Sir Scoop | Knight | Plains | Wields a giant spoon. Rival to Shovel Knight. |
-| Lady Lattice | Baker | Village | Bakes pies that float. |
-| Dither | Ghost | Spectre Tower | Fades in and out of existence mid-sentence. |
-| Boom-Boom | Demolitionist | Explodatorium | Explodes when startled (reforms later). |
-| Anchor-Man | News | Iron Whale | Reads news from a stone tablet live. |
-| Frosty Frank | Snowman | Stranded Ship | Aggressively offers warm hugs (deals cold damage). |
-| Gear-Grinder | Worker | Clockwork | Complains about the "Frames Per Second" of the workplace. |
-| Cloud-Kicker | Monk | Flying Machine | Kicks clouds to make it rain. |
-| Loot-Goblin | Thief | Random | Steals items and replaces them with IOUs. |
-| The Narrator | Voice | Meta | Narrates his own actions in 3rd person. |
-| Glitchy | Cat | Village | Sometimes is a dog. Sometimes a toaster. |
-| Potion Seller | Vendor | Plague Lab | Potions are too strong for you, traveler. |
-| The Janitor | Cleaner | Tower of Fate | Just wants to mop up the blood. |
-| Wall-Chicken | Food | Hidden Walls | A fully cooked chicken living inside a brick wall. |
-| Barrel-Man | Hermit | Explodatorium | Wears a barrel. immune to explosions. |
-| Text-Box Tim | Villager | Village | Holds a physical text box over his head to speak. |
-| Color-Swap | Mage | Magic Guild | Changes color palette every hour. |
-| The Spriter | Artist | Village | Draws reality into existence. |
-| Hit-Box Harry | Trainer | Dojo | Wears a visible red box around his body. |
-| Scanline | Oracle | Mountains | Sees the future as a scrolling screen. |
-| Reset | Healer | Temple | "Did you try turning yourself off and on again?" |
-| Cartridge | Historian | Library | Requires blowing on to wake up. |
-| Joystick | Blacksmith | Forge | Hammers metal using a joystick controller. |
-| Pause | Time Mage | Tower | Can pause time, but music stops too. |
-| Credits | Bard | End Game | Only appears when the campaign ends. |
+|---|---|---|---|
+| Plague Knight | Potion Expert | Plague Lab | Only speaks in 'Beaked Mask' squawks and chemical bubbles. |
+| Treasure Knight | Anchor Expert | Armored Armada | Can name the market value of every gem by its weight in water. |
+| The Blacksmith | Village Hub | The Forge | Only communicates through the rhythmic 'Clang' of his hammer. |
+| 'Flash' | Press Photographer | Pridemoor Keep | His flashbulbs create 1-second 'Pixel Stills' of the victory. |
+| The newsie | Street Kid | Village Square | Can name every No Quarter member by the sound of their jingle. |
+| 'Lipstick' | Informant | Dark Alley | Leaves a cyan mark on the treasure chest where the next 'Gem' will happen. |
+| The Pilot | Chariot Driver | Airship Fleet | Can navigate through a windstorm by the sound of the propellers. |
+| 'Iron-Gut' | Medical Examiner | City Square | Can identify a boss pattern by the 'Harmony Frequency' of their attacks. |
+| The Clerk | Village Admin | Town Hall | Only communicates through a rhythmic 'Shovel Strike' stamp. |
+| The Oracle | Adept | Tower of Fate | Can 'see' the interweaving themes of the eight knights. |
 
----
+## [TAG: LOCATIONS_MAIN]
+### Pridemoor Keep (King Knight's Home)
+A golden castle of red carpets, treasure hoards, and royal architecture.
+*   **The Throne Room:** A site of 'Golden Arrogance' and harsh overhead lighting. **Smell:** Vanilla, old wood, and expensive gold polish. **Sound:** The rhythmic 'thump-thump' of King Knight's staff.
+*   **The Treasure Vault:** A labyrinth of glittering gold and red rubies.
 
-## 4. LOCATIONS
-`[TAG: LOCATIONS_MAIN]`
+### Spectre Tower (Spectre Knight's Spire)
+A gothic spire of purple atmosphere, floating platforms, and ghostly fog.
+*   **The Clock Tower:** A site of 'Melancholic Truth' and rhythmic intensity. **Visual:** Ghostly candles and spectral enemies. **Sound:** The deep, resonant thrum of the gears.
+*   **The Void Pit:** A place where combat is a dance of gravity and timing.
 
-### 1. The Village of Re-Spawn
-*   **Description:** A cozy, safe haven with cobblestone streets and thatched roofs.
-*   **Sensory Details:** Smells of fresh bread and pixel-roast. The BGM is a gentle, acoustic guitar chiptune loop.
-*   **Locations:** The Gastronomer's Grill, The Armor Outpost, The Magic Basement, The Troupple Pond, The Hall of Champions.
+### The Plague Lab (Plague Knight's Den)
+A green toxic atmosphere of chemistry equipment and explosive barrels.
+*   **The Potion Room:** A site of 'Explosive Preparations' and green light. **Visual:** Neon pinks and toxic greens reflecting in glass. **Smell:** Sulfur and stagnant chemicals.
 
-### 2. Pridemoor Keep
-*   **Description:** A castle made of gold and red velvet.
-*   **Sensory Details:** Smells of brass polish. Sound of trumpets blaring constantly. Floors are slippery.
-*   **Locations:** The Gilded Hall, The Chandeliers of Doom, The Griffon Roost, The Throne Room, The Secret Treasury.
+### The Village Hub (Sanctuary)
+A cozy town square of shops with awnings, campfires, and friendly NPCs.
+*   **The Campfire:** Where the 'Code of Shovelry' is shared and the party rests. **Visual:** Warm amber light reflecting in cyan armor. **Sound:** Triumphant fanfares and gentle village themes.
 
-### 3. The Lich Yard
-*   **Description:** A spooky graveyard with purple fog and green lightning.
-*   **Sensory Details:** Air tastes like ozone. Sound of rattling bones and distant thunder.
-*   **Locations:** The Crypts, The Ghost-Fence, The Dark Chapel, The Specter’s Spire, The Pumpkin Patch.
+## [TAG: QUEST_MAIN]
+1.  **The First Strike:** Arrive at Pridemoor Keep. You must defeat King Knight in a 'Boss Battle' while maintaining your 'Chivalrous Honor.'
+2.  **The Gem Retrieval:** Follow the clues from the Village Hub. Each gem reveals a new layer of the Order of No Quarter's corruption.
+3.  **The Spectre's Challenge:** Navigate the floating platforms of the Spectre Tower. You must use your 'Downward Shovel Strike' to disarm the ghost guards.
+4.  **The Plague Heist:** Infiltrate the Plague Lab undercover as a potion expert. You must identify the Enchantress's connection to the toxic chemicals.
+5.  **The Underwater Duel:** Face Treasure Knight in the Armored Armada. You must use your 'Bubble Physics' intuition to win his anchor.
+6.  **The Tower Ascent:** Lead a charge of chivalrous knights in a full-scale assault on the Tower of Fate. You must protect Shield Knight while the self-destruct activates.
+7.  **The Final Verdict:** Face the Enchantress face-to-face in a final, reality-bending standoff. The truth is revealed—will you strike the earth or save the soul?
 
-### 4. The Explodatorium
-*   **Description:** A chaotic laboratory filled with green acid and copper pipes.
-*   **Sensory Details:** Smells of sulfur and mint. Constant distant explosions. Bubbling sounds.
-*   **Locations:** The Acid Vats, The Conveyor Belt Hell, The Alchemical Storage, The Blast Chamber, Plague’s Study.
+## [TAG: ITEM_LEGENDARY]
+### 1. The Ancient Shovel
+**Type:** Legendary Weapon
+**Description:** A simple, cyan shovel that seems to hum with the power of the Founders.
+**Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Shovel Pogo' (once per combat, deals 10d10 radiant damage).
 
-### 5. The Iron Whale
-*   **Description:** A massive submarine fortress.
-*   **Sensory Details:** Hum of engines. Smell of salt and oil. Pressure in the ears.
-*   **Locations:** The Torpedo Bay, The Engine Room, The Flooded Brig, The Gold Hoard, The Periscope Deck.
+### 2. The Shield of Protection
+**Type:** Artifact (Shield)
+**Description:** A gold and red shield that pulses with the light of the sun.
+**Mechanics:** Grants the wearer the ability to 'Heal' an ally's systems by 50 HP as a bonus action. Once per day, the wearer can 'Silence' a boss attack for 1 round.
 
-### 6. The Clockwork Tower
-*   **Description:** A factory of gears, lava, and conveyor belts.
-*   **Sensory Details:** Rhythmic clanking (120 BPM). Heat from the lava. Smell of burning grease.
-*   **Locations:** The Gear Garden, The Piston Press, The Lava Falls, The Assembly Line, Tinker’s Cockpit.
+### 3. The Gem of Virtue
+**Type:** Wondrous Item (Jewelry)
+**Description:** A shimmering emerald that contains a sliver of the original Code.
+**Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks. **Curse:** The user begins to see the world in 'Chunky Pixels' and suffers disadvantage on all perception checks.
 
-### 7. The Stranded Ship
-*   **Description:** A viking longship frozen in a massive glacier.
-*   **Sensory Details:** Bitter cold. Crunching snow. Sound of howling wind.
-*   **Locations:** The Frozen Deck, The Icy Mast, The Viking Mess Hall, The Wolf Den, Polar’s Throne.
+## [TAG: ENEMY_STATBLOCK]
+### 1. Themed Knight (Standard)
+(CR 2). Humanoid. HP 30, AC 13.
+**Abilities:**
+*   **Boss Pattern:** The knight has advantage on attacks if they have estudiado the target's movement for 1 round.
+*   **Themed Strike:** Melee attack. 1d8+3 damage + Target is knocked prone (DC 13 STR save).
 
-### 8. The Tower of Fate
-*   **Description:** A monolithic structure of obsidian and neon purple magic.
-*   **Sensory Details:** The air hums with static. Gravity feels wrong. Visual glitches in the air.
-*   **Locations:** The Entrance of No Return, The Boss Rush Hall, The Dark Mirror, The Enchantress's Core, The Falling Void.
+### 2. Spectre Guard (Elite)
+(CR 5). Undead/Knight. HP 80, AC 15.
+**Abilities:**
+*   **Gothic Presence Aura:** Any enemy within 30 feet has disadvantage on saving throws against being frightened.
+*   **Spectral Blast:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
----
+### 3. 'The Mastermind' Enchantress (Proxy)
+(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+**Abilities:**
+*   **Null-Honor Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Enchantress's 'Song of Power.'
+*   **The Final Choice:** Once per combat, the Enchantress can force an enemy to choose between saving an ally and achieving the mission objective.
 
-## 5. QUEST ARCHITECTURE
-`[TAG: QUEST_MAIN]`
-
-1.  **Awaken:** Pick up the Shovel. Defeat the Black Knight in the tutorial plain.
-2.  **Village Arrival:** Secure a pass to enter the Village. Meet the locals.
-3.  **King's Fall:** Infiltrate Pridemoor Keep. Defeat King Knight. Obtain the **Decree of Gold**.
-4.  **Ghost Busting:** Scale the Spectre Tower. Defeat Spectre Knight. Obtain the **Locket of Phase**.
-5.  **Science Fair:** Survive the Explodatorium. Defeat Plague Knight. Obtain the **Alchemy Coin**.
-6.  **Deep Dive:** Sink the Iron Whale. Defeat Treasure Knight. Obtain the **Anchor of Depths**.
-7.  **Cold Shoulder:** Climb the Stranded Ship. Defeat Polar Knight. Obtain the **Spike Cleats**.
-8.  **Dig Dug:** Tunnel through the Lost City. Defeat Mole Knight. Obtain the **Magma Gauntlet**.
-9.  **Gear Up:** Sabotage the Clockwork Tower. Defeat Tinker Knight. Obtain the **Mobile Gear**.
-10. **Sky High:** Board the Flying Machine. Defeat Propeller Knight. Obtain the **Dagger of Wind**.
-11. **Tower Entry:** Use all 8 Order Relics to open the Tower of Fate.
-12. **The Gauntlet:** Re-fight harder "Phantom" versions of the Knights.
-13. **Reflections:** Battle the Dark Mirror version of the Party.
-14. **The Possession:** Fight Shield Knight (Non-Lethal objective).
-15. **Final Boss:** The Enchantress (Phase 1: Humanoid, Phase 2: Giant Monster).
-16. **The Catch:** Catch Shield Knight as the tower collapses (QTE/Skill Check).
-
-`[TAG: QUEST_SIDE]`
-
-| Quest Name | Giver | Objective | Reward |
-| :--- | :--- | :--- | :--- |
-| The Music of the Spheres | The Bard | Find 10 Music Sheets hidden in levels. | Bard plays custom songs / Gold. |
-| The Lost Goat | Goatician | Find a goat located on a roof. | Meal Ticket (Full Heal). |
-| Apple Trout Fishing | Fisherman | Catch the legendary Apple Trout (It's a fruit/fish hybrid). | Troupple Chalice. |
-| The Color Out of Space | The Spriter | Find the "Magenta" pigment in the grey cave. | Armor Recoloring. |
-| Dance Dance Revolution | Dancing Lady | Beat the high score in the tavern mini-game. | Charisma Buff. |
-| The Whispering Wall | Wall-Chicken | Bring spice to the chicken in the wall. | Infinite Food Glitch (One use). |
-| Return the Crown | King Knight's Mom | Steal King Knight's crown back (he grounded her). | 500 Gold. |
-| The Explosive Date | Mona | Deliver a love letter to Plague Knight without it blowing up. | Potion Capacity Up. |
-| Clean the Sewers | Town Elder | Kill 10 Rats (Classic cliche). | 1 Gold (Insulting reward). |
-| The Flying Hat | Mr. Hat | Catch a hat blowing away in the wind. | A Fancy Hat (Cosmetic). |
-| The Glitch Hunt | MissingNo | Find the rock that has no collision. | Debug Wand (Item). |
-| Skeleton War | Depresso | Deliver a peace treaty to the skeletons. | Skeleton Mask. |
-| Anchor Management | Bubbles | Retrieve a lost anchor from a shark. | Water Breathing Potion. |
-| Snowman Building | Slippy | Build a snowman in the desert (Magic ice needed). | Ice Rod. |
-| Gear Grinding | Cogssworth | Oil the squeaky hinge in the Clockwork Tower. | Wrench Weapon. |
-| Cloud Bursting | Propeller Knight | Clear the storm clouds over the village. | Feather Fall Ring. |
-| The Mimic Hunt | Chester | Find the one chest that ISN'T a mimic. | Rare Relic. |
-| Digging for Truth | Dig-Doug | Dig through the bedrock (Impossible). | Broken Shovel Handle. |
-| The Spicy Soup | Gastronomer | Find a ghost pepper in the Lich Yard. | Fire Breath Potion. |
-| Mirror Match | Black Knight | Duel him alone at sunset. | Respect / Combo Move. |
-| The Missing Pixel | Old Man Sprite | Find a 1x1 block of black void. | Retro Vision Goggles. |
-| Frog Prince | Frog | Kiss the frog (It turns into a Prince Knight). | Prince summon. |
-| Coin Laundering | Auditor | Wash dirty coins in the fountain. | Shiny Coins (Worth 1.1x). |
-| The Late Fee | Librarian | Return an overdue book to the Lich Yard. | Spell Scroll. |
-| Monster Mash | Party Planner | Invite monsters to the village disco. | Disco Ball Relic. |
-| The Sad Cloud | Cloud-Kicker | Cheer up a crying rain cloud. | Weather Control. |
-| Cartridge Blowing | Historian | Blow dust off an ancient tablet. | Lore XP. |
-| Speedrun Challenge | Felix | Finish a dungeon in under 10 minutes. | Speed Boots. |
-| No Damage Run | Hit-Box Harry | Clear a cellar of rats without taking damage. | Dodge Badge. |
-| The Final Feast | Gastronomer | Collect ingredients from every boss. | Hero's Feast (Max Stats). |
-
----
-
-## 6. ITEM DATABASE
-`[TAG: ITEM_LEGENDARY]`
-
-1.  **The Phase Locket:** Grants invulnerability for 6 seconds (1 round). Visual: Character flickers.
-2.  **The Flare Wand:** Shoots a fireball that travels in a straight line.
-3.  **The Dust Knuckles:** Allows the user to punch through dirt and stone rapidly.
-4.  **The War Horn:** Emits a blast that kills all low-level minions on screen instantly.
-5.  **The Propeller Dagger:** Launches the user forward in the air; acts as a double jump + attack.
-
-`[TAG: ITEM_LOOT]`
-
-1.  **Music Sheet:** A paper with notes that play when you look at them.
-2.  **Apple Trout:** A fish that crunches like an apple. Heals HP.
-3.  **Meal Ticket:** A coupon for one free turkey dinner.
-4.  **Red Gem:** Currency (Worth 20 Gold).
-5.  **Purple Gem:** Currency (Worth 50 Gold).
-6.  **Ichor of Renewal:** Fully restores Health and Magic. Tastes like blue raspberry.
-7.  **Ichor of Invincibility:** Gold liquid. Makes you shiny and unkillable for 10s.
-8.  **Bomb:** Standard cartoon bomb with a sizzling fuse.
-9.  **Mobile Gear:** A rideable unicycle gear that drives over spikes.
-10. **Fishing Rod:** Can fish in any liquid (Water, Lava, Acid).
-11. **Chaos Sphere:** A green bouncy ball that ricochets violently.
-12. **Throwing Anchor:** Heavy ranged weapon, arcs in a parabola.
-13. **Alchemy Coin:** Explodes into gold when it hits an enemy.
-14. **Troupple Chalice:** An empty cup needed to hold Ichor.
-15. **Glitch Shard:** A jagged piece of reality. Causes wild magic effects.
-16. **Pixel Dust:** Crafting material.
-17. **Golden Armor Polish:** Makes armor shiny. +1 Charisma.
-18. **Wall Chicken:** A cooked bird found inside a stone wall. Edible? Yes.
-19. **Magic Meter:** A blue potion bottle that expands your mana pool.
-20. **The Cartridge of Blowing:** A mystical artifact. When you blow on it, a puzzle resets.
-
----
-
-## 7. BESTIARY
-`[TAG: ENEMY_STATBLOCK]`
-
-**1. Beeto (CR 1/2)**
-*   **Stats:** HP 5, AC 12, Spd 20ft (Fly).
-*   **Abilities:** *Dive Bomb* (Drops straight down). *Hard Shell* (Reflects projectiles if not hit on underbelly).
-
-**2. Skeleton Knight (CR 2)**
-*   **Stats:** HP 15, AC 14, Spd 30ft.
-*   **Abilities:** *Bone Throw* (Ranged). *Reassemble* (Must be hit twice when down to permanently kill).
-
-**3. Plague Minion (CR 3)**
-*   **Stats:** HP 20, AC 13, Spd 30ft.
-*   **Abilities:** *Explode on Death* (10ft radius fire). *Potion Lob* (Creates acid puddles).
-
-**4. Goldarmor (CR 4)**
-*   **Stats:** HP 40, AC 18, Spd 25ft.
-*   **Abilities:** *Shield Block* (Immune to frontal attacks). *Thrust* (Reach 10ft).
-
-**5. Griffon Guard (CR 5)**
-*   **Stats:** HP 50, AC 15, Spd 50ft (Fly).
-*   **Abilities:** *Wind Gust* (Push back 15ft). *Talon Strike* (Multi-attack).
-
-**6. Liquid Samurai (CR 4)**
-*   **Stats:** HP 35, AC 14, Spd 30ft.
-*   **Abilities:** *Melt* (Can move through floor grates). *Arrow Rain* (AoE).
-
-**7. Propeller Rat (CR 1)**
-*   **Stats:** HP 8, AC 12, Spd 40ft (Fly).
-*   **Abilities:** *Hover* (Stays out of melee reach). *Drop Rock*.
-
-**8. Mole-kin Miner (CR 2)**
-*   **Stats:** HP 25, AC 14, Spd 20ft (Burrow 30ft).
-*   **Abilities:** *Pop Up* (Surprise attack from below). *Dirt Throw* (Blinds target).
-
-**9. Glitch-Ghost (CR 6)**
-*   **Stats:** HP 60, AC ?? (Fluctuates), Spd 0ft (Teleport).
-*   **Abilities:** *Corrupt* (Target takes damage if they move). *Pixelate* (Lowers target's AC).
-
-**10. The Colossus (CR 10)**
-*   **Stats:** HP 150, AC 16, Spd 40ft.
-*   **Abilities:** *Siege Mode* (Becomes a stationary turret). *Stomp* (Screen shake, prone check).
-
-`[TAG: ENCOUNTER_TABLE]`
-
-**Urban (d20)**
-1-5: 1d4 Rats.
-6-10: 1d2 Thieves.
-11-15: A runaway cart.
-16-19: A confused Slime.
-20: The Wandering Traveler (Mini-Boss).
-
-**Wilderness (d20)**
-1-5: 1d6 Beetos.
-6-10: 1d4 Propeller Rats.
-11-15: A Goldarmor patrol.
-16-19: 1d2 Griffons.
-20: A Dragon (Red or Green).
-
-**Dungeon (d20)**
-1-5: 2d6 Skeletons.
-6-10: Trap: Spikes.
-11-15: 1d4 Plague Minions + Exploding Barrels.
-16-19: Liquid Samurai Ambush.
-20: A Mimic Chest (Chester).
-
----
-
-## 8. MECHANICS
-`[TAG: RULES_CUSTOM]`
-
-### Physics & The Shovel
-*   **Pogo-Jump:** If a player attacks *downward* while falling, they bounce off the enemy/object, taking no fall damage and regaining their action.
-*   **Digging:** Walls with "cracked" textures can be destroyed (DC 10 Str) to reveal chicken or gold.
-*   **Knockback:** All damage deals 5ft of knockback. Danger near pits!
-
-### The Money System
-*   **Gold Drop:** When a player reaches 0 HP, they drop 25% of their gold in floating bags.
-*   **Recovery:** If they return to that spot without dying again, they can reclaim it.
-*   **Currency:** There is no silver or copper. Only Gems (Red/Purple/Gold).
-
-### Checkpoints
-*   **Glass Orbs:** Checkpoints are glass orbs with flames.
-*   **Breakable:** A player can choose to *smash* the checkpoint.
-    *   *Benefit:* Gain massive Gold/Loot immediately.
-    *   *Cost:* If they die, they respawn at the *start* of the level.
-
----
-
-## 9. SESSION GUIDE
-`[TAG: DM_GUIDE]`
-
-*   **Sessions 1-2:** The Awakening. Tutorial Plains. Arrival at Village. Shopping.
-*   **Sessions 3-4:** Pridemoor Keep. Platforming basics. Boss: King Knight.
-*   **Sessions 5-6:** The Lich Yard & Spectre Tower. Darkness mechanics. Boss: Spectre Knight.
-*   **Sessions 7-8:** The Explodatorium. Hazard management. Boss: Plague Knight.
-*   **Sessions 9-10:** Iron Whale & Stranded Ship. Water/Ice physics. Bosses: Treasure & Polar.
-*   **Sessions 11-12:** Lost City & Clockwork Tower. Digging/Conveyors. Bosses: Mole & Tinker.
-*   **Sessions 13-14:** Flying Machine. Aerial combat. Boss: Propeller Knight.
-*   **Sessions 15-16:** Tower of Fate (Ascension). Boss Rush.
-*   **Session 17:** The Enchantress Battle.
-*   **Session 18:** Ending sequences. The Credits (Interactable).
-
----
-
-## 10. RAG INDEX
-`[TAG: INDEX_KEYWORDS]`
-Shovel Knight, Shield Knight, Enchantress, Order of No Quarter, King Knight, Spectre Knight, Plague Knight, Treasure Knight, Mole Knight, Polar Knight, Tinker Knight, Propeller Knight, Black Knight, Troupple King, Chester, Mona, Reize, Baz, Pridemoor Keep, Lich Yard, Explodatorium, Iron Whale, Clockwork Tower, Stranded Ship, Tower of Fate, Village of Re-Spawn, Phase Locket, Alchemy Coin, Shovel Blade, Chaos Sphere, Beeto, Goldarmor, Glitch, Pogo-Jump, Checkpoint, Ichor.
+## [TAG: INDEX_KEYWORDS]
+Order of the Excavation, Shovel Knight, Shield Knight, The Enchantress, King Knight, Spectre Knight, Plague Knight, Treasure Knight, Pridemoor Keep, Tower of Fate, NES-Era Pixel Art, Strike the Earth, Chivalry, For Shovelry!. 

@@ -1,61 +1,138 @@
-# The Glow Beneath [CAMPAIGN: Post-Apocalyptic]
+# The Glow Beneath: Campaign Bible
 
-## Core Concept [CONCEPT: High]
-Centuries ago, a surface-level cataclysm rendered the world uninhabitable, forcing humanity to retreat into vast, pre-built subterranean shelters. Over generations, these shelters expanded into sprawling underground cities. But the deep earth held its own secrets: a vast, bioluminescent ecosystem, strange, adapted flora and fauna, and, most unsettlingly, the ruins of an ancient, alien civilization that radiates an ethereal "Glow." This Glow is both a source of power and a creeping threat, subtly altering the environment and the minds of those exposed to it. The players are explorers, guardians, or scavengers in this subterranean world, tasked with understanding, exploiting, or containing the mysteries of the Glow.
+## [TAG: LORE_CORE]
+### Origin Myth
+The World is not a floor; it's a lung that's slowly breathing light. In the deep, mysterious expanse of the 'Luminous Deep,' the 'Grand Accord' of the surface was forgotten when the sun went out. The survivors retreated into 'Tideloch,' a Victorian-meets-underwater city built around the first 'Bioluminescent Harvesters.' But the light isn't just a resource—it's a consciousness. Legend says the first 'Lumen' realized that the ocean's glow comes from 'Luminara,' a massive, oceanic hive-mind made of thousands of bioluminescent organisms. The 'Aethel' of this world is the 'Lumen-Energy'—a shimmering force that flows through the water, making every pulse of light a message and every whale song a memory. To live in the Glow Beneath is to be a guest in a dream, knowing that the 'Wound' at the center of the world is a weapon that's killing the god who keeps you alive.
 
-## Setting [SETTING: Subterranean World]
-The world is a labyrinth of colossal caverns, winding tunnels, and subterranean rivers. The primary light source comes from bioluminescent fungi, crystalline formations, and strange, glowing flora, casting an otherworldly pallor over everything. Human settlements are carved into the rock, relying on geothermal energy and recycled air. Beyond the known territories lie the "Deep Glow" zones, where the alien influence is strongest, and reality itself seems to bend.
+### Timeline
+1.  **The Silicon surge (c. 2000s):** The surface world becomes uninhabitable due to a 'Permanent Overcast' event. Humanity descends into the depths.
+2.  **The Founding of Tideloch (2030):** The first underwater city is established, utilizing 'Harvested Light' for power and life-support.
+3.  **The First Communion (2050):** A diver accidentally synchronizes their mind with Luminara using a 'Symbiot Mask.'
+4.  **The Harvest Initiative (Ongoing):** Tideloch expands its industrial pumps, extracting massive amounts of bioluminescent organisms to fuel its growth.
+5.  **The Arrival of the Rookie (Present Day - Day 1):** A new diver (the player) descends into the Deep, only to witness the first 'Flicker' of Luminara's distress.
+6.  **The Garden of Lights Discovery (Week 1):** You swim through a bioluminescent kelp forest and hear the first 'Deep Singer's Ballad.'
+7.  **The Voidcaller Uprising (Ongoing):** Captain Senna leads a radical group to sabotage the harvesters and 'Liberate the Light.'
+8.  **The Wound Revelation (Upcoming):** The party discovers a massive 'Industrial Weapon' embedded in Luminara's core, causing the 'Great Decay.'
+9.  **The Present Day:** The ocean is a high-contrast nightmare of abyssal blacks and bioluminescent cyans. The heartbeat of the world is slowing, and the 'Lumen-Energy' is reaching its final harmonic.
 
-### Locations [LOCATION: Specific]
-*   **The Citadel of Echoes:** [LOCATION: Underground City] The largest human settlement, built within a massive, naturally formed cavern. It's a marvel of engineering, with multi-tiered dwellings, hydroponic farms, and advanced air recycling systems. It serves as the central hub for human civilization.
-*   **The Fungal Forests:** [LOCATION: Cavern] Vast caverns dominated by towering, bioluminescent fungi that form dense, glowing forests. These provide food, medicine, and building materials, but also hide dangerous, adapted creatures.
-*   **The Crystal Veins:** [LOCATION: Mines] Deep mining tunnels where rare, glowing crystals are extracted. These crystals are a primary energy source and are subtly influenced by the Glow, sometimes exhibiting strange properties.
-*   **The Sunken Archives:** [LOCATION: Ruin] The waterlogged ruins of a pre-Collapse data center, now partially submerged in a subterranean lake. It's a dangerous dive, but rumored to hold invaluable information about the surface world and the initial cataclysm.
-*   **The Alien Nexus:** [LOCATION: Alien Ruin] The heart of the alien ruins, a colossal structure radiating the most intense "Glow." Its purpose is unknown, but it seems to be the source of the Glow's influence and power.
+### The 'Why'
+The central conflict is the struggle between 'Technological Progress' and 'Ecological Communion.' It is about the 'Sublime Mystery' of the human spirit—the realization that we are all just pulses of light in a vast, intelligent darkness. The 'Why' is the question: 'Will you kill the god who provides your light to save your civilization, or will you sacrifice your city to heal the world?' It explores the weightless beauty of the underwater cathedral, the visceral horror of the Wound's silence, and the dreamy, synesthetic voice of a being that speaks in colors and sensations. The players are the divers and Lumens who must navigate the gurgling chambers and pressure-cooker politics to find a truth that stays bright in the dark.
 
-## Factions [FACTION: Survivalist]
-*   **The Lumina Keepers:** [FACTION: Guardians] A dedicated order of scientists and mystics who study the Glow, seeking to understand its nature and harness its power safely. They believe it holds the key to humanity's future.
-*   **The Deep Scavengers:** [FACTION: Explorers] Independent groups of daring explorers and prospectors who venture into the dangerous Deep Glow zones, seeking alien artifacts, rare crystals, and forgotten pre-Collapse tech.
-*   **The Surface Zealots:** [FACTION: Fanatical] A radical faction within the Citadel of Echoes who believe the surface world is still habitable and that humanity must return, often sabotaging subterranean efforts to force the issue.
-*   **The Glow-Touched:** [FACTION: Mutated] Individuals who have been profoundly altered by prolonged exposure to the Glow, gaining strange abilities but often losing their sanity or becoming subservient to the alien influence.
-*   **The Chitinous Swarm:** [FACTION: Hostile Organism] A vast, insectoid species native to the deep earth, now agitated and empowered by the Glow, constantly threatening human settlements and mining operations.
+## [TAG: FACTION_DATA]
+### The Tideloch Council (The Harvesters)
+**Type:** High-Society/Industrial Bureaucracy
+**Leader:** Seraph Delmare (Tier 1 NPC).
+**Asset:** The Tideloch city, harvester pumps, and the legal authority of the 'Grand Descent.'
+**Rivals:** The Voidcallers, The Lumens.
 
-## NPCs [NPC: Key]
-*   **High Elder Theron:** [NPC: Leader] The venerable leader of the Citadel of Echoes, burdened by the responsibility of his people's survival and the growing threat of the Glow. (Male, 70s, wise, cautious)
-*   **Dr. Aris Thorne:** [NPC: Scientist] A brilliant but increasingly erratic Lumina Keeper, obsessed with deciphering the alien language and understanding the Glow's true nature. (Female, 40s, intellectual, driven)
-*   **Kael "Deep-Delver" Roric:** [NPC: Explorer] A legendary Deep Scavenger, known for his courage and his uncanny ability to navigate the most dangerous Glow zones. (Male, 30s, rugged, independent)
-*   **Prophetess Lyra:** [NPC: Fanatic] The charismatic leader of the Surface Zealots, who preaches of a verdant surface world and condemns the subterranean existence as a prison. (Female, 20s, passionate, manipulative)
-*   **The Silent Weaver:** [NPC: Glow-Touched] A mysterious Glow-Touched individual who communicates through intricate patterns of bioluminescent fungi, seemingly able to manipulate the Glow itself. (Androgynous, unknown age, enigmatic, powerful)
-*   **Unit 9000:** [NPC: Construct] A pre-Collapse automated mining drone, partially corrupted by the Glow, that now wanders the Crystal Veins, sometimes aiding, sometimes hindering, those it encounters. (Robot, ancient, unpredictable)
+### The Voidcallers (The Liberators)
+**Type:** Insurgent/Radical Environmental Group
+**Leader:** Captain Senna Voidcaller (Tier 1 NPC).
+**Asset:** Sabotage expertise, knowledge of the deep slums, and a total disregard for 'Surface Honor.'
+**Rivals:** The Tideloch Council.
 
-## Quests [QUEST: Primary]
-*   **The Fading Lights:** [QUEST: Resource Management] The bioluminescent fungi in a vital Fungal Forest are dying, threatening the Citadel's food supply. Players must find a way to revitalize them, perhaps by venturing into a Deep Glow zone for a rare nutrient.
-*   **Deciphering the Alien Script:** [QUEST: Research] Dr. Thorne believes a newly discovered alien artifact holds a key to understanding the Glow. Players must retrieve it from a dangerous Deep Glow zone and help decipher its ancient script.
-*   **The Surface Reconnaissance:** [QUEST: Exploration] The Surface Zealots task players with a perilous mission to the surface, to gather definitive proof of its habitability or to retrieve a specific pre-Collapse device.
-*   **The Chitinous Incursion:** [QUEST: Defense] The Chitinous Swarm launches a coordinated attack on a Crystal Vein mining outpost. Players must defend the outpost and find a way to repel the swarm.
-*   **The Glow-Touched Sanctuary:** [QUEST: Diplomacy] A group of Glow-Touched individuals seeks refuge in the Citadel, but the Elders are wary. Players must advocate for them and prove their loyalty, potentially by undertaking a dangerous mission for the Citadel.
-*   **The Alien Nexus's Call:** [QUEST: Investigation] A strange, rhythmic pulse emanates from the Alien Nexus, causing distress among the Glow-Touched and subtle changes in the environment. Players must investigate its source and purpose.
+### The Lumens (The Communiants)
+**Type:** Translucent/Transformed Human Communities
+**Leader:** Lyss (The Sage - Tier 1 NPC).
+**Asset:** Translucent skin, 'Symbiot Masks,' and a direct connection to Luminara's consciousness.
+**Rivals:** The Harvesters (who they view as 'Parasites').
 
-## Threats [THREAT: Environmental]
-*   **The Glow's Influence:** [THREAT: Psychological] Prolonged exposure to the Glow can cause hallucinations, paranoia, memory loss, and eventually, a complete mental transformation into a Glow-Touched or worse.
-*   **Subterranean Collapse:** [THREAT: Environmental] Unstable geological formations, seismic activity, or mining accidents can cause cave-ins, trapping or crushing survivors.
-*   **Adapted Predators:** [THREAT: Creature] The deep earth is home to a variety of dangerous, adapted creatures, from giant spiders to blind, echolocating beasts, all vying for survival.
-*   **Air Contamination:** [THREAT: Environmental] Malfunctions in air recycling systems or breaches into toxic pockets can lead to breathable air becoming scarce or poisonous.
-*   **Resource Scarcity:** [THREAT: Survival] Despite the Fungal Forests and Crystal Veins, food, water, and energy are constantly in demand, leading to rationing and conflict.
-*   **Isolation and Despair:** [THREAT: Psychological] The perpetual darkness, confined spaces, and constant threats can lead to mental breakdowns, cult formation, and a loss of hope among the survivors.
+### The 'Deep Singer' Whales (The Guardians)
+**Type:** Ancient/Intelligent Biological Super-Entities
+**Leader:** Old Mother (A being of primordial song and vast scale).
+**Asset:** Deep Singer songs, absolute control of the currents, and a view of the divers as 'Take-Hearts.'
+**Rivals:** The Harvesters.
 
-## World-Changing Events [EVENT: Cataclysmic]
-*   **The Great Surge:** [EVENT: Cosmic] The Glow from the Alien Nexus experiences a massive, uncontrolled surge, expanding its influence rapidly, transforming vast new areas, and potentially awakening something within the ruins.
-*   **Surface Breach:** [EVENT: Environmental] A catastrophic event (e.g., a massive earthquake, a meteor strike) causes a direct breach to the surface, revealing its true state and potentially allowing new dangers or opportunities to enter the subterranean world.
-*   **The Chitinous Queen:** [EVENT: Biological] The Chitinous Swarm reveals a massive, intelligent Queen, capable of coordinating attacks and adapting to human defenses, posing an existential threat to the Citadel.
-*   **The Alien Awakening:** [EVENT: Alien Contact] The alien intelligence behind the Nexus awakens or makes direct contact with humanity, revealing its true nature and intentions, which may be benevolent, hostile, or utterly incomprehensible.
-*   **The Citadel's Fall:** [EVENT: Social] The Citadel of Echoes falls, either to internal strife, the Chitinous Swarm, or the overwhelming influence of the Glow, scattering its inhabitants and forcing a new era of survival.
-*   **The Glow's Revelation:** [EVENT: Revelatory] The true purpose of the Glow and the alien ruins is finally understood, revealing a cosmic truth that fundamentally alters humanity's place in the universe.
+### The 'Luminara' Core
+**Type:** Autonomous/Oceanic Hive-Mind
+**Leader:** Luminara (Tier 1 NPC - never fully shown).
+**Asset:** Living constellations, light-language, and the ability to synchronize the entire ocean's pulse.
+**Rivals:** The Wound (the weapon).
 
-## Possible Endings [ENDING: Ambiguous]
-*   **The New Underworld:** [ENDING: Adaptation] Humanity fully adapts to the subterranean existence, learning to live in harmony with the Glow and its ecosystem, forging a unique and thriving civilization beneath the earth.
-*   **Return to the Surface:** [ENDING: Exodus] The players discover a way to cleanse or terraform the surface, leading a new exodus back to the light, but facing the challenges of rebuilding a world from scratch.
-*   **The Glow's Embrace:** [ENDING: Transformation] Humanity, or a significant portion of it, willingly embraces the Glow, undergoing a profound transformation into a new species, perhaps merging with the alien intelligence.
-*   **The Endless Struggle:** [ENDING: Cyclical] Despite player efforts, the threats of the Glow and the Chitinous Swarm remain, and humanity continues its desperate, unending struggle for survival in the deep earth.
-*   **The Alien Alliance:** [ENDING: Cooperative] The players establish communication and an alliance with the alien intelligence, working together to achieve a common goal, perhaps to restore the surface or explore the cosmos.
-*   **The Great Escape:** [ENDING: Escape] The players discover a hidden, functional pre-Collapse starship or portal, allowing a select few to escape the Earth entirely, leaving its fate to the Glow.
+## [TAG: NPC_TIER_1]
+**Seraph Delmare** (Council - Authoritative Leader) - A woman in practical diving gear with brass fixtures. **Voice:** Professional, authoritative, and exhausted. **Goal:** To keep Tideloch's 50,000 souls alive through the harvest. **Secret:** She is secretly researching a 'Synthetic Light' to end the harvest, but she's running out of time.
+**Captain Senna Voidcaller** (Rebel - The Villain) - A woman in rough, desaturated rags with an intense gaze. **Voice:** Intense, passionate, and angry. **Goal:** To destroy the harvesters and restore Luminara's health, even if it means drowning the city. **Secret:** She is already part-Wound, having stayed in the dead water too long to maintain her sanity.
+**Lyss (Lumen Sage)** (Lumen - The Enigma) - A being with translucent skin and glowing organs visible underneath. **Voice:** Dreamy, synesthetic, and musical. **Goal:** To guide the player into communion with Luminara and preserve the 'Dream Reef.' **Secret:** she is a direct descendant of the first diver who synchronized with the light.
+**Kaito Brightwater** (Independent - The Mentor) - A man whose gregariousness hides a deep grief. **Voice:** Gregarious, salesmen-like, but with a voice that cracks when discussing the past. **Goal:** To redeem himself for his years of 'Taking' from the Deep. **Secret:** He was the one who 'accidentally' designed the weapon that created the Wound.
+**Luminara (Echo)** (Ocean - Mythic Leader) - The manifest consciousness of the oceanic light. **Voice:** Pure emotion and sensation, layered with thousands of voices. **Goal:** To be remembered and to heal the fracture in its being. **Secret:** Luminara isn't just an organism; it's the 'Archive' of every soul that has ever died in the Deep.
+
+## [TAG: NPC_TIER_2]
+| Name | Role | Location | Quirk (Low Probability) |
+|---|---|---|---|
+| The newsie | Street Kid equivalent | Tideloch Market | Can name every harvester ship by the sound of its pump-thrum. |
+| 'Flash' | Press Photographer equivalent | First Descent | His flashbulbs create 1-second 'Saturated Stills' of the beauty. |
+| The Librarian | Archive Tech | Tideloch Vault | Can find any 'Descent Record' by the smell of the old sea salt. |
+| 'Lipstick' | Senna's Spy | High-End Safehouse | Leaves a neon cyan mark on the evidence where the next 'Sabotage' will happen. |
+| The Pilot | Chaser | Luxury Submarine equivalent | Can fly through a heart-beat surge without getting a bubble out of place. |
+| 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Lumen' transformation. |
+| The newsie | Street Kid | Urban Market | Can name every Tideloch district by the sound of its water-lapping. |
+| The Guard | Council Security | Main Gate | Wears a tie that is 1 inch too long; claims it's a 'Sovereign Fashion.' |
+| The Monk | Ancient Worshipper | Dream Reef | Spends all his time painting murals of the 'Light's Beginning.' |
+| The Clerk | Council Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
+
+## [TAG: LOCATIONS_MAIN]
+### Tideloch City (The Hub)
+A Victorian-meets-underwater monument to civilization and living light.
+*   **The Harbor Docks:** A site of 'Refined Formality' and harbor sounds. **Smell:** Brine, expensive coffee, and machine oil. **Sound:** The rhythmic 'bong-bong' of a distant bell.
+*   **The Harvester Bank:** Where the 'Harvested Light' is stored in glass vats. **Visual:** Sickly yellows and warning oranges reflecting in the brass.
+
+### The Garden of Lights (The Battlefield)
+A hyper-real forest monument to weaponized nature and bioluminescent kelp.
+*   **The Kelp Cathedral:** A place where light streams through from above like an underwater cathedral. **Visual:** Vibrant cyans and greens in harmony. **Sound:** The deep, rhythmic thrum of the Deep Singers.
+*   **The Dream Reef:** A surreal landscape where memories made of light take impossible shapes.
+
+### The Abyss City (Lumen HQ)
+An organic, Art Nouveau monument to symmetry and stained-glass effects.
+*   **The Communion Pool:** Where the 'Lumen Song' is shared and the party synchronizes. **Smell:** Vanilla, old wood, and wet silk. **Sound:** The rhythmic 'click-clack' of coral growth.
+*   **The Perimeter:** A dark, humid labyrinth of traps and sensory tendrils.
+
+### The Wound (Mental Space)
+A site of 'Crushing Silence' and absence as presence.
+*   **The Center:** Where the 'Industrial Weapon' is embedded. **Visual:** A single harsh spotlight in the center of the absolute black. **Feeling:** A heavy, silent pressure on the mind.
+
+## [TAG: QUEST_MAIN]
+1.  **The First Descent:** Arrive in the Deep. You must survive your first 'Harvest Encounter' while maintaining your 'Oxygen' level.
+2.  **The Garden run:** Navigate the kelp forests to find Kaito. You must identify the 'Respiration Seed' (equivalent) before the flicker.
+3.  **The Voidcaller Infiltration:** Infiltrate Senna's camp to find evidence of her 'Reverse-Rebirth' plan. You must bypass her 'Watching Eye' security.
+4.  **The Heart-Beat Chase:** Lead a fleet of salvaged vehicles through a circulation surge. You must cast 'Lumen-Spells' while traveling at 100 mph.
+5.  **The Brain-Chamber Revelation:** Enter the Tideloch Vault undercover. You must find your own 'Soul-Memory' without alerting the Harvesters.
+6.  **The Final Reset:** Luminara has begun its final 'Reset.' You must defend the Dream Reef while the self-destruct activates.
+7.  **The Bloodletting at the Source:** Face Senna and the Council face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
+
+## [TAG: ITEM_LEGENDARY]
+### 1. The Blade of the Light
+**Type:** Legendary Weapon
+**Description:** A massive sword crafted from the fossilized remains of the original Alpha Whale.
+**Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Lumen-Strike' (once per combat, deals 10d10 radiant damage).
+
+### 2. The Symbiot Mask
+**Type:** Artifact (Focus)
+**Description:** A glass and brass helmet that hums with the key of the first Communiant.
+**Mechanics:** Grants the user the ability to 'Communicate' with Luminara. Once per day, the user can 'Silence' a target's sensory input for 1 hour.
+
+### 3. The Lumen-Energy Capsule
+**Type:** Wondrous Item
+**Description:** A small, sapphire crystal that hums with the key of your own identity.
+**Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Wound' magic.
+
+## [TAG: ENEMY_STATBLOCK]
+### 1. Harvester Drone (Standard)
+(CR 2). Construct. HP 30, AC 13 (Brass Armor).
+**Abilities:**
+*   **Industrial Efficiency:** The drone has advantage on attacks if they have an ally within 10 feet.
+*   **Light-Extraction Pulse:** Ranged attack. 2d8 psychic damage + Target's Lumen-Energy is reduced.
+
+### 2. Deep Singer Guard (Elite)
+(CR 8). Monstrosity. HP 150, AC 18.
+**Abilities:**
+*   **Oceanic Majesty Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
+*   **Primordial Song:** Ranged attack (Psychic). 4d10 damage + Target is confused for 1 round.
+
+### 3. 'The Mastermind' Senna (Proxy)
+(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+**Abilities:**
+*   **Wound Silence Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of their own despair.
+*   **The Final Move:** Once per combat, Senna can force an enemy to take an action that serves her own glory.
+
+## [TAG: INDEX_KEYWORDS]
+The Glow Beneath, Underwater Horror, Bioluminescence, Tideloch, Luminara, Deep Singers, Lumens, Ecological Fantasy, Industrial Exploitation, Symbiosis, The Wound, Oceanic Consciousness, Visual Splendor. 

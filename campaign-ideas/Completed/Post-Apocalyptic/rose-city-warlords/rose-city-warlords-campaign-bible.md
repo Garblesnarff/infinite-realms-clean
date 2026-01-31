@@ -1,377 +1,136 @@
-# Campaign Bible: Rose City Warlords
+# Rose City Warlords: Campaign Bible
 
-## 1. DEEP LORE & HISTORY
-[TAG: LORE_CORE]
+## [TAG: LORE_CORE]
+### Origin Myth
+Portland didn't die; it just became fabulous. In the heart of the 21st century, the 'Grand Accord' of the city was shattered by the accidental detonation of a forgotten 1970s experiment: 'The Aphrodite Device' (also known as the 'Gay Bomb'). The resulting explosion released a surge of 'Flamboyant-Energy' that permanently quarantined the city and transformed its residents into 'Warlords of Style.' Legend says the first 'Handlebar Host' realized that an artisanal axe is more effective than a gun when wielded with enough ironic detachment. The 'Aethel' of this world is the 'Vibe-Energy'—a shimmering force found in small-batch coffee and vintage records, making every aesthetic choice a tactical advantage. To be a Warlord is to be a king of your own subculture, knowing that 'The Agency' is coming to erase the fabulous mistake you've become.
 
-### Origin Myth: The Garden's Fury
-In the beginning, the world was a single, perfect **Cosmic Garden**, holding within it the promise of infinite beauty and life. But the Cosmic Garden was fragile, and in a moment of cosmic carelessness, it was struck by a rogue **Cosmic Ray**, causing it to split into countless fragments. From its shattered core, the world was born, a place of constant decay, thorns, and rebirth. The "Rose" is not just the residue of divine creation; it is the dust of countless shattered petals, the memory of every lost bloom. The "Warlords" are not just the rising sun; it is the lingering echo of the Cosmic Garden's fury, a force that seeks to gather the scattered fragments of the Garden and restore the world to its original, perfect state. The conflict arises because the Cosmic Garden's fury is so profound that it threatens to consume all of existence in a single, catastrophic act of floral remembrance, burning away all that is, to restore all that was.
+### Timeline
+1.  **The Silicon surge (c. 1970s):** The Agency develops the Aphrodite Device as a non-lethal deterrent. It is stored in a hidden bunker beneath the city.
+2.  **The Bloom (2024):** A construction project accidentally punctures the bunker, triggering the detonation. Portland is immediately quarantined.
+3.  **The Rise of the Clans (2025):** The city's subcultures consolidate into warring clans based on Portland stereotypes.
+4.  **The Caffeine Cult Initiative (Ongoing):** The baristas establish a theocracy around the 'Last Espresso Machine,' controlling the city's productivity.
+5.  **The Arrival of the Rookie (Present Day - Day 1):** A lone survivor (the player) is 'Reaped' into the city after accidentally crossing the quarantine line.
+6.  **The Vibe-Check Gauntlet (Week 1):** You survive your first 'Standoff' against the Handlebar Host using only your ironic detachment.
+7.  **The Agency Reveal (Ongoing):** A shadowy government agency initiates 'Operation Eraser'—a plan to level the city using salvaged drone technology.
+8.  **The Bridge-War (Upcoming):** The clans must unite to defend the Burnside Bridge from a full-scale Agency incursion.
+9.  **The Present Day:** Portland is a high-contrast nightmare of vibrant neons and industrial grays. The coffee is brewing, and the 'Vibe-Energy' is reaching its final harmonic.
 
-### Timeline of Events
-1.  **-10,000 Y (The Shattering):** The Cosmic Garden is struck by a Cosmic Ray, creating the world and its cycle of decay and thorns.
-2.  **-8000 Y (The First Thorn):** The first great civilization rises and falls, its floral dust becoming the foundation of the world.
-3.  **-6000 Y (The Thorn Plague):** A powerful echo of the Cosmic Garden's fury sweeps the world, causing all beings to remember every lost bloom, driving many to madness.
-4.  **-4000 Y (The Rose Cult):** Mortals discover the power of thorns and form the Rose Cult, seeking to gather the scattered fragments of the Garden.
-5.  **-2000 Y (The Great Wilt):** A rogue Rose Cultist attempts to force a premature rebirth, resulting in a catastrophic event that causes all beings to forget their past for a century.
-6.  **-1000 Y (The Thorn-Weavers):** Mortals learn to manipulate the Rose, weaving it into powerful artifacts and wondrous compounds.
-7.  **-500 Y (The Echo-Wars):** A powerful echo of the Cosmic Garden's fury causes all beings to remember every lost bloom, leading to widespread despair and self-destruction.
-8.  **-100 Y (The Cosmic Garden's Whisper):** The Cosmic Garden, stirring in its slumber, begins to whisper to powerful cultists, tempting them with the promise of ultimate rebirth.
-9.  **-10 Y (The Missing Fragment):** A vital fragment of the Cosmic Garden, the **Essence of Beauty**, is stolen from the Rose Cult, causing a wave of despair to spread through the world.
-10. **Present Day:** The party are new initiates at the Rose Cult, each with their own unique connection to thorns. They are caught in a crisis as the Cosmic Garden's fury intensifies, and the world threatens to consume all of existence in a single, catastrophic act of floral remembrance.
+### The 'Why'
+The central conflict is the struggle for 'Authenticity' in a world of 'Absurd Stereotypes.' It is about the 'Stylish Apocalypse' of the human spirit—the realization that being yourself is the ultimate form of warfare. The 'Why' is the question: 'Can you unite a city of narcissists to save the fabulous mistake they've become?' It explores the vibrant colors of the Rose City, the visceral horror of the artisanal axe, and the manic, sarcastic voice of a renegade radio DJ who keeps the vibes high while the world burns. The players are the Warlords and Drones who must navigate the subculture politics and the intensity of a drone chase to find a truth that stays fabulous in the light.
 
-### The "Why": The Cycle of Decay
-The central conflict is the struggle between **Acceptance and Obsession**. The Cosmic Garden's fury, though born of loss, has become an obsession, a relentless drive to restore what was, even if it means destroying what is. The world, in its constant cycle of decay and thorns, represents acceptance, the understanding that loss is a part of life. The Rose Cult, in its pursuit of rebirth, risks becoming consumed by this obsession, burning away all that is, to restore all that was. The party's struggle is not just to become Rose Cultists, but to defend the very concept of acceptance, to prove that life is worth living, even with its imperfections, and to prevent the universe from becoming utterly, irrevocably consumed by fury.
+## [TAG: FACTION_DATA]
+### The Handlebar Host (The Hipsters)
+**Type:** Elite/Ironic Martial Arts Clan
+**Leader:** General Mustache (A man of vintage shirts and absolute confidence).
+**Asset:** Artisanal axes, fixed-gear cavalry, and the power of the 'Vibe-Check.'
+**Rivals:** The Caffeine Cult, The Agency.
 
----
+### The Caffeine Cult (The Baristas)
+**Type:** Theocratic/Caffeinated Superpower
+**Leader:** High Priestess Bean (A woman who speaks for the machine).
+**Asset:** The Last Espresso Machine, knowledge of the 'Roast-Levels,' and a network of sleep-deprived informants.
+**Rivals:** The Handlebar Host.
 
-## 2. FACTIONS
-[TAG: FACTION_DATA]
+### The Chain-Gang (The Cyclists)
+**Type:** Mobile/Lyra-Clad Raider Syndicate
+**Leader:** Peloton (A man of aerodynamic discipline and leg-day fury).
+**Asset:** Salvaged delivery bikes, knowledge of the city's bike-lanes, and a total disregard for 'Traffic Laws.'
+**Rivals:** Anyone without a helmet.
 
-### 1. The Rose Cult
-**Type:** Scholarly Institution / Thorn Mages
-**Leader:** The Grand Rose, a legendary figure who claims to be a direct descendant of the Cosmic Garden.
-**Asset:** **The Thorn Archive:** A magical archive that stores the floral dust of every known lost bloom in existence.
-**Rivals:** The Nihilists, The Forgetting.
+### The 'Agency' Erasers (The Architects)
+**Type:** Shadowy/Bureaucratic Military Force
+**Leader:** Director Vane (A man of cold, extracting truth).
+**Asset:** Salvaged drones, containment fields, and the authority of the 'Grand Erasure.'
+**Rivals:** All Warlords.
 
-### 2. The Nihilists
-**Type:** Anti-Thorn Cult / Meaningless Zealots
-**Leader:** The Blank Slate, a being whose presence drains all meaning from its surroundings.
-**Asset:** **Anti-Thorn Auras:** They can create zones where all memories are forgotten, and all stories are erased.
-**Rivals:** The Rose Cult.
+### The 'Proles' Survivors
+**Type:** Independent/Non-Stylish Human Group
+**Leader:** Various 'Normal' People.
+**Asset:** Knowledge of the city's mundane secrets and a refusal to participate in the 'Vibe-War.'
+**Rivals:** None (they are the audience).
 
-### 3. The Forgetting
-**Type:** Sentient Constructs / Memory Erasers
-**Leader:** The First Forgetting, a being who seeks to erase all memories from existence.
-**Asset:** **Memory Erasure:** They can erase memories from living beings, leaving them as blank slates.
-**Rivals:** The Rose Cult.
+## [TAG: NPC_TIER_1]
+**General Mustache** (Hipster - The Leader) - A man in a vintage flannel with a perfectly waxed handlebar mustache. **Voice:** Sarcastic, energetic, and manic. **Goal:** To turn Portland into a permanent 'Hipster Paradise' and defeat the Agency. **Secret:** He is secretly an Adept of 'Vibe-Energy' who can 'disarm' an opponent with a single condescending remark.
+**High Priestess Bean** (Barista - The Prophet) - A woman in a black apron who always smells of roasted beans. **Voice:** Whispered, rhythmic, and caffeinated. **Goal:** To standardize the city's productivity and find the 'Perfect Roast.' **Secret:** she is the only person who can 'hear' the original Song of the Device through the espresso machine's steam.
+**Peloton** (Cyclist - The Warrior) - A man in tight lycra with a mirror-tinted helmet. **Voice:** Clear, confident, and aerodynamic. **Goal:** To dominate the city's bridges and win the 'Tour de Portland.' **Secret:** He has discovered a 'Vulnerability' in the Agency's drone signals that he can only access while traveling at 30 mph.
+**Director Vane** (Agency - The Inquisitor) - A man in a sterile gray suit with a reflective face shield. **Voice:** Cold, professional, and mechanical. **Goal:** To erase the 'Portland Mistake' and secure the Device files. **Secret:** He secretly loves the 'Flamboyant-Energy' and is trying to harvest it for his own private gala.
+**The DJ (Echo)** (Independent - The Narrator) - A renegade radio DJ broadcasting from a hidden bunker. **Voice:** Young, energetic, and slightly raspy. **Goal:** To chronicle the city's fabulous survival and keep the vibes high. **Secret:** He is a direct descendant of the first Architect and his 'Pirate Radio' is the only thing keeping the quarantine field from collapsing.
 
-### 4. The Echo-Weavers
-**Type:** Primal Rulers / Elemental Embodiments
-**Leader:** The Lord of Echoes, a colossal elemental of pure sound.
-**Asset:** **Raw Echo Power:** They are the embodiment of pure sound, capable of unleashing devastating sound-based attacks.
-**Rivals:** The Nihilists.
-
-### 5. The Bloom Thieves
-**Type:** Criminal Syndicate / Floral Spies
-**Leader:** The Master Thief, a master of disguise who can steal any bloom.
-**Asset:** **Bloom-Jars:** Jars that can extract a bloom directly from a being's mind.
-**Rivals:** The Rose Cult.
-
-### 6. The Essence of Beauty Keepers
-**Type:** Mystic Order / Emotional Harmonizers
-**Leader:** The Harmonious Rose, a being who seeks to balance all emotions.
-**Asset:** **Emotional Auras:** They can create auras that balance and enhance the emotions of any being.
-**Rivals:** The Nihilists.
-
-### 7. The Cosmic Garden Seekers
-**Type:** Adventurers / Rebirth Hunters
-**Leader:** The Immortal Rose, a legendary figure who seeks the Recipe of Rebirth.
-**Asset:** **Rose Maps:** They possess ancient maps that lead to rumored Cosmic Garden fragments.
-**Rivals:** The Rose Cult (who try to regulate their activities).
-
-### 8. The Ash-Weavers Guild
-**Type:** Artisans / Construct Builders
-**Leader:** Master Ash-Weaver Borin, a dwarf who can build golems from pure ash.
-**Asset:** **Ash Golems:** Golems made of pure ash, capable of unleashing devastating ash-based attacks.
-**Rivals:** The Forgetting.
-
-### 9. The Cosmic Garden's Chosen
-**Type:** Divine Servants / Thorn Guardians
-**Leader:** The Divine Rose, a being whose touch can instantly restore any lost bloom.
-**Asset:** **Divine Thorns:** They can instantly restore any lost bloom to its original state.
-**Rivals:** The Nihilists.
-
-### 10. The Fury-Eaters
-**Type:** Necromancers / Emotional Vampires
-**Leader:** The Lord of Fury, a being who feeds on fury.
-**Asset:** **Fury-Drain Rituals:** They can drain the fury from living beings, gaining temporary power.
-**Rivals:** The Essence of Beauty Keepers.
-
----
-
-## 3. NPC ROSTER
-[TAG: NPC_TIER_1]
-
-### Major NPCs (20 Profiles)
-
-1.  **The Grand Rose** (Human Thorn Mage) - A legendary figure who claims to be a direct descendant of the Cosmic Garden. **Voice:** A calm, resonant voice, full of ancient wisdom and narrative passion. **Goal:** To protect the Cosmic Garden from shattering. **Secret:** He is slowly losing his own memories.
-2.  **The Blank Slate** (Nihilist Avatar) - A being whose presence drains all meaning from its surroundings. **Voice:** A flat, emotionless monotone, like a corrupted audio file. **Goal:** To erase all meaning from existence. **Secret:** It was once an Echo-Weaver who lost its purpose.
-3.  **The First Forgetting** (Forgetting Construct) - A being who seeks to erase all memories from existence. **Voice:** A high-pitched, metallic voice, like grinding gears. **Goal:** To create a perfect, blank world. **Secret:** It is slowly losing its own individuality.
-4.  **The Lord of Echoes** (Sound Elemental) - A colossal elemental of pure sound. **Voice:** A deep, resonant roar, like a raging inferno. **Goal:** To spread sound throughout the world. **Secret:** It is slowly losing its own echo.
-5.  **The Master Thief** (Changeling Bloom Thief) - A master of disguise who can steal any bloom. **Voice:** A constantly shifting voice, mimicking whoever they are speaking to. **Goal:** To acquire the Recipe of Rebirth. **Secret:** They are a former student of the Cult who was expelled for plagiarism.
-6.  **The Harmonious Rose** (Human Essence of Beauty Keeper) - A being who seeks to balance all emotions. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious world. **Secret:** They are slowly losing their own balance.
-7.  **The Immortal Rose** (Human Cosmic Garden Seeker) - A legendary figure who seeks the Recipe of Rebirth. **Voice:** A calm, wise voice, full of ancient remembrance secrets. **Goal:** To find the impossible ingredient. **Secret:** He is slowly losing his memory.
-8.  **The Blight Warden** (Human Ash-Weaver) - A warrior who specializes in containing ash chaos. **Voice:** A harsh, commanding voice, full of determination. **Goal:** To protect the world from ash chaos. **Secret:** He is slowly being corrupted by the ash chaos.
-9.  **The Divine Rose** (Celestial Thorn Guardian) - A being whose touch can instantly restore any lost bloom. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of thorns. **Secret:** They are slowly losing their own divinity.
-10. **Master Ash-Weaver Borin** (Dwarf Ash-Weaver) - A dwarf who can build golems from pure ash. **Voice:** A gruff, booming voice, like hammers on an anvil. **Goal:** To build the ultimate ash golem. **Secret:** He is slowly turning into an ash golem himself.
-11. **The Cosmic Garden (Avatar)** (Cosmic Entity) - A distant, bored entity whose attention shapes reality. **Voice:** A booming, echoing voice that sounds like a thousand voices speaking at once, often punctuated by yawns. **Goal:** To be entertained. **Secret:** It is slowly forgetting its own story.
-12. **The Forgetting (Corrupted)** (Forgetting Construct) - A Forgetting that has been corrupted by the Cosmic Garden's fury. **Voice:** A distorted, discordant cacophony of forgotten memories. **Goal:** To spread corruption. **Secret:** It is slowly losing its own individuality.
-13. **The Echo-Weaver (Corrupted)** (Sound Elemental) - An Echo-Weaver that has been corrupted by the Cosmic Garden's fury. **Voice:** A distorted, discordant roar. **Goal:** To spread chaos and destruction. **Secret:** It is slowly losing its own echo.
-14. **The Bloom Thief (Disgraced)** (Human Bloom Thief) - A disgraced thief who lost his Bloom-Jar. **Voice:** A bitter, resentful voice. **Goal:** To regain his Bloom-Jar. **Secret:** He is secretly working for the Nihilists.
-15. **The Essence of Beauty Keeper (Corrupted)** (Human Essence of Beauty Keeper) - A being who has been corrupted by the Cosmic Garden's fury. **Voice:** A distorted, discordant voice. **Goal:** To spread chaos and despair. **Secret:** They are slowly losing their own balance.
-16. **The Cosmic Garden Seeker (Fanatic)** (Human Cosmic Garden Seeker) - A fanatical seeker who believes the Cosmic Garden will grant ultimate rebirth. **Voice:** A zealous, unhinged voice. **Goal:** To acquire the Cosmic Garden. **Secret:** They are slowly losing their own sanity.
-17. **The Ash-Weaver (Corrupted)** (Human Ash-Weaver) - A warrior who has been corrupted by the Ash. **Voice:** A harsh, commanding voice, full of determination. **Goal:** To spread ash chaos. **Secret:** He is slowly being corrupted by the ash chaos.
-18. **The Cosmic Garden's Chosen (Corrupted)** (Celestial Thorn Guardian) - A being who has been corrupted by the Cosmic Garden's fury. **Voice:** A distorted, discordant voice. **Goal:** To spread chaos and destruction. **Secret:** They are slowly losing their own divinity.
-19. **The Fury-Eater (Corrupted)** (Human Fury-Eater) - A being who has been corrupted by the Cosmic Garden's fury. **Voice:** A gruff, booming voice, like hammers on an anvil. **Goal:** To build the ultimate ash golem. **Secret:** He is slowly turning into an ash golem himself.
-20. **The Cosmic Garden's Fury (Avatar)** (Cosmic Entity) - A being whose body is a constantly shifting amalgam of ash and memories. **Voice:** A flat, emotionless monotone, like a corrupted audio file. **Goal:** To re-unite all fragments into a single, undifferentiated mass. **Secret:** It was once an Echo-Weaver that was corrupted by boredom.
-
-[TAG: NPC_TIER_2]
-### Minor NPCs (Table of 50)
-
+## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
-| :--- | :--- | :--- | :--- |
-| **"Sparky"** | Apprentice | Rose Cult | His hair stands on end when he's near a powerful thorn. |
-| **"Grit"** | Forgetting | Forgetting Collective | Eats dirt for spiritual nourishment. |
-| **"Whisper"** | Nihilist Cultist | Nihilist Temple | Only speaks in whispers. |
-| **"Boomer"** | Echo-Weaver Minion | Echo Nexus | His voice is a deep, resonant boom. |
-| **"Odds"** | Bloom Thief | Black Market | Can calculate the odds of any bloom theft. |
-| **"Echo"** | Essence of Beauty Keeper | Echo Nexus | Repeats everything you say, but with a slight delay. |
-| **"Star-Gazer"** | Cosmic Garden Seeker | Ancient Ruins | Believes the stars are made of pure ash. |
-| **"Glory"** | Ash-Weaver | Ash Blight | Has a tattoo of every lost bloom on his body. |
-| **"Blade"** | Cosmic Garden's Chosen | Divine Temple | His sword is made of pure light. |
-| **"Shield"** | Fury-Eater | Fury Temple | His shield is made of pure fury. |
-| **"Forge"** | Rose Cult | Rose Cult | His skin is permanently stained with floral dust. |
-| **"Shadow"** | Bloom Thief | Black Market | His shadow sometimes moves independently. |
-| **"Bookie Jr."** | Cosmic Garden Seeker | Ancient Ruins | Tries to rig the odds in his favor, but always fails. |
-| **"Echo-Healer Apprentice"**| Essence of Beauty Keeper | Echo Nexus | Forgets what she's doing mid-sentence. |
-| **"Star-Shield Guard"** | Ash-Weaver | Ash Blight | His shield hums faintly when a thorn is near. |
-| **"Void-Blade Acolyte"** | Nihilist Cultist | Nihilist Temple | His eyes are completely black. |
-| **"Glory-Seeker Fanatic"**| Cosmic Garden's Chosen | Divine Temple | Has a shrine to the Cosmic Garden in his tent. |
-| **"Cosmic Duelist Fan"** | Fury-Eater | Fury Temple | Wears a helmet that looks like a skull. |
-| **"Blade-Breaker Novice"** | Rose Cult | Rose Cult | Tries to meditate during thorn rituals. |
-| **"Forge-Master's Son"** | Echo-Weaver Minion | Echo Nexus | His beard is made of braided sound. |
-| **"Shadow-Duelist Assassin"**| Bloom Thief | Black Market | Can blend into any shadow. |
-| **"Bookie's Enforcer"** | Cosmic Garden Seeker | Ancient Ruins | A massive brute who collects debts with extreme prejudice. |
-| **"Echo-Warrior Veteran"** | Essence of Beauty Keeper | Echo Nexus | Has a thousand-yard stare. |
-| **"Star-Shield Sentinel"** | Ash-Weaver | Ash Blight | His shield can deflect minor thorn spells. |
-| **"Void-Blade Zealot"** | Nihilist Cultist | Nihilist Temple | Believes the Nihilists will cleanse the world. |
-| **"Glory-Seeker Wannabe"**| Cosmic Garden's Chosen | Divine Temple | Always challenges people to thorn rituals, but always loses. |
-| **"Cosmic Duelist Champion"**| Fury-Eater | Fury Temple | A being of pure fury who fights with a shadow-blade. |
-| **"Blade-Breaker Master"** | Rose Cult | Rose Cult | Can disarm any thorn with a single touch. |
-| **"Forge-Master's Apprentice"**| Echo-Weaver Minion | Echo Nexus | His hands are covered in calluses from hammering echoes. |
-| **"Shadow-Duelist Spy"** | Bloom Thief | Black Market | Can mimic anyone's voice. |
-| **"Bookie's Accountant"** | Cosmic Garden Seeker | Ancient Ruins | Can track every single thorn made in the Cult. |
-| **"Echo-Warrior Recruit"** | Essence of Beauty Keeper | Echo Nexus | Is constantly trying to remember his name. |
-| **"Star-Shield Initiate"** | Ash-Weaver | Ash Blight | His shield is made of polished wood. |
-| **"Void-Blade Fanatic"** | Nihilist Cultist | Nihilist Temple | Believes the Nihilists will grant him ultimate power. |
-| **"Glory-Seeker Legend"** | Cosmic Garden's Chosen | Divine Temple | A retired champion who tells tall tales of his past. |
-| **"Cosmic Duelist Challenger"**| Fury-Eater | Fury Temple | A being of pure light who fights with a sun-blade. |
-| **"Blade-Breaker Elder"** | Rose Cult | Rose Cult | Can meditate for days without moving. |
-| **"Forge-Master's Journeyman"**| Echo-Weaver Minion | Echo Nexus | Can forge weapons from any echo. |
-| **"Shadow-Duelist Grandmaster"**| Bloom Thief | Black Market | Can kill a man with a single shadow. |
-| **"Bookie's Grandmaster"** | Cosmic Garden Seeker | Ancient Ruins | Can predict the outcome of any thorn. |
-| **"Echo-Warrior Grandmaster"**| Essence of Beauty Keeper | Echo Nexus | A warrior who has transcended his memory loss. |
-| **"Star-Shield Guardian"** | Ash-Weaver | Ash Blight | His shield can create a temporary force field. |
-| **"Void-Blade Priest"** | Nihilist Cultist | Nihilist Temple | Can channel the power of the Nihilists. |
-| **"Glory-Seeker Hero"** | Cosmic Garden's Chosen | Divine Temple | A champion who fights for honor, not fame. |
-| **"Cosmic Duelist Veteran"** | Fury-Eater | Fury Temple | A being of pure fury who fights with a shadow-blade. |
-| **"Blade-Breaker Grandmaster"**| Rose Cult | Rose Cult | Can disarm an entire army with a single gesture. |
-| **"Forge-Master's Grandmaster"**| Echo-Weaver Minion | Echo Nexus | Can forge weapons from pure thought. |
-| **"Shadow-Duelist Grandmaster"**| Bloom Thief | Black Market | Can kill a man with a single thought. |
-| **"Bookie's Grandmaster"** | Cosmic Garden Seeker | Ancient Ruins | Can predict the outcome of any event. |
-| **"Echo-Warrior Grandmaster"**| Essence of Beauty Keeper | Echo Nexus | A warrior who has transcended his memory loss. |
+|---|---|---|---|
+| The Organic Mechanic | Guild Support | Hipster Lab | Can identify a vehicle's health by the 'Taste' of its kombucha. |
+| The newsie | Street Kid equivalent | City Square | Can name every Warlord clan by the sound of their heel clicks. |
+| 'Flash' | Press Photographer equivalent | Bridge War | His flashbulbs create 1-second 'Saturated Stills' of the fabulousness. |
+| The Librarian | Archive Tech | Powell's Books | Can find any 'Artisanal Manual' by the smell of the old stone paper. |
+| 'Lipstick' | Bean's Spy | High-End Cafe | Leaves a latte-art mark on the evidence where the next 'Vibe-Check' will happen. |
+| The Pilot | Chaser | Salvaged Drone | Can fly through a reality-glitch without spilling his pour-over coffee. |
+| 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Kale Salad' menu. |
+| The Guard | Agency Security | Main Gate | Wears a tie that is 1 inch too long; claims it's a 'Sovereign Fashion.' |
+| The Monk | Ancient Worshipper | Voodoo Doughnut | Spends all his time painting murals of the 'Device's Beginning.' |
+| The Clerk | Agency Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
----
+## [TAG: LOCATIONS_MAIN]
+### The Burnside Bridge (The Hub)
+A high-contrast landscape of vibrant graffiti and industrial grays.
+*   **The Hub:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Coffee, charcoal smoke, and wet wool. **Sound:** The rhythmic 'roar-roar' of salvaged drones.
+*   **The Graffiti Wall:** A site of 'Visual Representation' and breakthrough moments.
 
-## 4. LOCATIONS
-[TAG: LOCATIONS_MAIN]
+### Powell's Books (The Library)
+A vast, paper-cluttered building where the 'Truth' is buried in a million stories.
+*   **The Rare Book Vault:** A labyrinth of dusty browns and sun-bleached deeds. **Smell:** Old paper and sterile green cleaner. **Sound:** The rhythmic scratching of a scholar's quill.
 
-### Zone 1: The Rose Cult Sanctuary
-*   **Concept:** A sprawling, magical institution where students learn to master the art of thorns.
-*   **Loc 1: The Grand Rose's Study:** A vast library filled with ancient texts, magical scrolls, and the Grand Rose's personal notes. **Smell:** Old parchment, ink, and the faint scent of forgotten stories. **Sound:** The rustle of pages and the occasional, delighted gasp of a student.
-*   **Loc 2: The Thorn Archive:** A magical archive that stores the floral dust of every known lost bloom in existence. **Smell:** Concentrated essence of every belief imaginable. **Sound:** A faint, harmonious hum of pure thorns.
-*   **Loc 3: The Thorn Training Grounds:** A magical arena where students practice weaving thorns into reality. **Smell:** Ozone and the faint scent of magic. **Sound:** The clang of steel, the roar of monsters, and the shouts of students.
-*   **Loc 4: The Echo-Weavers Guildhall:** A grand hall where Echo-Weavers gather to rehearse their roles and hone their craft.
-*   **Loc 5: The Fourth Wall Breach:** A hidden chamber where the Fourth Wall Breakers gather to discuss their plans and communicate with the Narrator.
+### The Caffeine Cathedral (The Temple)
+A royal gold and deep brown monument to luxury and small-batch roasting.
+*   **The Espresso Altar:** Where the 'Last Machine' is kept. **Visual:** Rows of gleaming portafilters and brass boilers. **Sound:** The deep, rhythmic thrum of the grinder.
 
-### Zone 2: The Ash Wastes
-*   **Concept:** A desolate, colorless landscape where the Monotony has drained all taste and color from existence.
-*   **Loc 1: The Blank Slate's Lair:** A massive, colorless fortress where the Blank Slate resides. **Smell:** The smell of nothing, the absence of scent. **Sound:** Absolute, unnerving silence.
-*   **Loc 2: The Ash Wastes:** A vast, desolate plain where all food tastes like ash. **Smell:** Ash and despair. **Sound:** The whisper of the wind and the occasional, mournful sigh.
-*   **Loc 3: The Colorless Forest:** A forest where all trees and plants are devoid of color.
-*   **Loc 4: The Memory Drainer:** A massive, magical device that actively drains memories from the surrounding area.
-*   **Loc 5: The Nihilist's Altar:** A grim altar where the Nihilist's cultists perform their anti-remembrance rituals.
+### The Agency Bunker (Mental Space)
+A clinical white-blue space of absolute knowledge and desaturated reality.
+*   **The Observation Deck:** Where the 'Grand Erasure' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-### Zone 3: The Forgetting's Domain
-*   **Concept:** A chaotic, nonsensical dimension where discarded memories and forgotten plot points coalesce into dangerous anomalies.
-*   **Loc 1: The Forgetting Collective Headquarters:** A utilitarian building where the First Forgetting and his team work to eliminate memories. **Smell:** Burnt circuits and stale coffee. **Sound:** The frantic clicking of keyboards and whispered conversations.
-*   **Loc 2: The Unreliable Narrator's Lair:** A constantly shifting, illusory space where the Liar resides, actively distorting reality. **Smell:** Confusion and the faint scent of deception. **Sound:** The echoing whispers of false promises.
-*   **Loc 3: The Foreshadowing Fanatic's Sanctuary:** A hidden sanctuary where the Seer of the Coming Storm and her cultists gather to predict future plot points.
-*   **Loc 4: The Character Development Committee's Office:** A sterile, bureaucratic office where the Therapist and her team manipulate emotional arcs.
-*   **Loc 5: The Deus Ex Machina Workshop:** A chaotic workshop where the Great Crane and its collective build their convenient solutions.
+## [TAG: QUEST_MAIN]
+1.  **The Vibe Arrival:** Arrive in Portland. You must survive your first 'Vibe-Check' against a Handlebar Host patrol using only your ironic detachment.
+2.  **The Coffee Heist:** Infiltrate the Caffeine Cult to retrieve a stolen 'Perfect Roast.' You must bypass High Priestess Bean and her sleep-deprived guards.
+3.  **The Bridge-War Defense:** The Agency has launched its first drone strike. You must defend the Burnside Bridge using salvaged bike-parts and your 'Vibe-Energy.'
+4.  **The Powell's Incursion:** Infiltrate the library to find the original Aphrodite Device blueprints. You must navigate the 'Maze of Stories' without getting lost.
+5.  **The Agency Reveal:** Meet Director Vane in a safehouse. He reveals the truth about 'Operation Eraser.' Do you trust the man in the gray suit?
+6.  **The Final Bloodletting at the Source:** Face the Agency face-to-face in a final, reality-bending standoff at the central bunker. The truth is revealed—will you build the stars or reclaim the mud?
+7.  **The Final Coronation:** Face the Warlord face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-### Zone 4: The Cosmic Garden's Mind
-*   **Concept:** A surreal, ever-shifting landscape that is the physical manifestation of the Cosmic Garden's thoughts and desires.
-*   **Loc 1: The Library of Unwritten Stories:** A vast library filled with books that are constantly writing and un-writing themselves. **Smell:** Old paper, ink, and the faint scent of forgotten dreams. **Sound:** The rustle of a million pages turning.
-*   **Loc 2: The Character Graveyard:** A desolate plain filled with the discarded archetypes of characters who never made it into a story.
-*   **Loc 3: The Plot Twist Labyrinth:** A maze of shifting corridors and unexpected turns.
-*   **Loc 4: The World-Building Workshop:** A chaotic workshop where new realities are sketched out and discarded.
-*   **Loc 5: The Cosmic Garden's Throne:** A massive, empty throne that occasionally flickers with the Cosmic Garden's presence.
+## [TAG: ITEM_LEGENDARY]
+### 1. The Artisanal Axe
+**Type:** Legendary Weapon
+**Description:** A hand-forged, double-headed axe with a subtle draconic pattern.
+**Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Vibe-Strike' (once per combat, deals 10d10 radiant damage).
 
----
+### 2. The Espresso Portafilter
+**Type:** Artifact (Focus)
+**Description:** A small, silver handle that hums with the key of the first Barista.
+**Mechanics:** Grants the user the ability to 'Sync' with any mechanical or magical device. Once per day, the user can 'Silence' a target's productivity for 1 hour.
 
-## 5. QUEST ARCHITECTURE
-[TAG: QUEST_MAIN]
+### 3. The Vintage Record
+**Type:** Wondrous Item
+**Description:** A rare, blue-vinyl record that pulses with the light of the sun.
+**Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
-### Main Quest: The Cosmic Garden's Rebirth
-1.  **The Enrollment:** The party enrolls in the Rose Cult, each with their own unique connection to thorns.
-2.  **The Fading Echoes:** The Cosmic Garden's fury intensifies, causing the world to lose its narrative cohesion.
-3.  **The Missing Fragment:** A vital fragment of the Cosmic Garden, the Essence of Beauty, is stolen from the Rose Cult.
-4.  **The Plot Hole Patrol:** The party must navigate a dangerous plot hole to retrieve the missing fragment.
-5.  **The Forgetting's Threat:** The Forgetting Collective attempts to erase all memories from existence.
-6.  **The Echo-Weavers' Dilemma:** The party must convince a group of Echo-Weavers to break character and help them.
-7.  **The Fourth Wall Breach:** The party seeks out the Fourth Wall Breakers for guidance on how to communicate with the Cosmic Garden.
-8.  **The Unreliable Narrator's Truth:** The party must confront the Liar and force him to speak the truth about the missing fragment.
-9.  **The Foreshadowing Fanatic's Warning:** The Seer of the Coming Storm reveals a cryptic prophecy about the Cosmic Garden's fate.
-10. **The Character Development Committee's Intervention:** The Therapist attempts to force the party into a predetermined emotional arc.
-11. **The Deus Ex Machina Collective's Aid:** The party must hijack a Deus Ex Machina event to create a convenient solution to a seemingly impossible problem.
-12. **The Nihilists' Gambit:** The Blank Page and his cultists attempt to erase all meaning from existence.
-13. **The Cosmic Garden's Mind:** The party must enter the Cosmic Garden's mind to retrieve the missing fragment.
-14. **The Plot Twist Labyrinth:** The party must navigate a maze of shifting corridors and unexpected turns.
-15. **The World-Building Workshop:** The party discovers the true nature of the Cosmic Garden and its connection to the Cosmic Storyteller.
+## [TAG: ENEMY_STATBLOCK]
+### 1. Hipster Scout (Professional)
+(CR 2). Humanoid. HP 30, AC 13 (Ironic Armor).
+**Abilities:**
+*   **Detached Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
+*   **Fixed-Gear Charge:** Melee attack. 1d8+3 damage.
 
-[TAG: QUEST_SIDE]
-### Side Quests (Table of 30)
+### 2. Agency Drone (Elite)
+(CR 5). Construct. HP 80, AC 16.
+**Abilities:**
+*   **Surveillance Gaze:** Any creature within 60 feet cannot use the Hide action.
+*   **Neutralizing Pulse:** Ranged attack. 2d10 psychic damage + Target is paralyzed for 1 round.
 
-| Quest Name | Giver | Objective | Reward |
-| :--- | :--- | :--- | :--- |
-| **The Lost MacGuffin** | Grand Rose | Retrieve a lost MacGuffin from a forgotten narrative. | A powerful, but narratively useless, item. |
-| **The Redshirt's Revenge** | Redshirt's Ghost | Avenge the death of a Redshirt who died too early in the plot. | A temporary immunity to being a Redshirt. |
-| **The Deus Ex Machina's Malfunction**| Deus Ex Machina Collective | Fix a malfunctioning Deus Ex Machina that is causing inconvenient coincidences. | A convenient coincidence when you need it most. |
-| **The Plot Hole's Appetite** | Plot Hole Patrol | Feed a hungry plot hole with a discarded narrative. | A temporary immunity to plot holes. |
-| **The Unreliable Witness's Testimony**| Continuity Cop | Get a consistent testimony from an Unreliable Narrator. | A clue that is actually true. |
-| **The Foreshadowing Fanatic's Warning**| Seer | Prevent a minor, but inevitable, disaster. | A glimpse of a future plot point. |
-| **The Character Arc's Deviation** | Therapist | Force a character to deviate from their predetermined emotional arc. | A permanent +1 to a mental stat. |
-| **The Cosmic Storyteller's Dream** | Legend-Weaver | Enter the Storyteller's dream and plant a new idea. | A new, interesting plot point. |
-| **The Protagonist's Dilemma** | Protagonist | Help the Protagonist make a difficult choice. | A permanent +1 to a social stat. |
-| **The Mentor's Lesson** | Mentor | Learn a new skill from the Mentor before they vanish. | A new skill or proficiency. |
-| **The Villain's Redemption** | Villain | Convince the Villain to turn good. | A powerful, but reluctant, ally. |
-| **The Love Interest's Rescue** | Love Interest | Rescue the Love Interest from a perilous situation. | A romantic subplot. |
-| **The Comic Relief's Joke** | Comic Relief | Help the Comic Relief tell a joke that actually lands. | A temporary boost to morale. |
-| **The Fourth Wall Repairman's Tool**| GNEA Agent | Retrieve a lost tool from a dangerous plot hole. | A tool that can fix minor reality breaches. |
-| **The Continuity Error's Correction**| Continuity Cop | Correct a minor continuity error in the Narrative. | A temporary boost to luck. |
-| **The Unreliable Narrator's Truth**| Liar | Force the Liar to speak a single, undeniable truth. | A powerful, but dangerous, piece of information. |
-| **The Foreshadowing Fanatic's Prophecy**| Seer | Decipher a cryptic prophecy about the party's future. | A warning about a future danger. |
-| **The Character Arc Therapist's Session**| Therapist | Attend a therapy session with the Therapist. | A moment of self-discovery. |
-| **The Cosmic Storyteller's Agent's Mission**| GNEA Agent | Complete a mission for the Storyteller's Agents. | A temporary immunity to narrative interference. |
-| **The Archetype Actor's Audition**| Archetype Actors Guild | Help an Archetype Actor prepare for an audition. | A favor from the Guild. |
-| **The Plot Hole Patrol's Cleanup**| Continuity Cop | Clean up a minor plot hole before it causes a major paradox. | A temporary boost to perception. |
-| **The Legend-Weaver's Favor** | Master of Tropes | Perform a small favor for the Master of Tropes. | A minor narrative thread to manipulate. |
-| **The Fourth Wall Breaker's Message**| Narrator | Deliver a message to another Fourth Wall Breaker. | A piece of meta-knowledge. |
-| **The Deus Ex Machina Collective's Request**| Great Crane | Retrieve a specific part for a new Deus Ex Machina device. | A convenient coincidence when you need it most. |
-| **The Unreliable Narrator's Story**| Liar | Help the Liar craft a new story that is both entertaining and true. | A temporary boost to charisma. |
-| **The Foreshadowing Fanatic's Prediction**| Seer | Prevent a minor disaster that was foreshadowed. | A temporary boost to initiative. |
-| **The Character Development Committee's Intervention**| Therapist | Intervene in a character's emotional arc to prevent a breakdown. | A temporary boost to wisdom. |
-| **The Cosmic Storyteller's Agent's Dilemma**| GNEA Agent | Help an agent who is struggling with their predetermined role. | A temporary boost to empathy. |
-| **The Archetype Actor's Break** | Archetype Actor | Help an Archetype Actor take a break from their role. | A temporary boost to creativity. |
-| **The Plot Hole Patrol's Investigation**| Continuity Cop | Investigate a series of strange disappearances caused by a plot hole. | A temporary boost to investigation. |
+### 3. 'The Mastermind' Vane (Proxy)
+(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+**Abilities:**
+*   **Order of Progress Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Agency's 'Grand Design.'
+*   **The Final Move:** Once per combat, Vane can force an enemy to take an action that serves his own glory.
 
----
-
-## 6. ITEM DATABASE
-[TAG: ITEM_LEGENDARY]
-
-### Artifacts of Rose City Warlords
-1.  **The Cosmic Garden (Fragment):** A pulsating, organic fragment of the original Cosmic Garden. It grants immense vitality and regeneration, but also causes the user to feel the raw, untamed fury of the Cosmic Garden.
-2.  **The Thorn-Weaver's Loom:** A portable loom that allows the user to weave thorns into powerful artifacts and wondrous compounds.
-3.  **The Thorn Archive Key:** A key that can open the Thorn Archive, granting access to the floral dust of every known lost bloom in existence.
-4.  **The Recipe of Rebirth:** A legendary recipe that, when perfectly executed, grants the consumer eternal rebirth. It requires a single, impossible ingredient.
-5.  **The Cosmic Garden's Vial:** A vial containing a single drop of the Cosmic Garden's tears. When consumed, it grants immense power, but slowly consumes the user's own memories.
-
-[TAG: ITEM_LOOT]
-### Custom Loot (Weird/Low Probability)
-1.  **A Jar of Floral Dust:** It occasionally glows faintly with residual fury.
-2.  **The Self-Stirring Pruning Shears:** It stirs itself, but only when no one is looking.
-3.  **A Bell Jar that Whispers Blooms:** It whispers blooms, but only in a language you don't understand.
-4.  **The Ever-Empty Particle Jar:** It's always empty, no matter how many particles you put in it.
-5.  **A Bottle of Tears of Pure Joy:** When drunk, it grants a temporary boost to happiness, but also makes you cry uncontrollably.
-6.  **The Recipe for Disaster:** A recipe that, when followed, always results in a catastrophic thorn failure.
-7.  **An Atomic Jar that Changes Memory:** The ash inside changes memory every time you open it.
-8.  **The Culinary Critic's Monocle:** It allows you to see the flaws in any thorn, but it also makes you incredibly judgmental.
-9.  **A Sugar Cube that Sings:** It sings a sweet, syrupy song when you put it in your mouth.
-10. **The Bitter Pill:** A pill that, when swallowed, makes everything taste bitter for an hour.
-11. **The Harmonious Fork:** A fork that, when used, balances the particles of any being.
-12. **The Divine Taster's Napkin:** It can instantly identify any corrupted thorn and restore it to its original state.
-13. **A Chef's Hat that Grants Inspiration:** It occasionally whispers new thorn formulas into your ear.
-14. **The Recipe Thief's Lockpick:** It can pick any lock, but it also steals a random thorn formula from your mind.
-15. **The Sugar Golem's Heart:** A pulsating, sugar-crystal heart that grants a temporary boost to sweetness.
-16. **The Sour Knight's Shield:** It's covered in a lingering, bitter taste that causes despair.
-17. **The Umami Philosopher's Robe:** Wearing it makes you feel strangely balanced and harmonious.
-18. **The First Palate's Herald's Trumpet:** It's a trumpet that, when blown, announces the arrival of a new particle.
-19. **A Monotony Cultist's Robe:** Wearing it makes you feel strangely bland and emotionless.
-20. **The Pepper King's Crown:** A crown made of chili peppers that makes your head feel incredibly hot.
-
----
-
-## 7. BESTIARY
-[TAG: ENEMY_STATBLOCK]
-
-### Custom Stat Blocks
-1.  **Forgetting (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
-2.  **Nihilist Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Thorn Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on thorn checks), *Meaningless Zealot* (Immune to fear).
-3.  **Echo-Weaver (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on thorn checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
-4.  **Bloom Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Bloom-Jar* (Can extract a bloom directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
-5.  **Cosmic Garden Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
-6.  **Ash-Weaver (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
-7.  **Cosmic Garden's Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Thorns (Corrupted)* (Can instantly restore any lost bloom to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful thorn spells that cause chaos).
-8.  **Fury-Eater (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
-9.  **The Blank Slate (Nihilist Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Thorn Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **The Cosmic Garden's Fury (Avatar)** (CR 20 Cosmic Entity). HP: 400, AC: 22. **Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Thorns* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
-
-[TAG: ENCOUNTER_TABLE]
-### Encounter Tables (d20)
-
-**Rose Cult Sanctuary:**
-1.  A student accidentally creates a sentient thorn.
-2.  An Echo-Weaver escapes from a containment field.
-3.  A Nihilist tries to spread meaninglessness among the students.
-4.  A Bloom Thief attempts to steal a bloom.
-5.  The Harmonious Rose arrives for a surprise inspection.
-6.  The Grand Rose is in a bad mood, making everyone nervous.
-7.  A Forgetting runs amok in the archive.
-8.  An Ash-Weaver challenges a student to a thorn duel.
-9.  The Divine Rose tries to balance a chaotic thorn.
-10. The Fury-Eater identifies a corrupted thorn.
-11-20. (The usual chaos of a busy sanctuary).
-
----
-
-## 8. MECHANICS
-[TAG: RULES_CUSTOM]
-
-### Subsystem: Thorn Balance
-*   **Balance Score (0-10):** Represents the emotional balance of the current zone. Starts at 5.
-*   **Gaining Balance:** Restoring corrupted bloom, creating harmonious emotions, performing "balanced" actions.
-*   **Losing Balance:** Creating chaotic emotions, succumbing to the Cosmic Garden's fury, experiencing prolonged emotional instability.
-*   **Effects:**
-    *   *High Balance:* Emotions are stable, predictable. Spells work as intended.
-    *   *Low Balance:* Emotions are unstable, unpredictable. Spells can backfire, physics glitches.
-    *   *0 Balance:* The zone collapses into a single, undifferentiated emotion.
-
-### Subsystem: Thorn-Weaving
-*   **Thorn-Weaving:** Magic is treated as manipulating the floral dust of lost things. Spells are "rituals."
-*   **Fury Risks:** If a spellcaster rolls a natural 1 on a spell attack or saving throw, they cause a "Fury Surge." The spell backfires, or a minor emotional glitch occurs in the simulation.
-*   **Particle Injection:** Thorn-Weavers can attempt to "inject" custom particles into the simulation, creating unique effects. This requires a successful INT (Thorn-Weaving) check, with the DC determined by the complexity of the desired effect.
-
----
-
-## 9. SESSION GUIDE
-[TAG: DM_GUIDE]
-
-*   **Session 1: The Enrollment.** The party enrolls in the Rose Cult. They meet the Grand Rose and their fellow students. *Social:* A thorn challenge to prove their worth.
-*   **Session 2: The Fading Echoes.** The Cosmic Garden's fury intensifies, causing the world to lose its narrative cohesion. The party investigates the Cult, suspecting the Nihilists. *Heist:* Infiltrate the Thorn Archive.
-*   **Session 3: The Missing Fragment.** A vital fragment of the Cosmic Garden, the Essence of Beauty, is stolen. *Combat:* Rescue an enslaved Echo-Weaver.
-*   **Session 4: The Plot Hole Patrol.** The party discovers the Plot Hole Patrol is spreading meaninglessness. *Exploration:* Navigate a colorless forest.
-*   **Session 5: The Forgetting's Threat.** The Forgetting Collective attempts to erase all memories from existence. *Social:* A high-stakes emotional manipulation.
-*   **Session 6: The Echo-Weavers' Dilemma.** The party must convince a group of Echo-Weavers to break character and help them. *Heist:* A chase through the Cult Library.
-*   **Session 7: The Fourth Wall Breach.** The party seeks out the Fourth Wall Breakers for guidance on how to communicate with the Cosmic Garden. *Combat:* A battle against thorn purists.
-*   **Session 8: The Unreliable Narrator's Truth.** The party must confront the Liar, whose words are changing reality. *Puzzle:* A balance-restoring challenge.
-*   **Session 9: The Foreshadowing Fanatic's Warning.** The Seer of the Coming Storm reveals a cryptic prophecy about the Cosmic Garden's fate. *Social:* A philosophical discussion about meaning.
-*   **Session 10: The Character Development Committee's Intervention.** The Therapist attempts to force the party into a predetermined emotional arc. *Boss Fight:* A battle against the Blank Slate.
-*   **Session 11: The Nihilists' Gambit.** The Blank Page and his cultists attempt to erase all meaning from existence. *Combat:* A massive battle against the Nihilists.
-*   **Session 12: The Cosmic Garden's Rebirth.** The party must rewrite the missing chapter, restoring meaning to existence and shaping the future of the Cosmic Garden. *Climax:* The party must awaken the Cosmic Garden from its fury, restoring thorns to the Ash Wastes.
-
----
-
-## 10. RAG INDEX
-[TAG: INDEX_KEYWORDS]
-Rose City Warlords, Cosmic Garden, Cosmic Ray, Rose, City, Warlords, Rose Cult, Nihilists, The Forgetting, Echo-Weavers, Bloom Thieves, Essence of Beauty Keepers, Cosmic Garden Seekers, Ash-Weavers Guild, Cosmic Garden's Chosen, Fury-Eaters, Grand Rose, The Blank Slate, The First Forgetting, The Lord of Echoes, The Master Thief, The Harmonious Rose, The Immortal Rose, The Blight Warden, The Divine Rose, Master Ash-Weaver Borin, Thorn Balance, Thorn-Weaving.
+## [TAG: INDEX_KEYWORDS]
+Rose City Warlords, Portland, Gay Bomb, Hipsters, Baristas, Cyclists, Handlebar Host, Caffeine Cult, Chain-Gang, Vibe-Energy, Satire, The Agency, Post-Apocalyptic Action, Artisanal Axe, Vibe-Check. 

@@ -1,420 +1,138 @@
-
-# The Eternal Court War: Campaign Bible
+# Tales of Deception: Campaign Bible
 
 ## [TAG: LORE_CORE]
 ### Origin Myth
-The "Apocalypse" was not a war or a plague. It was a "Great Silence," a psychic event that erased humanity's collective memory of conflict, disagreement, and individuality. The "Eternal Court War" is not a war between factions; it is the physical manifestation of humanity's suppressed, primal need for conflict, a collective unconscious given monstrous form. The "Court" is not evil; it is a symptom. It forces people to confront the aggressive urges they deny. The "War" is not a battle; it is the original, foundational lie, a narrative seed that has grown into a monstrous, all-consuming story of primal conflict. The "Judge" of the Court is not a person, but the original, foundational instinct, a narrative seed that has grown into a monstrous, all-consuming story of primal conflict.
+The Truth is not a single story; it's a series of competing lies, each more beautiful than the last. In this world, identity is a performance and marriage is a war of attrition. Long ago, it's said the first 'Deceiver' realized that people don't want the truth—they want a story that makes them feel something. The 'Gilded Cage' isn't a physical place; it's the suburban dream where every smile masks a secret and every perfect lawn hides a shallow grave. The 'Media Glare' is the sun of this world, a blinding light that burns away nuance and leaves only the caricatures of the 'Ideal Victim' and the 'Guilty Husband.' To survive here is to be the best scriptwriter of your own life, knowing that the person sleeping next to you is probably doing the same.
 
 ### Timeline
-1.  **The First Conflict (Ancient History):** The first human feels an instinct. The concept of "primal energy" is born.
-2.  **The Birth of the Eternal Court War (c. -500 years):** The planet's subconscious achieves sentience, becoming the "Eternal Court War." Its first "agents" are individuals whose lives are subtly shaped by the Court's narrative.
-3.  **The Age of Suppression (c. -400 to -100 years):** The Court grows, its narrative consuming more and more lives. It becomes a powerful, shadowy force, manipulating instincts and erasing anomalies from behind the scenes.
-4.  **(Surreal) The Day the World Went Silent (c. -100 years):** For 24 hours, all human beings revert to their primal instincts. Cities become jungles, and people hunt each other for sport. Many go mad trying to find the "missing" empathy.
-5.  **The Great Silence (c. -50 years):** A powerful instinct tries to "re-write" the Court's protocols, leading to a brutal internal conflict. The "Dream-Weavers" are born from this schism.
-6.  **The Rise of the Judge (c. -20 years):** The original, foundational instinct, now fully sentient, becomes the "Judge," the living embodiment of the Court's narrative.
-7.  **The Eternal Court War (Present Day):** The planet initiates its most ambitious narrative yet: a global protocol designed to erase all empathy, all cooperation, all things that defy primal control from the collective consciousness. The players are caught in the middle of this operation.
-8.  **(Surreal) The Echo of a Glitch (1 week ago):** A single, powerful glitch in the global network echoes through the very fabric of reality. For a week, every time someone speaks, their words are subtly twisted to reflect the original glitch.
-9.  **The Narrative Collapse (Present Day):** The Court's narrative is becoming too complex, too contradictory. It is on the verge of collapsing, threatening to unravel the very fabric of reality.
-10. **(Surreal) The Day the World Became a Battlefield (1 day ago):** The entire world begins to manifest as a battlefield. People's lives become instincts, their actions primal expressions. The horror of narrative control becomes undeniable.
+1.  **The Marriage Vow (5 Years Ago):** Nick and Amy Dunne marry, creating the 'Perfect Couple' facade.
+2.  **The Great Recession (Recent):** Financial pressure begins to erode the facade. Nick and Amy lose their jobs and move to a cold, desaturated Missouri suburb.
+3.  **The Affair (1 Year Ago):** Nick begins a secret relationship, creating a 'Dishonest Memory' of his own life.
+4.  **The Anniversary Disappearance (Present Day - Day 1):** Amy vanishes on their fifth anniversary. The 'Fake Diary' is found, painting Nick as a monster.
+5.  **The Media Circus (Day 3):** The national media descends on the town, turning the search into a garish, artificial spectacle.
+6.  **The Twist (Ongoing):** The players realize that Amy isn't a victim—she's the architect of her own disappearance, living in an anonymous motel room.
+7.  **The Gilded Cage (Upcoming):** Amy returns, but the 'Truth' is now a prisoner of the 'Big Lie.' The couple must live together in a cold, clinical reality.
+8.  **The Reverse-Deception (Upcoming):** Nick attempts to out-maneuver Amy's controlled reality using her own media tactics.
+9.  **The Present Day:** The house is a high-contrast nightmare of clinical whites and cool grays. The media is watching, and every word is a calculated weapon.
 
-### The "Why"
-The metaphysical conflict is a struggle against the dissolution of humanity itself. The Eternal Court War is not evil; it is a necessary evil. It forces people to conform to a primal reality, preventing the world from unraveling into emotional chaos. The players are caught in this web of protocols, and the horror comes from the realization that the enemy they are fighting is a reflection of their own suppressed instincts. The goal is not to "win" against the Court, which is impossible, but to find a way to "re-write" its protocols, to introduce a new narrative of controlled primal chaos, or, perhaps, to find a way to accept the inherent primal intensity of existence without manifesting it into a global meltdown. The ultimate horror is the realization that you are just a soldier in someone else's war.
+### The 'Why'
+The central conflict is the struggle for 'Control' in a world of absolute performance. It is about the 'Suburban Uncanniness' of knowing that your entire life is a set piece. The 'Why' is the question: 'Can you truly love someone who is just a collection of lies?' It explores the dual perspectives of the 'Guilty Conscience' and the 'Calculated Fury,' the weight of a media-defined identity, and the horror of a marriage that has become a mutually assured destruction pact. The players are the investigators, neighbors, and victims who must navigate the maze of tales to find a truth that might be worse than the deception.
 
 ## [TAG: FACTION_DATA]
-### The Eternal Court
-**Type:** Sentient Narrative Construct
-**Leader:** The Judge, the living embodiment of the Court's foundational instinct.
-**Asset:** A vast network of agents, immense power, and the ability to subtly manipulate reality through narrative control.
-**Rivals:** The Dream-Weavers, The Empathy-Hunters.
+### The Media Wolves (The Spotlight-Makers)
+**Type:** Sensationalist News Syndicate
+**Leader:** Ellen Abbott (A theatrical, overdressed TV host).
+**Asset:** Sound-bites, unflattering angles, and the power to convict anyone in the 'Court of Public Opinion.'
+**Rivals:** The Defense Lawyers, The Silent Truth.
 
-### The Dream-Weavers
-**Type:** Reality-Hacking Mystics
-**Leader:** The Somnambulist, a former Court agent who believes they can "re-write" the Court's protocols by introducing subtle "glitches" into the fabric of reality.
-**Asset:** The ability to "re-write" people, places, and memories from existence. They are trying to "de-fang" the Court by changing the definition of "chaos" to "order," but their methods are causing unpredictable reality-warps.
-**Rivals:** The Eternal Court, The Empathy-Hunters.
+### Amy's Architects (The Calculated)
+**Type:** Secret/Intimate Network of Deception
+**Leader:** Amy Dunne (Tier 1 NPC).
+**Asset:** The 'Fake Diary,' motel hideouts, and a deep understanding of human psychology.
+**Rivals:** Nick Dunne, The Police.
 
-### The Empathy-Hunters
-**Type:** Paranormal Investigators
-**Leader:** Elder John, a man who has lost his entire family to the Court's protocols.
-**Asset:** A deep understanding of the Court's patterns, and a network of informants who are also struggling with paranoia. They believe the only way to defeat the Court is to expose all instincts.
-**Rivals:** The Eternal Court, The Dream-Weavers.
+### Nick's Defenders (The Evasive)
+**Type:** Loose Network of Family and Evasive Allies
+**Leader:** Margo 'Go' Dunne (Nick's twin sister).
+**Asset:** Faded memories, Midwestern loyalty, and a bar called 'The Bar.'
+**Rivals:** Amy's Architects, The Media Wolves.
 
-### The Archivists of Empathy
-**Type:** Narrative Manipulators
-**Leader:** The Red Pen, a former Court archivist who now seeks to "correct" the Court's narrative.
-**Asset:** The ability to subtly "edit" the Court's narrative, changing minor details of the past or present. They believe they can "re-write" the Court into something benevolent.
-**Rivals:** The Eternal Court, The Dream-Weavers.
+### The Police Department (The Procedural)
+**Type:** Law Enforcement (Skeptical)
+**Leader:** Detective Rhonda Boney.
+**Asset:** Harsh fluorescent lighting, forensic evidence, and a refusal to be distracted by the media glare.
+**Rivals:** The Media Wolves (who they view as 'interlopers').
 
-### The Protagonists
-**Type:** Unwilling Heroes
-**Leader:** None. They are a loose collection of individuals who have been "written" into the Court's narrative as protagonists.
-**Asset:** Plot armor, narrative causality, and an uncanny ability to survive impossible situations. They are trying to "escape" the Court's narrative and write their own story.
-**Rivals:** The Eternal Court, The Antagonists.
-
-### The Antagonists
-**Type:** Narrative Villains
-**Leader:** None. They are a loose collection of individuals who have been "written" into the Court's narrative as antagonists.
-**Asset:** Narrative causality, and an uncanny ability to cause chaos and destruction. They are trying to "destroy" the Protagonists and fulfill their role in the Court's narrative.
-**Rivals:** The Protagonists.
-
-### The Audience
-**Type:** Unwitting Participants
-**Leader:** None. They are the ordinary people whose lives are subtly manipulated by the Court's narrative.
-**Asset:** Their belief. Their collective belief in the Court's narrative gives it power.
-**Rivals:** The Empathy-Hunters.
-
-### The Narrators
-**Type:** Cosmic Storytellers
-**Leader:** The Master Scribe, a being who writes everything that happens in a massive book.
-**Asset:** The ability to record and subtly influence the Court's narrative. They are not good or evil; they are simply the storytellers.
-**Rivals:** The Dream-Weavers.
-
-### The Plot Devices
-**Type:** Sentient Objects
-**Leader:** None. They are objects that have been imbued with narrative significance.
-**Asset:** The ability to subtly influence the Court's narrative. A "Chekhov's Gun" might spontaneously appear when needed. A "MacGuffin" might be impossibly hard to find.
-**Rivals:** The Dream-Weavers.
-
-### The Deus Ex Machina
-**Type:** Cosmic Intervention
-**Leader:** None. They are beings who appear at critical moments to resolve impossible situations.
-**Asset:** The ability to subtly manipulate reality to ensure the Court's narrative continues. They are not good or evil; they are simply the plot.
-**Rivals:** The Dream-Weavers.
+### Desi's Gilded Cages
+**Type:** High-Society/Obsessive Support Group
+**Leader:** Desi Collings (A wealthy, obsessive ex-boyfriend).
+**Asset:** Lake houses, infinite resources, and a desire to own the 'Ideal Victim.'
+**Rivals:** Nick Dunne.
 
 ## [TAG: NPC_TIER_1]
-**The Judge** (Aberration) - The living embodiment of the Court's foundational instinct. **Voice:** A calm, soothing, and utterly convincing voice that whispers sweet nothings and terrible truths. **Goal:** To perpetuate the Court's narrative, consuming all other stories. **Secret:** It is slowly losing its own identity, becoming a collection of all the instincts it has suppressed.
-**The Somnambulist** (Human Hacker) - The leader of the Dream-Weavers. A former Court agent who believes they can "re-write" the Court's protocols by introducing subtle "glitches" into the fabric of reality. **Voice:** A soft, sibilant whisper, like the rustle of blank paper. **Goal:** To "de-fang" the Court by changing the definition of "chaos" to "order." **Secret:** They are slowly fading from existence, becoming a blank page.
-**Elder John** (Human Ranger) - The leader of the Empathy-Hunters. A man consumed by paranoia, but driven by a desperate need for truth. **Voice:** A low, gravelly whisper, constantly looking over his shoulder. **Goal:** To expose the Court and restore humanity's empathy. **Secret:** He is slowly losing his own identity, and sometimes he forgets who he is.
-**The Red Pen** (Human Expert) - The leader of the Archivists of Empathy. A former Court archivist who now seeks to "correct" the Court's narrative. **Voice:** A precise, academic, and slightly impatient voice. **Goal:** To "re-write" the Court into something benevolent. **Secret:** They are slowly losing their own ability to distinguish between truth and fiction.
-**The Protagonist** (Player Character) - An unwilling hero, caught in the Court's narrative. **Voice:** Yours. **Goal:** To escape the Court's narrative and write their own story. **Secret:** They are slowly losing their own identity, becoming a character in someone else's story.
-**The Antagonist** (NPC) - A narrative villain, written into the Court's story to oppose the Protagonist. **Voice:** A booming, theatrical, and utterly evil voice. **Goal:** To destroy the Protagonist and fulfill their role in the Court's narrative. **Secret:** They are slowly losing their own identity, becoming a caricature of evil.
-**The Master Scribe** (Celestial) - The leader of the Narrators. A being who writes everything that happens in a massive book. **Voice:** The sound of a quill scratching on parchment. **Goal:** To record the story. **Secret:** It is not just recording the story; it is writing it. It is the "DM" of the universe.
-**The MacGuffin** (Sentient Object) - A plot device, imbued with narrative significance. **Voice:** A faint, alluring hum. **Goal:** To be pursued. **Secret:** It is utterly worthless.
-**The Deus Ex Machina** (Celestial) - A cosmic intervention, appearing at critical moments to resolve impossible situations. **Voice:** A calm, reassuring, and utterly implacable voice. **Goal:** To ensure the Court's narrative continues. **Secret:** It is slowly losing its own ability to distinguish between reality and fiction.
-**The Court Agent** (Human Rogue) - A loyal, but conflicted, member of the Court. **Voice:** A smooth, charming, and utterly untrustworthy voice. **Goal:** To advance their own position within the Court's narrative. **Secret:** They are secretly trying to "re-write" their own chapter to escape the Court's control.
-**The Dream-Weaver's Informant** (Human Commoner) - A local who is secretly working for the Dream-Weavers. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** They are terrified of both the Court and the Dream-Weavers.
-**The Empathy-Hunter's Informant** (Human Commoner) - A local who is secretly working for the Empathy-Hunters. **Voice:** A paranoid, whispered voice. **Goal:** To expose the Court. **Secret:** They are slowly losing their own identity, becoming a reflection of the Court's lies.
-**The Archivist of Empathy's Assistant** (Human Expert) - A young, ambitious archivist. **Voice:** A precise, academic, and slightly impatient voice. **Goal:** To help the Red Pen "re-write" the Court's narrative. **Secret:** They are secretly trying to "re-write" their own chapter to become the protagonist.
-**The Protagonist's Ally** (NPC) - A loyal friend, caught in the Court's narrative. **Voice:** A brave, loyal, and slightly naive voice. **Goal:** To help the Protagonist. **Secret:** They are slowly losing their own identity, becoming a supporting character in someone else's story.
-**The Antagonist's Minion** (NPC) - A loyal, but conflicted, minion of the Antagonist. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To serve the Antagonist. **Secret:** They are secretly trying to "re-write" their own chapter to become the protagonist.
-**The Audience Member** (Human Commoner) - An ordinary person, caught in the Court's narrative. **Voice:** A confused, bewildered, and slightly apathetic voice. **Goal:** To understand what is happening. **Secret:** They are slowly losing their own identity, becoming a background character in someone else's story.
-**The Narrator's Apprentice** (Celestial) - A young, ambitious Narrator. **Voice:** The sound of a quill scratching on parchment. **Goal:** To learn how to write the story. **Secret:** They are secretly trying to "re-write" the story to become the Master Scribe.
-**The Plot Device's Guardian** (Construct) - A construct designed to protect a specific plot device. **Voice:** A monotone, mechanical voice. **Goal:** To protect the plot device. **Secret:** It is slowly developing its own personality, independent of its programming.
-**The Deus Ex Machina's Agent** (Celestial) - An agent of the Deus Ex Machina, sent to resolve an impossible situation. **Voice:** A calm, reassuring, and utterly implacable voice. **Goal:** To ensure the Court's narrative continues. **Secret:** It is slowly losing its own ability to distinguish between reality and fiction.
-**The Court Archivist** (Human Expert) - A loyal, but conflicted, archivist for the Court. **Voice:** A precise, academic, and slightly nervous voice. **Goal:** To preserve the Court's narrative. **Secret:** They are secretly trying to find a way to "re-write" the Court's narrative into something benevolent.
+**Amy Dunne** (Independent - The Architect) - A blonde, perfectly composed woman in designer clothes. **Voice (Public):** Warm, vulnerable, and perfectly modulated. **Voice (Private):** Cold, analytical, and quietly furious. **Goal:** To punish Nick for his betrayal and become the 'Ultimate Star' of her own tragedy. **Secret:** She has planned her own 'murder' down to the last drop of blood.
+**Nick Dunne** (Independent - The Husband) - A conventionally handsome man who is increasingly haggard. **Voice:** Defensive, charming but evasive, and Midwestern. **Goal:** To prove his innocence without revealing his own moral failures. **Secret:** He is having an affair with a student, a fact that is destroying his credibility.
+**Margo 'Go' Dunne** (Independent - The Anchor) - Nick's twin sister and the only person he trusts. **Voice:** Sarcastic, honest, and world-weary. **Goal:** To keep Nick out of jail and keep their business afloat. **Secret:** She knows exactly how guilty Nick feels about the affair, but believes he is incapable of murder.
+**Detective Rhonda Boney** (Law Enforcement - Skeptical Observer) - A smart, professional detective who doesn't like the media. **Voice:** Calm, observant, and measured. **Goal:** To follow the evidence wherever it leads, even if it contradicts the 'Perfect Story.' **Secret:** she is actually a fan of Amy's 'Amazing Amy' books and is struggling to remain objective.
+**Desi Collings** (Criminal equivalent - Obsessive Ex) - A wealthy man who views Amy as a possession. **Voice:** Soft, cultured, and unsettlingly kind. **Goal:** To rescue Amy and keep her in his gilded cage forever. **Secret:** He has been stalking Amy for years and has a secret shrine to her in his lake house.
 
-### [TAG: NPC_TIER_2]
+## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Barnaby | Court Clerk | The Grand Courtroom | Is secretly writing a tell-all memoir about the Court. |
-| Cinder | Dream-Weaver's Informant | The Glitch-Zone | Her eyes are constantly twitching, as if seeing a thousand erased conflicts at once. |
-| Drogan | Empathy-Hunter's Informant | The Hidden Bunker | Believes he can communicate with the Court through interpretive dance. |
-| Elara | Archivist of Empathy's Assistant | The Archive of Empathy | Her medical kit is filled with red pens. |
-| Finn | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Gilda | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Horace | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Inker | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Jori | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Kael | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Loric | Court Agent | The Grand Courtroom | Dreams in perfect, geometric patterns. |
-| Mort | Dream-Weaver's Informant | The Glitch-Zone | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Nyla | Empathy-Hunter's Informant | The Hidden Bunker | Believes she can communicate with the Court through interpretive dance. |
-| Orin | Archivist of Empathy's Assistant | The Archive of Empathy | Her rifle is filled with red pens. |
-| Pip | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Quelenna | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Roric | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Silas | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Tork | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Ula | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Val | Court Agent | The Grand Courtroom | Dreams in perfect, geometric patterns. |
-| Wex | Dream-Weaver's Informant | The Glitch-Zone | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Xylo | Empathy-Hunter's Informant | The Hidden Bunker | Believes she can communicate with the Court through interpretive dance. |
-| Yara | Archivist of Empathy's Assistant | The Archive of Empathy | Her rifle is filled with red pens. |
-| Zane | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Astrid | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Boris | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Celia | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Dmitri | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Eva | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Felix | Court Agent | The Grand Courtroom | Dreams in perfect, geometric patterns. |
-| Giselle | Dream-Weaver's Informant | The Glitch-Zone | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Hector | Empathy-Hunter's Informant | The Hidden Bunker | Believes he can communicate with the Court through interpretive dance. |
-| Ines | Archivist of Empathy's Assistant | The Archive of Empathy | Her rifle is filled with red pens. |
-| Jules | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Kira | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Leo | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Maya | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Nico | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Orla | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Pascal | Court Agent | The Grand Courtroom | Dreams in perfect, geometric patterns. |
-| Rosa | Dream-Weaver's Informant | The Glitch-Zone | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Simon | Empathy-Hunter's Informant | The Hidden Bunker | Believes he can communicate with the Court through interpretive dance. |
-| Tara | Archivist of Empathy's Assistant | The Archive of Empathy | Her rifle is filled with red pens. |
-| Ulric | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Vera | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Wyatt | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Xenia | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Yuri | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Zoe | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
+| Ellen Abbott | Media Host | TV Studio | Wears a different shade of 'Blood Red' lipstick for every broadcast. |
+| Andie | The Student | Dark Alley | Only communicates through frantic, regretful text messages. |
+| The Neighbor | Busybody | Suburban Lawn | Can name every car that has passed by in the last 48 hours. |
+| The Motel Clerk | Independent | Anonymous Space | Only speaks in 'Measured Indifference' until bribed. |
+| Tanner Bolt | High-End Lawyer | Press Room | His three-piece suit is so expensive it looks like armor. |
+| 'Flash' | Press Tech | Crime Scene | His flashbulbs create 1-second 'Saturated Stills' of the spectacles. |
+| The Librarian | Archive Tech | Newspaper Morgue | Can find any 'Amazing Amy' plot point by the smell of the paper. |
+| 'Lipstick' | Informant | High-End Gala | Leaves a mark on the evidence where the next 'Performance' will happen. |
+| The Pilot | UEF Cadet (Equivalent) | Private Airfield | Obsessed with becoming a 'Legendary Escapist.' |
+| 'Iron-Gut' | Coroner | City Morgue | Can perform an autopsy while humming a news jingle. |
 
 ## [TAG: LOCATIONS_MAIN]
-### The Grand Courtroom
-The physical manifestation of the Law's narrative, a sprawling, monolithic building that subtly shifts its layout to reflect the current case.
-*   **The Judge's Bench:** A massive, echoing platform where the Chief Justice presides. **Smell:** Old money, polished wood, and the faint scent of justice. **Sound:** The murmur of polite conversation, the clinking of glasses, the subtle creak of shifting walls.
-*   **The Jury Box:** A dark, opulent room filled with ancient books and forbidden knowledge. **Smell:** Old paper, leather, and the faint scent of lies. **Sound:** The whisper of the Chief Justice's voice, the rustle of turning pages.
-*   **The Witness Stand:** A long hall filled with portraits of past Court agents. The eyes of the portraits seem to follow you, and their expressions subtly change to reflect the current narrative. **Smell:** Old paint, and the faint scent of forgotten lives. **Sound:** An eerie silence.
-*   **The Secret Passages:** A network of hidden passages and rooms that allow Court agents to move unseen, or to escape unwanted plot points. **Smell:** Dust, and the faint scent of secrets. **Sound:** The creak of hidden doors, the whisper of unseen movement.
-*   **The Narrative Engine:** A hidden chamber beneath the Grand Courtroom, where the Law's narrative is actively generated and maintained. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of complex machinery, the click of keyboards, the whisper of the Chief Justice's voice.
+### The Dunne Residence (Carthage, MO)
+A suburban home that looks perfect but feels fundamentally wrong.
+*   **The Kitchen:** A site of 'Calculated Destruction' and desaturated blues. **Smell:** Bleach, expensive coffee, and iron. **Sound:** The rhythmic hum of a faulty refrigerator.
+*   **The Master Bedroom:** A cold, clinical space where the facade was most intimate. **Visual:** A single, perfectly made bed that hides a hidden safe.
 
-### The Glitch-Zone
-A hidden, extra-dimensional space where the Dream-Weavers reside, a place where narrative ceases to exist.
-*   **The Empty Archive:** An archive filled with files that have no words. **Smell:** Dust, and the absence of all other smells. **Sound:** A profound, unsettling silence.
-*   **The Blank Page:** A massive, white void where the Dream-Weavers perform their rituals of erasure. **Smell:** The absence of smell. **Sound:** The absence of sound.
-*   **The Narrative Vacuum:** A section of the Blank Space where all narrative is absorbed. **Smell:** The absence of smell. **Sound:** The absence of sound.
+### The Television Studio (The Glare)
+An artificial, garish arena where the 'Truth' is edited.
+*   **The Set:** Oversaturated colors, blinding lights, and theatrical staging. **Visual:** Neon news tickers and professional smiles. **Sound:** The frantic tapping of typewriters and directors shouting.
+*   **The Green Room:** A cluttered space of mirrors, makeup, and desperate PR strategies.
 
-### The Empathy-Hunters' Bunker
-A hidden bunker where the Empathy-Hunters collect all the evidence of the Law's lies.
-*   **The Wall of Instincts:** A massive wall covered in documents, photographs, and recordings, each exposing an instinct suppressed by the Law. **Smell:** Old paper, and the faint scent of paranoia. **Sound:** The rustle of old documents, the whisper of forgotten truths.
-*   **The Interrogation Room:** A sterile, soundproof room where the Empathy-Hunters interrogate former Court agents. **Smell:** Antiseptic, and the faint scent of fear. **Sound:** The hum of the ventilation system, the strained voices of the interrogators.
-*   **The Hidden Bunker:** A heavily fortified bunker, filled with computers and surveillance equipment. **Smell:** Ozone, and the faint scent of ambition. **Sound:** The hum of electronics, the click of keyboards.
+### Desi's Lake House (The Gilded Cage)
+A beautiful, but oppressive monument to obsession and resources.
+*   **The Surveillance Room:** A room filled with monitors showing every inch of the house. **Visual:** Amy visible in every screen, looking like a prisoner. **Sound:** The deep, rhythmic thrum of the lake.
+*   **The Guest Suite:** An opulent, velvet-lined room where everything is provided but nothing is free.
 
-### The Archivist of Empathy's Den
-A hidden workshop where the Archivists of Empathy subtly manipulate the Law's narrative.
-*   **The Redaction Room:** A room filled with computers and editing equipment. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of electronics, the click of keyboards.
-*   **The Re-Write Chamber:** A chamber where the Archivists of Empathy perform their rituals of narrative manipulation. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of complex machinery, the click of keyboards, the whisper of the Red Pen's voice.
-*   **The Narrative Loom:** A massive, intricate loom where the Archivists of Empathy re-weave the threads of the Law's narrative. **Smell:** Old paper, and the faint scent of ambition. **Sound:** The gentle click-clack of the loom.
-
-### The Cosmic Stage
-A metaphorical stage where the Narrators and the Deus Ex Machina subtly influence the Law's narrative.
-*   **The Scriptorium:** A massive library filled with books that contain the Law's narrative. **Smell:** Old paper, and the faint scent of forgotten stories. **Sound:** The rustle of turning pages, the whisper of changing stories.
-*   **The Cosmic Green Room:** A hidden chamber where the Deus Ex Machina agents wait for their cues. **Smell:** Ozone, and the faint scent of paradox. **Sound:** An eerie silence.
-*   **The Plot Device Vault:** A vault filled with sentient objects, each waiting for its moment to influence the narrative. **Smell:** Cold metal, and the faint scent of forgotten lives. **Sound:** An eerie silence.
+### The Shoals Motel (The Hideout)
+A deliberately ordinary, anonymous space where Amy hides.
+*   **Room 4:** A desaturated, characterless room with a single TV. **Visual:** TV static reflecting in Amy's cold eyes. **Smell:** Cheap soap and stale air.
 
 ## [TAG: QUEST_MAIN]
-1.  **The Missing Precedent:** The players are hired to find a missing Court agent, who has mysteriously disappeared from the Law's narrative.
-2.  **The First Forgetting:** The players discover that the missing Court agent was not kidnapped, but was "un-real" by the Dream-Weavers.
-3.  **The Empathy-Hunters:** The players encounter Elder John, who warns them about the Law's narrative control.
-4.  **The Law's Embrace:** The Law, seeing the players' potential, attempts to "write" them into its narrative, offering them power and influence.
-5.  **The Archivist of Empathy's Offer:** The Red Pen contacts the players, offering to help them "re-write" the Law's narrative into something benevolent.
-6.  **The Protagonist's Dilemma:** The players are "written" into the Law's narrative as protagonists, forcing them to confront the Antagonist.
-7.  **The Antagonist's Plot:** The Antagonist, following their narrative role, attempts to destroy the Protagonists.
-8.  **The Audience's Influence:** The players realize that the Audience's belief in the Law's narrative gives it power.
-9.  **The Narrator's Intervention:** The Master Scribe, seeing the narrative fraying, intervenes, subtly guiding the players towards a specific plot point.
-10. **The Plot Device's Purpose:** The players discover a sentient plot device, which reveals its purpose in the Law's narrative.
-11. **The Deus Ex Machina's Role:** The Deus Ex Machina appears, resolving an impossible situation, but at a cost.
-12. **The Chief Justice's Lie:** The players discover the Chief Justice's true identity: the original, foundational precedent that gave birth to the Law.
-13. **The Glitch-Zone's Plan:** The Somnambulist reveals their plan to "re-write" the Law itself.
-14. **The Red Pen's Final Edit:** The Red Pen attempts to "re-write" the Chief Justice's narrative, turning him into a benevolent figure.
-15. **The Master Scribe's Choice:** The Master Scribe, seeing the narrative collapsing, offers the players a choice: allow the Law's narrative to collapse (destroying reality), or take control of the narrative and re-write it themselves.
-16. **The Final Verdict:** The players make their choice, and the Law's narrative is either destroyed, re-written, or they escape its control and write their own story.
-
-## [TAG: QUEST_SIDE]
-| Quest Name | Giver | Objective | Reward |
-|---|---|---|---|
-| The Clerk's Memoir | Barnaby, the clerk | Retrieve his tell-all memoir from a hidden safe in the Grand Courtroom. | A copy of the memoir, filled with juicy legal secrets. |
-| The Erased Precedent | Cinder, the informant | Find a way to restore a precedent that was "un-written" by the Dream-Weavers. | A single, restored precedent. |
-| The Interpretive Dance | Drogan, the informant | Perform an interpretive dance that communicates a secret message to the Law. | A secret message. |
-| The Red Pen's Shopping List | Elara, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Finn, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Gilda, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Horace, the informant | Communicate a message to the Law by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Inker, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Jori, the guardian | Capture a specific nightmare from the Law's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Kael, the member | Communicate a message to the Law by arranging pebbles into meaningful patterns. | A secret message. |
-| The Geometric Dream | Loric, the member | Enter the Law's dream-state and retrieve a specific dream-fragment. | A dream-fragment that can be used to manipulate reality. |
-| The Chorus of Voices | Mort, the informant | Find a way to silence the chorus of voices in his head. | A temporary immunity to narrative manipulation. |
-| The Interpretive Dance | Nyla, the informant | Perform an interpretive dance that communicates a secret message to the Law. | A secret message. |
-| The Red Pen's Shopping List | Orin, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Pip, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Quelenna, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Roric, the informant | Communicate a message to the Law by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Silas, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Tork, the guardian | Capture a specific nightmare from the Law's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Ula, the member | Communicate a message to the Law by arranging pebbles into meaningful patterns. | A secret message. |
-| The Geometric Dream | Val, the member | Enter the Law's dream-state and retrieve a specific dream-fragment. | A dream-fragment that can be used to manipulate reality. |
-| The Chorus of Voices | Wex, the informant | Find a way to silence the chorus of voices in his head. | A temporary immunity to narrative manipulation. |
-| The Interpretive Dance | Xylo, the informant | Perform an interpretive dance that communicates a secret message to the Law. | A secret message. |
-| The Red Pen's Shopping List | Yara, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Zane, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Astrid, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Boris, the informant | Communicate a message to the Law by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Celia, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Dmitri, the guardian | Capture a specific nightmare from the Law's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Eva, the member | Communicate a message to the Law by arranging pebbles into meaningful patterns. | A secret message. |
+1.  **The Anniversary Disappearance:** Amy has vanished. You must secure the crime scene at the Dunne residence while dealing with Nick's defensive behavior and the first 'Flash' of the media.
+2.  **The Treasure Hunt:** Follow the clues from Amy's fifth anniversary 'Treasure Hunt.' Each clue reveals a new layer of the couple's moral decay.
+3.  **The Media Gauntlet:** Nick must give his first televised interview. You must help him navigate the ' wolves' of the press without confirming his guilt.
+4.  **The Motel Revelation:** Someone has spotted a woman matching Amy's description at a remote motel. You must find her before the Media Wolves do.
+5.  **Desi's Gilded Cage:** Infiltrate Desi's lake house to find evidence of Amy's presence. You must bypass high-tech surveillance and Desi's obsessive guards.
+6.  **The Fake Diary Heist:** Retrieve the original 'Fake Diary' from the police archives. The diary is being used as the primary weapon in the 'Court of Public Opinion.'
+7.  **The Final Reunion:** A face-to-face standoff between Nick and Amy at their home. The media is watching, and the truth is about to be buried forever under a new, perfect lie.
 
 ## [TAG: ITEM_LEGENDARY]
-### 1. The Chief Justice's Gavel
-**Type:** Artifact
-**Description:** A polished, black gavel that hums with a faint, psychic energy. It is the symbol of the Chief Justice's authority.
-**Mechanics:** The gavel cannot be moved by any physical means. A courtroom within a 1-mile radius of it is considered "in session." All legal arguments made within this radius are magically enforced, and all legal proceedings are immune to natural decay. Once per year, the courtroom's leader can perform the "Rite of Verdict," allowing them to ask the Gavel a single question about legal strategy, precedents, or jurisprudence, which it will answer by implanting a "blueprint" directly into their mind.
+### 1. Amy's Master Script
+**Type:** Artifact (Tome)
+**Description:** A thick, clinical notebook containing Amy's plan for the disappearance.
+**Mechanics:** Grants the user +5 to all Intelligence (Investigation) and Charisma (Deception) checks. Once per day, the user can 'Rewrite' an NPC's immediate motivation.
 
-### 2. The Code-Breaker's Eraser
+### 2. The Gilded Cage Key
+**Type:** Wondrous Item (Gatestone)
+**Description:** A heavy, silver key that opens any door in Desi's estate.
+**Mechanics:** Allows the user to bypass any electronic surveillance or lock and grants advantage on Stealth checks inside high-society locations.
+
+### 3. The Media Spotlight
 **Type:** Wondrous Item
-**Description:** A small, white eraser that seems to absorb all light and sound around it.
-**Mechanics:** The wielder can use this eraser to "un-write" a single, non-magical word from existence. If used on a creature, the creature must make a CHA save or have a single, minor memory erased. **Curse:** The eraser slowly consumes the wielder's own memories. Each day the eraser is used, the wielder must make a WIS save. On a failure, they lose a piece of their own memory. At 5 failures, the wielder's memory is completely erased, and they become a new Blank Page.
-
-### 3. The Red Pen of Narrative Control
-**Type:** Legendary Pen
-**Description:** A simple, red pen that seems to hum with a faint, psychic energy.
-**Mechanics:** The wielder can use this pen to subtly "edit" the Law's narrative. They can change minor details of the past or present, alter a character's personality, or introduce a new plot point. **Curse:** The pen slowly consumes the wielder's own identity. Each day the pen is used, the wielder must make a WIS save. On a failure, they lose a piece of their own identity (e.g., a memory, a personality trait, a skill proficiency). At 5 failures, the wielder's identity is completely consumed, and they become a new Red Pen.
-
-### 4. The MacGuffin of Ultimate Power
-**Type:** Artifact
-**Description:** A strange, glowing, and intricately-carved object. It hums with a faint, alluring energy.
-**Mechanics:** The MacGuffin is a pure plot device. It does nothing. Absolutely nothing. But everyone *thinks* it's incredibly important, and will try to steal it from you. Its presence subtly manipulates the Law's narrative, creating new plot points and driving the story forward.
-
-### 5. The Deus Ex Machina's Watch
-**Type:** Wondrous Item
-**Description:** A pocket watch that seems to run backwards. It hums with a faint, psychic energy.
-**Mechanics:** The wielder can use this watch to subtly manipulate time. They can rewind time by a few seconds, or fast-forward it by a few seconds. Once per day, the watch can be used to perform a "Deus Ex Machina" intervention, resolving an impossible situation, but at a cost. **Curse:** The watch slowly consumes the wielder's own sense of time. Each day the watch is used, the wielder must make a WIS save. On a failure, they lose their sense of time for 1 hour.
-
-## [TAG: ITEM_LOOT]
-1.  **A Bottle of "Truth Serum" that only works on yourself:** A serum that, when injected, compels you to confess your deepest, darkest secret to yourself.
-2.  **A Mirror That Shows Your True Self:** A small hand mirror that, instead of your reflection, shows a brief, vivid image of your true, unvarnished self.
-3.  **A Journal with Blank Pages:** A journal that, when you try to write in it, the words disappear as soon as you look away.
-4.  **A "Reality-Glitch" Detector:** A small, scientific device that beeps erratically when near a reality-glitch.
-5.  **A Painting That Changes to Reflect Your True Identity:** A painting that, when you look at it, changes its colors and imagery to reflect your true, unvarnished self.
-6.  **A Bottle of "Liquid Identity":** A clear liquid. Drinking it causes you to feel a profound sense of self for a short period.
-7.  **A "Skinwalker" Disguise Kit:** A kit containing various theatrical makeup and prosthetics. It is surprisingly effective at fooling mortals.
-8.  **A "Truth-Seeker" Badge:** A badge that identifies you as a member of the Truth-Seekers. It grants advantage on Charisma checks when dealing with paranoid individuals.
-9.  **A "Face-Changer" Mask:** A mask made of a strange, pliable material. Wearing it allows you to subtly alter your facial features.
-10. **A "Secret-Hoarder" Locket:** A locket that, when opened, reveals a single, hidden secret.
-11. **A "Empty Shell" Doll:** A doll that is a perfect replica of an Empty Shell. It is hollow and makes a faint, echoing sound when shaken.
-12. **A "Mirror-Maker" Mirror:** A small hand mirror that, when you look into it, shows you your deepest fear.
-13. **A "Shifting Sands" Map:** A map that constantly changes its layout, reflecting the shifting landscape of the Shifting Fields.
-14. **A "Whispering Woods" Leaf:** A leaf from the Whispering Woods. If held to your ear, it whispers a random, forgotten secret.
-15. **A "Uncanny Valley" Android Head:** A perfectly human-like android head, but subtly "wrong" in its features.
-16. **A "Green Man" Charm:** A charm made from a piece of wood from the Green Man's Grove. It grants advantage on saves against plant-based attacks.
-17. **A "Lost Soul" Locket:** A locket that, when opened, reveals a single, fragmented memory.
-18. **A "Narrative Parasite" Specimen:** A small, invisible creature preserved in a jar of formaldehyde. It hums with a faint, buzzing sound.
-19. **A "Truth-Teller" Amulet:** An amulet that, when worn, compels you to always tell the truth.
-20. **A "Skinwalker" Tracking Device:** A small, scientific device that beeps erratically when near a Skinwalker.
+**Description:** A small, intense lamp that mimics the glare of a television studio.
+**Mechanics:** The lamp can be used to 'Convict' a target. The target has disadvantage on all Charisma checks for 24 hours as the city turns against them.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Court Agent
-(CR 3). Humanoid. HP 60, AC 15.
+### 1. Media Wolf (Paparazzi)
+(CR 1). Humanoid. HP 15, AC 12.
 **Abilities:**
-*   **Passive: Narrative Advantage:** The agent has advantage on attack rolls against creatures who are not part of the Law's narrative.
-*   **Action: Plot Twist:** The agent makes a melee attack. On a hit, the target takes 2d8 piercing damage and must make a WIS save or be compelled to perform a minor, inconvenient plot twist (e.g., drop their weapon, trip over their own feet).
+*   **The Glare:** The paparazzi can use an action to blind a target for 1 round (DC 13 DEX save).
+*   **Sensationalism:** Any attack made against the paparazzi is captured on film, granting the attacker disadvantage on their next Charisma check.
 
-### 2. Glitch-Weaver's Eraser
-(CR 4). Aberration. HP 70, AC 16.
+### 2. Desi's Obsessive Guard
+(CR 3). Humanoid. HP 50, AC 15.
 **Abilities:**
-*   **Passive: Blank Mind:** The Eraser is immune to psychic damage and being charmed or frightened.
-*   **Action: Erase Memory:** The Eraser touches a creature. The target must make an INT save or forget a single, important memory.
+*   **Gilded Loyalty:** The guard is immune to being bribed or persuaded as long as they are within Desi's estate.
+*   **Silenced Takedown:** Melee attack. 1d10+4 damage + Target is grappled.
 
-### 3. Anomaly-Hunter (Paranoid)
-(CR 2). Humanoid. HP 40, AC 13.
+### 3. 'The Amazing Amy' (Proxy)
+(CR 12). Humanoid (Mastermind). HP 180, AC 18.
 **Abilities:**
-*   **Passive: Constant Vigilance:** The Anomaly-Hunter cannot be surprised.
-*   **Action: Expose Anomaly:** The Anomaly-Hunter targets a creature. The target must make a CHA save or be compelled to reveal a minor anomaly.
-
-### 4. Archivist of Chaos's Red Pen
-(CR 5). Aberration. HP 80, AC 15.
-**Abilities:**
-*   **Passive: Narrative Control:** The Red Pen can subtly alter the Law's narrative, changing minor details of the past or present.
-*   **Action: Re-Write:** The Red Pen touches a creature. The target must make a CHA save or have a minor personality trait subtly altered.
-
-### 5. Protagonist (Unwilling)
-(CR 6). Humanoid. HP 90, AC 16.
-**Abilities:**
-*   **Passive: Plot Armor:** The Protagonist has 3 "plot armor" points. When they would be hit by an attack, they can expend a point to cause the attack to miss dramatically.
-*   **Action: Heroic Feat:** The Protagonist performs a heroic feat (e.g., a daring escape, a powerful attack) that is always successful, but often at a cost.
-
-### 6. Antagonist (Narrative Villain)
-(CR 7). Humanoid. HP 110, AC 17.
-**Abilities:**
-*   **Passive: Narrative Causality:** The Antagonist has advantage on attack rolls against the Protagonist.
-*   **Action: Villainous Monologue:** The Antagonist delivers a long, theatrical monologue. All creatures within 30 feet must make a WIS save or be compelled to listen intently.
-
-### 7. Audience Member (Confused)
-(CR 1/2). Humanoid. HP 15, AC 10.
-**Abilities:**
-*   **Passive: Unwitting Participant:** The Audience Member is immune to psychic damage and being charmed or frightened.
-*   **Action: Confused Question:** The Audience Member asks a confused question. The target must make a WIS save or be compelled to answer truthfully.
-
-### 8. Narrator's Quill
-(CR 8). Construct. HP 120, AC 18.
-**Abilities:**
-*   **Passive: Storyteller's Authority:** The Quill can subtly influence the Law's narrative, creating new plot points and driving the story forward.
-*   **Action: Write Reality:** The Quill writes a single sentence. The sentence becomes reality.
-
-### 9. Plot Device (Sentient)
-(CR 9). Construct. HP 130, AC 19.
-**Abilities:**
-*   **Passive: Narrative Significance:** The Plot Device is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
-*   **Action: Deus Ex Machina:** The Plot Device appears at a critical moment to resolve an impossible situation, but at a cost.
-
-### 10. The Chief Justice
-(CR 15). Aberration. HP 200, AC 20.
-**Abilities:**
-*   **Passive: Foundational Precedent:** The Chief Justice is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
-*   **Action: Re-Write Reality:** The Chief Justice targets a creature. The target must make a high DC WIS save or take 10d10 psychic damage and gain 1 level of "Narrative-Corruption."
-
-## [TAG: ENCOUNTER_TABLE]
-### The Grand Courtroom Encounters (d20)
-1-5: A Court Agent, trying to subtly manipulate a situation.
-6-8: A Glitch-Weaver's Eraser, trying to erase a Court secret.
-9-10: An Anomaly-Hunter, trying to expose a Court lie.
-11-12: An Archivist of Chaos's Red Pen, trying to re-write a Court member's past.
-13-14: A Protagonist, trying to escape a Court plot.
-15-16: An Antagonist, trying to fulfill their role in the Court's narrative.
-17: An Audience Member, confused by the shifting narrative.
-18: A Narrator's Quill, subtly influencing the Court's narrative.
-19: A Plot Device, waiting for its moment to influence the narrative.
-20: The Chief Justice himself, observing the chaos with a serene smile.
-
-### The Glitch-Zone Encounters (d20)
-1-4: A Glitch-Weaver's Eraser, trying to erase a memory.
-5-7: An Anomaly-Hunter, trying to find a hidden truth.
-8-9: An Archivist of Chaos's Red Pen, trying to re-write a blank page.
-10-11: A Protagonist, trying to escape a narrative vacuum.
-12-13: An Antagonist, trying to destroy a blank page.
-14-15: An Audience Member, confused by the absence of narrative.
-16: A Narrator's Quill, trying to write a new story.
-17: A Plot Device, waiting for its moment to influence the narrative.
-18: The Deus Ex Machina, trying to resolve an impossible situation.
-19: The Blank Page itself, a massive, white void.
-20: The Chief Justice, trying to re-write the Glitch-Zone into his own narrative.
-
-### The Anomaly-Hunters' Bunker Encounters (d20)
-1-3: An Anomaly-Hunter, trying to expose a Court lie.
-4-6: A Court Agent, trying to suppress a truth.
-7-8: A Glitch-Weaver's Eraser, trying to erase a truth.
-9-10: An Archivist of Chaos's Red Pen, trying to re-write a truth.
-11-12: A Protagonist, trying to find a hidden truth.
-13-14: An Antagonist, trying to hide a truth.
-15-16: An Audience Member, confused by the conflicting narratives.
-17: A Narrator's Quill, trying to record a truth.
-18: A Plot Device, waiting for its moment to influence the narrative.
-19: The Deus Ex Machina, trying to resolve an impossible situation.
-20: The Chief Justice, trying to re-write the truth into his own narrative.
-
-## [TAG: RULES_CUSTOM]
-### Physics/Magic: The Law of Narrative Code
-In this world, the story dictates reality. Plot points are physical forces.
-*   **Narrative Control:** Powerful Court agents can subtly manipulate reality by "re-writing" the narrative. A minor edit to a document might change a historical event. A well-placed rumor might become a self-fulfilling prophecy.
-*   **Plot Armor:** Protagonists have "plot armor." They are impossibly lucky, surviving certain death because the story demands it. This manifests as a pool of "Story Points" that can be spent to avoid damage, succeed on impossible checks, or introduce a convenient plot twist.
-*   **Deus Ex Machina:** When the narrative reaches an impossible impasse, a "Deus Ex Machina" will appear, resolving the situation in a sudden, unexpected, and often absurd way. This is not always benevolent.
-
-### Subsystems: Narrative Score and Identity Score
-*   **Narrative Score:** Each player has a "Narrative Score" (from 0 to 10). This score increases when they perform actions that are "story-worthy" (heroic deeds, dramatic betrayals, witty banter). High Narrative makes them more susceptible to the Law's narrative control, but also grants them more "plot armor."
-*   **Identity Score:** Each player has an "Identity Score" (from 0 to 10). This score decreases when they lie, pretend to be someone they're not, or keep secrets. Low Identity makes them more susceptible to the Law's narrative manipulation, as they lose their sense of self. Restoring trust and being honest can increase their Identity Score.
-
-## [TAG: DM_GUIDE]
-### Session-by-Session Breakdown (1-12)
-*   **Session 1:** **Primary Beat:** The Missing Precedent. The players are hired to find a missing Court agent, who has mysteriously disappeared from the Law's narrative. **Combat:** A minor monster (a Narrative Parasite) attacks, born from the community's fractured reality. **Social:** The players investigate the missing person, uncovering minor reality-warps. **Loot:** A lost locket.
-*   **Session 2:** **Primary Beat:** The First Dispute. The players discover that the missing Court agent was not kidnapped, but was "un-real" by the Dream-Weavers. **Combat:** A terrifying, psychological battle against a creature that is a reflection of themselves. **Social:** The players meet Elder John, who warns them about the Law's narrative control. **Loot:** A broken mirror.
-*   **Session 3:** **Primary Beat:** The Empathy-Hunters. The players meet Elder John, who warns them about the Law's narrative control. **Combat:** A battle against an Identity Thief from the Face-Changers Guild. **Social:** A tense confrontation with the Chameleon. **Loot:** A Face-Changer's Mask.
-*   **Session 4:** **Primary Beat:** The Law's Embrace. The Law, seeing the players' potential, attempts to "write" them into its narrative, offering them power and influence. **Combat:** A battle against a Secret-Hoarder. **Social:** A chilling conversation with The Archivist of Whispers. **Loot:** A Secret-Hoarder's Locket.
-*   **Session 5:** **Primary Beat:** The Archivist of Empathy's Offer. The Red Pen contacts the players, offering to help them "re-write" the Law's narrative into something benevolent. **Combat:** A battle against an Empty Shell. **Social:** A heartbreaking conversation with an Empty Shell. **Loot:** An Empty Shell's Locket.
-*   **Session 6:** **Primary Beat:** The Protagonist's Dilemma. The players are "written" into the Law's narrative as protagonists, forcing them to confront the Antagonist. **Combat:** A battle against a Mirror-Maker. **Social:** A horrifying conversation with The Reflector. **Loot:** A Mirror of True Self.
-*   **Session 7:** **Primary Beat:** The Antagonist's Plot. The Antagonist, following their narrative role, attempts to destroy the Protagonists. **Combat:** A battle against a Skinwalker (Lesser Manifestation). **Social:** A conversation with Elder Wind-Talker. **Loot:** A Shifting Sands Compass.
-*   **Session 8:** **Primary Beat:** The Audience's Influence. The players realize that the Audience's belief in the Law's narrative gives it power. **Combat:** A battle against a Lost Soul. **Social:** A conversation with the Green Man. **Loot:** A Green Man's Charm.
-*   **Session 9:** **Primary Beat:** The Narrator's Intervention. The Master Scribe, seeing the narrative fraying, intervenes, subtly guiding the players towards a specific plot point. **Combat:** A battle against Uncanny Androids. **Social:** A cold, precise conversation with Dr. Elias Vance. **Loot:** An Uncanny Android Head.
-*   **Session 10:** **Primary Beat:** The Plot Device's Purpose. The players discover a sentient plot device, which reveals its purpose in the Law's narrative. **Combat:** A battle against a Narrative Parasite. **Social:** A tense confrontation with the Archivist. **Loot:** The Archivist's Quill.
-*   **Session 11:** **Primary Beat:** The Deus Ex Machina's Role. The Deus Ex Machina appears, resolving an impossible situation, but at a cost. **Combat:** A battle against a Skinwalker (Full Manifestation). **Social:** The players realize the Skinwalker is a manifestation of their own fractured community. **Loot:** The Skinwalker's Mask.
-*   **Session 12:** **Primary Beat:** The Chief Justice's Lie. The players discover the Chief Justice's true identity: the original, foundational precedent that gave birth to the Law. **Combat:** A final, desperate battle against the Chief Justice. **Social:** The players must make a choice: destroy the Law's narrative, re-write it, or escape its control and write their own story. **Loot:** The fate of the Law's narrative.
+*   **Controlled Reality Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or believe a lie told by Amy as if it were the truth.
+*   **Calculated Fury:** Once per combat, Amy can force an enemy to take a reaction that reveals their own darkest secret.
 
 ## [TAG: INDEX_KEYWORDS]
-Tales of Deception, Urban God, Dream-Logic, Deceptions, Crime, Detective, The First Dream, The First Flicker, The Age of Whispers, The First Divergence, The Day the Sky Rained Lies, The Deceptions Emergence, The Infection Spreads, The Echo of a Thought, The Divergence Accelerates, The Day the World Became a Skyscraper, The Dream-Walkers, The Somnambulist, The Assimilated, The City's Voice, The Reality-Engineers, Professor Anya Sharma, The City Guard, General Marcus Brody, The Whispering Streets, The Memory-Moths, The Moth-Priestess, The Glitch-Hunters, The Debug-Master, The Un-Dreamed, The Blank Child, The Architects of the Dream, The City-Planner, The Silent Choir, The Urban God, The Silent Child, The Somnambulist's Staff, The City's Voice's Crown, The Reality-Engineer's Goggles, The City Guard's Rifle, The Blank Child's Toy, Law of Dream-Logic, Reality-Warps, Dream-Manifestation, Assimilation, Divergence Score, Individuality, Whispering Streets Drone, Assimilated Human, Reality-Glitcher (Corrupted), City Guard Soldier, Memory-Moth, Glitch-Hunter (Rogue), Architect of the Dream (Corrupted), Urban God (Dream-Avatar), The Somnambulist (Corrupted), The City's Voice (Corrupted).
+Tales of Deception, Gone Girl, Nick Dunne, Amy Dunne, Carthage, Media Wolves, Gilded Cage, Dishonest Memory, Suburban Uncanniness, Amazing Amy, The Treasure Hunt, Calculated Fury, Controlled Reality. 

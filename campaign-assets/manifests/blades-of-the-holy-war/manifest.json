@@ -1,0 +1,279 @@
+{
+  "campaign_slug": "blades-of-the-holy-war",
+  "campaign_name": "Blades of the Holy War",
+  "genre": "Holy War / Historical Fantasy / Cultural Clash",
+  "style_anchor": {
+    "genre": "Epic Holy War / Historical Cinema",
+    "era": "Medieval Crusades / High Middle Ages",
+    "palette": [
+      "Crusader white and red",
+      "Islamic green and gold",
+      "Desert earth tones",
+      "Jerusalem stone grey",
+      "Deep blood red"
+    ],
+    "art_style": "Epic historical cinema with gritty realism and religious iconography; high-contrast cinematic lighting.",
+    "mood_keywords": [
+      "zealous",
+      "complex",
+      "brutal",
+      "honorable",
+      "tragic",
+      "faith-driven"
+    ],
+    "recurring_motifs": [
+      "Red Crosses",
+      "Golden Crescents",
+      "Chainmail",
+      "Flowing Silk",
+      "Desert Ash",
+      "Divine Dust"
+    ]
+  },
+  "assets": {
+    "hero": [
+      {
+        "id": "hero-001",
+        "filename": "godfrey_of_bouillon_weary.png",
+        "title": "Godfrey of Bouillon",
+        "route": "GROK",
+        "prompt": "Godfrey of Bouillon in blood-stained chainmail with a faded red cross, kneeling in prayer on a stone battlefield, holding a heavy notched broadsword. Epic historical cinema style, cinematic lighting, gritty textures, tragic mood, 8k resolution.",
+        "purpose": "Primary Crusader protagonist portrait"
+      },
+      {
+        "id": "hero-002",
+        "filename": "saladin_noble_desert.png",
+        "title": "Saladin",
+        "route": "IMAGEFX",
+        "prompt": "Saladin in ornate emerald green and gold silk robes over intricate silver plate armor, standing in a sun-drenched desert court, dignified pose, holding a jeweled scimitar. Epic historical cinema style, warm sunlight, sandy earth tones, noble atmosphere, 8k resolution.",
+        "purpose": "Primary Saracen protagonist portrait"
+      },
+      {
+        "id": "hero-003",
+        "filename": "lady_eleanor_pilgrim.png",
+        "title": "Lady Eleanor",
+        "route": "IMAGEFX",
+        "prompt": "Lady Eleanor in simple travel-worn linen robes and a crucifix pendant, standing before the stone walls of Jerusalem, expression of profound sorrow and faith. Epic historical cinema style, soft natural lighting, high texture detail, tragic mood, cinematic composition.",
+        "purpose": "The Pilgrim Witness portrait"
+      },
+      {
+        "id": "hero-004",
+        "filename": "bishop_adhemar_pious.png",
+        "title": "Bishop Adhemar",
+        "route": "IMAGEFX",
+        "prompt": "Bishop Adhemar in heavy liturgical vestments and golden chainmail, holding a weathered holy book and a heavy silver cross, standing in a candlelit tent. Epic historical cinema style, dramatic shadows, religious fervor, cinematic lighting.",
+        "purpose": "Spiritual Guide portrait"
+      },
+      {
+        "id": "hero-005",
+        "filename": "the_grand_divine_mage.png",
+        "title": "The Grand Divine",
+        "route": "IMAGEFX",
+        "prompt": "The Grand Divine in flowing white silk robes embroidered with golden threads, standing in a library filled with glowing divine dust, hand outstretched holding a fragment of light. Cinematic fantasy style, ethereal lighting, ancient wisdom, high detail textures.",
+        "purpose": "Holy Cult Leader portrait"
+      }
+    ],
+    "npc": [
+      {
+        "id": "npc-001",
+        "filename": "the_blank_slate_nihilist.png",
+        "title": "The Blank Slate",
+        "route": "IMAGEFX",
+        "prompt": "The Blank Slate, a tall figure with a featureless porcelain white mask, wearing tattered charcoal grey robes, standing in a field of grey ash under a dark sky. Dark fantasy cinema style, eerie and disturbing, muted colors, cinematic lighting.",
+        "purpose": "Nihilist leader"
+      },
+      {
+        "id": "npc-002",
+        "filename": "master_thief_changeling.png",
+        "title": "The Master Thief",
+        "route": "IMAGEFX",
+        "prompt": "A master of disguise in hooded leather armor that shifts in color, holding a glowing Dogma-Jar, lurking in the shadows of a crowded bazaar. Gritty cinematic style, high contrast, mysterious mood, 8k resolution.",
+        "purpose": "Criminal syndicate leader"
+      },
+      {
+        "id": "npc-003",
+        "filename": "lord_of_echoes_elemental.png",
+        "title": "The Lord of Echoes",
+        "route": "IMAGEFX",
+        "prompt": "The Lord of Echoes, a colossal being made of vibrating sound waves and golden light, standing in a crystalline cavern. Ethereal cinematic style, dynamic energy, glowing particles, wide angle shot, high detail.",
+        "purpose": "Echo-Weaver leader"
+      },
+      {
+        "id": "npc-004",
+        "filename": "master_ash_weaver_borin.png",
+        "title": "Master Ash-Weaver Borin",
+        "route": "IMAGEFX",
+        "prompt": "A gruff dwarf with a soot-stained beard, wearing heavy leather smithing aprons, hands covered in grey ash, standing before a stone forge. Gritty historical fantasy style, warm firelight, high texture detail, 8k resolution.",
+        "purpose": "Dwarven artisan"
+      },
+      {
+        "id": "npc-005",
+        "filename": "the_harmonious_divine.png",
+        "title": "The Harmonious Divine",
+        "route": "IMAGEFX",
+        "prompt": "A serene human figure in sky-blue robes, standing in a garden of glowing bioluminescent plants, hands glowing with soft pink light. Ethereal cinematic style, peaceful mood, pastel colors, high resolution.",
+        "purpose": "Unity Keeper leader"
+      }
+    ],
+    "location": [
+      {
+        "id": "loc-001",
+        "filename": "jerusalem_siege_gates.png",
+        "title": "Jerusalem: The Siege Gates",
+        "route": "GROK",
+        "prompt": "The massive stone gates of Jerusalem under siege, catapults firing fireballs, crusader ladders leaning against the walls, smoke and battle-scars on the masonry. Epic historical cinema, dramatic lighting, wide angle, gritty textures.",
+        "purpose": "Major location"
+      },
+      {
+        "id": "loc-002",
+        "filename": "the_dogma_archive.png",
+        "title": "The Dogma Archive",
+        "route": "IMAGEFX",
+        "prompt": "A vast underground library with endless shelves of glowing jars filled with golden divine dust, light filtering down from high vaulted ceilings. Cinematic fantasy style, magical atmosphere, high detail, 8k resolution.",
+        "purpose": "Holy Cult location"
+      },
+      {
+        "id": "loc-003",
+        "filename": "the_ash_wastes.png",
+        "title": "The Ash Wastes",
+        "route": "IMAGEFX",
+        "prompt": "A desolate, colorless desert of grey ash dunes under a leaden grey sky, a single tattered flag flapping in the wind. Muted palette, tragic atmosphere, cinematic wide shot, gritty texture.",
+        "purpose": "Nihilist territory"
+      },
+      {
+        "id": "loc-004",
+        "filename": "saladin_court_oasis.png",
+        "title": "Saladin's Court",
+        "route": "IMAGEFX",
+        "prompt": "A luxurious silk tent in a desert oasis, floor covered in Persian rugs, ornate brass lanterns, view of palm trees and sand dunes outside. Epic historical cinema style, warm lighting, rich green and gold palette.",
+        "purpose": "Saracen location"
+      },
+      {
+        "id": "loc-005",
+        "filename": "clermont_cathedral_square.png",
+        "title": "The Square of Clermont",
+        "route": "IMAGEFX",
+        "prompt": "A medieval European town square filled with thousands of knights and peasants, Pope Urban II standing on a high wooden platform, sunlight breaking through clouds. Epic historical cinema, wide shot, cinematic lighting.",
+        "purpose": "Opening location"
+      }
+    ],
+    "monster": [
+      {
+        "id": "mon-001",
+        "filename": "ash_golem_guardian.png",
+        "title": "Ash Golem",
+        "route": "IMAGEFX",
+        "prompt": "A massive, shambling golem constructed from compressed grey ash and charcoal, glowing embers in its chest, standing in a ruin. Dark fantasy style, gritty texture, embers and smoke, cinematic lighting.",
+        "purpose": "Common enemy"
+      },
+      {
+        "id": "mon-002",
+        "filename": "corrupted_forgetting_construct.png",
+        "title": "Corrupted Forgetting",
+        "route": "GROK",
+        "prompt": "A terrifying construct of jagged metal gears and twisted organic matter, oozing black ichor, with multiple lidless eyes. Dark fantasy style, disturbing creature, high detail, cinematic lighting, 8k resolution.",
+        "purpose": "Elite enemy"
+      },
+      {
+        "id": "mon-003",
+        "filename": "divine_spark_fury_avatar.png",
+        "title": "Avatar of the Divine Spark's Fury",
+        "route": "GROK",
+        "prompt": "A cosmic being with a body made of shifting golden flames and swirling grey ash, multiple glowing arms holding ethereal weapons. Epic cinematic fantasy, chaotic energy, high contrast, dramatic lighting.",
+        "purpose": "Final Boss"
+      }
+    ],
+    "item": [
+      {
+        "id": "item-001",
+        "filename": "divine_spark_fragment.png",
+        "title": "The Divine Spark (Fragment)",
+        "route": "IMAGEFX",
+        "prompt": "A pulsating, organic crystal fragment glowing with intense golden celestial light, resting on a velvet cushion. Cinematic close-up, glowing particles, ethereal lighting, high detail.",
+        "purpose": "Legendary artifact"
+      },
+      {
+        "id": "item-002",
+        "filename": "dogma_jar_glowing.png",
+        "title": "Dogma-Jar",
+        "route": "IMAGEFX",
+        "prompt": "A sealed glass jar containing swirling silver mist and golden dust, ornate brass carvings on the lid. Cinematic lighting, magical artifact, macro photography style, high detail.",
+        "purpose": "Quest item"
+      },
+      {
+        "id": "item-003",
+        "filename": "chivalric_crusader_sword.png",
+        "title": "Sword of Godfrey",
+        "route": "IMAGEFX",
+        "prompt": "A heavy medieval broadsword with a cross-shaped hilt, a red gem set in the pommel, resting against a stone wall. Gritty historical style, worn steel texture, cinematic lighting.",
+        "purpose": "Hero weapon"
+      }
+    ],
+    "npc-minor": [
+      {
+        "id": "min-001",
+        "filename": "sparky_apprentice.png",
+        "title": "Sparky",
+        "route": "IMAGEFX",
+        "prompt": "A young, wide-eyed apprentice in oversized monk robes, his hair standing on end as if charged with static electricity. Cinematic fantasy style, youthful expression, library background.",
+        "purpose": "Minor NPC"
+      },
+      {
+        "id": "min-002",
+        "filename": "whisper_nihilist_cultist.png",
+        "title": "Whisper",
+        "route": "IMAGEFX",
+        "prompt": "A hooded cultist with a mouth sewn shut, wearing tattered grey bandages, eyes filled with emptiness. Dark fantasy style, eerie, cinematic lighting, close-up.",
+        "purpose": "Minor NPC"
+      }
+    ],
+    "scene": [
+      {
+        "id": "scene-001",
+        "filename": "deus_vult_call.png",
+        "title": "The Call at Clermont",
+        "route": "IMAGEFX",
+        "prompt": "Pope Urban II preaching to a massive crowd in a snowy field, knights raising swords in unison, religious fervor and excitement. Epic historical cinema, wide shot, dramatic sky, cinematic lighting.",
+        "purpose": "Key story moment"
+      },
+      {
+        "id": "scene-002",
+        "filename": "fall_of_jerusalem_blood.png",
+        "title": "The Fall of Jerusalem",
+        "route": "GROK",
+        "prompt": "Crusader knights wading through ankle-deep blood in the stone streets of Jerusalem, smoke-filled air, tattered banners, brutal carnage and moral horror. Epic historical cinema, gritty realism, tragic atmosphere, 8k resolution.",
+        "purpose": "Key story moment"
+      },
+      {
+        "id": "scene-003",
+        "filename": "horns_of_hattin_battle.png",
+        "title": "The Horns of Hattin",
+        "route": "GROK",
+        "prompt": "A massive battle between crusader and Saracen armies in the heat of the desert, clouds of dust, flashing steel, dying horses, and blood-soaked sand. Epic historical cinema, wide angle, chaotic battle, cinematic lighting.",
+        "purpose": "Key story moment"
+      }
+    ]
+  },
+  "grok_queue": [
+    "godfrey_of_bouillon_weary.png",
+    "jerusalem_siege_gates.png",
+    "corrupted_forgetting_construct.png",
+    "divine_spark_fury_avatar.png",
+    "fall_of_jerusalem_blood.png",
+    "horns_of_hattin_battle.png"
+  ],
+  "statistics": {
+    "total_assets": 26,
+    "by_category": {
+      "hero": 5,
+      "npc": 5,
+      "location": 5,
+      "monster": 3,
+      "item": 3,
+      "npc-minor": 2,
+      "scene": 3
+    },
+    "grok_count": 6,
+    "imagefx_count": 20
+  }
+}

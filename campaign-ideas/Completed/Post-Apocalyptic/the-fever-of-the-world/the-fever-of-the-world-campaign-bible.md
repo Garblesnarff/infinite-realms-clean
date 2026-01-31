@@ -1,61 +1,137 @@
-# The Fever of the World [CAMPAIGN: Post-Apocalyptic]
+# The Fever of the World: Campaign Bible
 
-## Core Concept [CONCEPT: High]
-Decades ago, a sentient, rapidly evolving fungal organism, dubbed "The Fever," swept across the globe, transforming the environment and all living things. Cities are now bioluminescent fungal forests, and once-familiar creatures are grotesque, mycelial hybrids. Humanity survives in isolated, fortified enclaves, constantly battling the encroaching spores and the terrifying "Fevered" – those consumed by the fungus. The players are survivors navigating this beautiful yet horrifying new world, seeking a rumored cure, a safe haven, or simply a way to understand and coexist with the dominant, alien intelligence that now claims the Earth.
+## [TAG: LORE_CORE]
+### Origin Myth
+The Earth is not a silent rock; it's a living brain that's having a stroke. In the heart of the 21st-century 'Great Heat,' the 'Grand Accord' of nature was shattered by the arrival of 'The Fever'—a sentient, global consciousness born from the planet's own suffering. Long ago, the 'Founders of the Balance' realized that the climate was the planet's immune system. But humanity has poisoned the host, and now the host is fighting back. The Fever isn't just a disaster; it's a 'Visible Rage,' a mirage of heat shimmer and boiling water that wants to purge the 'Parasites' (humans) from its surface. The 'Aethel' of this world is the 'Temperature-Energy'—a shimmering force found in the heat and the cold, making every degree a step toward either extinction or 'Climate Justice.' To be a survivor is to be a guest in a body that wants you dead, knowing that the only 'Cool Sanctuary' is a lie told by the elite.
 
-## Setting [SETTING: Fungal Overgrowth]
-The world is a breathtaking, yet terrifying, tapestry of fungal growth. Towering mycelial structures pierce the sky where skyscrapers once stood, glowing with an eerie, internal light. Forests pulse with bioluminescent spores, and the ground is a shifting, spongy mass of interconnected networks. The air is thick with a sweet, earthy scent, often laced with mind-altering spores. Pockets of "clean" land are rare and fiercely guarded, while the "Deep Fever" zones are places where the fungus has achieved its most complex and dangerous forms.
+### Timeline
+1.  **The Hiroshima Catalyst (1945):** The first atomic explosion releases the Arcana into the global atmosphere, planting the seed of the Fever.
+2.  **The Silicon surge (c. 2000s):** Carbon emissions reach a 'Colossal' threshold. The planet's heartbeat becomes irregular.
+3.  **The Fever Awakening (2024):** The climate entity achieves consciousness, triggering a global heatwave and the first wave of 'Visible Rage.'
+4.  **The Founding of the Domes (2025):** The corporate elite (CEO Frost) build cool sanctuaries to contain the remaining human population.
+5.  **The Arrival of the Rookie (Present Day - Day 1):** A resilient survivor (the player) is 'Reaped' from a burning slum and taken to a sanctuary dome.
+6.  **The Heat-Shimmer Ambush (Week 1):** You face your first 'Fever Manifestation'—a mirage of fire and boiling water—inside the dome's maintenance tunnels.
+7.  **The Dr. Celsius Revelation (Ongoing):** A scientist (Tier 1 NPC) shares forbidden knowledge about the 'Final Reset' and the Fever's true origin.
+8.  **The Dome Breach (Upcoming):** The Fever's rage reaches a 'Temperature-Threshold' where it can break the containment fields.
+9.  **The Present Day:** The world is a high-contrast nightmare of oppressive oranges and artificial blues. The air is thick with smoke, and the 'Fever' is reaching its final harmonic.
 
-### Locations [LOCATION: Specific]
-*   **The Spore-Choked City:** [LOCATION: Urban Jungle] A once-bustling metropolis, now a labyrinth of fungal growths. Buildings are consumed, streets are mycelial tunnels, and the air is thick with spores. It's a dangerous hunting ground for resources and a breeding ground for Fevered creatures.
-*   **The Last Bastion:** [LOCATION: Fortified Settlement] A heavily fortified, self-sufficient settlement built within an old military base or underground bunker. It uses advanced air filtration and hydroponics to keep the Fever at bay, but resources are always scarce, and paranoia is high.
-*   **The Mycelial Heartwood:** [LOCATION: Deep Forest] A vast, ancient forest where the Fever originated or has reached its most advanced state. Here, the fungal network is so dense and interconnected that it is believed to possess a collective consciousness. It is beautiful, deadly, and holds many secrets.
-*   **The Clean Zone Farms:** [LOCATION: Agricultural] Small, isolated agricultural communities that have managed to maintain pockets of uninfected land, often through constant vigilance and specialized anti-fungal techniques. They are vital for food but constantly under threat.
-*   **The Whispering Caves:** [LOCATION: Caverns] A network of natural caves and pre-Collapse tunnels that have been partially colonized by the Fever, but also offer shelter from the surface. Strange, resonant sounds echo through them, believed to be the "voice" of the fungus.
+### The 'Why'
+The central conflict is the struggle for 'Coexistence' in a world of 'Absolute Vengeance.' It is about the 'Climate Horror' of the planetary psyche—the realization that the Earth doesn't care about your stories. The 'Why' is the question: 'Can humanity survive the planetary rage it created, or is the apocalypse just justice?' It explores the oppressive heat of the burning lands, the artificial calm of the sanctuary domes, and the crackling, boiling voice of a god that speaks in rising temperatures. The players are the survivors and researchers who must navigate the heat distortions and corporate indifference to find a resolution that honors the memory of the cold.
 
-## Factions [FACTION: Survivalist]
-*   **The Cleaners:** [FACTION: Militant] A highly organized and militaristic group dedicated to eradicating the Fever by any means necessary. They are ruthless, often burning infected areas to the ground, and view any form of coexistence as weakness.
-*   **The Symbiotes:** [FACTION: Coexistence] A philosophical and scientific faction that believes humanity must learn to understand and potentially coexist with the Fever. They study its patterns, seek ways to communicate, and sometimes experiment with controlled infection.
-*   **The Spore-Touched:** [FACTION: Mutated] Individuals who have been partially infected by the Fever but retain some semblance of their humanity. They possess unique abilities granted by the fungus but struggle with its influence and are often shunned or hunted.
-*   **The Last Enclave:** [FACTION: Isolationist] The inhabitants of the Last Bastion, focused solely on their own survival and maintaining their isolated haven. They are wary of outsiders and prioritize security above all else.
-*   **The Fevered Hordes:** [FACTION: Hostile Organism] The vast, unthinking masses of creatures and humans fully consumed by the Fever, driven by the fungal network's primal directives to spread and consume.
+## [TAG: FACTION_DATA]
+### The Fever Manifestations (The Burners)
+**Type:** Sentient/Environmental Vengeance Force
+**Leader:** The Fever (Tier 1 NPC - planetary consciousness).
+**Asset:** Heat shimmer, boiling water, and the ability to manifest as a 'Face of Rage.'
+**Rivals:** The Sanctuary Elite, The 'Salamander' Rebels.
 
-## NPCs [NPC: Key]
-*   **Commander Valerius:** [NPC: Leader] The grim, unyielding leader of the Cleaners. He lost his family to the Fever and believes total annihilation is the only path to salvation. (Male, 50s, hardened, driven)
-*   **Dr. Anya Sharma:** [NPC: Scientist] A brilliant mycologist and leader of the Symbiotes. She believes the Fever is a new form of life, not just a disease, and seeks to understand its intelligence. (Female, 40s, intellectual, empathetic)
-*   **Kael "Spore-Sight":** [NPC: Mutate] A former Cleaner, now partially infected, who can "see" the fungal network and communicate with some Fevered creatures. He struggles to control his transformation. (Male, 30s, conflicted, powerful)
-*   **Elder Silas:** [NPC: Elder] The oldest and most respected member of the Last Enclave, a survivor from before the Fever. He holds vast knowledge of the old world and the early days of the plague. (Male, 70s, wise, cautious)
-*   **The Whispering Child:** [NPC: Enigmatic] A young, seemingly uninfected child found deep within the Mycelial Heartwood, who communicates only through strange, melodic hums and seems to be protected by the Fever itself. (Child, indeterminate age, mysterious, innocent)
-*   **The Mycelial Weaver:** [NPC: Artisan] A reclusive Spore-Touched individual who can manipulate fungal growths to create tools, shelters, and even rudimentary weapons. They live on the fringes, trading their unique skills for supplies. (Androgynous, 20s, quiet, skilled)
+### The Sanctuary Elite (The Freezers)
+**Type:** High-Society/Corporate Bureaucracy
+**Leader:** CEO Frost (Tier 1 NPC).
+**Asset:** Cool sanctuary domes, 'Artificial Calm' muzak, and total control of the city's air-conditioning.
+**Rivals:** The Fever, The 'Proles' Survivors.
 
-## Quests [QUEST: Primary]
-*   **The Cure's Whisper:** [QUEST: Research] Dr. Sharma believes a rare pre-Collapse pharmaceutical lab, now deep within the Spore-Choked City, holds the key to a partial cure or vaccine. Players must retrieve vital research data.
-*   **Cleansing the Blight:** [QUEST: Eradication] Commander Valerius orders the players to lead a Cleaner squad to burn out a rapidly expanding Fever growth threatening a Clean Zone Farm, facing fierce resistance from Fevered creatures.
-*   **The Heartwood's Secret:** [QUEST: Exploration] Kael "Spore-Sight" asks the players to venture into the Mycelial Heartwood to find a specific, ancient fungal growth that he believes holds a deeper connection to the Fever's consciousness.
-*   **The Enclave's Plea:** [QUEST: Defense] The Last Enclave is under siege by a massive horde of Fevered. Players must help defend the bastion, potentially requiring them to make difficult choices about who to save.
-*   **The Whispering Child's Journey:** [QUEST: Escort] The Whispering Child is drawn to a specific location deep within the Deep Fever zones. Players must protect and escort them, uncovering the child's true connection to the Fever.
-*   **The Spore-Touched Sanctuary:** [QUEST: Diplomacy] A group of Spore-Touched individuals seeks to establish a neutral sanctuary. Players must negotiate with both Cleaners and Symbiotes to secure a safe zone for them, facing prejudice and distrust.
+### The 'Salamander' Rebels (The Revolutionaries)
+**Type:** Insurgent/Passion-Based Chaos Group
+**Leader:** Salamander (A man of forest fires and climate madness).
+**Asset:** Knowledge of the burning lands, 'Temperature-Energy' magic, and a refusal to bow to CEO Frost.
+**Rivals:** The Sanctuary Elite.
 
-## Threats [THREAT: Environmental]
-*   **Spore Clouds:** [THREAT: Environmental] Sudden, dense clouds of airborne spores that can cause hallucinations, disorientation, or rapid infection if inhaled without proper protection.
-*   **Fevered Creatures:** [THREAT: Creature] Animals and humans transformed into grotesque, aggressive fungal hybrids, driven by the Fever's will to spread. They are often stronger and more resilient than their original forms.
-*   **Mycelial Traps:** [THREAT: Environmental] The fungal network itself can form traps, ensnaring victims in sticky tendrils, releasing toxic spores, or collapsing structures.
-*   **Resource Depletion:** [THREAT: Survival] Clean water, uncontaminated food, and breathable air are precious commodities, leading to constant scavenging and conflict.
-*   **Psychological Warfare:** [THREAT: Psychological] The Fever can subtly influence minds through spores or direct psychic connection, sowing paranoia, fear, and despair among survivors.
-*   **Internal Conflict:** [THREAT: Social] The extreme pressure of survival, coupled with differing ideologies about the Fever, leads to constant tension, betrayal, and violence between human factions.
+### The 'Celsius' Scholars (The Healers)
+**Type:** Scientific/Redemptive Research Group
+**Leader:** Dr. Celsius (Tier 1 NPC).
+**Asset:** Knowledge of Fever biology, mutation barriers, and a connection to the 'Rebirth' frequency.
+**Rivals:** None (they are the moral compass).
 
-## World-Changing Events [EVENT: Cataclysmic]
-*   **The Great Bloom:** [EVENT: Ecological] The Fever undergoes a massive, rapid evolutionary leap, developing new, more aggressive forms, or suddenly expanding its territory at an unprecedented rate, overwhelming existing defenses.
-*   **The Fever's Voice:** [EVENT: Mysterious] The collective consciousness of the Fever begins to communicate directly with humanity, not through spores or whispers, but through clear, albeit alien, messages, revealing its true intentions.
-*   **The Human Counter-Offensive:** [EVENT: Military] A unified human force, perhaps led by the Cleaners, launches a massive, coordinated attack against the Fever's heartland, risking total annihilation or a decisive victory.
-*   **The Symbiotic Breakthrough:** [EVENT: Scientific] Dr. Sharma or another Symbiote discovers a way to truly communicate with or control aspects of the Fever, leading to a potential new era of coexistence or a terrifying new weapon.
-*   **The Ancient Seed:** [EVENT: Cosmic] A pre-Collapse satellite or deep-space probe returns to Earth, carrying a dormant alien organism or technology that could either destroy the Fever or accelerate its growth.
-*   **The Collapse of the Last Bastion:** [EVENT: Social] The Last Bastion falls, either to the Fevered or to internal strife, scattering its survivors and forcing a re-evaluation of all survival strategies.
+### The 'Glacier' Ghosts
+**Type:** Independent/Lost Elemental Group
+**Leader:** Glacier's Ghost (A being of melting ice and drowning bubbles).
+**Asset:** Knowledge of the lost cold and a willingness to perform 'Impossible Tasks' for a price.
+**Rivals:** The Fever.
 
-## Possible Endings [ENDING: Ambiguous]
-*   **The New Harmony:** [ENDING: Coexistence] Humanity finds a way to coexist with the Fever, perhaps through a symbiotic relationship or by establishing protected zones, leading to a strange but peaceful new world.
-*   **The Cleansing Fire:** [ENDING: Victory] The Fever is successfully eradicated or pushed back to manageable levels, but at a terrible cost, and the world is forever scarred.
-*   **The Great Migration:** [ENDING: Exodus] Humanity abandons Earth, finding a way to escape to another planet or a hidden, uninfected sanctuary, leaving the Fever to claim the world.
-*   **The Assimilation:** [ENDING: Transformation] The Fever ultimately consumes all of humanity, transforming them into a new, collective consciousness, ending human individuality but perhaps achieving a new form of life.
-*   **The Endless War:** [ENDING: Cyclical] Despite all efforts, the struggle against the Fever continues indefinitely, with neither side gaining a decisive victory, forcing humanity into a perpetual state of war.
-*   **The Fever's Gift:** [ENDING: Revelatory] The Fever is revealed not as a plague, but as a catalyst for a new stage of evolution, offering humanity a choice to embrace transformation or cling to its old form.
+## [TAG: NPC_TIER_1]
+**The Fever (Planet)** (Burner - The Leader) - A massive, planetary consciousness born from suffering. **Voice:** Crackling heat, boiling water, and rising temperatures. **Goal:** To purge humanity and return the Earth to a state of 'Climate Balance.' **Secret:** It still carries the 'Memory of Cold' and is terrified of its own absolute rage.
+**CEO Frost** (Elite - The Villain) - A man in a perfectly tailored business suit who views the disaster as an opportunity. **Voice:** Smooth, manipulative, and hiding a monstrous indifference. **Goal:** To monopolize the 'Cool Sanctuary' and rule the remains of the world. **Secret:** He is secretly part-Fever, having stayed in the burning lands too long to maintain his human identity.
+**Dr. Celsius** (Independent - The Expert) - A man with scientific precision and a crumbling mental state. **Voice:** Precise, academic, and increasingly frantic. **Goal:** To stabilize the planet's heartbeat and stop the Fever. **Secret:** He was the one who 'accidentally' designed the technology that allowed the climate to achieve consciousness.
+**Salamander** (Rebel - The Catalyst) - A man whose body is a map of fire-scars. **Voice:** Passionate, intense, and accepting of the apocalypse. **Goal:** To ensure 'Climate Justice' by destroying the sanctuary domes. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the 2024 surge.
+**Glacier's Ghost (Echo)** (Independent - The Witness) - A being of melting ice and drowning bubbles. **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To record the history of the cold and witness the end of the song. **Secret:** she is the only person who can 'hear' the original Song of the World through the Fever's screams.
+
+## [TAG: NPC_TIER_2]
+| Name | Role | Location | Quirk (Low Probability) |
+|---|---|---|---|
+| The newsie | Street Kid equivalent | Sanctuary Market | Can name every sanctuary dome by the sound of its AC-hum. |
+| 'Flash' | Press Photographer equivalent | Burning Land | His flashbulbs create 1-second 'Saturated Stills' of the progress. |
+| The Librarian | Archive Tech | Pre-Fever Lab | Can find any 'Climate Record' by the smell of the old stone paper. |
+| 'Lipstick' | Salamander's Spy | High-End Safehouse | Leaves a molten orange mark on the evidence where the next 'Surge' will happen. |
+| The Pilot | Chaser | Luxury Chariot equivalent | Can fly through a heat-shimmer surge without blinking. |
+| 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Heat-Choke' pustule. |
+| The newsie | Street Kid | Urban Market | Can name every dome district by the sound of its elevator-muzak. |
+| The Guard | Sanctuary Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
+| The Monk | Ancient Worshipper | Fever Temple | Spends all his time painting murals of the 'Night's Beginning.' |
+| The Clerk | Trade Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
+
+## [TAG: LOCATIONS_MAIN]
+### The Cool Sanctuary (The Hub)
+A high-contrast landscape of artificial blues, neon lights, and elevator muzak.
+*   **The Observation Deck:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Bleach, expensive perfume, and old wood. **Sound:** The rhythmic scratching of a silver quill.
+*   **The AC Bank:** Where the 'Harvested Cold' is stored in glass vats. **Visual:** Sickly yellows and warning oranges reflecting in the chrome.
+
+### The Burning Lands (The Battlefield)
+A hyper-real landscape of weaponized nature and oppressive oranges.
+*   **The Mirage Plane:** A site of 'Initial Squelch' and sudden violence. **Visual:** Prismatic light reflecting in the blood of the first victim. **Sound:** The deep, rhythmic thrum of the Fever's rumbling.
+*   **The Silent Village:** A place where the 'Invisible Apocalypse' has already passed.
+
+### The Fever Temple (The Gauntlet)
+A dark, reality-distorting monument to planetary rage and molten orange.
+*   **The Heart-Beat Room:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Sound:** The thunderous roar of the wind.
+
+### The Subterranean Bunker (Mental Space)
+A clinical white-blue space of absolute knowledge and desaturated reality.
+*   **The Laboratory:** Where the 'Mutation Barrier' was forged. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
+
+## [TAG: QUEST_MAIN]
+1.  **The First Ripple:** Arrive at the Cool Sanctuary. You must survive your first 'Heat-Shimmer Ambush' while maintaining your 'Cooling' level.
+2.  **The AC Run:** Navigate the islands of the burning sea to find Dr. Celsius. You must identify the 'Respiration Seed' (equivalent) before the surge.
+3.  **The Salamander Infiltration:** Infiltrate the Rebel camp to find evidence of their 'Reverse-Rebirth' plan. You must bypass their 'Watching Eye' security.
+4.  **The Heart-Beat Chase:** Lead a fleet of salvaged vehicles through a city-destruction surge. You must cast 'Temperature-Spells' while traveling at 100 mph.
+5.  **The Brain-Chamber Revelation:** Enter the Pre-Fever Lab undercover. You must find your own 'Soul-Memory' without alerting the Fever.
+6.  **The Final Reset:** The planet's central crystal has begun its final 'Reset.' You must defend the Temple while the self-destruct activates.
+7.  **The Bloodletting at the Source:** Face CEO Frost and the Fever face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
+
+## [TAG: ITEM_LEGENDARY]
+### 1. The Blade of the Fever
+**Type:** Legendary Weapon
+**Description:** A massive sword crafted from the fossilized remains of the original Alpha Glacier.
+**Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
+
+### 2. The AC-Focus Amulet
+**Type:** Artifact Focus
+**Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
+**Mechanics:** Grants the user the ability to 'Heal' an ally's DNA systems by 50 HP. Once per day, the user can 'Silence' a mutation attack for 1 round.
+
+### 3. The Temperature Capsule
+**Type:** Wondrous Item
+**Description:** A small, sapphire crystal that hums with the key of your own identity.
+**Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Fever' magic.
+
+## [TAG: ENEMY_STATBLOCK]
+### 1. Sanctuary Drone (Standard)
+(CR 2). Construct. HP 30, AC 13 (Cooling patches).
+**Abilities:**
+*   **Artificial Calm:** Any enemy within 30 feet has disadvantage on Charisma checks.
+*   **Cold-Extraction Pulse:** Ranged attack. 2d8 psychic damage + Target's Temperature-Energy is reduced.
+
+### 2. Fever Archon (Elite)
+(CR 5). Elemental. HP 80, AC 15.
+**Abilities:**
+*   **Rage Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
+*   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
+
+### 3. 'The Mastermind' Fever (Proxy)
+(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+**Abilities:**
+*   **Visible Rage Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the planet's 'Balance Directive.'
+*   **The Final Move:** Once per combat, the Fever can force an enemy to take an action that serves the stability of the infection.
+
+## [TAG: INDEX_KEYWORDS]
+The Fever of the World, Climate Change, Planetary Consciousness, CEO Frost, Dr. Celsius, Salamander, Glacier's Ghost, Heat Shimmer, Sanctuary Domes, Temperature-Energy, Climate Apocalypse, Visible Rage, Environmental Horror. 

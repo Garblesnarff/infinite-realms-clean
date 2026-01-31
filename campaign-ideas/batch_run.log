@@ -1,0 +1,1115 @@
+Total campaigns found: 172
+Already processed: 7
+Remaining to process: 165
+
+--- [1/165] Processing: academy-of-legends ---
+Processing academy-of-legends...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/academy-of-legends/academy-of-legends-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_87507.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/academy-of-legends/academy-of-legends-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/academy-of-legends/academy-of-legends-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_87507.txt > /tmp/manifest_academy-of-legends.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/academy-of-legends/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [2/165] Processing: aethelgard-the-once-and-future-king ---
+Processing aethelgard-the-once-and-future-king...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/aethelgard-the-once-and-future-king/aethelgard-the-once-and-future-king-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_91476.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/aethelgard-the-once-and-future-king/aethelgard-the-once-and-future-king-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/aethelgard-the-once-and-future-king/aethelgard-the-once-and-future-king-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_91476.txt > /tmp/manifest_aethelgard-the-once-and-future-king.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/aethelgard-the-once-and-future-king/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [3/165] Processing: after-the-starfall ---
+Processing after-the-starfall...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Post-Apocalyptic/after-the-starfall/after-the-starfall-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_95811.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/after-the-starfall/after-the-starfall-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/after-the-starfall/after-the-starfall-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_95811.txt > /tmp/manifest_after-the-starfall.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/after-the-starfall/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [4/165] Processing: against-the-titans ---
+Processing against-the-titans...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Adventure/against-the-titans/against-the-titans-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_361.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/against-the-titans/against-the-titans-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/against-the-titans/against-the-titans-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_361.txt > /tmp/manifest_against-the-titans.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/against-the-titans/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [5/165] Processing: agents-of-concordia ---
+Processing agents-of-concordia...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Intrigue/agents-of-concordia/agents-of-concordia-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_4356.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/agents-of-concordia/agents-of-concordia-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/agents-of-concordia/agents-of-concordia-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_4356.txt > /tmp/manifest_agents-of-concordia.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/agents-of-concordia/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [6/165] Processing: agents-of-the-concordat ---
+Processing agents-of-the-concordat...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/agents-of-the-concordat/agents-of-the-concordat-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_10481.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/agents-of-the-concordat/agents-of-the-concordat-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/agents-of-the-concordat/agents-of-the-concordat-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_10481.txt > /tmp/manifest_agents-of-the-concordat.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/agents-of-the-concordat/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [7/165] Processing: alchemical-insurgence ---
+Processing alchemical-insurgence...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/alchemical-insurgence/alchemical-insurgence-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_15095.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/alchemical-insurgence/alchemical-insurgence-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/alchemical-insurgence/alchemical-insurgence-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_15095.txt > /tmp/manifest_alchemical-insurgence.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/alchemical-insurgence/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [8/165] Processing: aldnoah-drive-conspiracy ---
+Processing aldnoah-drive-conspiracy...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/aldnoah-drive-conspiracy/aldnoah-drive-conspiracy-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_18597.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/aldnoah-drive-conspiracy/aldnoah-drive-conspiracy-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/aldnoah-drive-conspiracy/aldnoah-drive-conspiracy-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_18597.txt > /tmp/manifest_aldnoah-drive-conspiracy.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/aldnoah-drive-conspiracy/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [9/165] Processing: all-for-one ---
+Processing all-for-one...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Intrigue/all-for-one/all-for-one-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_22810.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/all-for-one/all-for-one-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/all-for-one/all-for-one-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_22810.txt > /tmp/manifest_all-for-one.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/all-for-one/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [10/165] Processing: all-that-jazz ---
+Processing all-that-jazz...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Mystery/all-that-jazz/all-that-jazz-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_26903.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/all-that-jazz/all-that-jazz-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/all-that-jazz/all-that-jazz-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_26903.txt > /tmp/manifest_all-that-jazz.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/all-that-jazz/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [11/165] Processing: alpha-predator-rising ---
+Processing alpha-predator-rising...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/alpha-predator-rising/alpha-predator-rising-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_30220.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/alpha-predator-rising/alpha-predator-rising-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/alpha-predator-rising/alpha-predator-rising-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_30220.txt > /tmp/manifest_alpha-predator-rising.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/alpha-predator-rising/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [12/165] Processing: angel-descent ---
+Processing angel-descent...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/angel-descent/angel-descent-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_35519.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/angel-descent/angel-descent-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/angel-descent/angel-descent-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_35519.txt > /tmp/manifest_angel-descent.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/angel-descent/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [13/165] Processing: anti-grav-league-wars ---
+Processing anti-grav-league-wars...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Sci-Fi/anti-grav-league-wars/anti-grav-league-wars-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_40226.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/anti-grav-league-wars/anti-grav-league-wars-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/anti-grav-league-wars/anti-grav-league-wars-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_40226.txt > /tmp/manifest_anti-grav-league-wars.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/anti-grav-league-wars/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [14/165] Processing: arc-of-orleans ---
+Processing arc-of-orleans...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Historical/arc-of-orleans/arc-of-orleans-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_43071.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/arc-of-orleans/arc-of-orleans-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/arc-of-orleans/arc-of-orleans-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_43071.txt > /tmp/manifest_arc-of-orleans.txt
+Validation failed (Attempt 1/4): ["Missing 'assets' key", 'Only 0 assets - expected 40-80']
+Retrying manifest generation in 2s...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_43071.txt > /tmp/manifest_arc-of-orleans.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/arc-of-orleans/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [15/165] Processing: architects-of-eternity ---
+Processing architects-of-eternity...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Historical/architects-of-eternity/architects-of-eternity-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_48068.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/architects-of-eternity/architects-of-eternity-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/architects-of-eternity/architects-of-eternity-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_48068.txt > /tmp/manifest_architects-of-eternity.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/architects-of-eternity/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [16/165] Processing: as-you-wish ---
+Processing as-you-wish...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Adventure/as-you-wish/as-you-wish-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_52029.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/as-you-wish/as-you-wish-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/as-you-wish/as-you-wish-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_52029.txt > /tmp/manifest_as-you-wish.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/as-you-wish/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [17/165] Processing: ascension-protocol ---
+Processing ascension-protocol...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Adventure/ascension-protocol/ascension-protocol-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_55583.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/ascension-protocol/ascension-protocol-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/ascension-protocol/ascension-protocol-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_55583.txt > /tmp/manifest_ascension-protocol.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/ascension-protocol/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [18/165] Processing: ash-and-remembrance ---
+Processing ash-and-remembrance...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/ash-and-remembrance/ash-and-remembrance-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_59818.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/ash-and-remembrance/ash-and-remembrance-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/ash-and-remembrance/ash-and-remembrance-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_59818.txt > /tmp/manifest_ash-and-remembrance.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/ash-and-remembrance/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [19/165] Processing: atomic-arcana ---
+Processing atomic-arcana...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Intrigue/atomic-arcana/atomic-arcana-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_63597.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/atomic-arcana/atomic-arcana-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/atomic-arcana/atomic-arcana-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_63597.txt > /tmp/manifest_atomic-arcana.txt
+Validation failed (Attempt 1/4): ["Missing 'assets' key", 'Only 0 assets - expected 40-80']
+Retrying manifest generation in 2s...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_63597.txt > /tmp/manifest_atomic-arcana.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/atomic-arcana/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [20/165] Processing: atomic-dawn ---
+Processing atomic-dawn...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/atomic-dawn/atomic-dawn-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_68055.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/atomic-dawn/atomic-dawn-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/atomic-dawn/atomic-dawn-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_68055.txt > /tmp/manifest_atomic-dawn.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/atomic-dawn/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Attempt 1 failed with status 429. Retrying with backoff... GaxiosError: [{
+  "error": {
+    "code": 429,
+    "message": "No capacity available for model gemini-3-flash-preview on the server",
+    "errors": [
+      {
+        "message": "No capacity available for model gemini-3-flash-preview on the server",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "MODEL_CAPACITY_EXHAUSTED",
+        "domain": "cloudcode-pa.googleapis.com",
+        "metadata": {
+          "model": "gemini-3-flash-preview"
+        }
+      }
+    ]
+  }
+}
+]
+    at Gaxios._request (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/gaxios/build/src/gaxios.js:142:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.requestAsync (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/google-auth-library/build/src/auth/oauth2client.js:429:18)
+    at async CodeAssistServer.requestStreamingPost (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:169:21)
+    at async CodeAssistServer.generateContentStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:27:27)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:132:26
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:108:28)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:421:32)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:253:40)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:66:30) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+    method: 'POST',
+    params: { alt: 'sse' },
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI/0.26.0/gemini-3-flash-preview (darwin; arm64) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.10.0'
+    },
+    responseType: 'stream',
+    body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+    signal: AbortSignal { aborted: false },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: {
+    config: {
+      url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+      method: 'POST',
+      params: [Object],
+      headers: [Object],
+      responseType: 'stream',
+      body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      signal: [AbortSignal],
+      paramsSerializer: [Function: paramsSerializer],
+      validateStatus: [Function: validateStatus],
+      errorRedactor: [Function: defaultErrorRedactor]
+    },
+    data: '[{\n' +
+      '  "error": {\n' +
+      '    "code": 429,\n' +
+      '    "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '    "errors": [\n' +
+      '      {\n' +
+      '        "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '        "domain": "global",\n' +
+      '        "reason": "rateLimitExceeded"\n' +
+      '      }\n' +
+      '    ],\n' +
+      '    "status": "RESOURCE_EXHAUSTED",\n' +
+      '    "details": [\n' +
+      '      {\n' +
+      '        "@type": "type.googleapis.com/google.rpc.ErrorInfo",\n' +
+      '        "reason": "MODEL_CAPACITY_EXHAUSTED",\n' +
+      '        "domain": "cloudcode-pa.googleapis.com",\n' +
+      '        "metadata": {\n' +
+      '          "model": "gemini-3-flash-preview"\n' +
+      '        }\n' +
+      '      }\n' +
+      '    ]\n' +
+      '  }\n' +
+      '}\n' +
+      ']',
+    headers: {
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'content-length': '630',
+      'content-type': 'application/json; charset=UTF-8',
+      date: 'Thu, 29 Jan 2026 00:03:54 GMT',
+      server: 'ESF',
+      'server-timing': 'gfet4t7; dur=1382',
+      vary: 'Origin, X-Origin, Referer',
+      'x-cloudaicompanion-trace-id': '8124daf7d6b6ced1',
+      'x-content-type-options': 'nosniff',
+      'x-frame-options': 'SAMEORIGIN',
+      'x-xss-protection': '0'
+    },
+    status: 429,
+    statusText: 'Too Many Requests',
+    request: {
+      responseURL: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse'
+    }
+  },
+  error: undefined,
+  status: 429,
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+Attempt 2 failed with status 429. Retrying with backoff... GaxiosError: [{
+  "error": {
+    "code": 429,
+    "message": "No capacity available for model gemini-3-flash-preview on the server",
+    "errors": [
+      {
+        "message": "No capacity available for model gemini-3-flash-preview on the server",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "MODEL_CAPACITY_EXHAUSTED",
+        "domain": "cloudcode-pa.googleapis.com",
+        "metadata": {
+          "model": "gemini-3-flash-preview"
+        }
+      }
+    ]
+  }
+}
+]
+    at Gaxios._request (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/gaxios/build/src/gaxios.js:142:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.requestAsync (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/google-auth-library/build/src/auth/oauth2client.js:429:18)
+    at async CodeAssistServer.requestStreamingPost (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:169:21)
+    at async CodeAssistServer.generateContentStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:27:27)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:132:26
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:108:28)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:421:32)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:253:40)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:66:30) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+    method: 'POST',
+    params: { alt: 'sse' },
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI/0.26.0/gemini-3-flash-preview (darwin; arm64) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.10.0'
+    },
+    responseType: 'stream',
+    body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+    signal: AbortSignal { aborted: false },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: {
+    config: {
+      url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+      method: 'POST',
+      params: [Object],
+      headers: [Object],
+      responseType: 'stream',
+      body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      signal: [AbortSignal],
+      paramsSerializer: [Function: paramsSerializer],
+      validateStatus: [Function: validateStatus],
+      errorRedactor: [Function: defaultErrorRedactor]
+    },
+    data: '[{\n' +
+      '  "error": {\n' +
+      '    "code": 429,\n' +
+      '    "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '    "errors": [\n' +
+      '      {\n' +
+      '        "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '        "domain": "global",\n' +
+      '        "reason": "rateLimitExceeded"\n' +
+      '      }\n' +
+      '    ],\n' +
+      '    "status": "RESOURCE_EXHAUSTED",\n' +
+      '    "details": [\n' +
+      '      {\n' +
+      '        "@type": "type.googleapis.com/google.rpc.ErrorInfo",\n' +
+      '        "reason": "MODEL_CAPACITY_EXHAUSTED",\n' +
+      '        "domain": "cloudcode-pa.googleapis.com",\n' +
+      '        "metadata": {\n' +
+      '          "model": "gemini-3-flash-preview"\n' +
+      '        }\n' +
+      '      }\n' +
+      '    ]\n' +
+      '  }\n' +
+      '}\n' +
+      ']',
+    headers: {
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'content-length': '630',
+      'content-type': 'application/json; charset=UTF-8',
+      date: 'Thu, 29 Jan 2026 00:04:10 GMT',
+      server: 'ESF',
+      'server-timing': 'gfet4t7; dur=10870',
+      vary: 'Origin, X-Origin, Referer',
+      'x-cloudaicompanion-trace-id': 'c9728c18641fc0cf',
+      'x-content-type-options': 'nosniff',
+      'x-frame-options': 'SAMEORIGIN',
+      'x-xss-protection': '0'
+    },
+    status: 429,
+    statusText: 'Too Many Requests',
+    request: {
+      responseURL: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse'
+    }
+  },
+  error: undefined,
+  status: 429,
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Attempt 1 failed with status 429. Retrying with backoff... GaxiosError: [{
+  "error": {
+    "code": 429,
+    "message": "No capacity available for model gemini-3-flash-preview on the server",
+    "errors": [
+      {
+        "message": "No capacity available for model gemini-3-flash-preview on the server",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "MODEL_CAPACITY_EXHAUSTED",
+        "domain": "cloudcode-pa.googleapis.com",
+        "metadata": {
+          "model": "gemini-3-flash-preview"
+        }
+      }
+    ]
+  }
+}
+]
+    at Gaxios._request (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/gaxios/build/src/gaxios.js:142:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.requestAsync (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/google-auth-library/build/src/auth/oauth2client.js:429:18)
+    at async CodeAssistServer.requestStreamingPost (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:169:21)
+    at async CodeAssistServer.generateContentStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:27:27)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:132:26
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:108:28)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:421:32)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:253:40)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:66:30) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+    method: 'POST',
+    params: { alt: 'sse' },
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI/0.26.0/gemini-3-flash-preview (darwin; arm64) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.10.0'
+    },
+    responseType: 'stream',
+    body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+    signal: AbortSignal { aborted: false },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: {
+    config: {
+      url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+      method: 'POST',
+      params: [Object],
+      headers: [Object],
+      responseType: 'stream',
+      body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      signal: [AbortSignal],
+      paramsSerializer: [Function: paramsSerializer],
+      validateStatus: [Function: validateStatus],
+      errorRedactor: [Function: defaultErrorRedactor]
+    },
+    data: '[{\n' +
+      '  "error": {\n' +
+      '    "code": 429,\n' +
+      '    "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '    "errors": [\n' +
+      '      {\n' +
+      '        "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '        "domain": "global",\n' +
+      '        "reason": "rateLimitExceeded"\n' +
+      '      }\n' +
+      '    ],\n' +
+      '    "status": "RESOURCE_EXHAUSTED",\n' +
+      '    "details": [\n' +
+      '      {\n' +
+      '        "@type": "type.googleapis.com/google.rpc.ErrorInfo",\n' +
+      '        "reason": "MODEL_CAPACITY_EXHAUSTED",\n' +
+      '        "domain": "cloudcode-pa.googleapis.com",\n' +
+      '        "metadata": {\n' +
+      '          "model": "gemini-3-flash-preview"\n' +
+      '        }\n' +
+      '      }\n' +
+      '    ]\n' +
+      '  }\n' +
+      '}\n' +
+      ']',
+    headers: {
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'content-length': '630',
+      'content-type': 'application/json; charset=UTF-8',
+      date: 'Thu, 29 Jan 2026 00:07:09 GMT',
+      server: 'ESF',
+      'server-timing': 'gfet4t7; dur=46090',
+      vary: 'Origin, X-Origin, Referer',
+      'x-cloudaicompanion-trace-id': 'f36598401db917aa',
+      'x-content-type-options': 'nosniff',
+      'x-frame-options': 'SAMEORIGIN',
+      'x-xss-protection': '0'
+    },
+    status: 429,
+    statusText: 'Too Many Requests',
+    request: {
+      responseURL: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse'
+    }
+  },
+  error: undefined,
+  status: 429,
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+
+Waiting 10 seconds before next campaign...
+
+--- [21/165] Processing: baba-yagas-bargain ---
+Processing baba-yagas-bargain...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/baba-yagas-bargain/baba-yagas-bargain-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_75185.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/baba-yagas-bargain/baba-yagas-bargain-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/baba-yagas-bargain/baba-yagas-bargain-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_75185.txt > /tmp/manifest_baba-yagas-bargain.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/baba-yagas-bargain/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Attempt 1 failed with status 429. Retrying with backoff... GaxiosError: [{
+  "error": {
+    "code": 429,
+    "message": "No capacity available for model gemini-3-flash-preview on the server",
+    "errors": [
+      {
+        "message": "No capacity available for model gemini-3-flash-preview on the server",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXHAUSTED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "MODEL_CAPACITY_EXHAUSTED",
+        "domain": "cloudcode-pa.googleapis.com",
+        "metadata": {
+          "model": "gemini-3-flash-preview"
+        }
+      }
+    ]
+  }
+}
+]
+    at Gaxios._request (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/gaxios/build/src/gaxios.js:142:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.requestAsync (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/google-auth-library/build/src/auth/oauth2client.js:429:18)
+    at async CodeAssistServer.requestStreamingPost (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:169:21)
+    at async CodeAssistServer.generateContentStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:27:27)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:132:26
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:108:28)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:421:32)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:253:40)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:66:30) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+    method: 'POST',
+    params: { alt: 'sse' },
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI/0.26.0/gemini-3-flash-preview (darwin; arm64) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.10.0'
+    },
+    responseType: 'stream',
+    body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+    signal: AbortSignal { aborted: false },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: {
+    config: {
+      url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+      method: 'POST',
+      params: [Object],
+      headers: [Object],
+      responseType: 'stream',
+      body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      signal: [AbortSignal],
+      paramsSerializer: [Function: paramsSerializer],
+      validateStatus: [Function: validateStatus],
+      errorRedactor: [Function: defaultErrorRedactor]
+    },
+    data: '[{\n' +
+      '  "error": {\n' +
+      '    "code": 429,\n' +
+      '    "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '    "errors": [\n' +
+      '      {\n' +
+      '        "message": "No capacity available for model gemini-3-flash-preview on the server",\n' +
+      '        "domain": "global",\n' +
+      '        "reason": "rateLimitExceeded"\n' +
+      '      }\n' +
+      '    ],\n' +
+      '    "status": "RESOURCE_EXHAUSTED",\n' +
+      '    "details": [\n' +
+      '      {\n' +
+      '        "@type": "type.googleapis.com/google.rpc.ErrorInfo",\n' +
+      '        "reason": "MODEL_CAPACITY_EXHAUSTED",\n' +
+      '        "domain": "cloudcode-pa.googleapis.com",\n' +
+      '        "metadata": {\n' +
+      '          "model": "gemini-3-flash-preview"\n' +
+      '        }\n' +
+      '      }\n' +
+      '    ]\n' +
+      '  }\n' +
+      '}\n' +
+      ']',
+    headers: {
+      'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+      'content-length': '630',
+      'content-type': 'application/json; charset=UTF-8',
+      date: 'Thu, 29 Jan 2026 00:11:21 GMT',
+      server: 'ESF',
+      'server-timing': 'gfet4t7; dur=23622',
+      vary: 'Origin, X-Origin, Referer',
+      'x-cloudaicompanion-trace-id': '3c4491d98deb8e88',
+      'x-content-type-options': 'nosniff',
+      'x-frame-options': 'SAMEORIGIN',
+      'x-xss-protection': '0'
+    },
+    status: 429,
+    statusText: 'Too Many Requests',
+    request: {
+      responseURL: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse'
+    }
+  },
+  error: undefined,
+  status: 429,
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+
+Waiting 10 seconds before next campaign...
+
+--- [22/165] Processing: battle-of-the-bands ---
+Processing battle-of-the-bands...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/battle-of-the-bands/battle-of-the-bands-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_79074.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/battle-of-the-bands/battle-of-the-bands-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/battle-of-the-bands/battle-of-the-bands-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_79074.txt > /tmp/manifest_battle-of-the-bands.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/battle-of-the-bands/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Attempt 1 failed. Retrying with backoff... GaxiosError: request to https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse failed, reason: read ECONNRESET
+    at Gaxios._request (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/gaxios/build/src/gaxios.js:149:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async OAuth2Client.requestAsync (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/google-auth-library/build/src/auth/oauth2client.js:429:18)
+    at async CodeAssistServer.requestStreamingPost (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:169:21)
+    at async CodeAssistServer.generateContentStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/code_assist/server.js:27:27)
+    at async file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/loggingContentGenerator.js:132:26
+    at async retryWithBackoff (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/utils/retry.js:108:28)
+    at async GeminiChat.makeApiCallAndProcessStream (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:421:32)
+    at async GeminiChat.streamWithRetries (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/geminiChat.js:253:40)
+    at async Turn.run (file:///opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/@google/gemini-cli-core/dist/src/core/turn.js:66:30) {
+  config: {
+    url: 'https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse',
+    method: 'POST',
+    params: { alt: 'sse' },
+    headers: {
+      'Content-Type': 'application/json',
+      'User-Agent': 'GeminiCLI/0.26.0/gemini-3-flash-preview (darwin; arm64) google-api-nodejs-client/9.15.1',
+      Authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+      'x-goog-api-client': 'gl-node/24.10.0'
+    },
+    responseType: 'stream',
+    body: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+    signal: AbortSignal { aborted: false },
+    paramsSerializer: [Function: paramsSerializer],
+    validateStatus: [Function: validateStatus],
+    errorRedactor: [Function: defaultErrorRedactor]
+  },
+  response: undefined,
+  error: FetchError: request to https://cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse failed, reason: read ECONNRESET
+      at ClientRequest.<anonymous> (/opt/homebrew/lib/node_modules/@google/gemini-cli/node_modules/node-fetch/lib/index.js:1501:11)
+      at ClientRequest.emit (node:events:508:28)
+      at emitErrorEvent (node:_http_client:107:11)
+      at TLSSocket.socketErrorListener (node:_http_client:574:5)
+      at TLSSocket.emit (node:events:508:28)
+      at emitErrorNT (node:internal/streams/destroy:170:8)
+      at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+      at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+    type: 'system',
+    errno: 'ECONNRESET',
+    code: 'ECONNRESET'
+  },
+  code: 'ECONNRESET',
+  Symbol(gaxios-gaxios-error): '6.7.1'
+}
+
+Waiting 10 seconds before next campaign...
+
+--- [23/165] Processing: beast-of-skull-isle ---
+Processing beast-of-skull-isle...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Adventure/beast-of-skull-isle/beast-of-skull-isle-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_83814.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beast-of-skull-isle/beast-of-skull-isle-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beast-of-skull-isle/beast-of-skull-isle-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_83814.txt > /tmp/manifest_beast-of-skull-isle.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/beast-of-skull-isle/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [24/165] Processing: belly-of-the-beast ---
+Processing belly-of-the-beast...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Horror/belly-of-the-beast/belly-of-the-beast-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_87596.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/belly-of-the-beast/belly-of-the-beast-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/belly-of-the-beast/belly-of-the-beast-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_87596.txt > /tmp/manifest_belly-of-the-beast.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/belly-of-the-beast/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Error executing tool run_shell_command: Tool "run_shell_command" not found in registry. Tools must use the exact names that are registered. Did you mean one of: "add_issue_comment", "list_commits", "git_commit"?
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [25/165] Processing: beneath-the-grassblade ---
+Processing beneath-the-grassblade...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/beneath-the-grassblade/beneath-the-grassblade-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_91909.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-grassblade/beneath-the-grassblade-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-grassblade/beneath-the-grassblade-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_91909.txt > /tmp/manifest_beneath-the-grassblade.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/beneath-the-grassblade/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [26/165] Processing: beneath-the-sands ---
+Processing beneath-the-sands...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Horror/beneath-the-sands/beneath-the-sands-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_96175.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-sands/beneath-the-sands-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-sands/beneath-the-sands-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_96175.txt > /tmp/manifest_beneath-the-sands.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/beneath-the-sands/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [27/165] Processing: beneath-the-watching-eye ---
+Processing beneath-the-watching-eye...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Intrigue/beneath-the-watching-eye/beneath-the-watching-eye-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_173.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-watching-eye/beneath-the-watching-eye-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beneath-the-watching-eye/beneath-the-watching-eye-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_173.txt > /tmp/manifest_beneath-the-watching-eye.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/beneath-the-watching-eye/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [28/165] Processing: beyond-the-wall ---
+Processing beyond-the-wall...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Fantasy/beyond-the-wall/beyond-the-wall-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_3102.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beyond-the-wall/beyond-the-wall-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/beyond-the-wall/beyond-the-wall-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_3102.txt > /tmp/manifest_beyond-the-wall.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/beyond-the-wall/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [29/165] Processing: blades-of-glory ---
+Processing blades-of-glory...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Adventure/blades-of-glory/blades-of-glory-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_8323.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/blades-of-glory/blades-of-glory-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/blades-of-glory/blades-of-glory-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_8323.txt > /tmp/manifest_blades-of-glory.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/blades-of-glory/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [30/165] Processing: blades-of-the-holy-war ---
+Processing blades-of-the-holy-war...
+Found input: /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas/Completed/Historical/blades-of-the-holy-war/blades-of-the-holy-war-campaign-bible.md
+Stage 1: Sanitizing...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_12018.txt > /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/blades-of-the-holy-war/blades-of-the-holy-war-campaign-bible-clean.md
+Sanitized bible saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/sanitized/blades-of-the-holy-war/blades-of-the-holy-war-campaign-bible-clean.md
+Stage 2: Generating Manifest...
+Running command: gemini -m gemini-3-flash-preview --output-format text < /tmp/gemini_input_12018.txt > /tmp/manifest_blades-of-the-holy-war.txt
+Success! Manifest saved to /Users/rob/Claude/workspaces/infinite-realms-clean/campaign-assets/manifests/blades-of-the-holy-war/manifest.json
+
+Errors:
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+Loaded cached credentials.
+Session cleanup disabled: Either maxAge or maxCount must be specified
+Hook registry initialized with 0 hook entries
+
+Waiting 10 seconds before next campaign...
+
+--- [31/165] Processing: blood-and-honor ---

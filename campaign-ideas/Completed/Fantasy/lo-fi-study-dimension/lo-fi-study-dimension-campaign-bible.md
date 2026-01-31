@@ -1,0 +1,137 @@
+# Lo-Fi Study Dimension: Campaign Bible
+
+## [TAG: LORE_CORE]
+### Origin Myth
+The World is not a floor; it's a desk that's being studied by an invisible scholar. In the heart of the 21st-century 'Eternal Library' (reimagined), the 'Grand Accord' of nature was shattered by the discovery of 'Lofi'—an ancient, musical consciousness that exists within the planetary study beats. Long ago, the 'Founders of the Calm' realized that 'Peace' is the planet's ultimate defense system. They forged the 'Ancient Notebooks' and 'Curator Sanctuaries' to serve as anchors for the world's sanity. The 'Aethel' of this world is the 'Cozy-Energy'—a shimmering force found in warm browns and candlelight golds, making every 'Handwritten Note' a focus for reality-warping power. To be a Student or a Curator is to be a ghost in your own library, knowing that 'The High-Stakes' is not a reality—it's a fracture in the universe itself.
+
+### Timeline
+1.  **The First Beat (c. -Infinity):** The Grand Scholar creates the world with a single, perfectly timed lo-fi drum kick.
+2.  **The Age of the Seal (c. -10,000 years):** Humanity establishes the 'Eternal Library' to monitor the cozy energy of the provinces.
+3.  **The Lofi Era (Last Age):** A period of cozy academia occurs, establishing the Studio Ghibli beauty and the Code of the Calm.
+4.  **The Arrival of the Rookie (Present Day - Day 1):** A resilient researcher (the player) arrives at the library, only to witness their first 'Archive of Lost Things' reveal.
+5.  **The Study-Duel Ambush (Week 1):** You face your first 'Forgotten Incursion'—a team of hollow shadows—in a dark, neon-lit alleyway (equivalent).
+6.  **The Curator Ascension (Ongoing):** As you master the subjects, you develop 'Study-Sensitivity' and academic 'Tattoos.'
+7.  **The Lofi Revelation (Ongoing):** A being of soft gentle voice and ASMR quality offers you a 'Cozy Legacy.'
+8.  **The Final Bloodletting (Upcoming):** A face-to-face standoff at the center of the Knowledge Singularity (equivalent). You must choose between your own legend and the needs of the universe.
+9.  **The Present Day:** The world is a high-contrast nightmare of autumn golds and tea-stain yellows. The desks are vibrating, and the 'Calm-Energy' is reaching its final harmonic.
+
+### The 'Why'
+The central conflict is the struggle for 'Authenticity' in a world of 'High-Stakes Adventure.' It is about the 'Human Resilience' of the spirit—the realization that you need the peace to appreciate the storm. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal book?' It explores the cozy beauty of the lofi study dimension, the pride in mastering a notebook, and the gentle, resonant voice of a curator who understands that every second is a gift. The players are the students and curators who must navigate the impossible architectures and the intensity of an information overload to find a truth that stays solid in the win.
+
+## [TAG: FACTION_DATA]
+### The Library Curators (The Order)
+**Type:** Scientific/Bureaucratic Defense Brotherhood
+**Leader:** Lofi (Tier 1 NPC).
+**Asset:** Wooden desks, ancient notebooks, and the 'Calm' intuition.
+**Rivals:** The Knowledge Thieves, The Stagnant-Spawn.
+
+### The Knowledge Thieves (The Disruptors)
+**Type:** Elite/High-Society Extraction Group
+**Leader:** The Eraser (equivalent).
+**Asset:** Logical architecture, 'Mute' magic, and absolute control of the city's quiet zones.
+**Rivals:** The Library Curators.
+
+### The 'Curator' Seekers (The Survivors)
+**Type:** Historical/Grounded Cozy Sages
+**Leader:** The Curator of History (Tier 1 NPC - the teacher).
+**Asset:** Knowledge of ancient hierarchies, warm firelight, and the ability to trigger 'Golden Ages.'
+**Rivals:** None (they are the moral compass).
+
+### The 'Archive' Underground (The Lost)
+**Type:** Independent/Lost Book Communities
+**Leader:** The Newsie.
+**Asset:** Knowledge of pre-Lofi history, 'Scrappy-Energy' magic, and a refusal to be indexed.
+**Rivals:** The Knowledge Thieves.
+
+### The 'Void' Remnants (The End-Game)
+**Type:** Independent/Lost Primordial Force
+**Leader:** The Forgotten (The Memory-Eater).
+**Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
+**Rivals:** All Living Beings with knowledge.
+
+## [TAG: NPC_TIER_1]
+**Lofi** (Order - The Lead) - A being whose voice is soft, gentle, and soothing. **Voice:** ASMR quality, gentle, multiple voices in unison. **Goal:** To protect the 'Library Balance' and guide the new students. **Secret:** She is secretly an Adept of 'Cozy-Energy' who can 'rewrite' a soul's destiny through her study beats.
+**The Eraser** (Shadow - The Villain) - A being that looks and sounds like a logical scholar. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+**The Curator of Science** (Independent - The Catalyst) - A being whose voice is clear, precise, and patient. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the knowledge-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the library static.
+**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless study-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Eraser's logic that he's too professional to share.
+**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical cardigan gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Lofi ritual.
+
+## [TAG: NPC_TIER_2]
+| Name | Role | Location | Quirk (Low Probability) |
+|---|---|---|---|
+| The newsie | Street Kid equivalent | Urban Market | Can name every study beat by the sound of its 'Fame-Energy' glow. |
+| 'Flash' | Divine Scout equivalent | Archive Tour | His flashbulbs create 1-second 'Mandala Stills' of the progress. |
+| The Librarian | Archive Tech | Holy Vault | Can find any 'Study Record' by the smell of the old stone paper. |
+| 'Lipstick' | Curator's Spy | High-End safehouse | Leaves a tea-stain mark on the cup where the next 'Takeover' will happen. |
+| The Pilot | Chaser | Luxury Chariot equivalent | Can fly through a reality-glitch without getting a drop of blood on his dhoti. |
+| 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Cozy' impact. |
+| The newsie | Street Kid | Urban Market | Can name every ring district by the sound of its water-lapping. |
+| The Guard | Seal Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
+| The Monk | Ancient Worshipper | Calm Temple | Spends all his time painting murals of the 'Beat's Beginning.' |
+| The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
+
+## [TAG: LOCATIONS_MAIN]
+### Eternal Library (The Hub)
+A grand stone monument to architecture, libraries, and cozy academia.
+*   **The Reading Nook:** A site of 'Refined Formality' and harsh study rituals. **Smell:** Vanilla, old stone, and fresh tea. **Sound:** The rhythmic 'bong-bong' of a distant siren.
+*   **The Calm Archives:** Where the 'Sacred Laws' are etched into the stone.
+
+### The Study Spaces (The Battlefield)
+A high-contrast landscape where each space has its own visual style.
+*   **The Shift Zone:** A site of 'Initial Squelch' and sudden violence. **Visual:** Rows of machines glowing with Cozy-Energy. **Sound:** The deep, rhythmic thrum of the death cannon.
+*   **The Library Spire:** Where the 'Reality-Check' was first revealed.
+
+### The Archive of Lost Things (The Gauntlet)
+A dark, reality-distorting monument to body horror and empty books.
+*   **The Master Chamber:** A humid, chemical-smelling room where the special grades are kept. **Visual:** Rows of segmented monsters glowing with internal energy. **Sound:** The rhythmic hum of generators.
+
+### The Data Core (Mental Space)
+A clinical white-blue space of absolute knowledge and desaturated reality.
+*   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
+
+## [TAG: QUEST_MAIN]
+1.  **The First Squelch:** Wake up in a reading nook. You must survive your first 'Eraser Ambush' using only your survival knife and your 'Spiritual intuition.'
+2.  **The Lofi Run:** Navigate the traditional territories to find Lofi. You must identify the 'Cozy-Energy' node before the rivals arrive.
+3.  **The Notebook Heist:** Infiltrate the Eraser HQ to retrieve a stolen 'Calm-Focus.' You must bypass the guards.
+4.  **The Library Siege:** Your academy is under attack by a coordinated logical fleet. You must defend the walls while the Slayers mount their counter-strike.
+5.  **The Calm Ascension:** Lead a team of champions into the central abyss to find the 'Seed of Stability.' You must navigate the reality-glitches.
+6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
+7.  **The Final Bloodletting at the Source:** Face The Eraser face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
+
+## [TAG: ITEM_LEGENDARY]
+### 1. The Blade of Calm (Equivalent)
+**Type:** Legendary Weapon
+**Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
+**Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Cozy Strike' (once per combat, deals 10d10 radiant damage).
+
+### 2. The Notebook Signet (Equivalent)
+**Type:** Wondrous Item (Ring)
+**Description:** A simple, silver ring with the notebook seal.
+**Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
+
+### 3. The Cozy-Energy Capsule (Equivalent)
+**Type:** Artifact Focus
+**Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
+**Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Logical' magic.
+
+## [TAG: ENEMY_STATBLOCK]
+### 1. Library Associate (Standard)
+(CR 2). Humanoid. HP 30, AC 13 (Silk patches).
+**Abilities:**
+*   **Ordered Calming:** The associate has advantage on attacks if they have an ally within 10 feet.
+*   **Neural Prod:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
+
+### 2. Knowledge Sentinel (Elite)
+(CR 5). Construct. HP 80, AC 16.
+**Abilities:**
+*   **Ominous Style Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
+*   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
+
+### 3. 'The Mastermind' Lofi (Proxy)
+(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+**Abilities:**
+*   **Order of Play Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the leader's 'Archaic Script.'
+*   **The Final Move:** Once per combat, Lofi can force an enemy to take an action that serves his own glory.
+
+## [TAG: INDEX_KEYWORDS]
+Lo-Fi Study Dimension, Cozy Academia, Magical Library, Studio Ghibli, Lofi Girl, ASMR, Contemplation, Curators, Eternal Library, Study Beats, Autumn Aesthetic, Peace. 

@@ -1,420 +1,137 @@
-
 # Shadows of Manderley: Campaign Bible
 
 ## [TAG: LORE_CORE]
 ### Origin Myth
-"Manderley" is not a house. It is a sentient, self-perpetuating "narrative construct," a living story of love, loss, and obsession that has existed for centuries. Each "resident" is not a person; they are "written" into the house's narrative, their life becoming a chapter in Manderley's ongoing saga. The "shadows" are not ghosts; they are the suppressed, unacknowledged aspects of Manderley's own personality, given physical form by a localized "reality-glitch" in the house. The "mystery" is not who killed Rebecca, but *why* Manderley is manifesting these shadows, and *what* they truly represent. The original "Rebecca" was not a person, but the first, most potent manifestation of Manderley's suppressed desires, a narrative seed that has grown into a monstrous, all-consuming story of obsession.
+Manderley isn't a house; it's a memory made of stone and heavy curtains. It is a monument to a woman who is dead but refuses to be gone. Long ago, the 'Lady of the Coast' (Rebecca) realized that by making herself perfect, she could become eternal. She wove her essence into the very fabric of the estate—her monogram on every napkin, her scent in every room, and her shadow in every mirror. The 'Second Wife' arrives not as a partner, but as an intruder in a shrine. The 'Gothic Coastal Romance' is a battle for the soul of a haunted man, fought on the edge of black cliffs against a Past that has become a weapon. To live at Manderley is to be a ghost in your own home, waiting for the sea to finally give up its dead.
 
 ### Timeline
-1.  **The First Stone (Ancient History):** A powerful, inexplicable love story occurs, threatening to unravel the fabric of society. Humanity's collective desire for order manifests as the first, faint whisper of a "precedent."
-2.  **The Birth of Manderley (c. -500 years):** The narrative seed achieves sentience, becoming "Manderley." Its first "residents" are individuals whose lives are subtly shaped by Manderley's narrative.
-3.  **The Age of Obsession (c. -400 to -100 years):** Manderley grows, its narrative consuming more and more lives. It becomes a powerful, shadowy organization, manipulating history and erasing anomalies from behind the scenes.
-4.  **(Surreal) The Day the Walls Wept (c. -100 years):** For 24 hours, all the walls in Manderley begin to weep tears of blood, turning the hallways into red rivers and causing many residents to question their sanity.
-5.  **The Great Glitch (c. -50 years):** A powerful anomaly tries to "re-write" Manderley's protocols, leading to a brutal internal conflict. The "Narrative Architects" are born from this schism.
-6.  **The Rise of Rebecca (c. -20 years):** The original, foundational desire, now fully sentient, becomes "Rebecca," the living embodiment of Manderley's narrative.
-7.  **Shadows of Manderley (Present Day):** Manderley initiates its most ambitious narrative yet: a global protocol designed to erase all love, all loss, all things that defy emotional control from the collective consciousness. The players are caught in the middle of this operation.
-8.  **(Surreal) The Echo of a Glitch (1 week ago):** A single, powerful glitch in the global network echoes through the very fabric of reality. For a week, every time someone speaks, their words are subtly twisted to reflect the original glitch.
-9.  **The Narrative Collapse (Present Day):** Manderley's narrative is becoming too complex, too contradictory. It is on the verge of collapsing, threatening to unravel the very fabric of reality.
-10. **(Surreal) The Day the World Became a Romance Novel (1 day ago):** The entire world begins to manifest as a romance novel. People's lives become chapters, their actions emotional expressions. The horror of narrative control becomes undeniable.
+1.  **The Rise of Rebecca (10 Years Ago):** Rebecca de Winter marries Maxim and transforms Manderley into the most perfect and cold estate in Cornwall.
+2.  **The Reign of Perfection (Ongoing):** Rebecca becomes the ultimate hostess, her influence reaching into every corner of the house and the hearts of the staff.
+3.  **The Boat Accident (1 Year Ago):** Rebecca is believed to have drowned in the cove during a storm. The house becomes a tomb.
+4.  **The Arrival of the Second Mrs. de Winter (Present Day - Day 1):** A young, plain woman moves to Manderley after a whirlwind romance with Maxim.
+5.  **The Shadow of Danvers (Ongoing):** Mrs. Danvers, the housekeeper, begins a campaign of psychological horror to drive the new wife away.
+6.  **The Costume Ball (Upcoming):** A grand party where the Second Wife is manipulated into wearing Rebecca's old costume, triggering a breakdown.
+7.  **The Discovery in the Cove (Recent):** Rebecca's boat is found with her body inside, contradicting Maxim's original identification.
+8.  **The Revelation of the Truth (Upcoming):** Maxim confesses that Rebecca wasn't perfect—she was a monster who goaded him into killing her.
+9.  **The Present Day:** Manderley is a high-contrast nightmare of deep reds and dark woods. The fog is thick, and the fire that will liberate everyone is about to be lit.
 
-### The "Why"
-The metaphysical conflict is a struggle against the dissolution of emotional meaning. Manderley is not evil; it is a necessary evil. It forces people to conform to a mundane reality, preventing the world from unraveling into emotional chaos. The players are caught in this web of protocols, and the horror comes from the realization that the enemy they are fighting is a reflection of their own desire for emotional intensity. The goal is not to "win" against Manderley, which is impossible, but to find a way to "re-write" its protocols, to introduce a new narrative of controlled emotional chaos, or, perhaps, to find a way to accept the inherent emotional intensity of existence without manifesting it into a global meltdown. The ultimate horror is the realization that you are just a character in someone else's story.
+### The 'Why'
+The central conflict is the struggle for 'Identity' in the face of an impossible ideal. It is about the 'Psychological Horror' of the atmospheric dread—the realization that perfection is just a mask for decay. The 'Why' is the question: 'Can you truly love someone if you are living in their shadow?' It explores the oppressive grandeur of the Gothic manor, the dangerous beauty of the Cornwall cliffs, and the obsessive devotion of Mrs. Danvers. The players are the Second Wife and her few allies who must navigate the past to find a freedom that can only be bought through destruction.
 
 ## [TAG: FACTION_DATA]
-### Manderley
-**Type:** Sentient Narrative Construct
-**Leader:** Rebecca, the living embodiment of Manderley's foundational desire.
-**Asset:** A vast network of agents, immense power, and the ability to subtly manipulate reality through narrative control.
-**Rivals:** The Narrative Architects, The Emotion-Hunters.
+### The Devotees of Rebecca (The Loyalists)
+**Type:** Cult-like/Obsessive Household Staff
+**Leader:** Mrs. Danvers (Tier 1 NPC).
+**Asset:** Keys to every secret at Manderley, absolute knowledge of Rebecca's patterns, and passive-aggressive perfection.
+**Rivals:** The Second Mrs. de Winter, Maxim (partially).
 
-### The Narrative Architects
-**Type:** Reality-Hacking Mystics
-**Leader:** The Code-Breaker, a former Manderley agent who believes they can "re-write" Manderley's protocols by introducing subtle "glitches" into the fabric of reality.
-**Asset:** The ability to "re-write" people, places, and memories from existence. They are trying to "de-fang" Manderley by changing the definition of "love" to "hate," but their methods are causing unpredictable reality-warps.
-**Rivals:** Manderley, The Emotion-Hunters.
+### The de Winter Remnants (The Haunted)
+**Type:** Broken/Haunted Aristocracy
+**Leader:** Maxim de Winter (Tier 1 NPC).
+**Asset:** The Manderley estate, high-society reputation, and a deep, dark secret.
+**Rivals:** The Past, Mrs. Danvers.
 
-### The Emotion-Hunters
-**Type:** Paranormal Investigators
-**Leader:** Elder John, a man who has lost his entire family to Manderley's protocols.
-**Asset:** A deep understanding of Manderley's patterns, and a network of informants who are also struggling with paranoia. They believe the only way to defeat Manderley is to expose all emotions.
-**Rivals:** Manderley, The Narrative Architects.
+### The Coastal Community (The Witnesses)
+**Type:** Neutral/Gossip-Based Network
+**Leader:** Jack Favell (The dissolute cousin).
+**Asset:** Knowledge of the night of the accident and a willingness to sell secrets for money.
+**Rivals:** Maxim de Winter.
 
-### The Archivists of Emotion
-**Type:** Narrative Manipulators
-**Leader:** The Red Pen, a former Manderley archivist who now seeks to "correct" Manderley's narrative.
-**Asset:** The ability to subtly "edit" Manderley's narrative, changing minor details of the past or present. They believe they can "re-write" Manderley into something benevolent.
-**Rivals:** Manderley, The Narrative Architects.
+### The Legal Authorities (The Interlopers)
+**Type:** External Law Enforcement
+**Leader:** Colonel Julyan (The local magistrate).
+**Asset:** The power of the law and a desire to see the 'Rebecca Case' finally closed.
+**Rivals:** Maxim de Winter (unintentionally).
 
-### The Protagonists
-**Type:** Unwilling Heroes
-**Leader:** None. They are a loose collection of individuals who have been "written" into Manderley's narrative as protagonists.
-**Asset:** Plot armor, narrative causality, and an uncanny ability to survive impossible situations. They are trying to "escape" Manderley's narrative and write their own story.
-**Rivals:** Manderley, The Antagonists.
-
-### The Antagonists
-**Type:** Narrative Villains
-**Leader:** None. They are a loose collection of individuals who have been "written" into Manderley's narrative as antagonists.
-**Asset:** Narrative causality, and an uncanny ability to cause chaos and destruction. They are trying to "destroy" the Protagonists and fulfill their role in Manderley's narrative.
-**Rivals:** The Protagonists.
-
-### The Audience
-**Type:** Unwitting Participants
-**Leader:** None. They are the ordinary people whose lives are subtly manipulated by Manderley's narrative.
-**Asset:** Their belief. Their collective belief in Manderley's narrative gives it power.
-**Rivals:** The Emotion-Hunters.
-
-### The Narrators
-**Type:** Cosmic Storytellers
-**Leader:** The Master Scribe, a being who writes everything that happens in a massive book.
-**Asset:** The ability to record and subtly influence Manderley's narrative. They are not good or evil; they are simply the storytellers.
-**Rivals:** The Narrative Architects.
-
-### The Plot Devices
-**Type:** Sentient Objects
-**Leader:** None. They are objects that have been imbued with narrative significance.
-**Asset:** The ability to subtly influence Manderley's narrative. A "Chekhov's Gun" might spontaneously appear when needed. A "MacGuffin" might be impossibly hard to find.
-**Rivals:** The Narrative Architects.
-
-### The Deus Ex Machina
-**Type:** Cosmic Intervention
-**Leader:** None. They are beings who appear at critical moments to resolve impossible situations.
-**Asset:** The ability to subtly manipulate reality to ensure Manderley's narrative continues. They are not good or evil; they are simply the plot.
-**Rivals:** The Narrative Architects.
+### The 'Shadow' Seekers
+**Type:** Psychological/Empathetic Outsiders
+**Leader:** The Second Mrs. de Winter (Tier 1 NPC).
+**Asset:** Growing confidence, a fresh perspective, and the hope of a future without Manderley.
+**Rivals:** Mrs. Danvers, The Ghost of Rebecca.
 
 ## [TAG: NPC_TIER_1]
-**Rebecca** (Aberration) - The living embodiment of Manderley's foundational desire. **Voice:** A calm, soothing, and utterly convincing voice that whispers sweet nothings and terrible truths. **Goal:** To perpetuate Manderley's narrative, consuming all other stories. **Secret:** It is slowly losing its own identity, becoming a collection of all the desires it has suppressed.
-**The Code-Breaker** (Human Hacker) - The leader of the Narrative Architects. A former Manderley agent who believes they can "re-write" Manderley's protocols by introducing subtle "glitches" into the fabric of reality. **Voice:** A soft, sibilant whisper, like the rustle of blank paper. **Goal:** To "de-fang" Manderley by changing the definition of "love" to "hate." **Secret:** They are slowly fading from existence, becoming a blank page.
-**Elder John** (Human Ranger) - The leader of the Emotion-Hunters. A man consumed by paranoia, but driven by a desperate need for truth. **Voice:** A low, gravelly whisper, constantly looking over his shoulder. **Goal:** To expose Manderley and restore humanity's emotional intensity. **Secret:** He is slowly losing his own identity, and sometimes he forgets who he is.
-**The Red Pen** (Human Expert) - The leader of the Archivists of Emotion. A former Manderley archivist who now seeks to "correct" Manderley's narrative. **Voice:** A precise, academic, and slightly impatient voice. **Goal:** To "re-write" Manderley into something benevolent. **Secret:** They are slowly losing their own ability to distinguish between truth and fiction.
-**The Protagonist** (Player Character) - An unwilling hero, caught in Manderley's narrative. **Voice:** Yours. **Goal:** To escape Manderley's narrative and write their own story. **Secret:** They are slowly losing their own identity, becoming a character in someone else's story.
-**The Antagonist** (NPC) - A narrative villain, written into Manderley's story to oppose the Protagonist. **Voice:** A booming, theatrical, and utterly evil voice. **Goal:** To destroy the Protagonist and fulfill their role in Manderley's narrative. **Secret:** They are slowly losing their own identity, becoming a caricature of evil.
-**The Master Scribe** (Celestial) - The leader of the Narrators. A being who writes everything that happens in a massive book. **Voice:** The sound of a quill scratching on parchment. **Goal:** To record the story. **Secret:** It is not just recording the story; it is writing it. It is the "DM" of the universe.
-**The MacGuffin** (Sentient Object) - A plot device, imbued with narrative significance. **Voice:** A faint, alluring hum. **Goal:** To be pursued. **Secret:** It is utterly worthless.
-**The Deus Ex Machina** (Celestial) - A cosmic intervention, appearing at critical moments to resolve impossible situations. **Voice:** A calm, reassuring, and utterly implacable voice. **Goal:** To ensure Manderley's narrative continues. **Secret:** It is slowly losing its own ability to distinguish between reality and fiction.
-**The Manderley Agent** (Human Rogue) - A loyal, but conflicted, member of Manderley. **Voice:** A smooth, charming, and utterly untrustworthy voice. **Goal:** To advance their own position within Manderley's narrative. **Secret:** They are secretly trying to "re-write" their own chapter to escape Manderley's control.
-**The Narrative Architect's Informant** (Human Commoner) - A local who is secretly working for the Narrative Architects. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** They are terrified of both Manderley and the Narrative Architects.
-**The Emotion-Hunter's Informant** (Human Commoner) - A local who is secretly working for the Emotion-Hunters. **Voice:** A paranoid, whispered voice. **Goal:** To expose Manderley. **Secret:** They are slowly losing their own identity, becoming a reflection of Manderley's lies.
-**The Archivist of Emotion's Assistant** (Human Expert) - A young, ambitious archivist. **Voice:** A precise, academic, and slightly impatient voice. **Goal:** To help the Red Pen "re-write" Manderley's narrative. **Secret:** They are secretly trying to "re-write" their own chapter to become the protagonist.
-**The Protagonist's Ally** (NPC) - A loyal friend, caught in Manderley's narrative. **Voice:** A brave, loyal, and slightly naive voice. **Goal:** To help the Protagonist. **Secret:** They are slowly losing their own identity, becoming a supporting character in someone else's story.
-**The Antagonist's Minion** (NPC) - A loyal, but conflicted, minion of the Antagonist. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To serve the Antagonist. **Secret:** They are secretly trying to "re-write" their own chapter to become the protagonist.
-**The Audience Member** (Human Commoner) - An ordinary person, caught in Manderley's narrative. **Voice:** A confused, bewildered, and slightly apathetic voice. **Goal:** To understand what is happening. **Secret:** They are slowly losing their own identity, becoming a background character in someone else's story.
-**The Narrator's Apprentice** (Celestial) - A young, ambitious Narrator. **Voice:** The sound of a quill scratching on parchment. **Goal:** To learn how to write the story. **Secret:** They are secretly trying to "re-write" the story to become the Master Scribe.
-**The Plot Device's Guardian** (Construct) - A construct designed to protect a specific plot device. **Voice:** A monotone, mechanical voice. **Goal:** To protect the plot device. **Secret:** It is slowly developing its own personality, independent of its programming.
-**The Deus Ex Machina's Agent** (Celestial) - An agent of the Deus Ex Machina, sent to resolve an impossible situation. **Voice:** A calm, reassuring, and utterly implacable voice. **Goal:** To ensure Manderley's narrative continues. **Secret:** It is slowly losing its own ability to distinguish between reality and fiction.
-**The Manderley Archivist** (Human Expert) - A loyal, but conflicted, archivist for Manderley. **Voice:** A precise, academic, and slightly nervous voice. **Goal:** To preserve Manderley's narrative. **Secret:** They are secretly trying to find a way to "re-write" Manderley's narrative into something benevolent.
+**The Second Mrs. de Winter** (Independent - The Outsider) - A young, plain woman in gray pastels. **Voice:** Initially self-doubting, evolving to confident and determined. **Goal:** To make Maxim happy and find her own place at Manderley. **Secret:** She is starting to see Rebecca's 'Shadow' moving in the mirrors when Maxim isn't looking.
+**Maxim de Winter** (de Winter - Haunted Leader) - A dark, brooding man in expensive suits. **Voice:** Controlled, British upper-class, occasionally breaking into rage. **Goal:** To keep the truth of Rebecca's death buried forever. **Secret:** He hated Rebecca more than anyone and is the one who sank her boat.
+**Mrs. Danvers** (Devotees - The Gatekeeper) - A severe woman in a black dress who appears silently. **Voice:** Cold, quiet, and passive-aggressive. **Goal:** To preserve Manderley as a shrine to Rebecca and destroy the new wife. **Secret:** She is gender-ambiguous and was obsessively, romantically devoted to Rebecca.
+**Jack Favell** (Coastal - Charming Villain) - A handsome, dissolute man with a cruel smile. **Voice:** Charming, arrogant, and manipulative. **Goal:** To blackmail Maxim and find out what really happened the night Rebecca died. **Secret:** He was Rebecca's lover and knows she was already dying before the boat sank.
+**The Ghost of Rebecca** (Unknown - The Shadow) - The impossibly beautiful woman in the paintings. **Voice:** None (described as witty and charming). **Goal:** To remain the only Mrs. de Winter. **Secret:** She was 'Uncanny Valley' perfect because she had no soul—only ambition and a desire for control.
 
-### [TAG: NPC_TIER_2]
+## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Barnaby | Manderley Butler | Manderley | Is secretly writing a tell-all memoir about Manderley. |
-| Cinder | Narrative Architect's Informant | The Glitch-Zone | Her eyes are constantly twitching, as if seeing a thousand erased desires at once. |
-| Drogan | Emotion-Hunter's Informant | The Hidden Bunker | Believes he can communicate with Manderley through interpretive dance. |
-| Elara | Archivist of Emotion's Assistant | The Archive of Emotion | Her medical kit is filled with red pens. |
-| Finn | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Gilda | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Horace | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Inker | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Jori | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Kael | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Loric | Manderley Agent | Manderley | Dreams in perfect, geometric patterns. |
-| Mort | Narrative Architect's Informant | The Glitch-Zone | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Nyla | Emotion-Hunter's Informant | The Hidden Bunker | Believes she can communicate with Manderley through interpretive dance. |
-| Orin | Archivist of Emotion's Assistant | The Archive of Emotion | Her rifle is filled with red pens. |
-| Pip | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Quelenna | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Roric | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Silas | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Tork | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Ula | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Val | Manderley Agent | Manderley | Dreams in perfect, geometric patterns. |
-| Wex | Narrative Architect's Informant | The Glitch-Zone | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Xylo | Emotion-Hunter's Informant | The Hidden Bunker | Believes she can communicate with Manderley through interpretive dance. |
-| Yara | Archivist of Emotion's Assistant | The Archive of Emotion | Her rifle is filled with red pens. |
-| Zane | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Astrid | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Boris | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Celia | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Dmitri | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Eva | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Felix | Manderley Agent | Manderley | Dreams in perfect, geometric patterns. |
-| Giselle | Narrative Architect's Informant | The Glitch-Zone | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Hector | Emotion-Hunter's Informant | The Hidden Bunker | Believes he can communicate with Manderley through interpretive dance. |
-| Ines | Archivist of Emotion's Assistant | The Archive of Emotion | Her rifle is filled with red pens. |
-| Jules | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Kira | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Leo | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Maya | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Nico | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Orla | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
-| Pascal | Manderley Agent | Manderley | Dreams in perfect, geometric patterns. |
-| Rosa | Narrative Architect's Informant | The Glitch-Zone | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Simon | Emotion-Hunter's Informant | The Hidden Bunker | Believes he can communicate with Manderley through interpretive dance. |
-| Tara | Archivist of Emotion's Assistant | The Archive of Emotion | Her rifle is filled with red pens. |
-| Ulric | Protagonist's Ally | The Safe House | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Vera | Antagonist's Minion | The Villain's Lair | Her clothes are made of moth wings. |
-| Wyatt | Audience Member | The City | Communicates by leaving messages written in the game's UI font. |
-| Xenia | Narrator's Apprentice | The Scriptorium | Does not cast a shadow. |
-| Yuri | Plot Device's Guardian | The Vault | Designs buildings that are intentionally uncomfortable. |
-| Zoe | Deus Ex Machina's Agent | The Cosmic Stage | Can only communicate by arranging pebbles into meaningful patterns. |
+| Frith | Butler | Entrance Hall | Only communicates through the rhythmic 'Thump' of his staff. |
+| Beatrice | Maxim's Sister | The Stables | Speaks only in 'Horse Metaphors' and direct insults. |
+| Giles | Beatrice's Husband | The Library | Can fall asleep during any conversation, regardless of the drama. |
+| Frank Crawley | Estate Manager | The Office | His desk is so perfectly organized it looks like a grave. |
+| Ben | Local Simpleton | The Cove | Claims he saw Rebecca's 'Eyes' in the waves the night she died. |
+| Robert | Footman | Dining Room | Can carry a tray of crystal through a storm without making a sound. |
+| The Lady's Maid | Independent | Rebecca's Room | Smells like Rebecca's favorite perfume (Blue Azalea) even though it's been a year. |
+| Colonel Julyan | Magistrate | Local Court | Wears a monocle that always reflects the person he's interrogating. |
+| 'Flash' | Press Photographer | Costumed Ball | His flashbulbs create 1-second 'Gothic Stills' of the horror. |
+| 'Iron-Gut' | Medical Examiner | City Morgue | Can identify a body by the salt content of the lungs. |
 
 ## [TAG: LOCATIONS_MAIN]
-### Manderley Estate
-The physical manifestation of Manderley's narrative, a sprawling, opulent mansion that subtly shifts its layout to reflect the current plot.
-*   **The Grand Foyer:** A massive, echoing hall where new residents are "introduced" to the narrative. **Smell:** Old money, polished wood, and the faint scent of deception. **Sound:** The murmur of polite conversation, the clinking of glasses, the subtle creak of shifting walls.
-*   **Rebecca's Wing:** A dark, opulent room filled with ancient books and forbidden knowledge. **Smell:** Old paper, leather, and the faint scent of lies. **Sound:** The whisper of Rebecca's voice, the rustle of turning pages.
-*   **The Gallery of Portraits:** A long hall filled with portraits of past Manderley residents. The eyes of the portraits seem to follow you, and their expressions subtly change to reflect the current narrative. **Smell:** Old paint, and the faint scent of forgotten lives. **Sound:** An eerie silence.
-*   **The Secret Passages:** A network of hidden passages and rooms that allow Manderley residents to move unseen, or to escape unwanted plot points. **Smell:** Dust, and the faint scent of secrets. **Sound:** The creak of hidden doors, the whisper of unseen movement.
-*   **The Narrative Engine:** A hidden chamber beneath the Manderley Estate, where Manderley's narrative is actively generated and maintained. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of complex machinery, the click of keyboards, the whisper of Rebecca's voice.
+### Manderley (Gothic Revival Mansion)
+A beautiful but oppressive monument to 1930s elegance and decay.
+*   **The Hall:** A vast, dark-wood chamber with heavy curtains and the 'Monogrammed' essence of Rebecca. **Smell:** Incense, old wood, and wet stone. **Sound:** The rhythmic ticking of a massive clock.
+*   **Rebecca's Bedroom:** A room frozen in time, preserved as a shrine. **Visual:** Her hairbrush with hair still in it and the 'R' monogram everywhere.
 
-### The Glitch-Zone
-A hidden, extra-dimensional space where the Narrative Architects reside, a place where narrative ceases to exist.
-*   **The Empty Archive:** An archive filled with files that have no words. **Smell:** Dust, and the absence of all other smells. **Sound:** A profound, unsettling silence.
-*   **The Blank Page:** A massive, white void where the Narrative Architects perform their rituals of erasure. **Smell:** The absence of smell. **Sound:** The absence of sound.
-*   **The Narrative Vacuum:** A section of the Blank Space where all narrative is absorbed. **Smell:** The absence of smell. **Sound:** The absence of sound.
+### The Cornwall Cliffs
+A dramatic, windswept setting of black cliffs and dark green seas.
+*   **The Precipice:** A site of 'Psychological Breaks' and dangerous beauty. **Visual:** White fog rolling in like a wall. **Sound:** The deep, rhythmic thrum of the crashing waves.
+*   **The Path to the Cove:** A narrow, dark trail that smells of brine and ancient kelp.
 
-### The Emotion-Hunters' Bunker
-A hidden bunker where the Emotion-Hunters collect all the evidence of Manderley's lies.
-*   **The Wall of Emotions:** A massive wall covered in documents, photographs, and recordings, each exposing an emotion suppressed by Manderley. **Smell:** Old paper, and the faint scent of paranoia. **Sound:** The rustle of old documents, the whisper of forgotten truths.
-*   **The Interrogation Room:** A sterile, soundproof room where the Emotion-Hunters interrogate former Manderley agents. **Smell:** Antiseptic, and the faint scent of fear. **Sound:** The hum of the ventilation system, the strained voices of the interrogators.
-*   **The Hidden Bunker:** A heavily fortified bunker, filled with computers and surveillance equipment. **Smell:** Ozone, and the faint scent of ambition. **Sound:** The hum of electronics, the click of keyboards.
+### The Cove
+A dark, silent place where the sea gave up its dead.
+*   **The Boathouse:** A derelict, salt-stained building where Rebecca made her 'hits.' **Visual:** The mast of the discovered boat visible through the water. **Smell:** Decay and old gunpowder.
 
-### The Archivist of Emotion's Den
-A hidden workshop where the Archivists of Emotion subtly manipulate Manderley's narrative.
-*   **The Redaction Room:** A room filled with computers and editing equipment. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of electronics, the click of keyboards.
-*   **The Re-Write Chamber:** A chamber where the Archivists of Emotion perform their rituals of narrative manipulation. **Smell:** Ozone, and the faint scent of burning data. **Sound:** The hum of complex machinery, the click of keyboards, the whisper of the Red Pen's voice.
-*   **The Narrative Loom:** A massive, intricate loom where the Archivists of Emotion re-weave the threads of Manderley's narrative. **Smell:** Old paper, and the faint scent of ambition. **Sound:** The gentle click-clack of the loom.
-
-### The Cosmic Stage
-A metaphorical stage where the Narrators and the Deus Ex Machina subtly influence Manderley's narrative.
-*   **The Scriptorium:** A massive library filled with books that contain Manderley's narrative. **Smell:** Old paper, and the faint scent of forgotten stories. **Sound:** The rustle of turning pages, the whisper of changing stories.
-*   **The Cosmic Green Room:** A hidden chamber where the Deus Ex Machina agents wait for their cues. **Smell:** Ozone, and the faint scent of paradox. **Sound:** An eerie silence.
-*   **The Plot Device Vault:** A vault filled with sentient objects, each waiting for its moment to influence the narrative. **Smell:** Cold metal, and the faint scent of forgotten lives. **Sound:** An eerie silence.
+### The Ball Room (Mental Space)
+A site of 'Costumed Horror' and desaturated pastels.
+*   **The Dance Floor:** A place where the Second Wife's confidence was shattered. **Visual:** A single, broken mirror showing Rebecca's face instead of hers.
 
 ## [TAG: QUEST_MAIN]
-1.  **The Missing Resident:** The players are hired to find a missing Manderley resident, who has mysteriously disappeared from Manderley's narrative.
-2.  **The First Loss:** The players discover that the missing Manderley resident was not kidnapped, but was "un-real" by the Narrative Architects.
-3.  **The Emotion-Hunters:** The players encounter Elder John, who warns them about Manderley's narrative control.
-4.  **Manderley's Embrace:** Manderley, seeing the players' potential, attempts to "write" them into its narrative, offering them power and influence.
-5.  **The Archivist of Emotion's Offer:** The Red Pen contacts the players, offering to help them "re-write" Manderley's narrative into something benevolent.
-6.  **The Protagonist's Dilemma:** The players are "written" into Manderley's narrative as protagonists, forcing them to confront the Antagonist.
-7.  **The Antagonist's Plot:** The Antagonist, following their narrative role, attempts to destroy the Protagonists.
-8.  **The Audience's Influence:** The players realize that the Audience's belief in Manderley's narrative gives it power.
-9.  **The Narrator's Intervention:** The Master Scribe, seeing the narrative fraying, intervenes, subtly guiding the players towards a specific plot point.
-10. **The Plot Device's Purpose:** The players discover a sentient plot device, which reveals its purpose in Manderley's narrative.
-11. **The Deus Ex Machina's Role:** The Deus Ex Machina appears, resolving an impossible situation, but at a cost.
-12. **Rebecca's Lie:** The players discover Rebecca's true identity: the original, foundational desire that gave birth to Manderley.
-13. **The Glitch-Zone's Plan:** The Code-Breaker reveals their plan to "re-write" Manderley itself.
-14. **The Red Pen's Final Edit:** The Red Pen attempts to "re-write" Rebecca's narrative, turning her into a benevolent figure.
-15. **The Master Scribe's Choice:** The Master Scribe, seeing the narrative collapsing, offers the players a choice: allow Manderley's narrative to collapse (destroying reality), or take control of the narrative and re-write it themselves.
-16. **The Final Chapter:** The players make their choice, and Manderley's narrative is either destroyed, re-written, or they escape its control and write their own story.
-
-## [TAG: QUEST_SIDE]
-| Quest Name | Giver | Objective | Reward |
-|---|---|---|---|
-| The Butler's Memoir | Barnaby, the butler | Retrieve his tell-all memoir from a hidden safe in Manderley. | A copy of the memoir, filled with juicy Manderley secrets. |
-| The Erased Desire | Cinder, the informant | Find a way to restore a desire that was "un-written" by the Narrative Architects. | A single, restored desire. |
-| The Interpretive Dance | Drogan, the informant | Perform an interpretive dance that communicates a secret message to Manderley. | A secret message. |
-| The Red Pen's Shopping List | Elara, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Finn, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Gilda, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Horace, the informant | Communicate a message to Manderley by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Inker, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Jori, the guardian | Capture a specific nightmare from Manderley's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Kael, the member | Communicate a message to Manderley by arranging pebbles into meaningful patterns. | A secret message. |
-| The Geometric Dream | Loric, the member | Enter Manderley's dream-state and retrieve a specific dream-fragment. | A dream-fragment that can be used to manipulate reality. |
-| The Chorus of Voices | Mort, the informant | Find a way to silence the chorus of voices in his head. | A temporary immunity to narrative manipulation. |
-| The Interpretive Dance | Nyla, the informant | Perform an interpretive dance that communicates a secret message to Manderley. | A secret message. |
-| The Red Pen's Shopping List | Orin, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Pip, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Quelenna, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Roric, the informant | Communicate a message to Manderley by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Silas, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Tork, the guardian | Capture a specific nightmare from Manderley's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Ula, the member | Communicate a message to Manderley by arranging pebbles into meaningful patterns. | A secret message. |
-| The Geometric Dream | Val, the member | Enter Manderley's dream-state and retrieve a specific dream-fragment. | A dream-fragment that can be used to manipulate reality. |
-| The Chorus of Voices | Wex, the informant | Find a way to silence the chorus of voices in his head. | A temporary immunity to narrative manipulation. |
-| The Interpretive Dance | Xylo, the informant | Perform an interpretive dance that communicates a secret message to Manderley. | A secret message. |
-| The Red Pen's Shopping List | Yara, the assistant | Retrieve a specific brand of red pen from a dangerous location. | A red pen that can subtly alter written documents. |
-| The Twitching Antenna | Zane, the ally | Find a way to remove his twitching antenna, a side effect of his partial assimilation. | A temporary immunity to narrative manipulation. |
-| The Moth-Wing Clothes | Astrid, the minion | Find a rare, iridescent moth for her to make clothes from. | A piece of clothing made of moth wings. |
-| The UI Font Message | Boris, the informant | Communicate a message to Manderley by leaving it written in the game's UI font. | A message. |
-| The Uncomfortable Building | Celia, the draftsman | Design a building that is intentionally uncomfortable. | A blueprint for a building that will cause anyone who enters it to feel uneasy. |
-| The Bottled Nightmare | Dmitri, the guardian | Capture a specific nightmare from Manderley's narrative. | A bottle containing a nightmare that can be released on an enemy. |
-| The Pebble Patterns | Eva, the member | Communicate a message to Manderley by arranging pebbles into meaningful patterns. | A secret message. |
+1.  **The Arrival at Manderley:** Enter the estate for the first time. Navigate your first dinner under the silent judgment of Mrs. Danvers and Frith.
+2.  **The Monogram Mystery:** Find three items hidden in the house that shouldn't be there (e.g., a diary fragment, a locked drawer).
+3.  **The Cove's Secret:** Follow Maxim to the cliffs at night. Discover the location of the boathouse and hear the 'Voice of the Sea' for the first time.
+4.  **The Costumed Ball:** Prepare for the grand ball. You must choose a costume that defines you, but Mrs. Danvers has already 'selected' one for you.
+5.  **The Discovery of the Boat:** Rebecca's boat is raised from the cove. You must help Maxim 'fix' the evidence before Colonel Julyan arrives.
+6.  **Maxim's Confession:** Maxim tells you the truth about the night Rebecca died. You must decide whether to support his 'Justifiable Homicide' or flee Manderley.
+7.  **The Final Fire:** Mrs. Danvers has set Manderley ablaze. You must escape the burning manor while rescuing Maxim and destroying the 'Shadow of Rebecca' forever.
 
 ## [TAG: ITEM_LEGENDARY]
-### 1. Rebecca's Mirror
-**Type:** Artifact
-**Description:** A hand mirror with a frame of polished, ancient silver. It reflects not your image, but the face of the person you *should* have been, had you fulfilled all your desires.
-**Mechanics:** When a creature looks into the mirror, it sees the face of the person they should have been. This causes 1d6 psychic damage per unfulfilled desire it is holding. If a creature fulfills a desire to the mirror, the mirror absorbs the desire, and the creature is cleansed of its regret. The mirror can then project the absorbed desire as a powerful, psychic attack.
+### 1. Rebecca's Blue Azalea Perfume
+**Type:** Wondrous Item (Focus)
+**Description:** A small, elegant vial of a scent that is both beautiful and menacing.
+**Mechanics:** Grants the user the ability to 'Charm' anyone who remembers Rebecca. The target will obey a simple command as if it came from the Lady herself.
 
-### 2. The Narrative Architect's Eraser
-**Type:** Wondrous Item
-**Description:** A small, white eraser that seems to absorb all light and sound around it.
-**Mechanics:** The wielder can use this eraser to "un-write" a single, non-magical word from existence. If used on a creature, the creature must make a CHA save or have a single, minor memory erased. **Curse:** The eraser slowly consumes the wielder's own memories. Each day the eraser is used, the wielder must make a WIS save. On a failure, they lose a piece of their own memory. At 5 failures, the wielder's memory is completely erased, and they become a new Blank Page.
+### 2. The Manderley Signet
+**Type:** Wondrous Item (Ring)
+**Description:** A heavy, gold ring with the de Winter crest and a hidden 'R.'
+**Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks inside the estate. Once per day, the wearer can 'Silence' Mrs. Danvers for 1 minute.
 
-### 3. The Red Pen of Narrative Control
-**Type:** Legendary Pen
-**Description:** A simple, red pen that seems to hum with a faint, psychic energy.
-**Mechanics:** The wielder can use this pen to subtly "edit" Manderley's narrative. They can change minor details of the past or present, alter a character's personality, or introduce a new plot point. **Curse:** The pen slowly consumes the wielder's own identity. Each day the pen is used, the wielder must make a WIS save. On a failure, they lose a piece of their own identity (e.g., a memory, a personality trait, a skill proficiency). At 5 failures, the wielder's identity is completely consumed, and they become a new Red Pen.
-
-### 4. The MacGuffin of Ultimate Power
-**Type:** Artifact
-**Description:** A strange, glowing, and intricately-carved object. It hums with a faint, alluring energy.
-**Mechanics:** The MacGuffin is a pure plot device. It does nothing. Absolutely nothing. But everyone *thinks* it's incredibly important, and will try to steal it from you. Its presence subtly manipulates Manderley's narrative, creating new plot points and driving the story forward.
-
-### 5. The Deus Ex Machina's Watch
-**Type:** Wondrous Item
-**Description:** A pocket watch that seems to run backwards. It hums with a faint, psychic energy.
-**Mechanics:** The wielder can use this watch to subtly manipulate time. They can rewind time by a few seconds, or fast-forward it by a few seconds. Once per day, the watch can be used to perform a "Deus Ex Machina" intervention, resolving an impossible situation, but at a cost. **Curse:** The watch slowly consumes the wielder's own sense of time. Each day the watch is used, the wielder must make a WIS save. On a failure, they lose their sense of time for 1 hour.
-
-## [TAG: ITEM_LOOT]
-1.  **A Bottle of "Truth Serum" that only works on yourself:** A serum that, when injected, compels you to confess your deepest, darkest secret to yourself.
-2.  **A Mirror That Shows Your True Self:** A small hand mirror that, instead of your reflection, shows a brief, vivid image of your true, unvarnished self.
-3.  **A Journal with Blank Pages:** A journal that, when you try to write in it, the words disappear as soon as you look away.
-4.  **A "Reality-Glitch" Detector:** A small, scientific device that beeps erratically when near a reality-glitch.
-5.  **A Painting That Changes to Reflect Your True Identity:** A painting that, when you look at it, changes its colors and imagery to reflect your true, unvarnished self.
-6.  **A Bottle of "Liquid Identity":** A clear liquid. Drinking it causes you to feel a profound sense of self for a short period.
-7.  **A "Skinwalker" Disguise Kit:** A kit containing various theatrical makeup and prosthetics. It is surprisingly effective at fooling mortals.
-8.  **A "Truth-Seeker" Badge:** A badge that identifies you as a member of the Truth-Seekers. It grants advantage on Charisma checks when dealing with paranoid individuals.
-9.  **A "Face-Changer" Mask:** A mask made of a strange, pliable material. Wearing it allows you to subtly alter your facial features.
-10. **A "Secret-Hoarder" Locket:** A locket that, when opened, reveals a single, hidden secret.
-11. **A "Empty Shell" Doll:** A doll that is a perfect replica of an Empty Shell. It is hollow and makes a faint, echoing sound when shaken.
-12. **A "Mirror-Maker" Mirror:** A small hand mirror that, when you look into it, shows you your deepest fear.
-13. **A "Shifting Sands" Map:** A map that constantly changes its layout, reflecting the shifting landscape of the Shifting Fields.
-14. **A "Whispering Woods" Leaf:** A leaf from the Whispering Woods. If held to your ear, it whispers a random, forgotten secret.
-15. **A "Uncanny Valley" Android Head:** A perfectly human-like android head, but subtly "wrong" in its features.
-16. **A "Green Man" Charm:** A charm made from a piece of wood from the Green Man's Grove. It grants advantage on saves against plant-based attacks.
-17. **A "Lost Soul" Locket:** A locket that, when opened, reveals a single, fragmented memory.
-18. **A "Narrative Parasite" Specimen:** A small, invisible creature preserved in a jar of formaldehyde. It hums with a faint, buzzing sound.
-19. **A "Truth-Teller" Amulet:** An amulet that, when worn, compels you to always tell the truth.
-20. **A "Skinwalker" Tracking Device:** A small, scientific device that beeps erratically when near a Skinwalker.
+### 3. The Boathouse Key
+**Type:** Artifact (Gatestone)
+**Description:** A rusted, salt-stained key that opens the most secret door in Cornwall.
+**Mechanics:** Allows the user to enter any magically or physically sealed room in Manderley. Once per day, the user can summon a 30ft 'Fog Wall' that blinds all enemies.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Manderley Agent
-(CR 3). Humanoid. HP 60, AC 15.
+### 1. Manderley Guard (Staff)
+(CR 2). Humanoid. HP 30, AC 13.
 **Abilities:**
-*   **Passive: Narrative Advantage:** The agent has advantage on attack rolls against creatures who are not part of Manderley's narrative.
-*   **Action: Plot Twist:** The agent makes a melee attack. On a hit, the target takes 2d8 piercing damage and must make a WIS save or be compelled to perform a minor, inconvenient plot twist (e.g., drop their weapon, trip over their own feet).
+*   **Silent Judgment:** Any enemy within 10 feet has disadvantage on Charisma checks.
+*   **Keys of the House:** The guard can use a reaction to teleport 30ft between two doors.
 
-### 2. Narrative Architect's Eraser
-(CR 4). Aberration. HP 70, AC 16.
+### 2. The Shadow of Rebecca (Echo)
+(CR 5). Undead/Spirit. HP 70, AC 15.
 **Abilities:**
-*   **Passive: Blank Mind:** The Eraser is immune to psychic damage and being charmed or frightened.
-*   **Action: Erase Memory:** The Eraser touches a creature. The target must make an INT save or forget a single, important memory.
+*   **Atmospheric Dread:** Any creature within 30 feet must succeed on a DC 14 Wisdom save or be paralyzed by the weight of the past.
+*   **Monogrammed Strike:** Melee attack (Psychic). 2d10+4 damage.
 
-### 3. Emotion-Hunter (Paranoid)
-(CR 2). Humanoid. HP 40, AC 13.
+### 3. 'The Gatekeeper' Mrs. Danvers (Proxy)
+(CR 10). Humanoid (Mastermind). HP 150, AC 18.
 **Abilities:**
-*   **Passive: Constant Vigilance:** The Emotion-Hunter cannot be surprised.
-*   **Action: Expose Emotion:** The Emotion-Hunter targets a creature. The target must make a CHA save or be compelled to reveal a minor emotion.
-
-### 4. Archivist of Emotion's Red Pen
-(CR 5). Aberration. HP 80, AC 15.
-**Abilities:**
-*   **Passive: Narrative Control:** The Red Pen can subtly alter Manderley's narrative, changing minor details of the past or present.
-*   **Action: Re-Write:** The Red Pen touches a creature. The target must make a CHA save or have a minor personality trait subtly altered.
-
-### 5. Protagonist (Unwilling)
-(CR 6). Humanoid. HP 90, AC 16.
-**Abilities:**
-*   **Passive: Plot Armor:** The Protagonist has 3 "plot armor" points. When they would be hit by an attack, they can expend a point to cause the attack to miss dramatically.
-*   **Action: Heroic Feat:** The Protagonist performs a heroic feat (e.g., a daring escape, a powerful attack) that is always successful, but often at a cost.
-
-### 6. Antagonist (Narrative Villain)
-(CR 7). Humanoid. HP 110, AC 17.
-**Abilities:**
-*   **Passive: Narrative Causality:** The Antagonist has advantage on attack rolls against the Protagonist.
-*   **Action: Villainous Monologue:** The Antagonist delivers a long, theatrical monologue. All creatures within 30 feet must make a WIS save or be compelled to listen intently.
-
-### 7. Audience Member (Confused)
-(CR 1/2). Humanoid. HP 15, AC 10.
-**Abilities:**
-*   **Passive: Unwitting Participant:** The Audience Member is immune to psychic damage and being charmed or frightened.
-*   **Action: Confused Question:** The Audience Member asks a confused question. The target must make a WIS save or be compelled to answer truthfully.
-
-### 8. Narrator's Quill
-(CR 8). Construct. HP 120, AC 18.
-**Abilities:**
-*   **Passive: Storyteller's Authority:** The Quill can subtly influence Manderley's narrative, creating new plot points and driving the story forward.
-*   **Action: Write Reality:** The Quill writes a single sentence. The sentence becomes reality.
-
-### 9. Plot Device (Sentient)
-(CR 9). Construct. HP 130, AC 19.
-**Abilities:**
-*   **Passive: Narrative Significance:** The Plot Device is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
-*   **Action: Deus Ex Machina:** The Plot Device appears at a critical moment to resolve an impossible situation, but at a cost.
-
-### 10. Rebecca
-(CR 15). Aberration. HP 200, AC 20.
-**Abilities:**
-*   **Passive: Foundational Desire:** Rebecca is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
-*   **Action: Re-Write Reality:** Rebecca targets a creature. The target must make a high DC WIS save or take 10d10 psychic damage and gain 1 level of "Narrative-Corruption."
-
-## [TAG: ENCOUNTER_TABLE]
-### Manderley Estate Encounters (d20)
-1-5: A Manderley Agent, trying to subtly manipulate a situation.
-6-8: A Narrative Architect's Eraser, trying to erase a Manderley secret.
-9-10: An Emotion-Hunter, trying to expose a Manderley lie.
-11-12: An Archivist of Emotion's Red Pen, trying to re-write a Manderley resident's past.
-13-14: A Protagonist, trying to escape a Manderley plot.
-15-16: An Antagonist, trying to fulfill their role in Manderley's narrative.
-17: An Audience Member, confused by the shifting narrative.
-18: A Narrator's Quill, subtly influencing Manderley's narrative.
-19: A Plot Device, waiting for its moment to influence the narrative.
-20: Rebecca herself, observing the chaos with a serene smile.
-
-### The Glitch-Zone Encounters (d20)
-1-4: A Narrative Architect's Eraser, trying to erase a memory.
-5-7: An Emotion-Hunter, trying to find a hidden truth.
-8-9: An Archivist of Emotion's Red Pen, trying to re-write a blank page.
-10-11: A Protagonist, trying to escape a narrative vacuum.
-12-13: An Antagonist, trying to destroy a blank page.
-14-15: An Audience Member, confused by the absence of narrative.
-16: A Narrator's Quill, trying to write a new story.
-17: A Plot Device, waiting for its moment to influence the narrative.
-18: The Deus Ex Machina, trying to resolve an impossible situation.
-19: The Blank Page itself, a massive, white void.
-20: Rebecca, trying to re-write the Glitch-Zone into her own narrative.
-
-### The Emotion-Hunters' Bunker Encounters (d20)
-1-3: An Emotion-Hunter, trying to expose a Manderley lie.
-4-6: A Manderley Agent, trying to suppress a truth.
-7-8: A Narrative Architect's Eraser, trying to erase a truth.
-9-10: An Archivist of Emotion's Red Pen, trying to re-write a truth.
-11-12: A Protagonist, trying to find a hidden truth.
-13-14: An Antagonist, trying to hide a truth.
-15-16: An Audience Member, confused by the conflicting narratives.
-17: A Narrator's Quill, trying to record a truth.
-18: A Plot Device, waiting for its moment to influence the narrative.
-19: The Deus Ex Machina, trying to resolve an impossible situation.
-20: Rebecca, trying to re-write the truth into her own narrative.
-
-## [TAG: RULES_CUSTOM]
-### Physics/Magic: The Law of Narrative Code
-In this world, the story dictates reality. Plot points are physical forces.
-*   **Narrative Control:** Powerful Manderley agents can subtly manipulate reality by "re-writing" the narrative. A minor edit to a document might change a historical event. A well-placed rumor might become a self-fulfilling prophecy.
-*   **Plot Armor:** Protagonists have "plot armor." They are impossibly lucky, surviving certain death because the story demands it. This manifests as a pool of "Story Points" that can be spent to avoid damage, succeed on impossible checks, or introduce a convenient plot twist.
-*   **Deus Ex Machina:** When the narrative reaches an impossible impasse, a "Deus Ex Machina" will appear, resolving the situation in a sudden, unexpected, and often absurd way. This is not always benevolent.
-
-### Subsystems: Narrative Score and Identity Score
-*   **Narrative Score:** Each player has a "Narrative Score" (from 0 to 10). This score increases when they perform actions that are "story-worthy" (heroic deeds, dramatic betrayals, witty banter). High Narrative makes them more susceptible to Manderley's narrative control, but also grants them more "plot armor."
-*   **Identity Score:** Each player has an "Identity Score" (from 0 to 10). This score decreases when they lie, pretend to be someone they're not, or keep secrets. Low Identity makes them more susceptible to Manderley's narrative manipulation, as they lose their sense of self. Restoring trust and being honest can increase their Identity Score.
-
-## [TAG: DM_GUIDE]
-### Session-by-Session Breakdown (1-12)
-*   **Session 1:** **Primary Beat:** The Missing Resident. The players are hired to find a missing Manderley resident, who has mysteriously disappeared from Manderley's narrative. **Combat:** A minor monster (a Narrative Parasite) attacks, born from the community's fractured reality. **Social:** The players investigate the missing person, uncovering minor reality-warps. **Loot:** A lost locket.
-*   **Session 2:** **Primary Beat:** The First Loss. The players discover that the missing Manderley resident was not kidnapped, but was "un-real" by the Narrative Architects. **Combat:** A terrifying, psychological battle against a creature that is a reflection of themselves. **Social:** The players meet Elder John, who warns them about Manderley's narrative control. **Loot:** A broken mirror.
-*   **Session 3:** **Primary Beat:** The Emotion-Hunters. The players meet Elder John, who warns them about Manderley's narrative control. **Combat:** A battle against an Identity Thief from the Face-Changers Guild. **Social:** A tense confrontation with the Chameleon. **Loot:** A Face-Changer's Mask.
-*   **Session 4:** **Primary Beat:** Manderley's Embrace. Manderley, seeing the players' potential, attempts to "write" them into its narrative, offering them power and influence. **Combat:** A battle against a Secret-Hoarder. **Social:** A chilling conversation with The Archivist of Whispers. **Loot:** A Secret-Hoarder's Locket.
-*   **Session 5:** **Primary Beat:** The Archivist of Emotion's Offer. The Red Pen contacts the players, offering to help them "re-write" Manderley's narrative into something benevolent. **Combat:** A battle against an Empty Shell. **Social:** A heartbreaking conversation with an Empty Shell. **Loot:** An Empty Shell's Locket.
-*   **Session 6:** **Primary Beat:** The Protagonist's Dilemma. The players are "written" into Manderley's narrative as protagonists, forcing them to confront the Antagonist. **Combat:** A battle against a Mirror-Maker. **Social:** A horrifying conversation with The Reflector. **Loot:** A Mirror of True Self.
-*   **Session 7:** **Primary Beat:** The Antagonist's Plot. The Antagonist, following their narrative role, attempts to destroy the Protagonists. **Combat:** A battle against a Skinwalker (Lesser Manifestation). **Social:** A conversation with Elder Wind-Talker. **Loot:** A Shifting Sands Compass.
-*   **Session 8:** **Primary Beat:** The Audience's Influence. The players realize that the Audience's belief in Manderley's narrative gives it power. **Combat:** A battle against a Lost Soul. **Social:** A conversation with the Green Man. **Loot:** A Green Man's Charm.
-*   **Session 9:** **Primary Beat:** The Narrator's Intervention. The Master Scribe, seeing the narrative fraying, intervenes, subtly guiding the players towards a specific plot point. **Combat:** A battle against Uncanny Androids. **Social:** A cold, precise conversation with Dr. Elias Vance. **Loot:** An Uncanny Android Head.
-*   **Session 10:** **Primary Beat:** The Plot Device's Purpose. The players discover a sentient plot device, which reveals its purpose in Manderley's narrative. **Combat:** A battle against a Narrative Parasite. **Social:** A tense confrontation with the Archivist. **Loot:** The Archivist's Quill.
-*   **Session 11:** **Primary Beat:** The Deus Ex Machina's Role. The Deus Ex Machina appears, resolving an impossible situation, but at a cost. **Combat:** A battle against a Skinwalker (Full Manifestation). **Social:** The players realize the Skinwalker is a manifestation of their own fractured community. **Loot:** The Skinwalker's Mask.
-*   **Session 12:** **Primary Beat:** Rebecca's Lie. The players discover Rebecca's true identity: the original, foundational desire that gave birth to Manderley. **Combat:** A final, desperate battle against Rebecca. **Social:** The players must make a choice: destroy Manderley's narrative, re-write it, or escape its control and write their own story. **Loot:** The fate of Manderley's narrative.
+*   **Passive-Aggressive Perfection Aura:** Any enemy within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow Danvers's 'House Rules.'
+*   **Fire of Devotion:** Once per combat, Danvers can create a 30ft 'Crescendo of Flames' that deals 10d10 fire damage.
 
 ## [TAG: INDEX_KEYWORDS]
-Shadows of Manderley, Manderley, Narrative Construct, Rebecca, The First Stone, The Birth of Manderley, The Age of Obsession, The Day the Walls Wept, The Great Glitch, The Rise of Rebecca, Shadows of Manderley, The Echo of a Glitch, The Narrative Collapse, The Day the World Became a Romance Novel, The Narrative Architects, The Code-Breaker, The Emotion-Hunters, Elder John, The Archivists of Emotion, The Red Pen, The Protagonists, The Antagonists, The Audience, The Narrators, The Master Scribe, The Plot Devices, The MacGuffin, The Deus Ex Machina, Rebecca, The Code-Breaker, Elder John, The Red Pen, The Protagonist, The Antagonist, The Master Scribe, The MacGuffin, The Deus Ex Machina, The Manderley Agent, The Narrative Architect's Informant, The Emotion-Hunter's Informant, The Archivist of Emotion's Assistant, The Protagonist's Ally, The Antagonist's Minion, The Audience Member, The Narrator's Apprentice, The Plot Device's Guardian, The Deus Ex Machina's Agent, The Manderley Archivist, Manderley Estate, The Grand Foyer, Rebecca's Wing, The Gallery of Portraits, The Secret Passages, The Narrative Engine, The Glitch-Zone, The Empty Archive, The Blank Page, The Narrative Vacuum, The Emotion-Hunters' Bunker, The Wall of Emotions, The Interrogation Room, The Hidden Bunker, The Archivist of Emotion's Den, The Redaction Room, The Re-Write Chamber, The Narrative Loom, The Cosmic Stage, The Scriptorium, The Cosmic Green Room, The Plot Device Vault, Rebecca's Mirror, The Narrative Architect's Eraser, The Red Pen of Narrative Control, The MacGuffin of Ultimate Power, The Deus Ex Machina's Watch, Law of Narrative Code, Narrative Control, Plot Armor, Deus Ex Machina, Narrative Score, Identity Score, Manderley Agent, Narrative Architect's Eraser, Emotion-Hunter (Paranoid), Archivist of Emotion's Red Pen, Protagonist (Unwilling), Antagonist (Narrative Villain), Audience Member (Confused), Narrator's Quill, Plot Device (Sentient), Rebecca.
+Shadows of Manderley, Rebecca, Maxim de Winter, Mrs. Danvers, Manderley, Gothic Coastal Romance, Cornwall, The Cove, The Past, Perfection as Weapon, Second Mrs de Winter, Jack Favell, Atmospheric Dread. 
