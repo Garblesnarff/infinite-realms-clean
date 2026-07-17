@@ -1,0 +1,70 @@
+# IP / Commercial-Safety Review
+
+Automated triage only; obtain legal/editorial review before commercial release.
+
+- **Arkham Investigations** — Lovecraft/DC ambiguity — `campaign-ideas/Completed/Horror/arkham-investigations`
+- **Beast Of Skull Isle** — King Kong — `campaign-ideas/Completed/Adventure/beast-of-skull-isle`
+- **Colossus Ascent** — D&D Planescape — `campaign-ideas/Completed/Fantasy/colossus-ascent`
+- **Combat Healer Chronicles** — The Stormlight Archive — `campaign-ideas/Completed/Fantasy/combat-healer-chronicles`
+- **Crouching Tiger Hidden Dragon** — Crouching Tiger, Hidden Dragon — `campaign-ideas/Completed/Fantasy/crouching-tiger-hidden-dragon`
+- **Crouching Tiger Hidden Dragon** — Crouching Tiger, Hidden Dragon — `campaign-ideas/Fantasy/crouching-tiger-hidden-dragon`
+- **Crystal Caverns Conspiracy** — The Stormlight Archive — `campaign-ideas/Completed/Fantasy/crystal-caverns-conspiracy`
+- **Curse Of The Black Pearl** — Pirates of the Caribbean — `campaign-ideas/Completed/Fantasy/curse-of-the-black-pearl`
+- **Curse Of The Black Pearl** — Pirates of the Caribbean — `campaign-ideas/Fantasy/curse-of-the-black-pearl`
+- **Death And Rebirth** — The Stormlight Archive — `campaign-ideas/Fantasy/death-and-rebirth`
+- **Deductions Of Baker Street** — Sherlock Holmes — `campaign-ideas/Completed/Mystery/deductions-of-baker-street`
+- **Echoes Of Lavos** — Chrono Trigger — `campaign-ideas/Completed/Fantasy/echoes-of-lavos`
+- **Echoes Of Lavos** — Chrono Trigger — `campaign-ideas/Fantasy/echoes-of-lavos`
+- **Edm Rave Dimension** — Firefly/Serenity — `campaign-ideas/Fantasy/edm-rave-dimension`
+- **Enter The Dragon** — Enter the Dragon — `campaign-ideas/Completed/Fantasy/enter-the-dragon`
+- **Enter The Dragon** — Enter the Dragon — `campaign-ideas/Fantasy/enter-the-dragon`
+- **Escape From Hell** — D&D Planescape — `campaign-ideas/Completed/Fantasy/escape-from-hell`
+- **Escape From Zagreus** — Hades — `campaign-ideas/Completed/Fantasy/escape-from-zagreus`
+- **Escape From Zagreus** — Hades — `campaign-ideas/Fantasy/escape-from-zagreus`
+- **Eternal Nations Reborn** — The Stormlight Archive — `campaign-ideas/Fantasy/eternal-nations-reborn`
+- **Factions Of Sigil** — D&D Planescape — `campaign-ideas/Completed/Fantasy/factions-of-sigil`
+- **Factions Of Sigil** — D&D Planescape — `campaign-ideas/Fantasy/factions-of-sigil`
+- **Geass Of Rebellion** — D&D Planescape — `campaign-ideas/Sci-Fi/geass-of-rebellion`
+- **Gravity Runners** — D&D Planescape — `campaign-ideas/Sci-Fi/gravity-runners`
+- **Hearts Of The Dragon And Tiger** — martial-arts film reference — `campaign-ideas/Completed/Fantasy/hearts-of-the-dragon-and-tiger`
+- **Hearts Of The Dragon And Tiger** — martial-arts film reference — `campaign-ideas/Fantasy/hearts-of-the-dragon-and-tiger`
+- **Ip Man Protector** — Ip Man — `campaign-ideas/Historical/ip-man-protector`
+- **Oath Of The Forgotten** — The Stormlight Archive — `campaign-ideas/Fantasy/oath-of-the-forgotten`
+- **Oaths Of The Radiant** — The Stormlight Archive — `campaign-ideas/Completed/Fantasy/oaths-of-the-radiant`
+- **Oaths Of The Radiant** — The Stormlight Archive — `campaign-ideas/Fantasy/oaths-of-the-radiant`
+- **Ong Bak Sacred Guardian** — Ong-Bak — `campaign-ideas/Completed/Adventure/ong-bak-sacred-guardian`
+- **Riders Of Alagaesia** — Inheritance Cycle — `campaign-ideas/Completed/Fantasy/riders-of-alagaesia`
+- **Riders Of Alagaesia** — Inheritance Cycle — `campaign-ideas/Fantasy/riders-of-alagaesia`
+- **Rimward Runners** — Firefly/Serenity — `campaign-ideas/Sci-Fi/rimward-runners`
+- **See You Space Cowboy** — Cowboy Bebop — `campaign-ideas/Completed/Sci-Fi/see-you-space-cowboy`
+- **Serenity Rising** — Firefly/Serenity — `campaign-ideas/Completed/Sci-Fi/serenity-rising`
+- **Shadow Of The Withered Crown** — possible Witcher reference — `campaign-ideas/Fantasy/shadow-of-the-withered-crown`
+- **Shadows Of Inaba** — Persona 4 — `campaign-ideas/Completed/Mystery/shadows-of-inaba`
+- **Spiral Of Uzumaki** — Uzumaki — `campaign-ideas/Horror/spiral-of-uzumaki`
+- **Spirits Of The Rising Sun** — The Stormlight Archive — `campaign-ideas/Fantasy/spirits-of-the-rising-sun`
+- **The 36Th Chamber** — Firefly/Serenity — `campaign-ideas/Adventure/the-36th-chamber`
+- **The Arcane League** — D&D Planescape — `campaign-ideas/Urban/the-arcane-league`
+- **The Bioluminescent Expanse** — The Stormlight Archive — `campaign-ideas/Completed/Fantasy/the-bioluminescent-expanse`
+- **The Bioluminescent Expanse** — The Stormlight Archive — `campaign-ideas/Fantasy/the-bioluminescent-expanse`
+- **The Bronze Age Saga** — The Stormlight Archive — `campaign-ideas/Historical/the-bronze-age-saga`
+- **The Cordyceps Crown** — possible The Last of Us reference — `campaign-ideas/Completed/Post-Apocalyptic/the-cordyceps-crown`
+- **The Dominion Protocol** — The Stormlight Archive — `campaign-ideas/Fantasy/the-dominion-protocol`
+- **The Forgotten Huntress** — The Witcher — `campaign-ideas/Sci-Fi/the-forgotten-huntress`
+- **The Golden Fleece Expedition** — The Stormlight Archive — `campaign-ideas/Horror/the-golden-fleece-expedition`
+- **The Heroes Registration Act** — Marvel — `campaign-ideas/Historical/the-heroes-registration-act`
+- **The Hidden Empress** — The Stormlight Archive — `campaign-ideas/Horror/the-hidden-empress`
+- **The Last Druid** — The Stormlight Archive — `campaign-ideas/Horror/the-last-druid`
+- **The Macedonian Conquest** — The Stormlight Archive — `campaign-ideas/Sci-Fi/the-macedonian-conquest`
+- **The Maid Of Orleans** — The Stormlight Archive — `campaign-ideas/Historical/the-maid-of-orleans`
+- **The Name Of Power** — D&D Planescape — `campaign-ideas/Horror/the-name-of-power`
+- **The Path Of Monsters** — The Witcher — `campaign-ideas/Horror/the-path-of-monsters`
+- **The Serpent Who Eats The Sun** — Firefly/Serenity — `campaign-ideas/Horror/the-serpent-who-eats-the-sun`
+- **The Seven And The Damned** — Watchmen — `campaign-ideas/Horror/the-seven-and-the-damned`
+- **The Standard Bearer** — The Stormlight Archive — `campaign-ideas/Sci-Fi/the-standard-bearer`
+- **The Timelords Companion** — Doctor Who — `campaign-ideas/Completed/Horror/the-timelords-companion`
+- **The Undines Of Aqua Prima** — Firefly/Serenity — `campaign-ideas/Sci-Fi/the-undines-of-aqua-prima`
+- **The Watchmen Protocol** — Watchmen — `campaign-ideas/Completed/Mystery/the-watchmen-protocol`
+- **The White Wolfs Hunt** — The Witcher — `campaign-ideas/Completed/Mystery/the-white-wolfs-hunt`
+- **War Of Seven Kingdoms** — D&D Planescape — `campaign-ideas/Horror/war-of-seven-kingdoms`
+- **When Stars Walk** — The Stormlight Archive — `campaign-ideas/Completed/Post-Apocalyptic/when-stars-walk`
+- **Xenomorph Protocol** — Alien — `campaign-ideas/Completed/Horror/xenomorph-protocol`
