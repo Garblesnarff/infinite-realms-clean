@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Infinite Realms campaign metadata",
+  "type": "object",
+  "required": ["id", "title", "slug", "status", "genre", "source", "documents", "ingestion_status", "readiness", "last_audited"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^ir-[a-z0-9-]+$"},
+    "title": {"type": "string"},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"},
+    "status": {"enum": ["concept", "outlined", "drafted", "documented", "bible-complete", "asset-partial", "asset-complete", "ingestion-ready", "launch-ready", "needs-review", "archived"]},
+    "genre": {"type": "string"},
+    "secondary_genres": {"type": "array", "items": {"type": "string"}},
+    "tone": {"type": "array", "items": {"type": "string"}},
+    "difficulty": {"type": ["string", "null"]},
+    "session_min": {"type": ["integer", "null"]},
+    "session_max": {"type": ["integer", "null"]},
+    "length_class": {"enum": ["micro", "short", "medium", "long", "epic", "unknown"]},
+    "source": {"type": "string"},
+    "originality_status": {"type": "string"},
+    "ip_review": {"type": "string"},
+    "documents": {"type": "object"},
+    "assets": {"type": "object"},
+    "drive_folder": {"type": ["string", "null"]},
+    "content_warnings": {"type": "array"},
+    "mechanics": {"type": "array"},
+    "ingestion_status": {"type": "string"},
+    "readiness": {"type": "integer", "minimum": 0, "maximum": 100},
+    "last_audited": {"type": "string"},
+    "notes": {"type": "string"}
+  }
+}
+
