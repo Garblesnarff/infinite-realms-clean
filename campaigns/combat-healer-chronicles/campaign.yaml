@@ -1,0 +1,23 @@
+id: ir-combat-healer-chronicles
+title: Combat Healer Chronicles
+slug: combat-healer-chronicles
+status: needs-review
+genre: Fantasy
+secondary_genres: [military, tactical]
+tone: [heroic, brutal, urgent]
+difficulty: hard
+session_min: 7
+session_max: 8
+length_class: short
+source: GitHub
+originality_status: original
+ip_review: review
+documents: {campaign: campaign.md, campaign_bible: campaign-bible.md, world_spec: world-building-spec.md, creative_brief: creative-brief.md}
+assets: {}
+drive_folder: null
+content_warnings: [war, battlefield injury, triage]
+mechanics: [combat healing, exhaustion training, battlefield triage]
+ingestion_status: duplicate-resolved-needs-normalization
+readiness: 77
+last_audited: 2026-07-17
+notes: Rich genre package is canonical; unique RAG-tagged Completed bible preserved under supporting/.

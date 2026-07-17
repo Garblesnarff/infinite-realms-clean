@@ -1,0 +1,23 @@
+id: ir-the-eternal-feast
+title: The Eternal Feast
+slug: the-eternal-feast
+status: asset-partial
+genre: Intrigue
+secondary_genres: [fantasy, social]
+tone: [surreal, culinary, cosmic]
+difficulty: medium
+session_min: 35
+session_max: 35
+length_class: long
+source: GitHub
+originality_status: original
+ip_review: review
+documents: {campaign: campaign.md, campaign_bible: campaign-bible.md, world_spec: world-building-spec.md, creative_brief: creative-brief.md}
+assets: {characters: 5, monsters: 3, locations: 3, items: 3}
+drive_folder: null
+content_warnings: []
+mechanics: [restaurant operations, faction reputation, branching endings]
+ingestion_status: needs-normalization
+readiness: 90
+last_audited: 2026-07-17
+notes: Pilot migration from Completed/Intrigue; no content deleted. Private asset-folder access remains tracked in the master catalog.

@@ -1,0 +1,7 @@
+campaign_id,old_path,new_path,resolution
+ir-the-eternal-feast,campaign-ideas/Completed/Intrigue/the-eternal-feast,campaigns/the-eternal-feast,pilot git-aware move
+ir-the-porcelain-court,campaign-ideas/Completed/Horror/the-porcelain-court,campaigns/the-porcelain-court,pilot git-aware move
+ir-st-mercys-magical-menagerie,campaign-ideas/Urban/st-mercys-magical-menagerie,campaigns/st-mercys-magical-menagerie,pilot git-aware move
+ir-combat-healer-chronicles,campaign-ideas/Fantasy/combat-healer-chronicles,campaigns/combat-healer-chronicles,richer package selected as canonical
+ir-combat-healer-chronicles-legacy,campaign-ideas/Completed/Fantasy/combat-healer-chronicles/combat-healer-chronicles-campaign-bible.md,campaigns/combat-healer-chronicles/supporting/legacy-rag-campaign-bible.md,unique legacy bible preserved
+ir-the-godskin-atlas,,ideas/expansion-queue/the-godskin-atlas,new concept stub from Ideas sheet

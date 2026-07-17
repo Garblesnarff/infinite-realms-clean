@@ -1,0 +1,23 @@
+id: ir-the-porcelain-court
+title: The Porcelain Court
+slug: the-porcelain-court
+status: bible-complete
+genre: Horror
+secondary_genres: [social intrigue, psychological horror]
+tone: [dark, uncanny, courtly]
+difficulty: medium
+session_min: 30
+session_max: 30
+length_class: long
+source: GitHub
+originality_status: original
+ip_review: review
+documents: {campaign: campaign.md, campaign_bible: campaign-bible.md, world_spec: world-building-spec.md, creative_brief: creative-brief.md}
+assets: {}
+drive_folder: null
+content_warnings: [body horror, loss of autonomy]
+mechanics: [court factions, protocol pressure, branching victory paths]
+ingestion_status: needs-normalization
+readiness: 84
+last_audited: 2026-07-17
+notes: Pilot migration from Completed/Horror.

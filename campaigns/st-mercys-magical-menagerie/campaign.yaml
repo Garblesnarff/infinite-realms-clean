@@ -1,0 +1,23 @@
+id: ir-st-mercys-magical-menagerie
+title: St. Mercy's Magical Menagerie
+slug: st-mercys-magical-menagerie
+status: documented
+genre: Urban fantasy
+secondary_genres: [medical drama, cozy]
+tone: [light, compassionate, episodic]
+difficulty: light
+session_min: 6
+session_max: 8
+length_class: short
+source: GitHub
+originality_status: original
+ip_review: review
+documents: {campaign: campaign.md, campaign_bible: null, world_spec: world-building-spec.md, creative_brief: creative-brief.md}
+assets: {}
+drive_folder: null
+content_warnings: []
+mechanics: [diagnosis challenges, patient care, hospital reputation]
+ingestion_status: needs-campaign-bible
+readiness: 59
+last_audited: 2026-07-17
+notes: Pilot migration from Urban; missing bible remains explicit.
