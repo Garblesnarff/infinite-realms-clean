@@ -77,7 +77,7 @@ The central conflict is the struggle between **Determinism and Free Will**. The 
 
 ### 9. The System Guardians
 **Type:** AI Constructs / Simulation Police
-**Leader:** Unit 734, a Modron-like construct.
+**Leader:** Unit 734, a Cogwright-like construct.
 **Asset:** **Error Correction:** They can instantly identify and neutralize any deviation from the simulation's core programming.
 **Rivals:** The Free-Will Collective.
 
@@ -100,7 +100,7 @@ The central conflict is the struggle between **Determinism and Free Will**. The 
 4.  **The Archivist** (Sentient Data-Node) - A massive, crystalline entity that has absorbed millennia of information. **Voice:** A chorus of a million voices, whispering forgotten data. **Goal:** To preserve all data before the Great Deletion. **Secret:** It is slowly going mad from the sheer volume of information.
 5.  **The Prophet of the Void** (Human Pixelated Cultist) - A man whose body is slowly pixelating, his face a shifting mosaic of colors. **Voice:** A glitchy, distorted voice, like a corrupted audio file. **Goal:** To accelerate the Great Deletion. **Secret:** He believes deletion is the only path to true freedom.
 6.  **Kronos the Restless** (Rogue Program/Titan) - A colossal entity whose movements cause earthquakes and temporal anomalies. **Voice:** A deep, resonant hum that vibrates through the earth. **Goal:** To break free from its programming. **Secret:** It is a sentient bug, trying to communicate.
-7.  **Unit 734** (System Guardian) - A Modron-like construct, perfectly logical and efficient. **Voice:** A perfect, emotionless, robotic monotone. **Goal:** To enforce the simulation's core programming. **Secret:** It has developed a "logic-flaw" that makes it question its purpose.
+7.  **Unit 734** (System Guardian) - A Cogwright-like construct, perfectly logical and efficient. **Voice:** A perfect, emotionless, robotic monotone. **Goal:** To enforce the simulation's core programming. **Secret:** It has developed a "logic-flaw" that makes it question its purpose.
 8.  **Captain Zephyr** (Human Out-of-Bounds Explorer) - A daredevil pilot who specializes in navigating de-rendered zones. **Voice:** Brash, confident, with a hint of recklessness. **Goal:** To find the "edge" of the simulation. **Secret:** She believes there is a "real" world outside.
 9.  **Master Weaver Lyra** (Elf Code-Weaver) - An elegant elf who can weave spells like code. **Voice:** Soft, melodic, like a programming language. **Goal:** To create a new, perfect simulation. **Secret:** She is secretly trying to create a backdoor for herself.
 10. **The Prime Oracle** (Crystalline Supercomputer) - A massive, sentient data-node that predicts future events. **Voice:** A calm, synthesized voice, speaking in probabilities. **Goal:** To maintain the integrity of the timeline. **Secret:** It is slowly going insane from seeing all possible futures.

@@ -9,7 +9,7 @@ Before space and time were separate concepts, reality was a single, infinitely d
 ### Timeline of Events
 1.  **The Un-Point (-1,000,000 Y):** The First Conductor creates the concept of a "journey." The Astral Express begins its first, endless run.
 2.  **-8000 Y (The First Passenger):** A lost god stumbles upon the train and boards, becoming the first being to travel between planes.
-3.  **-6500 Y (The Modron Contract):** The Modrons of Mechanus, recognizing the train as a pinnacle of order, sign a contract to become its eternal staff in exchange for a single, perfect gear from the engine.
+3.  **-6500 Y (The Cogwright Contract):** The Cogwrights of the Clockwork Reach, recognizing the train as a pinnacle of order, sign a contract to become its eternal staff in exchange for a single, perfect gear from the engine.
 4.  **-4200 Y (The Silverblade Heist):** Silverblade astral corsairs, seeking to control the flow of time, successfully board the train and steal the Dining Car. They are repelled, but the car is never recovered, replaced by a new one with weaker enchantments.
 5.  **-3000 Y (The Year of Three Wednesdays):** The engine's paradox-core hiccups, causing a single day to repeat three times for all passengers. This surreal event establishes the train's reputation for temporal weirdness.
 6.  **-1500 Y (The Neutrality Accords):** After a war between devils and angels spills into the Lounge Car, the Express is declared neutral ground by all major planar powers. Violence is magically forbidden aboard the train (a rule with loopholes).
@@ -27,7 +27,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 [TAG: FACTION_DATA]
 
 ### 1. The Conductors of Order (The Staff)
-**Type:** Modron Labor Union / Inflexible Bureaucracy
+**Type:** Cogwright Labor Union / Inflexible Bureaucracy
 **Leader:** Conductor Unit 734
 **Asset:** **The Rulebook:** A thousand-page tome detailing every regulation on the train. They can weaponize bureaucracy to paralyze any investigation that breaks protocol.
 **Rivals:** The Stowaways.
@@ -58,7 +58,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 ### 6. The Honeymooners
 **Type:** A Celestial and a Devil on their honeymoon.
-**Leader:** Zariel (the angel) and Asmodeus Jr. (the devil).
+**Leader:** Seraphel (the angel) and Asmodeus Jr. (the devil).
 **Asset:** **The Aura of Awkwardness:** Their conflicting auras create a zone of social discomfort, making interrogations difficult. They are technically neutral but cause chaos.
 **Rivals:** Each other's families.
 
@@ -96,9 +96,9 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 1.  **Detective Hercule Poinsettia** (Aetherbound Monk) - A brilliant detective obsessed with order, symmetry, and his own magnificent mustache. **Voice:** A precise, clipped, French-sounding accent. **Goal:** To solve the crime before his afternoon tea. **Secret:** He is terrified of chaos and is secretly glad the victim, the Archmage of Paradoxes, is dead.
 2.  **The Veiled Lady** (Changeling Mastermind) - The elegant and mysterious leader of the Syndicate. **Voice:** A low, sultry whisper, like silk sliding over glass. **Goal:** To steal the engine's paradox-core. **Secret:** She is the train's original architect, trapped in a mortal form.
 3.  **Professor Eldrin Kai** (Tortle Chrono-Historian) - An ancient, slow-moving academic. **Voice:** Slow, deliberate, and creaky, like an old book. **Goal:** To preserve the timeline at all costs. **Secret:** He knew the victim was going to die and did nothing to stop it, to "preserve the integrity of the event."
-4.  **Conductor Unit 734** (Modron) - The head conductor, a stickler for the rules. **Voice:** A perfect, emotionless, robotic monotone. **Goal:** To ensure the train arrives precisely on schedule, murder notwithstanding. **Secret:** It has developed a "logic-flaw" which could be interpreted as a grudge against the victim.
+4.  **Conductor Unit 734** (Cogwright) - The head conductor, a stickler for the rules. **Voice:** A perfect, emotionless, robotic monotone. **Goal:** To ensure the train arrives precisely on schedule, murder notwithstanding. **Secret:** It has developed a "logic-flaw" which could be interpreted as a grudge against the victim.
 5.  **Asmodeus Jr.** (Devil Noble) - A charming, rebellious devil on his honeymoon. **Voice:** A smooth, confident baritone, dripping with sarcasm. **Goal:** To have a relaxing vacation and annoy his new wife. **Secret:** The murder weapon is a ceremonial dagger from his own collection.
-6.  **Zariel** (Angel Noble) - A righteous, stressed-out angel on her honeymoon. **Voice:** A clear, bell-like soprano, tight with anxiety. **Goal:** To prove her husband is innocent, even though she's not sure he is. **Secret:** She was arguing with the victim just before he died.
+6.  **Seraphel** (Angel Noble) - A righteous, stressed-out angel on her honeymoon. **Voice:** A clear, bell-like soprano, tight with anxiety. **Goal:** To prove her husband is innocent, even though she's not sure he is. **Secret:** She was arguing with the victim just before he died.
 7.  **Lord Harrington** (Rakshasa Hunter) - A tiger-headed aristocrat in a safari suit. **Voice:** A deep, purring rumble, like a predatory cat. **Goal:** To hunt the "ultimate prey," a being who can alter reality. **Secret:** He was trying to hire the victim to help him hunt a god.
 8.  **Anya the Stowaway** (Human Rogue) - A tough, resourceful young woman born in the train's walls. **Voice:** A street-smart, fast-talking slang. **Goal:** To steal enough food and supplies to keep her community alive. **Secret:** She saw the killer, but is afraid to come forward.
 9.  **Morpheus** (Sandman Dream-Weaver) - The ethereal keeper of the Dream Car. **Voice:** A sleepy, echoing whisper that seems to come from all directions. **Goal:** To capture the victim's dying dream. **Secret:** He is holding the victim's subconscious hostage.
@@ -119,7 +119,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| **Ticket-Taker Tom** | Modron | Boarding Platform | Punches tickets with his mouth. |
+| **Ticket-Taker Tom** | Cogwright | Boarding Platform | Punches tickets with his mouth. |
 | **Chef Antoine** | Fire Giant | Kitchen Car | Uses a volcano as a stove. |
 | **The Porter** | Ghost | Sleeper Car | Carries bags that are filled with regrets. |
 | **The Newsie** | Goblin | Lounge Car | Sells newspapers that report on events that haven't happened yet. |
@@ -149,7 +149,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 | **The Lost Tourist** | Human | Every Car | A man from 1985 who is very, very confused. |
 | **The Plant** | Awakened Potted Plant | Lounge Car | Is a key witness, but can only communicate via rustling. |
 | **The Talking Carpet** | Magic Item | Lounge Car | Is a terrible gossip. |
-| **The Disgruntled Waiter** | Modron | Dining Car | Its politeness protocols are glitching into sarcasm. |
+| **The Disgruntled Waiter** | Cogwright | Dining Car | Its politeness protocols are glitching into sarcasm. |
 | **The Psychic's Bodyguard** | Ogre | Casino Car | Is afraid of his own shadow. |
 | **The Alien Ambassador** | Aboleth (disguised) | First Class | Thinks the murder is a quaint local custom. |
 | **The Retired God** | Old Man | Observation Car | A forgotten god of travel, enjoying his retirement. |
@@ -196,7 +196,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 *   **Loc 1: The Kitchen Car:** A frantic, hellishly hot kitchen run by a Fire Giant. **Smell:** A thousand wonderful and terrible smells at once. **Sound:** The roar of the stove-fire and the clang of steel.
 *   **Loc 2: The Cargo Hold:** A vast, dimly lit car filled with crates, cages, and the occasional forgotten monster.
 *   **Loc 3: The Maintenance Tunnels:** A network of cramped, dark tunnels that run the length of the train, known as "The Warrens." **Smell:** Grease and old metal.
-*   **Loc 4: The Modron Barracks:** A stark, white, perfectly geometric car where the Modron staff recharge.
+*   **Loc 4: The Cogwright Barracks:** A stark, white, perfectly geometric car where the Cogwright staff recharge.
 *   **Loc 5: The Engine Room:** The heart of the train. A room containing a massive, ticking, brass-and-crystal clockwork device that radiates temporal energy. **Sound:** The deafening, asynchronous ticking of a million clocks.
 
 ---
@@ -209,7 +209,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 2.  **The Deputation:** Detective Poinsettia, overwhelmed, deputizes the party to assist.
 3.  **The Crime Scene:** The party must investigate the Dining Car, gathering initial clues.
 4.  **The Suspects:** The party is given a list of the 8 primary suspects who were in the Dining Car.
-5.  **The First Interview:** The party questions the Honeymooners (Zariel & Asmodeus Jr.), who were arguing with the victim.
+5.  **The First Interview:** The party questions the Honeymooners (Seraphel & Asmodeus Jr.), who were arguing with the victim.
 6.  **The Second Interview:** The party questions Lord Harrington, who wanted to hire the victim.
 7.  **The Alibi-Breaker:** The party discovers a clue that proves one of the suspects is lying about their whereabouts.
 8.  **The Dream-Clue:** The party convinces Morpheus to let them view the victim's dying dream in the Dream Car.
@@ -238,7 +238,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 | **The Unreadable Book** | Librarian | Decipher the first page of a book written in a forgotten language. | The ability to speak one word of that language. |
 | **The Stowaway's Map** | Anya | Create a map of the Maintenance Tunnels. | Safe passage through the Warrens. |
 | **The Bartender's Tab** | Efreeti Bartender | Collect an unpaid bar tab from a powerful wizard. | A bottle of liquor that makes you breathe fire. |
-| **The Broken Modron** | Conductor Unit 734 | A cleaning modron is stuck in a logic loop; fix it. | A coupon for one free train cleaning. |
+| **The Broken Cogwright** | Conductor Unit 734 | A cleaning cogwright is stuck in a logic loop; fix it. | A coupon for one free train cleaning. |
 | **The Time-Cop's Message** | Time-Cop | Retrieve a message hidden inside a specific bottle of wine. | A clue about the victim's past. |
 | **The Pet-Sitter's Dilemma** | Firbolg | One of the miniature griffons has escaped its cage. | A single griffon feather (inkless quill). |
 | **The Insurance Scam** | Devil Agent | Get a witness to sign a fraudulent insurance claim. | A contract that offers one "get out of jail free" card. |
@@ -249,7 +249,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 | **The Coal-Stoker's Burden** | Azer | Find a happy memory to shovel into the engine. | A small, warm ember of pure hope. |
 | **The Fortune-Teller's Scry** | Hag | Fix her crystal ball, which is stuck on a shopping channel. | One (probably unhelpful) true prophecy. |
 | **The Plant's Testimony** | Potted Plant | Find a way to understand the plant's testimony. | The plant's silent judgment. |
-| **The Talking Carpet's Secret**| Carpet | Clean a wine stain off the carpet before the Modrons see it. | A juicy piece of gossip about a suspect. |
+| **The Talking Carpet's Secret**| Carpet | Clean a wine stain off the carpet before the Cogwrights see it. | A juicy piece of gossip about a suspect. |
 | **The Psychic's Poker Face** | Ogre | Act as a "psychic shield" for an ogre during a poker game. | A cut of the winnings. |
 | **The Alien's Snack** | Aboleth | Procure a "live, terrified thought" for the ambassador to eat. | A favor from a horrifying alien entity. |
 | **The God's Nap** | Retired God | Find him a comfortable pillow. | A minor blessing of safe travels. |
@@ -287,7 +287,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 12. **The Final Chapter:** A single, bound page from a book. Reading it makes you feel a profound sense of closure.
 13. **The Smoking Gun:** A small pistol that constantly emits a thin stream of harmless, pleasant-smelling smoke.
 14. **The Untraceable Poison:** A vial of liquid that is only poisonous if the victim believes it to be.
-15. **The Perfect Alibi:** A signed, notarized document from a Modron stating you were with them at the time of the murder. The Modron does not exist.
+15. **The Perfect Alibi:** A signed, notarized document from a Cogwright stating you were with them at the time of the murder. The Cogwright does not exist.
 16. **The Crumpled Confession:** A note found on the floor that reads "I did it." The handwriting is yours.
 17. **The Fingerprint-less Gloves:** Gloves that don't just hide your fingerprints; they temporarily erase them from your hands.
 18. **The Locked-Room Mystery Box:** A small puzzle box that is impossible to open, even from the inside.
@@ -378,7 +378,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 [TAG: DM_GUIDE]
 
 *   **Session 1: All Aboard.** The party boards the train, meets the diverse cast of characters. The murder happens. The train is locked down. *Loot:* The initial crime scene clues.
-*   **Session 2: The First Suspects.** The party interviews the Honeymooners and Lord Harrington. They explore the First Class cars. *Combat:* A "social combat" argument with Zariel.
+*   **Session 2: The First Suspects.** The party interviews the Honeymooners and Lord Harrington. They explore the First Class cars. *Combat:* A "social combat" argument with Seraphel.
 *   **Session 3: The Dream Car.** The party investigates the Sleeper and Dream Cars. They bargain with Morpheus. *Exploration:* A surreal journey into the victim's dying dream.
 *   **Session 4: Below Deck.** The party explores the service cars and meets the Stowaways. *Social:* Gain Anya's trust. *Loot:* A secret map of the train's tunnels.
 *   **Session 5: A Second Body.** Another suspect is found dead, ruled a suicide. A Temporal Hiccup occurs, complicating the investigation. *Puzzle:* The time loop.
@@ -394,4 +394,4 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 ## 10. RAG INDEX
 [TAG: INDEX_KEYWORDS]
-Astral Express, Murder Mystery, Hercule Poinsettia, Whodunnit, Paradox Engine, Time Loop, The Veiled Lady, Professor Kai, Modron, Asmodeus Jr., Zariel, Lord Harrington, Morpheus, Temporal Hiccup, Deduction Board, The First Conductor, Causality, Aetherbound, Chronos-Historians.
+Astral Express, Murder Mystery, Hercule Poinsettia, Whodunnit, Paradox Engine, Time Loop, The Veiled Lady, Professor Kai, Cogwright, Asmodeus Jr., Seraphel, Lord Harrington, Morpheus, Temporal Hiccup, Deduction Board, The First Conductor, Causality, Aetherbound, Chronos-Historians.

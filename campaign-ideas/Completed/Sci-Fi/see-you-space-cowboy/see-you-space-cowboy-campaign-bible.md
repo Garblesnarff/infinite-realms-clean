@@ -128,7 +128,7 @@ The central conflict is the struggle between **Amnesia and Memory**. Every chara
 | **The Info-Broker** | Information Dealer | Back alley | A man who is blind but can "see" data streams. |
 | **The Arms Dealer** | Merchant | Black Market | A cheerful grandmother who sells heavy artillery. |
 | **The Food-Stall Owner** | Chef | Ganymede | A man who only sells bell peppers and beef (without beef). |
-| **The Gate-Toll Collector**| Bureaucrat | Hyperspace Gate | A bored Modron who demands forms in triplicate. |
+| **The Gate-Toll Collector**| Bureaucrat | Hyperspace Gate | A bored Cogwright who demands forms in triplicate. |
 | **The Stray Dog** | Animal | Alley | A normal dog that seems to follow the crew. |
 | **The Stray Cat** | Animal | Rooftop | A normal cat that seems to judge the crew. |
 | **The Trucker** | Pilot | Space Lanes | A friendly trucker who gives folksy wisdom over the radio. |

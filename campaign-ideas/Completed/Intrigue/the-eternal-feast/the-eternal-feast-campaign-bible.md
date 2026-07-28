@@ -49,7 +49,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 ### 4. The Order of the Geometrists
 **Type:** Measurement Obsessives (Order Dimension)
-**Leader:** Prime Integer Seven (A Modron Chef)
+**Leader:** Prime Integer Seven (A Cogwright Chef)
 **Asset:** **The Perfect Scale** (Can weigh the guilt of a soul).
 **Rivals:** The Chaos Garnishers.
 **Agenda:** Ensures portion sizes are molecularly identical. Will execute anyone who "eyeballs" an ingredient.
@@ -117,7 +117,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 12. **Chef Mordant** (Tiefling Warlock) - Rival chef, bitter. **Voice:** Sharpening knife on steel, cold, metallic. **Goal:** Open the seal to source "Void Meat." **Secret:** Sazón's rejected apprentice.
 13. **Lady Glaze** (Ice Queen) - Brittle, freezing. **Voice:** Glass cracking, high pitch. **Goal:** Order a soup that is absolute zero. **Secret:** Is melting slowly.
 14. **Gorgonzola the Stinky** (Troll Gourmand) - Rotund, philosophically deep. **Voice:** Deep, wet, slow, guttural. **Goal:** Eat the stinkiest cheese in existence. **Secret:** Is a prince under a curse.
-15. **Unit 734** (Modron Waiter) - Glitchy, precise. **Voice:** Autotuned, robotic, stutters on "irrational" concepts. **Goal:** Organise the silverware. **Secret:** Has developed a soul.
+15. **Unit 734** (Cogwright Waiter) - Glitchy, precise. **Voice:** Autotuned, robotic, stutters on "irrational" concepts. **Goal:** Organise the silverware. **Secret:** Has developed a soul.
 16. **The Void-Maw** (Hunger Warlock) - Cultist disguised as a customer. **Voice:** Raspy, breathless, like inhaling constantly. **Goal:** Sabotage the stove. **Secret:** Has a mouth on his palm.
 17. **Madame Mushroom** (Myconid Sovereign) - Telepathic, motherly. **Voice:** Felt in the head, warm, fuzzy. **Goal:** Spread spores to the salad bar. **Secret:** Her spores induce hallucinations of home.
 18. **Sir Loin** (Minotaur Paladin) - Honorable, vegetarian. **Voice:** Booming, bovine, proud. **Goal:** Prove cows are friends, not food. **Secret:** Craves hamburgers.

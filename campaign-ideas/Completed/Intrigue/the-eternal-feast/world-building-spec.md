@@ -67,7 +67,7 @@
 
 **Order Dimension - Mechanis**
 - Perfect mathematics and logic
-- Inhabitants: Modrons, constructs, living equations
+- Inhabitants: Cogwrights, constructs, living equations
 - Cuisine: Precisely measured, perfectly balanced
 - Ingredients: Geometric vegetables, calculated proteins
 
