@@ -5,7 +5,7 @@ import re
 import time
 
 # Configuration
-BASE_DIR = "/Users/rob/Claude/workspaces/infinite-realms-clean"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT_DIR = os.path.join(BASE_DIR, "campaign-ideas", "Completed")
 OUTPUT_DIR = os.path.join(BASE_DIR, "campaign-assets")
 SANITIZED_DIR = os.path.join(OUTPUT_DIR, "sanitized")

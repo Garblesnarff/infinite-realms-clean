@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Infinite Realms is building the "YouTube of AI-Generated Entertainment" starting with solo AI D&D experiences. The platform uses AI to generate and manage TTRPG campaigns, with plans to expand into campaign sharing, auto-generated publishing, 3D assets, and shared virtual worlds.
+Infinite Realms is building the "YouTube of AI-Generated Entertainment" starting with solo AI tabletop roleplaying experiences. The platform uses AI to generate and manage TTRPG campaigns, with plans to expand into campaign sharing, auto-generated publishing, 3D assets, and shared virtual worlds.
 
 **Current stack**: React/TypeScript frontend, Supabase backend, CrewAI agents, Gemini 2.5 Flash, ElevenLabs for audio.
 
@@ -34,7 +34,7 @@ python main.py --batch --dry-run
 **Environment**: Requires `OPENROUTER_API_KEY` in `.env`. Models configured via `MODELS` JSON env var.
 
 ### `/campaign-ideas/`
-820+ D&D campaign frameworks organized by genre (Fantasy, Horror, Sci-Fi, Mystery, Historical, Post-Apocalyptic, Intrigue, Urban, Adventure). Each campaign can have: overview, creative-brief, world-building, and campaign-bible files.
+820 campaign frameworks organized by genre (Fantasy, Horror, Sci-Fi, Mystery, Historical, Post-Apocalyptic, Intrigue, Urban, Adventure). Each campaign can have: overview, creative-brief, world-building, and campaign-bible files.
 
 **Shell scripts for campaign management:**
 ```bash
@@ -49,6 +49,22 @@ cd campaign-ideas
 ./extract-npcs.sh             # Pull all NPCs into one file
 ./pick-launch-campaigns.sh    # Generate selection document
 ```
+
+**Package layout rule (important):**
+
+A campaign is ONE directory holding all four files. Never split a campaign across
+`Completed/<genre>/<slug>/` and `<genre>/<slug>/`.
+
+- `Completed/<genre>/<slug>/` — the campaign has a bible. All four files live here.
+- `<genre>/<slug>/` — the campaign has no bible yet. The framework files live here.
+
+A generator that writes a bible must write it into the campaign's existing directory,
+or move the whole package to `Completed/<genre>/`. Writing a bible straight into
+`Completed/` while the other files stay at the genre root splits the campaign in two.
+135 campaigns were split this way and were merged on 2026-07-28.
+
+Check with `./campaign-ideas/stats.sh`. The genre totals count directories, so a split
+campaign is counted twice and inflates the library size.
 
 **Completeness levels:**
 - **Complete**: Has overview + creative-brief + world-building + campaign-bible (ready for ingestion)
@@ -86,7 +102,7 @@ The expansion pipeline uses 7 sequential agents via OpenRouter:
 
 Output formats: JSON bundle, SQL INSERT statements, Markdown campaign book.
 
-## D&D 5E Constraints
+## 5E Constraints
 
 When generating or validating content:
 - Level progression typically 1-5 starting, scaling to 15+ for full campaigns

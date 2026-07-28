@@ -1,215 +1,22 @@
 # Validation Report
-Generated: Sun Dec  7 20:02:27 CST 2025
+Generated: Tue Jul 28 15:35:01 UTC 2026
 
 ## Fantasy
-
-### academy-of-arcane-gastronomy
-  - WARN: Missing genre line
-
-### alchemical-insurgence
-  - WARN: Missing genre line
-
-### atomic-dawn
-  - WARN: Missing genre line
-
-### beneath-the-grassblade
-  - WARN: Missing genre line
-
-### blood-of-the-einherjar
-  - WARN: Missing genre line
-
-### brick-by-brick
-  - WARN: Missing genre line
-
-### checkmate-protocol
-  - WARN: Missing genre line
-
-### children-of-the-stars
-  - WARN: Missing genre line
-
-### chronicles-of-the-somnolent-oracle
-  - WARN: Missing genre line
-
-### classical-symphony-kingdom
-  - WARN: Missing genre line
-
-### clockwork-elemental
-  - WARN: Missing genre line
-
-### colossus-ascent
-  - WARN: Missing genre line
-
-### concrete-dreams
-  - WARN: Missing genre line
-
-### daemon-revolution
-  - WARN: Missing genre line
-
-### death-and-rebirth
-  - WARN: Missing genre line
-
-### death-descent
-  - WARN: Missing genre line
-
-### descent-into-reverie
-  - WARN: Missing genre line
-
-### dice-of-dominion
-  - WARN: Missing genre line
-
-### earths-breath
-  - WARN: Missing genre line
-
-### earths-memory
-  - WARN: Missing genre line
-
-### echoes-of-eternity
-  - WARN: Missing genre line
-
-### empire-of-endless-courses
-  - WARN: Missing genre line
-
-### fimbulwinters-chains
-  - WARN: Missing genre line
-
-### fires-of-the-deep
-  - WARN: Missing genre line
-
-### flavor-hunters-guild
-  - WARN: Missing genre line
-
-### guardians-of-the-aurora-gate
-  - WARN: Missing genre line
-
-### houses-divided
-  - WARN: Missing genre line
-
-### jotunheim-saga
-  - WARN: Missing genre line
-
-### journey-to-the-western-paradise
-  - WARN: Missing genre line
-
-### journey-to-the-world
-  - WARN: Missing genre line
-
-### k-pop-idol-academy
-  - WARN: Missing genre line
-
-### kingdoms-of-the-droplet
-  - WARN: Missing genre line
-
-### kingsmen-of-the-crystal-crown
-  - WARN: Missing genre line
-
-### lightnings-chosen
-  - WARN: Missing genre line
-
-### lo-fi-study-dimension
-  - WARN: Missing genre line
-
-### monopolis-rising
-  - WARN: Missing genre line
-
-### motes-in-the-giants-eye
-  - WARN: Missing genre line
-
-### objection-your-infernal-honor
-  - ERROR: Missing overview file
-
-### powder-revolution
-  - WARN: Missing genre line
-
-### retrograde-catastrophe
-  - WARN: Missing genre line
-
-### scale-shift-awakening
-  - WARN: Missing genre line
 
 ### shadow-of-the-withered-crown
   - WARN: Missing title
 
-### sky-dominion
-  - WARN: Missing genre line
-
-### sky-metal-kings
-  - WARN: Missing genre line
-
-### stars-of-destiny
-  - WARN: Missing genre line
-
-### stones-of-eternity
-  - WARN: Missing genre line
-
-### taste-of-the-divine
-  - WARN: Missing genre line
-
-### the-ancient-network
-  - WARN: Missing genre line
-
 ### the-antikythera-orrery
-  - WARN: Missing genre line
-
-### the-archetypal-realm
-  - WARN: Missing genre line
-
-### the-bioluminescent-expanse
-  - WARN: Missing genre line
-
-### the-blank-tome
-  - WARN: Missing genre line
-
-### the-bluff-imperium
-  - WARN: Missing genre line
-
-### the-burning-season
-  - WARN: Missing genre line
-
-### the-catan-concordat
-  - WARN: Missing genre line
-
-### the-celestial-circuit
-  - WARN: Missing genre line
-
-### the-checkered-throne
-  - WARN: Missing genre line
-
-### the-chloroplast-chronicles
   - WARN: Missing genre line
 
 ### the-codex-of-lost-tomorrows
   - WARN: Missing title
 
-### the-coral-kingdoms-fall
-  - WARN: Missing genre line
-
-### the-crimson-kitchen
-  - WARN: Missing genre line
-
-### the-crown-of-aethermoor
-  - WARN: Missing title
-  - WARN: Missing genre line
-
-### the-demon-kings-shadow
-  - WARN: Missing genre line
-
-### the-devils-bargain
-  - WARN: Missing genre line
-
 ### the-dominion-protocol
-  - WARN: Missing genre line
-
-### the-hermits-pilgrimage
   - WARN: Missing genre line
 
 
 ## Horror
-
-### cloverfield-emergence
-  - WARN: Missing genre line
-
-### colossal-regret
-  - WARN: Missing genre line
 
 ### monsters-under-the-bed
   - WARN: Missing genre line
@@ -346,9 +153,6 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### the-platinum-fork-trials
   - WARN: Missing genre line
 
-### the-porcelain-court
-  - WARN: Missing genre line
-
 ### the-pressure-rift
   - WARN: Missing genre line
 
@@ -368,9 +172,6 @@ Generated: Sun Dec  7 20:02:27 CST 2025
   - WARN: Missing genre line
 
 ### the-shrinking-realm
-  - WARN: Missing genre line
-
-### the-star-fallen-wound
   - WARN: Missing genre line
 
 ### the-stuffing-within
@@ -421,9 +222,6 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### threshold-descent
   - WARN: Missing genre line
 
-### titans-of-steel
-  - WARN: Missing genre line
-
 ### transhuman-ascension
   - WARN: Missing genre line
 
@@ -448,20 +246,8 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### when-the-ice-comes
   - WARN: Missing genre line
 
-### wired-souls
-  - WARN: Missing genre line
-
 
 ## Sci-Fi
-
-### agents-of-the-concordat
-  - WARN: Missing genre line
-
-### alpha-predator-rising
-  - WARN: Missing genre line
-
-### angel-descent
-  - WARN: Missing genre line
 
 ### beneath-the-surface
   - WARN: Missing genre line
@@ -527,18 +313,6 @@ Generated: Sun Dec  7 20:02:27 CST 2025
   - WARN: Missing genre line
 
 ### rimward-runners
-  - WARN: Missing genre line
-
-### shadows-of-the-precursors
-  - WARN: Missing genre line
-
-### starfire-rebellion
-  - WARN: Missing genre line
-
-### steam-war-chronicles
-  - WARN: Missing genre line
-
-### steel-prophets
   - WARN: Missing genre line
 
 ### temporal-schism
@@ -649,29 +423,8 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### voyage-through-the-veins
   - WARN: Missing genre line
 
-### winds-of-fortune
-  - WARN: Missing genre line
-
-### wings-of-the-void
-  - WARN: Missing genre line
-
-### yard-sale-apocalypse
-  - WARN: Missing genre line
-
 
 ## Mystery
-
-### just-one-more-thing
-  - WARN: Missing genre line
-
-### mind-of-the-monster
-  - WARN: Missing genre line
-
-### murder-on-the-astral-express
-  - WARN: Missing genre line
-
-### sins-of-the-city
-  - WARN: Missing genre line
 
 ### the-consulting-detective
   - WARN: Missing genre line
@@ -680,12 +433,6 @@ Generated: Sun Dec  7 20:02:27 CST 2025
   - WARN: Missing genre line
 
 ### the-nine-nine-precinct
-  - WARN: Missing genre line
-
-### the-verdant-codex
-  - WARN: Missing genre line
-
-### the-wires-game
   - WARN: Missing genre line
 
 
@@ -733,38 +480,8 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### the-maid-of-orleans
   - WARN: Missing genre line
 
-### the-weather-weavers
-  - WARN: Missing genre line
-
-### tides-of-the-trident-throne
-  - WARN: Missing genre line
-
-### war-of-the-elements
-  - WARN: Missing genre line
-
 
 ## Post-Apocalyptic
-
-### rose-city-warlords
-  - WARN: Missing genre line
-
-### the-crimson-games
-  - WARN: Missing genre line
-
-### the-devils-herd
-  - WARN: Missing genre line
-
-### the-eternal-court-war
-  - WARN: Missing genre line
-
-### the-exodus-of-ash-and-ice
-  - WARN: Missing genre line
-
-### the-fever-of-the-world
-  - WARN: Missing genre line
-
-### the-glow-beneath
-  - WARN: Missing genre line
 
 ### the-lovers-crucible
   - WARN: Missing genre line
@@ -784,36 +501,8 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### the-virgin-queens-legacy
   - WARN: Missing genre line
 
-### when-stars-walk
-  - WARN: Missing genre line
-
 
 ## Intrigue
-
-### agents-of-concordia
-  - WARN: Missing genre line
-
-### atomic-arcana
-  - WARN: Missing genre line
-
-### goldport
-  - WARN: Missing title
-  - WARN: Missing genre line
-
-### operation-dragonmark
-  - WARN: Missing genre line
-
-### operation-family-deception
-  - WARN: Missing genre line
-
-### rank-and-deception
-  - WARN: Missing genre line
-
-### shadow-bureau-protocols
-  - WARN: Missing genre line
-
-### the-cipher-identity
-  - WARN: Missing genre line
 
 ### the-death-note-gambit
   - WARN: Missing genre line
@@ -821,38 +510,14 @@ Generated: Sun Dec  7 20:02:27 CST 2025
 ### the-deep-cover-covenant
   - WARN: Missing genre line
 
-### the-eternal-feast
-  - WARN: Missing genre line
-
 
 ## Urban
-
-### cartel-wars
-  - WARN: Missing genre line
-
-### grind-city-prophets
-  - WARN: Missing genre line
-
-### hip-hop-street-empire
-  - WARN: Missing genre line
 
 ### the-blue-dragon
   - WARN: Missing genre line
 
 
-## Adventure
-
-### above-the-cloudline
-  - WARN: Missing genre line
-
-### ascension-protocol
-  - WARN: Missing genre line
-
-### impossible-heist-protocol
-  - WARN: Missing genre line
-
-
 ---
 ## Summary
-- Errors: 1
-- Warnings: 275
+- Errors: 0
+- Warnings: 164

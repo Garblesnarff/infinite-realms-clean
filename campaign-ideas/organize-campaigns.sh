@@ -3,7 +3,7 @@
 # Campaign Organizer Script
 # Organizes campaign directories and files into genre folders
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOG_FILE="$BASE_DIR/organize-log.txt"
 
 # Genre folders (these should already exist)

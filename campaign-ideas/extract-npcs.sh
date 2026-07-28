@@ -1,7 +1,7 @@
 #!/bin/bash
 # NPC Extractor - extracts NPCs from campaign bibles only
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 OUTPUT_FILE="$BASE_DIR/all-npcs.md"
 
 echo "# NPC Roster - All Campaign Bibles" > "$OUTPUT_FILE"

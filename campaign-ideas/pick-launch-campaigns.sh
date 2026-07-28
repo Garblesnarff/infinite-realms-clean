@@ -1,7 +1,7 @@
 #!/bin/bash
 # Campaign Picker - shows complete campaigns by genre for launch selection
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 GENRES=("Fantasy" "Horror" "Sci-Fi" "Mystery" "Historical" "Post-Apocalyptic" "Intrigue" "Urban" "Adventure")
 OUTPUT="$BASE_DIR/launch-picker.md"
 

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Campaign Validation - checks for issues before ingestion
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 GENRES=("Fantasy" "Horror" "Sci-Fi" "Mystery" "Historical" "Post-Apocalyptic" "Intrigue" "Urban" "Adventure")
 REPORT="$BASE_DIR/validation-report.md"
 

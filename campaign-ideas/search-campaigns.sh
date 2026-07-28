@@ -3,7 +3,7 @@
 # Campaign Search Script
 # Find campaigns by keyword/theme
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 GENRES=("Fantasy" "Horror" "Sci-Fi" "Mystery" "Historical" "Post-Apocalyptic" "Intrigue" "Urban" "Adventure")
 
 if [ -z "$1" ]; then

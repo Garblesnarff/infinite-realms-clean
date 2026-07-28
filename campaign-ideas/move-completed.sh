@@ -1,7 +1,7 @@
 #!/bin/bash
 # Move completed campaigns (with bibles) to Completed directory
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 COMPLETED_DIR="$BASE_DIR/Completed"
 GENRES=("Fantasy" "Horror" "Sci-Fi" "Mystery" "Historical" "Post-Apocalyptic" "Intrigue" "Urban" "Adventure")
 

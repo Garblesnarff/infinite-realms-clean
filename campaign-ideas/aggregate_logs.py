@@ -4,7 +4,7 @@ import re
 import csv
 import io
 
-BASE_DIR = "/Users/rob/Claude/workspaces/infinite-realms-clean"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "campaign-assets")
 SANITIZED_DIR = os.path.join(OUTPUT_DIR, "sanitized")
 MANIFESTS_DIR = os.path.join(OUTPUT_DIR, "manifests")
