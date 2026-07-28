@@ -70,7 +70,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 ### 7. The Vintners of Void
 **Type:** Smugglers
-**Leader:** Cork (A one-eyed Beholder)
+**Leader:** Cork (A sentient wine-cask spirit who peels open a knothole like a single staring pupil)
 **Asset:** **Null-Wine** (Alcohol that erases memories of bad meals).
 **Rivals:** The Holy Palate.
 **Agenda:** Smuggling "Shadow-Shrooms" into the kitchen, which are illegal but delicious.
@@ -139,12 +139,12 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 | Clank | Repair | Kobold | Boiler Room | Wears a pot as a helmet. |
 | Sallow | Gardener | Zombie | Greenhouse | Plants grow faster near him. |
 | Echo | Busboy | Ghost | Dining Floor | Drops plates that don't break. |
-| Krill | Fishmonger | Kuo-Toa | Freezer | Worships a frozen tuna. |
+| Krill | Fishmonger | Deepfin fishfolk | Freezer | Worships a frozen tuna. |
 | Blaze | Grill Chef | Azer | Hot Line | Beard is literal fire. |
 | Shhh | Librarian | Shadow | Archives | Steals vowels from loud people. |
 | Pop | Baker | Gnome | Bakery | Sneezes flour constantly. |
 | Glug | Plumber | Water Genasi | Restrooms | Can travel through pipes. |
-| Hiss | Pest Control | Yuan-Ti | Basement | Eats the rats whole. |
+| Hiss | Pest Control | Scalebound humanoid | Basement | Eats the rats whole. |
 | Fern | Decorator | Firbolg | Lobby | Talks to chairs. |
 | Void | Disposal | Sphere of Annihilation | Alley | Wears a tiny hat. |
 | Scratch | Sous Chef | Rakshasa | Prep Station | Hands are backwards. |
@@ -174,7 +174,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 | Brine | Pickler | Sea Hag | Pantry | Pickles eyes. |
 | Spore | Fungus Farmer | Myconid | Cellar | Grows mushrooms on self. |
 | Gulp | Drink Tester | Satyr | Wine Cellar | Permanently drunk. |
-| Shift | Valet | Blink Dog | Parking | Teleports cars. |
+| Shift | Valet | Flickerhound | Parking | Teleports cars. |
 | Rattle | Musician | Bones | Stage | Plays ribcage like xylophone. |
 | Gleam | Polisher | Gelatinous Cube (Mini) | Floor | Polishes bones clean. |
 | Dust | Cleaner | Mephit | Attic | Sneezes dust bunnies. |

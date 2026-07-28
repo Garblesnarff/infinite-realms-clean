@@ -179,7 +179,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 **18. The Stitch-Master** (Duergar Rogue) - Sadistic, clinical.
 *   **Voice:** Raspy, sounds like sharpening knives.
 *   **Goal:** Create the perfect organism.
-*   **Secret:** Wants to graft a Beholder eye to himself.
+*   **Secret:** Wants to graft a void-socket eye (torn from something that should not see) to himself.
 
 **19. Valerius** (High Elf Sorcerer) - Arrogant, inverted.
 *   **Voice:** Haughty, speaks as if looking down on you (even if below).
@@ -335,7 +335,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 | **Light the Beacons** | Prof. Darkwater | Light 3 ancient braziers in the dark. | Safe Rest Zone |
 | **The Doll** | Child Spirit | Return the doll to the skeleton in the corner. | Ghost Ally |
 | **Rat Hunt** | "Rat" Kincaid | Catch the rat that stole the key. | Skeleton Key |
-| **The Sample** | Dr. Thorne | Harvest bile from a live Carrion Crawler. | Acid Vial |
+| **The Sample** | Dr. Thorne | Harvest bile from a live bile-grub crawler (many-legged corpse-scavenger). | Acid Vial |
 | **Bury the Dead** | Brother Olam | Consecrate a mass grave. | Holy Water |
 | **The Glitch** | "Click" | Find a replacement gear in the scrap pile. | Auto-Crossbow |
 | **Mining Gold** | Greedy Dwarf | Mine a vein of "screaming gold." | Cursed Gold (attracts monsters) |

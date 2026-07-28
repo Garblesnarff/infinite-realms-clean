@@ -10,7 +10,7 @@ Before space and time were separate concepts, reality was a single, infinitely d
 1.  **The Un-Point (-1,000,000 Y):** The First Conductor creates the concept of a "journey." The Astral Express begins its first, endless run.
 2.  **-8000 Y (The First Passenger):** A lost god stumbles upon the train and boards, becoming the first being to travel between planes.
 3.  **-6500 Y (The Modron Contract):** The Modrons of Mechanus, recognizing the train as a pinnacle of order, sign a contract to become its eternal staff in exchange for a single, perfect gear from the engine.
-4.  **-4200 Y (The Githyanki Heist):** Githyanki pirates, seeking to control the flow of time, successfully board the train and steal the Dining Car. They are repelled, but the car is never recovered, replaced by a new one with weaker enchantments.
+4.  **-4200 Y (The Silverblade Heist):** Silverblade astral corsairs, seeking to control the flow of time, successfully board the train and steal the Dining Car. They are repelled, but the car is never recovered, replaced by a new one with weaker enchantments.
 5.  **-3000 Y (The Year of Three Wednesdays):** The engine's paradox-core hiccups, causing a single day to repeat three times for all passengers. This surreal event establishes the train's reputation for temporal weirdness.
 6.  **-1500 Y (The Neutrality Accords):** After a war between devils and angels spills into the Lounge Car, the Express is declared neutral ground by all major planar powers. Violence is magically forbidden aboard the train (a rule with loopholes).
 7.  **-700 Y (The Sleeper Car Incident):** A Night Hag attempts to turn the Sleeper Car into a permanent annex of the Plane of Nightmares. She is sealed within a single cabin, which is now permanently locked.
@@ -34,7 +34,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 ### 2. The Planar Police (The "Transits")
 **Type:** Inter-dimensional Law Enforcement
-**Leader:** Detective Hercule Poinsettia (a Githzerai with obsessive-compulsive disorder).
+**Leader:** Detective Hercule Poinsettia (an Aetherbound void-ascetic with obsessive-compulsive disorder).
 **Asset:** **The Jurisdiction Key:** A magical key that allows them to open a door to any plane to call for backup.
 **Rivals:** The Syndicate of Shadows.
 
@@ -93,7 +93,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 ### Major NPCs (20 Profiles)
 
-1.  **Detective Hercule Poinsettia** (Githzerai Monk) - A brilliant detective obsessed with order, symmetry, and his own magnificent mustache. **Voice:** A precise, clipped, French-sounding accent. **Goal:** To solve the crime before his afternoon tea. **Secret:** He is terrified of chaos and is secretly glad the victim, the Archmage of Paradoxes, is dead.
+1.  **Detective Hercule Poinsettia** (Aetherbound Monk) - A brilliant detective obsessed with order, symmetry, and his own magnificent mustache. **Voice:** A precise, clipped, French-sounding accent. **Goal:** To solve the crime before his afternoon tea. **Secret:** He is terrified of chaos and is secretly glad the victim, the Archmage of Paradoxes, is dead.
 2.  **The Veiled Lady** (Changeling Mastermind) - The elegant and mysterious leader of the Syndicate. **Voice:** A low, sultry whisper, like silk sliding over glass. **Goal:** To steal the engine's paradox-core. **Secret:** She is the train's original architect, trapped in a mortal form.
 3.  **Professor Eldrin Kai** (Tortle Chrono-Historian) - An ancient, slow-moving academic. **Voice:** Slow, deliberate, and creaky, like an old book. **Goal:** To preserve the timeline at all costs. **Secret:** He knew the victim was going to die and did nothing to stop it, to "preserve the integrity of the event."
 4.  **Conductor Unit 734** (Modron) - The head conductor, a stickler for the rules. **Voice:** A perfect, emotionless, robotic monotone. **Goal:** To ensure the train arrives precisely on schedule, murder notwithstanding. **Secret:** It has developed a "logic-flaw" which could be interpreted as a grudge against the victim.
@@ -164,7 +164,7 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 | **The Masseuse** | Djinni | Spa Car | Can literally "rub the pain away." |
 | **The Lifeguard** | Triton | Pool Car | Is very bored, as no one can drown in the magical water. |
 | **The Botanist** | Myconid | Garden Car | Is trying to grow a mushroom that can solve crimes. |
-| **The Philosopher** | Githzerai | Library Car | Is debating the metaphysical nature of the murder with himself. |
+| **The Philosopher** | Aetherbound | Library Car | Is debating the metaphysical nature of the murder with himself. |
 | **The Child's Doll** | Construct | Sleeper Car | A porcelain doll that saw everything. |
 | **The Ashtray** | Cursed Item | Lounge Car | Anything extinguished in it will reappear, still burning, later. |
 | **The Menu** | Magic Item | Dining Car | The daily specials sometimes list cryptic clues. |
@@ -367,4 +367,4 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 
 ## 10. RAG INDEX
 [TAG: INDEX_KEYWORDS]
-Astral Express, Murder Mystery, Hercule Poinsettia, Whodunnit, Paradox Engine, Time Loop, The Veiled Lady, Professor Kai, Modron, Asmodeus Jr., Zariel, Lord Harrington, Morpheus, Temporal Hiccup, Deduction Board, The First Conductor, Causality, Githzerai, Chronos-Historians.
+Astral Express, Murder Mystery, Hercule Poinsettia, Whodunnit, Paradox Engine, Time Loop, The Veiled Lady, Professor Kai, Modron, Asmodeus Jr., Zariel, Lord Harrington, Morpheus, Temporal Hiccup, Deduction Board, The First Conductor, Causality, Aetherbound, Chronos-Historians.
