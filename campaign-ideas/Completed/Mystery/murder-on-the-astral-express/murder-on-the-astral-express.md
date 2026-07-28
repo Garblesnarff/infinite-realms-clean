@@ -286,7 +286,7 @@ Every case: Truth revealed, justice served (or consciously withheld for greater 
 - Or dead person still killing
 - Time and causality tricks
 
-This is Agatha Christie in D&D form: Golden Age mystery, impossible puzzles, brilliant detection, and the satisfaction of order restored through the little grey cells.
+This is Agatha Christie in tabletop RPG form: Golden Age mystery, impossible puzzles, brilliant detection, and the satisfaction of order restored through the little grey cells.
 
 "The impossible could not have happened, therefore the impossible must be possible in spite of appearances."
 
