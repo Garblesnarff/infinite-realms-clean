@@ -1,0 +1,72 @@
+{
+  "batch": 2,
+  "selection_criteria": "Same as batch 1: complete 4-file packages, parser/chunker readiness, genre spread, avoid heavy film IP (Bebop, Le Guin, Last of Us). Prefer Phase 1 alternates and 100% full-parse packages.",
+  "campaigns": [
+    {
+      "id": "clash-of-olympus",
+      "genre": "Fantasy",
+      "path": "campaign-ideas/Completed/Fantasy/clash-of-olympus",
+      "why": "Phase 1 alternate; traditional demigod epic; 10/10 parse"
+    },
+    {
+      "id": "chronicles-of-the-somnolent-oracle",
+      "genre": "Fantasy",
+      "path": "campaign-ideas/Completed/Fantasy/chronicles-of-the-somnolent-oracle",
+      "why": "Original dream/oracle fantasy; 9/9 full; not a film clone"
+    },
+    {
+      "id": "ascension-protocol",
+      "genre": "Adventure",
+      "path": "campaign-ideas/Completed/Adventure/ascension-protocol",
+      "why": "Phase 1 alternate; combat/Titan hunt; 10/10"
+    },
+    {
+      "id": "against-the-titans",
+      "genre": "Adventure",
+      "path": "campaign-ideas/Completed/Adventure/against-the-titans",
+      "why": "Clear slayer-guild open; 10/10"
+    },
+    {
+      "id": "way-of-the-fading-blade",
+      "genre": "Historical",
+      "path": "campaign-ideas/Completed/Historical/way-of-the-fading-blade",
+      "why": "Phase 1 alternate; full package (note Last Samurai pastiche for PO)"
+    },
+    {
+      "id": "the-chosen-slayer",
+      "genre": "Urban",
+      "path": "campaign-ideas/Completed/Urban/the-chosen-slayer",
+      "why": "Full parse urban package; strong action open"
+    },
+    {
+      "id": "calypsos-death-derby",
+      "genre": "Horror",
+      "path": "campaign-ideas/Completed/Horror/calypsos-death-derby",
+      "why": "Vehicular death-tournament; distinct from batch-1 horror; 10/10"
+    },
+    {
+      "id": "the-revolutionaries-anthem",
+      "genre": "Intrigue",
+      "path": "campaign-ideas/Completed/Intrigue/the-revolutionaries-anthem",
+      "why": "Only remaining full-parse intrigue besides Eternal Feast"
+    },
+    {
+      "id": "the-verdant-codex",
+      "genre": "Mystery",
+      "path": "campaign-ideas/Completed/Mystery/the-verdant-codex",
+      "why": "Full parse mystery; needs PI + trademark cleanup"
+    },
+    {
+      "id": "see-you-space-cowboy",
+      "genre": "Sci-Fi",
+      "path": "campaign-ideas/Completed/Sci-Fi/see-you-space-cowboy",
+      "why": "Only sci-fi with authored HP/AC besides Bebop-heavy space opera. wings-of-the-crows has ability prose but ZERO HP/AC (no invent). Flag Cowboy Bebop pastiche for PO."
+    }
+  ],
+  "excluded_noteworthy": [
+    "wings-of-the-crows (bestiary with no HP/AC numbers — content gap, not format)",
+    "winters-ambassadors (Le Guin names)",
+    "the-watchmen-protocol / the-white-wolfs-hunt (named IP)",
+    "dust-devils-due and all Post-Apoc (still 0% parse, thin packages)"
+  ]
+}

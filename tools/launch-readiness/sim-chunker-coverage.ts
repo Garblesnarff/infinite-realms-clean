@@ -10,7 +10,7 @@ import {
   parseAuthoredStatBlock,
 } from '../../../infinite-realms-production/ai-adventure-scribe-main/server-bun/src/services/combat/authored-stat-block-parser.ts';
 
-const TEN: Record<string, string> = {
+const BATCH1: Record<string, string> = {
   'the-eternal-feast': 'campaign-ideas/Completed/Intrigue/the-eternal-feast',
   'the-porcelain-court': 'campaign-ideas/Completed/Horror/the-porcelain-court',
   'abyssal-descent': 'campaign-ideas/Completed/Horror/abyssal-descent',
@@ -24,6 +24,30 @@ const TEN: Record<string, string> = {
   'the-weather-weavers': 'campaign-ideas/Completed/Historical/the-weather-weavers',
   'wings-of-the-void': 'campaign-ideas/Completed/Sci-Fi/wings-of-the-void',
 };
+
+const BATCH2: Record<string, string> = {
+  'clash-of-olympus': 'campaign-ideas/Completed/Fantasy/clash-of-olympus',
+  'chronicles-of-the-somnolent-oracle':
+    'campaign-ideas/Completed/Fantasy/chronicles-of-the-somnolent-oracle',
+  'ascension-protocol': 'campaign-ideas/Completed/Adventure/ascension-protocol',
+  'against-the-titans': 'campaign-ideas/Completed/Adventure/against-the-titans',
+  'way-of-the-fading-blade': 'campaign-ideas/Completed/Historical/way-of-the-fading-blade',
+  'the-chosen-slayer': 'campaign-ideas/Completed/Urban/the-chosen-slayer',
+  'calypsos-death-derby': 'campaign-ideas/Completed/Horror/calypsos-death-derby',
+  'the-revolutionaries-anthem': 'campaign-ideas/Completed/Intrigue/the-revolutionaries-anthem',
+  'the-verdant-codex': 'campaign-ideas/Completed/Mystery/the-verdant-codex',
+  'see-you-space-cowboy': 'campaign-ideas/Completed/Sci-Fi/see-you-space-cowboy',
+};
+
+const batchArg = process.argv.includes('--batch2')
+  ? 2
+  : process.argv.includes('--batch1')
+    ? 1
+    : process.argv.includes('--all')
+      ? 0
+      : 2;
+const TEN: Record<string, string> =
+  batchArg === 1 ? BATCH1 : batchArg === 2 ? BATCH2 : { ...BATCH1, ...BATCH2 };
 
 /** Mirrors chunker.ts extractSection exactly. */
 function extractSection(content: string, headerName: string): string | undefined {
@@ -83,7 +107,7 @@ function extractEncounters(content: string): { entityName: string; content: stri
 }
 
 for (const [id, dir] of Object.entries(TEN)) {
-  const bible = readdirSync(dir).find((f) => /bible/i.test(f));
+  const bible = readdirSync(dir).find((f) => /bible/i.test(f) && !f.startsWith('._'));
   if (!bible) {
     console.log(id, 'NO BIBLE');
     continue;
@@ -98,11 +122,14 @@ for (const [id, dir] of Object.entries(TEN)) {
     else fails.push(`${c.entityName}(${g})`);
   }
   console.log(
-    `${id.padEnd(40)} chunker=${String(chunks.length).padStart(2)} full=${full}/${chunks.length}${fails.length ? ' FAIL ' + fails.join(', ') : ''}`,
+    `${id.padEnd(42)} chunker=${String(chunks.length).padStart(2)} full=${full}/${chunks.length}${fails.length ? ' FAIL ' + fails.join(', ') : ''}`,
   );
   if (chunks.length === 0) {
     const hasBestiary = /bestiary/i.test(text);
     const hpLines = (text.match(/\bHP\b/g) || []).length;
+    const idx = text.search(/BESTIARY|Bestiary/i);
+    const snip = idx >= 0 ? text.slice(idx, idx + 280).replace(/\n/g, ' | ') : '';
     console.log(`  (bestiary heading: ${hasBestiary}, HP mentions: ${hpLines})`);
+    if (snip) console.log(`  snippet: ${snip}`);
   }
 }
