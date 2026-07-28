@@ -300,15 +300,42 @@ The murder is not just a crime; it is a metaphysical attack on the concept of li
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Grief-Eater** (CR 4 Aberration). HP: 60, AC: 14. **Abilities:** *Incorporeal Movement*, *Feast on Sorrow* (Can cast *Phantasmal Killer* on any creature suffering from fear or sadness).
-2.  **Temporal Mite** (CR 1/2 Beast). HP: 10, AC: 15. **Abilities:** *Time-Nibble* (On a hit, the target's next turn is skipped on a failed WIS save), *Phase-Skitter* (Can become ethereal as a bonus action).
-3.  **Paradox-Hound** (CR 5 Monstrosity). HP: 75, AC: 16. **Abilities:** *Bifurcating Bite* (The target is hit by the attack in two different timelines, taking damage twice), *Causal Instability* (Has advantage on all saving throws).
-4.  **The Conductor's Echo** (CR 6 Undead). HP: 80, AC: 12. **Abilities:** *Shattering Touch* (Deals force damage and can shatter non-magical objects), *Timetable Wail* (Forces all creatures to hear their own scheduled time of death, causing psychic damage and fear).
-5.  **Axiomatic Enforcer** (CR 7 Construct). HP: 110, AC: 19. **Abilities:** *Rule of Law* (Can cast *Command* or *Hold Person* at will), *Bureaucratic Bindings* (Can restrain a target with red tape on a successful hit).
-6.  **The Un-Book** (CR 3 Construct). HP: 40, AC: 16. **Abilities:** *Erase Text* (Can remove a spell from a spellcaster's mind on a failed INT save), *Paper Cut Swarm* (Attacks all creatures in a 10-foot radius).
-7.  **The Sommelier's Ghost** (CR 2 Ghost). HP: 30, AC: 11. **Abilities:** *Incorporeal*, *Intoxicating Spirit* (Creatures moving through its space must save vs. being poisoned/drunk).
-8.  **The Grudge** (CR 5 Emotion Elemental). HP: 85, AC: 15. **Abilities:** *Emotional Weight* (Creates an aura of difficult terrain), *Vengeful Strike* (Deals extra psychic damage to anyone who has damaged it in the last round).
-9.  **The Lost Idea** (CR 4 Ooze). HP: 60, AC: 8. **Abilities:** *Amorphous*, *Mind-Meld* (On a hit, the target is overwhelmed with brilliant but useless ideas and is stunned for one round).
+### 1. Grief-Eater (CR 4)
+**HP:** 60 **AC:** 14
+**Abilities:** *Incorporeal Movement*, *Feast on Sorrow* (Can cast *Phantasmal Killer* on any creature suffering from fear or sadness).
+
+### 2. Temporal Mite (CR 1/2)
+**HP:** 10 **AC:** 15
+**Abilities:** *Time-Nibble* (On a hit, the target's next turn is skipped on a failed WIS save), *Phase-Skitter* (Can become ethereal as a bonus action).
+
+### 3. Paradox-Hound (CR 5)
+**HP:** 75 **AC:** 16
+**Abilities:** *Bifurcating Bite* (The target is hit by the attack in two different timelines, taking damage twice), *Causal Instability* (Has advantage on all saving throws).
+
+### 4. The Conductor's Echo (CR 6)
+**HP:** 80 **AC:** 12
+**Abilities:** *Shattering Touch* (Deals force damage and can shatter non-magical objects), *Timetable Wail* (Forces all creatures to hear their own scheduled time of death, causing psychic damage and fear).
+
+### 5. Axiomatic Enforcer (CR 7)
+**HP:** 110 **AC:** 19
+**Abilities:** *Rule of Law* (Can cast *Command* or *Hold Person* at will), *Bureaucratic Bindings* (Can restrain a target with red tape on a successful hit).
+
+### 6. The Un-Book (CR 3)
+**HP:** 40 **AC:** 16
+**Abilities:** *Erase Text* (Can remove a spell from a spellcaster's mind on a failed INT save), *Paper Cut Swarm* (Attacks all creatures in a 10-foot radius).
+
+### 7. The Sommelier's Ghost (CR 2)
+**HP:** 30 **AC:** 11
+**Abilities:** *Incorporeal*, *Intoxicating Spirit* (Creatures moving through its space must save vs. being poisoned/drunk).
+
+### 8. The Grudge (CR 5)
+**HP:** 85 **AC:** 15
+**Abilities:** *Emotional Weight* (Creates an aura of difficult terrain), *Vengeful Strike* (Deals extra psychic damage to anyone who has damaged it in the last round).
+
+### 9. The Lost Idea (CR 4)
+**HP:** 60 **AC:** 8
+**Abilities:** *Amorphous*, *Mind-Meld* (On a hit, the target is overwhelmed with brilliant but useless ideas and is stunned for one round).
+
 10. **The Murderer** (Varies) - The final stat block will be a modified version of one of the suspects, with new legendary actions and abilities based on their method and motive.
 
 [TAG: ENCOUNTER_TABLE]

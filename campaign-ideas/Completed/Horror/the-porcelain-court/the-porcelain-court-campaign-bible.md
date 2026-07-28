@@ -309,16 +309,46 @@ The conflict is a battle between the concepts of **Life (Chaos & Change)** and *
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Chipped Hound** (CR 3 Beast Construct). HP: 50, AC: 16. **Abilities:** *Jagged Hide* (Deals 1d4 piercing damage to any creature that hits it with a melee attack), *Shattering Howl* (30-ft cone, DC 13 CON save or take 2d6 thunder damage and be deafened).
-2.  **Tapestry Serpent** (CR 4 Construct). HP: 65, AC: 14. **Abilities:** *Unravel* (Can become a 2D pattern on a wall as a bonus action, becoming immune to physical damage), *Threadbare Constrict* (Grapples and restrains target, dealing piercing damage as it tightens).
-3.  **The Unfinished** (CR 6 Aberration). HP: 90, AC: 12. **Abilities:** *Amorphous Form* (Can move through a space as narrow as 1 inch wide), *Mismatched Slam* (Makes two attacks, one with a porcelain fist, one with a fleshy claw).
-4.  **Gilded Archer** (CR 2 Construct). HP: 30, AC: 17. **Abilities:** *Porcelain Arrow* (On hit, target's speed is reduced by 10ft until healed), *Stillness* (Has advantage on stealth checks as long as it doesn't move).
-5.  **The Collector's Mannequin** (CR 5 Construct). HP: 75, AC: 18. **Abilities:** *Capture* (Can attempt to grapple and pull a creature into its hollow chest cavity, trapping it), *Pose of Judgment* (Forces a creature to make a DC 14 WIS save or be paralyzed by self-doubt).
-6.  **Glass Cat** (CR 1/2 Beast Construct). HP: 10, AC: 15. **Abilities:** *Silent Pounce*, *Shatter Claws* (On a critical hit, the cat's claws shatter, dealing an extra 1d6 piercing damage to the target and 1d4 to the cat).
-7.  **The Kiln-Wraith** (CR 8 Elemental). HP: 120, AC: 13. **Abilities:** *Aura of Intense Heat* (Creatures within 10ft take 1d6 fire damage), *Melt Porcelain* (Deals double damage to porcelain constructs).
-8.  **Dust Devil** (CR 4 Elemental). HP: 60, AC: 16. **Abilities:** *Blinding Cloud* (Can create a swirling cloud of dust), *Whispering Winds* (Can mimic the voices of the dead whose dust it is made from).
-9.  **The Mad Hatter** (CR 3 Fey). HP: 45, AC: 15. **Abilities:** *Switch Places* (Can swap places with any party member as a legendary action), *Riddle of Madness* (Target must make a DC 13 INT save or be confused).
-10. **The Artisan's Hand** (CR 10 Construct). HP: 150, AC: 20. **Abilities:** *Perfecting Grasp* (Grapples a target. On the next turn, can attempt to begin turning them to porcelain), *Flick* (A flick of a finger sends a target flying 30 feet).
+### 1. Chipped Hound (CR 3)
+**HP:** 50 **AC:** 16
+**Abilities:** *Jagged Hide* (Deals 1d4 piercing damage to any creature that hits it with a melee attack), *Shattering Howl* (30-ft cone, DC 13 CON save or take 2d6 thunder damage and be deafened).
+
+### 2. Tapestry Serpent (CR 4)
+**HP:** 65 **AC:** 14
+**Abilities:** *Unravel* (Can become a 2D pattern on a wall as a bonus action, becoming immune to physical damage), *Threadbare Constrict* (Grapples and restrains target, dealing piercing damage as it tightens).
+
+### 3. The Unfinished (CR 6)
+**HP:** 90 **AC:** 12
+**Abilities:** *Amorphous Form* (Can move through a space as narrow as 1 inch wide), *Mismatched Slam* (Makes two attacks, one with a porcelain fist, one with a fleshy claw).
+
+### 4. Gilded Archer (CR 2)
+**HP:** 30 **AC:** 17
+**Abilities:** *Porcelain Arrow* (On hit, target's speed is reduced by 10ft until healed), *Stillness* (Has advantage on stealth checks as long as it doesn't move).
+
+### 5. The Collector's Mannequin (CR 5)
+**HP:** 75 **AC:** 18
+**Abilities:** *Capture* (Can attempt to grapple and pull a creature into its hollow chest cavity, trapping it), *Pose of Judgment* (Forces a creature to make a DC 14 WIS save or be paralyzed by self-doubt).
+
+### 6. Glass Cat (CR 1/2)
+**HP:** 10 **AC:** 15
+**Abilities:** *Silent Pounce*, *Shatter Claws* (On a critical hit, the cat's claws shatter, dealing an extra 1d6 piercing damage to the target and 1d4 to the cat).
+
+### 7. The Kiln-Wraith (CR 8)
+**HP:** 120 **AC:** 13
+**Abilities:** *Aura of Intense Heat* (Creatures within 10ft take 1d6 fire damage), *Melt Porcelain* (Deals double damage to porcelain constructs).
+
+### 8. Dust Devil (CR 4)
+**HP:** 60 **AC:** 16
+**Abilities:** *Blinding Cloud* (Can create a swirling cloud of dust), *Whispering Winds* (Can mimic the voices of the dead whose dust it is made from).
+
+### 9. The Mad Hatter (CR 3)
+**HP:** 45 **AC:** 15
+**Abilities:** *Switch Places* (Can swap places with any party member as a legendary action), *Riddle of Madness* (Target must make a DC 13 INT save or be confused).
+
+### 10. The Artisan's Hand (CR 10)
+**HP:** 150 **AC:** 20
+**Abilities:** *Perfecting Grasp* (Grapples a target. On the next turn, can attempt to begin turning them to porcelain), *Flick* (A flick of a finger sends a target flying 30 feet).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

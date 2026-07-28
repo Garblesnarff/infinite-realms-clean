@@ -314,36 +314,36 @@ Hidden bases in the upper atmosphere.
 
 ### Custom Monsters (10 Stat Blocks)
 
-1.  **Rogue Cumulus** (CR 3)
-    *   **HP:** 45 | **AC:** 12 | **Speed:** Fly 40ft (hover)
-    *   **Abilities:** *Engulf:* DC 13 Dex or be blinded/suffocating inside the cloud. *Lightning Burp:* 2d6 Lightning damage (Recharge 5-6).
-2.  **Pressure Hound** (CR 5)
-    *   **HP:** 80 | **AC:** 18 (Compressed air armor) | **Speed:** 50ft
-    *   **Abilities:** *Implosion Bite:* On hit, target makes CON save or takes extra force damage as their blood boils. *Density Shift:* Can become incorporeal for movement.
-3.  **Hail-Wasp Swarm** (CR 2)
-    *   **HP:** 30 | **AC:** 14 | **Speed:** Fly 60ft
-    *   **Abilities:** *Ice Sting:* Deals piercing + cold damage. *Meltdown:* If killed with fire, explodes into scalding steam.
-4.  **Guild Enforcer** (CR 4)
-    *   **HP:** 60 | **AC:** 16 (Plate) | **Speed:** 30ft
-    *   **Abilities:** *Taser-Lance:* 1d10 piercing + 1d6 lightning. *Arrest:* Advantage on grappling.
-5.  **Living Mirage** (CR 6)
-    *   **HP:** 75 | **AC:** 15 | **Speed:** 0 (Teleport only)
-    *   **Abilities:** *Displacement:* Attacks have disadvantage. *Heat Wave:* Aura deals 1d8 fire damage to adjacent enemies.
-6.  **Fulgurite Golem** (CR 8)
-    *   **HP:** 120 | **AC:** 19 | **Speed:** 20ft
-    *   **Abilities:** *Glass Shards:* When hit, attackers take 1d4 piercing damage. *Ground Smash:* Knockdown in 15ft radius.
-7.  **Draft Elemental** (CR 1)
-    *   **HP:** 15 | **AC:** 13 | **Speed:** Fly 50ft
-    *   **Abilities:** *Extinguish:* Puts out all non-magical fires. *Push:* Shoves target 10ft.
-8.  **Sky-Shark** (CR 3)
-    *   **HP:** 50 | **AC:** 14 | **Speed:** Swim (Air) 60ft
-    *   **Abilities:** *Blood Scent:* Can track injured targets up to 5 miles. *Flyby:* No opportunity attacks.
-9.  **Ozone Ghoul** (CR 4)
-    *   **HP:** 40 | **AC:** 12 | **Speed:** 30ft
-    *   **Abilities:** *Radioactive Touch:* Necrotic damage reduces max HP. *Stench:* Poisoned condition aura.
-10. **The Weaver's Hand** (CR 10)
-    *   **HP:** 150 | **AC:** 17 | **Speed:** Fly 30ft
-    *   **Abilities:** *Unravel:* Deletes one spell slot from target on hit. *Weave Reality:* Casts Wall of Force at will.
+### 1. Rogue Cumulus (CR 3)
+**HP:** 45   **AC:** 12   **Speed:** Fly 40ft (hover)
+**Abilities:** *Engulf:* DC 13 Dex or be blinded/suffocating inside the cloud. *Lightning Burp:* 2d6 Lightning damage (Recharge 5-6).
+### 2. Pressure Hound (CR 5)
+**HP:** 80   **AC:** 18 (Compressed air armor)   **Speed:** 50ft
+**Abilities:** *Implosion Bite:* On hit, target makes CON save or takes extra force damage as their blood boils. *Density Shift:* Can become incorporeal for movement.
+### 3. Hail-Wasp Swarm (CR 2)
+**HP:** 30   **AC:** 14   **Speed:** Fly 60ft
+**Abilities:** *Ice Sting:* Deals piercing + cold damage. *Meltdown:* If killed with fire, explodes into scalding steam.
+### 4. Guild Enforcer (CR 4)
+**HP:** 60   **AC:** 16 (Plate)   **Speed:** 30ft
+**Abilities:** *Taser-Lance:* 1d10 piercing + 1d6 lightning. *Arrest:* Advantage on grappling.
+### 5. Living Mirage (CR 6)
+**HP:** 75   **AC:** 15   **Speed:** 0 (Teleport only)
+**Abilities:** *Displacement:* Attacks have disadvantage. *Heat Wave:* Aura deals 1d8 fire damage to adjacent enemies.
+### 6. Fulgurite Golem (CR 8)
+**HP:** 120   **AC:** 19   **Speed:** 20ft
+**Abilities:** *Glass Shards:* When hit, attackers take 1d4 piercing damage. *Ground Smash:* Knockdown in 15ft radius.
+### 7. Draft Elemental (CR 1)
+**HP:** 15   **AC:** 13   **Speed:** Fly 50ft
+**Abilities:** *Extinguish:* Puts out all non-magical fires. *Push:* Shoves target 10ft.
+### 8. Sky-Shark (CR 3)
+**HP:** 50   **AC:** 14   **Speed:** Swim (Air) 60ft
+**Abilities:** *Blood Scent:* Can track injured targets up to 5 miles. *Flyby:* No opportunity attacks.
+### 9. Ozone Ghoul (CR 4)
+**HP:** 40   **AC:** 12   **Speed:** 30ft
+**Abilities:** *Radioactive Touch:* Necrotic damage reduces max HP. *Stench:* Poisoned condition aura.
+### 10. The Weaver's Hand (CR 10)
+**HP:** 150   **AC:** 17   **Speed:** Fly 30ft
+**Abilities:** *Unravel:* Deletes one spell slot from target on hit. *Weave Reality:* Casts Wall of Force at will.
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

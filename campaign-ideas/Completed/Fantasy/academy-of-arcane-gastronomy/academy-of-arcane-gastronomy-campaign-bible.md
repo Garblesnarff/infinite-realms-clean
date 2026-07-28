@@ -306,16 +306,46 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Flavor-Elemental (Corrupted)** (CR 5 Elemental). HP: 80, AC: 14. **Abilities:** *Discordant Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on taste-related checks), *Volatile Burst* (Explodes on death, dealing 3d6 damage of a random flavor type).
-2.  **Monotony Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Bland Touch* (Melee attack deals necrotic damage and makes target's food taste like ash for 1 hour), *Anti-Flavor Aura* (Dulls all magic within 10ft).
-3.  **Sugar-Golem** (CR 6 Construct). HP: 100, AC: 16. **Abilities:** *Sticky Grasp* (Grapples and restrains target, dealing bludgeoning damage), *Sweet Explosion* (Explodes on death, dealing 4d6 piercing damage from sugar shards).
-4.  **Sour Knight** (CR 4 Humanoid). HP: 60, AC: 17. **Abilities:** *Bitter Blade* (Melee attack deals extra necrotic damage and inflicts a lingering bitter taste), *Cynical Aura* (Creatures within 10ft have disadvantage on morale checks).
-5.  **Recipe Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Memory-Spoon* (Can extract a recipe directly from a chef's mind), *Disguise Self* (Can change its appearance as a bonus action).
-6.  **Culinary Critic (Disgraced)** (CR 3 Humanoid). HP: 45, AC: 13. **Abilities:** *Scathing Critique* (Forces a WIS save vs. taking psychic damage and being demoralized), *Golden Spoon (Lost)* (Has a faint aura of lost power).
-7.  **Pepper King (Crime Lord)** (CR 8 Humanoid). HP: 120, AC: 18. **Abilities:** *Chili Breath* (15-ft cone, 4d6 fire damage and blinds targets), *Flavor-Elemental Bodyguards* (Always accompanied by 1d4 Flavor-Elementals).
-8.  **Umami Overlord (Avatar)** (CR 12 Elemental). HP: 200, AC: 16. **Abilities:** *Savory Aura* (Creatures within 30ft are filled with a sense of contentment and have disadvantage on attack rolls), *Flavor Blast* (Deals massive force damage).
-9.  **The Bland One (Monotony Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Flavor Aura* (Drains all color and taste from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **Grand Chef Sazón (Corrupted)** (CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Divine Palate (Corrupted)* (Can identify any flavor, but it always tastes bland), *Recipe of Destruction* (Can cast powerful flavor-based spells that cause chaos).
+### 1. Flavor-Elemental (Corrupted) (CR 5)
+**HP:** 80 **AC:** 14
+**Abilities:** *Discordant Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on taste-related checks), *Volatile Burst* (Explodes on death, dealing 3d6 damage of a random flavor type).
+
+### 2. Monotony Cultist (CR 2)
+**HP:** 30 **AC:** 12
+**Abilities:** *Bland Touch* (Melee attack deals necrotic damage and makes target's food taste like ash for 1 hour), *Anti-Flavor Aura* (Dulls all magic within 10ft).
+
+### 3. Sugar-Golem (CR 6)
+**HP:** 100 **AC:** 16
+**Abilities:** *Sticky Grasp* (Grapples and restrains target, dealing bludgeoning damage), *Sweet Explosion* (Explodes on death, dealing 4d6 piercing damage from sugar shards).
+
+### 4. Sour Knight (CR 4)
+**HP:** 60 **AC:** 17
+**Abilities:** *Bitter Blade* (Melee attack deals extra necrotic damage and inflicts a lingering bitter taste), *Cynical Aura* (Creatures within 10ft have disadvantage on morale checks).
+
+### 5. Recipe Thief (Master) (CR 5)
+**HP:** 75 **AC:** 15
+**Abilities:** *Memory-Spoon* (Can extract a recipe directly from a chef's mind), *Disguise Self* (Can change its appearance as a bonus action).
+
+### 6. Culinary Critic (Disgraced) (CR 3)
+**HP:** 45 **AC:** 13
+**Abilities:** *Scathing Critique* (Forces a WIS save vs. taking psychic damage and being demoralized), *Golden Spoon (Lost)* (Has a faint aura of lost power).
+
+### 7. Pepper King (Crime Lord) (CR 8)
+**HP:** 120 **AC:** 18
+**Abilities:** *Chili Breath* (15-ft cone, 4d6 fire damage and blinds targets), *Flavor-Elemental Bodyguards* (Always accompanied by 1d4 Flavor-Elementals).
+
+### 8. Umami Overlord (Avatar) (CR 12)
+**HP:** 200 **AC:** 16
+**Abilities:** *Savory Aura* (Creatures within 30ft are filled with a sense of contentment and have disadvantage on attack rolls), *Flavor Blast* (Deals massive force damage).
+
+### 9. The Bland One (Monotony Avatar) (CR 15)
+**HP:** 250 **AC:** 19
+**Abilities:** *Anti-Flavor Aura* (Drains all color and taste from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+
+### 10. Grand Chef Sazón (Corrupted) (CR 10)
+**HP:** 150 **AC:** 17
+**Abilities:** *Divine Palate (Corrupted)* (Can identify any flavor, but it always tastes bland), *Recipe of Destruction* (Can cast powerful flavor-based spells that cause chaos).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)
