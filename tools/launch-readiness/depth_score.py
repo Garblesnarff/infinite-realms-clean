@@ -10,7 +10,7 @@ three creatures with new nouns.
   python3 depth_score.py --top 30   # shortlist
   python3 depth_score.py --json     # machine-readable
 """
-import os, sys, json, collections
+import os, re, sys, json, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import irparse
 
@@ -26,6 +26,24 @@ SHIPPED = {  # already on the launch shelf (batches 1 and 2)
 # premises built on a Wizards setting; a rename does not fix these
 KNOCKOFFS = {'factions-of-sigil','domains-of-dread','sharn-city-of-towers',
              'wasteland-of-athas','wildspace-corsairs','goldport','deductions-of-baker-street'}
+# third-party (non-Wizards) proper nouns: anime, film and novel pastiche.
+# Distinctive names only, matched on word boundaries. Common English words such
+# as "quirk" or "ork" are not usable signals.
+PASTICHE = {
+ 'demon-slayer':   [r'nichirin', r'hashira', r'muzan', r'tanjiro', r'nezuko', r'kamado'],
+ 'cowboy-bebop':   [r'bebop', r'spike spiegel', r'faye valentine', r'jet black', r'swordfish ii'],
+ 'my-hero-academia':[r'u\.a\. high', r'all ?might', r'one for all', r'izuku', r'bakugo', r'quirkless'],
+ 'le-guin':        [r'ekumen', r'gethen', r'earthsea', r'roke island', r'shevek', r'tehanu'],
+ 'harry-potter':   [r'hogwarts', r'muggles?', r'quidditch', r'voldemort', r'dumbledore'],
+ 'tolkien':        [r'hobbits?', r'mordor', r'gandalf', r'rivendell', r'gondor', r'sauron'],
+ 'star-wars':      [r'jedi', r'sith', r'lightsabers?', r'padawan'],
+ 'warhammer':      [r'adeptus', r'imperium of man', r'space marines?', r'grimdark'],
+ 'princess-bride': [r'westley', r'buttercup', r'inigo montoya', r'fezzik', r'humperdinck'],
+ 'lovecraft-named':[r'cthulhu', r'arkham', r'miskatonic', r"r'lyeh", r'nyarlathotep'],
+ 'percy-jackson':  [r'camp half.?blood', r'percy jackson', r'annabeth'],
+}
+PASTICHE_RE = {k: re.compile(r'\b(?:' + '|'.join(v) + r')\b', re.I) for k, v in PASTICHE.items()}
+
 PI = ['beholder','death tyrant','mind flayer','illithid','githyanki','githzerai','yuan-ti',
       'kuo-toa','slaad','umber hulk','displacer beast','carrion crawler','modron',
       'intellect devourer','flumph','froghemoth']   # verified absent from SRD 5.1
@@ -58,6 +76,7 @@ def analyse():
             complete=all(any(k in f for f in fs) for k in ('creative-brief','world-building'))
                      and any(f == slug+'.md' or f == 'overview.md' for f in fs),
             pi=[n for n in PI if n in low],
+            pastiche=sorted({k for k,rx in PASTICHE_RE.items() if rx.search(low)}),
             knockoff=slug in KNOCKOFFS, shipped=slug in SHIPPED, sig=stats))
     # a stat signature shared by many campaigns means a generator template, not authorship
     freq = collections.Counter(r['sig'] for r in rows)
@@ -69,6 +88,7 @@ def analyse():
         s -= 40 if r['clone_peers'] >= 4 else 0         # template clone
         s -= 10 * len(r['pi'])                          # rename work outstanding
         s -= 60 if r['knockoff'] else 0                 # cannot ship at all
+        s -= 15 * len(r['pastiche'])                    # third-party names to strip
         r['score'] = round(s, 1)
     return sorted(rows, key=lambda r: -r['score'])
 
@@ -85,6 +105,7 @@ def main():
         if r['pi']: flags.append('PI:'+','.join(r['pi']))
         if not r['complete']: flags.append('incomplete-package')
         if r['clone_peers'] >= 4: flags.append('template-clone')
+        if r['pastiche']: flags.append('pastiche:'+','.join(r['pastiche']))
         print('%-42s %-16s %5.1f %4d %6.1f %6d  %s' %
               (r['slug'], r['genre'], r['score'], r['monsters'],
                r['bible_kb'], r['clone_peers'], ' '.join(flags)))
@@ -93,8 +114,10 @@ def main():
     print('  already shipped:      %d' % sum(1 for r in rows if r['shipped']))
     print('  setting knockoffs:    %d' % sum(1 for r in rows if r['knockoff']))
     print('  template clones:      %d' % sum(1 for r in rows if r['clone_peers'] >= 4))
+    print('  carrying pastiche:    %d' % sum(1 for r in rows if r['pastiche']))
     print('  clean and available:  %d' % sum(
-        1 for r in avail if r['clone_peers'] < 4 and not r['pi'] and r['complete']))
+        1 for r in avail if r['clone_peers'] < 4 and not r['pi']
+        and not r['pastiche'] and r['complete']))
 
 if __name__ == '__main__':
     main()
