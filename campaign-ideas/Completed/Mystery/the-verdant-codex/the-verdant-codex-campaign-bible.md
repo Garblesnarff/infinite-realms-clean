@@ -53,7 +53,7 @@ The Codex acted as a metaphysical anchor for the Feywild. Without it, the Feywil
 
 ### The Cartographers of the Void
 **Type:** Interplanar Explorers Union
-**Leader:** Captain Hesperus (A Githyanki Astral-Sailor).
+**Leader:** Captain Hesperus (A Silverblade astral-sailor).
 **Asset:** **Non-Euclidean Maps:** Maps that show shortcuts through solid walls.
 **Rivals:** The Court of Gloomwood (Trespassing disputes).
 **Goal:** To map the shifting interior of the Codex.
@@ -114,7 +114,7 @@ The Codex acted as a metaphysical anchor for the Feywild. Without it, the Feywil
 7.  **The Silent Judge** (Devil) - Wears a mask, never speaks, writes verdicts in fire. **Voice:** [None - uses sound of scratching quill]. **Goal:** To prosecute the theft of the Codex. **Secret:** He is working for the Weeping Spoons.
 8.  **Lady Gossamer** (Fairy Warlock) - 6 inches tall, terrifyingly violent. **Voice:** [Squeaky, helium-high, screaming profanities]. **Goal:** To rule the Feywild. **Secret:** She is afraid of cats.
 9.  **Brother Ooze** (Plasmoid Monk) - A sentient green slime in robes. **Voice:** [Wet, gurgling, bubbly]. **Goal:** Inner peace. **Secret:** He was once a potion of healing that gained sentience.
-10. **Captain Hesperus** (Githyanki) - Space pirate. **Voice:** [Raspy, dry, uses nautical slang]. **Goal:** Map the un-mappable. **Secret:** He is lost and won't admit it.
+10. **Captain Hesperus** (Silverblade astral corsair) - Space pirate. **Voice:** [Raspy, dry, uses nautical slang]. **Goal:** Map the un-mappable. **Secret:** He is lost and won't admit it.
 11. **The Curator** (Construct) - A stone golem librarian. **Voice:** [Grinding stone, heavy bass]. **Goal:** Silence in the library. **Secret:** It reads romance novels at night.
 12. **Professor Pimbly** (Owlin Wizard) - Nervous academic. **Voice:** [Soft, hooting, breathless]. **Goal:** Tenure. **Secret:** He forged his degree.
 13. **Azalea** (Dryad) - Grows out of a ship's mast. **Voice:** [Creaking wood, wind in leaves]. **Goal:** Return to the forest. **Secret:** She is steering the ship to the Feywild against the crew's will.
@@ -123,7 +123,7 @@ The Codex acted as a metaphysical anchor for the Feywild. Without it, the Feywil
 16. **Orion** (Tiefling Sorcerer) - His skin is a star map. **Voice:** [Distant, dreamy, slow]. **Goal:** To find his home star. **Secret:** He fell out of the Codex's astronomy chapter.
 17. **Krix** (Kobold Inventor) - Wears a pot on head. **Voice:** [Yippy, fast, excited barking]. **Goal:** Build a god. **Secret:** The pot is magical.
 18. **Seraphina** (Aasimar Cleric) - Burned out, cynical healer. **Voice:** [Tired, gravelly, cynical]. **Goal:** Retirement. **Secret:** She has lost her faith but the magic still works.
-19. **Void-Eye** (Beholder) - A tiny beholder, size of a grape. **Voice:** [High pitched buzzing]. **Goal:** World domination (eventually). **Secret:** He is a pet to the Knight of Thorns.
+19. **Void-Eye** (grape-sized floating eye-cluster spirit) - A miniature orb of blinking pupils the size of a grape. **Voice:** [High pitched buzzing]. **Goal:** World domination (eventually). **Secret:** He is a pet to the Knight of Thorns.
 20. **The Page** (Living Spell) - A page of the Codex that formed a humanoid shape. **Voice:** [Rustling paper, whispering wind]. **Goal:** To be bound. **Secret:** It contains the spell for "The End of the World."
 
 [TAG: NPC_TIER_2]
@@ -227,7 +227,7 @@ The Codex acted as a metaphysical anchor for the Feywild. Without it, the Feywil
 *   **Concept:** Where lost socks and forgotten memories end up.
 *   **Loc 1:** **The Pile.** A mountain of left shoes.
 *   **Loc 2:** **The Memory Broker.** Buys and sells childhoods.
-*   **Loc 3:** **The Stray Dog Sanctuary.** Blink dogs rule here.
+*   **Loc 3:** **The Stray Dog Sanctuary.** Flickerhounds rule here.
 *   **Loc 4:** **The Void-Dock.** Ships sailing from nowhere.
 *   **Loc 5:** **The Lost & Found.** The administrative center.
 *   **Sensory:** Smell: Mothballs and dust. Sound: Muffled crying and laughter.
@@ -330,16 +330,46 @@ The Codex acted as a metaphysical anchor for the Feywild. Without it, the Feywil
 
 [TAG: ENEMY_STATBLOCK]
 
-1.  **Origami Golem** (CR 3). HP: 40, AC: 18 (Paper layers). **Ability:** *Paper Cut* (Bleed damage). **Passive:** *Flammable* (Vuln to Fire).
-2.  **Ink Elemental** (CR 5). HP: 80, AC: 14. **Ability:** *Blinding Spray* (Blinds targets). **Passive:** *Amorphous*.
-3.  **Silence Stalker** (CR 4). HP: 60, AC: 16. **Ability:** *Aura of Silence* (No verbal spells). **Action:** *Throat Slit*.
-4.  **Rotten Treant** (CR 6). HP: 100, AC: 15. **Ability:** *Spore Cloud* (Poison). **Passive:** *Undead Nature*.
-5.  **Page Swarm** (CR 2). HP: 30, AC: 12. **Ability:** *Thousand Cuts*. **Passive:** *Flutter* (High evasion).
-6.  **Clockwork Wasp** (CR 1). HP: 10, AC: 18. **Ability:** *Sting* (Paralysis). **Passive:** *Flyby*.
-7.  **Living Spell (Fireball)** (CR 5). HP: 50, AC: 12. **Ability:** *Explode* (Self-destruct). **Passive:** *Magic Absorption*.
-8.  **Echo Shade** (CR 3). HP: 45, AC: 14. **Ability:** *Mimicry* (Lures players). **Action:** *Sonic Scream*.
-9.  **Glass Knight** (CR 7). HP: 90, AC: 20. **Ability:** *Reflect Magic*. **Passive:** *Shatter* (Explodes on death).
-10. **Codex Guardian** (CR 10). HP: 200, AC: 18. **Ability:** *Reality Shift* (Change terrain). **Action:** *Banishment*.
+### 1. Origami Golem (CR 3)
+**HP:** 40 **AC:** 18
+(Paper layers). **Ability:** *Paper Cut* (Bleed damage). **Passive:** *Flammable* (Vuln to Fire).
+
+### 2. Ink Elemental (CR 5)
+**HP:** 80 **AC:** 14
+**Ability:** *Blinding Spray* (Blinds targets). **Passive:** *Amorphous*.
+
+### 3. Silence Stalker (CR 4)
+**HP:** 60 **AC:** 16
+**Ability:** *Aura of Silence* (No verbal spells). **Action:** *Throat Slit*.
+
+### 4. Rotten Treant (CR 6)
+**HP:** 100 **AC:** 15
+**Ability:** *Spore Cloud* (Poison). **Passive:** *Undead Nature*.
+
+### 5. Page Swarm (CR 2)
+**HP:** 30 **AC:** 12
+**Ability:** *Thousand Cuts*. **Passive:** *Flutter* (High evasion).
+
+### 6. Clockwork Wasp (CR 1)
+**HP:** 10 **AC:** 18
+**Ability:** *Sting* (Paralysis). **Passive:** *Flyby*.
+
+### 7. Living Spell (Fireball) (CR 5)
+**HP:** 50 **AC:** 12
+**Ability:** *Explode* (Self-destruct). **Passive:** *Magic Absorption*.
+
+### 8. Echo Shade (CR 3)
+**HP:** 45 **AC:** 14
+**Ability:** *Mimicry* (Lures players). **Action:** *Sonic Scream*.
+
+### 9. Glass Knight (CR 7)
+**HP:** 90 **AC:** 20
+**Ability:** *Reflect Magic*. **Passive:** *Shatter* (Explodes on death).
+
+### 10. Codex Guardian (CR 10)
+**HP:** 200 **AC:** 18
+**Ability:** *Reality Shift* (Change terrain). **Action:** *Banishment*.
+
 
 [TAG: ENCOUNTER_TABLE]
 
