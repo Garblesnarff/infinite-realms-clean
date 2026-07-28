@@ -1,6 +1,6 @@
 # AI World-Forge for TTRPGs
 
-This project is an automated pipeline that uses a team of AI crews, powered by CrewAI, to expand a simple `world-building-spec.md` file into a complete, database-ready Dungeons & Dragons campaign world.
+This project is an automated pipeline that uses a team of AI crews, powered by CrewAI, to expand a simple `world-building-spec.md` file into a complete, database-ready 5E tabletop roleplaying campaign world.
 
 ## Installation
 

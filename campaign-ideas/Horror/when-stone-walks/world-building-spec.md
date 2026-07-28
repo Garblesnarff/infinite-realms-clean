@@ -14,7 +14,7 @@
 **Campaign Present**: Awakening triggered—humanity reached critical threshold matching First Civilization's collapse conditions.
 
 ## Cosmology
-**The World**: Standard D&D fantasy world but with ruins of far more advanced ancient civilization beneath current cultures. Magic exists alongside remnant super-technology.
+**The World**: Standard fantasy world but with ruins of far more advanced ancient civilization beneath current cultures. Magic exists alongside remnant super-technology.
 
 **First Civilization**: Neither fully revealed nor erased. Evidence scattered—impossibly precise stonework, artifacts that shouldn't exist, genetic traces in bloodlines.
 

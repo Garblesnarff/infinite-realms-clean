@@ -3,7 +3,7 @@
 ## Real-World Basis: Göbekli Tepe
 An archaeological site in Turkey containing a massive temple complex dated to 9,500 BC. It was built by a society that was believed to be primitive hunter-gatherers, yet it predates Stonehenge by 6,000 years and shows immense architectural and social organization. After a period of use, its builders deliberately and completely buried it, hiding it for millennia.
 
-## D&D Twist
+## 5E Twist
 The temple wasn't built by humans. It was constructed by a coalition of the world's first sentient races (perhaps early Elves, Dwarves, or even Aboleths) during the Dawn War. It is not a place of worship, but a prison. The entire complex is a massive, three-dimensional arcane ward, designed to hold a single, world-destroying primordial entity of chaos and destruction. The reason it was buried was to complete the binding and erase its memory from the world.
 
 ## Campaign Premise (Ancient Mystery/Dungeon Crawl)

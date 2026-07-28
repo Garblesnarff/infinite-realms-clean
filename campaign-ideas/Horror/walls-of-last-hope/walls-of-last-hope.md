@@ -317,4 +317,4 @@ Every victory costs something. Every choice has horrific consequences. The campa
 
 The scale creates both gameplay and moral challenge: when facing extinction, how far is too far? When the enemy is 60 feet tall and seemingly unstoppable, adapting requires sacrifice. When that enemy turns out to be human, or your friend, the campaign forces confrontation with uncomfortable truths.
 
-This is **Attack on Titan in D&D form**: military horror, political thriller, war drama, and philosophical nightmare about freedom, duty, revenge, and the cost of survival.
+This is **Attack on Titan in tabletop RPG form**: military horror, political thriller, war drama, and philosophical nightmare about freedom, duty, revenge, and the cost of survival.

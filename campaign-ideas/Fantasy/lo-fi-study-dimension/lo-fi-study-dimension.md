@@ -237,4 +237,4 @@ But beneath the peaceful surface, something is wrong. Pages are vanishing from b
 
 **Defeat:** Uncontrolled collapse destroying knowledge and community, or becoming so rigid that learning stops
 
-This campaign asks: What is worth knowing? What is worth keeping? Can we accept that not everything lasts forever? It's gentle philosophy through D&D.
+This campaign asks: What is worth knowing? What is worth keeping? Can we accept that not everything lasts forever? It's gentle philosophy through 5E.

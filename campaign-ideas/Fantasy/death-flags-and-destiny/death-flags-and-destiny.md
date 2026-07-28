@@ -1,6 +1,6 @@
 # Death Flags & Destiny
 
-A Dungeons & Dragons 5e campaign of social intrigue, fate manipulation, and avoiding your prophesied doom.
+A 5E campaign of social intrigue, fate manipulation, and avoiding your prophesied doom.
 
 *   **Genre**: Social Intrigue, Romantic Comedy, Fate Manipulation
 *   **Tone**: Light-hearted with Stakes

@@ -33,10 +33,10 @@ Inspired by the gritty, voxel-based aesthetic of *7 Days to Die*, blending reali
 *   **Prompt Example:** "...a color palette dominated by deep, ominous reds and blacks for the Blood Moon sky. The landscape below is cast in shadow, with the sickly green glow of zombie eyes punctuating the darkness."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in practical, scavenged post-apocalyptic gear (torn clothing, makeshift armor, improvised weapons).
+*   **Style:** fantasy adventurers in practical, scavenged post-apocalyptic gear (torn clothing, makeshift armor, improvised weapons).
 *   **Zombies:** Horrifically detailed—rotting flesh, exposed bones, missing limbs, glowing eyes. Various types (basic, feral, demolisher) are visually distinct.
 *   **Expression:** Adventurers show exhaustion, determination, and fear. Zombies are mindless, horrifying, and relentless.
-*   **Prompt Example:** "A D&D adventurer in scavenged tactical gear, holding a makeshift spiked club and a shotgun. Their face is dirty and exhausted. Behind them, a grotesque zombie with rotting flesh and glowing eyes reaches out."
+*   **Prompt Example:** "A fantasy adventurer in scavenged tactical gear, holding a makeshift spiked club and a shotgun. Their face is dirty and exhausted. Behind them, a grotesque zombie with rotting flesh and glowing eyes reaches out."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Realistic post-apocalyptic towns and wilderness, with a mix of decay and fortification.

@@ -60,4 +60,4 @@ The tension between public persona and private self. The fear that our authentic
 - **Intimacy Through Mundane Acts**: Major relationship development happens during domestic activities—cooking, cleaning, shopping, caring for Souta. These are skill challenges that build emotional connection.
 - **Revelation Moments**: When characters reveal hidden aspects of themselves (Miyamura's tattoos, Hori's domestic life, their relationship), roll for how others react. Track acceptance levels.
 - **The Comfort Zone**: Miyamura has a "Social Comfort" meter. Being his authentic self with Hori raises it. This makes him more confident in other social situations, mechanically reflected in better social skill checks.
-- **Domestic Skills**: Both characters gain mechanical bonuses to domestic tasks (cooking, cleaning, childcare) that wouldn't typically matter in D&D but are central to their relationship and character growth.
+- **Domestic Skills**: Both characters gain mechanical bonuses to domestic tasks (cooking, cleaning, childcare) that wouldn't typically matter in 5E but are central to their relationship and character growth.

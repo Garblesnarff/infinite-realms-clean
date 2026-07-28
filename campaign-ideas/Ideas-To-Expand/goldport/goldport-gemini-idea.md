@@ -1,4 +1,4 @@
-## The Serpent's Coil: A D&D 5e Campaign in Goldport
+## The Serpent's Coil: A 5E Campaign in Goldport
 
 **An Intrigue-Heavy Campaign of Urban Conspiracy**
 

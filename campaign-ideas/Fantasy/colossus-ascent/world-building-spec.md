@@ -232,7 +232,7 @@ The Forbidden Lands exist as a **pocket dimension**—tethered to the material p
 5. **Shadow Attraction**: Darkness accumulates here, drawn by Dormin's presence
 
 **Available Magic**:
-- Standard D&D spells function normally
+- Standard 5E spells function normally
 - Necromancy is weakened (death is less permanent here)
 - Divination is enhanced (thin planar barriers)
 - Teleportation within Forbidden Lands works but feels "wrong"
@@ -487,7 +487,7 @@ Each hero came from different culture and time period, united by Architect bless
 - Temples to them exist in ruins, empty and abandoned
 
 **Modern Religions** (Campaign World):
-- Standard D&D pantheons operate normally
+- Standard fantasy pantheons operate normally
 - No awareness of Architects or Dormin
 - May receive divine visions warning against freeing Dormin
 - Or visions encouraging it (Dormin manipulation)
@@ -501,7 +501,7 @@ Each hero came from different culture and time period, united by Architect bless
 - Lifespan extension and consciousness transfer possible
 
 **Modern Era** (Current Campaign World):
-- Standard D&D medieval fantasy tech level
+- Standard medieval fantasy tech level
 - Ancient knowledge largely lost
 - Magic more structured, less wild
 - Forbidden Lands technology incomprehensible to current scholars

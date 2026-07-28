@@ -3,7 +3,7 @@
 ## Art Style and Visual Tone
 
 ### Overall Aesthetic
-Vibrant, high-contrast fantasy meets sci-fi battle royale. The Astral Isles should feel simultaneously beautiful and dangerous, with the ever-present purple storm creating visual urgency. Think Fortnite's colorful aesthetic merged with D&D's magical wonder and the cosmic horror of the Void.
+Vibrant, high-contrast fantasy meets sci-fi battle royale. The Astral Isles should feel simultaneously beautiful and dangerous, with the ever-present purple storm creating visual urgency. Think Fortnite's colorful aesthetic merged with the genre's magical wonder and the cosmic horror of the Void.
 
 ### The Astral Isles
 - **Style:** Floating islands with distinct biomes, impossible geography
@@ -303,4 +303,4 @@ Vibrant, high-contrast fantasy meets sci-fi battle royale. The Astral Isles shou
 - Made of void energy and stolen souls
 - Cosmic horror aesthetic
 
-This creative direction should evoke both the mechanical excitement of battle royale gameplay and the narrative weight of a D&D campaign, creating memorable moments of skill, strategy, and story.
+This creative direction should evoke both the mechanical excitement of battle royale gameplay and the narrative weight of a tabletop campaign, creating memorable moments of skill, strategy, and story.

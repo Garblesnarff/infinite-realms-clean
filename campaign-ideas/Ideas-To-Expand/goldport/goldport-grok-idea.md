@@ -1,4 +1,4 @@
-# Shadows Over Goldport: A D&D 5e Intrigue Campaign
+# Shadows Over Goldport: A 5E Intrigue Campaign
 
 ## Campaign Overview
 **Setting:** Goldport is a thriving independent city-state on the edge of a vast sea, known for its bustling docks where ships from across the world unload spices, silks, and exotic artifacts. Its independence is its greatest asset—and vulnerability—fostered by a delicate balance of merchant wealth, noble oversight, and shadowy underworld dealings. The city thrives on trade but is riddled with inequality: opulent noble districts contrast with squalid slums, and rumors of piracy, smuggling, and foreign meddling abound. The campaign is designed for 4-6 players starting at level 1, progressing to level 6 by the end. It emphasizes role-playing, skill checks (especially Charisma- and Intelligence-based), and moral decision-making over combat. Encounters should favor diplomacy, deception, investigation, and stealth; fights are rare and often avoidable or consequential (e.g., alerting factions). Assume a session length of 3-4 hours.

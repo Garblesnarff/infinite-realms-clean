@@ -7,7 +7,7 @@
 ## Campaign Overview
 
 **Title:** The Endless Delve
-**Campaign Type / Genre:** Mega-Dungeon / Progressive Exploration / Mystery / Undermountain-style Epic
+**Campaign Type / Genre:** Mega-Dungeon / Progressive Exploration / Mystery / the Deepdelve-style Epic
 **Estimated Length:** Epic Campaign — 40+ sessions (each session ≈ 3–4 hours, potentially hundreds)
 **Player Level Range:** Start **1** → Finish **20+**
 **Tone (keywords):** explorative, dangerous, layered, mysterious, endless, legendary, dungeon-crawling
@@ -105,8 +105,8 @@ The Undermaze's true purpose unfolds through exploration:
 * **Progress Through Adversity**: Each level conquered makes you stronger for the next.
 * **The Price of Knowledge**: Some mysteries are deadly to uncover.
 * **Legendary Heroes**: From novices to gods, the journey transforms characters.
-* **The Ultimate Dungeon**: A love letter to classic D&D dungeon crawling.
-* **What Lies Beneath**: The oldest D&D question—what's at the bottom of the dungeon?
+* **The Ultimate Dungeon**: A love letter to classic classic dungeon crawling.
+* **What Lies Beneath**: The oldest 5E question—what's at the bottom of the dungeon?
 
 ---
 

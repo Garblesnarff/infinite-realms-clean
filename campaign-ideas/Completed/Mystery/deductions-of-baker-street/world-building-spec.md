@@ -8,7 +8,7 @@ Consulting detectives in a Victorian-inspired fantasy city solve impossible myst
 *   Explain the emergence of "consulting detective" as a profession
 *   Describe famous unsolved cases that haunt the city's memory
 *   Write about the class divisions—nobility, merchant class, underworld
-*   Detail Victorian-era scientific understanding (forensics, chemistry, medicine in D&D context)
+*   Detail Victorian-era scientific understanding (forensics, chemistry, medicine in 5E context)
 *   Explain Moriarty's background: brilliant academic who turned to crime as intellectual exercise
 *   Describe the criminal underworld structure and Moriarty's control over it
 

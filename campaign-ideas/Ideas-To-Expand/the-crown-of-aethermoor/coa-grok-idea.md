@@ -3,7 +3,7 @@
 #### Overview
 In the realm of Eldoria, the ancient Crown of Aethermoor is a legendary artifact forged by the elemental lords of old to maintain the delicate balance of the seasons. This crown, embedded with crystals representing spring, summer, autumn, and winter, ensures that no single season dominates. However, the dark sorcerer Lord Vortigern, a once-mighty wizard twisted by ambition and forbidden ice magic, has stolen the crown from its hidden vault in the Aethermoor Ruins. By corrupting its power, he seeks to unleash an eternal winter, freezing the world into a desolate empire where he rules as the unchallenged Ice Sovereign.
 
-The players begin as level 1 humble villagers in Frosthaven, a small farming community on the edge of the northern wilds. Through a prophetic vision triggered by the first unnatural snowstorm, they learn they are the "Hearthborn Heroes" foretold in ancient scrolls: ordinary folk destined to restore balance. The campaign spans levels 1-12, blending exploration, combat, roleplaying, and puzzle-solving in a classic D&D style. It emphasizes progression from local saviors to legendary champions, with escalating stakes as the eternal winter spreads, turning fertile lands barren and summoning cold-themed horrors.
+The players begin as level 1 humble villagers in Frosthaven, a small farming community on the edge of the northern wilds. Through a prophetic vision triggered by the first unnatural snowstorm, they learn they are the "Hearthborn Heroes" foretold in ancient scrolls: ordinary folk destined to restore balance. The campaign spans levels 1-12, blending exploration, combat, roleplaying, and puzzle-solving in a classic fantasy style. It emphasizes progression from local saviors to legendary champions, with escalating stakes as the eternal winter spreads, turning fertile lands barren and summoning cold-themed horrors.
 
 The story arc follows:
 - **Ancient Evil Awakens**: The theft of the crown triggers unnatural blizzards, awakening dormant evils.
@@ -11,7 +11,7 @@ The story arc follows:
 - **Epic Quest Through Dangerous Lands**: Traversing perilous terrains to uncover clues and artifacts needed to confront Vortigern.
 - **Climactic Battle**: A showdown with the sorcerer and his forces, restoring the crown to avert catastrophe.
 
-This campaign is designed for 4-6 players and 9 sessions (approximately 3-4 hours each), assuming standard D&D 5e rules. Use milestone leveling: Advance levels at the end of sessions as noted. Incorporate ability checks, combat encounters balanced via the DMG's guidelines, and roleplaying opportunities. For uniqueness, the crown's power draws from "aetheric essences" – ethereal energies tied to seasonal spirits – which players must collect fragments of during the quest to weaken Vortigern's hold.
+This campaign is designed for 4-6 players and 9 sessions (approximately 3-4 hours each), assuming standard 5E rules. Use milestone leveling: Advance levels at the end of sessions as noted. Incorporate ability checks, combat encounters balanced via the DMG's guidelines, and roleplaying opportunities. For uniqueness, the crown's power draws from "aetheric essences" – ethereal energies tied to seasonal spirits – which players must collect fragments of during the quest to weaken Vortigern's hold.
 
 #### Player Characters and Starting Point
 Players create level 1 characters as villagers from Frosthaven: a farmer, blacksmith, herbalist, or similar. No exotic backgrounds; emphasize humble origins for thematic growth. They start with basic equipment (simple weapons, common clothes) and perhaps a family heirloom trinket hinting at destiny.
@@ -38,7 +38,7 @@ The campaign opens in Frosthaven during a village festival. An unnatural blizzar
 The stolen Crown of Aethermoor disrupts seasonal balance, causing progressive freezing: Crops fail, rivers ice over, and beasts mutate into cold variants. Vortigern uses the crown to summon blizzards and ice legions, aiming to freeze Eldoria's heart – the Eternal Spring Grove – solid. Players must collect four Aetheric Shards (one per season) scattered across locations to counter the crown's corruption. Failure means total glaciation; success restores balance, ushering in a bountiful era.
 
 #### Session Breakdown
-Each session includes 2-3 encounters (combat, social, exploration), scaling challenges, and heroic moments. Use D&D 5e encounter building: Easy/medium early, deadly later. Integrate side quests as optional extensions.
+Each session includes 2-3 encounters (combat, social, exploration), scaling challenges, and heroic moments. Use 5E encounter building: Easy/medium early, deadly later. Integrate side quests as optional extensions.
 
 - **Session 1: The Prophecy Awakens (Levels 1-2)**  
   In Frosthaven, the blizzard hits. Players investigate strange ice creatures (ice mephits) attacking farms. Meet Elder Thorne, who reveals the prophecy. Combat: Defend the village from winter wolves. Heroic Moment: Players activate the obelisk, gaining a boon (resistance to cold damage). End with a map to the Whispering Woods. Side Quest Hook: Rescue kidnapped villagers from goblin raiders fleeing the cold.

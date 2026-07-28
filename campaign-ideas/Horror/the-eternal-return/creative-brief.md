@@ -228,7 +228,7 @@ Each loop type has audio identifier:
 ### Cinematic Moments
 
 **Opening: The First Death**
-- Visual: Normal D&D session start, introducing characters
+- Visual: Normal tabletop session start, introducing characters
 - Audio: Cheerful introduction music
 - Progression: Midnight arrives, music distorts
 - Climax: Everyone dies horribly

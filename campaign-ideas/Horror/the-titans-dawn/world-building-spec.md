@@ -136,7 +136,7 @@
 
 ## Inhabitants
 
-**Mortal Civilizations**: Standard D&D races. Multiple nations, conflicts, but united by Titan threat. Total population: ~500 million globally.
+**Mortal Civilizations**: Standard fantasy ancestries. Multiple nations, conflicts, but united by Titan threat. Total population: ~500 million globally.
 
 **The Returners** (Cult): Eco-extremists believing mortals are parasites. Active across all nations. ~10,000 members, organized cells. Led by Prophet who experienced communion vision (driven mad/enlightened depending on interpretation).
 

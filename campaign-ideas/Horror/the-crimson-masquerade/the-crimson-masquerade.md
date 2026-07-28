@@ -3,7 +3,7 @@
 ## Real-World Basis: The Dancing Plague of 1518
 In Strasbourg, Alsace, a woman named Frau Troffea began to dance fervently in the street. Within a month, she was joined by over 400 others. With no explanation, these people danced for days without rest, many dying from heart attacks, strokes, or sheer exhaustion. Physicians of the time blamed "hot blood," but no one truly knows what caused the mass hysteria.
 
-## D&D Twist
+## 5E Twist
 The "plague" is a magical curse, a ritualistic infection spread by an unheard, mind-altering melody. The curse is the work of a hidden cult dedicated to a forgotten Demon Lord of endless, agonizing revelry (such as a lesser aspect of Graz'zt or a new entity). The non-stop dancing is not just madness; it is a grand ritual. Each exhausted, dying dancer's soul is a thread in a tapestry of suffering, slowly weakening the veil between the Material Plane and the Abyss.
 
 ## Campaign Premise (Urban Mystery/Social Horror)

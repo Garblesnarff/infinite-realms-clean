@@ -618,7 +618,7 @@ Character with no defined backstory. They can write their own story as they go, 
 Character who was revised in a second edition. They remember their "original" version and the trauma of being changed against their will.
 
 **The Metafictional**
-Character who knows they're in a D&D campaign. Fourth-wall breaking abilities. Dangerous to narrative coherence but incredibly powerful.
+Character who knows they're in a tabletop campaign. Fourth-wall breaking abilities. Dangerous to narrative coherence but incredibly powerful.
 
 ## Daily Life in the Infinite Stacks
 

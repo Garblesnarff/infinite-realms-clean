@@ -9,8 +9,8 @@ Ancient Mystery, Dungeon Crawl, Cosmic Horror
 ## Key Features
 *   **A High-Concept Dungeon:** The entire campaign is centered on a single, massive dungeon that is both a location and a complex arcane machine.
 *   **Looming Threat:** A clear and escalating sense of urgency as the primordial's influence grows, creating a palpable ticking clock for the players.
-*   **Deep Lore:** The adventure is steeped in the forgotten history of the D&D multiverse, allowing players to uncover secrets of the Dawn War and the creation of the world.
-*   **Classic D&D Action:** A perfect setup for a classic dungeon crawl, featuring traps, puzzles, ancient guardians, and a titanic final boss.
+*   **Deep Lore:** The adventure is steeped in the forgotten history of the fantasy multiverse, allowing players to uncover secrets of the Dawn War and the creation of the world.
+*   **Classic 5E Action:** A perfect setup for a classic dungeon crawl, featuring traps, puzzles, ancient guardians, and a titanic final boss.
 
 ## Target Audience
 Fans of classic, high-stakes dungeon crawls like *Tomb of Horrors* or *The Temple of Elemental Evil*. Players who love deep lore, ancient mysteries, and the feeling of uncovering a world-shattering secret.

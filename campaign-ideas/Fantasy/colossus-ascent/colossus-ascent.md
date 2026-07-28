@@ -5,7 +5,7 @@
 
 In a world shrouded in perpetual twilight, sixteen ancient Colossi roam a desolate landscape—living monuments of stone, moss, and mystery. Each is a walking ecosystem, a mountain given breath and purpose by forgotten gods. The party has been marked by an ancient pact: to climb these impossible beings, traverse their massive forms like mountaineers scaling cliff faces, and strike at the magical sigils that sustain their immortal existence. But with each Colossus felled, the land trembles, the sky darkens, and a terrible truth emerges—these giants were not guardians keeping evil imprisoned, but seals keeping something far worse at bay.
 
-The campaign combines the melancholic beauty and puzzle-boss mechanics of Shadow of the Colossus with D&D's collaborative storytelling. Players must work together to identify climbing routes, avoid devastating attacks from creatures who barely notice their presence, and make impossible leaps of faith across living landscapes. Each Colossus is a self-contained adventure featuring environmental puzzles, dramatic chase sequences, and the haunting question: are we the heroes, or are we dooming the world?
+The campaign combines the melancholic beauty and puzzle-boss mechanics of Shadow of the Colossus with the genre's collaborative storytelling. Players must work together to identify climbing routes, avoid devastating attacks from creatures who barely notice their presence, and make impossible leaps of faith across living landscapes. Each Colossus is a self-contained adventure featuring environmental puzzles, dramatic chase sequences, and the haunting question: are we the heroes, or are we dooming the world?
 
 The scale is overwhelming—a single finger of a Colossus might be as tall as a tower. The party feels insignificant, yet their actions literally reshape the world. As the campaign progresses, the moral weight grows heavier. The Colossi are magnificent, tragic, and their deaths are both triumph and tragedy.
 
@@ -17,7 +17,7 @@ The scale is overwhelming—a single finger of a Colossus might be as tall as a 
 
 **The Weight of Destruction**: Each Colossus death is a spectacle and a funeral. These beings are ancient, beautiful, and irreplaceable. The campaign asks: is killing necessary? Is it justified? What are we willing to sacrifice for our goal?
 
-**Climbing as Combat**: Traditional D&D combat is reimagined. Success isn't about dealing damage—it's about reaching weak points, maintaining grip during earthquakes of movement, and timing strikes perfectly. It's Dark Souls meets rock climbing.
+**Climbing as Combat**: Traditional tabletop combat is reimagined. Success isn't about dealing damage—it's about reaching weak points, maintaining grip during earthquakes of movement, and timing strikes perfectly. It's Dark Souls meets rock climbing.
 
 **Melancholic Wonder**: The world is beautiful in its desolation. Ruins speak of lost civilizations. The Colossi are tragic figures. Victory feels hollow. The campaign embraces bittersweet emotions.
 
@@ -299,6 +299,6 @@ This campaign explores **the price of power**, **the nature of sacrifice**, and 
 
 The core emotional journey moves from excitement (epic monster hunts) to unease (these creatures aren't evil) to dread (we're making a terrible mistake) to determination (we must fix what we've broken or see it through to the end).
 
-Scale creates gameplay: the party must think creatively when traditional combat is meaningless. Climbing a living creature while it moves creates dynamic, cinematic moments impossible in standard D&D. The campaign rewards cooperation, puzzle-solving, and emotional engagement over combat optimization.
+Scale creates gameplay: the party must think creatively when traditional combat is meaningless. Climbing a living creature while it moves creates dynamic, cinematic moments impossible in standard 5E. The campaign rewards cooperation, puzzle-solving, and emotional engagement over combat optimization.
 
-This is **Dark Souls meets Shadow of the Colossus in D&D form**—melancholic, beautiful, challenging, and emotionally resonant.
+This is **Dark Souls meets Shadow of the Colossus in tabletop RPG form**—melancholic, beautiful, challenging, and emotionally resonant.

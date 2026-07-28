@@ -67,8 +67,8 @@ Target emotion: The feeling of finishing a really good book—sad it's over, gla
 - Reference game mechanics in-character
 - Genre awareness is key
 
-**The D&D Meta-Layer**:
-Optional twist—realize they're in a D&D campaign. The "Author" is the DM. The "curse" is playing the game. The "escape" is ending the session. Ultimate fourth-wall break for brave groups.
+**The 5E Meta-Layer**:
+Optional twist—realize they're in a tabletop campaign. The "Author" is the DM. The "curse" is playing the game. The "escape" is ending the session. Ultimate fourth-wall break for brave groups.
 
 ## Campaign Tone
 

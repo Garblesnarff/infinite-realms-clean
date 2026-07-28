@@ -387,4 +387,4 @@
 - Tempestus voice: "Why do you fight the inevitable?"
 - Party member: "Because we're too stubborn to die quietly."
 - Title card with tornado visual effect
-- End with: "The Endless Storm - A D&D Campaign"
+- End with: "The Endless Storm - A 5E Campaign"

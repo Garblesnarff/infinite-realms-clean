@@ -1,6 +1,6 @@
 # Campaign Ideas - Scripts & Tools
 
-This directory contains 820+ D&D campaign frameworks for Infinite Realms. These scripts help manage, organize, and track progress as campaigns are developed from frameworks into complete bibles.
+This directory contains 820+ tabletop campaign frameworks for Infinite Realms. These scripts help manage, organize, and track progress as campaigns are developed from frameworks into complete bibles.
 
 ## Directory Structure
 

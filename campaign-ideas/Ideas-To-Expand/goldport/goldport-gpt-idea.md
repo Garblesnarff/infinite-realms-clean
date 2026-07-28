@@ -1,4 +1,4 @@
-# D&D 5e Campaign: The Conspiracy of Goldport
+# 5E Campaign: The Conspiracy of Goldport
 
 ## Campaign Overview
 

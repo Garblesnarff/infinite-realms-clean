@@ -72,7 +72,7 @@ What begins as a straightforward medical rescue mission becomes increasingly com
 
 **Session 24 - The Extraction Battle:** The party reaches the extraction point, but Dravus has sent assassins to kill them as they re-expand. Dr. Thinblood begins the extraction process, but it's interrupted by combat. The party must hold off enemies while slowly growing back to normal size—a weird combat where they become larger each round.
 
-**Session 25 - Full Circle:** At normal size again, the party confronts Dravus directly. With the Chancellor recovering and the conspiracy exposed, Dravus makes his last desperate play for power. The final battle combines traditional D&D combat with the knowledge the party gained about biological systems—perhaps using magical attacks that mirror the microscopic battles they fought.
+**Session 25 - Full Circle:** At normal size again, the party confronts Dravus directly. With the Chancellor recovering and the conspiracy exposed, Dravus makes his last desperate play for power. The final battle combines traditional tabletop combat with the knowledge the party gained about biological systems—perhaps using magical attacks that mirror the microscopic battles they fought.
 
 ## Key NPCs
 

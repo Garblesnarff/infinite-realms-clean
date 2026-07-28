@@ -364,4 +364,4 @@
 - 20% Action and Combat
 - 15% Character Development and Drama
 
-This campaign is *Sherlock Holmes* meets *Dishonored* meets *True Detective* in D&D form: intelligent, atmospheric, and unforgettable.
+This campaign is *Sherlock Holmes* meets *Dishonored* meets *True Detective* in tabletop RPG form: intelligent, atmospheric, and unforgettable.

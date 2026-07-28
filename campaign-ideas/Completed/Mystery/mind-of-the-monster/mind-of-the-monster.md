@@ -342,4 +342,4 @@ DM should emphasize:
 - **Consequences** of immersing in evil
 - **Ambiguity** no easy answers about nature of evil
 
-This is *Mindhunter* meets D&D: Procedural, psychological, and profoundly disturbing. Not about fighting monsters, but understanding them—and questioning what that understanding costs.
+This is *Mindhunter* meets high fantasy: Procedural, psychological, and profoundly disturbing. Not about fighting monsters, but understanding them—and questioning what that understanding costs.

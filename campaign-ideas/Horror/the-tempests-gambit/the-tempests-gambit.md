@@ -3,7 +3,7 @@
 ## Real-World Basis: Operation Popeye
 During the Vietnam War, the U.S. Air Force ran a highly classified weather modification program called Operation Popeye. From 1967 to 1972, they conducted cloud seeding operations over the Ho Chi Minh Trail, successfully increasing rainfall by up to 30%. The goal was to soften road surfaces, cause landslides, and generally disrupt enemy logistics through weather warfare.
 
-## D&D Twist
+## 5E Twist
 Two rival kingdoms, locked in a brutal war of attrition, have reached a stalemate. One kingdom, in a desperate move, has assembled a powerful conclave of storm sorcerers and druids to perform "The Tempest's Gambit." They are no longer predicting the weather; they are creating it. Endless, targeted rain turns battlefields into impassable mud. Unnatural fog banks hide the movement of entire battalions. Assassins are dispatched not with daggers, but with pinpoint lightning strikes called from a clear sky. The tactic is working, but the casters are losing control. Their massive ritual is tearing the veil to the Plane of Air, and the weather itself is gaining a malevolent sentience.
 
 ## Campaign Premise (Military Fantasy/Environmental Epic)

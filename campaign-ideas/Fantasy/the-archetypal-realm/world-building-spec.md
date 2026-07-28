@@ -312,4 +312,4 @@ They're not special—they're representatives. Their choice influences collectiv
 ### Creating New Archetypes
 By existing here, party adds to Collective Unconscious. Their unique stories become new archetypal patterns. Future humans will dream elements of them. They're becoming mythology while living it.
 
-This represents ultimate meta-commentary: D&D characters becoming actual archetypes in a world of archetypes.
+This represents ultimate meta-commentary: 5E characters becoming actual archetypes in a world of archetypes.

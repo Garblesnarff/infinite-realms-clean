@@ -3,7 +3,7 @@
 
 ### Campaign Overview
 
-The Lucid Labyrinth is a D&D campaign set in the ever-shifting realm of Oneiros, where lucid dreamers wage an endless war against dream logic itself. The party awakens in a vast maze of impossible architecture that responds to their thoughts and desires—but not always as intended. They discover they are among the rare few who can maintain consciousness within the dream world, granting them god-like powers limited only by their willpower and the chaotic nature of dream physics.
+The Lucid Labyrinth is a tabletop campaign set in the ever-shifting realm of Oneiros, where lucid dreamers wage an endless war against dream logic itself. The party awakens in a vast maze of impossible architecture that responds to their thoughts and desires—but not always as intended. They discover they are among the rare few who can maintain consciousness within the dream world, granting them god-like powers limited only by their willpower and the chaotic nature of dream physics.
 
 As lucid walkers, the party must navigate between zones of total control (where their will shapes reality) and zones of pure dream logic (where impossible things happen for no reason). A mysterious entity known as the Morphean Architect seeks to collapse the boundary between waking and dreaming, which would trap all sleeping minds in an eternal nightmare. The party must master the art of lucid dreaming, recruit other dream walkers, and prevent reality itself from dissolving into unconscious chaos.
 

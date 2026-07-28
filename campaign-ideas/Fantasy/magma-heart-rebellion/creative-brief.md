@@ -4,7 +4,7 @@ This document outlines the core creative direction for the assets of this campai
 
 ## Art Style: Revolutionary Fire meets Volcanic Hell
 
-Inspired by the volcanic landscapes of Mustafar (Star Wars), the revolutionary aesthetics of Les Misérables and V for Vendetta, the elemental genasi art from D&D, and the industrial oppression of dystopian fiction. This style captures both the infernal beauty of living in a volcano and the human cost of slavery and revolution.
+Inspired by the volcanic landscapes of Mustafar (Star Wars), the revolutionary aesthetics of Les Misérables and V for Vendetta, the elemental genasi art from 5E, and the industrial oppression of dystopian fiction. This style captures both the infernal beauty of living in a volcano and the human cost of slavery and revolution.
 
 ### Core Principles for Prompts:
 

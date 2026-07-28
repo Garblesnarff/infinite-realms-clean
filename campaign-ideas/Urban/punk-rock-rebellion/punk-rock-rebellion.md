@@ -298,4 +298,4 @@ But the dream has complications. Without any structure, the strong exploit the w
 
 **Defeat:** Corporation succeeds in commodifying/destroying The Sprawl, or punks become authoritarian themselves
 
-This campaign asks: Can anarchy work? Is authority always oppression? When does rebellion become tyranny? It's punk rock philosophy through D&D, loud, angry, and deeply human.
+This campaign asks: Can anarchy work? Is authority always oppression? When does rebellion become tyranny? It's punk rock philosophy through 5E, loud, angry, and deeply human.

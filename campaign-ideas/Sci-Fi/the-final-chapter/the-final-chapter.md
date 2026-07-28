@@ -157,7 +157,7 @@ It's also commentary on campaigns that end well vs. those that fizzle. The Final
 
 **For DMs**: Framework for crafting definitive endings. Permission to end stories fully. Model for narrative closure.
 
-**For D&D**: Recognition that endings matter. Campaigns should finish, not just stop. The Final Chapter is how.
+**For 5E**: Recognition that endings matter. Campaigns should finish, not just stop. The Final Chapter is how.
 
 ## The Last Words
 

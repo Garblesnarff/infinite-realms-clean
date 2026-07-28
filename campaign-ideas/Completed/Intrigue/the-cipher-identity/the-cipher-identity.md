@@ -276,7 +276,7 @@ This is a campaign about identity, redemption, and uncovering a conspiracy so de
 
 ### Campaign Tone
 
-This is Bourne Identity meets Memento in D&D. Paranoid action thriller where every answer creates more questions. Balance intense action (chase scenes, fighting highly-skilled opponents) with psychological horror (who am I? Can I trust my own mind?). Use flashbacks liberally—let players play as their past selves in key moments, creating dramatic irony as they discover who they were.
+This is Bourne Identity meets Memento in 5E. Paranoid action thriller where every answer creates more questions. Balance intense action (chase scenes, fighting highly-skilled opponents) with psychological horror (who am I? Can I trust my own mind?). Use flashbacks liberally—let players play as their past selves in key moments, creating dramatic irony as they discover who they were.
 
 Every NPC is potentially friend or foe. Every memory could be real or false. Trust is the ultimate currency and the ultimate risk. The campaign should feel like watching a puzzle assemble itself while someone actively tries to destroy it. Fast-paced when running, contemplative when hiding, always tense.
 

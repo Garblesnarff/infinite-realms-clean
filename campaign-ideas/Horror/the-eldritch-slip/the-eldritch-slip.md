@@ -3,7 +3,7 @@
 ## Real-World Basis: The Philadelphia Experiment
 An apocryphal naval military experiment from 1943. According to conspiracy theories, the U.S. Navy attempted to render the destroyer escort USS *Eldridge* invisible to enemy radar. The experiment went horribly wrong, causing the ship to become invisible, teleport to a new location, and then reappear, with some crew members gruesomely fused to the ship's structure, some driven insane, and others vanishing entirely.
 
-## D&D Twist
+## 5E Twist
 A great magical empire of the past (think Netheril or a homebrew equivalent) was developing a new form of mass transit: the "Phase Sail," a spell that would shift a vessel through the Ethereal Plane to its destination instantaneously. During the maiden voyage of their flagship, "The Intrepid," the spell catastrophically failed. The ship didn't complete its journey; it was torn between planes, becoming permanently fused with the Ethereal Plane. It now drifts through the ethereal mists, a ghost ship caught in the moment of its own destruction, its crew a horrifying fusion of flesh, steel, and ethereal ectoplasm.
 
 ## Campaign Premise (Planar Horror/Survival)
@@ -16,4 +16,4 @@ The players are hired to salvage a rare artifact from a famous shipwreck at the 
 *   **Trapped and Isolated:** The players are truly alone. There is no town to retreat to, no friendly NPCs to ask for help. Their survival depends entirely on their own resources and ingenuity.
 
 ## Tone
-*Event Horizon* meets the Ethereal Plane from the D&D Player's Handbook. A claustrophobic, high-stakes survival horror adventure where the environment is as dangerous as the monsters.
+*Event Horizon* meets the Ethereal Plane from the 5E core rules. A claustrophobic, high-stakes survival horror adventure where the environment is as dangerous as the monsters.

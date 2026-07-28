@@ -1,6 +1,6 @@
 # The Hidden Empress
 
-A Dungeons & Dragons 5e campaign about secret power, avoiding bad endings, and the comedy of being impossibly overpowered while pretending to be ordinary.
+A 5E campaign about secret power, avoiding bad endings, and the comedy of being impossibly overpowered while pretending to be ordinary.
 
 *   **Genre**: Comedy Power Fantasy, Social Stealth, Bad End Avoidance
 *   **Tone**: Light-hearted Power Trip

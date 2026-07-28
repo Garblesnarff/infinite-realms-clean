@@ -1,6 +1,6 @@
 # Combat Healer Chronicles
 
-A Dungeons & Dragons 5e campaign about redefining healing magic through brutal training, combat applications, and front-line heroism.
+A 5E campaign about redefining healing magic through brutal training, combat applications, and front-line heroism.
 
 *   **Genre**: Military Fantasy, Training Arc, Unconventional Magic Use
 *   **Tone**: Intense with Heart

@@ -197,7 +197,7 @@ Should reality be authored? If yes, by whom? One author (tyranny)? Many (chaos)?
 - Limited authorship (light touch, mostly free will)
 
 ### The Metafictional Layer
-The campaign itself raises the question: Are players authoring characters or discovering them? Is D&D writing reality or revealing it? DM as author vs. players as authors. The Blank Tome is metaphor for collaborative storytelling.
+The campaign itself raises the question: Are players authoring characters or discovering them? Is 5E writing reality or revealing it? DM as author vs. players as authors. The Blank Tome is metaphor for collaborative storytelling.
 
 ## The Final Session Format
 
@@ -214,4 +214,4 @@ The campaign itself raises the question: Are players authoring characters or dis
 ### Powerful Conclusion
 Ultimate player agency. The campaign's ending is literally written by players. Not just mechanically (choices) but narratively (explicit authorship). Fourth wall demolition. True collaborative storytelling realized.
 
-This campaign is love letter to storytelling itself—recognizing that all D&D is blank pages filled collaboratively, and celebrating that sacred act of co-creation.
+This campaign is love letter to storytelling itself—recognizing that all 5E is blank pages filled collaboratively, and celebrating that sacred act of co-creation.

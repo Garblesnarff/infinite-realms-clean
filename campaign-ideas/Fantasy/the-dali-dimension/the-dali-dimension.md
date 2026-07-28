@@ -143,7 +143,7 @@ Living things in this dimension naturally transform. Once per long rest, the DM 
 - High Lucidity can resist, low Lucidity makes it permanent
 
 **Dream-Logic Puzzles**
-Traditional D&D logic doesn't work. Examples:
+Traditional 5E logic doesn't work. Examples:
 - A locked door that opens when you walk away from it (it's shy)
 - A chasm crossed by increasing its size until it loops back around
 - A guardian defeated by proving it doesn't exist through paradox

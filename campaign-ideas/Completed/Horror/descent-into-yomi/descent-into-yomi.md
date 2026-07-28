@@ -9,7 +9,7 @@
 The players died and descended into Yomi, the Japanese land of the dead - a realm of eternal darkness, decay, and pollution (kegare). Unlike other afterlives with judgment or purpose, Yomi is simply where the dead rot eternally. The players must escape before they decay too far to leave, navigating a labyrinthine underworld of darkness and filth while pursued by Izanami, the death goddess who refuses to let anyone leave her realm. They'll face yokai born from corruption, fellow dead who've lost all hope, and the ultimate horror: seeing what they're slowly becoming. The campaign is a desperate race against decay itself.
 
 ### Difficulty Context: **High**
-This is survival horror in D&D form. Resources are scarce, light is precious, and the environment itself drains life. Players accumulate "pollution" that limits abilities and attracts dangers. Combat should often be avoided in favor of stealth and clever escape. The campaign is intentionally oppressive - players should feel the weight of Yomi's darkness.
+This is survival horror in tabletop RPG form. Resources are scarce, light is precious, and the environment itself drains life. Players accumulate "pollution" that limits abilities and attracts dangers. Combat should often be avoided in favor of stealth and clever escape. The campaign is intentionally oppressive - players should feel the weight of Yomi's darkness.
 
 ### Story Arc
 

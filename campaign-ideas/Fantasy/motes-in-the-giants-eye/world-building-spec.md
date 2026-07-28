@@ -28,7 +28,7 @@
 ## Magic/Technology
 **Transportation Magic**: Powerful planar spell. Requires: ancient artifact, significant power source, knowledge lost to time. Party must recover all three.
 
-**Giant Magic**: Standard D&D spells but cast at enormous scale. Fireball from giant mage = nuclear explosion from party perspective.
+**Giant Magic**: Standard 5E spells but cast at enormous scale. Fireball from giant mage = nuclear explosion from party perspective.
 
 **Small Community Tech**: Repurposed giant objects—needle swords, button shields, thimble armor, thread rope, etc.
 

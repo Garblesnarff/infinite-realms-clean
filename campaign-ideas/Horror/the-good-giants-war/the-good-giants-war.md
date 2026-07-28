@@ -154,4 +154,4 @@ The BFG represents **gentle masculinity**—strong but kind, powerful but peacef
 
 Scale creates unique gameplay: party is small, needs giant ally, but giant ally is pacifist. Forces creative problem-solving. Dream magic is whimsical system making imagination literal power.
 
-This is **The BFG meets D&D**—Roald Dahl's charm and darkness, fairy-tale morality with depth, whimsy that earns its emotional weight, and the revolutionary idea that the good giant saves the day by remaining good.
+This is **The BFG meets high fantasy**—Roald Dahl's charm and darkness, fairy-tale morality with depth, whimsy that earns its emotional weight, and the revolutionary idea that the good giant saves the day by remaining good.

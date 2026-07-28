@@ -33,10 +33,10 @@ Inspired by the stark, minimalist aesthetic of *The Long Dark*, emphasizing the 
 *   **Prompt Example:** "...a muted, desaturated color palette dominated by snow whites, icy blues, and charcoal grays. The sky is overcast, and the only warmth comes from a small campfire's orange glow."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in realistic, layered winter clothing (parkas, scarves, gloves, boots). Clothing is weathered and practical.
+*   **Style:** fantasy adventurers in realistic, layered winter clothing (parkas, scarves, gloves, boots). Clothing is weathered and practical.
 *   **Wildlife:** Realistic depictions—gray wolves with intelligent eyes, massive grizzly bears, timid deer.
 *   **Expression:** Adventurers show exhaustion, determination, and quiet resolve. Wildlife is cautious, wild, and unpredictable.
-*   **Prompt Example:** "A D&D adventurer in a heavy, worn parka, scarf wrapped around their face, carrying a makeshift backpack. Their face is weathered by the cold, eyes narrowed against the wind. In the distance, a gray wolf watches warily."
+*   **Prompt Example:** "A fantasy adventurer in a heavy, worn parka, scarf wrapped around their face, carrying a makeshift backpack. Their face is weathered by the cold, eyes narrowed against the wind. In the distance, a gray wolf watches warily."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Vast, frozen wilderness with minimal human presence. Abandoned cabins, frozen lakes, snow-covered forests, and distant mountains.
@@ -53,7 +53,7 @@ Inspired by the stark, minimalist aesthetic of *The Long Dark*, emphasizing the 
 **7. Composition:**
 *   **Style:** Wide, cinematic shots emphasizing the scale and emptiness of the wilderness. Close-ups of survival moments (lighting a fire, bandaging a wound).
 *   **Techniques:** Use the rule of thirds to place the adventurer small against the vast landscape. Show the contrast between the warm safety of shelter and the cold expanse outside. Frame the aurora or twilight sky as a dramatic backdrop.
-*   **Prompt Example:** "A wide, cinematic shot of a lone D&D adventurer walking across a frozen lake, tiny against the vast, snow-covered landscape. In the sky above, the aurora borealis glows in ethereal greens and purples."
+*   **Prompt Example:** "A wide, cinematic shot of a lone fantasy adventurer walking across a frozen lake, tiny against the vast, snow-covered landscape. In the sky above, the aurora borealis glows in ethereal greens and purples."
 
 ## Voice
 

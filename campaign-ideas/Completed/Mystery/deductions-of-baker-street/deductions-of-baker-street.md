@@ -80,7 +80,7 @@ The party establishes themselves as consulting detectives in the great city of W
 
 ## Central Conflict
 
-Intelligence versus Intelligence. Unlike traditional D&D where martial prowess or magical power determines outcomes, this campaign rewards observation, logic, and deduction. The party must prove that reason and investigation can triumph over criminal genius. Moriarty represents the corruption of pure intellect—brilliance without morality. The central question: can good people thinking clearly defeat evil people thinking cleverly?
+Intelligence versus Intelligence. Unlike traditional 5E where martial prowess or magical power determines outcomes, this campaign rewards observation, logic, and deduction. The party must prove that reason and investigation can triumph over criminal genius. Moriarty represents the corruption of pure intellect—brilliance without morality. The central question: can good people thinking clearly defeat evil people thinking cleverly?
 
 ---
 

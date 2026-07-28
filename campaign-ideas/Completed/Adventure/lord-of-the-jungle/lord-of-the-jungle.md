@@ -119,7 +119,7 @@ Pulp adventure with strong environmental themes. The jungle is a character—bea
 
 ## Why This Campaign Is Memorable
 
-*   **Primal Fantasy:** Living like Tarzan in a D&D world—swinging through trees, wrestling beasts, ruling the wild.
+*   **Primal Fantasy:** Living like Tarzan in a fantasy world—swinging through trees, wrestling beasts, ruling the wild.
 *   **Lost Civilizations:** Discovering Atlantean ruins and ancient secrets.
 *   **Environmental Stakes:** Protect the jungle or watch it fall to exploitation.
 *   **Identity Questions:** What makes us human? Where do we truly belong?

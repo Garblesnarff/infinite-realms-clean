@@ -33,11 +33,11 @@ Inspired by the tense, naturalistic horror of *The Forest*, blending realistic w
 *   **Prompt Example:** "...a muted color palette of deep forest greens and earthy browns under an overcast sky. A pale, emaciated cannibal with raw, red wounds stands at the edge of the clearing, its skin an unnatural, corpse-like white."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in improvised, crafted gear (hide armor, bone weapons, cloth wraps). They look battle-worn and desperate.
+*   **Style:** fantasy adventurers in improvised, crafted gear (hide armor, bone weapons, cloth wraps). They look battle-worn and desperate.
 *   **Cannibals:** Pale, emaciated humanoids with elongated limbs, often naked or wearing scraps of rotting cloth. They move unnaturally, crawling or hunched.
 *   **Mutants:** Horrific abominations with multiple limbs, exposed organs, and asymmetrical bodies. Some are massive brutes, others are skittering, spider-like horrors.
 *   **Expression:** Adventurers show fear, determination, and exhaustion. Cannibals are feral and emotionless. Mutants are grotesque and nightmarish.
-*   **Prompt Example:** "A D&D adventurer wearing crude hide armor and wielding a sharpened spear, their face streaked with dirt and blood. Nearby, a pale cannibal with elongated arms and a hunched posture crawls toward them, its face twisted in a feral grimace."
+*   **Prompt Example:** "A fantasy adventurer wearing crude hide armor and wielding a sharpened spear, their face streaked with dirt and blood. Nearby, a pale cannibal with elongated arms and a hunched posture crawls toward them, its face twisted in a feral grimace."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Dense, realistic forests with thick undergrowth, towering trees, and natural obstacles. Caves are dark, wet, and claustrophobic.

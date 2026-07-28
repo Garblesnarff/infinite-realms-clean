@@ -327,7 +327,7 @@ Inspired by Bill & Ted's optimistic time travel comedy, this campaign is perfect
 
 ## Special Features
 
-**Historical Cameos:** Real historical figures with D&D stats and personalities
+**Historical Cameos:** Real historical figures with 5E stats and personalities
 
 **Musical Challenges:** Actual songs or descriptions, player creativity encouraged
 

@@ -197,7 +197,7 @@ To stop the manifestations, the party must either communicate with The Network a
 
 **Twist 1: You're Manifestations Too**
 - Party discovers they're fictional characters made real
-- From D&D campaign posted online
+- From tabletop campaign posted online
 - Self-awareness causes existential crisis
 - Fight to remain real
 

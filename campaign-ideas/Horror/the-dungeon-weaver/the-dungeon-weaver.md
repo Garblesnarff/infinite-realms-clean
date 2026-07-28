@@ -1,6 +1,6 @@
 # The Dungeon Weaver
 
-A Dungeons & Dragons 5e campaign of survival, evolution, and monstrous transformation.
+A 5E campaign of survival, evolution, and monstrous transformation.
 
 *   **Genre**: Survival Horror, Evolution Fantasy
 *   **Tone**: Dark Comedy, Desperate

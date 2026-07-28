@@ -282,6 +282,6 @@ Combat should be visceral and consequential. Use extended scenes for fights—ma
 
 The campaign is fundamentally about survival and cost. Make players question their orders, their handlers, their methods. Put them in situations with no good choices. Let them make mistakes and live with consequences. The spy game strips away everything until all that's left is will to survive.
 
-Also: amazing soundtrack, killer fashion despite (because of?) the violence, and at least one fight scene that takes an entire session. This is Charlize Theron's stairwell fight translated to D&D, and it should be exhausting, brutal, and unforgettable.
+Also: amazing soundtrack, killer fashion despite (because of?) the violence, and at least one fight scene that takes an entire session. This is Charlize Theron's stairwell fight translated to 5E, and it should be exhausting, brutal, and unforgettable.
 
 Welcome to Berlin. Try not to die.

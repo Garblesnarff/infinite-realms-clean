@@ -123,7 +123,7 @@ Late game: Party can write changes to reality:
 
 **Twist 4: The New Author is Another Character** - The replacement writer is revealed to be a fictional character impersonating a real person. The cycle continues.
 
-**Twist 5: The Players Are the Authors** - Fourth wall break: The actual D&D players are the real Authors. The campaign itself is the metafictional murder mystery.
+**Twist 5: The Players Are the Authors** - Fourth wall break: The actual tabletop players are the real Authors. The campaign itself is the metafictional murder mystery.
 
 ## Victory Conditions
 

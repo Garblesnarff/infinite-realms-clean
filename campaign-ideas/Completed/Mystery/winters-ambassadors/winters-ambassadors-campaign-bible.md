@@ -3,7 +3,7 @@
 ## Creative Brief Alignment
 *   **Art Style:** Sparse Nordic Minimalism. High contrast (White/Shadow).
 *   **Tone:** Introspective, Diplomatic, Melancholic, Alien.
-*   **System:** Narrative-Heavy RPG (System Agnostic / D&D 5e / Sci-Fi hybrid).
+*   **System:** Narrative-Heavy RPG (System Agnostic / 5E / Sci-Fi hybrid).
 
 ---
 

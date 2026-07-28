@@ -119,7 +119,7 @@ The nightmare twist: Someone is writing new chapters. The books they're trapped 
 
 **The Incomplete Ending** - Kill the Author or destroy the curse mechanism. Trapped mid-story forever. Free from compulsion but never reach endings. Pyrrhic victory.
 
-**The Metafictional Ending** - Realize they're in a D&D campaign (fourth wall complete destruction). "Escape" is ending the campaign session. Players and characters merge awareness.
+**The Metafictional Ending** - Realize they're in a tabletop campaign (fourth wall complete destruction). "Escape" is ending the campaign session. Players and characters merge awareness.
 
 ## Defeat Conditions
 

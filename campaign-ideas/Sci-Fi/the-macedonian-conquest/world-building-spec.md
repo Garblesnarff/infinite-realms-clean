@@ -2,7 +2,7 @@
 
 ## World Overview
 
-The campaign takes place in the real historical world of 336-323 BCE, with fantasy elements integrated to create a playable D&D experience. The known world (Oikoumene) consists of the Mediterranean basin, Near East, Central Asia, and northwestern India. Beyond these boundaries lie unknown lands, mythical creatures, and divine mysteries.
+The campaign takes place in the real historical world of 336-323 BCE, with fantasy elements integrated to create a playable tabletop experience. The known world (Oikoumene) consists of the Mediterranean basin, Near East, Central Asia, and northwestern India. Beyond these boundaries lie unknown lands, mythical creatures, and divine mysteries.
 
 Magic exists but is rare and often tied to divine sources, ancient bloodlines, or esoteric mystery cults. The gods are real and occasionally intervene, though their motives are inscrutable. Historical events occur largely as they did in reality, but player choices can alter outcomes, create alternate timelines, or reveal hidden supernatural elements behind famous moments.
 

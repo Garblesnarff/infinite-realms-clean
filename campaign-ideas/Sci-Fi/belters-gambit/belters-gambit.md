@@ -216,5 +216,5 @@ The central conflict is a struggle for the soul of humanity's future in space. W
 
 ### 4. **Starship Combat**
 
-*   The party's ship is a character in its own right, with stats, abilities, and upgrades. Ship combat uses simplified D&D mechanics with crew roles (pilot, gunner, engineer, etc.).
+*   The party's ship is a character in its own right, with stats, abilities, and upgrades. Ship combat uses simplified 5E mechanics with crew roles (pilot, gunner, engineer, etc.).
 *   **Crew Synergy:** Party members' class abilities translate to ship actions (e.g., a wizard's spells become ship weapons, a rogue's sneak attack becomes targeting systems).

@@ -13,7 +13,7 @@ Military Fantasy, Espionage, Illusion
 *   **Creative Problem-Solving:** Challenges are designed to be open-ended, encouraging players to come up with novel and artistic solutions.
 
 ## Target Audience
-Fans of illusionists, bards, and tricksters. Players of heist stories and spy thrillers like *Mission: Impossible* or *Leverage*, but in a D&D setting. DMs who want to run a campaign that emphasizes creativity and roleplaying.
+Fans of illusionists, bards, and tricksters. Players of heist stories and spy thrillers like *Mission: Impossible* or *Leverage*, but in a fantasy setting. DMs who want to run a campaign that emphasizes creativity and roleplaying.
 
 ## Voice
 

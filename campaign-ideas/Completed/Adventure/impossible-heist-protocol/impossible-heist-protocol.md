@@ -310,7 +310,7 @@ Sessions 19-24: The Raven catches up repeatedly, increasing difficulty. Team mus
 
 ### Campaign Tone
 
-This campaign should feel like Mission: Impossible meets Ocean's Eleven in a D&D world. Every session is a carefully planned heist that goes sideways, forcing brilliant improvisation. The emphasis is on team synergy—everyone has a crucial role, and success requires all members working together perfectly. Tone balances between serious stakes (world-ending threat) and action-movie fun (impossible stunts, last-second escapes, perfect timing).
+This campaign should feel like Mission: Impossible meets Ocean's Eleven in a fantasy world. Every session is a carefully planned heist that goes sideways, forcing brilliant improvisation. The emphasis is on team synergy—everyone has a crucial role, and success requires all members working together perfectly. Tone balances between serious stakes (world-ending threat) and action-movie fun (impossible stunts, last-second escapes, perfect timing).
 
 Plans should be elaborate and satisfying when they work, exciting when they don't. Use the "reveal the plan" technique where players explain their preparation through flashbacks at crucial moments. Every heist needs one "impossible" moment where physics and probability bend to team's skill and luck.
 

@@ -1,6 +1,6 @@
 # The Trapped Realm
 
-A Dungeons & Dragons 5e campaign of MMO mechanics made real, society building, and discovering the truth of a living game world.
+A 5E campaign of MMO mechanics made real, society building, and discovering the truth of a living game world.
 
 *   **Genre**: LitRPG, Political Fantasy, Mystery
 *   **Tone**: Strategic, Thoughtful

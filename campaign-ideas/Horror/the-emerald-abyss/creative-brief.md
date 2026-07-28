@@ -33,10 +33,10 @@ Inspired by the oppressive, hyper-realistic aesthetic of *Green Hell*, emphasizi
 *   **Prompt Example:** "...a vibrant color palette dominated by emerald greens and deep forest shadows, with bright pops of red and yellow from exotic flowers and the golden light filtering through the dense canopy."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in practical, torn jungle gear (cargo pants, boots, torn shirts), showing the physical toll of survival.
+*   **Style:** fantasy adventurers in practical, torn jungle gear (cargo pants, boots, torn shirts), showing the physical toll of survival.
 *   **Yawanawa:** Depicted with respect—traditional clothing (minimal, practical), body paint, feathers, natural materials. Realistic proportions.
 *   **Expression:** Adventurers show exhaustion, pain, and determination. The Yawanawa are calm, watchful, and connected to their environment.
-*   **Prompt Example:** "A D&D adventurer with torn, mud-stained clothing, their arm wrapped in dirty bandages. Their face is gaunt, showing exhaustion and stress. Beside them, a Yawanawa hunter in traditional body paint and feathers stands calmly, holding a bamboo spear."
+*   **Prompt Example:** "A fantasy adventurer with torn, mud-stained clothing, their arm wrapped in dirty bandages. Their face is gaunt, showing exhaustion and stress. Beside them, a Yawanawa hunter in traditional body paint and feathers stands calmly, holding a bamboo spear."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Dense, layered rainforest with incredible depth—the canopy above, vines everywhere, the dark forest floor below.
@@ -53,7 +53,7 @@ Inspired by the oppressive, hyper-realistic aesthetic of *Green Hell*, emphasizi
 **7. Composition:**
 *   **Style:** Tight, claustrophobic framing to emphasize the jungle's density. Wide shots to show the overwhelming scale and isolation.
 *   **Techniques:** Use foreground elements (vines, leaves) to frame characters and create depth. Show the layers of the jungle (canopy, midstory, floor). Frame characters as small against the vast, uncaring environment.
-*   **Prompt Example:** "A tight, claustrophobic shot of a D&D adventurer pushing through dense jungle vines, their face strained with effort. The camera is close, emphasizing the oppressive density of the vegetation. In the background, the jungle stretches endlessly."
+*   **Prompt Example:** "A tight, claustrophobic shot of a fantasy adventurer pushing through dense jungle vines, their face strained with effort. The camera is close, emphasizing the oppressive density of the vegetation. In the background, the jungle stretches endlessly."
 
 ## Voice
 

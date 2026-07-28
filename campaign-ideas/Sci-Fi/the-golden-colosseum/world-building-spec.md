@@ -35,4 +35,4 @@
 
 ## Historical Inspiration with Fantasy Elements
 
-Real Roman gladiatorial combat plus magic, multiple species, fantastical beasts, and enhanced spectacle. Honor the history while making it playable D&D.
+Real Roman gladiatorial combat plus magic, multiple species, fantastical beasts, and enhanced spectacle. Honor the history while making it playable 5E.

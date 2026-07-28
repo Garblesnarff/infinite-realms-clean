@@ -186,7 +186,7 @@ These mysteries provide campaign depth and post-victory storytelling opportuniti
 
 ## CAMPAIGN COMPLETE
 
-This is the 10th and final extreme sports D&D campaign. All ten celebrate different sports while adding magical/fantastical elements that elevate them to world-changing events:
+This is the 10th and final extreme sports tabletop campaign. All ten celebrate different sports while adding magical/fantastical elements that elevate them to world-changing events:
 
 1. Gravity Runners (Parkour)
 2. Concrete Dreams (Skateboarding)

@@ -18,7 +18,7 @@ The players inherit a small, beat-up, and barely functional astral skiff from a 
 
 ## Story Arc (Medium Campaign — 8–10 sessions)
 
-A road trip movie across the D&D multiverse.
+A road trip movie across the fantasy multiverse.
 
 *   **Act I — Ignition & Escape (Sessions 1–2):** The party takes possession of the skiff, the *Stardust Drifter*, just as their relative's creditors arrive. They must make a hasty escape into the Astral Sea, learning the basics of planar travel while fending off their first pursuer.
 *   **Act II — The Great Wheel (Sessions 3–6):** The bulk of the campaign is an episodic journey across several planes. In each new plane (e.g., the clockwork plane of Mechanus, the roaring forges of the City of Brass, the chaotic jungles of the Beastlands), they must find a way to refuel, repair a critical ship component, and shake off their pursuers.

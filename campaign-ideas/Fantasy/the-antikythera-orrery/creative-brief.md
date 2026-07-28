@@ -9,7 +9,7 @@ Arcane Mystery, Divine Intrigue, Adventure
 ## Key Features
 *   **A Dynamic Central Artifact:** The Orrery is not just a plot device but a tool the players can learn to use, providing cryptic clues and glimpses of the future.
 *   **High-Stakes Intrigue:** The campaign is driven by a "cold war" between divine powers, forcing players to rely on wits, diplomacy, and stealth over open combat.
-*   **Themes of Prophecy and Fate:** A story that engages with classic D&D themes of destiny and free will, where players must decide whether to follow or defy prophecy.
+*   **Themes of Prophecy and Fate:** A story that engages with classic fantasy themes of destiny and free will, where players must decide whether to follow or defy prophecy.
 *   **Cosmic Scope:** The conflict involves angels, devils, and the gods themselves, raising the stakes to the level of the entire multiverse.
 
 ## Target Audience

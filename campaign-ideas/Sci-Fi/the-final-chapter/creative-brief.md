@@ -81,4 +81,4 @@ Occasional references to the real session:
 
 **Afterwards**: Eventually, speak. Share feelings. Cry if needed. Laugh about favorite moments. Grieve and celebrate simultaneously.
 
-This campaign is gift of ending. Perfect closure. Intentional finality. Rare in D&D. Beautiful because complete.
+This campaign is gift of ending. Perfect closure. Intentional finality. Rare in 5E. Beautiful because complete.

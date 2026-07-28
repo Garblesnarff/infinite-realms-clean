@@ -136,4 +136,4 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Final Move:** Once per combat, Ferrus can force an enemy to take an action that serves his own glory.
 
 ## [TAG: INDEX_KEYWORDS]
-The Cube Realm Chronicles, Minecraft, D&D Fantasy, Geometric Surrealism, Overworld, Nether-Below, Void-Beyond, Voxel Energy, Resource Driven, survival, Guide, Villager, Ender Tyrant. 
+The Cube Realm Chronicles, Minecraft, 5E Fantasy, Geometric Surrealism, Overworld, Nether-Below, Void-Beyond, Voxel Energy, Resource Driven, survival, Guide, Villager, Ender Tyrant. 

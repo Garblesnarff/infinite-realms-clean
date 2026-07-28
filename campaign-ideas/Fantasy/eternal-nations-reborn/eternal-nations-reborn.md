@@ -1,6 +1,6 @@
 # Eternal Nations Reborn
 
-A Dungeons & Dragons 5e campaign about reincarnating as your favorite strategy game faction and building a nation from nothing.
+A 5E campaign about reincarnating as your favorite strategy game faction and building a nation from nothing.
 
 *   **Genre**: Strategy Isekai, Nation Building, Tactical Fantasy
 *   **Tone**: Strategic with Heart

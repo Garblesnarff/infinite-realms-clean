@@ -392,7 +392,7 @@ Every confrontation could be fatal. One wrong word, death. Tension in every inte
 - Appreciate both sides
 - No simple heroes
 
-This is Death Note: The most intelligent, dramatic, morally complex detective story in anime. Adapted to D&D as battle of wits where supernatural power meets natural genius, and both sides are protagonist and antagonist.
+This is Death Note: The most intelligent, dramatic, morally complex detective story in anime. Adapted to 5E as battle of wits where supernatural power meets natural genius, and both sides are protagonist and antagonist.
 
 "I'll take a potato chip... AND EAT IT!"
 

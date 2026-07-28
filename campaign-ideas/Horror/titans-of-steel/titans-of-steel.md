@@ -7,7 +7,7 @@ From the depths of the ocean, from rifts in reality, from sleeping volcanic moun
 
 The answer: **Jaegers**—massive humanoid war machines, 250 feet of enchanted steel and magitech engineering. But piloting them requires something unprecedented: **Neural Handshaking**—magically linking multiple pilots' minds to control the machine cooperatively. The mental strain is too much for one person. It takes a team.
 
-The party are Jaeger pilots, bound together through magical mind-meld technology. They train together, fight together, and potentially die together—because if one pilot's mind breaks, the whole team goes down. The campaign combines Pacific Rim's spectacle with D&D's character development: kaiju are puzzle bosses requiring strategy, Jaegers have unique loadouts and abilities, and the psychological toll of mind-linking creates intense roleplay opportunities. Can the party synchronize their thoughts and fighting styles? Can they protect a world that barely thanks them? And what happens when they discover the kaiju are only symptoms—something far larger is trying to break through?
+The party are Jaeger pilots, bound together through magical mind-meld technology. They train together, fight together, and potentially die together—because if one pilot's mind breaks, the whole team goes down. The campaign combines Pacific Rim's spectacle with the genre's character development: kaiju are puzzle bosses requiring strategy, Jaegers have unique loadouts and abilities, and the psychological toll of mind-linking creates intense roleplay opportunities. Can the party synchronize their thoughts and fighting styles? Can they protect a world that barely thanks them? And what happens when they discover the kaiju are only symptoms—something far larger is trying to break through?
 
 ### Core Themes
 
@@ -214,4 +214,4 @@ All are weapons, not animals. No mercy, no intelligence—until late campaign re
 
 The campaign asks: What are you willing to sacrifice to protect others? Can enemies be understood? When does self-defense become genocide? And how do you return to normal life after experiencing someone else's mind?
 
-This is **Pacific Rim meets D&D**: kaiju battles, drift dynamics, colossal spectacle, military camaraderie, and philosophical questions about conflict.
+This is **Pacific Rim meets high fantasy**: kaiju battles, drift dynamics, colossal spectacle, military camaraderie, and philosophical questions about conflict.

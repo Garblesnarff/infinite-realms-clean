@@ -3,7 +3,7 @@
 ## Real-World Basis: The Antikythera Mechanism
 An incredibly intricate hand-powered orrery recovered from a shipwreck off the Greek island of Antikythera. Created around 100 BC, it is often called the first analog computer. Its complex system of bronze gears could predict astronomical positions, eclipses, and even the cycles of the Olympic Games. Its technological sophistication would not be seen again for over a thousand years.
 
-## D&D Twist
+## 5E Twist
 The device was not built by mortals. It is a divine artifact, a relic from the Dawn War between the gods and the primordials, or perhaps a tool created by a god of knowledge like Oghma or Ioun. It does not merely track the movements of the celestial bodies; it tracks the flow of divine power throughout the cosmos. It maps the shifting alignments of the planes, predicts the birth and death of gods, and calculates the precise moments of prophetic convergence. It is a divine threat-assessment engine and a map of the future.
 
 ## Campaign Premise (Arcane Mystery/Divine Intrigue)

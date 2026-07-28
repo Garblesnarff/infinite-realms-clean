@@ -1,4 +1,4 @@
-## The Crown of Aethermoor: A Dungeons & Dragons 5e Campaign
+## The Crown of Aethermoor: A 5E Campaign
 
 **An ancient evil has awakened, threatening to plunge the realm into an eternal winter. A group of humble villagers discovers they are the prophesied heroes destined to recover the long-lost Crown of Aethermoor and restore the balance of the seasons. This campaign will take players on a classic fantasy adventure, transforming them from local heroes into legendary champions.**
 

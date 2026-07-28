@@ -1,6 +1,6 @@
 # The Crimson Rebirth
 
-A Dungeons & Dragons 5e campaign of second chances, powerful magic, and personal redemption.
+A 5E campaign of second chances, powerful magic, and personal redemption.
 
 *   **Genre**: High Fantasy, Coming-of-Age
 *   **Tone**: Hopeful yet Challenging

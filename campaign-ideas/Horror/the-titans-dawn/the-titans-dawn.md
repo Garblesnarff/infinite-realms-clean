@@ -172,4 +172,4 @@ The tragedy: No perfect solution exists. Every path requires sacrifice. Seal = i
 
 The hope: Even facing impossible odds, choices matter. Small beings can affect large ones through creativity, empathy, determination. David doesn't kill Goliath here—he talks to him.
 
-This is **cosmic horror meets hopeful fantasy**—Lovecraftian scale with D&D agency. Titans are forces beyond comprehension, but comprehension is possible. The world ends, or it doesn't, and party decides which. The Primals wake. What happens next is up to mortals who live on their backs.
+This is **cosmic horror meets hopeful fantasy**—Lovecraftian scale with 5E agency. Titans are forces beyond comprehension, but comprehension is possible. The world ends, or it doesn't, and party decides which. The Primals wake. What happens next is up to mortals who live on their backs.

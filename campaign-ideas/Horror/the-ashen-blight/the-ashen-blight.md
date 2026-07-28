@@ -1,4 +1,4 @@
-Of course. Here is a complete Dungeons & Dragons 5e campaign tailored to your selected parameters.
+Of course. Here is a complete 5E campaign tailored to your selected parameters.
 
 *   **Genre**: Dark Fantasy
 *   **Tone**: Gritty

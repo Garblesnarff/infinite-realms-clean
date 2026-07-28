@@ -33,11 +33,11 @@ Inspired by the unique blend of prehistoric survival and high-tech science ficti
 *   **Prompt Example:** "...a vibrant color palette of lush jungle greens, earthy browns, and bright blues for the sky. In the background, a massive obelisk glows with an otherworldly cyan light."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers who progress from primitive tribal gear (hide armor, bone weapons) to futuristic tek armor (powered suits, energy rifles).
+*   **Style:** fantasy adventurers who progress from primitive tribal gear (hide armor, bone weapons) to futuristic tek armor (powered suits, energy rifles).
 *   **Tribal Gear:** Crude, functional, made from dinosaur hides, bones, and feathers.
 *   **Tek Gear:** Sleek, high-tech, glowing with energy, with helmets, gauntlets, and jetpacks.
 *   **Expression:** Determined, confident, showing the progression from struggling survivor to apex predator.
-*   **Prompt Example:** "A D&D adventurer wearing advanced tek armor that glows with cyan energy lines, holding a tek rifle. They stand confidently beside a tamed, saddled Argentavis, a massive prehistoric bird."
+*   **Prompt Example:** "A fantasy adventurer wearing advanced tek armor that glows with cyan energy lines, holding a tek rifle. They stand confidently beside a tamed, saddled Argentavis, a massive prehistoric bird."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Realistic, diverse biomes ranging from tropical beaches to snowy mountains, with alien obelisks dominating the skyline.
@@ -54,7 +54,7 @@ Inspired by the unique blend of prehistoric survival and high-tech science ficti
 **7. Composition:**
 *   **Style:** Wide, cinematic shots to showcase the scale of the island and its creatures. Dynamic action shots for taming or combat.
 *   **Techniques:** Use forced perspective to emphasize the size of dinosaurs. Frame characters against obelisks or massive creatures to show progression. Show the contrast between primitive bases and tek outposts.
-*   **Prompt Example:** "A low-angle, cinematic shot looking up at a massive T-Rex as it roars. In the foreground, a tiny D&D adventurer in primitive hide armor holds a spear, preparing to tame or flee."
+*   **Prompt Example:** "A low-angle, cinematic shot looking up at a massive T-Rex as it roars. In the foreground, a tiny fantasy adventurer in primitive hide armor holds a spear, preparing to tame or flee."
 
 ## Voice
 

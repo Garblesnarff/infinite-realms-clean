@@ -33,10 +33,10 @@ Inspired by the breathtaking underwater vistas and creeping terror of *Subnautic
 *   **Prompt Example:** "...a vibrant color palette of azure blues and emerald greens for the shallow reef, with bioluminescent purple and blue flora glowing softly in the filtered sunlight."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in futuristic diving suits, oxygen tanks, and reinforced underwater gear. As they progress, their equipment becomes more advanced (depth modules, exosuits).
+*   **Style:** fantasy adventurers in futuristic diving suits, oxygen tanks, and reinforced underwater gear. As they progress, their equipment becomes more advanced (depth modules, exosuits).
 *   **Alien Creatures:** Highly varied—some are beautiful and harmless (Peepers, Gasopods), while others are terrifying apex predators (Reaper Leviathans, Sea Dragon Leviathans). All have a distinctly alien, ocean-adapted appearance.
 *   **Expression:** Adventurers show tension, focus, and fear. Creatures are alien and often emotionless, making them harder to read and more unsettling.
-*   **Prompt Example:** "A D&D adventurer in a reinforced underwater diving suit with a glowing oxygen tank, wielding a scanner device. Nearby, a massive, serpentine Reaper Leviathan with four glowing eyes and mandibles looms in the dark water."
+*   **Prompt Example:** "A fantasy adventurer in a reinforced underwater diving suit with a glowing oxygen tank, wielding a scanner device. Nearby, a massive, serpentine Reaper Leviathan with four glowing eyes and mandibles looms in the dark water."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Vast, open underwater vistas in the shallows, shifting to claustrophobic, bioluminescent caverns in the depths.
@@ -53,7 +53,7 @@ Inspired by the breathtaking underwater vistas and creeping terror of *Subnautic
 **7. Composition:**
 *   **Style:** Wide, cinematic underwater shots to showcase the scale of the ocean and the creatures within. Close-ups to emphasize the tension of resource gathering or predator encounters.
 *   **Techniques:** Use depth of field to create a sense of distance—clear foreground with a hazy, mysterious background. Frame characters against massive creatures or alien structures. Low-angle shots looking up at the surface, or down into the abyss.
-*   **Prompt Example:** "A wide, cinematic shot from below, looking up at a D&D adventurer in a small submarine (Seamoth) silhouetted against the bright surface of the ocean. Below them, the dark abyss stretches endlessly, hinting at unseen terrors."
+*   **Prompt Example:** "A wide, cinematic shot from below, looking up at a fantasy adventurer in a small submarine (Seamoth) silhouetted against the bright surface of the ocean. Below them, the dark abyss stretches endlessly, hinting at unseen terrors."
 
 ## Voice
 

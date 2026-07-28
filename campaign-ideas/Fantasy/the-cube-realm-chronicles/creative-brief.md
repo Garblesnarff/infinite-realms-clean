@@ -4,12 +4,12 @@ This document outlines the core creative direction for the assets of this campai
 
 ## Art Style: Geometric Surrealism (Minecraft-inspired)
 
-Inspired by the iconic blocky aesthetic of *Minecraft*, reimagined with a D&D fantasy twist. This style combines rigid geometric forms with organic fantasy elements, creating a world that is both familiar and alien. The emphasis is on the contrast between the artificial, cube-based environment and the natural, often threatening life that inhabits it.
+Inspired by the iconic blocky aesthetic of *Minecraft*, reimagined with a fantasy twist. This style combines rigid geometric forms with organic fantasy elements, creating a world that is both familiar and alien. The emphasis is on the contrast between the artificial, cube-based environment and the natural, often threatening life that inhabits it.
 
 ### Core Principles for Prompts:
 
 *   **Geometric Foundation:** All terrain, structures, and many objects are composed of perfect cubes or rectangular blocks. This should be immediately apparent in every image.
-*   **Stylized Fantasy Realism:** While the world is blocky, characters and creatures can have more traditional D&D fantasy proportions, creating an interesting contrast.
+*   **Stylized Fantasy Realism:** While the world is blocky, characters and creatures can have more traditional fantasy proportions, creating an interesting contrast.
 *   **Resource Richness:** Emphasize the variety of materials (wood, stone, ore, crystal) visible in the environment, hinting at the crafting possibilities.
 
 ---
@@ -23,7 +23,7 @@ Inspired by the iconic blocky aesthetic of *Minecraft*, reimagined with a D&D fa
 **2. Line Work & Form:**
 *   **Style:** Clean, sharp lines defining the edges of blocks and geometric shapes. Characters and organic creatures have slightly softer, more traditional fantasy linework to create contrast.
 *   **Forms:** The environment is dominated by cubes, rectangular prisms, and perfect right angles. Trees are made of stacked wooden blocks with leafy cube canopies. Mountains are jagged arrangements of stone blocks.
-*   **Prompt Example:** "A D&D fantasy illustration in a Minecraft-inspired style, where the landscape is composed entirely of colorful, textured blocks arranged in natural formations. Sharp, clean lines define each block."
+*   **Prompt Example:** "A fantasy illustration in a Minecraft-inspired style, where the landscape is composed entirely of colorful, textured blocks arranged in natural formations. Sharp, clean lines define each block."
 
 **3. Color Palette:**
 *   **Style:** Vibrant and slightly saturated, with distinct color coding for different materials (green for grass blocks, brown for dirt, gray for stone, etc.).
@@ -33,10 +33,10 @@ Inspired by the iconic blocky aesthetic of *Minecraft*, reimagined with a D&D fa
 *   **Prompt Example:** "...a vibrant color palette with lush greens for the blocky grass, rich browns for wooden structures, and the gray of stone blocks, all under a bright blue, pixelated sky."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers with traditional fantasy proportions, but wearing armor and wielding weapons that have a slightly blocky, crafted aesthetic to match the world.
+*   **Style:** fantasy adventurers with traditional fantasy proportions, but wearing armor and wielding weapons that have a slightly blocky, crafted aesthetic to match the world.
 *   **Cube Realm Natives:** Villagers are humanoid but with distinctly cube-shaped heads and simplified, geometric features. Piglins are hulking, pig-like humanoids with crude, blocky armor. Ender creatures are tall, slender, and unnaturally angular.
 *   **Expression:** Adventurers show determination and adaptability. Villagers are simple and expressive in a charming way. Monsters are threatening but also fit the geometric aesthetic.
-*   **Prompt Example:** "A D&D adventurer wearing diamond armor that has a geometric, faceted appearance, wielding a glowing, enchanted sword. Behind them, a Villager NPC with a large, cube-shaped head and a simple, friendly expression."
+*   **Prompt Example:** "A fantasy adventurer wearing diamond armor that has a geometric, faceted appearance, wielding a glowing, enchanted sword. Behind them, a Villager NPC with a large, cube-shaped head and a simple, friendly expression."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Vast, open landscapes composed entirely of blocks. Biomes are distinct and vibrant (forests of block-trees, deserts of sand cubes, mountains of stone blocks).
@@ -53,7 +53,7 @@ Inspired by the iconic blocky aesthetic of *Minecraft*, reimagined with a D&D fa
 **7. Composition:**
 *   **Style:** Often uses wide shots to showcase the geometric landscape and the player's constructions. Also employs close-ups to highlight specific blocks, creatures, or crafting processes.
 *   **Techniques:** Use isometric or slightly elevated perspectives to showcase the blocky, layered nature of the terrain. Leading lines are created by rows of blocks, paths, or structure edges. Frame characters against massive, player-built structures or natural block formations.
-*   **Prompt Example:** "An isometric view of a D&D party's fortified base camp in a Minecraft-inspired world, showing multiple levels of blocky stone walls, wooden structures, a farm of wheat blocks, and a mine shaft descending into the earth, all meticulously crafted from geometric blocks."
+*   **Prompt Example:** "An isometric view of an adventuring party's fortified base camp in a Minecraft-inspired world, showing multiple levels of blocky stone walls, wooden structures, a farm of wheat blocks, and a mine shaft descending into the earth, all meticulously crafted from geometric blocks."
 
 ## Voice
 

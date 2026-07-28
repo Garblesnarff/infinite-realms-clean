@@ -181,7 +181,7 @@ When found, the Hero doesn't want to be read out. He's happy in his book, living
 The King argues that fictional characters are genuinely enslaved—forced to repeat their stories forever for readers' entertainment. He's not conquering out of evil, but liberating his fellow characters. His methods are wrong but his point is valid.
 
 **Twist 5: Reality Is Also a Book**
-The Author's Tome reveals that the "real world" is also a story being written. There's no true reality—just different levels of fiction. The players might be characters in someone's D&D campaign (fourth wall break).
+The Author's Tome reveals that the "real world" is also a story being written. There's no true reality—just different levels of fiction. The players might be characters in someone's tabletop campaign (fourth wall break).
 
 **Complication: Loved Ones Taken**
 Through random exchanges, NPCs the party cares about get written into books. Some into terrible genres (horror, tragedy). The party must risk everything to rescue them.

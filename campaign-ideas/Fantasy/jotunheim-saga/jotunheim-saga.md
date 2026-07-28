@@ -11,7 +11,7 @@ The campaign blends Norse mythology with political intrigue. Players navigate gi
 
 ### Core Themes
 
-**Norse Mythology Depth**: Faithful to Eddas and sagas while expanding for D&D. Giants aren't monsters—they're ancient, complex beings with their own heroes, poetry, and honor codes.
+**Norse Mythology Depth**: Faithful to Eddas and sagas while expanding for 5E. Giants aren't monsters—they're ancient, complex beings with their own heroes, poetry, and honor codes.
 
 **Cosmic Balance**: Ragnarok isn't good vs evil—it's necessary cosmic reset. Preventing it dooms everyone. The campaign asks: Is apocalypse necessary? Who decides?
 
@@ -156,4 +156,4 @@ The campaign blends Norse mythology with political intrigue. Players navigate gi
 
 Giants challenge stereotypes—they're not monsters, they're people. Gods aren't heroes, they're desperate survivors. Humans aren't pawns, they're potential kingmakers. The campaign refuses simple answers.
 
-This is **Norse mythology made D&D-ready**—epic scope, moral complexity, scale made playable, mythology's depth without museum-piece reverence. Ragnarok isn't ending—it's ultimate campaign boss that might be friend, foe, or necessity.
+This is **Norse mythology made 5E-ready**—epic scope, moral complexity, scale made playable, mythology's depth without museum-piece reverence. Ragnarok isn't ending—it's ultimate campaign boss that might be friend, foe, or necessity.

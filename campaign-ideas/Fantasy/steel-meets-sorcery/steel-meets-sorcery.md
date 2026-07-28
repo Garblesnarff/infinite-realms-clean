@@ -91,7 +91,7 @@ A clash of civilizations and the bridging of worlds.
 *   **Focus:** Epic Monster Encounter / Non-Combat Resolution Option
 *   **Key Events:**
     *   A massive, ancient flame dragon begins rampaging near the base, destroying villages. It's beyond what medieval forces can handle.
-    *   The party is deployed to stop it: this is a classic D&D dragon fight, but with modern weapons (rocket launchers, armor-piercing rounds).
+    *   The party is deployed to stop it: this is a classic 5E dragon fight, but with modern weapons (rocket launchers, armor-piercing rounds).
     *   Mid-battle, Rory reveals she's actually an apostle of Emroy, the God of Death, and can communicate with the dragon.
     *   Discovery: the dragon is enraged because Imperial poachers killed its mate. The party can choose: kill it (satisfying combat), or help it get revenge on the poachers and negotiate peace (diplomatic resolution).
 *   **Escalation:** Their choice affects divine politics—Emroy takes interest in them either way, but other gods grow concerned about "outsiders with god-killing weapons."

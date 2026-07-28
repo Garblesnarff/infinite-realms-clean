@@ -23,7 +23,7 @@ Spell finally failing. Beanstalks growing globally (campaign focuses on first ma
 ## Geography and Cosmology
 
 ### The Mortal World (Below)
-Standard D&D world, medieval-renaissance tech level, magic common. Many kingdoms, diverse peoples. Giants are myth from fairy tales (Jack and the Beanstalk, etc.).
+Standard fantasy world, medieval-renaissance tech level, magic common. Many kingdoms, diverse peoples. Giants are myth from fairy tales (Jack and the Beanstalk, etc.).
 
 ### The Cloudline (Boundary)
 - Altitude: ~40,000 feet (where clouds solidify)
@@ -75,7 +75,7 @@ Standard D&D world, medieval-renaissance tech level, magic common. Many kingdoms
 - All giants: Natural magic resistance, strength enhancement, longevity
 
 ### Human Magic
-- Standard D&D magic
+- Standard 5E magic
 - Giants have advantage on saves (magic resistance)
 - Anti-giant magic: specifically developed spells (historical—from genocide attempts)
 - Scale-adjustment magic: Enlarge/Reduce critical for interaction

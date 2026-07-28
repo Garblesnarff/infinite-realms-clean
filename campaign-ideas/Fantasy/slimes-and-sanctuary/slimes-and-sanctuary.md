@@ -1,6 +1,6 @@
 # Slimes and Sanctuary
 
-A Dungeons & Dragons 5e campaign about finding strength in weakness, building community with the outcast, and proving that kindness can change the world.
+A 5E campaign about finding strength in weakness, building community with the outcast, and proving that kindness can change the world.
 
 *   **Genre**: Wholesome Adventure, Found Family, Monster Friendship
 *   **Tone**: Heartwarming with Stakes

@@ -7,13 +7,13 @@ Inspired by the 1908 Tunguska Event, players must venture into a vast, quarantin
 Cosmic Horror, Planar Exploration, Survival
 
 ## Key Features
-*   **Cosmic Horror in D&D:** A campaign centered on the themes of the Far Realm, featuring sanity mechanics and truly alien, incomprehensible threats.
+*   **Cosmic Horror in 5E:** A campaign centered on the themes of the Far Realm, featuring sanity mechanics and truly alien, incomprehensible threats.
 *   **A Dynamic, Hostile World:** The setting is not a static map but a constantly changing zone of weirdness, where the environment itself is a primary antagonist.
-*   **Focus on Aberrations:** An opportunity to showcase the most bizarre and terrifying monsters in the D&D multiverse, from Mind Flayers to Star Spawn.
+*   **Focus on Aberrations:** An opportunity to showcase the most bizarre and terrifying monsters in the fantasy multiverse, from Mind Flayers to Star Spawn.
 *   **High-Stakes Exploration:** A grim and perilous journey where survival and resource management are just as important as combat.
 
 ## Target Audience
-Fans of H.P. Lovecraft, *Annihilation*, and the *S.T.A.L.K.E.R.* games. Players who enjoy high-lethality, exploration-focused campaigns and want a true cosmic horror experience in D&D.
+Fans of H.P. Lovecraft, *Annihilation*, and the *S.T.A.L.K.E.R.* games. Players who enjoy high-lethality, exploration-focused campaigns and want a true cosmic horror experience in 5E.
 
 ## Voice
 

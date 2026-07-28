@@ -224,4 +224,4 @@ Instead of spell slots, characters have rechargeable special attacks:
 *   These appear as glowing trails and deal extra damage but require brief "post-motion" freeze after use
 *   Skilled players can "animation cancel" or chain skills together
 *   Learning new skills requires practice and achievement of specific conditions
-*   This creates a more action-oriented combat feel within D&D structure
+*   This creates a more action-oriented combat feel within tabletop structure

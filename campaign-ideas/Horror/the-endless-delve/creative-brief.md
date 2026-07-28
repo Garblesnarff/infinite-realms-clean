@@ -2,7 +2,7 @@
 
 ## Art Style: Classic Dungeon meets Progressive Strangeness
 
-Inspired by D&D's Undermountain, Dark Souls, The Abyss Made Flesh concept, and classic mega-dungeons. Each level has its own visual theme while maintaining the sense of descending into greater strangeness.
+Inspired by the classic megadungeon, Dark Souls, The Abyss Made Flesh concept, and classic mega-dungeons. Each level has its own visual theme while maintaining the sense of descending into greater strangeness.
 
 ### Visual Principles:
 * **Progressive Strangeness**: Upper levels look normal; deep levels break reality.

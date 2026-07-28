@@ -3,7 +3,7 @@
 ## Real-World Basis: The Ghost Army
 During World War II, the U.S. Army's 23rd Headquarters Special Troops was a tactical deception unit. This "Ghost Army" used inflatable tanks, sound trucks broadcasting the noise of troop movements, and fake radio transmissions to mislead Axis forces, often making the enemy believe entire divisions were present when, in fact, there were only a few hundred men. Their operations are credited with saving thousands of lives.
 
-## D&D Twist
+## 5E Twist
 In a great war against a tyrannical hobgoblin empire, a kingdom forms a special operations company composed entirely of its best illusionists, bards, and trickery clerics. Known as "The Nightingale Company," their purpose is to deceive and demoralize the enemy. Their greatest deception is a powerful, complex illusion of a colossal, ancient dragon, used to scatter hobgoblin legions in terror. During a desperate, last-stand battle, the collective psychic energy of the company, amplified by the desperate belief of the soldiers they were protecting, caused the illusion to gain a semblance of reality. It became a "Thought-Form"—a creature of pure belief and arcane energy. Now, this phantom dragon, unstable and untethered from its creators, has gone rogue.
 
 ## Campaign Premise (Military Fantasy/Espionage)

@@ -31,7 +31,7 @@ Running from multiple factions. Each session, reality changes mysteriously—som
 Reality becomes increasingly unstable. Major historical events change. Magic systems rewrite themselves. Party members experience alternate timelines where they made different choices. Discover the Blank Cult has the true Tome and is deliberately leaving it blank while reality tries to write itself. Nature abhors narrative vacuum—reality itself is filling the pages.
 
 ### Act 4: The Authorship (Sessions 27-32)
-Final revelation: The party's campaign IS the Blank Tome writing itself. Every choice they make is being written in the pages. They are authors and characters simultaneously. The final sessions are collaborative worldbuilding—party writes the ending explicitly, describing what reality should be. Their consensus becomes law. The ultimate metafictional D&D experience.
+Final revelation: The party's campaign IS the Blank Tome writing itself. Every choice they make is being written in the pages. They are authors and characters simultaneously. The final sessions are collaborative worldbuilding—party writes the ending explicitly, describing what reality should be. Their consensus becomes law. The ultimate metafictional tabletop experience.
 
 ## Key NPCs
 

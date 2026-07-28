@@ -7,7 +7,7 @@ A mysterious beanstalk has erupted overnight, tearing through the center of the 
 
 The party is hired (or volunteers) to climb the beanstalk and discover what lies above the clouds. What they find is a fully-realized world: the **Cloud Kingdoms of the Giants**, a civilization existing on clouds made solid through ancient magic. Giants live here—some peaceful farmers, some aggressive hunters, others noble lords in crystalline castles. To the giants, the world below is legend, a dangerous "underworld" they avoid. The beanstalk's growth was accidental, and now both societies face a crisis.
 
-The campaign combines fairy-tale wonder with practical challenges: navigating a world where you're mouse-sized, diplomacy with beings who might accidentally crush you, heist-style infiltration of giant-scale locations, and moral complexity when you discover the giants aren't monsters—they're people whose society is as nuanced as your own. Jack and the Beanstalk meets Gulliver's Travels, with D&D politics and environmental puzzles.
+The campaign combines fairy-tale wonder with practical challenges: navigating a world where you're mouse-sized, diplomacy with beings who might accidentally crush you, heist-style infiltration of giant-scale locations, and moral complexity when you discover the giants aren't monsters—they're people whose society is as nuanced as your own. Jack and the Beanstalk meets Gulliver's Travels, with fantasy politics and environmental puzzles.
 
 ### Core Themes
 

@@ -163,7 +163,7 @@ Each arc focuses on fixing a specific "temporal error" created by their time-hop
 - Small business in present needs saving
 - In future, this business becomes crucial
 - Economic adventure: raise capital, fight off rivals
-- Unusual D&D session: business management
+- Unusual tabletop session: business management
 - Creative problem-solving
 
 **Session 21: "The Saboteur's Offer"**

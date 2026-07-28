@@ -13,7 +13,7 @@ A city built from abandoned narrative elements where physics and architecture fo
 - **The Fading Edge**: Where Unwritten slowly disappear if they accept their fate
 
 ### Population
-Millions of unfinished characters from abandoned stories across all media: novels, comics, games, screenplays, D&D campaigns. Each retains memories of their incomplete narrative.
+Millions of unfinished characters from abandoned stories across all media: novels, comics, games, screenplays, tabletop campaigns. Each retains memories of their incomplete narrative.
 
 ## The Nature of Being Unfinished
 

@@ -229,4 +229,4 @@ But beneath the surface chaos lies terrible purpose. The Four Horsemen of the Ap
 
 **Defeat:** Second Consumption happens without choice, or dimension tears itself apart in civil war
 
-This campaign asks: What makes life worth living? Is peaceful death better than painful life? Can we find meaning in suffering? It's death metal philosophy through D&D.
+This campaign asks: What makes life worth living? Is peaceful death better than painful life? Can we find meaning in suffering? It's death metal philosophy through 5E.

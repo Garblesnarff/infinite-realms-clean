@@ -301,4 +301,4 @@ The DM should emphasize:
 - Beauty and horror of the bayou
 - Philosophical underpinnings: time, meaning, evil
 
-This is *True Detective* Season 1 in D&D: slow, dark, brilliant, and unforgettable. The mystery is the journey, and the journey changes everyone who takes it.
+This is *True Detective* Season 1 in 5E: slow, dark, brilliant, and unforgettable. The mystery is the journey, and the journey changes everyone who takes it.

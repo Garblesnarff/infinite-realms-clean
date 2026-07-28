@@ -2,7 +2,7 @@
 
 ## Cosmology (Nine Realms)
 **Asgard**: Gods' realm, golden halls, Bifrost bridge connection
-**Midgard**: Human world, standard D&D setting
+**Midgard**: Human world, standard fantasy setting
 **Jotunheim**: Giant realm (campaign focus)
 **Muspelheim**: Fire realm, Surtr's domain
 **Niflheim**: Ice/mist realm, primordial cold

@@ -8,7 +8,7 @@
 **Tone:** Gritty, Realistic, Nature-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players are stranded in the dangerous Crimson Wilderness after their expedition goes wrong, and must survive while uncovering the source of the land's corruption.
+Create a complete 5E campaign where players are stranded in the dangerous Crimson Wilderness after their expedition goes wrong, and must survive while uncovering the source of the land's corruption.
 
 The campaign should include:
 - **Story Arc**: Expedition disaster → Survival and exploration → Discover ancient curse → Cleanse the wilderness → Find way home
@@ -31,7 +31,7 @@ A campaign emphasizing resourcefulness, teamwork, and connection with nature. Co
 **Tone:** Dark, Atmospheric, Psychological  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign in the cursed village of Ravenshollow, where the dead won't stay buried and players must uncover a generations-old secret before becoming the next victims.
+Create a complete 5E campaign in the cursed village of Ravenshollow, where the dead won't stay buried and players must uncover a generations-old secret before becoming the next victims.
 
 The campaign should include:
 - **Story Arc**: Arrive at cursed village → Investigate supernatural events → Uncover family tragedy → Confront vengeful spirit → Break the curse
@@ -54,7 +54,7 @@ A horror campaign that creates atmosphere through storytelling rather than gore.
 **Tone:** Humorous, Whimsical, Feel-Good  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players inherit a run-down magical inn and must restore it to glory while dealing with eccentric guests, magical mishaps, and a rival establishment.
+Create a complete 5E campaign where players inherit a run-down magical inn and must restore it to glory while dealing with eccentric guests, magical mishaps, and a rival establishment.
 
 The campaign should include:
 - **Story Arc**: Inherit inn → Meet quirky staff and guests → Compete with rival inn → Solve magical problems → Grand reopening celebration
@@ -77,7 +77,7 @@ A lighthearted campaign focusing on problem-solving, creativity, and social inte
 **Tone:** Innovative, Industrial, Discovery-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign in the industrial city of Cogwheel Harbor, where magic and technology merge, and players must stop a conspiracy to use dangerous magitech to control the population.
+Create a complete 5E campaign in the industrial city of Cogwheel Harbor, where magic and technology merge, and players must stop a conspiracy to use dangerous magitech to control the population.
 
 The campaign should include:
 - **Story Arc**: Magitech accident → Investigation reveals conspiracy → Explore industrial underworld → Confront mad inventor → Prevent magical-technological catastrophe
@@ -100,7 +100,7 @@ A campaign that explores themes of progress, power, and responsibility while pro
 **Tone:** Adventurous, Swashbuckling, Freedom-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players captain their own ship across the Sapphire Archipelago, seeking the legendary Treasure of the Pirate King while navigating rival crews, sea monsters, and ancient curses.
+Create a complete 5E campaign where players captain their own ship across the Sapphire Archipelago, seeking the legendary Treasure of the Pirate King while navigating rival crews, sea monsters, and ancient curses.
 
 The campaign should include:
 - **Story Arc**: Acquire ship and crew → Explore mysterious islands → Compete with rival pirates → Face sea curses → Discover ultimate treasure
@@ -123,7 +123,7 @@ A campaign emphasizing freedom, exploration, and camaraderie. Include detailed s
 **Tone:** Epic, Cosmic, Reality-Bending  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where reality itself is breaking down as multiple planes of existence begin merging chaotically, and players must restore cosmic balance before all existence collapses.
+Create a complete 5E campaign where reality itself is breaking down as multiple planes of existence begin merging chaotically, and players must restore cosmic balance before all existence collapses.
 
 The campaign should include:
 - **Story Arc**: Planar anomalies appear → Travel between merging planes → Gather cosmic artifacts → Confront entity causing chaos → Restore multiverse stability
@@ -135,7 +135,7 @@ The campaign should include:
 - **Planar Elements**: Each plane has unique environmental rules, inhabitants, and challenges requiring adaptation
 
 **Expected Output:**
-An epic campaign showcasing D&D's cosmic scope while maintaining personal stakes. Each plane should feel distinct with memorable encounters and meaningful consequences.
+An epic campaign showcasing the genre's cosmic scope while maintaining personal stakes. Each plane should feel distinct with memorable encounters and meaningful consequences.
 
 ---
 
@@ -146,7 +146,7 @@ An epic campaign showcasing D&D's cosmic scope while maintaining personal stakes
 **Tone:** Mysterious, Methodical, Revelation-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players investigate the supernatural disappearance of an entire village's population, following clues that lead to a disturbing truth about otherworldly predators.
+Create a complete 5E campaign where players investigate the supernatural disappearance of an entire village's population, following clues that lead to a disturbing truth about otherworldly predators.
 
 The campaign should include:
 - **Story Arc**: Discover empty village → Investigate clues and evidence → Follow trail to otherworldly realm → Confront alien predators → Rescue survivors and prevent future attacks
@@ -169,7 +169,7 @@ A mystery campaign emphasizing investigation skills, logical thinking, and gradu
 **Tone:** Serious, Strategic, Honor-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players serve as special operatives during a kingdom-spanning civil war, undertaking critical missions that determine the conflict's outcome and the realm's future.
+Create a complete 5E campaign where players serve as special operatives during a kingdom-spanning civil war, undertaking critical missions that determine the conflict's outcome and the realm's future.
 
 The campaign should include:
 - **Story Arc**: Civil war erupts → Players choose side → Complete strategic missions → Experience major battles → Help determine war's outcome
@@ -192,7 +192,7 @@ A campaign exploring themes of duty, honor, and the cost of war. Include meaning
 **Tone:** Clever, Tense, Morally Ambiguous  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players plan and execute the theft of a powerful magical artifact from the most secure vault in the kingdom, while navigating betrayals and competing criminal organizations.
+Create a complete 5E campaign where players plan and execute the theft of a powerful magical artifact from the most secure vault in the kingdom, while navigating betrayals and competing criminal organizations.
 
 The campaign should include:
 - **Story Arc**: Recruited for impossible heist → Gather team and intelligence → Plan infiltration → Execute heist with complications → Escape and deal with consequences
@@ -215,7 +215,7 @@ A campaign emphasizing planning, teamwork, and creative problem-solving. Include
 **Tone:** Gritty, Hopeful, Rebuilding-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign set five years after magical "stars" fell from the sky, corrupting the land and creating dangerous mutated creatures. Players must help rebuild civilization while dealing with the ongoing magical catastrophe.
+Create a complete 5E campaign set five years after magical "stars" fell from the sky, corrupting the land and creating dangerous mutated creatures. Players must help rebuild civilization while dealing with the ongoing magical catastrophe.
 
 The campaign should include:
 - **Story Arc**: Establish safe settlement → Explore corrupted wasteland → Discover starfall's true cause → Gather resources for solution → Cleanse corruption and restore hope
@@ -238,7 +238,7 @@ A campaign about hope and rebuilding in the face of disaster. Emphasize communit
 **Tone:** Elegant, Scheming, Social  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players navigate the treacherous politics of the royal court, serving as agents for different noble houses while uncovering a plot against the crown.
+Create a complete 5E campaign where players navigate the treacherous politics of the royal court, serving as agents for different noble houses while uncovering a plot against the crown.
 
 The campaign should include:
 - **Story Arc**: Gain court positions → Navigate noble rivalries → Uncover assassination plot → Choose loyalties → Prevent or enable regime change
@@ -261,7 +261,7 @@ A campaign where words are weapons and alliances determine survival. Combat shou
 **Tone:** Dark, Tactical, Preparation-Focused  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players follow in the footsteps of a legendary monster hunter, tracking down increasingly dangerous creatures while uncovering the truth about her mysterious disappearance.
+Create a complete 5E campaign where players follow in the footsteps of a legendary monster hunter, tracking down increasingly dangerous creatures while uncovering the truth about her mysterious disappearance.
 
 The campaign should include:
 - **Story Arc**: Investigate huntress's disappearance → Hunt her previous targets → Discover her fate → Face the ultimate monster that claimed her → Decide whether to continue her legacy
@@ -284,7 +284,7 @@ A campaign emphasizing preparation, research, and tactical thinking. Each monste
 **Tone:** Complex, Philosophical, Consequence-Heavy  
 
 **PROMPT FOR OTHER AI:**
-Create a complete D&D 5e campaign where players discover a device that allows limited time travel and must repair damage to the timeline while avoiding creating worse paradoxes.
+Create a complete 5E campaign where players discover a device that allows limited time travel and must repair damage to the timeline while avoiding creating worse paradoxes.
 
 The campaign should include:
 - **Story Arc**: Discover time device → Travel to past to prevent disaster → Create unintended consequences → Navigate temporal paradoxes → Restore proper timeline
@@ -319,4 +319,4 @@ A campaign that explores cause and effect, moral responsibility, and the complex
 - **Rich NPCs and locations** that encourage player investment
 - **Flexible structure** allowing for player choices and creativity
 
-This library provides Infinite Realms users with genuine variety in their D&D experience, ensuring return engagement and broad market appeal across different player preferences and experience levels.
+This library provides Infinite Realms users with genuine variety in their tabletop experience, ensuring return engagement and broad market appeal across different player preferences and experience levels.

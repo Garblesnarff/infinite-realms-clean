@@ -33,10 +33,10 @@ Inspired by the harsh, unforgiving aesthetic of *Rust*, blending realistic post-
 *   **Prompt Example:** "...a muted, desaturated color palette dominated by rocky grays, dusty browns, and the harsh orange of rusted metal. The sunlight is bright and unforgiving."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in improvised, post-apocalyptic gear—cloth wraps, scavenged armor, makeshift weapons.
+*   **Style:** fantasy adventurers in improvised, post-apocalyptic gear—cloth wraps, scavenged armor, makeshift weapons.
 *   **Progression:** Naked → Cloth wraps → Leather armor → Metal armor. Weapons: Rock → Spear → Bow → Firearms.
 *   **Expression:** Hard, paranoid, and determined. Eyes constantly scan for threats.
-*   **Prompt Example:** "A D&D adventurer in crude leather armor and a metal chest plate, holding a makeshift rifle. Their face is scarred and weathered, eyes narrowed in suspicion."
+*   **Prompt Example:** "A fantasy adventurer in crude leather armor and a metal chest plate, holding a makeshift rifle. Their face is scarred and weathered, eyes narrowed in suspicion."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Realistic, diverse environments—rocky beaches, dense forests, irradiated ruins, and ramshackle player-built bases.
@@ -53,7 +53,7 @@ Inspired by the harsh, unforgiving aesthetic of *Rust*, blending realistic post-
 **7. Composition:**
 *   **Style:** Dynamic, action-oriented shots for PvP combat and raids. Wide, desolate shots to emphasize isolation.
 *   **Techniques:** Use first-person perspectives for immersion. Show the scale of bases and the brutality of raiding (explosions, broken walls). Frame characters as small against the vast, uncaring landscape.
-*   **Prompt Example:** "A dynamic, first-person perspective shot of a D&D adventurer holding a makeshift rifle, aiming at a distant enemy base. Explosions light up the base as a raid is in progress."
+*   **Prompt Example:** "A dynamic, first-person perspective shot of a fantasy adventurer holding a makeshift rifle, aiming at a distant enemy base. Explosions light up the base as a raid is in progress."
 
 ## Voice
 

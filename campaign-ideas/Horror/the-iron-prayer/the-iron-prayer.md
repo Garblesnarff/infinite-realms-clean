@@ -1,6 +1,6 @@
 # The Iron Prayer
 
-A Dungeons & Dragons 5e campaign of military warfare, tactical magic, and divine manipulation.
+A 5E campaign of military warfare, tactical magic, and divine manipulation.
 
 *   **Genre**: Military Fantasy, Dark Political Thriller
 *   **Tone**: Cynical, Strategic

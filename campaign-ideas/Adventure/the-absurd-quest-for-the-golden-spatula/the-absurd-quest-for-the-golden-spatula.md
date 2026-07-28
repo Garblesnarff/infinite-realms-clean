@@ -162,4 +162,4 @@ The central conflict is a quest for a magical spatula. That's it. The stakes are
 
 ### 3. **Meta-Gaming is Encouraged**
 
-*   In this campaign, meta-gaming is not only allowed, it is encouraged. The characters can be aware that they are in a D&D game, and they can make jokes about the rules, the DM, and the other players. This can lead to some hilarious, fourth-wall-breaking moments.
+*   In this campaign, meta-gaming is not only allowed, it is encouraged. The characters can be aware that they are in a 5E game, and they can make jokes about the rules, the DM, and the other players. This can lead to some hilarious, fourth-wall-breaking moments.

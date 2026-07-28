@@ -33,10 +33,10 @@ Inspired by the clean, vibrant aesthetic of *Raft*, blending serene ocean beauty
 *   **Prompt Example:** "...a vibrant color palette dominated by azure blues for the ocean, golden yellows for sunlight on the water, and natural brown tones for the wooden raft. A dark shadow beneath the waves hints at Bruce's presence."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers in practical, sun-worn ocean gear (shorts, hats, vests). Appearance shows exposure to sun and salt.
+*   **Style:** fantasy adventurers in practical, sun-worn ocean gear (shorts, hats, vests). Appearance shows exposure to sun and salt.
 *   **Bruce:** A massive, great white shark with scarred skin, a powerful tail, and menacing eyes. He is large enough to dominate the frame.
 *   **Expression:** Adventurers show determination, hope, and wariness. Bruce is a predator—cold, patient, and relentless.
-*   **Prompt Example:** "A D&D adventurer in sun-faded clothing and a wide-brimmed hat, standing on a wooden raft, fishing with a rod. Beneath the clear blue water, the massive silhouette of Bruce the shark circles."
+*   **Prompt Example:** "A fantasy adventurer in sun-faded clothing and a wide-brimmed hat, standing on a wooden raft, fishing with a rod. Beneath the clear blue water, the massive silhouette of Bruce the shark circles."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Vast, open ocean with endless horizons. Islands are small, tropical paradises or rocky outcrops.

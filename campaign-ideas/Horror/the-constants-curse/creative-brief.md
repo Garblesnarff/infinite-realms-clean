@@ -32,10 +32,10 @@ Inspired by the dark, whimsical aesthetic of *Don't Starve*, blending Tim Burton
 *   **Prompt Example:** "...a muted, desaturated color palette dominated by grays, charcoal blacks, and sepia browns. The only bright color is the warm orange glow of a campfire in the center, surrounded by deep, oppressive shadows."
 
 **4. Character Design:**
-*   **Style:** D&D adventurers reimagined in a Tim Burton style—thin, elongated limbs, large eyes, exaggerated features.
+*   **Style:** fantasy adventurers reimagined in a Tim Burton style—thin, elongated limbs, large eyes, exaggerated features.
 *   **Constant Natives:** Wilson has a pompadour and grows a comically large beard. Maxwell is tall, gaunt, and dressed in a Victorian suit. Creatures are adorable-yet-wrong (spider-pigs, cyclops deer).
 *   **Expression:** Wide, expressive eyes showing fear, madness, or determination. Mouths are often simple lines or exaggerated grimaces.
-*   **Prompt Example:** "A D&D adventurer in the style of Don't Starve: thin, elongated limbs, a large, expressive head with wide, fearful eyes. They wear tattered, Victorian-era clothing and clutch a crudely crafted spear. Their proportions are exaggerated and whimsical."
+*   **Prompt Example:** "A fantasy adventurer in the style of Don't Starve: thin, elongated limbs, a large, expressive head with wide, fearful eyes. They wear tattered, Victorian-era clothing and clutch a crudely crafted spear. Their proportions are exaggerated and whimsical."
 
 **5. Backgrounds & Environments:**
 *   **Style:** Hand-drawn, sketchy landscapes with twisted trees, rolling hills, and ominous shadows.

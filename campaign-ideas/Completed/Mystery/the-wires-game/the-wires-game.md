@@ -5,7 +5,7 @@
 
 The city of Ironport is dying from within. Once a thriving maritime hub, it's now plagued by drugs, corruption, and institutional failure. The party begins as street-level law enforcement—beat cops, detectives, or community advocates—navigating a complex web where criminals, politicians, police, and citizens are all trapped in a failing system. This isn't a campaign about good versus evil; it's about institutions grinding people down and the rare individuals who still try to do the right thing despite knowing the system is rigged.
 
-Over 30-40 sessions, the party will investigate drug trafficking organizations, political corruption, failing schools, the dying docks, and a media that's more interested in spectacle than truth. They'll wiretap dealers, chase politicians, watch good cops get ground down, see smart kids fall into crime, and realize that solving cases doesn't fix systems. This is *The Wire* in D&D form: a sprawling, multi-perspective examination of how cities fail and what that costs.
+Over 30-40 sessions, the party will investigate drug trafficking organizations, political corruption, failing schools, the dying docks, and a media that's more interested in spectacle than truth. They'll wiretap dealers, chase politicians, watch good cops get ground down, see smart kids fall into crime, and realize that solving cases doesn't fix systems. This is *The Wire* in tabletop RPG form: a sprawling, multi-perspective examination of how cities fail and what that costs.
 
 ### Core Themes
 - **Institutional Failure**: Systems designed to help, destroying instead

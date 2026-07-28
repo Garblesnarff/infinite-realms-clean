@@ -1099,7 +1099,7 @@ Into this desperate situation comes an illiterate peasant girl claiming divine v
 - Clerical magic explicitly from God
 - Paladins embody holy warriors (Jeanne is paladin archetype)
 - Healing, protection, smiting evil
-- Real and measurable in D&D world
+- Real and measurable in fantasy world
 
 **Miracles vs. Magic**
 - Medieval distinction: Miracles from God, magic from Devil

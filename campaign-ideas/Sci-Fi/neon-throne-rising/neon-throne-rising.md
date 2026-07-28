@@ -1,6 +1,6 @@
 # Neon Throne Rising
 
-A Dungeons & Dragons 5e campaign about a reincarnated demon lord reclaiming power in a cyberpunk future where magic and technology have merged.
+A 5E campaign about a reincarnated demon lord reclaiming power in a cyberpunk future where magic and technology have merged.
 
 *   **Genre**: Cyberpunk Fantasy, Power Reclamation, Techno-Magic Thriller
 *   **Tone**: Dark and Stylish

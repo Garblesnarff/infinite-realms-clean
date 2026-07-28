@@ -4,7 +4,7 @@ This document outlines the core creative direction for the assets of this campai
 
 ## Art Style: Epic Space Opera Fantasy (Star Wars-inspired)
 
-Inspired by the iconic aesthetic of *Star Wars*, this style blends classic space opera with high fantasy elements. It aims to capture the epic scope, mystical energy, and timeless good-versus-evil struggle of a galaxy-spanning conflict, reimagined through a D&D lens with the cosmic Weave replacing the Force.
+Inspired by the iconic aesthetic of *Star Wars*, this style blends classic space opera with high fantasy elements. It aims to capture the epic scope, mystical energy, and timeless good-versus-evil struggle of a galaxy-spanning conflict, reimagined through a 5E lens with the cosmic Weave replacing the Force.
 
 ### Core Principles for Prompts:
 

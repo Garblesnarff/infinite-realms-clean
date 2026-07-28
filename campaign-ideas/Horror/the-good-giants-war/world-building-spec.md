@@ -14,7 +14,7 @@
 
 **Dream Country**: Adjacent magical realm, accessed through special rituals. Sky filled with dreams. Surreal physics—time flows differently, gravity optional, imagination influences reality.
 
-**Human Kingdoms**: Standard D&D medieval fantasy. Multiple nations, but Man-Eater threat unites them (common enemy).
+**Human Kingdoms**: Standard medieval fantasy. Multiple nations, but Man-Eater threat unites them (common enemy).
 
 **The Fissure**: Deep canyon in Giant Country where rebels imprisoned. Contains ancient giant artifacts, history.
 
@@ -93,4 +93,4 @@
 
 **Dream Crafting**: Mechanics for players to create custom dreams. Imagination check + materials (dream fragments) = unique spell effects.
 
-This world is **fairy-tale made D&D mechanics**—whimsical surface, dark undercurrent, clear morality, hope always present. BFG's kindness isn't weakness—it's revolutionary act in cruel world. Party helps prove goodness can win.
+This world is **fairy-tale made 5E mechanics**—whimsical surface, dark undercurrent, clear morality, hope always present. BFG's kindness isn't weakness—it's revolutionary act in cruel world. Party helps prove goodness can win.
