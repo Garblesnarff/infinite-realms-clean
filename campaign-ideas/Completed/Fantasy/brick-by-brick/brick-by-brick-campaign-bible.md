@@ -293,62 +293,64 @@ An area blighted by the Rust-Whisperers, where everything is decaying at an acce
 20. **A Brick with Your Name On It:** A single, normal brick with your name perfectly and inexplicably carved into it.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Rust-Whisperer Initiate
-(CR 2). Humanoid. HP 40, AC 13.
+
+## Bestiary
+### 1. Rust-Whisperer Initiate (CR 2)
+(CR 2). Humanoid. **HP:** 40, **AC:** 13.
 **Abilities:**
 *   **Passive: Aura of Decay:** Non-magical metal weapons that strike the initiate begin to rust, suffering a cumulative -1 penalty to damage.
 *   **Action: Crumbling Touch:** The initiate touches a structure or construct. It takes 2d10 acid damage.
 
-### 2. Unclaimed Berserker
-(CR 3). Humanoid. HP 60, AC 14 (Hide Armor).
+### 2. Unclaimed Berserker (CR 3)
+(CR 3). Humanoid. **HP:** 60, **AC:** 14 (Hide Armor).
 **Abilities:**
 *   **Passive: Reckless:** The berserker has advantage on its attack rolls, but all attacks against it have advantage.
 *   **Action: Brutal Charge:** The berserker moves up to its speed and makes a single, powerful attack that deals an extra 1d8 damage.
 
-### 3. Memory-Thief
-(CR 4). Aberration. HP 65, AC 15.
+### 3. Memory-Thief (CR 4)
+(CR 4). Aberration. **HP:** 65, **AC:** 15.
 **Abilities:**
 *   **Passive: Incorporeal:** Can move through creatures and objects.
 *   **Action: Steal Blueprint:** The thief touches a creature. The target must make an INT save or forget a crucial plan or piece of information.
 
-### 4. Cogsworth Automaton
-(CR 5). Construct. HP 75, AC 17.
+### 4. Cogsworth Automaton (CR 5)
+(CR 5). Construct. **HP:** 75, **AC:** 17.
 **Abilities:**
 *   **Passive: Logic Core:** Immune to being charmed, frightened, or confused.
 *   **Action: Precision Strike:** The automaton makes two attacks with its integrated blade. These attacks are critical hits on a 19 or 20.
 
-### 5. Blueprint Assassin
-(CR 6). Construct. HP 80, AC 18.
+### 5. Blueprint Assassin (CR 6)
+(CR 6). Construct. **HP:** 80, **AC:** 18.
 **Abilities:**
 *   **Passive: Two-Dimensional:** The assassin is immune to damage from attacks originating from a perpendicular dimension (i.e., you can't stab it from the front, only from the side). It can slip through any crack or opening.
 *   **Action: Razor-Edge:** Melee attack. Deals 4d8 slashing damage.
 
-### 6. Heart-Brick Elemental
-(CR 8). Elemental. HP 125, AC 16.
+### 6. Heart-Brick Elemental (CR 8)
+(CR 8). Elemental. **HP:** 125, **AC:** 16.
 **Abilities:**
 *   **Passive: Aura of Creation:** The area within 30 feet of the elemental is infused with creative energy. Any structure built in this area is magically reinforced.
 *   **Action: Hurl Architecture:** The elemental magically summons and hurls a piece of ghostly architecture (a pillar, a statue) at a target, dealing 3d10 force damage.
 
-### 7. The Shattered
-(CR 7). Aberration. HP 110, AC 15.
+### 7. The Shattered (CR 7)
+(CR 7). Aberration. **HP:** 110, **AC:** 15.
 **Abilities:**
 *   **Passive: Entropy Field:** Any creature starting its turn within 20 feet of The Shattered must make a CON save or have its maximum hit points reduced by 1d10.
 *   **Action: Un-make:** The Shattered touches a creature. The target must make a high DC CON save or have one of its limbs temporarily dissolve into dust for 1 minute.
 
-### 8. Stone-Singer
-(CR 5). Humanoid. HP 90, AC 14.
+### 8. Stone-Singer (CR 5)
+(CR 5). Humanoid. **HP:** 90, **AC:** 14.
 **Abilities:**
 *   **Passive: Earth-Bond:** While standing on natural stone, the singer has resistance to all damage.
 *   **Action: Song of Stone:** The singer begins a song. At the start of its next turn, stone spikes erupt from the ground in a 20-foot radius, dealing 4d8 piercing damage to all creatures in the area.
 
-### 9. Memory of a Beast
-(CR 4). Monstrosity (Ghost). HP 60, AC 13.
+### 9. Memory of a Beast (CR 4)
+(CR 4). Monstrosity (Ghost). **HP:** 60, **AC:** 13.
 **Abilities:**
 *   **Passive: Incorporeal:** Can move through creatures and objects.
 *   **Action: Phantom Claws:** The memory makes two claw attacks that deal psychic damage instead of slashing.
 
-### 10. The Last City Guardian
-(CR 9). Construct. HP 140, AC 19.
+### 10. The Last City Guardian (CR 9)
+(CR 9). Construct. **HP:** 140, **AC:** 19.
 **Abilities:**
 *   **Passive: Foundation-Blessed:** The guardian is immune to any effect that would move it against its will.
 *   **Action: Multi-attack:** The guardian makes three attacks with its massive stone fists. It can replace one attack with a "Mortar-Shot," a ranged attack that can restrain a target on a hit.

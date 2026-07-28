@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Titan' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Summit Enforcer (Standard)
-(CR 2). Construct. HP 30, AC 13 (Standardized Armor).
+
+## Bestiary
+### 1. Summit Enforcer (Standard) (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13 (Standardized Armor).
 **Abilities:**
 *   **Corporate Precision:** The officer has advantage on attacks if they have an ally within 10 feet.
 *   **Legal Declaration:** Ranged attack (Psychic). 2d8 psychic damage + Target is paralyzed for 1 round.
 
-### 2. Speed Demon Elite (Rival)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Speed Demon Elite (Rival) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Competitive Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Status Strike:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Summit (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Summit (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Order of Progress Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Inquisitor's 'Grand Design.'
 *   **The Final Move:** Once per combat, Summit can force an enemy to take an action that serves her own glory.

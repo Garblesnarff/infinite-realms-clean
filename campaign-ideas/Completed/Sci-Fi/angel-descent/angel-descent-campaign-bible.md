@@ -116,20 +116,22 @@ The deepest, most secret part of NERV where reality begins to distort.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks and makes them immune to being charmed.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Angel (Geometric)
-(CR 10). Celestial/Aberration. HP 200, AC 20 (A.T. Field).
+
+## Bestiary
+### 1. Angel (Geometric) (CR 10)
+(CR 10). Celestial/Aberration. **HP:** 200, **AC:** 20 (A.T. Field).
 **Abilities:**
 *   **Absolute Terror Field:** The Angel is immune to all damage unless the attacker also projects an A.T. Field (e.g., an Eva).
 *   **Impossible Perspective:** Any creature within 60 feet must succeed on a DC 16 INT save or be confused for 1 minute.
 
-### 2. EVA Unit (Berserk)
-(CR 8). Construct (Biomechanical). HP 120, AC 18.
+### 2. EVA Unit (Berserk) (CR 8)
+(CR 8). Construct (Biomechanical). **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Feral Rage:** The Eva makes three melee attacks (Bite, Claw, Tear). Each attack deals an extra 2d6 'Organic' damage.
 *   **Internal Hunger:** The Eva heals for half the damage it deals to Angels.
 
-### 3. NERV Security (Elite)
-(CR 3). Humanoid. HP 40, AC 15.
+### 3. NERV Security (Elite) (CR 3)
+(CR 3). Humanoid. **HP:** 40, **AC:** 15.
 **Abilities:**
 *   **Neural Suppression:** Ranged attack. 2d8 psychic damage + Target's Sync Ratio is reduced (disadvantage on next check).
 *   **Brutalist Discipline:** The guard has advantage on saves against being frightened.

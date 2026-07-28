@@ -116,20 +116,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the holder advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Sickly Greens' and loses all capacity for empathy.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Zerg Raider (Professional)
-(CR 3). Humanoid. HP 45, AC 15 (Metal Armor).
+
+## Bestiary
+### 1. Zerg Raider (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15 (Metal Armor).
 **Abilities:**
 *   **Ordered Discipline:** The raider has advantage on attacks if they have an ally within 10 feet.
 *   **C4 Blast:** Ranged attack. 4d10 fire damage in a 15ft cone.
 
-### 2. Irradiated Sentinel (Elite)
-(CR 5). Construct. HP 80, AC 16.
+### 2. Irradiated Sentinel (Elite) (CR 5)
+(CR 5). Construct. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Radiation Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Neural Prod:** Melee attack. 2d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Shadow (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Shadow (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Brutal Futility Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the coming flash.
 *   **The Final Reset:** Once per combat, the Shadow can force all creatures within 100 feet to re-roll their initiative.

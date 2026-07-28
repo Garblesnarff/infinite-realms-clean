@@ -115,20 +115,22 @@ A stark, revealing landscape where the 'Ultimate Truth' is faced.
 **Mechanics:** Grants the wearer advantage on all DEX (Acrobatics) and Performance checks. The robes provide resistance to fire damage and grant advantage on Intimidation checks.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Qin Archer (Legion)
-(CR 1/2). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Qin Archer (Legion) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Thousand Arrows:** The archer has advantage on attacks if they have 10 or more allies within 60 feet.
 *   **Ordered Formation:** The archer does not provoke opportunity attacks from enemies within 5 feet of an ally.
 
-### 2. Sword-Intent Master (Elite)
-(CR 5). Humanoid. HP 80, AC 16 (Sword-Intent).
+### 2. Sword-Intent Master (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16 (Sword-Intent).
 **Abilities:**
 *   **Calligraphy Strike:** Melee attack. 2d10+4 damage + Target is paralyzed by the 'Weight of the Word' (DC 14 WIS save).
 *   **Graceful Motion:** The master can use a reaction to dodge an attack, moving 10ft without provoking opportunity attacks.
 
-### 3. 'The Ruler' King of Qin (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Ruler' King of Qin (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Tianxia Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the King's 'Law of Order.'
 *   **Authority Pulse:** Once per combat, the King can force all enemies to bow, making them prone for 1 round.

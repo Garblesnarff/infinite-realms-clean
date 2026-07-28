@@ -116,20 +116,22 @@ A site of 'Tense Investigations' and breathtaking vistas.
 **Mechanics:** Grants the wearer immunity to being charmed or frightened. **Curse:** The user begins to see the world in 'Song of State' grays and loses all capacity for brotherhood.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Cardinal's Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. Cardinal's Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Ordered Discipline:** The guard has advantage on attacks if they have an ally within 5 feet.
 *   **Steel Strike:** Melee attack. 1d8+3 damage.
 
-### 2. Milady's Assassin (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Milady's Assassin (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Dangerous Beauty:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Poison Blade:** Melee attack. 2d6 damage + Target is poisoned for 1 round (DC 14 CON save).
 
-### 3. 'The Mastermind' Richelieu (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Richelieu (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Song of State Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Cardinal's 'Order of Progress.'
 *   **The Final Move:** Once per combat, Richelieu can force an enemy to take an action that serves the glory of France.

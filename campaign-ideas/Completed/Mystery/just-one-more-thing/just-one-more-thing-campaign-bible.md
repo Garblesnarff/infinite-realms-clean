@@ -116,20 +116,22 @@ A site of 'Tense Investigations' and breathtaking vistas.
 **Mechanics:** Grants the owner advantage on all Wisdom (Insight) and Intelligence (Investigation) checks. The dog can 'Bark' once per day to reveal the location of a hidden evidence item.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Elite Bodyguard (Mage)
-(CR 3). Humanoid. HP 45, AC 15.
+
+## Bestiary
+### 1. Elite Bodyguard (Mage) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15.
 **Abilities:**
 *   **Arcane Arrogance:** The bodyguard has advantage on saves against being charmed by anyone from a lower social class.
 *   **Fame Blast:** Ranged attack. 2d10 radiant damage.
 
-### 2. Perfect Murderer (Elite)
-(CR 10). Humanoid (Mage). HP 120, AC 18 (Reality-Editing).
+### 2. Perfect Murderer (Elite) (CR 10)
+(CR 10). Humanoid (Mage). **HP:** 120, **AC:** 18 (Reality-Editing).
 **Abilities:**
 *   **Condescending Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Reality Edit:** The murderer can use a reaction to negate a single piece of evidence presented against them (once per combat).
 
-### 3. 'The Guest Star' (Mastermind)
-(CR 15). Humanoid. HP 250, AC 20.
+### 3. 'The Guest Star' (Mastermind) (CR 15)
+(CR 15). Humanoid. **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Polite Destruction:** The mastermind can force an enemy to succeed on a DC 18 Wisdom save or be compelled to confess their most guarded secret.
 *   **Just One More Thing:** Once per combat, the mastermind can force an enemy to re-roll their turn, choosing the least effective actions.

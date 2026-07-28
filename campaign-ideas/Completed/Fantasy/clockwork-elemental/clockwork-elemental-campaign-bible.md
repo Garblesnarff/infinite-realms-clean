@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Spirit' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Equalist Chi-Blocker (Professional)
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. Equalist Chi-Blocker (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Ordered Discipline:** The soldier has advantage on attacks if they have an ally within 10 feet.
 *   **Chi-Block Strike:** Melee attack. 1d8+3 damage + Target cannot use bending for 1 round.
 
-### 2. Earth Empire Mecha-Suit (Elite)
-(CR 8). Construct (Vehicle). HP 150, AC 18 (Platinum).
+### 2. Earth Empire Mecha-Suit (Elite) (CR 8)
+(CR 8). Construct (Vehicle). **HP:** 150, **AC:** 18 (Platinum).
 **Abilities:**
 *   **Sovereign Authority Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Electricity Pulse:** Ranged attack. 4d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Amon (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Amon (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Equality Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Amon's 'Grand Design.'
 *   **The Final Move:** Once per combat, Amon can force an enemy to take an action that serves his own glory.

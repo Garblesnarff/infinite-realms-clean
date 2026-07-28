@@ -116,20 +116,22 @@ A deliberately ordinary, anonymous space where Amy hides.
 **Mechanics:** The lamp can be used to 'Convict' a target. The target has disadvantage on all Charisma checks for 24 hours as the city turns against them.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Media Wolf (Paparazzi)
-(CR 1). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Media Wolf (Paparazzi) (CR 1)
+(CR 1). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **The Glare:** The paparazzi can use an action to blind a target for 1 round (DC 13 DEX save).
 *   **Sensationalism:** Any attack made against the paparazzi is captured on film, granting the attacker disadvantage on their next Charisma check.
 
-### 2. Desi's Obsessive Guard
-(CR 3). Humanoid. HP 50, AC 15.
+### 2. Desi's Obsessive Guard (CR 3)
+(CR 3). Humanoid. **HP:** 50, **AC:** 15.
 **Abilities:**
 *   **Gilded Loyalty:** The guard is immune to being bribed or persuaded as long as they are within Desi's estate.
 *   **Silenced Takedown:** Melee attack. 1d10+4 damage + Target is grappled.
 
-### 3. 'The Amazing Amy' (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Amazing Amy' (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Controlled Reality Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or believe a lie told by Amy as if it were the truth.
 *   **Calculated Fury:** Once per combat, Amy can force an enemy to take a reaction that reveals their own darkest secret.

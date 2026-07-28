@@ -116,20 +116,22 @@ A grand, art deco symbol of the law that became a tomb.
 **Mechanics:** Makes the wearer immune to being charmed or frightened and grants a +2 bonus to AC in urban environments.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Slum Sicario (Young)
-(CR 1/2). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Slum Sicario (Young) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Drive-By:** The sicario can make a ranged attack and then move up to 30 feet without provoking opportunity attacks.
 *   **Desperate Courage:** The sicario has advantage on attacks if they are within 10 feet of a more powerful ally.
 
-### 2. Cali Enforcer (Professional)
-(CR 3). Humanoid. HP 50, AC 15.
+### 2. Cali Enforcer (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 50, **AC:** 15.
 **Abilities:**
 *   **Silenced Uzi:** Ranged attack. 2d8+4 damage.
 *   **Calculated Strike:** The enforcer deals an extra 1d10 damage to targets that haven't acted yet in combat.
 
-### 3. 'The Patron' (Elite Leader)
-(CR 10). Humanoid. HP 150, AC 18.
+### 3. 'The Patron' (Elite Leader) (CR 10)
+(CR 10). Humanoid. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Plata o Plomo Aura:** Any enemy within 30 feet must succeed on a DC 16 Wisdom save or be charmed (Plata) or frightened (Plomo).
 *   **The Slum Army:** Once per combat, Pablo can summon 1d6 Slum Sicarios to his location.

@@ -115,20 +115,22 @@ A derelict, ancient library drifting in an asteroid field.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks with any resident of Aethelgard.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Avalon Guard (Galahad Class)
-(CR 5). Construct (Mech). HP 80, AC 16.
+
+## Bestiary
+### 1. Avalon Guard (Galahad Class) (CR 5)
+(CR 5). Construct (Mech). **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Noble Strike:** Melee attack. 2d10+6 damage.
 *   **Shield of Avalon:** The guard can use a reaction to gain resistance to a single attack.
 
-### 2. Morgana Thrall (Corrupted)
-(CR 3). Monstrosity. HP 45, AC 14.
+### 2. Morgana Thrall (Corrupted) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Shadow Warp:** The thrall can teleport 30ft as a bonus action.
 *   **Fear Aura:** Any enemy within 10 feet must succeed on a DC 14 Wisdom save or be frightened for 1 round.
 
-### 3. 'The Black Knight' (Elite Leader)
-(CR 15). Construct (Mech). HP 250, AC 20.
+### 3. 'The Black Knight' (Elite Leader) (CR 15)
+(CR 15). Construct (Mech). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Morgana Breath:** Ranged attack. 10d10 necrotic damage in a 30ft cone.
 *   **Shadow Mirror:** Once per combat, the Black Knight can create a 'Shadow Clone' of itself that lasts for 1 minute.

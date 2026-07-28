@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user advantage on all Wisdom (Perception) and Intelligence (Investigation) checks. Allows the wearer to see the 'True Aspect' of any Shadow.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Scavenger Raider (Professional)
-(CR 3). Humanoid. HP 45, AC 15 (Reinforced Leather).
+
+## Bestiary
+### 1. Scavenger Raider (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15 (Reinforced Leather).
 **Abilities:**
 *   **Opportunistic Ambush:** The raider has advantage on attacks if they are in a ruined city hex.
 *   **Silenced Dart:** Ranged attack. 2d6+4 damage + Target is poisoned.
 
-### 2. Corrupted Stalker (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Corrupted Stalker (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Bioluminescent Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Spore:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' First Mutant (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' First Mutant (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Resilient Beauty Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the new world.
 *   **The Final Rebirth:** Once per combat, the Mastermind can force an enemy to take an action that serves the stability of New Haven.

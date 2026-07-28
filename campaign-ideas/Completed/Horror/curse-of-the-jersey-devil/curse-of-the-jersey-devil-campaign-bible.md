@@ -296,62 +296,64 @@ A section of the Barrens where the "un-wanted" emotions manifest as physical cre
 20. **A "Curse-Breaker" Amulet:** An amulet that is said to break any curse. It is, of course, cursed itself.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Un-Said Manifestation
-(CR 2). Aberration. HP 40, AC 13.
+
+## Bestiary
+### 1. Un-Said Manifestation (CR 2)
+(CR 2). Aberration. **HP:** 40, **AC:** 13.
 **Abilities:**
 *   **Passive: Whispering Aura:** Any creature starting its turn within 20 feet of the Manifest must make a WIS save or be compelled to whisper all its thoughts aloud.
 *   **Action: Suppressed Desire:** The Manifest touches a creature. The target must make a CHA save or be compelled to act on a suppressed desire (e.g., steal something, kiss someone, run away).
 
-### 2. Confessional Cultist
-(CR 1). Humanoid. HP 30, AC 12.
+### 2. Confessional Cultist (CR 1)
+(CR 1). Humanoid. **HP:** 30, **AC:** 12.
 **Abilities:**
 *   **Passive: Guilt-Ridden:** The cultist has disadvantage on saves against psychic damage.
 *   **Action: Forced Confession:** The cultist touches a creature. The target must make a WIS save or be compelled to confess a minor secret.
 
-### 3. Leeds Descendant (Corrupted)
-(CR 4). Humanoid. HP 60, AC 15.
+### 3. Leeds Descendant (Corrupted) (CR 4)
+(CR 4). Humanoid. **HP:** 60, **AC:** 15.
 **Abilities:**
 *   **Passive: Ancestral Connection:** The descendant has advantage on saves against being frightened by the Jersey Devil.
 *   **Action: Devil's Whisper:** The descendant whispers a secret to a creature. The target must make a WIS save or take 3d8 psychic damage and be compelled to act on a suppressed fear.
 
-### 4. Shadow-Hunter (Skeptical)
-(CR 3). Humanoid. HP 50, AC 14.
+### 4. Shadow-Hunter (Skeptical) (CR 3)
+(CR 3). Humanoid. **HP:** 50, **AC:** 14.
 **Abilities:**
 *   **Passive: Scientific Rigor:** The hunter has advantage on saves against illusions and mind-affecting spells.
 *   **Action: Psychic Dampener:** The hunter fires a device that creates a 20-foot radius zone where all psychic damage is halved.
 
-### 5. Un-Wanted Manifestation
-(CR 2). Aberration. HP 40, AC 13.
+### 5. Un-Wanted Manifestation (CR 2)
+(CR 2). Aberration. **HP:** 40, **AC:** 13.
 **Abilities:**
 *   **Passive: Aura of Rejection:** Any creature starting its turn within 20 feet of the Manifest must make a WIS save or feel a profound sense of being unwanted, suffering disadvantage on Charisma checks.
 *   **Action: Emotional Drain:** The Manifest touches a creature. The target must make a CHA save or take 2d8 psychic damage and feel a profound sense of loneliness.
 
-### 6. Reality-Glitcher (Reckless)
-(CR 5). Humanoid. HP 75, AC 15.
+### 6. Reality-Glitcher (Reckless) (CR 5)
+(CR 5). Humanoid. **HP:** 75, **AC:** 15.
 **Abilities:**
 *   **Passive: Paradoxical Existence:** The Glitcher is immune to any effect that would force it to choose between two options.
 *   **Action: Minor Reality Warp:** The Glitcher causes a minor, localized reality warp. Roll a d4. 1: Gravity reverses for 1 round. 2: All sounds are muffled for 1 round. 3: All colors invert for 1 round. 4: All creatures within 10 feet swap places randomly.
 
-### 7. Mirror-Maker (Obsessive)
-(CR 4). Humanoid. HP 60, AC 14.
+### 7. Mirror-Maker (Obsessive) (CR 4)
+(CR 4). Humanoid. **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Self-Reflection:** Any creature that attacks the Mirror-Maker with a melee attack must make a WIS save or see its own deepest fear reflected in the Mirror-Maker's eyes.
 *   **Action: Forced Confrontation:** The Mirror-Maker forces a creature to look into a magical mirror. The target must make a WIS save or be stunned for 1 round as it confronts its deepest fear.
 
-### 8. Silent Watcher Agent
-(CR 6). Humanoid. HP 90, AC 17.
+### 8. Silent Watcher Agent (CR 6)
+(CR 6). Humanoid. **HP:** 90, **AC:** 17.
 **Abilities:**
 *   **Passive: Covert Operations:** The agent has advantage on Stealth checks and cannot be surprised.
 *   **Action: Memory Wipe:** The agent fires a device that targets a creature. The target must make an INT save or lose all memories of the last 24 hours.
 
-### 9. The Jersey Devil (Lesser Manifestation)
-(CR 8). Aberration. HP 120, AC 16.
+### 9. The Jersey Devil (Lesser Manifestation) (CR 8)
+(CR 8). Aberration. **HP:** 120, **AC:** 16.
 **Abilities:**
 *   **Passive: Shifting Form:** The Devil's form constantly shifts, reflecting the deepest fears of those who perceive it. It has advantage on saves against being grappled or restrained.
 *   **Action: Psychic Scream:** The Devil lets out a terrifying scream. All creatures within 30 feet must make a WIS save or take 4d8 psychic damage and be frightened for 1 minute.
 
-### 10. The Jersey Devil (Full Manifestation)
-(CR 15). Aberration. HP 200, AC 18.
+### 10. The Jersey Devil (Full Manifestation) (CR 15)
+(CR 15). Aberration. **HP:** 200, **AC:** 18.
 **Abilities:**
 *   **Passive: Sentient Paradox:** The Devil is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
 *   **Action: Reality Warp:** The Devil causes a major reality warp in a 60-foot radius. Roll a d6. 1: Gravity reverses for 1 round. 2: All sounds are muffled for 1 round. 3: All colors invert for 1 round. 4: All creatures within 30 feet swap places randomly. 5: All creatures within 30 feet are forced to re-live their greatest regret. 6: All creatures within 30 feet are forced to confess their deepest, darkest secret.

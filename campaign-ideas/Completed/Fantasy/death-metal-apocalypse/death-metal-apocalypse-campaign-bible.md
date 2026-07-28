@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Silence' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Silence Soldier (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Standardized Armor).
+
+## Bestiary
+### 1. Silence Soldier (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Standardized Armor).
 **Abilities:**
 *   **Theatrical Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Silence Strike:** Melee attack. 1d8+3 damage + Target takes 1d6 psychic damage.
 
-### 2. Industrial Elite (Rival)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Industrial Elite (Rival) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Competitive Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Status Strike:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Lord of Silence (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Lord of Silence (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Absolute Silence Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Master's 'Archaic Script.'
 *   **The Final Move:** Once per combat, the Mastermind can force an enemy to take an action that serves his own glory.

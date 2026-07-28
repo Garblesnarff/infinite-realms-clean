@@ -115,20 +115,22 @@ A high-tech, clinical bunker where the maze was designed.
 **Mechanics:** When 'Consumed,' the fragment grants the user one permanent feat or skill from their 'Past Self' (e.g., *Sharpshooter*, *Expert Linguist*).
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. NIS Operative (Thorn Squad)
-(CR 3). Humanoid. HP 45, AC 15.
+
+## Bestiary
+### 1. NIS Operative (Thorn Squad) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15.
 **Abilities:**
 *   **Professional Tactics:** The operative has advantage on attacks if they have an ally within 10 feet of the target.
 *   **Silenced Shot:** Ranged attack. 2d8+4 damage.
 
-### 2. Protocol Handler (Manipulation)
-(CR 5). Humanoid. HP 80, AC 14.
+### 2. Protocol Handler (Manipulation) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 14.
 **Abilities:**
 *   **Warm Mentor Aura:** Any enemy within 30 feet has disadvantage on Wisdom saves against being charmed.
 *   **Psychological Erasure:** Ranged attack (Psychic). 2d10 damage + Target loses their next bonus action.
 
-### 3. 'The Executioner' Agent Thorn (Proxy)
-(CR 12). Humanoid (Perfected Cipher). HP 180, AC 18.
+### 3. 'The Executioner' Agent Thorn (Proxy) (CR 12)
+(CR 12). Humanoid (Perfected Cipher). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **No Digital Footprint:** Thorn is immune to any effect that requires a 'Digital' or 'Magical' signature to track.
 *   **Kinetic Strike:** Melee attack. 4d10+10 damage. Thorn can move up to 30 feet after this attack without provoking opportunity attacks.

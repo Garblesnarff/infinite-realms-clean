@@ -293,62 +293,64 @@ The area of the city that has been designated for tactical nuclear cleansing. Th
 20. **A Piece of Paper with a Phone Number on It:** The number is for someone who is almost certainly dead.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Cloverfield Parasite
-(CR 2). Monstrosity. HP 40, AC 14.
+
+## Bestiary
+### 1. Cloverfield Parasite (CR 2)
+(CR 2). Monstrosity. **HP:** 40, **AC:** 14.
 **Abilities:**
 *   **Passive: Skittering Horror:** Can climb on any surface, including ceilings.
 *   **Action: Vicious Bite:** Melee attack. On a hit, the target takes 2d8 piercing damage and must make a CON save. On a failure, they are "infected." An infected creature will violently explode in 1d4 hours.
 
-### 2. "Clover" (The Creature)
-(CR 30). Monstrosity (Titan). HP 5000, AC 25.
+### 2. "Clover" (The Creature) (CR 30)
+(CR 30). Monstrosity (Titan). **HP:** 5000, **AC:** 25.
 **Abilities:**
 *   **Passive: Planetary Antibody:** Immune to all damage except from "sovereign-level" weapons (nukes). It does not attack maliciously, but its movements cause massive collateral damage. Any creature within 100 feet of it when it moves must make a DEX save or be crushed.
 *   **Action: Confused Roar:** The creature lets out a roar of pain and confusion. All creatures within 1 mile must make a WIS save or be frightened for 1 minute.
 
-### 3. Gea-Mancer Cultist
-(CR 1). Humanoid. HP 25, AC 12.
+### 3. Gea-Mancer Cultist (CR 1)
+(CR 1). Humanoid. **HP:** 25, **AC:** 12.
 **Abilities:**
 *   **Passive: Mother's Blessing:** The cultist is immune to being frightened by the Cloverfield creature or its parasites.
 *   **Action: Sabotage:** The cultist attempts to sabotage a piece of equipment (a generator, a vehicle, a radio).
 
-### 4. Fifth Horseman Looter
-(CR 1/2). Humanoid. HP 15, AC 11.
+### 4. Fifth Horseman Looter (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 11.
 **Abilities:**
 *   **Passive: Nihilistic Fury:** Has advantage on attacks against creatures who have more hit points than it does.
 *   **Action: Desperate Attack:** The looter makes a single attack with a crude, improvised weapon.
 
-### 5. CDC "Cleaner"
-(CR 3). Humanoid. HP 50, AC 16.
+### 5. CDC "Cleaner" (CR 3)
+(CR 3). Humanoid. **HP:** 50, **AC:** 16.
 **Abilities:**
 *   **Passive: Hazmat Suit:** Immune to poison and disease.
 *   **Action: "Sanitize":** The Cleaner makes an attack with its "sanitizer," a weapon that sprays a powerful, corrosive acid.
 
-### 6. Tagruato Security
-(CR 2). Humanoid. HP 40, AC 15.
+### 6. Tagruato Security (CR 2)
+(CR 2). Humanoid. **HP:** 40, **AC:** 15.
 **Abilities:**
 *   **Passive: Corporate Loyalty:** Has advantage on saves against being charmed or frightened, as long as they are being paid.
 *   **Action: Subdue:** The Security officer makes an attack designed to incapacitate, not kill. On a hit, the target is grappled and restrained.
 
-### 7. The Rat-King
-(CR 5). Swarm of Beasts. HP 80, AC 14.
+### 7. The Rat-King (CR 5)
+(CR 5). Swarm of Beasts. **HP:** 80, **AC:** 14.
 **Abilities:**
 *   **Passive: Swarm:** The Rat-King can occupy another creature's space and vice-versa. It is resistant to bludgeoning, piercing, and slashing damage.
 *   **Action: Engulf:** The Rat-King attempts to engulf a creature. The target must make a DEX save or be covered in a swarm of rats, taking 4d6 piercing damage at the start of each of its turns.
 
-### 8. The Sewer-Gator
-(CR 4). Beast. HP 75, AC 15.
+### 8. The Sewer-Gator (CR 4)
+(CR 4). Beast. **HP:** 75, **AC:** 15.
 **Abilities:**
 *   **Passive: Urban Camouflage:** Has advantage on Stealth checks made in sewers or murky water.
 *   **Action: Death Roll:** If the gator hits with its bite attack, it can use a bonus action to force the target to make a STR save. On a failure, the target is knocked prone and takes an extra 2d8 damage.
 
-### 9. The Psychic Echo
-(CR 6). Aberration. HP 90, AC 12.
+### 9. The Psychic Echo (CR 6)
+(CR 6). Aberration. **HP:** 90, **AC:** 12.
 **Abilities:**
 *   **Passive: Incorporeal:** Can move through creatures and objects.
 *   **Action: Trauma Loop:** The Echo forces a creature to re-live the most terrifying moment of the attack. The target must make a WIS save or be stunned for 1 minute.
 
-### 10. The Hammer-Down Targeter
-(CR 10). Construct. HP 150, AC 18.
+### 10. The Hammer-Down Targeter (CR 10)
+(CR 10). Construct. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Passive: Laser Designator:** A single, red laser beam emanates from this flying drone. This is the targeting laser for the Hammer-Down nuclear strike.
 *   **Action: Evasive Maneuvers:** The drone takes the Dodge action and moves up to its fly speed of 120 feet. It has no offensive capabilities. Its only goal is to keep its laser on the target.

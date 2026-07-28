@@ -114,20 +114,22 @@ A warm, intimate space that feels remote and dangerous.
 **Mechanics:** Grants the user the ability to 'Track' any financial or digital movement within 10 miles. Once per day, the user can 'Freeze' an enemy's assets for 1 hour.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Committee Bureaucrat (Obstacle)
-(CR 1). Humanoid. HP 15, AC 11.
+
+## Bestiary
+### 1. Committee Bureaucrat (Obstacle) (CR 1)
+(CR 1). Humanoid. **HP:** 15, **AC:** 11.
 **Abilities:**
 *   **Red Tape Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Political Stall:** The bureaucrat can use a reaction to negate an enemy's action by citing a policy.
 
-### 2. Suleiman Operative (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Suleiman Operative (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Financial Leverage:** The operative has advantage on attacks if they have studied the target's financial history.
 *   **Silenced Takedown:** Melee attack. 2d8+4 damage + Target is grappled.
 
-### 3. 'The Tragic' Suleiman (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Tragic' Suleiman (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Procedural Realism Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of their own responsibilities.
 *   **The Final Connection:** Once per combat, Suleiman can force an enemy to take an action that reveals their own darkest secret.

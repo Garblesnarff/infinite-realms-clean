@@ -116,20 +116,22 @@ The ruins of a city that was destroyed by corporate warfare, now used for illega
 **Mechanics:** Weapon attacks deal an extra 4d10 damage, but the craft takes 1d10 feedback damage per shot.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Corporate Racer (Standard)
-(CR 2). Humanoid. HP 25, AC 13.
+
+## Bestiary
+### 1. Corporate Racer (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 25, **AC:** 13.
 **Abilities:**
 *   **Efficiency Boost:** The racer has advantage on Initiative checks.
 *   **Integrated Plasma:** Ranged attack. 2d6+3 damage.
 
-### 2. Qirex Interceptor (Heavy)
-(CR 5). Construct (Vehicle). HP 80, AC 16.
+### 2. Qirex Interceptor (Heavy) (CR 5)
+(CR 5). Construct (Vehicle). **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Mine Drop:** Bonus action. Deploys an energy mine that deals 4d6 damage to anyone who touches it.
 *   **Aggressive Frame:** The interceptor deals an extra 1d10 damage on ramming attacks.
 
-### 3. 'Optimized' Rival (NEXUS Proxy)
-(CR 10). Humanoid/AI. HP 150, AC 18.
+### 3. 'Optimized' Rival (NEXUS Proxy) (CR 10)
+(CR 10). Humanoid/AI. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Data-Sight:** The rival can never have disadvantage on an attack.
 *   **Probability Shift:** Reaction. Force an enemy to re-roll a successful attack or check.

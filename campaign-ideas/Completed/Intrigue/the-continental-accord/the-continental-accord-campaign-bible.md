@@ -114,20 +114,22 @@ A site of 'Visual Paranoia' and reality-bending combat.
 **Mechanics:** When 'Opened,' the user can force an NPC to succeed on a DC 18 Wisdom save or be compelled to perform an 'Impossible Task.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Professional Assassin (Standard)
-(CR 3). Humanoid. HP 45, AC 15.
+
+## Bestiary
+### 1. Professional Assassin (Standard) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15.
 **Abilities:**
 *   **Balletic Violence:** The assassin has advantage on attacks if they have moved at least 30 feet this turn.
 *   **Silenced Precision:** Ranged attack. 2d10+4 damage.
 
-### 2. High Table Adjudicator (Elite)
-(CR 8). Humanoid. HP 120, AC 18.
+### 2. High Table Adjudicator (Elite) (CR 8)
+(CR 8). Humanoid. **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Sovereign Authority Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Rule of Law:** Once per combat, the adjudicator can force an enemy to take a reaction that reveals their own darkest secret.
 
-### 3. 'The Ghost' (Elite Leader)
-(CR 15). Humanoid (Baba Yaga). HP 250, AC 20.
+### 3. 'The Ghost' (Elite Leader) (CR 15)
+(CR 15). Humanoid (Baba Yaga). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Impossible Task Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be paralyzed by the Ghost's reputation.
 *   **Deadly Grace:** The Ghost has three reactions per round and can never have disadvantage on an attack.

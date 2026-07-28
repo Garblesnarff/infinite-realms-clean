@@ -115,20 +115,22 @@ An ancient, cosmic archive containing every prayer and action ever performed.
 **Mechanics:** Grants the wearer immunity to any effect that requires a 'Alignment' or 'Frequency' check. Once per day, the wearer can 'Rewrite' their own destiny.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Celestial Seraph (Legion)
-(CR 5). Celestial. HP 80, AC 16.
+
+## Bestiary
+### 1. Celestial Seraph (Legion) (CR 5)
+(CR 5). Celestial. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Prime Harmony:** The seraph has advantage on attacks if they have an ally within 10 feet.
 *   **Radiant Blast:** Ranged attack. 2d10+4 radiant damage.
 
-### 2. Fallen Archon (Elite)
-(CR 8). Fiend/Angel. HP 150, AC 18.
+### 2. Fallen Archon (Elite) (CR 8)
+(CR 8). Fiend/Angel. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Dark Beauty Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Choice Strike:** Melee attack (Psychic). 4d10 damage + Target is confused for 1 round.
 
-### 3. 'The Morning Star' Lucifer (Proxy)
-(CR 20). Celestial/Fiend. HP 400, AC 22.
+### 3. 'The Morning Star' Lucifer (Proxy) (CR 20)
+(CR 20). Celestial/Fiend. **HP:** 400, **AC:** 22.
 **Abilities:**
 *   **Pride Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Lucifer's melody.
 *   **Infinite Choice:** Once per combat, Lucifer can force an enemy to take an action that reveals their own deepest desire.

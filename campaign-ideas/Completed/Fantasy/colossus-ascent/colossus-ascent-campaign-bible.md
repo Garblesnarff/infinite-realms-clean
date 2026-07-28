@@ -115,20 +115,22 @@ A site of 'Crushing Darkness' and bioluminescent patterns.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Shadow' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Colossus Guard (Standard)
-(CR 3). Monstrosity. HP 45, AC 14 (Stone skin).
+
+## Bestiary
+### 1. Colossus Guard (Standard) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14 (Stone skin).
 **Abilities:**
 *   **Landscape-Body:** The guard has advantage on Stealth checks if they are in a ruined city hex.
 *   **Stone Strike:** Melee attack. 1d8+3 damage + Target is knocked prone.
 
-### 2. Shadow Thrall (Elite)
-(CR 5). Undead. HP 80, AC 15.
+### 2. Shadow Thrall (Elite) (CR 5)
+(CR 5). Undead. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Shadow Warp Aura:** Any enemy within 30 feet has disadvantage on saving throws against being frightened.
 *   **Vengeful Strike:** Melee attack. 2d10 damage + Target is grappled.
 
-### 3. 'The Mastermind' Dormin (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Dormin (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Pact Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Dormin's 'Archaic Script.'
 *   **The Final Choice:** Once per combat, Dormin can force an enemy to choose between saving an ally and achieving the mission objective.

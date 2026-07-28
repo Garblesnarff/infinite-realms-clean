@@ -115,20 +115,22 @@ A site of 'Costumed Horror' and desaturated pastels.
 **Mechanics:** Allows the user to enter any magically or physically sealed room in Manderley. Once per day, the user can summon a 30ft 'Fog Wall' that blinds all enemies.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Manderley Guard (Staff)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. Manderley Guard (Staff) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Silent Judgment:** Any enemy within 10 feet has disadvantage on Charisma checks.
 *   **Keys of the House:** The guard can use a reaction to teleport 30ft between two doors.
 
-### 2. The Shadow of Rebecca (Echo)
-(CR 5). Undead/Spirit. HP 70, AC 15.
+### 2. The Shadow of Rebecca (Echo) (CR 5)
+(CR 5). Undead/Spirit. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Atmospheric Dread:** Any creature within 30 feet must succeed on a DC 14 Wisdom save or be paralyzed by the weight of the past.
 *   **Monogrammed Strike:** Melee attack (Psychic). 2d10+4 damage.
 
-### 3. 'The Gatekeeper' Mrs. Danvers (Proxy)
-(CR 10). Humanoid (Mastermind). HP 150, AC 18.
+### 3. 'The Gatekeeper' Mrs. Danvers (Proxy) (CR 10)
+(CR 10). Humanoid (Mastermind). **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Passive-Aggressive Perfection Aura:** Any enemy within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow Danvers's 'House Rules.'
 *   **Fire of Devotion:** Once per combat, Danvers can create a 30ft 'Crescendo of Flames' that deals 10d10 fire damage.

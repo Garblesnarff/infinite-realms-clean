@@ -114,20 +114,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. W&P Soldier (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Impersonal Armor).
+
+## Bestiary
+### 1. W&P Soldier (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Impersonal Armor).
 **Abilities:**
 *   **Corporate Discipline:** The soldier has advantage on attacks if they have an ally within 10 feet.
 *   **Stun Baton:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
 
-### 2. Ripper Warrior (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Ripper Warrior (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Noble Warrior Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Kangaroo Kick:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Kesslee (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Kesslee (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Sterile Oppression Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or believe a lie told by Kesslee as if it were the truth.
 *   **The Final Move:** Once per combat, Kesslee can force an enemy to take an action that serves his own glory.

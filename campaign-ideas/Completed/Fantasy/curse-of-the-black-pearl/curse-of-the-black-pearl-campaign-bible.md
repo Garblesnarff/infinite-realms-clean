@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' their own form, becoming immune to physical damage in moonlight. **Curse:** The user loses all capacity for pleasure or feeling.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Company Soldier (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Pristine Armor).
+
+## Bestiary
+### 1. Company Soldier (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Pristine Armor).
 **Abilities:**
 *   **Ordered Discipline:** The soldier has advantage on attacks if they have an ally within 5 feet.
 *   **Musket Shot:** Ranged attack. 1d8+3 damage.
 
-### 2. Cursed Pirate (Elite)
-(CR 5). Undead. HP 80, AC 15.
+### 2. Cursed Pirate (Elite) (CR 5)
+(CR 5). Undead. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Moonlight Transformation Aura:** Any enemy within 30 feet must succeed on a DC 14 Wisdom save or be frightened for 1 round.
 *   **Skeletal Strike:** Melee attack. 2d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Davy Jones (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Davy Jones (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Locker Silence Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be paralyzed by the weight of their own debt.
 *   **The Final Reclaiming:** Once per combat, Davy Jones can force an enemy to take an action that serves the stability of the sea.

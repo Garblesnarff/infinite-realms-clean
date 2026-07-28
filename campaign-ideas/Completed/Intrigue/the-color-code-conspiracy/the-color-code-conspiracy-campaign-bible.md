@@ -114,20 +114,22 @@ A high-contrast landscape of blue-and-red flashing lights and heavy shadows.
 **Mechanics:** Grants the user the ability to 'Teleport' up to 30 feet once per day. When triggered, all enemies within 10 feet must succeed on a DC 15 Wisdom save or be blinded for 1 round.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Police SWAT (Standard)
-(CR 3). Humanoid. HP 45, AC 16.
+
+## Bestiary
+### 1. Police SWAT (Standard) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 16.
 **Abilities:**
 *   **Ordered Breach:** The officer has advantage on attacks if they have an ally within 10 feet.
 *   **Flashbang:** Ranged attack. 2d6 damage + Target is blinded for 1 round (DC 14 DEX save).
 
-### 2. Paranoid Criminal (Elite)
-(CR 5). Humanoid. HP 80, AC 14.
+### 2. Paranoid Criminal (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 14.
 **Abilities:**
 *   **Lethal Geometry:** The criminal can use a reaction to negate an attack by predicting the line of fire.
 *   **Violent Rage:** Melee attack. 4d10 damage + Target is knocked prone.
 
-### 3. 'The Rat' (Mastermind)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Rat' (Mastermind) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Mutual Suspicion Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to attack their nearest ally.
 *   **The Final Move:** Once per combat, the rat can force an enemy to take a reaction that reveals their own darkest secret.

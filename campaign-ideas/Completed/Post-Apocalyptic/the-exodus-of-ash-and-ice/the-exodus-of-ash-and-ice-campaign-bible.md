@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Ash Lord Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Charred Armor).
+
+## Bestiary
+### 1. Ash Lord Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Charred Armor).
 **Abilities:**
 *   **Heat Distortion:** Any enemy within 10 feet has disadvantage on attack rolls.
 *   **Charred Strike:** Melee attack. 1d8+3 damage + Target takes 1d6 fire damage.
 
-### 2. Frost Titan Sentinel (Elite)
-(CR 5). Elemental. HP 80, AC 16.
+### 2. Frost Titan Sentinel (Elite) (CR 5)
+(CR 5). Elemental. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Crystalline Aura:** Any enemy within 30 feet takes 1d10 cold damage at the start of their turn.
 *   **Blizzard Blast:** Ranged attack. 2d10 cold damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Warlord (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Warlord (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Climate-Dissonance Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Warlord's 'Grand Design.'
 *   **The Final Move:** Once per combat, the Warlord can force an enemy to take an action that serves his own glory.

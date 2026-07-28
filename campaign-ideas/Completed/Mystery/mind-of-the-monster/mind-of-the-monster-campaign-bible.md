@@ -116,20 +116,22 @@ An elegant, classical space corrupted by dissonance.
 **Mechanics:** Grants the user 'Perfect Control' over their own emotions for 1 hour. **Curse:** The user begins to see the world in 'Clinical White' and loses all capacity for empathy.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Serial Killer (Standard)
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. Serial Killer (Standard) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **The Pattern:** The killer has advantage on attacks if they have studied the target for at least 1 hour.
 *   **Psychological Manipulation:** Ranged attack (Psychic). 2d8 damage + Target is charmed for 1 round (DC 13 WIS save).
 
-### 2. BSU Inquisitor (Rival)
-(CR 5). Humanoid (Investigator). HP 80, AC 16.
+### 2. BSU Inquisitor (Rival) (CR 5)
+(CR 5). Humanoid (Investigator). **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Clinical Analysis:** The inquisitor can use a reaction to negate an enemy's action by predicting their behavior.
 *   **Bureaucratic Red Tape:** Any enemy within 30 feet has disadvantage on initiative checks.
 
-### 3. 'The Apex' (Elite Leader)
-(CR 15). Humanoid. HP 250, AC 20.
+### 3. 'The Apex' (Elite Leader) (CR 15)
+(CR 15). Humanoid. **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Perfect Control Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be paralyzed by the Apex's presence.
 *   **The Master Profile:** Once per combat, the Apex can force an enemy to take an action that serves the Apex's goal.

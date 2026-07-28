@@ -301,62 +301,64 @@ siness. |
 20. **The Ghost-Detecting Eye Patch:** An eye patch that gets warm when a ghost is within 30 feet.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Gold-Lust Zombie
-(CR 1). HP 30, AC 12.
+
+## Bestiary
+### 1. Gold-Lust Zombie (CR 1)
+(CR 1). **HP:** 30, **AC:** 12.
 **Abilities:**
 *   **Passive: Golden Hunger:** Can sense the presence of gold within 60 feet. It will prioritize attacking the creature with the most gold.
 *   **Action: Maddening Bite:** Melee attack. On hit, target takes 1d6 piercing damage and must make a WIS save or be overcome with greed, suffering disadvantage on attacks against any target other than the one with the most gold they can see.
 
-### 2. Coral Golem
-(CR 6). HP 95, AC 17, Speed 20ft.
+### 2. Coral Golem (CR 6)
+(CR 6). **HP:** 95, **AC:** 17, Speed 20ft.
 **Abilities:**
 *   **Passive: Memory-Skin:** Any creature hitting the golem with a melee attack is flooded with a random, disorienting memory and must make a WIS save or be stunned for 1 round.
 *   **Action: Razor-Coral Shards:** Ranged attack. The golem fires sharp coral shards in a 15-foot cone. Creatures in the area must make a DEX save, taking 4d8 piercing damage on a failure.
 
-### 3. Phantom Singer (Drowned Choir)
-(CR 3). HP 45, AC 13, Speed fly 40ft (hover).
+### 3. Phantom Singer (Drowned Choir) (CR 3)
+(CR 3). **HP:** 45, **AC:** 13, Speed fly 40ft (hover).
 **Abilities:**
 *   **Passive: Incorporeal Movement:** Can move through creatures and objects.
 *   **Action: Dirge of Sorrow:** The phantom sings a sorrowful note. All enemies within 30ft must make a CHA save or be overcome with magical despair, unable to take reactions and having their speed halved for 1 minute.
 
-### 4. Ironclad Marine
-(CR 2). HP 40, AC 18 (Plate).
+### 4. Ironclad Marine (CR 2)
+(CR 2). **HP:** 40, **AC:** 18 (Plate).
 **Abilities:**
 *   **Passive: Formation Tactics:** Has +2 AC if standing next to another Ironclad Marine.
 *   **Action: Bayonet Charge:** Moves up to its speed and makes a melee attack with its bayonet. If it moved at least 20ft, the attack deals an extra 1d8 piercing damage.
 
-### 5. Tide-Spawn
-(CR 5). HP 75, AC 15.
+### 5. Tide-Spawn (CR 5)
+(CR 5). **HP:** 75, **AC:** 15.
 **Abilities:**
 *   **Passive: Ocean's Embrace:** While in water, regenerates 10 HP at the start of its turn.
 *   **Action: Crushing Wave:** The tide-spawn magically creates a wave of water in a 30-foot line. Creatures in the line must make a STR save or be pushed 20 feet and knocked prone.
 
-### 6. Sun-Scorched Zealot
-(CR 4). HP 60, AC 14.
+### 6. Sun-Scorched Zealot (CR 4)
+(CR 4). **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Blind Faith:** Immune to being blinded.
 *   **Action: Searing Prayer:** The zealot touches a creature. The target must make a CON save or take 3d6 radiant damage and be blinded for 1 round.
 
-### 7. Abyssal Pressure-Knight
-(CR 8). HP 120, AC 19 (Plate).
+### 7. Abyssal Pressure-Knight (CR 8)
+(CR 8). **HP:** 120, **AC:** 19 (Plate).
 **Abilities:**
 *   **Passive: Pressurized Armor:** Immune to the effects of deep water. Any creature hitting it with a melee attack must make a STR save or be pushed back 10 feet by a burst of pressurized water.
 *   **Action: Harpoon Reel:** Ranged attack with a harpoon on a chain. On hit, the target is grappled and pulled 20 feet closer to the knight.
 
-### 8. Kraken Spawn
-(CR 7). HP 110, AC 16.
+### 8. Kraken Spawn (CR 7)
+(CR 7). **HP:** 110, **AC:** 16.
 **Abilities:**
 *   **Passive: Ink Cloud:** When first damaged, it releases a cloud of magical darkness in a 20-foot radius that lasts for 1 minute.
 *   **Action: Multi-Tentacle Attack:** Makes four tentacle attacks against one or more targets.
 
-### 9. Gilded Mercenary
-(CR 5). HP 80, AC 17.
+### 9. Gilded Mercenary (CR 5)
+(CR 5). **HP:** 80, **AC:** 17.
 **Abilities:**
 *   **Passive: Golden Curse:** When reduced to 0 HP, it does not fall unconscious. Instead, it becomes a mindless, golden statue that continues to fight for 1d4 rounds before crumbling to dust.
 *   **Action: Vengeful Strike:** If an ally was damaged since the mercenary's last turn, it can use its reaction to move up to its speed and make one melee attack.
 
-### 10. Memory-Fisher's Net
-(CR 6). Animated Object. HP 90, AC 12.
+### 10. Memory-Fisher's Net (CR 6)
+(CR 6). Animated Object. **HP:** 90, **AC:** 12.
 **Abilities:**
 *   **Passive: Prophetic Weave:** Has resistance to non-magical damage.
 *   **Action: Net of Lost Thoughts:** The net is thrown over a 20-foot area. Creatures in the area must make an INT save or be restrained and forget one random language or skill proficiency for 1 hour.

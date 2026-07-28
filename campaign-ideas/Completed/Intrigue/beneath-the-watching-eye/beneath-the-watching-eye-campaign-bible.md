@@ -115,20 +115,22 @@ A place of 'Desaturated Joy' where the broken functionaries gather.
 **Mechanics:** Grants the user advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Concrete Grays' and loses the ability to feel any emotion other than 'Party Loyalty.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Thought Police Officer (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+
+## Bestiary
+### 1. Thought Police Officer (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Biometric Scan:** The officer has advantage on attacks if they have studied the target's breathing pattern for 1 round.
 *   **Neural Prod:** Melee attack. 2d10 damage + Target is paralyzed by fear for 1 round (DC 14 CON save).
 
-### 2. Inner Party Inquisitor (Mastermind)
-(CR 10). Humanoid. HP 150, AC 18.
+### 2. Inner Party Inquisitor (Mastermind) (CR 10)
+(CR 10). Humanoid. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Gray Conformity Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Truth-Adjustment:** Once per combat, the inquisitor can force an enemy to re-roll a successful action, choosing the result that fits the 'State Narrative.'
 
-### 3. 'The Eye' Telescreen (Guardian)
-(CR 3). Construct. HP 45, AC 14.
+### 3. 'The Eye' Telescreen (Guardian) (CR 3)
+(CR 3). Construct. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Omnipresent Gaze:** Any creature within 60 feet cannot use the Hide action.
 *   **Siren Pulse:** Ranged attack (Psychic). 2d8 damage + Target's location is revealed to all Party members for 1 hour.

@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Domain' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Cursed Spirit (Standard)
-(CR 3). Monstrosity. HP 45, AC 14 (Body horror).
+
+## Bestiary
+### 1. Cursed Spirit (Standard) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14 (Body horror).
 **Abilities:**
 *   **Shadow Warp:** The spirit can teleport 30ft as a bonus action.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected.
 
-### 2. Sorcerer Inquisitor (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+### 2. Sorcerer Inquisitor (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Negative-Energy Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Sorcerer King (Proxy)
-(CR 25). Celestial/Fiend (Mastermind). HP 600, AC 22.
+### 3. 'The Mastermind' Sorcerer King (Proxy) (CR 25)
+(CR 25). Celestial/Fiend (Mastermind). **HP:** 600, **AC:** 22.
 **Abilities:**
 *   **Domain Expansion Aura:** Any creature within 100 feet must succeed on a DC 20 Wisdom save or be compelled to follow the King's 'Archaic Script.'
 *   **The Final Reclaiming:** Once per combat, the Mastermind can force all creatures within 1 mile to re-roll their initiative.

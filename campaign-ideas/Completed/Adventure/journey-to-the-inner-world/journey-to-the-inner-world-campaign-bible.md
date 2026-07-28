@@ -300,62 +300,64 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 20. **A Shovel That Digs Its Own Grave:** A shovel that, if left unattended, will slowly and sadly dig a shovel-sized hole and then bury itself.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Yolk-Spawn
-(CR 2). HP 45, AC 13.
+
+## Bestiary
+### 1. Yolk-Spawn (CR 2)
+(CR 2). **HP:** 45, **AC:** 13.
 **Abilities:**
 *   **Passive: Unstable Form:** At the start of each of its turns, it gains a random new ability (e.g., wings, an extra arm, acid spit) that lasts until its next turn.
 *   **Action: Primordial Slam:** Melee attack. On hit, target takes 2d6 bludgeoning damage and must make a CON save or gain a minor, cosmetic mutation for 1 hour.
 
-### 2. Crystal-Spinner
-(CR 4). HP 60, AC 16 (Natural Armor).
+### 2. Crystal-Spinner (CR 4)
+(CR 4). **HP:** 60, **AC:** 16 (Natural Armor).
 **Abilities:**
 *   **Passive: Razor-Sharp Edges:** Any creature hitting it with a melee attack takes 1d6 piercing damage.
 *   **Action: Crystalline Shards:** Ranged attack. Fires a volley of sharp crystals in a 15-foot cone. Creatures must make a DEX save, taking 4d6 piercing damage on a failure.
 
-### 3. Echo-Bat
-(CR 3). HP 50, AC 14.
+### 3. Echo-Bat (CR 3)
+(CR 3). **HP:** 50, **AC:** 14.
 **Abilities:**
 *   **Passive: Sound-Eater:** Immune to thunder damage. It heals for half of any thunder damage it would have taken.
 *   **Action: Sonic Shriek:** The bat emits a focused sonic blast at one creature. Target must make a CON save or take 3d8 thunder damage and be deafened for 1 minute.
 
-### 4. Warden-Scarab
-(CR 5). Construct. HP 75, AC 17.
+### 4. Warden-Scarab (CR 5)
+(CR 5). Construct. **HP:** 75, **AC:** 17.
 **Abilities:**
 *   **Passive: Immutable Logic:** Immune to being charmed or frightened.
 *   **Action: Sealing Beam:** The scarab fires a beam of golden light. The target must make a WIS save or be partially petrified, having their speed reduced to 0 for 1 minute.
 
-### 5. Fungal-Zombie (Myconid)
-(CR 2). HP 40, AC 12.
+### 5. Fungal-Zombie (Myconid) (CR 2)
+(CR 2). **HP:** 40, **AC:** 12.
 **Abilities:**
 *   **Passive: Rapport Spores:** Any creature that starts its turn within 10 feet of the zombie must make a WIS save or be unable to attack the zombie, believing it to be a friend.
 *   **Action: Pacifying Spores:** The zombie releases a puff of spores at one creature. The target must make a CON save or fall into a peaceful, magical sleep for 1 minute.
 
-### 6. Grafted Horror (Flesh-Weaver)
-(CR 7). HP 110, AC 15.
+### 6. Grafted Horror (Flesh-Weaver) (CR 7)
+(CR 7). **HP:** 110, **AC:** 15.
 **Abilities:**
 *   **Passive: Mismatched Parts:** Has advantage on saves against being knocked prone or moved against its will.
 *   **Action: Multi-Attack:** Makes one attack with its crab-claw, one with its scorpion-tail, and one with its wolf-bite.
 
-### 7. Blind-Worm Digger
-(CR 6). HP 90, AC 16, Burrow Speed 40ft.
+### 7. Blind-Worm Digger (CR 6)
+(CR 6). **HP:** 90, **AC:** 16, Burrow Speed 40ft.
 **Abilities:**
 *   **Passive: Tremorsense:** Can sense the location of any creature on the ground within 60 feet.
 *   **Action: Earth-Swallow:** The worm attempts to swallow a Medium or smaller creature. The target must make a DEX save or be swallowed. While swallowed, the creature is blinded, restrained, and takes 2d6 acid damage at the start of each of its turns.
 
-### 8. Chaos-Mutant (Yolk-Embracer)
-(CR 5). HP 85, AC 14.
+### 8. Chaos-Mutant (Yolk-Embracer) (CR 5)
+(CR 5). **HP:** 85, **AC:** 14.
 **Abilities:**
 *   **Passive: Unstable Anatomy:** When hit with a critical hit, it explodes in a shower of gore and immediately reforms at the start of its next turn with full hit points.
 *   **Action: Chaotic Bolt:** Ranged spell attack. On hit, target takes 4d10 damage of a random type (roll a d8 for acid, cold, fire, force, lightning, poison, psychic, or thunder).
 
-### 9. Living Crystal
-(CR 8). Elemental. HP 130, AC 17.
+### 9. Living Crystal (CR 8)
+(CR 8). Elemental. **HP:** 130, **AC:** 17.
 **Abilities:**
 *   **Passive: Crystalline Resonance:** When it takes thunder damage, all creatures within 20 feet of it take half that damage.
 *   **Action: Imprison in Crystal:** The elemental touches a creature. The target must make a DEX save or be restrained as they are slowly encased in crystal. They must repeat the save at the end of each of their turns, becoming fully petrified on the third failure.
 
-### 10. Core-Spawn
-(CR 9). Celestial. HP 140, AC 16.
+### 10. Core-Spawn (CR 9)
+(CR 9). Celestial. **HP:** 140, **AC:** 16.
 **Abilities:**
 *   **Passive: Hatching Aura:** The area within 30 feet of it is difficult terrain as the ground itself writhes with nascent life.
 *   **Action: Beam of Pure Creation:** The spawn fires a beam of white-hot energy. The target must make a CON save, taking 8d8 radiant damage on a failure and being blinded for 1 minute. On a success, they take half damage.

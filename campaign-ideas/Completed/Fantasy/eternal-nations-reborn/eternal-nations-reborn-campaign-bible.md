@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Abyss' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Abyss Shadow (Standard)
-(CR 2). Fiend. HP 30, AC 13 (Static patches).
+
+## Bestiary
+### 1. Abyss Shadow (Standard) (CR 2)
+(CR 2). Fiend. **HP:** 30, **AC:** 13 (Static patches).
 **Abilities:**
 *   **Ordered Chaos:** The shadow has advantage on attacks if they have an ally within 10 feet.
 *   **Neural Prod:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
 
-### 2. Unit Sentinel (Elite)
-(CR 5). Construct. HP 80, AC 16.
+### 2. Unit Sentinel (Elite) (CR 5)
+(CR 5). Construct. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Ominous Interface Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Takuto (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Takuto (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Order of Play Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the leader's 'Archaic Script.'
 *   **The Final Move:** Once per combat, Takuto can force an enemy to take an action that serves his own glory.

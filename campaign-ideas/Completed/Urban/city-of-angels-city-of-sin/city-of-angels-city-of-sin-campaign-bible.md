@@ -116,20 +116,22 @@ Golden hour beauty that hides the city's bleeding heart.
 **Mechanics:** Once per day, the wearer can use an action to command a group of up to 10 'Sleepers' (non-magical NPCs) to obey a simple command.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. LAPD 'Brutal' Enforcer
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. LAPD 'Brutal' Enforcer (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Police Brutality:** Melee attack. 1d8+3 damage. If the target is prone, the enforcer can make an extra attack.
 *   **The Fix:** The enforcer has advantage on saves against being charmed or persuaded.
 
-### 2. Syndicate Bodyguard
-(CR 4). Humanoid. HP 65, AC 15.
+### 2. Syndicate Bodyguard (CR 4)
+(CR 4). Humanoid. **HP:** 65, **AC:** 15.
 **Abilities:**
 *   **Silenced Pistol:** Ranged attack. 2d6+4 damage.
 *   **Unwavering Loyalty:** The bodyguard can take damage intended for their employer if they are within 5 feet.
 
-### 3. 'Rollo Tomasi' (Elite Assassin)
-(CR 8). Humanoid. HP 120, AC 18.
+### 3. 'Rollo Tomasi' (Elite Assassin) (CR 8)
+(CR 8). Humanoid. **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Ghostly Presence:** Rollo Tomasi can use a bonus action to become invisible until the start of his next turn.
 *   **Inevitable Strike:** Rollo Tomasi's attacks ignore all forms of magical or physical resistance.

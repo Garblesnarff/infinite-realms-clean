@@ -116,20 +116,22 @@ A site of 'Crushing Silence' and absence as presence.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Wound' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Harvester Drone (Standard)
-(CR 2). Construct. HP 30, AC 13 (Brass Armor).
+
+## Bestiary
+### 1. Harvester Drone (Standard) (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13 (Brass Armor).
 **Abilities:**
 *   **Industrial Efficiency:** The drone has advantage on attacks if they have an ally within 10 feet.
 *   **Light-Extraction Pulse:** Ranged attack. 2d8 psychic damage + Target's Lumen-Energy is reduced.
 
-### 2. Deep Singer Guard (Elite)
-(CR 8). Monstrosity. HP 150, AC 18.
+### 2. Deep Singer Guard (Elite) (CR 8)
+(CR 8). Monstrosity. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Oceanic Majesty Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Primordial Song:** Ranged attack (Psychic). 4d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Senna (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Senna (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Wound Silence Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of their own despair.
 *   **The Final Move:** Once per combat, Senna can force an enemy to take an action that serves her own glory.

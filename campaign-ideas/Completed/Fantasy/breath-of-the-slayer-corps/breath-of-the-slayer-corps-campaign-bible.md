@@ -293,62 +293,64 @@ A location in the mortal world where negative emotion has stagnated, becoming a 
 20. **A Single, Shed, Black and Red Scale from a Dragon:** It feels ancient and powerful.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sorrow-Demon
-(CR 2). Fiend. HP 45, AC 13.
+
+## Bestiary
+### 1. Sorrow-Demon (CR 2)
+(CR 2). Fiend. **HP:** 45, **AC:** 13.
 **Abilities:**
 *   **Passive: Aura of Grief:** Any creature starting its turn within 20 feet of the Demon has its speed halved from overwhelming sadness.
 *   **Action: Weeping Touch:** Melee attack. On hit, target takes 2d6 psychic damage and must make a WIS save or be forced to use its turn to weep uncontrollably.
 
-### 2. Rage-Demon
-(CR 4). Fiend. HP 70, AC 15.
+### 2. Rage-Demon (CR 4)
+(CR 4). Fiend. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Passive: Unstoppable Fury:** The Demon has advantage on saves against being charmed, frightened, or stunned.
 *   **Action: Berserker Barrage:** The Demon makes three attacks. It has advantage on these attacks, but all attacks against it have advantage until its next turn.
 
-### 3. Fear-Demon
-(CR 3). Fiend. HP 50, AC 14.
+### 3. Fear-Demon (CR 3)
+(CR 3). Fiend. **HP:** 50, **AC:** 14.
 **Abilities:**
 *   **Passive: Shadow-Skulker:** While in dim light or darkness, the Demon can use a bonus action to Hide.
 *   **Action: Manifest Nightmare:** The Demon forces a creature to make a WIS save. On a failure, the creature sees its greatest fear and is frightened for 1 minute.
 
-### 4. Despair-Demon
-(CR 5). Fiend. HP 85, AC 16.
+### 4. Despair-Demon (CR 5)
+(CR 5). Fiend. **HP:** 85, **AC:** 16.
 **Abilities:**
 *   **Passive: Hope-Eater:** Any creature within 30 feet cannot gain temporary hit points or be affected by spells that grant advantage.
 *   **Action: Crushing Despair:** The Demon whispers a terrible truth to a creature. The target must make a CHA save or take 4d8 psychic damage and fall prone, giving up all hope.
 
-### 5. Blood-Art User (Lesser Demon)
-(CR 6). Fiend. HP 100, AC 16.
+### 5. Blood-Art User (Lesser Demon) (CR 6)
+(CR 6). Fiend. **HP:** 100, **AC:** 16.
 **Abilities:**
 *   **Passive: Rapid Regeneration:** The Demon regains 10 hit points at the start of its turn, unless the damage was from a Nichirin blade or sunlight.
 *   **Action: Blood Demon Art:** Each Blood-Art User has a unique ability, e.g., creating razor-sharp webs of blood, summoning blood-tentacles, or creating illusions.
 
-### 6. The Hashira (NPC Class)
-(CR 10+). Humanoid. HP 150+, AC 18+.
+### 6. The Hashira (NPC Class) (CR 10)
+(CR 10+). Humanoid. **HP:** 150+, **AC:** 18+.
 **Abilities:**
 *   **Passive: Total Concentration Breathing:** The Hashira has advantage on all saving throws and their speed is doubled.
 *   **Action: Breathing Form:** The Hashira uses one of the ultimate forms of their Breathing Style, dealing massive damage or creating a powerful defensive effect.
 
-### 7. Slayer Corps Hopeful
-(CR 1/2). Humanoid. HP 20, AC 13.
+### 7. Slayer Corps Hopeful (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 20, **AC:** 13.
 **Abilities:**
 *   **Passive: Untrained Breath:** Can hold their breath for an unusually long time.
 *   **Action: Anxious Slash:** The hopeful makes a single, clumsy sword attack.
 
-### 8. Corrupted Slayer (Order of the Setting Sun)
-(CR 7). Humanoid. HP 110, AC 17.
+### 8. Corrupted Slayer (Order of the Setting Sun) (CR 7)
+(CR 7). Humanoid. **HP:** 110, **AC:** 17.
 **Abilities:**
 *   **Passive: Aura of Cruelty:** Demons within 30 feet of the Slayer become more aggressive and gain +2 to damage rolls.
 *   **Action: Dusk-Breathing, Final Agony:** The Slayer makes an attack that deals an extra 4d6 necrotic damage. If this kills a Demon, it explodes, dealing damage to all creatures within 10 feet.
 
-### 9. Emotion-Eater Mystic
-(CR 5). Humanoid. HP 75, AC 14.
+### 9. Emotion-Eater Mystic (CR 5)
+(CR 5). Humanoid. **HP:** 75, **AC:** 14.
 **Abilities:**
 *   **Passive: Empty Soul:** Immune to psychic damage.
 *   **Action: Taste Emotion:** The mystic makes a melee touch attack. On a hit, the target takes 3d6 psychic damage and the mystic gains a temporary power based on the target's strongest emotion (e.g., rage grants them extra damage, fear grants them invisibility).
 
-### 10. The Progenitor, Muzan
-(CR 20+). Fiend. HP 300+, AC 20+.
+### 10. The Progenitor, Muzan (CR 20)
+(CR 20+). Fiend. **HP:** 300+, **AC:** 20+.
 **Abilities:**
 *   **Passive: Perfect Regeneration:** Regenerates 30 HP at the start of his turn. Can only be killed by sunlight.
 *   **Action: Progenitor's Curse:** Muzan forces a creature to make a CON save. On a failure, the creature's own blood rebels against it, dealing 10d10 force damage as they explode from within.

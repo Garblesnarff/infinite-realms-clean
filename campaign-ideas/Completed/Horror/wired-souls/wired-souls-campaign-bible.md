@@ -299,17 +299,28 @@ The conflict exists because the Universe abhors isolation. Consciousness is natu
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
+## Bestiary
 ### Custom Monsters
-1.  **Data-Wraith** (CR 3): HP 40, AC 14. *Incorporeal.* **Action:** *Touch of Lag* (Target loses next turn).
-2.  **Firewall Golem** (CR 5): HP 80, AC 18. *Immune to Fire.* **Action:** *Burn Protocol* (Aura of fire damage).
-3.  **Pixel-Swarm** (CR 1): HP 10, AC 12. *Swarm.* **Action:** *Distortion* (Blind target).
-4.  **Memory-Eater** (CR 4): HP 50, AC 15. *Stealthy.* **Action:** *Devour Thought* (Target forgets a spell/ability).
-5.  **Glitch-Beast** (CR 6): HP 90, AC 10. *Variable Form.* **Action:** *Reality Shift* (Teleport).
-6.  **Admin-Bot** (CR 2): HP 30, AC 16. *Construct.* **Action:** *Ban Hammer* (Knockback).
-7.  **The Un-Rendered** (CR 7): HP 100, AC 20. *Invisible.* **Action:** *Texture Missing* (Target takes Force damage).
-8.  **Cable-Snake** (CR 2): HP 25, AC 13. *Grappler.* **Action:** *Constrict* (Restrain).
-9.  **Echo-Stalker** (CR 3): HP 45, AC 14. *Sonic attacks.* **Action:** *Scream* (Stun).
-10. **Protocol Guardian** (CR 10): HP 200, AC 22. *Boss.* **Action:** *System Reset* (Drop all targets to 1 HP).
+### 1. Data-Wraith (CR 3)
+(CR 3): **HP:** 40, **AC:** 14. *Incorporeal.* **Action:** *Touch of Lag* (Target loses next turn).
+### 2. Firewall Golem (CR 5)
+(CR 5): **HP:** 80, **AC:** 18. *Immune to Fire.* **Action:** *Burn Protocol* (Aura of fire damage).
+### 3. Pixel-Swarm (CR 1)
+(CR 1): **HP:** 10, **AC:** 12. *Swarm.* **Action:** *Distortion* (Blind target).
+### 4. Memory-Eater (CR 4)
+(CR 4): **HP:** 50, **AC:** 15. *Stealthy.* **Action:** *Devour Thought* (Target forgets a spell/ability).
+### 5. Glitch-Beast (CR 6)
+(CR 6): **HP:** 90, **AC:** 10. *Variable Form.* **Action:** *Reality Shift* (Teleport).
+### 6. Admin-Bot (CR 2)
+(CR 2): **HP:** 30, **AC:** 16. *Construct.* **Action:** *Ban Hammer* (Knockback).
+### 7. The Un-Rendered (CR 7)
+(CR 7): **HP:** 100, **AC:** 20. *Invisible.* **Action:** *Texture Missing* (Target takes Force damage).
+### 8. Cable-Snake (CR 2)
+(CR 2): **HP:** 25, **AC:** 13. *Grappler.* **Action:** *Constrict* (Restrain).
+### 9. Echo-Stalker (CR 3)
+(CR 3): **HP:** 45, **AC:** 14. *Sonic attacks.* **Action:** *Scream* (Stun).
+### 10. Protocol Guardian (CR 10)
+(CR 10): **HP:** 200, **AC:** 22. *Boss.* **Action:** *System Reset* (Drop all targets to 1 HP).
 
 [TAG: ENCOUNTER_TABLE]
 

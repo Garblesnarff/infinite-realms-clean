@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Dreamtime' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Tactical Emu (Professional)
-(CR 3). Monstrosity. HP 45, AC 14.
+
+## Bestiary
+### 1. Tactical Emu (Professional) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Mob Formation:** The emu has advantage on attacks if they have an ally within 10 feet.
 *   **Screeching Strike:** Melee attack. 2d8+4 damage + Target is confused for 1 round (DC 13 WIS save).
 
-### 2. Killer Kangaroo (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Killer Kangaroo (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Kick-Boxing Fury:** The kangaroo makes three melee attacks (Kick, Punch, Tail). Each attack deals an extra 1d6 damage.
 *   **Seismic Slam:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' First Emu (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' First Emu (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Terrifying Intelligence Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the new world.
 *   **The Final Reset:** Once per combat, the Mastermind can force all creatures within 100 feet to re-roll their initiative.

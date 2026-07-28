@@ -114,20 +114,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Hipster Scout (Professional)
-(CR 2). Humanoid. HP 30, AC 13 (Ironic Armor).
+
+## Bestiary
+### 1. Hipster Scout (Professional) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Ironic Armor).
 **Abilities:**
 *   **Detached Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Fixed-Gear Charge:** Melee attack. 1d8+3 damage.
 
-### 2. Agency Drone (Elite)
-(CR 5). Construct. HP 80, AC 16.
+### 2. Agency Drone (Elite) (CR 5)
+(CR 5). Construct. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Surveillance Gaze:** Any creature within 60 feet cannot use the Hide action.
 *   **Neutralizing Pulse:** Ranged attack. 2d10 psychic damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Vane (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Vane (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Order of Progress Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Agency's 'Grand Design.'
 *   **The Final Move:** Once per combat, Vane can force an enemy to take an action that serves his own glory.

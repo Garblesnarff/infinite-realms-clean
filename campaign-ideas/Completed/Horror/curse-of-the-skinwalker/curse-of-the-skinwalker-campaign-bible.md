@@ -116,20 +116,22 @@ A mundane, gray building where life happens between the horrors.
 **Mechanics:** Grants the holder advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Saturated Oranges' and loses all capacity for empathy.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Skinwalker Thrall (Animal)
-(CR 3). Monstrosity. HP 45, AC 14.
+
+## Bestiary
+### 1. Skinwalker Thrall (Animal) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Human-Eyed Intelligence:** The animal has advantage on Perception and Insight checks.
 *   **Shifting Bite:** Melee attack. 2d8+4 damage + Target is confused for 1 round (DC 13 WIS save).
 
-### 2. Coven Witch (Human)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Coven Witch (Human) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Taboo Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Reality Warp:** Ranged attack (Psychic). 2d10 damage + Target's location is revealed to all witches for 1 hour.
 
-### 3. 'The Mastermind' First Witch (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' First Witch (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Power Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Witch's 'Skin-Directive.'
 *   **The Final Transformation:** Once per combat, the Witch can force an enemy to take an action that reveals their own darkest secret.

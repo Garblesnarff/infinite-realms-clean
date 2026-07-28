@@ -296,62 +296,64 @@ A dense, ancient forest that borders the Divergence Zone, where the trees seem t
 20. **A "Urban God" Dream-Fragment:** A small, glowing orb containing a fragment of the Urban God's dream.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Whispering Streets Drone
-(CR 2). Swarm of Tiny Beasts. HP 40, AC 13.
+
+## Bestiary
+### 1. Whispering Streets Drone (CR 2)
+(CR 2). Swarm of Tiny Beasts. **HP:** 40, **AC:** 13.
 **Abilities:**
 *   **Passive: Swarm:** The drone can occupy another creature's space and vice-versa. It is resistant to bludgeoning, piercing, and slashing damage.
 *   **Action: Psychic Buzz:** The drone emits a psychic buzz. All creatures within 10 feet must make a WIS save or take 2d6 psychic damage and be confused for 1 round.
 
-### 2. Assimilated Human
-(CR 3). Humanoid. HP 60, AC 14.
+### 2. Assimilated Human (CR 3)
+(CR 3). Humanoid. **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Hive-Mind Connection:** The human is immune to psychic damage and being charmed or frightened.
 *   **Action: Dream-Manifestation:** The human manifests a minor dream-creature (e.g., a giant spider, a shadowy figure) that attacks a target.
 
-### 3. Reality-Glitcher (Corrupted)
-(CR 4). Humanoid. HP 70, AC 15.
+### 3. Reality-Glitcher (Corrupted) (CR 4)
+(CR 4). Humanoid. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Passive: Unstable Reality:** The area within 20 feet of the Glitcher is a localized reality-warp. All creatures within the area have disadvantage on attack rolls and ability checks.
 *   **Action: Reality-Warp:** The Glitcher causes a minor, localized reality warp. Roll a d4. 1: Gravity reverses for 1 round. 2: All sounds are muffled for 1 round. 3: All colors invert for 1 round. 4: All creatures within 10 feet swap places randomly.
 
-### 4. City Guard Soldier
-(CR 2). Humanoid. HP 40, AC 16.
+### 4. City Guard Soldier (CR 2)
+(CR 2). Humanoid. **HP:** 40, **AC:** 16.
 **Abilities:**
 *   **Passive: Containment Protocol:** The soldier has advantage on saves against being charmed or frightened by dream-creatures.
 *   **Action: Suppressive Fire:** The soldier makes two attacks with its rifle. If both attacks hit the same target, the target's speed is halved for 1 round.
 
-### 5. Memory-Moth
-(CR 5). Monstrosity. HP 80, AC 16.
+### 5. Memory-Moth (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Passive: Psychic Scent:** The Moth can detect the presence of memories within 60 feet.
 *   **Action: Drain Memory:** The Moth touches a creature. The target must make an INT save or take 3d8 psychic damage and lose a random memory.
 
-### 6. Glitch-Hunter (Rogue)
-(CR 6). Humanoid. HP 90, AC 17.
+### 6. Glitch-Hunter (Rogue) (CR 6)
+(CR 6). Humanoid. **HP:** 90, **AC:** 17.
 **Abilities:**
 *   **Passive: Exploit Weakness:** The Hunter has advantage on attack rolls against creatures that are under the effect of a reality-warp.
 *   **Action: Reality-Hack:** The Hunter targets a creature. The target must make an INT save or have its movement speed halved for 1 minute.
 
-### 7. Architect of the Dream (Corrupted)
-(CR 7). Humanoid. HP 110, AC 18.
+### 7. Architect of the Dream (Corrupted) (CR 7)
+(CR 7). Humanoid. **HP:** 110, **AC:** 18.
 **Abilities:**
 *   **Passive: Dream-Fortress:** The Architect is immune to any damage from dream-creatures.
 *   **Action: Dream-Construct:** The Architect manifests a dream-construct (e.g., a wall of chitin, a pillar of silk) that attacks a target.
 
-### 8. Urban God (Dream-Avatar)
-(CR 15). Aberration. HP 200, AC 18.
+### 8. Urban God (Dream-Avatar) (CR 15)
+(CR 15). Aberration. **HP:** 200, **AC:** 18.
 **Abilities:**
 *   **Passive: Planetary Dream:** The Avatar is immune to all damage from non-magical weapons. It is immune to any effect that would force it to choose between two options.
 *   **Action: Dream-Overwrite:** The Avatar causes a major reality-warp in a 60-foot radius. Roll a d6. 1: Gravity reverses for 1 round. 2: All sounds are muffled for 1 round. 3: All colors invert for 1 round. 4: All creatures within 30 feet swap places randomly. 5: All creatures within 30 feet are forced to re-live their greatest fear. 6: All creatures within 30 feet are forced to confess their deepest, darkest secret.
 
-### 9. The Somnambulist (Corrupted)
-(CR 9). Humanoid. HP 140, AC 17.
+### 9. The Somnambulist (Corrupted) (CR 9)
+(CR 9). Humanoid. **HP:** 140, **AC:** 17.
 **Abilities:**
 *   **Passive: Dream-Lord:** The Somnambulist has advantage on all saves against psychic damage.
 *   **Action: Nightmare Manifestation:** The Somnambulist manifests a powerful nightmare (e.g., a colossal spider, a shadowy figure) that attacks a target.
 
-### 10. The City's Voice (Corrupted)
-(CR 10). Humanoid. HP 150, AC 18.
+### 10. The City's Voice (Corrupted) (CR 10)
+(CR 10). Humanoid. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Passive: Hive-Mind Connection:** The City's Voice is immune to psychic damage and being charmed or frightened.
 *   **Action: Assimilation:** The City's Voice touches a creature. The target must make a high DC WIS save or take 5d10 psychic damage and gain 1 level of "Assimilation-Corruption."

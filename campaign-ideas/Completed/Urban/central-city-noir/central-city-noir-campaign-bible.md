@@ -116,20 +116,22 @@ The soaring, art deco heights where the Spirit and his rivals play a deadly game
 **Mechanics:** The wearer can use an action to release the scent. All creatures within 10 feet must succeed on a DC 15 Wisdom save or be charmed for 1 minute.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Syndicate Thug
-(CR 1/2). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Syndicate Thug (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Fistfight:** Melee attack. 1d4+2 damage.
 *   **Cheap Shot:** If the thug has advantage, they deal an extra 1d6 damage.
 
-### 2. Mob Enforcer
-(CR 2). Humanoid. HP 45, AC 14.
+### 2. Mob Enforcer (CR 2)
+(CR 2). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Tommy Gun:** Ranged attack. 2d6+3 damage.
 *   **Hard-Boiled:** The enforcer has advantage on saves against being frightened.
 
-### 3. Assassin ('The Shadow')
-(CR 5). Humanoid. HP 85, AC 17.
+### 3. Assassin ('The Shadow') (CR 5)
+(CR 5). Humanoid. **HP:** 85, **AC:** 17.
 **Abilities:**
 *   **Shadow Leap:** Teleport 30ft between shadows as a bonus action.
 *   **Death Strike:** On a successful hit, the target must make a DC 14 CON save or take an extra 4d6 damage.

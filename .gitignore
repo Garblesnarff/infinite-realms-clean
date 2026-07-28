@@ -44,3 +44,7 @@ lerna-debug.log*
 .env.*
 !.env.example
 *.env
+
+# Python
+__pycache__/
+*.pyc

@@ -116,20 +116,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Demon' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Vampire Enforcer (Standard)
-(CR 2). Undead. HP 30, AC 13 (Predatory stillness).
+
+## Bestiary
+### 1. Vampire Enforcer (Standard) (CR 2)
+(CR 2). Undead. **HP:** 30, **AC:** 13 (Predatory stillness).
 **Abilities:**
 *   **Seductive Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected.
 
-### 2. Demon Guardian (Elite)
-(CR 5). Fiend. HP 80, AC 15.
+### 2. Demon Guardian (Elite) (CR 5)
+(CR 5). Fiend. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Taboo Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Algaliarept (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Algaliarept (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Pact Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Master's 'Archaic Script.'
 *   **The Final Move:** Once per combat, Algaliarept can force an enemy to take an action that serves his own glory.

@@ -115,20 +115,22 @@ A misty gray and shadowed purple space of wandering dead.
 **Mechanics:** Grants the user the ability to 'Multiply' any mundane resource. Once per day, the user can create a 30ft 'Field of Prosperity.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Frost Giant (Elite)
-(CR 5). Elemental. HP 80, AC 16.
+
+## Bestiary
+### 1. Frost Giant (Elite) (CR 5)
+(CR 5). Elemental. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Ice Shroud:** The giant has advantage on attacks if they are in a frozen environment.
 *   **Crystalline Strike:** Melee attack. 2d10+4 damage + Target is paralyzed for 1 round (DC 14 CON save).
 
-### 2. Viking Berserker (Legion)
-(CR 2). Humanoid. HP 30, AC 13.
+### 2. Viking Berserker (Legion) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Heroic Defiance:** The berserker has advantage on attacks if they have less than half their HP.
 *   **Axe Swing:** Melee attack. 1d8+3 damage.
 
-### 3. 'The Trickster' Loki (Proxy)
-(CR 12). Humanoid/Giant (Mastermind). HP 180, AC 18.
+### 3. 'The Trickster' Loki (Proxy) (CR 12)
+(CR 12). Humanoid/Giant (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Deceptive Beauty Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or believe a lie told by Loki as if it were the truth.
 *   **The Final Catalyst:** Once per combat, Loki can force an enemy to take an action that triggers a local reality-glitch.

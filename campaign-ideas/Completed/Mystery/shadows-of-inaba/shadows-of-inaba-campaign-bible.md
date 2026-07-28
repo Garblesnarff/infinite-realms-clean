@@ -116,20 +116,22 @@ A warm, lived-in home that serves as the party's sanctuary.
 **Mechanics:** Grants the user +1 to all attack and damage rolls for every Social Link they have reached Rank 10 with.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Lesser Shadow (Hand)
-(CR 1). Aberration. HP 15, AC 12.
+
+## Bestiary
+### 1. Lesser Shadow (Hand) (CR 1)
+(CR 1). Aberration. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Static Blur:** The Shadow has disadvantage on being hit if it moved this turn.
 *   **Slap:** Melee attack. 1d6+2 damage.
 
-### 2. Shadow-Self (Proxy)
-(CR 5). Aberration (Shapechanger). HP 80, AC 15.
+### 2. Shadow-Self (Proxy) (CR 5)
+(CR 5). Aberration (Shapechanger). **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Repressed Truth:** The Shadow deals an extra 2d6 psychic damage to the person it is modeled after.
 *   **Denial Aura:** Any creature within 30 feet has disadvantage on saving throws against being charmed or frightened.
 
-### 3. 'The True Killer' (Elite Leader)
-(CR 12). Humanoid (Persona User). HP 180, AC 18.
+### 3. 'The True Killer' (Elite Leader) (CR 12)
+(CR 12). Humanoid (Persona User). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Magatsu Izanagi:** The killer can summon a corrupted Persona to make three melee attacks (10ft range, 2d10+6 damage).
 *   **World of Fog:** Once per combat, the killer can turn the entire battlefield into a 'Midnight Realm,' granting himself advantage on all rolls for 3 rounds.

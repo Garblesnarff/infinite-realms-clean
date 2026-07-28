@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Shout' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Storm-Cloak Rebel (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Fur patches).
+
+## Bestiary
+### 1. Storm-Cloak Rebel (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Fur patches).
 **Abilities:**
 *   **Rebel Discipline:** The rebel has advantage on attacks if they have an ally within 10 feet.
 *   **Neural Prod:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
 
-### 2. Dragon Sentinel (Elite)
-(CR 5). Construct. HP 80, AC 16.
+### 2. Dragon Sentinel (Elite) (CR 5)
+(CR 5). Construct. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Ominous Dragon Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Alduin (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Alduin (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **World-Eater Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the leader's 'Archaic Script.'
 *   **The Final Move:** Once per combat, Alduin can force an enemy to take an action that serves his own glory.

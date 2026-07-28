@@ -147,20 +147,22 @@ The home of the Warriors and the end of the journey.
 **Mechanics:** The user can use an action to speak into the microphone. Their voice is heard by everyone in the City who is currently tuned into a radio or near a shadow.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Neighborhood Wannabe (Orphan)
-(CR 1/4). Humanoid. HP 10, AC 11.
+
+## Bestiary
+### 1. Neighborhood Wannabe (Orphan) (CR 1/4)
+(CR 1/4). Humanoid. **HP:** 10, **AC:** 11.
 **Abilities:**
 *   **Desperate Swing:** Melee attack. 1d4+1 damage.
 *   **Numbers Game:** The wannabe has advantage on attacks if they have 3 or more allies within 5 feet.
 
-### 2. Theatrical Enforcer (Baseball Fury)
-(CR 2). Humanoid. HP 40, AC 13.
+### 2. Theatrical Enforcer (Baseball Fury) (CR 2)
+(CR 2). Humanoid. **HP:** 40, **AC:** 13.
 **Abilities:**
 *   **Bat Swing:** Melee attack. 1d10+3 damage.
 *   **Silent Coordination:** The Fury does not provoke opportunity attacks from targets that have another Fury within 5 feet.
 
-### 3. Psychotic Killer (Rogue)
-(CR 4). Humanoid. HP 70, AC 15.
+### 3. Psychotic Killer (Rogue) (CR 4)
+(CR 4). Humanoid. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Switchblade:** Melee attack. 1d6+4 damage + 1d6 poison damage.
 *   **Bottle Throw:** Ranged attack. 1d8+4 damage + Target is blinded for 1 round (DC 14 DEX save).

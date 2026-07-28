@@ -116,20 +116,22 @@ A series of crumbling, gothic stages where the lines between performance and lif
 **Mechanics:** The flash can be used to blind all enemies in a 30ft cone. Additionally, any photo taken by the camera reveals the 'True Aspect' of the target.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Press Photographer (Standard)
-(CR 1). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Press Photographer (Standard) (CR 1)
+(CR 1). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Flashblind:** The photographer can use an action to blind a target for 1 round (DC 13 DEX save).
 *   **Publicity Stunt:** Any attack made against the photographer is captured on film, granting the attacker disadvantage on their next Charisma check.
 
-### 2. Cellblock Guard (Compromised)
-(CR 2). Humanoid. HP 35, AC 14.
+### 2. Cellblock Guard (Compromised) (CR 2)
+(CR 2). Humanoid. **HP:** 35, **AC:** 14.
 **Abilities:**
 *   **Bribe-Taker:** The guard has disadvantage on saves against being charmed if offered a 'Gift.'
 *   **Nightstick Rhythm:** Melee attack. 1d8+2 damage. If the guard hits, they can make a free Intimidation check.
 
-### 3. 'The Maestro' Billy Flynn (Proxy)
-(CR 10). Humanoid. HP 120, AC 18 (Razzle Dazzle).
+### 3. 'The Maestro' Billy Flynn (Proxy) (CR 10)
+(CR 10). Humanoid. **HP:** 120, **AC:** 18 (Razzle Dazzle).
 **Abilities:**
 *   **Razzle Dazzle Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be charmed and compelled to watch Billy's performance.
 *   **Showstopper:** Once per combat, Billy can force an enemy to re-roll their turn, choosing the least effective actions.

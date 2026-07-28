@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. War Boy Scout (Professional)
-(CR 2). Humanoid. HP 30, AC 13 (Chrome-Sprayed).
+
+## Bestiary
+### 1. War Boy Scout (Professional) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Chrome-Sprayed).
 **Abilities:**
 *   **Witness Me!:** The War Boy has advantage on attacks if they have an ally within 10 feet.
 *   **Kamakrazee Strike:** Melee attack. 2d10 damage + Target is grappled (War Boy dies on hit).
 
-### 2. Citadel Interceptor (Elite)
-(CR 8). Construct (Vehicle). HP 120, AC 18.
+### 2. Citadel Interceptor (Elite) (CR 8)
+(CR 8). Construct (Vehicle). **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Sovereign Authority Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Ramming Speed:** Melee attack. 4d10+10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Immortan Joe (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Immortan Joe (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Aqua Cola Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Warlord's 'Order of Progress.'
 *   **The Final Move:** Once per combat, Immortan Joe can force an enemy to take an action that serves his own glory.

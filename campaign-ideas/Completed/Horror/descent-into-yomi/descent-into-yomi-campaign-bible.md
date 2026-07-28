@@ -115,20 +115,22 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Yomotsu-shikome (Standard)
-(CR 3). Monstrosity. HP 45, AC 14.
+
+## Bestiary
+### 1. Yomotsu-shikome (Standard) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Wet Footsteps:** The shikome has advantage on Stealth checks in humid environments.
 *   **Dragging Strike:** Melee attack. 2d8+4 damage + Target is grappled.
 
-### 2. Pollution Archon (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Pollution Archon (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Kegare Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Reality-Warping Spore:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Izanami (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Izanami (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Malevolent Whisper Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Mind's 'Compost Directive.'
 *   **The Final Reset:** Once per combat, the Mind can force all creatures within 100 feet to re-roll their initiative.

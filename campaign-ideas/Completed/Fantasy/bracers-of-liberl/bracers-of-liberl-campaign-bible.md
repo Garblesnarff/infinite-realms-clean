@@ -290,62 +290,64 @@ Places that exist outside of normal space and time, the hidden bases of the secr
 20. **A Clock That Runs on Emotion:** A small, Orbal clock that runs faster when people around it are happy and slower when they are sad. It is, therefore, a terrible time-keeping device.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Hollow-Walker
-(CR 1/4). Humanoid. HP 15, AC 10.
+
+## Bestiary
+### 1. Hollow-Walker (CR 1/4)
+(CR 1/4). Humanoid. **HP:** 15, **AC:** 10.
 **Abilities:**
 *   **Passive: Emotional Void:** Immune to being charmed or frightened. Any creature starting its turn within 10 feet of a Hollow-Walker feels a sense of profound apathy and has disadvantage on checks related to Charisma.
 *   **Action: Listless Shove:** Melee attack. +2 to hit, 1d4 bludgeoning damage. There is no malice in it.
 
-### 2. Emotion-Wraith
-(CR 3). Aberration. HP 55, AC 13.
+### 2. Emotion-Wraith (CR 3)
+(CR 3). Aberration. **HP:** 55, **AC:** 13.
 **Abilities:**
 *   **Passive: Incorporeal:** Can move through creatures and objects.
 *   **Action: Drain Feeling:** The wraith touches a creature. The target must make a CHA save or take 2d8 psychic damage and be unable to experience a specific emotion (e.g., joy, anger, fear) for 1 hour.
 
-### 3. Rogue Orbal Gear
-(CR 2). Construct. HP 40, AC 16.
+### 3. Rogue Orbal Gear (CR 2)
+(CR 2). Construct. **HP:** 40, **AC:** 16.
 **Abilities:**
 *   **Passive: Overcharged:** The gear sheds dim light and deals 1d4 lightning damage to any creature that touches it or hits it with a melee attack.
 *   **Action: Grinding Assault:** The gear moves up to its speed in a straight line. Any creature it moves through must make a DEX save, taking 3d6 slashing damage on a failure.
 
-### 4. Chromatic Cantor Acolyte
-(CR 4). Humanoid (Bard). HP 60, AC 14.
+### 4. Chromatic Cantor Acolyte (CR 4)
+(CR 4). Humanoid (Bard). **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Inspiring Colors:** The acolyte is surrounded by a swirl of magical colors. Allies within 10 feet gain +1 to attack rolls.
 *   **Action: Riot-Song:** The acolyte sings a powerful, angry song. All creatures within 30 feet who can hear it must make a WIS save or be forced to use their reaction to make a single melee attack against the nearest creature.
 
-### 5. Septian Church Knight
-(CR 5). Humanoid (Paladin). HP 85, AC 18.
+### 5. Septian Church Knight (CR 5)
+(CR 5). Humanoid (Paladin). **HP:** 85, **AC:** 18.
 **Abilities:**
 *   **Passive: Aura of Faith:** The knight and all allies within 10 feet have advantage on saves against spells.
 *   **Action: Smite Heretic:** The knight makes a melee attack. On a hit, it deals an extra 2d8 radiant damage. If the target is using Orbal technology, it deals an extra 3d8 radiant damage.
 
-### 6. Ouroboros Enforcer
-(CR 8). Humanoid (Fighter/Mage). HP 120, AC 17.
+### 6. Ouroboros Enforcer (CR 8)
+(CR 8). Humanoid (Fighter/Mage). **HP:** 120, **AC:** 17.
 **Abilities:**
 *   **Passive: Forbidden Knowledge:** The enforcer has resistance to a common damage type (slashing, piercing, fire).
 *   **Action: Multi-attack:** The enforcer makes two attacks with its weapon and casts one cantrip.
 
-### 7. Jaeger Mercenary
-(CR 6). Humanoid (Fighter). HP 100, AC 16.
+### 7. Jaeger Mercenary (CR 6)
+(CR 6). Humanoid (Fighter). **HP:** 100, **AC:** 16.
 **Abilities:**
 *   **Passive: Professional:** The Jaeger cannot be surprised and has advantage on initiative rolls.
 *   **Action: Coordinated Assault:** The Jaeger makes a weapon attack. If the attack hits, the next attack made against the same target by one of the Jaeger's allies has advantage.
 
-### 8. The Apathy-Plague
-(CR 7). Ooze. HP 110, AC 7.
+### 8. The Apathy-Plague (CR 7)
+(CR 7). Ooze. **HP:** 110, **AC:** 7.
 **Abilities:**
 *   **Passive: Grey Wave:** The area around the ooze is difficult terrain as the very ground loses its will to exist.
 *   **Action: Engulf in Nothingness:** The ooze attempts to engulf a creature. The target must make a DEX save. On a failure, they are engulfed and restrained. At the start of each of their turns, they must make a CHA save or lose one of their personality traits, ideals, bonds, or flaws.
 
-### 9. A "Hollow"
-(CR 10). Aberration. HP 145, AC 15.
+### 9. A "Hollow" (CR 10)
+(CR 10). Aberration. **HP:** 145, **AC:** 15.
 **Abilities:**
 *   **Passive: Emotional Vacuum:** The area within 60 feet of the Hollow is a temporary Hollow Zone. All creatures in the area are immune to being charmed or frightened, but they also cannot gain inspiration or be healed by spells that rely on positive emotion.
 *   **Action: Consume Soul:** The Hollow targets a creature it can see. The target must make a high DC Charisma saving throw. On a failure, they take 10d10 psychic damage and their Charisma score is permanently reduced by 1d4.
 
-### 10. Sentient Masterpiece
-(CR 9). Construct. HP 130, AC 12.
+### 10. Sentient Masterpiece (CR 9)
+(CR 9). Construct. **HP:** 130, **AC:** 12.
 **Abilities:**
 *   **Passive: Aura of Beauty:** Any creature that tries to attack the Masterpiece must first make a WIS save. On a failure, they cannot bring themselves to deface such a beautiful object and must choose a new target.
 *   **Action: Inspire Fanaticism:** The Masterpiece reveals its full glory. All creatures who can see it must make a WIS save or be charmed by it for 1 hour, willing to die to protect it.

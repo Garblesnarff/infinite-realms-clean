@@ -115,20 +115,22 @@ An ancient worship site where Mothra's egg is kept.
 **Mechanics:** Can be used to cast *Chain Lightning* once per day. **Curse:** The user begins to hear the 'Three-Part Disharmony' and suffers disadvantage on Wisdom saves.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Monarch Security (Heavy)
-(CR 3). Humanoid. HP 45, AC 16.
+
+## Bestiary
+### 1. Monarch Security (Heavy) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 16.
 **Abilities:**
 *   **Tactical Shield:** The guard can use a reaction to gain +4 AC against a single attack.
 *   **Stun Baton:** Melee attack. 1d8+3 damage + Target is stunned for 1 round (DC 13 CON save).
 
-### 2. Titan Larvae (Small)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Titan Larvae (Small) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Silk Web:** Ranged attack. Target is restrained (DC 14 DEX save).
 *   **Subsonic Chirp:** Any creature within 30 feet has disadvantage on concentration checks.
 
-### 3. 'The False King' Ghidorah (Proxy)
-(CR 20). Celestial/Aberration. HP 400, AC 22.
+### 3. 'The False King' Ghidorah (Proxy) (CR 20)
+(CR 20). Celestial/Aberration. **HP:** 400, **AC:** 22.
 **Abilities:**
 *   **Gravity Beams:** Ranged attack (3 targets). 10d10 lightning damage.
 *   **Storm Aura:** The area within 100 feet of Ghidorah is under the effect of a *Control Weather* spell (Hurricane).

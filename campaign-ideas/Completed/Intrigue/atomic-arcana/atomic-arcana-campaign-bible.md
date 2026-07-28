@@ -115,20 +115,22 @@ A clinical, white space where 'The Truth' is extracted through interrogation.
 **Mechanics:** Grants the wearer resistance to all forms of cold and psychic damage. Once per day, the wearer can 'Stabilize' their own mental state for 1 hour.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. KGB Assassin (Brutal)
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. KGB Assassin (Brutal) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Brutal Realism:** The assassin has advantage on attacks if they use an improvised weapon (e.g., a chair, a pipe).
 *   **Exhaustion Strike:** Melee attack. 1d10+4 damage + Target takes 1 level of exhaustion (DC 13 CON save).
 
-### 2. Stasi Watcher (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Stasi Watcher (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Neon Reflect Aura:** Any enemy within 30 feet has disadvantage on Stealth checks.
 *   **Watching Eye:** Ranged attack (Psychic). 2d10 damage + Target's location is revealed to all Stasi for 1 hour.
 
-### 3. 'The Sociopath' Percival (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Sociopath' Percival (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Capitalist Brightness Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be charmed by Percival's charming sociopathy.
 *   **The Final Defection:** Once per combat, Percival can force an enemy to switch sides for 1 round.

@@ -115,20 +115,22 @@ A vibrant green and gold monument to luxury and sophisticated diplomacy.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Holy War' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Templar Radical (Elite)
-(CR 5). Humanoid. HP 80, AC 16 (Heavy Chainmail).
+
+## Bestiary
+### 1. Templar Radical (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16 (Heavy Chainmail).
 **Abilities:**
 *   **Religious Madness Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Cross Strike:** Melee attack. 2d10+4 damage + Target is paralyzed for 1 round (DC 14 CON save).
 
-### 2. Mamluk Horseman (Standard)
-(CR 2). Humanoid. HP 30, AC 15 (Silk Armor).
+### 2. Mamluk Horseman (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 15 (Silk Armor).
 **Abilities:**
 *   **Crescent Charge:** The horseman has advantage on attacks if they have moved at least 30 feet this turn.
 *   **Scimitar Slash:** Melee attack. 1d8+3 damage.
 
-### 3. 'The Mastermind' Saladin (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Saladin (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Crescent Harmony Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Saladin's 'Code of Chivalry.'
 *   **The Final Choice:** Once per combat, Saladin can force an enemy to choose between saving an ally and achieving the mission objective.

@@ -320,16 +320,29 @@ The realms are rotting because the cycle of life and death has been arrested by 
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
+## Bestiary
+### 1. Draugr (Medium Undead) (CR 2)
+- CR 2. **HP:** 30. **AC:** 13. **Ability:** *Explosive Rage* (Bursts into fire at low HP).
+
 1.  **Draugr (Medium Undead)** - CR 2. HP: 30. AC: 13. **Ability:** *Explosive Rage* (Bursts into fire at low HP).
-2.  **Fire Troll (Huge Giant)** - CR 8. HP: 150. AC: 16. **Ability:** *Pillar Smash* (Creates shockwave). *Lava Vomit*.
-3.  **Revenant (Medium Spirit)** - CR 5. HP: 45. AC: 18 (Dodge). **Ability:** *Phase Shift* (Immune to non-stun attacks). *Poison Spray*.
-4.  **Dark Elf Lord (Medium Fey)** - CR 6. HP: 80. AC: 17. **Ability:** *Blindness Bombs* (Darkness AOE). *Flight*.
-5.  **Ogre (Large Giant)** - CR 7. HP: 120. AC: 14. **Ability:** *Mountable* (Can be ridden by Kratos to smash others).
-6.  **Wulver (Medium Beast)** - CR 4. HP: 60. AC: 15. **Ability:** *Frenzy* (Attacks twice as fast at 50% HP).
-7.  **Soul Eater (Large Elemental)** - CR 9. HP: 200. AC: 20 (Armored). **Ability:** *Chest Beam* (Opens chest to fire energy, exposes weak point).
-8.  **Tatzelwurm (Medium Beast)** - CR 3. HP: 40. AC: 14. **Ability:** *Burrow* (Underground attack).
-9.  **Traveler (Medium Humanoid)** - CR 10. HP: 180. AC: 22 (Plate). **Ability:** *Unblockable Overhead* (One-shot mechanic).
-10. **Nightmare (Tiny Aberration)** - CR 1. HP: 10. AC: 12. **Ability:** *Possession* (Buffs other enemies).
+### 2. Fire Troll (Huge Giant) (CR 8)
+- CR 8. **HP:** 150. **AC:** 16. **Ability:** *Pillar Smash* (Creates shockwave). *Lava Vomit*.
+### 3. Revenant (Medium Spirit) (CR 5)
+- CR 5. **HP:** 45. **AC:** 18 (Dodge). **Ability:** *Phase Shift* (Immune to non-stun attacks). *Poison Spray*.
+### 4. Dark Elf Lord (Medium Fey) (CR 6)
+- CR 6. **HP:** 80. **AC:** 17. **Ability:** *Blindness Bombs* (Darkness AOE). *Flight*.
+### 5. Ogre (Large Giant) (CR 7)
+- CR 7. **HP:** 120. **AC:** 14. **Ability:** *Mountable* (Can be ridden by Kratos to smash others).
+### 6. Wulver (Medium Beast) (CR 4)
+- CR 4. **HP:** 60. **AC:** 15. **Ability:** *Frenzy* (Attacks twice as fast at 50% HP).
+### 7. Soul Eater (Large Elemental) (CR 9)
+- CR 9. **HP:** 200. **AC:** 20 (Armored). **Ability:** *Chest Beam* (Opens chest to fire energy, exposes weak point).
+### 8. Tatzelwurm (Medium Beast) (CR 3)
+- CR 3. **HP:** 40. **AC:** 14. **Ability:** *Burrow* (Underground attack).
+### 9. Traveler (Medium Humanoid) (CR 10)
+- CR 10. **HP:** 180. **AC:** 22 (Plate). **Ability:** *Unblockable Overhead* (One-shot mechanic).
+### 10. Nightmare (Tiny Aberration) (CR 1)
+- CR 1. **HP:** 10. **AC:** 12. **Ability:** *Possession* (Buffs other enemies).
 
 [TAG: ENCOUNTER_TABLE]
 **Wilderness (d20):**

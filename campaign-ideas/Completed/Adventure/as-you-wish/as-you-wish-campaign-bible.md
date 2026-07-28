@@ -117,20 +117,22 @@ A site of 'Whimsical Healing' and desaturated pastels.
 **Mechanics:** Grants the user the ability to 'Heal' a Mostly Dead creature to full HP. Once per day, the user can 'Silence' a villain's speech for 1 round.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Brute Squad Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. Brute Squad Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Ordered Discipline:** The guard has advantage on attacks if they have an ally within 5 feet.
 *   **Club Strike:** Melee attack. 1d8+3 damage.
 
-### 2. R.O.U.S. (Swarm)
-(CR 5). Monstrosity. HP 80, AC 14.
+### 2. R.O.U.S. (Swarm) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 14.
 **Abilities:**
 *   **Swamp Blur:** The swarm has disadvantage on being hit if they are in the Fire Swamp.
 *   **Vicious Bite:** Melee attack. 2d10 damage + Target is grappled.
 
-### 3. 'The Strategist' Humperdinck (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Strategist' Humperdinck (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Efficiency Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Prince's 'Rule of Law.'
 *   **The Final Move:** Once per combat, Humperdinck can force an enemy to take an action that serves the stability of Florin.

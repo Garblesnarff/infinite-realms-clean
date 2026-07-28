@@ -115,8 +115,10 @@ A heartbreaking, desaturated memory of a happy home.
 **Mechanics:** Allows the user to enter any compartment without making a check and grants advantage on all Intelligence (Investigation) checks inside the train.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. The Shadow in the Corridor
-(CR 2). Humanoid (Suspect). HP 30, AC 14.
+
+## Bestiary
+### 1. The Shadow in the Corridor (CR 2)
+(CR 2). Humanoid (Suspect). **HP:** 30, **AC:** 14.
 **Abilities:**
 *   **Distraction:** The shadow can use a reaction to impose disadvantage on a Perception check.
 *   **Quiet Footsteps:** The shadow has advantage on Stealth checks in the train corridor.
@@ -127,8 +129,8 @@ A heartbreaking, desaturated memory of a happy home.
 *   **Isolating Cold:** Any creature outside the train for more than 1 minute takes 1d10 cold damage per round.
 *   **Whiteout:** Perception checks based on sight have disadvantage beyond 5 feet.
 
-### 3. 'The Executioner' (Collective)
-(CR 8). Humanoid (Twelve Suspects). HP 150, AC 16.
+### 3. 'The Executioner' (Collective) (CR 8)
+(CR 8). Humanoid (Twelve Suspects). **HP:** 150, **AC:** 16.
 **Abilities:**
 *   **Shared Burden:** The executioner is immune to being charmed or frightened as long as all twelve members are present.
 *   **Twelve Strikes:** Melee attack. 12d4 piercing damage (only if the target is paralyzed or restrained).

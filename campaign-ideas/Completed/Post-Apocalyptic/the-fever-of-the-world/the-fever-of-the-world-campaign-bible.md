@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Fever' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sanctuary Drone (Standard)
-(CR 2). Construct. HP 30, AC 13 (Cooling patches).
+
+## Bestiary
+### 1. Sanctuary Drone (Standard) (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13 (Cooling patches).
 **Abilities:**
 *   **Artificial Calm:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Cold-Extraction Pulse:** Ranged attack. 2d8 psychic damage + Target's Temperature-Energy is reduced.
 
-### 2. Fever Archon (Elite)
-(CR 5). Elemental. HP 80, AC 15.
+### 2. Fever Archon (Elite) (CR 5)
+(CR 5). Elemental. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Rage Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Fever (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Fever (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Visible Rage Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the planet's 'Balance Directive.'
 *   **The Final Move:** Once per combat, the Fever can force an enemy to take an action that serves the stability of the infection.

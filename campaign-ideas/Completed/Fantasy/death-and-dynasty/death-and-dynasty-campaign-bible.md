@@ -114,20 +114,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Excommunicado' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sanctuary Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Silk armor).
+
+## Bestiary
+### 1. Sanctuary Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Silk armor).
 **Abilities:**
 *   **Polite Neutrality:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Nightstick Strike:** Melee attack. 1d8+3 damage + Target is knocked prone.
 
-### 2. High Table Adjudicator (Elite)
-(CR 8). Humanoid. HP 150, AC 18.
+### 2. High Table Adjudicator (Elite) (CR 8)
+(CR 8). Humanoid. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Sovereign Authority Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Rule of Law:** Once per combat, the adjudicator can force an enemy to take a reaction that reveals their own darkest secret.
 
-### 3. 'The Mastermind' Elder (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Elder (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Pact Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Master's 'Archaic Script.'
 *   **The Final Move:** Once per combat, the Mastermind can force an enemy to take an action that serves his own glory.

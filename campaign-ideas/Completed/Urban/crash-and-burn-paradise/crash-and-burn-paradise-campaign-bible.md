@@ -116,19 +116,21 @@ A gothic monument to the city's history of destruction.
 **Mechanics:** Makes the wearer immune to damage from their first crash in any session and grants advantage on Charisma (Intimidation) checks.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Syndicate Racer (Elite)
-(CR 2). Humanoid. HP 30, AC 14.
+
+## Bestiary
+### 1. Syndicate Racer (Elite) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 14.
 **Abilities:**
 *   **Precision Racing:** The racer has advantage on all DEX (Vehicular) checks.
 *   **Elite Boost:** Once per race, the racer can double its speed for 1 round.
 
-### 2. Burnout Underground Thug
-(CR 1/2). Humanoid. HP 15, AC 12.
+### 2. Burnout Underground Thug (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Dirty Takedown:** If the thug has advantage, they can attempt a takedown that deals an extra 2d6 damage to the rival car.
 
-### 3. Paradise PD Interceptor
-(CR 5). Construct (Vehicle). HP 100, AC 16.
+### 3. Paradise PD Interceptor (CR 5)
+(CR 5). Construct (Vehicle). **HP:** 100, **AC:** 16.
 **Abilities:**
 *   **Ramming Speed:** Melee attack. 4d10+10 damage.
 *   **Leadfoot Aura:** Any racer within 100 feet of the interceptor has disadvantage on saves against being takendown.

@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Gruber Mercenary (Professional)
-(CR 3). Humanoid. HP 45, AC 15 (Tactical Armor).
+
+## Bestiary
+### 1. Gruber Mercenary (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15 (Tactical Armor).
 **Abilities:**
 *   **Ordered Discipline:** The soldier has advantage on attacks if they have an ally within 10 feet.
 *   **Crossbow Shot:** Ranged attack. 2d8+4 damage.
 
-### 2. Guard Ghost (Elite)
-(CR 5). Undead. HP 80, AC 15.
+### 2. Guard Ghost (Elite) (CR 5)
+(CR 5). Undead. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Radio Static Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Gruber (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Gruber (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Order of Progress Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Warlord's 'Grand Design.'
 *   **The Final Move:** Once per combat, Gruber can force an enemy to take an action that serves his own glory.

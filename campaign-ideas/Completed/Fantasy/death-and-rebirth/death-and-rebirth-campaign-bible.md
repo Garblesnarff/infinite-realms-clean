@@ -116,20 +116,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Wound' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Eternal Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Silk armor).
+
+## Bestiary
+### 1. Eternal Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Silk armor).
 **Abilities:**
 *   **Frozen Perfection:** Any enemy within 10 feet has disadvantage on attack rolls.
 *   **Hollow Strike:** Melee attack. 1d8+3 damage + Target takes 1d6 psychic damage.
 
-### 2. Judgment Archon (Elite)
-(CR 5). Celestial. HP 80, AC 15.
+### 2. Judgment Archon (Elite) (CR 5)
+(CR 5). Celestial. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Fair Evaluation Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Radiant Blast:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Eternal (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Eternal (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Immortal Emptiness Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the leader's 'Grand Design.'
 *   **The Final Move:** Once per combat, the Mastermind can force an enemy to take an action that serves his own glory.

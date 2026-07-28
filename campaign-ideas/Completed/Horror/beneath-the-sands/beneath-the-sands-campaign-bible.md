@@ -115,20 +115,22 @@ A humble white and brown monument to spiritual silence and asylum status.
 **Mechanics:** Grants the user the ability to move across any surface without making a sound or a ripple. The user can 'Freeze' a seismic sensor for 1 round.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sandwyrm (Serpentine)
-(CR 3). Monstrosity. HP 45, AC 14.
+
+## Bestiary
+### 1. Sandwyrm (Serpentine) (CR 3)
+(CR 3). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Seismic Tracking:** The wyrm has advantage on attacks if the target moved at least 10 feet this turn.
 *   **Eruption Strike:** Melee attack. 2d8+4 damage + Target is grappled (DC 14 DEX save).
 
-### 2. Wyrm Stalker (Evolved)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Wyrm Stalker (Evolved) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Natural Camouflage:** Any enemy within 30 feet has disadvantage on Perception checks to see the stalker.
 *   **Acid Spit:** Ranged attack. 2d10 acid damage in a 15ft cone.
 
-### 3. 'The Master' Behemoth (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Master' Behemoth (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Primal Fear Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the sound of the wyrm's rumble.
 *   **The Final Ripple:** Once per combat, the behemoth can force all creatures within 100 feet to re-roll their initiative.

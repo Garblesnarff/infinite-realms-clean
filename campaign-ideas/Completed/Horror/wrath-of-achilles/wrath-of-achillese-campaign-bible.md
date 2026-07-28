@@ -307,16 +307,29 @@ The Bronze Age is ending because the barrier between the Divine and the Mortal i
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
+## Bestiary
+### 1. Myrmidon Elite (CR 5)
+(CR 5) - **HP:** 60, **AC:** 18 (Bronze Plate). *Ability:* "Hive Tactics" (Advantage if adjacent to ally). *Action:* "Ant Bite" (Spear thrust that pins target).
+
 1.  **Myrmidon Elite** (CR 5) - HP: 60, AC: 18 (Bronze Plate). *Ability:* "Hive Tactics" (Advantage if adjacent to ally). *Action:* "Ant Bite" (Spear thrust that pins target).
-2.  **Trojan Prince** (CR 6) - HP: 75, AC: 17. *Ability:* "Royal Arrogance" (Immune to Fear). *Action:* "Duelist's Challenge" (Compels single combat).
-3.  **River Elemental (Scamander)** (CR 8) - HP: 100, AC: 14. *Ability:* "Liquid Form" (Resistance to non-magical). *Action:* "Drown" (Engulfs target, suffocation).
-4.  **Apollo's Plague Arrow** (CR 3) - HP: 1 (High AC 22). *Ability:* "Living Projectile" (Flies autonomously). *Action:* "Touch of Fever" (Necrotic damage + Poisoned condition).
-5.  **Automaton Hound** (CR 4) - HP: 50, AC: 19 (Metal). *Ability:* "Heat Vision". *Action:* "Jaw Lock" (Grapples and burns).
-6.  **Blood-Drunk Shade** (CR 2) - HP: 20, AC: 12. *Ability:* "Incorporeal". *Action:* "Memory Drain" (Reduces target's INT temporarily).
-7.  **Amazon Skirmisher** (CR 4) - HP: 45, AC: 15. *Ability:* "Mobility" (Dash as bonus action). *Action:* "Axe Whirl" (Hits all adjacent enemies).
-8.  **Chariot Team** (CR 5) - HP: 80, AC: 16. *Ability:* "Trample". *Action:* "Flyby Attack" (Attack without provoking opportunity attacks).
-9.  **Priest of Eris** (CR 3) - HP: 30, AC: 11. *Ability:* "Aura of Discord" (Enemies within 10ft must roll to attack random targets). *Action:* "Sow Chaos" (spell).
-10. **Giant Trojan Scorpion** (CR 4) - HP: 55, AC: 16. *Ability:* "Sand Camouflage". *Action:* "Sting" (Paralysis poison).
+### 2. Trojan Prince (CR 6)
+(CR 6) - **HP:** 75, **AC:** 17. *Ability:* "Royal Arrogance" (Immune to Fear). *Action:* "Duelist's Challenge" (Compels single combat).
+### 3. River Elemental (Scamander) (CR 8)
+(CR 8) - **HP:** 100, **AC:** 14. *Ability:* "Liquid Form" (Resistance to non-magical). *Action:* "Drown" (Engulfs target, suffocation).
+### 4. Apollo's Plague Arrow (CR 3)
+(CR 3) - **HP:** 1 (High **AC:** 22). *Ability:* "Living Projectile" (Flies autonomously). *Action:* "Touch of Fever" (Necrotic damage + Poisoned condition).
+### 5. Automaton Hound (CR 4)
+(CR 4) - **HP:** 50, **AC:** 19 (Metal). *Ability:* "Heat Vision". *Action:* "Jaw Lock" (Grapples and burns).
+### 6. Blood-Drunk Shade (CR 2)
+(CR 2) - **HP:** 20, **AC:** 12. *Ability:* "Incorporeal". *Action:* "Memory Drain" (Reduces target's INT temporarily).
+### 7. Amazon Skirmisher (CR 4)
+(CR 4) - **HP:** 45, **AC:** 15. *Ability:* "Mobility" (Dash as bonus action). *Action:* "Axe Whirl" (Hits all adjacent enemies).
+### 8. Chariot Team (CR 5)
+(CR 5) - **HP:** 80, **AC:** 16. *Ability:* "Trample". *Action:* "Flyby Attack" (Attack without provoking opportunity attacks).
+### 9. Priest of Eris (CR 3)
+(CR 3) - **HP:** 30, **AC:** 11. *Ability:* "Aura of Discord" (Enemies within 10ft must roll to attack random targets). *Action:* "Sow Chaos" (spell).
+### 10. Giant Trojan Scorpion (CR 4)
+(CR 4) - **HP:** 55, **AC:** 16. *Ability:* "Sand Camouflage". *Action:* "Sting" (Paralysis poison).
 
 [TAG: ENCOUNTER_TABLE]
 

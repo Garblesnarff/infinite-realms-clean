@@ -115,20 +115,22 @@ A site of 'Tense Investigations' and breathtaking vistas.
 **Mechanics:** Grants the user the ability to 'Heal' a vampire's essence by 50 HP. Once per day, the user can create a 30ft 'Fog Wall' that blinds all enemies.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Vampire Spawn (Fledgling)
-(CR 3). Undead. HP 45, AC 14.
+
+## Bestiary
+### 1. Vampire Spawn (Fledgling) (CR 3)
+(CR 3). Undead. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Predatory Grace:** The spawn has advantage on attacks if they have moved at least 30 feet this turn.
 *   **Charming Gaze:** Ranged attack (Psychic). 2d8 damage + Target is charmed for 1 round (DC 13 WIS save).
 
-### 2. Hunter Knight (Order)
-(CR 5). Humanoid. HP 80, AC 16.
+### 2. Hunter Knight (Order) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Religious Passion Aura:** Any enemy within 30 feet takes 1d10 radiant damage at the start of their turn.
 *   **Stake Strike:** Melee attack. 2d10 damage + Target is paralyzed for 1 round (DC 14 CON save).
 
-### 3. 'The Professor' Van Helsing (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Professor' Van Helsing (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Arcane Biology Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Van Helsing's 'Science of Faith.'
 *   **The Final Sunrise:** Once per combat, Van Helsing can force an enemy to take an action that reveals their own darkest secret.

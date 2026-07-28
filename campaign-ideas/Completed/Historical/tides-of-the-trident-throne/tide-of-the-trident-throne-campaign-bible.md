@@ -309,16 +309,29 @@ The conflict is not just political; it is a battle for the **Hydro-Soul**. Water
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
+## Bestiary
+### 1. Abyssal Leech (CR 2)
+(CR 2). **HP:** 45, **AC:** 12. **Ability:** *Blood Drain* (Grappled target loses 1d6 HP/turn, Leech heals same).
+
 1.  **Abyssal Leech** (CR 2). HP 45, AC 12. **Ability:** *Blood Drain* (Grappled target loses 1d6 HP/turn, Leech heals same).
-2.  **Coral Golem** (CR 5). HP 90, AC 16. **Ability:** *Regeneration* (Heals 10 HP if in water). **Action:** *Shard Spray* (Cone of slashing damage).
-3.  **Void Shark** (CR 8). HP 120, AC 14. **Ability:** *Phase Shift* (Can move through solid walls). **Action:** *Bite of Nothingness* (Necrotic damage).
-4.  **Sahuagin Baron (Mutated)** (CR 6). HP 80, AC 15. **Ability:** *Four Arms* (4 attacks per round).
-5.  **Kelp Strangler** (CR 3). HP 50, AC 11. **Passive:** *False Appearance* (Looks like seaweed). **Action:** *Entangle*.
-6.  **Magma Turtle** (CR 7). HP 150, AC 20. **Passive:** *Heated Body* (Melee attackers take fire damage).
-7.  **Siren Banshee** (CR 4). HP 40, AC 13. **Action:** *Sonic Scream* (Stun).
-8.  **Crystal Crab** (CR 2). HP 30, AC 18. **Passive:** *Reflective Shell* (Spells have 10% chance to bounce back).
-9.  **Deep Angler** (CR 9). HP 180, AC 12. **Ability:** *Hypnotic Lure* (Wisdom save or swim toward mouth).
-10. **Kraken Spawn** (CR 10). HP 200, AC 16. **Action:** *Tentacle Slam* (Reach 15ft, grapple).
+### 2. Coral Golem (CR 5)
+(CR 5). **HP:** 90, **AC:** 16. **Ability:** *Regeneration* (Heals 10 HP if in water). **Action:** *Shard Spray* (Cone of slashing damage).
+### 3. Void Shark (CR 8)
+(CR 8). **HP:** 120, **AC:** 14. **Ability:** *Phase Shift* (Can move through solid walls). **Action:** *Bite of Nothingness* (Necrotic damage).
+### 4. Sahuagin Baron (Mutated) (CR 6)
+(CR 6). **HP:** 80, **AC:** 15. **Ability:** *Four Arms* (4 attacks per round).
+### 5. Kelp Strangler (CR 3)
+(CR 3). **HP:** 50, **AC:** 11. **Passive:** *False Appearance* (Looks like seaweed). **Action:** *Entangle*.
+### 6. Magma Turtle (CR 7)
+(CR 7). **HP:** 150, **AC:** 20. **Passive:** *Heated Body* (Melee attackers take fire damage).
+### 7. Siren Banshee (CR 4)
+(CR 4). **HP:** 40, **AC:** 13. **Action:** *Sonic Scream* (Stun).
+### 8. Crystal Crab (CR 2)
+(CR 2). **HP:** 30, **AC:** 18. **Passive:** *Reflective Shell* (Spells have 10% chance to bounce back).
+### 9. Deep Angler (CR 9)
+(CR 9). **HP:** 180, **AC:** 12. **Ability:** *Hypnotic Lure* (Wisdom save or swim toward mouth).
+### 10. Kraken Spawn (CR 10)
+(CR 10). **HP:** 200, **AC:** 16. **Action:** *Tentacle Slam* (Reach 15ft, grapple).
 
 [TAG: ENCOUNTER_TABLE]
 

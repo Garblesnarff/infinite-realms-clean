@@ -116,20 +116,22 @@ A grittier, mysterious sector where the shifty witnesses hide.
 **Mechanics:** Allows the user to see the 'Psych-Locks' protecting a secret. Each lock can be broken by presenting the correct piece of evidence.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Shifty Witness (Larry)
-(CR 1/2). Humanoid. HP 15, AC 11.
+
+## Bestiary
+### 1. Shifty Witness (Larry) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 11.
 **Abilities:**
 *   **Comical Panic:** The witness has disadvantage on all checks, but any attack made against him has disadvantage due to his erratic movement.
 *   **Accidental Truth:** If the witness fails a check, he accidentally reveals a helpful clue.
 
-### 2. Arcane Prosecutor (Elite)
-(CR 5). Humanoid (Lawyer). HP 80, AC 16.
+### 2. Arcane Prosecutor (Elite) (CR 5)
+(CR 5). Humanoid (Lawyer). **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Theatrical Patter:** Ranged attack (Psychic). 2d10+4 damage + Target is charmed for 1 round (DC 14 WIS save).
 *   **Overwhelming Evidence:** The prosecutor has advantage on attacks if they have presented a piece of evidence this turn.
 
-### 3. 'The Phantom' (Elite Leader)
-(CR 12). Humanoid (Illusionist). HP 180, AC 18.
+### 3. 'The Phantom' (Elite Leader) (CR 12)
+(CR 12). Humanoid (Illusionist). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Truth-Illusion:** The Phantom can create a perfect copy of any piece of evidence that appears real even under magical scrutiny.
 *   **Memory-Wipe:** Once per combat, the Phantom can force all creatures within 60 feet to re-roll their initiative.

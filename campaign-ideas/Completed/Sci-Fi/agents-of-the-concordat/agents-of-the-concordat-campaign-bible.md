@@ -115,20 +115,22 @@ A deep-blue water sphere with floating cities and bioluminescent reefs.
 **Mechanics:** Can be used to reflect any energy-based attack back at the attacker (DC 15 DEX save).
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Purist Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 14.
+
+## Bestiary
+### 1. Purist Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 14.
 **Abilities:**
 *   **Null-Strike:** Melee attack. 1d8+3 damage + Target cannot use magical abilities for 1 round (DC 13 WIS save).
 *   **Order Aura:** Any ally within 10 feet has advantage on saves against being charmed.
 
-### 2. Probability Thrall (Corrupted)
-(CR 5). Monstrosity. HP 70, AC 15.
+### 2. Probability Thrall (Corrupted) (CR 5)
+(CR 5). Monstrosity. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Flicker Shift:** The thrall can move up to 30 feet as a bonus action, becoming invisible during the movement.
 *   **Chaos Touch:** Melee attack. 2d10 psychic damage + Target is confused for 1 round (DC 14 INT save).
 
-### 3. Architect Sentinel (Elite)
-(CR 10). Construct. HP 150, AC 18.
+### 3. Architect Sentinel (Elite) (CR 10)
+(CR 10). Construct. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Geometric Blast:** Ranged attack. 4d10 radiant damage in a 15ft cube.
 *   **Reality Reset:** Once per combat, the Sentinel can force all creatures within 60 feet to re-roll their initiative.

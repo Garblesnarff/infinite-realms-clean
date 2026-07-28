@@ -116,20 +116,22 @@ The swirling, rainbow-colored void between the spheres.
 **Mechanics:** The wearer can use an action to gain a fly speed of 60ft for 1 hour. While flying, they project a 10ft aura of sunlight.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Space Pirate (Human)
-(CR 1/2). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Space Pirate (Human) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Boarding Action:** The pirate has advantage on attacks if they are within 5 feet of a ship's edge.
 *   **Dirty Cutlass:** Melee attack. 1d6+2 damage.
 
-### 2. Giff Mercenary (Heavy)
-(CR 3). Humanoid. HP 50, AC 14.
+### 2. Giff Mercenary (Heavy) (CR 3)
+(CR 3). Humanoid. **HP:** 50, **AC:** 14.
 **Abilities:**
 *   **Musket Shot:** Ranged attack. 2d10+4 damage.
 *   **Headbutt:** Melee attack. 1d8+4 damage + Target is knocked prone (DC 14 STR).
 
-### 3. Neogi Master (Elite)
-(CR 6). Fiend. HP 90, AC 16.
+### 3. Neogi Master (Elite) (CR 6)
+(CR 6). Fiend. **HP:** 90, **AC:** 16.
 **Abilities:**
 *   **Mind Control:** Once per combat, the Master can force an enemy to succeed on a DC 15 Wisdom save or be charmed for 1 minute.
 *   **Spider Climb:** The Neogi can move across vertical surfaces and ceilings without making a check.

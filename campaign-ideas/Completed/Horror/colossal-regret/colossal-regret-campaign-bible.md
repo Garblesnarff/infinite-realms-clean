@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Regret' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Seoul First Responder (Standard)
-(CR 1). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Seoul First Responder (Standard) (CR 1)
+(CR 1). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **News Footage Aesthetic:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Rescue Strike:** Melee attack. 1d8+2 damage.
 
-### 2. NIS Inquisitor (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. NIS Inquisitor (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Institutional Gray Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Containment Field:** Ranged attack (Psychic). 2d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Oscar (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Oscar (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Gaslighting Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or believe a lie told by Oscar as if it were the truth.
 *   **The Final Move:** Once per combat, Oscar can force an enemy to take a reaction that reveals their own darkest secret.

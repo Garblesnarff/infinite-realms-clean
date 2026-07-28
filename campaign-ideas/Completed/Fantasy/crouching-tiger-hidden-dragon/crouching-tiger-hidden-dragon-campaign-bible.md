@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Taboo' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Desert Outlaw (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Weathered Leather).
+
+## Bestiary
+### 1. Desert Outlaw (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Weathered Leather).
 **Abilities:**
 *   **Desert Stealth:** The outlaw has advantage on attacks if they are in a sand-dune hex.
 *   **Scimitar Slash:** Melee attack. 1d8+3 damage.
 
-### 2. Syndicate Master (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Syndicate Master (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Dangerous Beauty Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Poison Strike:** Melee attack. 2d10 damage + Target is poisoned for 1 round.
 
-### 3. 'The Mastermind' Jade Fox (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Jade Fox (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Pact Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the Queen's 'Archaic Script.'
 *   **The Final Move:** Once per combat, Jade Fox can force an enemy to take an action that serves her own glory.

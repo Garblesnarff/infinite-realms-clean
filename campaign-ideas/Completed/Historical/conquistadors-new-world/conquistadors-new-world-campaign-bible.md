@@ -115,20 +115,22 @@ A vast, open landscape of stone gray and royal gold.
 **Mechanics:** Allows the user to enter any magically or physically sealed room in the Inca Empire. Once per day, the user can create a 30ft 'Gold Wall' that blinds all enemies.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Jaguar Warrior (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+
+## Bestiary
+### 1. Jaguar Warrior (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Jungle Stealth:** The warrior has advantage on attacks if they are in dim light or jungle terrain.
 *   **Jade Bite:** Melee attack. 2d10+4 damage + Target is paralyzed for 1 round (DC 14 CON save).
 
-### 2. Spanish Soldier (Standard)
-(CR 2). Humanoid. HP 30, AC 15 (Steel Armor).
+### 2. Spanish Soldier (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 15 (Steel Armor).
 **Abilities:**
 *   **Ordered Discipline:** The soldier has advantage on attacks if they have an ally within 5 feet.
 *   **Musket Shot:** Ranged attack. 2d8+3 damage.
 
-### 3. 'The Mastermind' Cortés (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Cortés (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Word of Empire Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow Cortés's 'Order of Progress.'
 *   **The Final Unification:** Once per combat, Cortés can force an enemy to take an action that serves the glory of the Crown.

@@ -285,14 +285,25 @@ The conflict is between **Satja (Truth/Promise)** and **Maya (Illusion/Materiali
 ## **7. BESTIARY**
 `[TAG: ENEMY_STATBLOCK]`
 
+## Bestiary
+### 1. Street Thug (CR 1/2)
+(CR 1/2) - **HP:** 10, **AC:** 12. **Ability:** *Pack Tactics.*
+
 1.  **Street Thug** (CR 1/2) - HP: 10, AC: 12. **Ability:** *Pack Tactics.*
-2.  **Muay Thai Student** (CR 1) - HP: 20, AC: 14. **Ability:** *Low Kick* (Save or fall prone).
-3.  **Biker Gang Enforcer** (CR 2) - HP: 30, AC: 13 (Leather). **Ability:** *Chain Whip* (Reach).
-4.  **Soi Dog Alpha** (CR 1) - HP: 15, AC: 12. **Ability:** *Rabid Bite* (Disease risk).
-5.  **Underground Brawler** (CR 3) - HP: 45, AC: 15. **Ability:** *Haymaker* (High damage, low accuracy).
-6.  **Wire-Fu Assassin** (CR 4) - HP: 35, AC: 17. **Ability:** *Wall Run* (Can move continuously).
-7.  **Stim-Junkie** (CR 3) - HP: 60, AC: 10. **Ability:** *Feel No Pain* (Damage reduction).
-8.  **Komtuan’s Elite Guard** (CR 5) - HP: 50, AC: 16 (Tactical Vest). **Ability:** *Gun Kata* (Ranged attacks in melee without penalty).
+### 2. Muay Thai Student (CR 1)
+(CR 1) - **HP:** 20, **AC:** 14. **Ability:** *Low Kick* (Save or fall prone).
+### 3. Biker Gang Enforcer (CR 2)
+(CR 2) - **HP:** 30, **AC:** 13 (Leather). **Ability:** *Chain Whip* (Reach).
+### 4. Soi Dog Alpha (CR 1)
+(CR 1) - **HP:** 15, **AC:** 12. **Ability:** *Rabid Bite* (Disease risk).
+### 5. Underground Brawler (CR 3)
+(CR 3) - **HP:** 45, **AC:** 15. **Ability:** *Haymaker* (High damage, low accuracy).
+### 6. Wire-Fu Assassin (CR 4)
+(CR 4) - **HP:** 35, **AC:** 17. **Ability:** *Wall Run* (Can move continuously).
+### 7. Stim-Junkie (CR 3)
+(CR 3) - **HP:** 60, **AC:** 10. **Ability:** *Feel No Pain* (Damage reduction).
+### 8. Komtuan’s Elite Guard (CR 5)
+(CR 5) - **HP:** 50, **AC:** 16 (Tactical Vest). **Ability:** *Gun Kata* (Ranged attacks in melee without penalty).
 9.  **Mad Dog** (Boss) - HP: 150, AC: 18. **Abilities:** *Rage Serum*, *Furniture Smash*, *Unstoppable*.
 10. **The Shadow Spirit** (Rare/Weird) - HP: 10, AC: 20. **Ability:** *Silence* (Creates zone of silence).
 

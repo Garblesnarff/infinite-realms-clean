@@ -300,62 +300,64 @@ The far side of the pass, where the influence of Terminus, the God of Walls, is 
 20. **The Wind's Complaint:** A small, leather pouch that has "captured" the wind's complaint about a particularly annoying tree. It's just a lot of sighing.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sorrow-Wisp (Legend)
-(CR 2). Aberration. HP 40, AC 14.
+
+## Bestiary
+### 1. Sorrow-Wisp (Legend) (CR 2)
+(CR 2). Aberration. **HP:** 40, **AC:** 14.
 **Abilities:**
 *   **Passive: Aura of Melancholy:** Any creature starting its turn within 20 feet of the wisp has its speed halved from sheer sadness.
 *   **Action: Drain Hope:** The wisp touches a creature. The target must make a CHA save or lose one point of inspiration and all temporary hit points. The wisp heals for the amount of temp HP lost.
 
-### 2. Memory-Thief (Legend)
-(CR 4). Aberration. HP 65, AC 15.
+### 2. Memory-Thief (Legend) (CR 4)
+(CR 4). Aberration. **HP:** 65, **AC:** 15.
 **Abilities:**
 *   **Passive: Incorporeal:** Can move through creatures and objects.
 *   **Action: Steal a Memory:** The thief touches a creature. The target must make an INT save or forget a single, important fact (e.g., the location of the exit, the name of their friend) for 1 hour.
 
-### 3. Potential-Leech (Legend)
-(CR 6). Aberration. HP 90, AC 16.
+### 3. Potential-Leech (Legend) (CR 6)
+(CR 6). Aberration. **HP:** 90, **AC:** 16.
 **Abilities:**
 *   **Passive: Aura of Stagnation:** Creatures within 30 feet cannot use class features they have gained in the last three levels.
 *   **Action: Drain Future:** The leech drains the potential from a creature. The target must make a WIS save or be unable to land a critical hit or roll a natural 20 on any d20 roll for 24 hours.
 
-### 4. Wall-Servant
-(CR 3). Humanoid. HP 55, AC 15 (Chainmail).
+### 4. Wall-Servant (CR 3)
+(CR 3). Humanoid. **HP:** 55, **AC:** 15 (Chainmail).
 **Abilities:**
 *   **Passive: Immovable:** Has advantage on saves against being moved or knocked prone.
 *   **Action: Wall of Silence:** The servant creates a 10-foot square wall of magical silence that lasts for 1 minute.
 
-### 5. Echo-Ram
-(CR 5). Beast. HP 80, AC 16 (Natural Armor).
+### 5. Echo-Ram (CR 5)
+(CR 5). Beast. **HP:** 80, **AC:** 16 (Natural Armor).
 **Abilities:**
 *   **Passive: Echoing Charge:** If the ram moves at least 20 feet in a straight line, its charge attack deals an extra 2d6 sonic damage.
 *   **Action: Shattering Bleat:** The ram lets out a powerful bleat. All creatures within a 15-foot cone must make a CON save or be deafened and take 3d6 thunder damage.
 
-### 6. Glacier-Hound
-(CR 4). Elemental. HP 70, AC 14.
+### 6. Glacier-Hound (CR 4)
+(CR 4). Elemental. **HP:** 70, **AC:** 14.
 **Abilities:**
 *   **Passive: Icy Hide:** Any creature hitting the hound with a melee attack takes 1d6 cold damage.
 *   **Action: Freezing Bite:** Melee attack. On hit, target takes 2d8 piercing damage and 1d8 cold damage, and its speed is reduced by 10 feet until its next turn.
 
-### 7. Story-Golem
-(CR 8). Construct. HP 120, AC 17.
+### 7. Story-Golem (CR 8)
+(CR 8). Construct. **HP:** 120, **AC:** 17.
 **Abilities:**
 *   **Passive: Shifting Narrative:** At the start of each of its turns, the golem's story changes. It gains resistance to a new damage type.
 *   **Action: A Hero's Tale:** The golem slams a creature, dealing 3d10 bludgeoning damage. The target must make a WIS save or be charmed, believing the golem is their childhood hero.
 
-### 8. The Unburdened
-(CR 1). Humanoid. HP 30, AC 12.
+### 8. The Unburdened (CR 1)
+(CR 1). Humanoid. **HP:** 30, **AC:** 12.
 **Abilities:**
 *   **Passive: Empty Mind:** Immune to psychic damage and being charmed or frightened.
 *   **Action: Confused Flailing:** The Unburdened makes a single, unpredictable melee attack with disadvantage.
 
-### 9. Wind-Wraith
-(CR 6). Elemental. HP 95, AC 15.
+### 9. Wind-Wraith (CR 6)
+(CR 6). Elemental. **HP:** 95, **AC:** 15.
 **Abilities:**
 *   **Passive: Airy Form:** Can move through creatures and objects and is resistant to non-magical damage.
 *   **Action: Voice on the Wind:** The wraith whispers a secret to a creature. The target must make a WIS save or become frightened for 1 minute, believing the secret foretells their doom.
 
-### 10. The Sacrificed Hero (Legend)
-(CR 10). Celestial. HP 150, AC 18.
+### 10. The Sacrificed Hero (Legend) (CR 10)
+(CR 10). Celestial. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Passive: Aura of Selflessness:** Any creature making an attack roll within 30 feet of the Hero must make a WIS save. On a failure, they must target the creature with the highest remaining hit points.
 *   **Action: A Hero's Burden:** The Hero touches a creature and takes all of its damage, curses, and negative conditions onto itself. The Hero then heals the creature to its full hit points. This action deals 5d10 psychic damage to the Hero.

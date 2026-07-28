@@ -117,20 +117,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Spectre' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Magisterium Agent (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Dogma patches).
+
+## Bestiary
+### 1. Magisterium Agent (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Dogma patches).
 **Abilities:**
 *   **Ordered Discipline:** The agent has advantage on attacks if they have an ally within 10 feet.
 *   **Neural Prod:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
 
-### 2. Armored Bear (Elite)
-(CR 8). Monstrosity. HP 150, AC 18 (Sky-iron).
+### 2. Armored Bear (Elite) (CR 8)
+(CR 8). Monstrosity. **HP:** 150, **AC:** 18 (Sky-iron).
 **Abilities:**
 *   **Martial Majesty Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Seismic Slam:** Melee attack. 4d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Mrs. Coulter (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Mrs. Coulter (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Cold Elegance Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the leader's 'Grand Design.'
 *   **The Final Choice:** Once per combat, Mrs. Coulter can force an enemy to choose between saving their daemon and achieving the mission objective.

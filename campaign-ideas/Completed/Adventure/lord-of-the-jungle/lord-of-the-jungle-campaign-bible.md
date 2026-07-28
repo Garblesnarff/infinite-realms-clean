@@ -299,62 +299,64 @@ The "brain" and "heart" of the entire jungle organism, a miles-wide, living nexu
 20. **The Apathetic Ant-Hill:** A small, portable ant-hill. The ants within couldn't care less about what you do. They have their own problems.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Blighted Ape
-(CR 3). HP 60, AC 14.
+
+## Bestiary
+### 1. Blighted Ape (CR 3)
+(CR 3). **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Crystalline Hide:** Any creature hitting it with a non-magical piercing or slashing weapon takes 1d4 piercing damage from the sharp crystals on its hide.
 *   **Action: Geometric Fury:** The ape makes two attacks. Its movements are unnaturally precise and geometric. It has +2 to hit if it moves in a straight line towards its target.
 
-### 2. Fungal-Crawler (Myco-Technician)
-(CR 2). HP 45, AC 15 (Natural Armor).
+### 2. Fungal-Crawler (Myco-Technician) (CR 2)
+(CR 2). **HP:** 45, **AC:** 15 (Natural Armor).
 **Abilities:**
 *   **Passive: Spore Cloud:** Any creature starting its turn within 5 feet of the crawler must make a CON save or be poisoned for 1 minute.
 *   **Action: Grappling-Spore:** Ranged attack. On hit, the target is grappled by a sticky, fungal appendage.
 
-### 3. Primal Snapper
-(CR 5). Beast. HP 85, AC 16.
+### 3. Primal Snapper (CR 5)
+(CR 5). Beast. **HP:** 85, **AC:** 16.
 **Abilities:**
 *   **Passive: Ambush Predator:** Has advantage on its first attack roll in combat.
 *   **Action: Bone-Breaking Bite:** Melee attack. On hit, target takes 2d10 piercing damage and must make a STR save or have its arm or leg "broken," suffering disadvantage on attacks or having its speed halved until magically healed.
 
-### 4. Black Sap Ooze
-(CR 4). Ooze. HP 70, AC 8.
+### 4. Black Sap Ooze (CR 4)
+(CR 4). Ooze. **HP:** 70, **AC:** 8.
 **Abilities:**
 *   **Passive: Corrosive Grief:** Any creature touching the ooze takes 1d6 acid damage and 1d6 psychic damage.
 *   **Action: Engulf in Sorrow:** The ooze attempts to engulf a creature. The target must make a DEX save. On a failure, they are engulfed, restrained, and take 2d6 psychic damage at the start of each turn as they are flooded with the jungle's pain.
 
-### 5. Canopy Prowler
-(CR 6). Monstrosity. HP 90, AC 15.
+### 5. Canopy Prowler (CR 6)
+(CR 6). Monstrosity. **HP:** 90, **AC:** 15.
 **Abilities:**
 *   **Passive: Chameleon Hide:** Has advantage on Stealth checks made in the jungle canopy.
 *   **Action: Pounce:** If the prowler moves at least 20 feet and hits with a claw attack, the target is also knocked prone and grappled.
 
-### 6. Serpent-Speaker Mystic
-(CR 7). Naga. HP 115, AC 16.
+### 6. Serpent-Speaker Mystic (CR 7)
+(CR 7). Naga. **HP:** 115, **AC:** 16.
 **Abilities:**
 *   **Passive: Poisonous Blood:** Any creature dealing piercing or slashing damage to the mystic takes 1d8 poison damage.
 *   **Action: Root-Call:** The mystic causes roots to erupt from the ground in a 20-foot radius. Creatures in the area must make a STR save or be restrained.
 
-### 7. Blight-Crystal Elemental
-(CR 8). Elemental. HP 125, AC 17.
+### 7. Blight-Crystal Elemental (CR 8)
+(CR 8). Elemental. **HP:** 125, **AC:** 17.
 **Abilities:**
 *   **Passive: Crystalline Conversion:** Any creature reduced to 0 HP by the elemental immediately shatters and reforms as a smaller, friendly Blighted Ape.
 *   **Action: Shard Volley:** The elemental launches a volley of crystalline shards. Make a ranged attack against up to three targets within 60 feet.
 
-### 8. Simian Philosopher-Guard
-(CR 3). Ape. HP 65, AC 13.
+### 8. Simian Philosopher-Guard (CR 3)
+(CR 3). Ape. **HP:** 65, **AC:** 13.
 **Abilities:**
 *   **Passive: Tactical Intellect:** Can use the Help action as a bonus action to aid an ally in attacking a creature within 5 feet of it.
 *   **Action: Disarming Strike:** The ape makes an attack. If it hits, the target must make a STR save or drop one item it is holding.
 
-### 9. Fungal-Artificer
-(CR 6). Myconid. HP 95, AC 14.
+### 9. Fungal-Artificer (CR 6)
+(CR 6). Myconid. **HP:** 95, **AC:** 14.
 **Abilities:**
 *   **Passive: Aura of Invention:** Any construct (friendly or hostile) within 30 feet of the artificer gains +1 to AC and attack rolls.
 *   **Action: Animate Fungi:** The artificer touches a patch of normal mushrooms or fungi and animates it. It has the stats of an Awakened Shrub, but is a construct.
 
-### 10. The Gardener's Echo
-(CR 9). Plant. HP 140, AC 16.
+### 10. The Gardener's Echo (CR 9)
+(CR 9). Plant. **HP:** 140, **AC:** 16.
 **Abilities:**
 *   **Passive: Lingering Bond:** Can cast *Speak with Plants* at will.
 *   **Action: Wave of Despair:** The echo releases a wave of the Gardener's pain. All creatures within 30 feet must make a WIS save or be stunned for 1 round, overwhelmed by sorrow.

@@ -116,20 +116,22 @@ A gothic field of floating debris and ancient Martian ruins.
 **Mechanics:** The wearer can use an action to project a 30ft 'Null-Field' that deactivates all electronic devices (including Kataphrakts) for 1 round.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. UEF Kataphrakt (KG-7)
-(CR 3). Construct. HP 60, AC 15.
+
+## Bestiary
+### 1. UEF Kataphrakt (KG-7) (CR 3)
+(CR 3). Construct. **HP:** 60, **AC:** 15.
 **Abilities:**
 *   **Mass-Produced:** KG-7s have advantage on attacks if an ally is within 10 feet.
 *   **Chain Cannon:** Ranged attack. 2d10+4 damage.
 
-### 2. Martian Kataphrakt (Elite)
-(CR 8). Construct. HP 150, AC 18.
+### 2. Martian Kataphrakt (Elite) (CR 8)
+(CR 8). Construct. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Unique Aldnoah Ability:** Each Elite has one god-like power (e.g., 'Molecular Shield' - immune to non-magical damage; 'Dimensional Cut' - ignores AC).
 *   **Ornate Armor:** The Kataphrakt regains 10 HP at the start of its turn as long as the Aldnoah Drive is active.
 
-### 3. Martian Orbital Knight
-(CR 12). Humanoid. HP 180, AC 20.
+### 3. Martian Orbital Knight (CR 12)
+(CR 12). Humanoid. **HP:** 180, **AC:** 20.
 **Abilities:**
 *   **Martian Pride:** The Knight is immune to being frightened or charmed.
 *   **Royal Gene Command:** Once per day, the Knight can force all Aldnoah tech within 100 feet to obey a single command.

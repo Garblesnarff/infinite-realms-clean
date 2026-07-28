@@ -327,23 +327,30 @@ The peak, above the clouds of reality.
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
 
+## Bestiary
+### 1. The Doubt-Leech (CR 2)
+(CR 2)
+
 1.  **The Doubt-Leech** (CR 2)
-    *   HP: 30, AC: 12, Speed: 30ft (Climb).
+    *   **HP:** 30, **AC:** 12, Speed: 30ft (Climb).
     *   **Ability:** *Aura of Uncertainty.* Players within 10ft subtract 1d4 from attack rolls.
     *   **Action:** *Drain Confidence.* Target must make WIS save or lose 1 spell slot.
-
+### 2. The Memory-Eater (CR 5)
+(CR 5)
 2.  **The Memory-Eater** (CR 5)
-    *   HP: 80, AC: 15, Speed: 0 (Hover).
+    *   **HP:** 80, **AC:** 15, Speed: 0 (Hover).
     *   **Ability:** *Invisibility.* Invisible until it attacks.
     *   **Action:** *Forget.* Hit: 2d8 Psychic. Target forgets who their allies are for 1 round (attacks random target).
-
+### 3. The Echo-Stalker (CR 3)
+(CR 3)
 3.  **The Echo-Stalker** (CR 3)
-    *   HP: 45, AC: 14, Speed: 50ft.
+    *   **HP:** 45, **AC:** 14, Speed: 50ft.
     *   **Ability:** *Sound mimicry.* Can mimic the voice of the PC's mother.
     *   **Action:** *Sonic Boom.* 15ft cone, 3d6 Thunder damage.
-
+### 4. The Stone-Skinned Monk (CR 4)
+(CR 4)
 4.  **The Stone-Skinned Monk** (CR 4)
-    *   HP: 60, AC: 18 (Natural), Speed: 20ft.
+    *   **HP:** 60, **AC:** 18 (Natural), Speed: 20ft.
     *   **Ability:** *Statue Form.* Can use reaction to take 0 damage from non-magical attacks.
     *   **Action:** *Petrifying Punch.* Hit: 1d8 Bludgeoning + CON save or be restrained (turning to stone).
 
@@ -351,29 +358,34 @@ The peak, above the clouds of reality.
     *   HP: Matches PC, AC: Matches PC.
     *   **Ability:** *Reflection.* Uses the exact same attacks the PC used last turn.
     *   **Action:** *Shatter.* Upon death, explodes for 4d6 piercing damage.
-
+### 6. The Anxiety Swarm (CR 6)
+(CR 6)
 6.  **The Anxiety Swarm** (CR 6)
-    *   HP: 100 (Swarm), AC: 13, Speed: Fly 40ft.
+    *   **HP:** 100 (Swarm), **AC:** 13, Speed: Fly 40ft.
     *   **Ability:** *Overwhelm.* Occupies PC space.
     *   **Action:** *Panic Attack.* Target inside swarm is Frightened and Stunned.
-
+### 7. The Void Sentinel (CR 8)
+(CR 8)
 7.  **The Void Sentinel** (CR 8)
-    *   HP: 150, AC: 17, Speed: 30ft.
+    *   **HP:** 150, **AC:** 17, Speed: 30ft.
     *   **Ability:** *Gravity Well.* Pulls all creatures 20ft towards it at start of turn.
     *   **Action:** *Crush.* Melee +8, 4d10 Force damage.
-
+### 8. The Whispering Wall (CR 5)
+(CR 5)
 8.  **The Whispering Wall** (CR 5)
-    *   HP: 200, AC: 10, Speed: 0.
+    *   **HP:** 200, **AC:** 10, Speed: 0.
     *   **Ability:** *False Terrain.* Looks like a wall.
     *   **Action:** *Engulf.* PC must make STR save or be pulled into the wall.
-
+### 9. The Lantern Moth Queen (CR 7)
+(CR 7)
 9.  **The Lantern Moth Queen** (CR 7)
-    *   HP: 120, AC: 15, Speed: Fly 60ft.
+    *   **HP:** 120, **AC:** 15, Speed: Fly 60ft.
     *   **Ability:** *Light Attraction.* Players holding torches have disadvantage on saves against her.
     *   **Action:** *Dust Storm.* Blindness in 20ft radius.
-
+### 10. The Silence (CR 10)
+(CR 10)
 10. **The Silence** (CR 10)
-    *   HP: 200, AC: 19, Speed: Teleport 60ft.
+    *   **HP:** 200, **AC:** 19, Speed: Teleport 60ft.
     *   **Ability:** *Absolute Quiet.* No spells with Verbal components work within 60ft.
     *   **Action:** *Soul Sever.* Melee +10, 6d8 Necrotic.
 

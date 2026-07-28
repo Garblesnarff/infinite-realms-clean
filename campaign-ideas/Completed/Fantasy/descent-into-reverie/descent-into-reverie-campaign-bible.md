@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Multiversal' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Nightmare Projection (Standard)
-(CR 3). Undead. HP 45, AC 14.
+
+## Bestiary
+### 1. Nightmare Projection (Standard) (CR 3)
+(CR 3). Undead. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Reality-Break Stealth:** The projection has advantage on attacks if they are in a merged reality hex.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected (equivalent).
 
-### 2. Stayer Guardian (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Stayer Guardian (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Contentment Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Somnus (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Somnus (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Ancient Pact Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Somnus's 'Archaic Script.'
 *   **The Final Choice:** Once per combat, Somnus can force an enemy to choose between saving an ally and achieving the mission objective.

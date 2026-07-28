@@ -299,62 +299,64 @@ A beautiful, autumnal region, but the site of the final, devastating battle of t
 20. **A Chicken Egg:** A normal chicken egg. But you have a bad feeling about what will happen if you attack the chicken it came from.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Bokoblin
-(CR 1/4). Humanoid. HP 15, AC 12.
+
+## Bestiary
+### 1. Bokoblin (CR 1/4)
+(CR 1/4). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Passive: Mob Mentality:** Has advantage on attack rolls if at least two other Bokoblins are within 10 feet of it.
 *   **Action: Clumsy Attack:** The Bokoblin makes a single attack with its crude club or bow.
 
-### 2. Moblin
-(CR 1). Humanoid. HP 30, AC 14.
+### 2. Moblin (CR 1)
+(CR 1). Humanoid. **HP:** 30, **AC:** 14.
 **Abilities:**
 *   **Passive: Powerful Build:** Counts as one size larger for the purpose of carrying capacity and grappling.
 *   **Action: Brutal Swing:** The Moblin makes a single, powerful attack with its massive club. If the attack hits, the target is pushed back 10 feet.
 
-### 3. Lizalfos
-(CR 2). Humanoid (Reptile). HP 45, AC 15.
+### 3. Lizalfos (CR 2)
+(CR 2). Humanoid (Reptile). **HP:** 45, **AC:** 15.
 **Abilities:**
 *   **Passive: Chameleon Skin:** Can use a bonus action to change its skin color, granting it advantage on Stealth checks.
 *   **Action: Multi-attack:** The Lizalfos makes two attacks with its boomerang or spear. It can also use its tongue as a ranged grappling attack.
 
-### 4. Lynel
-(CR 8). Monstrosity. HP 120, AC 18.
+### 4. Lynel (CR 8)
+(CR 8). Monstrosity. **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Passive: Master of Arms:** The Lynel is proficient with all weapons and has a unique, powerful version of each (sword, spear, crusher, bow).
 *   **Action: Multi-attack:** The Lynel makes three attacks. It can also breathe fire in a cone as a bonus action.
 
-### 5. Guardian Stalker
-(CR 10). Construct. HP 150, AC 20.
+### 5. Guardian Stalker (CR 10)
+(CR 10). Construct. **HP:** 150, **AC:** 20.
 **Abilities:**
 *   **Passive: All-Terrain Legs:** Can move at full speed over any terrain.
 *   **Action: Targeting Laser:** The Guardian locks onto a target. At the start of its next turn, it fires a devastating laser beam that deals 10d10 force damage. The beam can be parried back at the Guardian with a successful, high DC shield check.
 
-### 6. Wizzrobe
-(CR 4). Elemental. HP 60, AC 13.
+### 6. Wizzrobe (CR 4)
+(CR 4). Elemental. **HP:** 60, **AC:** 13.
 **Abilities:**
 *   **Passive: Elemental Dance:** Can teleport up to 30 feet as a bonus action.
 *   **Action: Elemental Rod:** The Wizzrobe casts a powerful elemental spell (e.g., *Fireball*, *Ice Storm*, *Lightning Bolt*).
 
-### 7. Yiga Blademaster
-(CR 5). Humanoid. HP 80, AC 16.
+### 7. Yiga Blademaster (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Passive: Earth-Wake:** When the Blademaster teleports, it creates a shockwave. Creatures within 10 feet must make a STR save or be knocked prone.
 *   **Action: Wind-Cleaver Blade:** The Blademaster makes two attacks with its wind-cleaver sword, which can also fire a blade of wind as a ranged attack.
 
-### 8. Calamity-Blight
-(CR 9). Aberration. HP 135, AC 17.
+### 8. Calamity-Blight (CR 9)
+(CR 9). Aberration. **HP:** 135, **AC:** 17.
 **Abilities:**
 *   **Passive: Corrupted Aura:** The area within 30 feet of the Blight is corrupted. Any creature starting its turn there takes 1d10 necrotic damage.
 *   **Action: Malice Beam:** The Blight fires a beam of pure Calamity energy, dealing 6d8 necrotic damage.
 
-### 9. Korok Annoyer
-(CR 0). Plant. HP 1, AC 10.
+### 9. Korok Annoyer (CR 0)
+(CR 0). Plant. **HP:** 1, **AC:** 10.
 **Abilities:**
 *   **Passive: Hiding:** Is hiding under a rock.
 *   **Action: Yahaha!:** Says "Yahaha! You found me!" and gives you a seed.
 
-### 10. Cucco Swarm
-(CR 15). Swarm of Beasts. HP 200, AC 25.
+### 10. Cucco Swarm (CR 15)
+(CR 15). Swarm of Beasts. **HP:** 200, **AC:** 25.
 **Abilities:**
 *   **Passive: Vengeance of the Flock:** If a single Cucco is attacked, this swarm appears. The swarm is immune to all damage and conditions.
 *   **Action: Peck to Death:** The target is pecked by a thousand angry chickens. They take infinite damage and die. Instantly.

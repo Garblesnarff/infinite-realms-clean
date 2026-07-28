@@ -116,20 +116,22 @@ A royal gold and casino red monument to luxury and champagne bubbles.
 **Mechanics:** Grants the user the ability to 'Fix' any mechanical or magic-tech device instantly. Once per day, the user can create a 30ft 'Harmony Field' that calms all enemies.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. T.H.R.U.S.H. Agent (Standard)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. T.H.R.U.S.H. Agent (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Dangerous Elegance:** The agent has advantage on saves against being frightened or charmed.
 *   **Silenced Pistol:** Ranged attack. 2d6+2 damage.
 
-### 2. Berlin Interrogator (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Berlin Interrogator (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Propaganda Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Psychological Break:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Temptress' Victoria (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Temptress' Victoria (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Style-Fi Majesty Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of Victoria's arrogance.
 *   **The Final Choice:** Once per combat, Victoria can force an enemy to choose between saving an ally and achieving the mission objective.

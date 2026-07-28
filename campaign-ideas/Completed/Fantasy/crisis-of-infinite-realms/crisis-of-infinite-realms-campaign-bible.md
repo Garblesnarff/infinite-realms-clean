@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Multiversal' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Shadow Thrall (Echo)
-(CR 3). Undead. HP 45, AC 14.
+
+## Bestiary
+### 1. Shadow Thrall (Echo) (CR 3)
+(CR 3). Undead. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Reality-Break Stealth:** The thrall has advantage on attacks if they are in a merged reality hex.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected.
 
-### 2. Anti-Monitor Guardian (Elite)
-(CR 10). Celestial/Aberration. HP 200, AC 18.
+### 2. Anti-Monitor Guardian (Elite) (CR 10)
+(CR 10). Celestial/Aberration. **HP:** 200, **AC:** 18.
 **Abilities:**
 *   **Antimatter Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Anti-Monitor (Proxy)
-(CR 25). Celestial/Aberration. HP 600, AC 22.
+### 3. 'The Mastermind' Anti-Monitor (Proxy) (CR 25)
+(CR 25). Celestial/Aberration. **HP:** 600, **AC:** 22.
 **Abilities:**
 *   **Absolute Silence Aura:** Any creature within 100 feet must succeed on a DC 20 Wisdom save or be paralyzed by the weight of the coming flash.
 *   **The Final Alignment:** Once per combat, the Mastermind can force all creatures within 1 mile to re-roll their initiative.

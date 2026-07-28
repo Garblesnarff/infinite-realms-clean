@@ -116,20 +116,22 @@ A gray and muted blue sector of paranoia and truth in darkness.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to cast *Dragon's Breath* (Gold) once per day. The hand provides resistance to fire damage.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Syndicate Operative (Professional)
-(CR 3). Humanoid. HP 45, AC 15.
+
+## Bestiary
+### 1. Syndicate Operative (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15.
 **Abilities:**
 *   **Tactical Elegance:** The operative has advantage on saves against being frightened or charmed.
 *   **Silenced Dart:** Ranged attack. 2d6+4 damage + Target is poisoned.
 
-### 2. Draconic Construct (Guardian)
-(CR 8). Construct. HP 120, AC 18.
+### 2. Draconic Construct (Guardian) (CR 8)
+(CR 8). Construct. **HP:** 120, **AC:** 18.
 **Abilities:**
 *   **Scale Plating:** The construct is immune to non-magical slashing and piercing damage.
 *   **Fire Pulse:** Ranged attack. 4d10 fire damage in a 15ft cone.
 
-### 3. 'The Mastermind' Goldclaw (Proxy)
-(CR 15). Humanoid (Half-Dragon). HP 250, AC 20.
+### 3. 'The Mastermind' Goldclaw (Proxy) (CR 15)
+(CR 15). Humanoid (Half-Dragon). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Draconic Majesty Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be paralyzed by the weight of Goldclaw's arrogance.
 *   **Golden Fix:** Once per combat, Goldclaw can force an enemy to re-roll their turn, choosing the least effective actions.

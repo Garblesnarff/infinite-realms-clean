@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the holder advantage on all Intelligence (Investigation) and Wisdom (Insight) checks inside Birmingham. **Curse:** The holder is hunted by the London Syndicate.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Syndicate Operative (Professional)
-(CR 3). Humanoid. HP 45, AC 15 (Silk Armor).
+
+## Bestiary
+### 1. Syndicate Operative (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 15 (Silk Armor).
 **Abilities:**
 *   **Dangerous Elegance:** The operative has advantage on saves against being frightened or charmed.
 *   **Silenced Pistol:** Ranged attack. 2d8+4 damage.
 
-### 2. Police Inquisitor (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+### 2. Police Inquisitor (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Iron Faith Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Neural Prod:** Melee attack. 2d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Strategist' Thomas (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Strategist' Thomas (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Grit-Energy Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the leader's 'Grand Design.'
 *   **The Final Move:** Once per combat, Thomas can force an enemy to take an action that serves his own glory.

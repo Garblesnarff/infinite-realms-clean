@@ -115,20 +115,22 @@ A dark, paper-cluttered building where the 'Truth' is buried in shadows.
 **Mechanics:** Grants the user the ability to 'Authorize' any action, making it immune to political obstacles for 1 hour. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Roman Legionary (Standard)
-(CR 2). Humanoid. HP 30, AC 15 (Steel Armor).
+
+## Bestiary
+### 1. Roman Legionary (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 15 (Steel Armor).
 **Abilities:**
 *   **Ordered Formation:** The soldier has advantage on attacks if they have an ally within 5 feet.
 *   **Shield Bash:** Melee attack. 1d8+3 damage + Target is knocked prone.
 
-### 2. Praetorian Guard (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+### 2. Praetorian Guard (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Imperial Majesty Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Vengeful Strike:** Melee attack. 2d10 damage + Target is grappled.
 
-### 3. 'The Madman' Commodus (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Madman' Commodus (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Narcissistic Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Emperor's 'Performance.'
 *   **The Final Move:** Once per combat, Commodus can force an enemy to take an action that serves his own glory.

@@ -118,20 +118,22 @@ A dark, echoing cavern filled with boxes and the promise of a future.
 **Mechanics:** Once per day, the user can ask the DM a question about a toy's 'True Aspect' or its market value.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Market Scavenger (Giant)
-(CR 1/4). Humanoid. HP 10, AC 10.
+
+## Bestiary
+### 1. Market Scavenger (Giant) (CR 1/4)
+(CR 1/4). Humanoid. **HP:** 10, **AC:** 10.
 **Abilities:**
 *   **Clumsy Hand:** Melee attack. 1d4 damage + Target is grappled (DC 12 STR).
 *   **The Haggle:** Any toy within 10 feet has disadvantage on Charisma checks.
 
-### 2. Collector's Guard (Mint Condition)
-(CR 2). Construct (Toy). HP 30, AC 15.
+### 2. Collector's Guard (Mint Condition) (CR 2)
+(CR 2). Construct (Toy). **HP:** 30, **AC:** 15.
 **Abilities:**
 *   **Pristine Strike:** Melee attack. 1d8+3 damage.
 *   **Vacuum Sealed:** The guard is immune to all forms of 'Play' damage (scratches, dirt).
 
-### 3. The Collector (Giant Leader)
-(CR 10). Humanoid. HP 150, AC 18.
+### 3. The Collector (Giant Leader) (CR 10)
+(CR 10). Humanoid. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Harvesting Aura:** Any toy within 30 feet must succeed on a DC 16 Wisdom save or be paralyzed by fear for 1 round.
 *   **The Price Guide:** Once per combat, the Collector can 'de-value' an enemy, reducing their AC by 2.

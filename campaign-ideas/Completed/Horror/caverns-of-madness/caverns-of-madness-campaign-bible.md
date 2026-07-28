@@ -115,20 +115,22 @@ A humble white and brown monument to spiritual silence and asylum status.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Multi-Limbed Parasite (Standard)
-(CR 2). Monstrosity. HP 30, AC 13.
+
+## Bestiary
+### 1. Multi-Limbed Parasite (Standard) (CR 2)
+(CR 2). Monstrosity. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Chitinous Grip:** The parasite has advantage on grappled checks.
 *   **Squelch Strike:** Melee attack. 1d8+3 damage + Target is grappled.
 
-### 2. Blighted Guardian (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Blighted Guardian (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Toxic Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Spore:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Fungal Mind (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Fungal Mind (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Malevolent Whisper Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Mind's 'Compost Directive.'
 *   **The Final Reset:** Once per combat, the Mind can force all creatures within 100 feet to re-roll their initiative.

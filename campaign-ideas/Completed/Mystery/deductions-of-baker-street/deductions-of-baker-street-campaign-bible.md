@@ -116,20 +116,22 @@ A dramatic, foggy waterfall that serves as the setting for the final duel.
 **Mechanics:** Grants the user 'Mathematical Precision'—the ability to predict an enemy's move with 100% accuracy once per day. **Curse:** The user begins to see the world in 'Foggy Grays' and loses all capacity for emotion.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Moriarty Assassin (Elite)
-(CR 5). Humanoid. HP 80, AC 16.
+
+## Bestiary
+### 1. Moriarty Assassin (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Spider Web:** The assassin has advantage on attacks if they have studied the target from the shadows for at least 1 hour.
 *   **Cold Calculation:** Melee attack. 2d10+4 damage + Target is paralyzed for 1 round (DC 14 CON save).
 
-### 2. Underworld Thug (Standard)
-(CR 1/2). Humanoid. HP 15, AC 12.
+### 2. Underworld Thug (Standard) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 12.
 **Abilities:**
 *   **Fog Blur:** The thug has disadvantage on being hit if they are in dim light or fog.
 *   **Club Swing:** Melee attack. 1d8+2 damage.
 
-### 3. 'The Spider' Moriarty (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Spider' Moriarty (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Mathematical Perfection Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Moriarty's 'Criminal Formula.'
 *   **The Napoleon of Crime:** Once per combat, Moriarty can force an enemy to take a reaction that reveals their own darkest secret.

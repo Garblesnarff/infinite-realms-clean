@@ -114,20 +114,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Necrotic' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Demon Soldier (Standard)
-(CR 2). Fiend. HP 30, AC 13 (Bone armor).
+
+## Bestiary
+### 1. Demon Soldier (Standard) (CR 2)
+(CR 2). Fiend. **HP:** 30, **AC:** 13 (Bone armor).
 **Abilities:**
 *   **Squelch Strike:** Melee attack. 1d8+3 damage + Target is grappled.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected.
 
-### 2. Necrotic Sentinel (Elite)
-(CR 5). Fiend. HP 80, AC 15.
+### 2. Necrotic Sentinel (Elite) (CR 5)
+(CR 5). Fiend. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Necrotic Aura:** Any enemy within 30 feet takes 1d10 necrotic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Malakor (Proxy)
-(CR 15). Fiend (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Malakor (Proxy) (CR 15)
+(CR 15). Fiend (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Desolate Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow the demon's 'Network Directive.'
 *   **The Final Reclaiming:** Once per combat, Malakor can force an enemy to take an action that serves the stability of the infection.

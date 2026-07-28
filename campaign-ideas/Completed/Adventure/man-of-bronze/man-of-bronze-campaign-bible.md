@@ -299,62 +299,64 @@ A region of reality warped by the Architects of the Unbalanced Equation.
 20. **A Rock That Gets Your Jokes:** A small, friendly rock. If you tell it a joke, it will vibrate with silent, appreciative laughter.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Cog-Guard
-(CR 3). Construct. HP 55, AC 17.
+
+## Bestiary
+### 1. Cog-Guard (CR 3)
+(CR 3). Construct. **HP:** 55, **AC:** 17.
 **Abilities:**
 *   **Passive: Logic-Chain:** If a Cog-Guard is adjacent to another Cog-Guard, they both gain +1 to hit and damage.
 *   **Action: Calculated Strike:** The Cog-Guard makes a melee attack. It can choose to take a -5 penalty to the attack roll. If the attack hits, it deals an extra 10 damage.
 
-### 2. Chaos-Beast
-(CR 3). Monstrosity. HP 60, AC 14.
+### 2. Chaos-Beast (CR 3)
+(CR 3). Monstrosity. **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Unpredictable Hide:** When targeted by an attack, roll a d6. On a 6, the attack hits a different creature within 5 feet (including the attacker).
 *   **Action: Maddening Howl:** The beast howls. All creatures within 30 feet must make a WIS save or use their reaction to make a single melee attack against the nearest creature.
 
-### 3. Un-Beast (Geometric)
-(CR 5). Construct. HP 70, AC 16.
+### 3. Un-Beast (Geometric) (CR 5)
+(CR 5). Construct. **HP:** 70, **AC:** 16.
 **Abilities:**
 *   **Passive: Euclidean Form:** Can only move in straight lines. It can move through the space of other creatures as if it were difficult terrain.
 *   **Action: Razor-Edge:** The Un-Beast moves up to its speed in a straight line. Any creature it moves through must make a DEX save, taking 4d8 slashing damage on a failure.
 
-### 4. Probability-Warp
-(CR 7). Aberration. HP 90, AC 15.
+### 4. Probability-Warp (CR 7)
+(CR 7). Aberration. **HP:** 90, **AC:** 15.
 **Abilities:**
 *   **Passive: Aura of Unlikelihood:** All attack rolls (friendly and hostile) made within 30 feet of the warp have disadvantage.
 *   **Action: Coin-Flip of Fate:** The warp targets a creature. The creature must call "heads" or "tails." The DM flips a coin. If the creature is correct, it is healed for 4d10 HP. If it is incorrect, it takes 4d10 force damage.
 
-### 5. Echo-Wraith
-(CR 4). Undead. HP 65, AC 14.
+### 5. Echo-Wraith (CR 4)
+(CR 4). Undead. **HP:** 65, **AC:** 14.
 **Abilities:**
 *   **Passive: Incorporeal Movement:** Can move through creatures and objects.
 *   **Action: Drown in Words:** The wraith surrounds a creature with a storm of ghostly echoes. The target must make a WIS save or be stunned for 1 minute, deafened by the noise.
 
-### 6. Bronze Aspirant
-(CR 6). Humanoid. HP 100, AC 16.
+### 6. Bronze Aspirant (CR 6)
+(CR 6). Humanoid. **HP:** 100, **AC:** 16.
 **Abilities:**
 *   **Passive: Unbalanced Soul:** At the start of its turn, the Aspirant is either in "Lawful" or "Chaotic" stance. Lawful: +2 AC. Chaotic: +2 damage.
 *   **Action: Fulcrum Strike:** Melee attack. If in Lawful stance, the target is pushed back 10 feet. If in Chaotic stance, the target is knocked prone.
 
-### 7. Logic-Demon
-(CR 5). Fiend. HP 80, AC 15.
+### 7. Logic-Demon (CR 5)
+(CR 5). Fiend. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Passive: If-Then Response:** If a creature attacks the demon, then the demon can use its reaction to teleport up to 30 feet.
 *   **Action: Syllogistic Assault:** The demon presents a flawed logical argument to a creature. The target must make an INT save or take 3d8 psychic damage and have disadvantage on its next attack roll.
 
-### 8. Instinct-Horror
-(CR 5). Monstrosity. HP 80, AC 15.
+### 8. Instinct-Horror (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Passive: Pure Instinct:** Immune to being charmed or frightened. It always knows the location of the creature with the lowest current hit points.
 *   **Action: Prey-Drive:** The horror moves up to its speed towards the creature with the lowest hit points and makes a single melee attack. This attack is a critical hit on a 19 or 20.
 
-### 9. Map-Golem
-(CR 8). Construct. HP 130, AC 13.
+### 9. Map-Golem (CR 8)
+(CR 8). Construct. **HP:** 130, **AC:** 13.
 **Abilities:**
 *   **Passive: Shifting Terrain:** The area within 20 feet of the golem is difficult terrain as the ground itself re-arranges.
 *   **Action: Re-Fold:** The golem attempts to "re-fold" a creature. The target must make a DEX save or be restrained and take 2d10 bludgeoning damage as its body is twisted into an unnatural shape.
 
-### 10. The Fulcrum-Guardian
-(CR 10). Construct. HP 150, AC 18.
+### 10. The Fulcrum-Guardian (CR 10)
+(CR 10). Construct. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Passive: Aura of Balance:** All creatures within 30 feet cannot have advantage or disadvantage on any roll.
 *   **Action: Judgment:** The guardian targets the creature that has dealt the most damage and the creature that has dealt the least damage in the combat. The first creature takes 4d10 force damage, and the second creature is healed for 4d10 HP.

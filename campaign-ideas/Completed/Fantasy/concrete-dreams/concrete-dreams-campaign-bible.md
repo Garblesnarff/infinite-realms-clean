@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Vibe' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Judge Enforcer (Standard)
-(CR 2). Construct. HP 30, AC 13 (Standardized Armor).
+
+## Bestiary
+### 1. Judge Enforcer (Standard) (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13 (Standardized Armor).
 **Abilities:**
 *   **Bureaucratic Precision:** The officer has advantage on attacks if they have an ally within 10 feet.
 *   **Legal Declaration:** Ranged attack (Psychic). 2d8 psychic damage + Target is paralyzed for 1 round.
 
-### 2. West Side Elite (Rival)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. West Side Elite (Rival) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Competitive Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Status Strike:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Slate (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Slate (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Statute 7.3 Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Judge's 'Grand Design.'
 *   **The Final Move:** Once per combat, Slate can force an enemy to take an action that serves his own glory.

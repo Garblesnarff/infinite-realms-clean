@@ -293,62 +293,64 @@ A chaotic, underground market run by The Collector.
 20. **A Receipt from the Court of Consequences:** A long, itemized receipt for a single, minor wish. The "legal fees" and "narrative taxes" are astronomical.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Static Knight
-(CR 4). Construct. HP 70, AC 18.
+
+## Bestiary
+### 1. Static Knight (CR 4)
+(CR 4). Construct. **HP:** 70, **AC:** 18.
 **Abilities:**
 *   **Passive: Aura of Stasis:** The area within 20 feet of the knight is difficult terrain as the very air resists movement and change.
 *   **Action: Pacifying Touch:** Melee attack. On a hit, the target takes 2d8 force damage and must make a CHA save or be overcome with apathy, unable to take any actions on its next turn.
 
-### 2. A "Consequence"
-(CR 6). Aberration. HP 95, AC 15.
+### 2. A "Consequence" (CR 6)
+(CR 6). Aberration. **HP:** 95, **AC:** 15.
 **Abilities:**
 *   **Passive: Ironic Defense:** The Consequence is immune to the damage type most associated with the wish that created it. (e.g., the Consequence of a wish for "love" would be immune to psychic damage).
 *   **Action: Poetic Justice:** The Consequence makes an attack that is an ironic reflection of the original wish. A wish for "riches" might result in an attack that turns the target's gear to lead.
 
-### 3. A "Loophole"
-(CR 5). Aberration. HP 70, AC 16.
+### 3. A "Loophole" (CR 5)
+(CR 5). Aberration. **HP:** 70, **AC:** 16.
 **Abilities:**
 *   **Passive: Intangible Logic:** The Loophole can move through solid objects as long as it can argue that the object is "conceptually" not there.
 *   **Action: Twist the Words:** The Loophole targets a creature under the effect of a spell. It can "re-interpret" the spell's wording, changing its target or effect in a minor, but significant, way.
 
-### 4. A "Happy" Citizen of Oakhaven
-(CR 1). Humanoid. HP 30, AC 10.
+### 4. A "Happy" Citizen of Oakhaven (CR 1)
+(CR 1). Humanoid. **HP:** 30, **AC:** 10.
 **Abilities:**
 *   **Passive: Aura of Blissful Ignorance:** The citizen is immune to being charmed or frightened. Any creature attacking the citizen must make a WIS save or be unable to attack, unwilling to harm someone so perfectly happy.
 *   **Action: Cheerful Greeting:** The citizen gives a friendly wave. The target must make a WIS save or be charmed for 1 minute.
 
-### 5. A "Heroic Deed" (Sentient Story)
-(CR 8). Celestial. HP 120, AC 17.
+### 5. A "Heroic Deed" (Sentient Story) (CR 8)
+(CR 8). Celestial. **HP:** 120, **AC:** 17.
 **Abilities:**
 *   **Passive: Narrative Armor:** The Deed is resistant to damage from any creature whose "story" is less significant than its own (DM's discretion).
 *   **Action: Self-Sacrifice:** The Deed sacrifices a portion of its own essence. An ally is healed to full hit points, but the Deed takes an equal amount of damage.
 
-### 6. A "Bad Joke" (Sentient Story)
-(CR 3). Fey. HP 50, AC 14.
+### 6. A "Bad Joke" (Sentient Story) (CR 3)
+(CR 3). Fey. **HP:** 50, **AC:** 14.
 **Abilities:**
 *   **Passive: Groan-Inducing Aura:** Any creature starting its turn within 20 feet of the Joke must make a WIS save or use its action to groan and roll its eyes.
 *   **Action: The Punchline:** The Joke tells its punchline. All creatures who hear it must make a WIS save or take 3d6 psychic damage and fall prone from laughter.
 
-### 7. A "Legal Precedent"
-(CR 7). Construct. HP 100, AC 18.
+### 7. A "Legal Precedent" (CR 7)
+(CR 7). Construct. **HP:** 100, **AC:** 18.
 **Abilities:**
 *   **Passive: Binding Authority:** The Precedent cannot be moved against its will. All creatures within 30 feet are considered to be under the effect of a *Zone of Truth* spell.
 *   **Action: Objection!:** The Precedent uses its reaction to "object" to a spell being cast. The caster must make a spellcasting check against the Precedent's save DC or the spell fails.
 
-### 8. A "Blank Page"
-(CR 6). Ooze. HP 90, AC 8.
+### 8. A "Blank Page" (CR 6)
+(CR 6). Ooze. **HP:** 90, **AC:** 8.
 **Abilities:**
 *   **Passive: Narrative Vacuum:** The Blank Page is immune to all spells that have a "story" or "narrative" component.
 *   **Action: Erase:** The Blank Page touches a creature. The target must make a CHA save or have one of their defining character traits (e.g., "brave," "loyal," "greedy") temporarily erased for 1 hour.
 
-### 9. A "Cautionary Tale"
-(CR 5). Undead. HP 80, AC 15.
+### 9. A "Cautionary Tale" (CR 5)
+(CR 5). Undead. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Passive: I Told You So:** If a creature fails a saving throw within 30 feet of the Tale, it takes an extra 1d8 psychic damage.
 *   **Action: A Terrible Example:** The Tale shows a creature a vision of a terrible fate. The target must make a WIS save or become frightened for 1 minute.
 
-### 10. The Cosmic Accountant
-(CR 9). Inevitable. HP 140, AC 19.
+### 10. The Cosmic Accountant (CR 9)
+(CR 9). Inevitable. **HP:** 140, **AC:** 19.
 **Abilities:**
 *   **Passive: The Books Must Balance:** At the start of its turn, the Accountant chooses the creature with the highest current HP and the creature with the lowest current HP. It transfers 2d10 hit points from the highest to the lowest.
 *   **Action: Audit:** The Accountant targets a creature. The target must make an INT save. On a failure, the Accountant discovers a "discrepancy" in their life-story, and the target takes 5d10 force damage as reality "corrects" the error.

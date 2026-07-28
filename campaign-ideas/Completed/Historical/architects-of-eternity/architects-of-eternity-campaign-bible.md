@@ -115,20 +115,22 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'See' any hex-tile on the map. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Barbarian Warrior (Standard)
-(CR 1). Humanoid. HP 15, AC 11.
+
+## Bestiary
+### 1. Barbarian Warrior (Standard) (CR 1)
+(CR 1). Humanoid. **HP:** 15, **AC:** 11.
 **Abilities:**
 *   **Chaotic Ambush:** The warrior has advantage on attacks if they are in a non-hex-controlled tile.
 *   **Club Strike:** Melee attack. 1d8+2 damage.
 
-### 2. Knight of Chivalry (Elite)
-(CR 5). Humanoid. HP 80, AC 16 (Plate Armor).
+### 2. Knight of Chivalry (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 16 (Plate Armor).
 **Abilities:**
 *   **Heraldic Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Charging Strike:** Melee attack. 2d10+4 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Emperor (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Emperor (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Order of Progress Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Emperor's 'Grand Design.'
 *   **The Final Move:** Once per combat, the Emperor can force an enemy to take an action that serves his own glory.

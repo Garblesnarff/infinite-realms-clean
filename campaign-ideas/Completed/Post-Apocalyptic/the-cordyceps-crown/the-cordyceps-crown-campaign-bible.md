@@ -116,20 +116,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the holder advantage on all Charisma (Persuasion and Intimidation) checks inside the ruins. **Curse:** The holder is hunted by FEDRA.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Infected Runner (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Fungal patches).
+
+## Bestiary
+### 1. Infected Runner (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Fungal patches).
 **Abilities:**
 *   **Primal Rage:** The runner has advantage on attacks if they have moved at least 30 feet this turn.
 *   **Vicious Bite:** Melee attack. 1d8+3 damage + Target is infected (DC 13 CON save).
 
-### 2. Fungal Clicker (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Fungal Clicker (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Echolocation:** Any creature within 60 feet cannot use the Hide action unless they are stationary.
 *   **Clicking Gaze:** Ranged attack (Psychic). 2d10 damage + Target is paralyzed for 1 round.
 
-### 3. 'The Mastermind' Bloater (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Bloater (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Spore Cloud Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the fungus's 'Network Directive.'
 *   **The Final Reclaiming:** Once per combat, the Bloater can force an enemy to take an action that serves the stability of the infection.

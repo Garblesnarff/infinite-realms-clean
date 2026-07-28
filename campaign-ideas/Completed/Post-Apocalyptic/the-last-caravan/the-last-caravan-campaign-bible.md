@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Dredge Warrior (Standard)
-(CR 2). Construct. HP 30, AC 13 (Stone Armor).
+
+## Bestiary
+### 1. Dredge Warrior (Standard) (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13 (Stone Armor).
 **Abilities:**
 *   **Mechanical Movement:** The warrior has advantage on attacks if they have an ally within 10 feet.
 *   **Stone Strike:** Melee attack. 1d8+3 damage + Target is paralyzed for 1 round.
 
-### 2. Dredge Slinger (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Dredge Slinger (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Glowing Core Aura:** Any enemy within 30 feet has disadvantage on Stealth checks.
 *   **Explosive Shard:** Ranged attack. 2d10 fire damage in a 15ft cone.
 
-### 3. 'The Mastermind' Bellower (Proxy)
-(CR 12). Monstrosity (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Bellower (Proxy) (CR 12)
+(CR 12). Monstrosity (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Permanent Twilight Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the coming silence.
 *   **The Final Reset:** Once per combat, the Bellower can force all creatures within 100 feet to re-roll their initiative.

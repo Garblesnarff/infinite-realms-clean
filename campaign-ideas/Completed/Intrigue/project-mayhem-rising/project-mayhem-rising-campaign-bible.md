@@ -115,20 +115,22 @@ The soaring, art deco heights of the global financial system.
 **Mechanics:** Grants the user +5 to all Intelligence (Investigation) checks inside urban environments. **Curse:** The user begins to see the world in 'Sterile Whites' and suffers disadvantage on all empathy checks.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Corporate Drone (Suit)
-(CR 1/2). Humanoid. HP 15, AC 11.
+
+## Bestiary
+### 1. Corporate Drone (Suit) (CR 1/2)
+(CR 1/2). Humanoid. **HP:** 15, **AC:** 11.
 **Abilities:**
 *   **Soul-Crushing Jargon:** Ranged attack (Psychic). 1d6 damage + Target is bored (disadvantage on next check).
 *   **Safety in Numbers:** The drone has advantage on attacks if they have 3 or more allies within 5 feet.
 
-### 2. Space Monkey (Project Mayhem)
-(CR 3). Humanoid. HP 45, AC 14.
+### 2. Space Monkey (Project Mayhem) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **No Individuality:** The monkey is immune to being charmed or frightened.
 *   **Bare-Knuckle Brutality:** Melee attack. 1d10+4 damage. If the monkey hits, they can make a free grappled check.
 
-### 3. 'The Reflection' Tyler Durden (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Reflection' Tyler Durden (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Anarchic Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Tyler's 'Manifesto.'
 *   **Reality Fracture:** Once per combat, Tyler can force all creatures within 100 feet to re-roll their initiative.

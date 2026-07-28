@@ -295,62 +295,64 @@ The home of the Gods, located on the mystical 600th floor of the Empire State Bu
 20. **A Ballpoint Pen:** It is just a pen. Not every pen is a secret, magical sword.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. The Minotaur
-(CR 3). Monstrosity. HP 65, AC 14.
+
+## Bestiary
+### 1. The Minotaur (CR 3)
+(CR 3). Monstrosity. **HP:** 65, **AC:** 14.
 **Abilities:**
 *   **Passive: Labyrinthine Sense:** The Minotaur cannot be surprised as long as it is in a maze or maze-like structure.
 *   **Action: Charge:** If the Minotaur moves at least 20 feet in a straight line, its Gore attack deals an extra 2d8 piercing damage.
 
-### 2. A Fury (Alecto)
-(CR 4). Fiend. HP 70, AC 15.
+### 2. A Fury (Alecto) (CR 4)
+(CR 4). Fiend. **HP:** 70, **AC:** 15.
 **Abilities:**
 *   **Passive: Winged Flight:** Has a flying speed of 60 feet.
 *   **Action: Fiery Whip:** The Fury makes two attacks with its flaming whip. On a hit, the target takes 2d6 fire damage and must make a WIS save or be frightened for 1 minute.
 
-### 3. A Hellhound
-(CR 5). Monstrosity. HP 85, AC 16.
+### 3. A Hellhound (CR 5)
+(CR 5). Monstrosity. **HP:** 85, **AC:** 16.
 **Abilities:**
 *   **Passive: Shadow-Step:** As a bonus action, the Hellhound can teleport up to 30 feet to an unoccupied space it can see that is in dim light or darkness.
 *   **Action: Soul-Fire Breath:** The Hellhound breathes a cone of black fire. Creatures in the cone must make a DEX save, taking 4d8 necrotic damage on a failure.
 
-### 4. A Dracaenae
-(CR 2). Monstrosity. HP 45, AC 14.
+### 4. A Dracaenae (CR 2)
+(CR 2). Monstrosity. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Passive: Two-Tailed:** Has two snake-trunks instead of legs. It can use a bonus action to make a bite attack with one of its tails.
 *   **Action: Multi-attack:** The Dracaenae makes two attacks with its spear.
 
-### 5. A "Logic-Bomb"
-(CR 6). Construct. HP 90, AC 12.
+### 5. A "Logic-Bomb" (CR 6)
+(CR 6). Construct. **HP:** 90, **AC:** 12.
 **Abilities:**
 *   **Passive: Aura of Rationality:** The area within 30 feet of the Logic-Bomb is an anti-magic field for divine magic only.
 *   **Action: Disprove:** The Logic-Bomb targets a creature of divine origin (or a demigod). The target must make an INT save or take 5d10 psychic damage as its own existence is "disproven."
 
-### 6. A "Statistic"
-(CR 5). Aberration. HP 75, AC 15.
+### 6. A "Statistic" (CR 5)
+(CR 5). Aberration. **HP:** 75, **AC:** 15.
 **Abilities:**
 *   **Passive: Probability Field:** All d20 rolls made within 30 feet of the Statistic cannot be a 1 or a 20.
 *   **Action: Mean-Reversion:** The Statistic targets a creature. The target must make a CHA save. On a failure, any temporary bonuses, high stats, or beneficial effects are reduced to their "average" for 1 minute.
 
-### 7. A "Headline"
-(CR 4). Aberration. HP 60, AC 14.
+### 7. A "Headline" (CR 4)
+(CR 4). Aberration. **HP:** 60, **AC:** 14.
 **Abilities:**
 *   **Passive: Sensationalism:** The Headline is immune to damage from any source that is not "dramatic" or "interesting."
 *   **Action: "Man Bites Dog!":** The Headline creates a bizarre, untrue, but sensational reality-warp. For the next minute, all dogs will try to bite men, all cats will chase cars, etc.
 
-### 8. A Cyclops
-(CR 6). Giant. HP 100, AC 15.
+### 8. A Cyclops (CR 6)
+(CR 6). Giant. **HP:** 100, **AC:** 15.
 **Abilities:**
 *   **Passive: Poor Depth Perception:** The Cyclops has disadvantage on all ranged attack rolls.
 *   **Action: Hurl Rock:** The Cyclops hurls a massive rock at a target, dealing 4d10 bludgeoning damage.
 
-### 9. A Hydra
-(CR 8). Monstrosity. HP 125, AC 16.
+### 9. A Hydra (CR 8)
+(CR 8). Monstrosity. **HP:** 125, **AC:** 16.
 **Abilities:**
 *   **Passive: Multi-Headed:** The Hydra has three heads. It can make one bite attack with each head as a single action. If it takes more than 20 damage in a single turn, one of its heads is severed.
 *   **Action: Hydra's Breath:** Each head breathes a cone of acid.
 
-### 10. The Nemean Lion
-(CR 7). Monstrosity. HP 110, AC 18.
+### 10. The Nemean Lion (CR 7)
+(CR 7). Monstrosity. **HP:** 110, **AC:** 18.
 **Abilities:**
 *   **Passive: Impenetrable Hide:** The Lion is immune to all piercing and slashing damage from non-magical weapons.
 *   **Action: Roar of Fear:** The Lion lets out a terrifying roar. All creatures within 60 feet must make a WIS save or become frightened for 1 minute.

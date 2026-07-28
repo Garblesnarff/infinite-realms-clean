@@ -116,20 +116,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Fey' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Sidhe Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13 (Weather-patches).
+
+## Bestiary
+### 1. Sidhe Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13 (Weather-patches).
 **Abilities:**
 *   **Glamour Blur:** The guard has advantage on Stealth checks in their respective season.
 *   **Oath Strike:** Melee attack. 1d8+3 damage + Target takes 1d6 elemental damage.
 
-### 2. Fomorian Archon (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Fomorian Archon (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Taboo Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Queen (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Queen (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Malevolent Whisper Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Mind's 'Compost Directive.'
 *   **The Final Reset:** Once per combat, the Mind can force all creatures within 100 feet to re-roll their initiative.

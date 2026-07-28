@@ -115,20 +115,22 @@ A high-contrast nightmare of dried-out fountains and desperate citizens.
 **Mechanics:** Grants the user the ability to 'Lock' or 'Unlock' any water-based system in Ashenvale. Once per day, the user can create a 30ft 'Flood' that deals 4d10 force damage.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Syndicate Enforcer (Brutal)
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. Syndicate Enforcer (Brutal) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **The Fix:** The enforcer has advantage on saves against being charmed or persuaded.
 *   **Pipe Wrench Strike:** Melee attack. 1d10+3 damage.
 
-### 2. Water Department Guard (Compromised)
-(CR 2). Humanoid. HP 30, AC 13.
+### 2. Water Department Guard (Compromised) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Sun-Blind:** The guard has disadvantage on being hit if they are in harsh midday sunlight.
 *   **Silenced Pistol:** Ranged attack. 2d6+2 damage.
 
-### 3. 'The Patriarch' Noah Cross (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Patriarch' Noah Cross (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Atmospheric Dread Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the city's corruption.
 *   **Mirage Command:** Once per combat, Cross can force an enemy to take an action that serves the Syndicate's goal.

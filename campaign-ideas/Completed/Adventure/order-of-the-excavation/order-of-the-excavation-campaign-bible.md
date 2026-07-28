@@ -115,20 +115,22 @@ A cozy town square of shops with awnings, campfires, and friendly NPCs.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks. **Curse:** The user begins to see the world in 'Chunky Pixels' and suffers disadvantage on all perception checks.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Themed Knight (Standard)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. Themed Knight (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Boss Pattern:** The knight has advantage on attacks if they have estudiado the target's movement for 1 round.
 *   **Themed Strike:** Melee attack. 1d8+3 damage + Target is knocked prone (DC 13 STR save).
 
-### 2. Spectre Guard (Elite)
-(CR 5). Undead/Knight. HP 80, AC 15.
+### 2. Spectre Guard (Elite) (CR 5)
+(CR 5). Undead/Knight. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Gothic Presence Aura:** Any enemy within 30 feet has disadvantage on saving throws against being frightened.
 *   **Spectral Blast:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Enchantress (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Enchantress (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Null-Honor Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Enchantress's 'Song of Power.'
 *   **The Final Choice:** Once per combat, the Enchantress can force an enemy to choose between saving an ally and achieving the mission objective.

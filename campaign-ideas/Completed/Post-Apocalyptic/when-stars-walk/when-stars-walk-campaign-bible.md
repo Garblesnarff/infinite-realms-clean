@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user advantage on all Wisdom (Perception) and Intelligence (Investigation) checks. Allows the wearer to see the 'True Aspect' of any Shadow.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Starborn Scout (Professional)
-(CR 3). Humanoid. HP 45, AC 14.
+
+## Bestiary
+### 1. Starborn Scout (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Celestial Grace:** The scout has advantage on attacks if they have moved at least 30 feet this turn.
 *   **Starlight Blast:** Ranged attack. 2d8+4 damage.
 
-### 2. Warped Stalker (Elite)
-(CR 5). Monstrosity. HP 80, AC 15.
+### 2. Warped Stalker (Elite) (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Bioluminescent Aura:** Any enemy within 30 feet takes 1d10 acid damage at the start of their turn.
 *   **Reality-Warping Spore:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Aries (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Aries (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Divine Rage Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be paralyzed by the weight of the new world.
 *   **The Final Alignment:** Once per combat, the Mastermind can force all creatures within 1 mile to re-roll their initiative.

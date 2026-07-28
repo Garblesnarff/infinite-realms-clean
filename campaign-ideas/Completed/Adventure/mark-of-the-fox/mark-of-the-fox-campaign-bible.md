@@ -115,20 +115,22 @@ A site of 'Romantic Seduction' and desaturated pastels.
 **Mechanics:** Grants the holder advantage on all Intelligence (Investigation) and Wisdom (Insight) checks. **Curse:** The holder is hunted by the Governor's Guard.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Governor's Guard (Standard)
-(CR 2). Humanoid. HP 30, AC 13.
+
+## Bestiary
+### 1. Governor's Guard (Standard) (CR 2)
+(CR 2). Humanoid. **HP:** 30, **AC:** 13.
 **Abilities:**
 *   **Ordered Discipline:** The guard has advantage on attacks if they have an ally within 5 feet.
 *   **Steel Strike:** Melee attack. 1d8+3 damage.
 
-### 2. Captain Monastario (Elite)
-(CR 5). Humanoid. HP 80, AC 15.
+### 2. Captain Monastario (Elite) (CR 5)
+(CR 5). Humanoid. **HP:** 80, **AC:** 15.
 **Abilities:**
 *   **Arrogant Flourish Aura:** Any enemy within 30 feet has disadvantage on Charisma checks.
 *   **Vengeful Strike:** Melee attack. 2d10 damage + Target is knocked prone.
 
-### 3. 'The Mastermind' Governor (Proxy)
-(CR 12). Humanoid (Mastermind). HP 180, AC 18.
+### 3. 'The Mastermind' Governor (Proxy) (CR 12)
+(CR 12). Humanoid (Mastermind). **HP:** 180, **AC:** 18.
 **Abilities:**
 *   **Golden Greed Aura:** Any creature within 60 feet must succeed on a DC 16 Wisdom save or be compelled to follow the Governor's 'Order of Progress.'
 *   **The Final Move:** Once per combat, the Governor can force an enemy to take an action that serves the glory of the Crown.

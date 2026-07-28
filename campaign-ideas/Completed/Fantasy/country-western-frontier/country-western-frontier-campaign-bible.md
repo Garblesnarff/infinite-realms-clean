@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Nowhere' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Outlaw Raider (Professional)
-(CR 3). Humanoid. HP 45, AC 14 (Weathered Leather).
+
+## Bestiary
+### 1. Outlaw Raider (Professional) (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14 (Weathered Leather).
 **Abilities:**
 *   **Desert Stealth:** The raider has advantage on attacks if they are in a sand-dune hex.
 *   **Revolver Shot:** Ranged attack. 2d8+4 damage.
 
-### 2. Modern Sentinel (Elite)
-(CR 5). Construct. HP 80, AC 16.
+### 2. Modern Sentinel (Elite) (CR 5)
+(CR 5). Construct. **HP:** 80, **AC:** 16.
 **Abilities:**
 *   **Stadium Aura:** Any enemy within 30 feet takes 1d10 psychic damage at the start of their turn.
 *   **Reality-Warping Pulse:** Ranged attack (Psychic). 2d10 damage + Target is confused for 1 round.
 
-### 3. 'The Mastermind' Johnny (Proxy)
-(CR 15). Humanoid (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Johnny (Proxy) (CR 15)
+(CR 15). Humanoid (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Absolute Silence Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be paralyzed by the weight of the coming flash.
 *   **The Final Reset:** Once per combat, Johnny can force all creatures within 100 feet to re-roll their initiative.

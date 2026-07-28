@@ -115,20 +115,22 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Music' magic.
 
 ## [TAG: ENEMY_STATBLOCK]
-### 1. Asura Warrior (Standard)
-(CR 3). Fiend. HP 45, AC 14.
+
+## Bestiary
+### 1. Asura Warrior (Standard) (CR 3)
+(CR 3). Fiend. **HP:** 45, **AC:** 14.
 **Abilities:**
 *   **Chaotic Ambush:** The warrior has advantage on attacks if they are in a non-dharmic-controlled tile.
 *   **Mace Strike:** Melee attack. 1d10+4 damage.
 
-### 2. Deva Archon (Elite)
-(CR 8). Celestial. HP 150, AC 18.
+### 2. Deva Archon (Elite) (CR 8)
+(CR 8). Celestial. **HP:** 150, **AC:** 18.
 **Abilities:**
 *   **Dharmic Aura:** Any enemy within 30 feet has disadvantage on saving throws against being charmed.
 *   **Celestial Blast:** Ranged attack. 4d10 radiant damage in a 15ft cone.
 
-### 3. 'The Mastermind' Ravana (Proxy)
-(CR 15). Fiend (Mastermind). HP 250, AC 20.
+### 3. 'The Mastermind' Ravana (Proxy) (CR 15)
+(CR 15). Fiend (Mastermind). **HP:** 250, **AC:** 20.
 **Abilities:**
 *   **Absolute Ambition Aura:** Any creature within 60 feet must succeed on a DC 18 Wisdom save or be compelled to follow Ravana's 'Grand Design.'
 *   **The Final Reset:** Once per combat, Ravana can force all creatures within 100 feet to re-roll their initiative.
