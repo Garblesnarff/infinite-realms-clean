@@ -123,7 +123,7 @@ Other near-misses intentionally **not** alternates:
 | Arcane Gastronomy | **Strong** | First day / sorting / disaster. |
 | Crimson Thread | **Adequate** | Boomtown job works; multi-gen framing is heavy for a trial. |
 | Astral Express | **Strong case, IP caution** | Train murder works; Poirot branding may need PO edit. |
-| Weather Weavers | **TBD in Phase 2** | Package complete; opening not yet cold-read for weakness report. |
+| Weather Weavers | **Strong** | Monopoly on weather; Rogue Skies; party caught between guild and liberation. |
 | Wings of the Void | **Strong** | First jump initiation is cinematic. |
 
 ---
