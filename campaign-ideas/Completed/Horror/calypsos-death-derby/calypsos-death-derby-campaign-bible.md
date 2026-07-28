@@ -306,16 +306,46 @@ The central conflict is the struggle between **Acceptance and Obsession**. The C
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Forgetting (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
-2.  **Nihilist Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Destruction Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on destruction checks), *Meaningless Zealot* (Immune to fear).
-3.  **Echo-Weaver (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on destruction checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
-4.  **Race Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Race-Jar* (Can extract a race directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
-5.  **Cosmic Vehicle Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
-6.  **Ash-Weaver (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
-7.  **Cosmic Vehicle's Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Destruction (Corrupted)* (Can instantly restore any lost race to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful destruction spells that cause chaos).
-8.  **Fury-Eater (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
-9.  **The Blank Slate (Nihilist Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Destruction Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **The Cosmic Vehicle's Fury (Avatar)** (CR 20 Cosmic Entity). HP: 400, AC: 22. **Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Destruction* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
+### 1. Forgetting (Corrupted) (CR 3)
+**HP:** 45 **AC:** 14
+**Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
+
+### 2. Nihilist Cultist (CR 2)
+**HP:** 30 **AC:** 12
+**Abilities:** *Anti-Destruction Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on destruction checks), *Meaningless Zealot* (Immune to fear).
+
+### 3. Echo-Weaver (Corrupted) (CR 8)
+**HP:** 120 **AC:** 16
+**Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on destruction checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
+
+### 4. Race Thief (Master) (CR 5)
+**HP:** 75 **AC:** 15
+**Abilities:** *Race-Jar* (Can extract a race directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
+
+### 5. Cosmic Vehicle Seeker (Fanatic) (CR 3)
+**HP:** 50 **AC:** 13
+**Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
+
+### 6. Ash-Weaver (Corrupted) (CR 6)
+**HP:** 90 **AC:** 17
+**Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
+
+### 7. Cosmic Vehicle's Chosen (Corrupted) (CR 10)
+**HP:** 150 **AC:** 17
+**Abilities:** *Divine Destruction (Corrupted)* (Can instantly restore any lost race to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful destruction spells that cause chaos).
+
+### 8. Fury-Eater (Corrupted) (CR 7)
+**HP:** 110 **AC:** 18
+**Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
+
+### 9. The Blank Slate (Nihilist Avatar) (CR 15)
+**HP:** 250 **AC:** 19
+**Abilities:** *Anti-Destruction Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+
+### 10. The Cosmic Vehicle's Fury (Avatar) (CR 20)
+**HP:** 400 **AC:** 22
+**Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Destruction* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

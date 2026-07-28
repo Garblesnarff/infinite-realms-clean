@@ -320,57 +320,63 @@ The Hellmouth is not just a door; it is a metaphysical magnet. Reality is thinne
 
 ### Custom Monsters (10)
 
-1.  **Fledgling Vampire** (CR 1)
-    *   HP: 20, AC: 12, Spd: 30.
-    *   **Vampire Face:** Transform for +2 dmg.
-    *   **Dusting:** Dies instantly if hit by wood/sun/fire (Crit).
+### 1. Fledgling Vampire (CR 1)
+**HP:** 20 **AC:** 12
+**Vampire Face:** Transform for +2 dmg.
+**Dusting:** Dies instantly if hit by wood/sun/fire (Crit).
 
-2.  **Turok-Han (Ubervamp)** (CR 8)
-    *   HP: 120, AC: 18, Spd: 40.
-    *   **Ancient Skin:** Resistance to non-magical weapons.
-    *   **Maul:** Multi-attack (Claw/Claw/Bite).
+### 2. Turok-Han (Ubervamp) (CR 8)
+**HP:** 120 **AC:** 18
+**Ancient Skin:** Resistance to non-magical weapons.
+**Maul:** Multi-attack (Claw/Claw/Bite).
 
-3.  **Vengeance Demon** (CR 10)
-    *   HP: 90, AC: 16, Spd: Fly 30.
-    *   **Wish Grant:** Can alter reality based on a spoken wish.
-    *   **True Face:** Terrifying visage causes Fear save.
+### 3. Vengeance Demon (CR 10)
+**HP:** 90 **AC:** 16
+**Wish Grant:** Can alter reality based on a spoken wish.
+**True Face:** Terrifying visage causes Fear save.
 
-4.  **The Gentlemen** (CR 6)
-    *   HP: 40, AC: 15, Spd: Float 20.
-    *   **Silence:** Aura of silence 60ft.
-    *   **Surgical Precision:** Attacks bypass armor.
-    *   **Weakness:** Head explodes if they hear a real scream.
+### 4. The Gentlemen (CR 6)
+**HP:** 40 **AC:** 15
+**Silence:** Aura of silence 60ft.
+**Surgical Precision:** Attacks bypass armor.
+**Weakness:** Head explodes if they hear a real scream.
 
-5.  **Der Kindestod** (CR 5)
-    *   HP: 60, AC: 14.
-    *   **Invisibility:** Only visible to sick children (or fevered players).
-    *   **Life Drain:** Sucks HP to heal self.
+### 5. Der Kindestod (CR 5)
+**HP:** 60 **AC:** 14
+.
+**Invisibility:** Only visible to sick children (or fevered players).
+**Life Drain:** Sucks HP to heal self.
 
-6.  **Gnarl** (CR 4)
-    *   HP: 35, AC: 18 (Fast).
-    *   **Paralyzing Scratch:** Con save or paralyzed.
-    *   **Skin Flay:** DoT on paralyzed targets.
+### 6. Gnarl (CR 4)
+**HP:** 35 **AC:** 18
+(Fast).
+**Paralyzing Scratch:** Con save or paralyzed.
+**Skin Flay:** DoT on paralyzed targets.
 
-7.  **Loan Shark Demon** (CR 3)
-    *   HP: 50, AC: 10 (Suit).
-    *   **Debt:** Can curse player to lose gold/items.
-    *   **Shark Head:** Bite attack 2d8.
+### 7. Loan Shark Demon (CR 3)
+**HP:** 50 **AC:** 10
+(Suit).
+**Debt:** Can curse player to lose gold/items.
+**Shark Head:** Bite attack 2d8.
 
-8.  **Mantis Lady** (CR 5)
-    *   HP: 70, AC: 16 (Chitin).
-    *   **Pheromones:** Charm male characters.
-    *   **Decapitate:** Crit kills instantly.
+### 8. Mantis Lady (CR 5)
+**HP:** 70 **AC:** 16
+(Chitin).
+**Pheromones:** Charm male characters.
+**Decapitate:** Crit kills instantly.
 
-9.  **Bezoar** (CR 2)
-    *   HP: 100, AC: 5 (Immobile).
-    *   **Mind Control:** Roots tentacles into floor, controls nearby students.
-    *   **Subterranean:** Hides under floorboards.
+### 9. Bezoar (CR 2)
+**HP:** 100 **AC:** 5
+(Immobile).
+**Mind Control:** Roots tentacles into floor, controls nearby students.
+**Subterranean:** Hides under floorboards.
 
-10. **Glory (God Form)** (CR 20)
-    *   HP: 500, AC: 25.
-    *   **Super Speed:** Blurs, imposes disadvantage on attacks.
-    *   **Brain Suck:** Touches head, target becomes insane (INT 3).
-    *   **Weakness:** Transforms into Ben (Human, HP 10) randomly.
+### 10. Glory (God Form) (CR 20)
+**HP:** 500 **AC:** 25
+.
+**Super Speed:** Blurs, imposes disadvantage on attacks.
+**Brain Suck:** Touches head, target becomes insane (INT 3).
+**Weakness:** Transforms into Ben (Human, HP 10) randomly.
 
 [TAG: ENCOUNTER_TABLE]
 

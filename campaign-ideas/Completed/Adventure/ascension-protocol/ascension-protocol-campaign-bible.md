@@ -307,16 +307,46 @@ The central conflict is the struggle between **Determinism and Free Will**. The 
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Pixelated Horror** (CR 4 Aberration). HP: 60, AC: 14. **Abilities:** *De-Render* (Can temporarily de-render a limb, making it immune to damage), *Corrupted Touch* (Deals necrotic damage and causes minor glitches in the target's perception).
-2.  **Looping Construct** (CR 3 Construct). HP: 45, AC: 16. **Abilities:** *Temporal Loop* (Forces a target to repeat their last action on a failed WIS save), *Repetitive Strike* (Attacks the same target repeatedly).
-3.  **Data-Ghost** (CR 5 Undead). HP: 70, AC: 12. **Abilities:** *Incorporeal Movement*, *Memory Drain* (Deals psychic damage and forces a WIS save vs. forgetting a random memory).
-4.  **System Guardian (Enforcer)** (CR 6 Construct). HP: 90, AC: 18. **Abilities:** *Error Correction* (Can instantly identify and neutralize any deviation from the simulation's core programming), *Code Lock* (Can temporarily disable a target's abilities).
-5.  **Malware (Avatar)** (CR 10 Aberration). HP: 150, AC: 17. **Abilities:** *Reality Corruption* (Aura that causes physics to glitch and data to de-render), *Code Injection* (Can inject custom code into a target, causing various effects).
-6.  **Glitch-Hound** (CR 2 Construct). HP: 30, AC: 15. **Abilities:** *Glitch Sense* (Blindsight 60ft), *Static Bark* (30-ft cone, DC 12 CON save or take 2d6 lightning damage and be deafened).
-7.  **Pixelated Cultist** (CR 1 Humanoid). HP: 20, AC: 11. **Abilities:** *De-Rendering Aura* (Causes minor objects to pixelate around them), *Nihilistic Chant* (Forces a WIS save vs. becoming disheartened).
-8.  **Rogue Program (Minor)** (CR 1/2 Aberration). HP: 15, AC: 13. **Abilities:** *Code Injection* (Can cause minor glitches in technology), *Self-Replicate* (Can create a duplicate of itself once per encounter).
-9.  **Optimized Human (Corrupted)** (CR 7 Humanoid). HP: 100, AC: 16. **Abilities:** *Reality Patch* (Can temporarily negate a spell or ability), *Perfect Strike* (Attacks always hit).
-10. **Kronos the Restless (Awakened)** (CR 20 Giant). HP: 400, AC: 22. **Abilities:** *World-Shaking Step* (Creates a massive earthquake), *Reality-Bending Dream* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Indifference* (Immune to all mind-affecting spells).
+### 1. Pixelated Horror (CR 4)
+**HP:** 60 **AC:** 14
+**Abilities:** *De-Render* (Can temporarily de-render a limb, making it immune to damage), *Corrupted Touch* (Deals necrotic damage and causes minor glitches in the target's perception).
+
+### 2. Looping Construct (CR 3)
+**HP:** 45 **AC:** 16
+**Abilities:** *Temporal Loop* (Forces a target to repeat their last action on a failed WIS save), *Repetitive Strike* (Attacks the same target repeatedly).
+
+### 3. Data-Ghost (CR 5)
+**HP:** 70 **AC:** 12
+**Abilities:** *Incorporeal Movement*, *Memory Drain* (Deals psychic damage and forces a WIS save vs. forgetting a random memory).
+
+### 4. System Guardian (Enforcer) (CR 6)
+**HP:** 90 **AC:** 18
+**Abilities:** *Error Correction* (Can instantly identify and neutralize any deviation from the simulation's core programming), *Code Lock* (Can temporarily disable a target's abilities).
+
+### 5. Malware (Avatar) (CR 10)
+**HP:** 150 **AC:** 17
+**Abilities:** *Reality Corruption* (Aura that causes physics to glitch and data to de-render), *Code Injection* (Can inject custom code into a target, causing various effects).
+
+### 6. Glitch-Hound (CR 2)
+**HP:** 30 **AC:** 15
+**Abilities:** *Glitch Sense* (Blindsight 60ft), *Static Bark* (30-ft cone, DC 12 CON save or take 2d6 lightning damage and be deafened).
+
+### 7. Pixelated Cultist (CR 1)
+**HP:** 20 **AC:** 11
+**Abilities:** *De-Rendering Aura* (Causes minor objects to pixelate around them), *Nihilistic Chant* (Forces a WIS save vs. becoming disheartened).
+
+### 8. Rogue Program (Minor) (CR 1/2)
+**HP:** 15 **AC:** 13
+**Abilities:** *Code Injection* (Can cause minor glitches in technology), *Self-Replicate* (Can create a duplicate of itself once per encounter).
+
+### 9. Optimized Human (Corrupted) (CR 7)
+**HP:** 100 **AC:** 16
+**Abilities:** *Reality Patch* (Can temporarily negate a spell or ability), *Perfect Strike* (Attacks always hit).
+
+### 10. Kronos the Restless (Awakened) (CR 20)
+**HP:** 400 **AC:** 22
+**Abilities:** *World-Shaking Step* (Creates a massive earthquake), *Reality-Bending Dream* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Indifference* (Immune to all mind-affecting spells).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

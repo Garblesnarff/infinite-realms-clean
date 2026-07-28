@@ -418,67 +418,66 @@ The burning of coal releases "Dead Air," which displaces "Living Breath" (Ki). I
 ---
 
 [TAG: ENEMY_STATBLOCK]
-# 7. Bestiary
-
+## 7. Bestiary
 ### 1. Imperial Conscript (CR 1/2)
-*   **HP:** 16, **AC:** 14 (Uniform), **Speed:** 30ft.
-*   **Weapon:** Bolt-Action Rifle (Ranged 1d10).
-*   **Ability:** *Volley Fire.* +2 to hit if adjacent to an ally.
-*   **Weird:** Occasionally stops to check the manual.
+**HP:** 16 **AC:** 14
+**Weapon:** Bolt-Action Rifle (Ranged 1d10).
+**Ability:** *Volley Fire.* +2 to hit if adjacent to an ally.
+**Weird:** Occasionally stops to check the manual.
 
 ### 2. Traditionalist Samurai (CR 3)
-*   **HP:** 45, **AC:** 16 (Lamellar), **Speed:** 35ft.
-*   **Weapon:** Katana (Melee 1d8+4).
-*   **Ability:** *Honorable Duel.* Marks one target. Deals +1d6 dmg to them, but Disadvantage against others.
-*   **Weird:** recites poetry while fighting.
+**HP:** 45 **AC:** 16
+**Weapon:** Katana (Melee 1d8+4).
+**Ability:** *Honorable Duel.* Marks one target. Deals +1d6 dmg to them, but Disadvantage against others.
+**Weird:** recites poetry while fighting.
 
 ### 3. Gatling Gun Team (CR 5)
-*   **HP:** 60, **AC:** 12, **Speed:** 0 (Stationary).
-*   **Weapon:** Gatling Gun (Cone of fire, 4d6 dmg, Dex save half).
-*   **Ability:** *Overheat.* Cannot fire 2 rounds in a row.
-*   **Weird:** The gun barrels glow red and sound like screaming.
+**HP:** 60 **AC:** 12
+**Weapon:** Gatling Gun (Cone of fire, 4d6 dmg, Dex save half).
+**Ability:** *Overheat.* Cannot fire 2 rounds in a row.
+**Weird:** The gun barrels glow red and sound like screaming.
 
 ### 4. Shadow Ninja (CR 4)
-*   **HP:** 30, **AC:** 15, **Speed:** 40ft.
-*   **Weapon:** Shuriken/Kama.
-*   **Ability:** *Smoke Vanish.* Teleport 30ft as a bonus action.
-*   **Weird:** Bleeds smoke instead of blood.
+**HP:** 30 **AC:** 15
+**Weapon:** Shuriken/Kama.
+**Ability:** *Smoke Vanish.* Teleport 30ft as a bonus action.
+**Weird:** Bleeds smoke instead of blood.
 
 ### 5. Steam-Ogre (Oni) (CR 7)
-*   **HP:** 100, **AC:** 18 (Iron Skin), **Speed:** 25ft.
-*   **Weapon:** Tetsubo (Club).
-*   **Ability:** *Steam Breath.* 15ft cone, fire damage.
-*   **Weird:** Has a pressure gauge on its chest.
+**HP:** 100 **AC:** 18
+**Weapon:** Tetsubo (Club).
+**Ability:** *Steam Breath.* 15ft cone, fire damage.
+**Weird:** Has a pressure gauge on its chest.
 
 ### 6. Telegraph Spirit (CR 2)
-*   **HP:** 20, **AC:** 13, **Speed:** Fly 50ft.
-*   **Weapon:** Shocking Touch (2d8 Lightning).
-*   **Ability:** *Wire Travel.* Move instantly along telegraph lines.
-*   **Weird:** Speaks in Morse Code.
+**HP:** 20 **AC:** 13
+**Weapon:** Shocking Touch (2d8 Lightning).
+**Ability:** *Wire Travel.* Move instantly along telegraph lines.
+**Weird:** Speaks in Morse Code.
 
 ### 7. Western Dragoon (CR 3)
-*   **HP:** 50, **AC:** 17, **Speed:** 60ft (Mounted).
-*   **Weapon:** Saber/Carbine.
-*   **Ability:** *Charge.* Extra 2d6 dmg if moving 20ft straight.
-*   **Weird:** Horse wears gas mask.
+**HP:** 50 **AC:** 17
+**Weapon:** Saber/Carbine.
+**Ability:** *Charge.* Extra 2d6 dmg if moving 20ft straight.
+**Weird:** Horse wears gas mask.
 
 ### 8. Rust-Mite Swarm (CR 2)
-*   **HP:** 40, **AC:** 12, **Speed:** 20ft.
-*   **Weapon:** Corrode (Destroys armor -1 AC per hit).
-*   **Ability:** *Resistance.* Half damage from non-magical weapons.
-*   **Weird:** Sounds like crinkling foil.
+**HP:** 40 **AC:** 12
+**Weapon:** Corrode (Destroys armor -1 AC per hit).
+**Ability:** *Resistance.* Half damage from non-magical weapons.
+**Weird:** Sounds like crinkling foil.
 
 ### 9. The White Tiger (CR 6)
-*   **HP:** 80, **AC:** 15, **Speed:** 50ft.
-*   **Weapon:** Bite/Claw.
-*   **Ability:** *Ghost Form.* Can pass through walls.
-*   **Weird:** Has human eyes.
+**HP:** 80 **AC:** 15
+**Weapon:** Bite/Claw.
+**Ability:** *Ghost Form.* Can pass through walls.
+**Weird:** Has human eyes.
 
 ### 10. The Ironclad Walker (CR 8)
-*   **HP:** 120, **AC:** 20, **Speed:** 20ft.
-*   **Weapon:** Cannon Arm.
-*   **Ability:** *Stomp.* AOE knockdown.
-*   **Weird:** Pilot is a brain in a jar.
+**HP:** 120 **AC:** 20
+**Weapon:** Cannon Arm.
+**Ability:** *Stomp.* AOE knockdown.
+**Weird:** Pilot is a brain in a jar.
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

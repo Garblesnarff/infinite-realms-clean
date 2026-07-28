@@ -306,16 +306,46 @@ The conflict is not a battle for survival; it is a struggle for **Relevance**. T
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Void-Spawn** (CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Formless Horror* (Resistance to non-magical physical damage; can move through creatures and objects), *Reality Warp* (As a bonus action, can cause a 10-foot radius to become difficult terrain or grant disadvantage on a saving throw).
-2.  **Titan-Touched Human** (CR 4 Humanoid). HP: 60, AC: 14. **Abilities:** *Cosmic Resilience* (Advantage on saves vs. fear and charm), *Reality Ripple* (Melee attack deals extra force damage and pushes target 5 feet).
-3.  **Glass Golem** (CR 7 Construct). HP: 110, AC: 17. **Abilities:** *Razor Sharp* (Deals 1d6 piercing damage to any creature that hits it with a melee attack), *Shatter* (Explodes for 4d6 piercing damage in a 10-foot radius upon death).
-4.  **Sky-Whale Calf** (CR 5 Beast). HP: 80, AC: 13. **Abilities:** *Airborne* (Fly speed 60ft), *Sonic Cry* (30-ft cone, DC 14 CON save or take 3d6 thunder damage and be deafened).
-5.  **Sand-Wyrm** (CR 9 Beast). HP: 150, AC: 16. **Abilities:** *Burrow* (Can burrow through sand at full speed), *Swallow Whole* (Can swallow a Large or smaller creature).
-6.  **Colossus-Cannon Crew** (CR 3 Humanoid). HP: 45, AC: 15. **Abilities:** *Coordinated Fire* (If two or more crew target the same creature, they gain advantage on attack rolls), *Reload* (Takes an action to reload the cannon).
-7.  **Dream-Eater** (CR 6 Fey). HP: 90, AC: 15. **Abilities:** *Dream Walk* (Can enter the dreams of sleeping creatures), *Nightmare Touch* (Deals psychic damage and forces a WIS save vs. fear).
-8.  **Seismic Golem** (CR 10 Construct). HP: 180, AC: 18. **Abilities:** *Earthquake Stomp* (Creates a localized earthquake), *Tremor Sense* (Blindsight 120ft).
-9.  **Titan-Scale Drake** (CR 4 Beast). HP: 60, AC: 15. **Abilities:** *Hardened Scales* (Resistance to bludgeoning damage), *Acid Breath* (15-ft cone, 2d6 acid damage).
-10. **Kronos the Restless (Avatar)** (CR 20 Giant). HP: 400, AC: 22. **Abilities:** *World-Shaking Step* (Creates a massive earthquake), *Reality-Bending Dream* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Indifference* (Immune to all mind-affecting spells).
+### 1. Void-Spawn (CR 8)
+**HP:** 120 **AC:** 16
+**Abilities:** *Formless Horror* (Resistance to non-magical physical damage; can move through creatures and objects), *Reality Warp* (As a bonus action, can cause a 10-foot radius to become difficult terrain or grant disadvantage on a saving throw).
+
+### 2. Titan-Touched Human (CR 4)
+**HP:** 60 **AC:** 14
+**Abilities:** *Cosmic Resilience* (Advantage on saves vs. fear and charm), *Reality Ripple* (Melee attack deals extra force damage and pushes target 5 feet).
+
+### 3. Glass Golem (CR 7)
+**HP:** 110 **AC:** 17
+**Abilities:** *Razor Sharp* (Deals 1d6 piercing damage to any creature that hits it with a melee attack), *Shatter* (Explodes for 4d6 piercing damage in a 10-foot radius upon death).
+
+### 4. Sky-Whale Calf (CR 5)
+**HP:** 80 **AC:** 13
+**Abilities:** *Airborne* (Fly speed 60ft), *Sonic Cry* (30-ft cone, DC 14 CON save or take 3d6 thunder damage and be deafened).
+
+### 5. Sand-Wyrm (CR 9)
+**HP:** 150 **AC:** 16
+**Abilities:** *Burrow* (Can burrow through sand at full speed), *Swallow Whole* (Can swallow a Large or smaller creature).
+
+### 6. Colossus-Cannon Crew (CR 3)
+**HP:** 45 **AC:** 15
+**Abilities:** *Coordinated Fire* (If two or more crew target the same creature, they gain advantage on attack rolls), *Reload* (Takes an action to reload the cannon).
+
+### 7. Dream-Eater (CR 6)
+**HP:** 90 **AC:** 15
+**Abilities:** *Dream Walk* (Can enter the dreams of sleeping creatures), *Nightmare Touch* (Deals psychic damage and forces a WIS save vs. fear).
+
+### 8. Seismic Golem (CR 10)
+**HP:** 180 **AC:** 18
+**Abilities:** *Earthquake Stomp* (Creates a localized earthquake), *Tremor Sense* (Blindsight 120ft).
+
+### 9. Titan-Scale Drake (CR 4)
+**HP:** 60 **AC:** 15
+**Abilities:** *Hardened Scales* (Resistance to bludgeoning damage), *Acid Breath* (15-ft cone, 2d6 acid damage).
+
+### 10. Kronos the Restless (Avatar) (CR 20)
+**HP:** 400 **AC:** 22
+**Abilities:** *World-Shaking Step* (Creates a massive earthquake), *Reality-Bending Dream* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Indifference* (Immune to all mind-affecting spells).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

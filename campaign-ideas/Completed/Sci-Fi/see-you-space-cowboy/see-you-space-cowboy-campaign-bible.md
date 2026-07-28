@@ -308,16 +308,46 @@ The central conflict is the struggle between **Amnesia and Memory**. Every chara
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Syndicate Enforcer** (CR 3 Humanoid). HP: 55, AC: 16. **Abilities:** *Code of the Syndicate* (Will not attack an unarmed opponent), *Suit-Jacket Garrote* (Can use their suit jacket to grapple and strangle).
-2.  **ISSP "Beat" Cop** (CR 1 Humanoid). HP: 20, AC: 14. **Abilities:** *Call for Backup* (Can summon 1d4 more cops), *By the Book* (Has disadvantage on checks that involve breaking the rules).
-3.  **Data-Wraith** (CR 5 Elemental). HP: 70, AC: 15. **Abilities:** *Digital Possession* (Can possess electronic systems), *Information Overload* (Deals psychic damage in a burst of pure data).
-4.  **"Bloody-Eye" Junkie** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Superhuman Reflexes* (Has three reactions per round), *Inevitable Crash* (Gains a level of exhaustion at the end of each of its turns).
-5.  **Gate-Crasher Cultist** (CR 2 Humanoid). HP: 25, AC: 13. **Abilities:** *Gate-Warp* (Can teleport short distances near a Gate), *Sacrifice* (Will attempt to throw themselves into the Gate to disrupt it).
-6.  **Teddy-Bear Bomb** (CR 1 Construct). HP: 5, AC: 10. **Abilities:** *Cute Appearance* (Creatures are reluctant to attack it), *Explode* (Explodes for 4d6 fire damage).
-7.  **Repossession Agent** (CR 4 Construct). HP: 60, AC: 18. **Abilities:** *Binding Contract* (Can attempt to magically force a target to surrender an item), *Non-Lethal Force* (Its attacks can only knock a target unconscious, not kill them).
-8.  **Viral Meme** (CR 3 Illusion). HP: 40, AC: 14. **Abilities:** *Go Viral* (Can force a target to repeat a specific phrase or action on a failed WIS save), *Information Drain* (Deals psychic damage).
-9.  **Stray Dog** (CR 1/8 Beast). HP: 5, AC: 12. **Abilities:** *Good Boy* (Can use the Help action as a bonus action), *Sad Eyes* (Can impose disadvantage on an attack against it).
-10. **Vicious (Final Form)** (CR 15 Humanoid). HP: 250, AC: 20. **Abilities:** *The Past is Not Dead* (Can force a target to make a WIS save vs. being paralyzed by their own regrets), *It's Not Even Past* (Can take an extra turn, but takes damage for doing so).
+### 1. Syndicate Enforcer (CR 3)
+**HP:** 55 **AC:** 16
+**Abilities:** *Code of the Syndicate* (Will not attack an unarmed opponent), *Suit-Jacket Garrote* (Can use their suit jacket to grapple and strangle).
+
+### 2. ISSP "Beat" Cop (CR 1)
+**HP:** 20 **AC:** 14
+**Abilities:** *Call for Backup* (Can summon 1d4 more cops), *By the Book* (Has disadvantage on checks that involve breaking the rules).
+
+### 3. Data-Wraith (CR 5)
+**HP:** 70 **AC:** 15
+**Abilities:** *Digital Possession* (Can possess electronic systems), *Information Overload* (Deals psychic damage in a burst of pure data).
+
+### 4. "Bloody-Eye" Junkie (CR 2)
+**HP:** 30 **AC:** 12
+**Abilities:** *Superhuman Reflexes* (Has three reactions per round), *Inevitable Crash* (Gains a level of exhaustion at the end of each of its turns).
+
+### 5. Gate-Crasher Cultist (CR 2)
+**HP:** 25 **AC:** 13
+**Abilities:** *Gate-Warp* (Can teleport short distances near a Gate), *Sacrifice* (Will attempt to throw themselves into the Gate to disrupt it).
+
+### 6. Teddy-Bear Bomb (CR 1)
+**HP:** 5 **AC:** 10
+**Abilities:** *Cute Appearance* (Creatures are reluctant to attack it), *Explode* (Explodes for 4d6 fire damage).
+
+### 7. Repossession Agent (CR 4)
+**HP:** 60 **AC:** 18
+**Abilities:** *Binding Contract* (Can attempt to magically force a target to surrender an item), *Non-Lethal Force* (Its attacks can only knock a target unconscious, not kill them).
+
+### 8. Viral Meme (CR 3)
+**HP:** 40 **AC:** 14
+**Abilities:** *Go Viral* (Can force a target to repeat a specific phrase or action on a failed WIS save), *Information Drain* (Deals psychic damage).
+
+### 9. Stray Dog (CR 1/8)
+**HP:** 5 **AC:** 12
+**Abilities:** *Good Boy* (Can use the Help action as a bonus action), *Sad Eyes* (Can impose disadvantage on an attack against it).
+
+### 10. Vicious (Final Form) (CR 15)
+**HP:** 250 **AC:** 20
+**Abilities:** *The Past is Not Dead* (Can force a target to make a WIS save vs. being paralyzed by their own regrets), *It's Not Even Past* (Can take an extra turn, but takes damage for doing so).
+
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)
