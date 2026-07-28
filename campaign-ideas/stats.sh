@@ -1,7 +1,8 @@
 #!/bin/bash
-# Campaign Stats - counts both Completed and In-Progress campaigns
+# Campaign Stats — counts packages by completeness and reports parser coverage.
+# Path is derived from the script's own location so it works from any checkout.
 
-BASE_DIR="/Users/rob/Claude/workspaces/infinite-realms-clean/campaign-ideas"
+BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 COMPLETED_DIR="$BASE_DIR/Completed"
 GENRES=("Fantasy" "Horror" "Sci-Fi" "Mystery" "Historical" "Post-Apocalyptic" "Intrigue" "Urban" "Adventure")
 
@@ -20,21 +21,11 @@ printf "%-20s %10s %10s %10s\n" "--------------------" "----------" "----------"
 for genre in "${GENRES[@]}"; do
     complete=0
     framework=0
-    
-    # Count completed (in Completed directory)
+
+    # Completed/<genre>/* — a package counts as complete only if it really has a bible
     if [ -d "$COMPLETED_DIR/$genre" ]; then
         for dir in "$COMPLETED_DIR/$genre"/*/; do
-            [ -d "$dir" ] && ((complete++))
-        done
-    fi
-    
-    # Count in-progress (in main genre directory)
-    genre_dir="$BASE_DIR/$genre"
-    if [ -d "$genre_dir" ]; then
-        for dir in "$genre_dir"/*/; do
             [ -d "$dir" ] || continue
-            
-            # Check if has bible (shouldn't after move, but just in case)
             if find "$dir" -maxdepth 1 -name "*campaign-bible*.md" -type f 2>/dev/null | grep -q .; then
                 ((complete++))
             else
@@ -42,13 +33,23 @@ for genre in "${GENRES[@]}"; do
             fi
         done
     fi
-    
-    genre_total=$((complete + framework))
-    
-    if [ $genre_total -gt 0 ]; then
-        printf "%-20s %10d %10d %10d\n" "$genre" "$complete" "$framework" "$genre_total"
+
+    # In-progress genre folder
+    genre_dir="$BASE_DIR/$genre"
+    if [ -d "$genre_dir" ]; then
+        for dir in "$genre_dir"/*/; do
+            [ -d "$dir" ] || continue
+            if find "$dir" -maxdepth 1 -name "*campaign-bible*.md" -type f 2>/dev/null | grep -q .; then
+                ((complete++))
+            else
+                ((framework++))
+            fi
+        done
     fi
-    
+
+    genre_total=$((complete + framework))
+    [ $genre_total -gt 0 ] && printf "%-20s %10d %10d %10d\n" "$genre" "$complete" "$framework" "$genre_total"
+
     ((total_complete += complete))
     ((total_framework += framework))
 done
@@ -62,25 +63,27 @@ echo ""
 echo "📊 Repository Status:"
 echo "   ✅ Complete (with bible): $total_complete"
 echo "   📋 Frameworks (need bible): $total_framework"
-
-# Calculate percentage
 if [ $total -gt 0 ]; then
-    pct=$((total_complete * 100 / total))
-    echo "   📈 Progress: $pct%"
+    echo "   📈 Progress: $((total_complete * 100 / total))%"
 fi
-
 echo ""
 
-# Ideas folder count
 if [ -d "$BASE_DIR/Ideas-To-Expand" ]; then
     ideas_count=$(find "$BASE_DIR/Ideas-To-Expand" -maxdepth 1 -name "*.md" -type f 2>/dev/null | wc -l | tr -d ' ')
-    ideas_dirs=$(find "$BASE_DIR/Ideas-To-Expand" -maxdepth 1 -type d 2>/dev/null | wc -l | tr -d ' ')
-    ideas_dirs=$((ideas_dirs - 1))  # Subtract the directory itself
+    ideas_dirs=$(( $(find "$BASE_DIR/Ideas-To-Expand" -maxdepth 1 -type d 2>/dev/null | wc -l | tr -d ' ') - 1 ))
     echo "   💡 Raw ideas: $ideas_count files, $ideas_dirs folders"
     echo ""
 fi
 
+# Parser coverage — the metric that decides whether monsters fight at authored stats.
+COV="$BASE_DIR/../tools/launch-readiness/coverage_report.py"
+if [ -f "$COV" ] && command -v python3 >/dev/null 2>&1; then
+    echo "🎲 Parser coverage (production chunker + authored-stat-block-parser):"
+    python3 "$COV" --summary
+    echo ""
+fi
+
 echo "📦 Ingestion Ready:"
-echo "   Campaigns in Completed/: $total_complete"
+echo "   Campaigns with bibles: $total_complete"
 echo "   Est. chunks: ~$((total_complete * 50))"
 echo ""
