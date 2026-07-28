@@ -52,7 +52,7 @@ This document is the primary instruction set for the world-building AI pipeline.
     *   **The Ghost of the Mad Mage:** The spirit of the archmage who originally stole the Codex, who now haunts one of its pages, offering cryptic clues.
 *   **Tier 2 & 3 (Archetypes for Generation):**
     *   "Curious Local Sage"
-    *   "Blink Dog (Creature)"
+    *   "Flickerhound (Creature)"
     *   "Cabal Wizard Enforcer"
     *   "Mischievous Fey Spirit"
     *   "Rival Treasure Hunter"
