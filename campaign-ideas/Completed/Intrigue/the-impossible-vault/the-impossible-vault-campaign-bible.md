@@ -291,16 +291,16 @@ The conflict exists because Lord Midas Goldweaver is not just hoarding gold; he 
 
 ## Section 7: BESTIARY
 [TAG: ENEMY_STATBLOCK]
-1.  **Luck-Eater (CR 5):** HP 80, AC 15. Passive: *Aura of Misfortune* (Players roll with disadvantage). Action: *Devour Luck* (Lowers target's roll by 1d4).
-2.  **Slot Golem (CR 6):** HP 100, AC 18. Passive: *Jackpot* (On a crit, deals 4x damage). Action: *Coin Spray* (Cone of bludgeoning damage).
-3.  **Card Shark (CR 3):** HP 40, AC 14. Passive: *Paper Cut* (Attacks cause bleeding). Action: *Shuffle* (Teleports).
-4.  **Neon Elemental (CR 4):** HP 60, AC 13. Passive: *Blinding* (Attackers must succeed Con save or be blinded). Action: *Laser Beam*.
-5.  **Bouncer Construct (CR 7):** HP 120, AC 20. Passive: *Deny Entry* (Cannot be moved). Action: *Toss* (Throws player 30ft).
-6.  **Mimic Table (CR 4):** HP 50, AC 12. Passive: *Sticky* (Grapples on hit). Action: *Bite*.
-7.  **Roulette Spider (CR 5):** HP 70, AC 16. Passive: *Spin* (Dizzying gaze). Action: *Web of Odds*.
-8.  **Whisper Shade (CR 3):** HP 30, AC 15. Passive: *Incorporeal*. Action: *Silence* (Cast silence spell).
-9.  **Gold Slime (CR 6):** HP 90, AC 10. Passive: *Corrosive Wealth* (Damage degrades armor). Action: *Engulf*.
-10. **Probability Dragon (CR 12):** HP 200, AC 22. Passive: *Reality Warping* (Immune to critical hits). Action: *Breath of Chaos* (Random damage type).
+1.  **Luck-Eater (CR 5):** **HP:** 80 **AC:** 15. Passive: *Aura of Misfortune* (Players roll with disadvantage). Action: *Devour Luck* (Lowers target's roll by 1d4).
+2.  **Slot Golem (CR 6):** **HP:** 100 **AC:** 18. Passive: *Jackpot* (On a crit, deals 4x damage). Action: *Coin Spray* (Cone of bludgeoning damage).
+3.  **Card Shark (CR 3):** **HP:** 40 **AC:** 14. Passive: *Paper Cut* (Attacks cause bleeding). Action: *Shuffle* (Teleports).
+4.  **Neon Elemental (CR 4):** **HP:** 60 **AC:** 13. Passive: *Blinding* (Attackers must succeed Con save or be blinded). Action: *Laser Beam*.
+5.  **Bouncer Construct (CR 7):** **HP:** 120 **AC:** 20. Passive: *Deny Entry* (Cannot be moved). Action: *Toss* (Throws player 30ft).
+6.  **Mimic Table (CR 4):** **HP:** 50 **AC:** 12. Passive: *Sticky* (Grapples on hit). Action: *Bite*.
+7.  **Roulette Spider (CR 5):** **HP:** 70 **AC:** 16. Passive: *Spin* (Dizzying gaze). Action: *Web of Odds*.
+8.  **Whisper Shade (CR 3):** **HP:** 30 **AC:** 15. Passive: *Incorporeal*. Action: *Silence* (Cast silence spell).
+9.  **Gold Slime (CR 6):** **HP:** 90 **AC:** 10. Passive: *Corrosive Wealth* (Damage degrades armor). Action: *Engulf*.
+10. **Probability Dragon (CR 12):** **HP:** 200 **AC:** 22. Passive: *Reality Warping* (Immune to critical hits). Action: *Breath of Chaos* (Random damage type).
 
 [TAG: ENCOUNTER_TABLE]
 *   **D20 Urban:** 1. Rat swarm, 2. Drunk noble, 3. Pickpocket, 4. Guard patrol, 5. Runaway cart, 6. Street performer, 7. Religious procession, 8. Sudden rainstorm, 9. Building fire, 10. Duel, 11-20. [See Bestiary].

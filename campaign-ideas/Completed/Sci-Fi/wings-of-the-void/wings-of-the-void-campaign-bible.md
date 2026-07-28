@@ -324,16 +324,16 @@ The conflict is not Good vs. Evil; it is **Stasis vs. Flow**. The Material Plane
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Monsters (10 Stat Blocks)
-1.  **Void Glider (CR 2):** HP 30, AC 14, Speed Fly 60ft. **Abilities:** *Swoop* (Extra damage on dive), *Phase* (Incorporeal for 1 turn).
-2.  **Sky Shark (CR 4):** HP 60, AC 16, Speed Fly 80ft. **Abilities:** *Blood Scent* (Advantage on wounded), *Bite* (Grapples).
-3.  **Cloud Mimic (CR 3):** HP 45, AC 12, Speed Fly 20ft. **Abilities:** *Engulf* (Suffocates inside cloud form), *False Appearance*.
-4.  **Lightning Elemental (CR 5):** HP 70, AC 15, Speed Fly 90ft. **Abilities:** *Arc* (Chains damage), *Flash* (Blinds).
-5.  **Gravity Well (CR 6):** HP 100, AC 18, Speed 0. **Abilities:** *Crush* (Pull everyone 30ft closer), *Density* (High AC).
-6.  **Siren of the Wind (CR 4):** HP 40, AC 13, Speed Fly 50ft. **Abilities:** *Lure* (Wis save or jump), *Scream* (Thunder damage).
-7.  **Glass Frog Swarm (CR 2):** HP 20, AC 12, Speed Fly 30ft. **Abilities:** *Shard Explosion* (AoE on death), *Cut* (Bleed damage).
-8.  **Paper Dragon (CR 7):** HP 120, AC 14, Speed Fly 60ft. **Abilities:** *Papercut* (High crit range), *Fold* (Changes size).
-9.  **Living Storm (CR 8):** HP 150, AC 16, Speed Fly 100ft. **Abilities:** *Thunderclap* (Stun), *Rain of Acid*.
-10. **Void Leech (CR 1):** HP 10, AC 11, Speed Fly 40ft. **Abilities:** *Drain Magic* (Reduces spell slots), *Latch*.
+1.  **Void Glider (CR 2):** **HP:** 30 **AC:** 14 **Speed:** 60 (fly). **Abilities:** *Swoop* (Extra damage on dive), *Phase* (Incorporeal for 1 turn).
+2.  **Sky Shark (CR 4):** **HP:** 60 **AC:** 16 **Speed:** 80 (fly). **Abilities:** *Blood Scent* (Advantage on wounded), *Bite* (Grapples).
+3.  **Cloud Mimic (CR 3):** **HP:** 45 **AC:** 12 **Speed:** 20 (fly). **Abilities:** *Engulf* (Suffocates inside cloud form), *False Appearance*.
+4.  **Lightning Elemental (CR 5):** **HP:** 70 **AC:** 15 **Speed:** 90 (fly). **Abilities:** *Arc* (Chains damage), *Flash* (Blinds).
+5.  **Gravity Well (CR 6):** **HP:** 100 **AC:** 18 **Speed:** 0. **Abilities:** *Crush* (Pull everyone 30ft closer), *Density* (High AC).
+6.  **Siren of the Wind (CR 4):** **HP:** 40 **AC:** 13 **Speed:** 50 (fly). **Abilities:** *Lure* (Wis save or jump), *Scream* (Thunder damage).
+7.  **Glass Frog Swarm (CR 2):** **HP:** 20 **AC:** 12 **Speed:** 30 (fly). **Abilities:** *Shard Explosion* (AoE on death), *Cut* (Bleed damage).
+8.  **Paper Dragon (CR 7):** **HP:** 120 **AC:** 14 **Speed:** 60 (fly). **Abilities:** *Papercut* (High crit range), *Fold* (Changes size).
+9.  **Living Storm (CR 8):** **HP:** 150 **AC:** 16 **Speed:** 100 (fly). **Abilities:** *Thunderclap* (Stun), *Rain of Acid*.
+10. **Void Leech (CR 1):** **HP:** 10 **AC:** 11 **Speed:** 40 (fly). **Abilities:** *Drain Magic* (Reduces spell slots), *Latch*.
 
 [TAG: ENCOUNTER_TABLE]
 
