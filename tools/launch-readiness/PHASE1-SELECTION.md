@@ -84,7 +84,7 @@ Weighted for a **$15/mo solo AI DM trial conversion** plus a flagship shelf, not
 | 6 | **academy-of-arcane-gastronomy** | Fantasy | **10/10** | Long (~35 / “4 years”) | Original magical cooking school; marketable without being a film remake. Complements Feast without duplicating the restaurant premise. |
 | 7 | **the-crimson-thread-of-silverport** | Urban | **10/10** | Epic multi-gen | Only urban package that is both complete **and** full-parse. Opening is strong (boomtown job / corrupt foreman). Long — flagship urban, not trial. |
 | 8 | **murder-on-the-astral-express** | Mystery | **9/9** | Long multi-case | Full parse mystery with a cold-openable locked-train case. **Caveat:** overview leans hard Agatha Christie / Poirot names — flag for PO rename of detective IP if player-facing. Bible history mentions **githyanki** (PI rename). |
-| 9 | **the-silk-and-shadow-road** | Historical | **10/10** | Medium-ish package | Original metaphysical Silk Road (not a biopic). Full parse. Better commercial cleanliness than Last-Samurai pastiche historicals. |
+| 9 | **the-weather-weavers** | Historical | **10/10** | Short/medium package | Full 4-file package + full parse. Prefer over silk-and-shadow-road (bible-only, incomplete for ingest) and way-of-the-fading-blade (Last Samurai pastiche risk). |
 | 10 | **wings-of-the-void** | Sci-Fi | **0/10** (HP/AC present, **no colons**) | Long (~24) | Only strong **original** sci-fi with a real bestiary + hook (Fallers, Skyrift). Avoided **see-you-space-cowboy** despite 10/10 parse (Cowboy Bebop pastiche). Format fix only. |
 
 **Genres covered:** Intrigue, Horror×2, Adventure, Fantasy, Urban, Mystery, Historical, Sci-Fi = **8**.  
@@ -99,8 +99,8 @@ Weighted for a **$15/mo solo AI DM trial conversion** plus a flagship shelf, not
 |-----|----------|-------|-------:|------------|
 | A1 | **clash-of-olympus** | Fantasy | 10/10 | You want traditional demigod/labors fantasy instead of food academy |
 | A2 | **ascension-protocol** | Adventure | 10/10 | You want combat/Titan-hunt forward adventure instead of Seven Swords |
-| A3 | **way-of-the-fading-blade** | Historical | 10/10 | Prefer samurai tragedy over Silk Road — **flag Last Samurai pastiche** for PO |
-| A4 | **the-weather-weavers** | Historical | 10/10 | Prefer weather-magic historical; clean PI |
+| A3 | **way-of-the-fading-blade** | Historical | 10/10 | Prefer samurai tragedy — **flag Last Samurai pastiche** for PO |
+| A4 | **the-silk-and-shadow-road** | Historical | 10/10 monsters | Original metaphysical road — **bible only** (no brief/overview/world-building); needs package completion before ingest |
 | A5 | **dust-devils-due** | Post-Apocalyptic | 0 (thin) | Only if you **must** show post-apoc at launch — needs bestiary + stats authored; **do not** pick Cordyceps Crown (Last of Us names) |
 
 Other near-misses intentionally **not** alternates:  
@@ -123,7 +123,7 @@ Other near-misses intentionally **not** alternates:
 | Arcane Gastronomy | **Strong** | First day / sorting / disaster. |
 | Crimson Thread | **Adequate** | Boomtown job works; multi-gen framing is heavy for a trial. |
 | Astral Express | **Strong case, IP caution** | Train murder works; Poirot branding may need PO edit. |
-| Silk & Shadow Road | **Adequate** | Caravan hire is clear; lore dump is dense — first scene should stay “guard the cargo.” |
+| Weather Weavers | **TBD in Phase 2** | Package complete; opening not yet cold-read for weakness report. |
 | Wings of the Void | **Strong** | First jump initiation is cinematic. |
 
 ---
