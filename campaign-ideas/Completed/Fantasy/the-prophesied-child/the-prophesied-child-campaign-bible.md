@@ -314,13 +314,15 @@ The conflict is between **Narrative Continuity (The Weave)** and **Egoist Solips
 [TAG: ENEMY_STATBLOCK]
 
 1.  **Death Dog:** (CR 2) HP 40. Speed 50. **Ability:** *Tear Throat* (Bonus action bite if target is prone).
-2.  **Nockmaar Soldier:** (CR 1/2) HP 16. AC 16. **Ability:** *Pack Tactics*.
+### 2. Nockmaar Soldier (CR 1/2)
+(CR 1/2) **HP:** 16. **AC:** 16. **Ability:** *Pack Tactics*.
 3.  **The Eborsisk (Two-Headed Troll):** (CR 8) HP 150. **Ability:** *Double Bite*. *Fire Breath* (Recharge 5-6). If one head dies, the other gets Haste.
 4.  **Skull Bear:** (CR 3) HP 60. Bear with exposed skull face. **Ability:** *Terrifying Roar* (Wis save or Frightened).
 5.  **Bavmorda’s Hand:** (CR 1) Flying severed hand. **Ability:** *Strangle* (Grapple check).
 6.  **Pig-Morph:** (CR 0) A guard turned into a pig. AC 10. **Ability:** *Squeal* (Alerts others).
 7.  **Fungal Zombie:** (CR 1) HP 22. **Ability:** *Spore Burst* (On death, releases poison cloud).
-8.  **Glass Golem:** (CR 5) HP 90. AC 18. **Ability:** *Reflect Magic* (Spells targeting it bounce to caster on a 1-2 d6 roll).
+### 8. Glass Golem (CR 5)
+(CR 5) **HP:** 90. **AC:** 18. **Ability:** *Reflect Magic* (Spells targeting it bounce to caster on a 1-2 d6 roll).
 9.  **Shadow Creeper:** (CR 2) HP 30. Stealth +8. **Ability:** *Strength Drain*.
 10. **Ape-Demon:** (CR 4) HP 70. **Ability:** *Rend* (2d8 damage).
 

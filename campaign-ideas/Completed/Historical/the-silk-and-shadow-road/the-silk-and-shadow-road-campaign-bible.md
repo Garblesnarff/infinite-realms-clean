@@ -307,16 +307,26 @@ The conflict is not one of good versus evil, but **Structure vs. Possibility**. 
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Sand-Wraith** (CR 5 Elemental). HP: 80, AC: 15. **Abilities:** *Sand Form* (Can move through spaces as small as a grain of sand; resistance to non-magical physical damage), *Dehydrate* (Melee attack deals extra necrotic damage and gives one level of exhaustion on a failed CON save).
-2.  **Scissor-Spider** (CR 2 Monstrosity). HP: 30, AC: 16. **Abilities:** *Snip Thread* (Ranged attack against a target forces them to re-roll their last d20 roll), *Shadow-Skitter* (Can teleport between shadows as a bonus action).
-3.  **Glass Golem** (CR 7 Construct). HP: 110, AC: 17. **Abilities:** *Razor Sharp* (Deals damage to anyone who hits it with a melee attack), *Shatter* (Explodes in a shower of glass shards upon death).
-4.  **Mirage-Hound** (CR 3 Illusion). HP: 45, AC: 14. **Abilities:** *Displacement* (Attacks have disadvantage), *Heat-Shimmer Bite* (Deals fire damage).
-5.  **The Unfinished (Terracotta Ghost)** (CR 6 Undead). HP: 90, AC: 12. **Abilities:** *Incorporeal Movement*, *Possess Object* (Can possess statues or suits of armor).
-6.  **Djinn-Bound** (CR 4 Humanoid). HP: 60, AC: 15. **Abilities:** *Minor Wish* (Can cast a 1st level spell from any class list once), *Servitude* (Disadvantage on saves vs. being charmed by their Djinn master).
-7.  **Shadow-Puppet** (CR 1 Construct). HP: 20, AC: 18. **Abilities:** *2D Form* (Can only be damaged from the side), *Silent Movement*.
-8.  **Roc Hatchling** (CR 5 Beast). HP: 75, AC: 14. **Abilities:** *Snatch* (Can grapple and fly off with a medium creature), *Piercing Screech* (Deals thunder damage in a cone).
-9.  **Oasis Nymph** (CR 3 Fey). HP: 40, AC: 16. **Abilities:** *Drowning Kiss* (Grapples and fills lungs with water), *Illusory Paradise* (Can make a patch of desert look like a lush oasis).
-10. **The Unraveler's Avatar** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Reality Stitch* (Can change the terrain as a legendary action), *Gaze of Possibility* (Target must succeed on a WIS save or be stunned as they see every possible version of themselves).
+### 1. Sand-Wraith (CR 5)
+(CR 5 Elemental). HP: 80, AC: 15. **Abilities:** *Sand Form* (Can move through spaces as small as a grain of sand; resistance to non-magical physical damage), *Dehydrate* (Melee attack deals extra necrotic damage and gives one level of exhaustion on a failed CON save).
+### 2. Scissor-Spider (CR 2)
+(CR 2 Monstrosity). HP: 30, AC: 16. **Abilities:** *Snip Thread* (Ranged attack against a target forces them to re-roll their last d20 roll), *Shadow-Skitter* (Can teleport between shadows as a bonus action).
+### 3. Glass Golem (CR 7)
+(CR 7 Construct). HP: 110, AC: 17. **Abilities:** *Razor Sharp* (Deals damage to anyone who hits it with a melee attack), *Shatter* (Explodes in a shower of glass shards upon death).
+### 4. Mirage-Hound (CR 3)
+(CR 3 Illusion). HP: 45, AC: 14. **Abilities:** *Displacement* (Attacks have disadvantage), *Heat-Shimmer Bite* (Deals fire damage).
+### 5. The Unfinished (Terracotta Ghost) (CR 6)
+(CR 6 Undead). HP: 90, AC: 12. **Abilities:** *Incorporeal Movement*, *Possess Object* (Can possess statues or suits of armor).
+### 6. Djinn-Bound (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 15. **Abilities:** *Minor Wish* (Can cast a 1st level spell from any class list once), *Servitude* (Disadvantage on saves vs. being charmed by their Djinn master).
+### 7. Shadow-Puppet (CR 1)
+(CR 1 Construct). HP: 20, AC: 18. **Abilities:** *2D Form* (Can only be damaged from the side), *Silent Movement*.
+### 8. Roc Hatchling (CR 5)
+(CR 5 Beast). HP: 75, AC: 14. **Abilities:** *Snatch* (Can grapple and fly off with a medium creature), *Piercing Screech* (Deals thunder damage in a cone).
+### 9. Oasis Nymph (CR 3)
+(CR 3 Fey). HP: 40, AC: 16. **Abilities:** *Drowning Kiss* (Grapples and fills lungs with water), *Illusory Paradise* (Can make a patch of desert look like a lush oasis).
+### 10. The Unraveler's Avatar (CR 15)
+(CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Reality Stitch* (Can change the terrain as a legendary action), *Gaze of Possibility* (Target must succeed on a WIS save or be stunned as they see every possible version of themselves).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

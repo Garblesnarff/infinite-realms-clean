@@ -408,51 +408,51 @@ An ancient palace overtaken by organic insect architecture.
 
 ### [TAG: ENEMY_STATBLOCK]
 
-**1. Chimera Soldier (Peon)**
+### 1. Chimera Soldier (Peon) (CR 1)
 *CR 1* | *HP: 20* | *AC: 14* | *Speed: 40ft*
 **Ability:** *Hive Mind.* Advantage on attacks if an ally is within 5ft.
 **Action:** *Mandible Crush.* +4 to hit, 1d8+2 piercing.
 
-**2. Kiriko (Magical Beast)**
+### 2. Kiriko (Magical Beast) (CR 3)
 *CR 3* | *HP: 45* | *AC: 13* | *Speed: 50ft (Fly)*
 **Ability:** *Shapeshift.* Can assume the form of any human it has touched.
 **Action:** *Mockery.* Causes confusion by mimicking the voice of a loved one.
 
-**3. Mike (Zoldyck Guard Dog)**
+### 3. Mike (Zoldyck Guard Dog) (CR 10)
 *CR 10* | *HP: 200* | *AC: 18* | *Speed: 60ft*
 **Ability:** *Terror Aura.* Creatures within 30ft must make a Wis save or be paralyzed with fear.
 **Action:** *Devour.* +10 to hit, 4d10+5 piercing. Target is swallowed.
 
-**4. Nen Beast (Parasitic)**
+### 4. Nen Beast (Parasitic) (CR 5)
 *CR 5* | *HP: 60* | *AC: 10 (Invisible)* | *Speed: 0ft (Attached)*
 **Ability:** *Invisible.* Only visible with Gyo.
 **Action:** *Aura Drain.* Drains 1d6 Max HP per turn from host.
 
-**5. Chimera Officer (Squadron Leader)**
+### 5. Chimera Officer (Squadron Leader) (CR 8)
 *CR 8* | *HP: 120* | *AC: 17* | *Speed: 50ft*
 **Ability:** *Nen Awakening.* Can use one Hatsu ability (e.g., Fireball or Invisibility).
 **Action:** *Command.* Summon 1d4 Peons.
 
-**6. Uvogin (Phantom Troupe)**
+### 6. Uvogin (Phantom Troupe) (CR 15)
 *CR 15* | *HP: 300* | *AC: 22* | *Speed: 40ft*
 **Ability:** *Big Bang Impact.* +15 to hit. 10d10 Force damage. (Recharge 5-6).
 **Passive:** *Steel Skin.* Immune to non-magical/non-Nen damage.
 
-**7. Royal Guard (Pitou)**
+### 7. Royal Guard (Pitou) (CR 20)
 *CR 20* | *HP: 500* | *AC: 25* | *Speed: 100ft*
 **Ability:** *Terpsichora.* Can fight while unconscious/dead.
 **Action:** *Doctor Blythe.* Heals self or ally to full HP (cannot move while using).
 
-**8. Evolved King (Meruem)**
+### 8. Evolved King (Meruem) (CR 30)
 *CR 30* | *HP: 1000* | *AC: 30* | *Speed: Fly 200ft*
 **Ability:** *Aura Synthesis.* If he eats a Nen user, he gains their stats and abilities.
 **Action:** *Rage Blast.* Destroy a 1-mile radius.
 
-**9. Lord of the Lake**
+### 9. Lord of the Lake (CR 4)
 *CR 4* | *HP: 80* | *AC: 15* | *Speed: Swim 60ft*
 **Ability:** *Submerge.* Cannot be targeted while underwater.
 
-**10. Man-Ape**
+### 10. Man-Ape (CR 2)
 *CR 2* | *HP: 30* | *AC: 12* | *Speed: 30ft*
 **Ability:** *Mimicry.* Can copy the last attack used against it.
 

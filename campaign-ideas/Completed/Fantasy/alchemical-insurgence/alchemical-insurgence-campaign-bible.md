@@ -306,16 +306,26 @@ The central conflict is the struggle between **Unity and Diversity**. The Prima 
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Homunculus (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Alchemical Replication* (Can create a perfect duplicate of itself), *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
-2.  **Prima Materia Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Transmutation Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on elemental checks), *Unity Zealot* (Immune to fear).
-3.  **Elemental Lord (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on elemental checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random elemental type).
-4.  **Transmutation Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Alchemical Memory-Jar* (Can extract an alchemical formula directly from an alchemist's mind), *Disguise Self* (Can change its appearance as a bonus action).
-5.  **Philosopher's Stone Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Immortality Seeker* (Immune to fear).
-6.  **Elemental Blight Warden (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Elemental Containment Field (Corrupted)* (Can create fields that spread elemental chaos), *Chaos Strike* (Melee attack deals extra elemental damage).
-7.  **Alchemist Prime's Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Transmutation (Corrupted)* (Can instantly transmute any element to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful elemental spells that cause chaos).
-8.  **Golem-Crafter (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Elemental Golems (Corrupted)* (Can summon corrupted elemental golems), *Golem Mastery (Corrupted)* (Can control any golem).
-9.  **The Unified One (Prima Materia Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Transmutation Aura* (Drains all individuality from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **Grand Alchemist Hermes (Corrupted)** (CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Elemental Manipulation (Corrupted)* (Can control and manipulate the four fundamental elements, but they always become corrupted), *Recipe of Destruction* (Can cast powerful elemental spells that cause chaos).
+### 1. Homunculus (Corrupted) (CR 3)
+(CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Alchemical Replication* (Can create a perfect duplicate of itself), *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
+### 2. Prima Materia Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Transmutation Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on elemental checks), *Unity Zealot* (Immune to fear).
+### 3. Elemental Lord (Corrupted) (CR 8)
+(CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on elemental checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random elemental type).
+### 4. Transmutation Thief (Master) (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Alchemical Memory-Jar* (Can extract an alchemical formula directly from an alchemist's mind), *Disguise Self* (Can change its appearance as a bonus action).
+### 5. Philosopher's Stone Seeker (Fanatic) (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Immortality Seeker* (Immune to fear).
+### 6. Elemental Blight Warden (Corrupted) (CR 6)
+(CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Elemental Containment Field (Corrupted)* (Can create fields that spread elemental chaos), *Chaos Strike* (Melee attack deals extra elemental damage).
+### 7. Alchemist Prime's Chosen (Corrupted) (CR 10)
+(CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Transmutation (Corrupted)* (Can instantly transmute any element to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful elemental spells that cause chaos).
+### 8. Golem-Crafter (Corrupted) (CR 7)
+(CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Elemental Golems (Corrupted)* (Can summon corrupted elemental golems), *Golem Mastery (Corrupted)* (Can control any golem).
+### 9. The Unified One (Prima Materia Avatar) (CR 15)
+(CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Transmutation Aura* (Drains all individuality from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+### 10. Grand Alchemist Hermes (Corrupted) (CR 10)
+(CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Elemental Manipulation (Corrupted)* (Can control and manipulate the four fundamental elements, but they always become corrupted), *Recipe of Destruction* (Can cast powerful elemental spells that cause chaos).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

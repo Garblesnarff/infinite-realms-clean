@@ -399,15 +399,24 @@ The conflict exists because the laws of physics in this world are allergic to "P
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Monsters
-1.  **CCG Duffer (CR 1):** HP 20, AC 12. Pistol. *Swarm Tactics.*
-2.  **Ghoul Scavenger (CR 2):** HP 35, AC 13. Claws. *Regeneration (5/turn).*
-3.  **Quinque Knight (CR 5):** HP 80, AC 18. Greatsword. *Anti-Ghoul Smite.*
-4.  **Kagune Mutant (CR 6):** HP 100, AC 14. Tentacles. *Multi-attack (4).*
-5.  **The Glutton (CR 4):** HP 150, AC 10. Bite. *Swallow Whole.*
-6.  **Sniper Dove (CR 3):** HP 25, AC 14. Q-Bullets. *Range 300ft.*
-7.  **Ceramic Doll (CR 5):** HP 60, AC 22. Shatter. *Explodes on death.*
-8.  **Sewer King (CR 7):** HP 120, AC 16. Poison/Disease. *Summon Rats.*
-9.  **Arata Suit Spec-Op (CR 9):** HP 150, AC 20. Speed 60ft. *Cannibalize User.*
+### 1. CCG Duffer (CR 1)
+**HP:** 20, **AC:** 12. Pistol. *Swarm Tactics.*
+### 2. Ghoul Scavenger (CR 2)
+**HP:** 35, **AC:** 13. Claws. *Regeneration (5/turn).*
+### 3. Quinque Knight (CR 5)
+**HP:** 80, **AC:** 18. Greatsword. *Anti-Ghoul Smite.*
+### 4. Kagune Mutant (CR 6)
+**HP:** 100, **AC:** 14. Tentacles. *Multi-attack (4).*
+### 5. The Glutton (CR 4)
+**HP:** 150, **AC:** 10. Bite. *Swallow Whole.*
+### 6. Sniper Dove (CR 3)
+**HP:** 25, **AC:** 14. Q-Bullets. *Range 300ft.*
+### 7. Ceramic Doll (CR 5)
+**HP:** 60, **AC:** 22. Shatter. *Explodes on death.*
+### 8. Sewer King (CR 7)
+**HP:** 120, **AC:** 16. Poison/Disease. *Summon Rats.*
+### 9. Arata Suit Spec-Op (CR 9)
+**HP:** 150, **AC:** 20. Speed 60ft. *Cannibalize User.*
 10. **The Centipede (Boss):** HP 300, AC 18. *Insanity Aura.*
 
 [TAG: ENCOUNTER_TABLE]

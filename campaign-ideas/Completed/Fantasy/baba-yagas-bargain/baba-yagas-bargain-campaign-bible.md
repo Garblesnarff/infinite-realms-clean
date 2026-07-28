@@ -306,16 +306,26 @@ The central conflict is the struggle between **Dreams and Nightmares**. The Whis
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Dream-Eater (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Dream Erasure* (Can erase dreams from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor dream loss in the target).
-2.  **Nihilist Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Dream Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on dream checks), *Meaningless Zealot* (Immune to fear).
-3.  **Forest Spirit (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on dream checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
-4.  **Nightmare Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Dream-Jar* (Can extract a dream directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
-5.  **Whispering Woods Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
-6.  **Ash-Weaver (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
-7.  **Woods' Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Dreams (Corrupted)* (Can instantly restore any lost dream to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful dream spells that cause chaos).
-8.  **Grief-Eater (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Grief-Drain Rituals (Corrupted)* (Can drain the grief from living beings, gaining temporary power), *Grief Mastery (Corrupted)* (Can control any grief).
-9.  **The First Nightmare (Dream-Eater Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Dream Aura* (Drains all dreams from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **Baba Yaga (Corrupted)** (CR 20 Ancient Witch). HP: 400, AC: 22. **Abilities:** *World-Shaking Nightmares* (Causes massive emotional turmoil and despair), *Reality-Bending Dreams* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
+### 1. Dream-Eater (Corrupted) (CR 3)
+(CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Dream Erasure* (Can erase dreams from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor dream loss in the target).
+### 2. Nihilist Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Dream Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on dream checks), *Meaningless Zealot* (Immune to fear).
+### 3. Forest Spirit (Corrupted) (CR 8)
+(CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on dream checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
+### 4. Nightmare Thief (Master) (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Dream-Jar* (Can extract a dream directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
+### 5. Whispering Woods Seeker (Fanatic) (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
+### 6. Ash-Weaver (Corrupted) (CR 6)
+(CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
+### 7. Woods' Chosen (Corrupted) (CR 10)
+(CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Dreams (Corrupted)* (Can instantly restore any lost dream to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful dream spells that cause chaos).
+### 8. Grief-Eater (Corrupted) (CR 7)
+(CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Grief-Drain Rituals (Corrupted)* (Can drain the grief from living beings, gaining temporary power), *Grief Mastery (Corrupted)* (Can control any grief).
+### 9. The First Nightmare (Dream-Eater Avatar) (CR 15)
+(CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Dream Aura* (Drains all dreams from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+### 10. Baba Yaga (Corrupted) (CR 20)
+(CR 20 Ancient Witch). HP: 400, AC: 22. **Abilities:** *World-Shaking Nightmares* (Causes massive emotional turmoil and despair), *Reality-Bending Dreams* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

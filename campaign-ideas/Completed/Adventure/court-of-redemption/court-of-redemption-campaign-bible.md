@@ -306,16 +306,26 @@ The central conflict is the struggle between **Truth and Deception**. The world 
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Whispering Reflection** (CR 3 Illusion). HP: 45, AC: 14. **Abilities:** *Tempting Whisper* (Forces a WIS save vs. being charmed by its temptations), *Illusory Duplicate* (Can create a perfect duplicate of itself).
-2.  **Masked Syndicate Thug** (CR 2 Humanoid). HP: 30, AC: 15. **Abilities:** *Disguise Self* (Can change its appearance as a bonus action), *Identity Theft* (Melee attack deals psychic damage and forces a WIS save vs. temporarily forgetting a skill).
-3.  **Soul-Shard Thief** (CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Soul-Snatch* (Melee attack deals necrotic damage and steals a fragment of the target's soul), *Shadow Step* (Can teleport between shadows as a bonus action).
-4.  **Echo-Chamber Guardian** (CR 7 Construct). HP: 110, AC: 18. **Abilities:** *Truth Amplifier* (All lies spoken within 30 feet are amplified and revealed), *Resonant Slam* (Deals thunder damage and forces a CON save vs. being deafened).
-5.  **Lord of Lies (Avatar)** (CR 15 Fiend). HP: 250, AC: 19. **Abilities:** *Master of Deception* (Can create perfect illusions and alter perceptions), *Shattered Soul Blast* (Deals massive psychic damage and forces a WIS save vs. gaining a "Fracture").
-6.  **Broken Oath Knight (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Oath-Breaker's Fury* (Gains advantage on attack rolls against targets who uphold oaths), *Betrayal Strike* (Melee attack deals extra necrotic damage to former allies).
-7.  **Reflection Forger (Illusionist)** (CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Mirror Image* (Can create multiple perfect illusions of itself), *False Reflection* (Can create a false reflection of a target, confusing them).
-8.  **Soul-Shard Collector (Lich)** (CR 10 Undead). HP: 150, AC: 17. **Abilities:** *Soul-Jar* (Can store and mend fragments of shattered souls), *Soul-Drain* (Deals necrotic damage and heals the Lich).
-9.  **Mirror-Walker (Explorer)** (CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Mirror Step* (Can travel through reflections), *Shattered Gaze* (Forces a WIS save vs. seeing a distorted reflection of themselves).
-10. **Cosmic Mirror (Fragment)** (CR 20 Legendary). HP: 500, AC: 22. **Abilities:** *True Reflection* (Reflects a being's true self and potential), *Reality Mending* (Can mend shattered souls and repair fractured realities).
+### 1. Whispering Reflection (CR 3)
+(CR 3 Illusion). HP: 45, AC: 14. **Abilities:** *Tempting Whisper* (Forces a WIS save vs. being charmed by its temptations), *Illusory Duplicate* (Can create a perfect duplicate of itself).
+### 2. Masked Syndicate Thug (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 15. **Abilities:** *Disguise Self* (Can change its appearance as a bonus action), *Identity Theft* (Melee attack deals psychic damage and forces a WIS save vs. temporarily forgetting a skill).
+### 3. Soul-Shard Thief (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Soul-Snatch* (Melee attack deals necrotic damage and steals a fragment of the target's soul), *Shadow Step* (Can teleport between shadows as a bonus action).
+### 4. Echo-Chamber Guardian (CR 7)
+(CR 7 Construct). HP: 110, AC: 18. **Abilities:** *Truth Amplifier* (All lies spoken within 30 feet are amplified and revealed), *Resonant Slam* (Deals thunder damage and forces a CON save vs. being deafened).
+### 5. Lord of Lies (Avatar) (CR 15)
+(CR 15 Fiend). HP: 250, AC: 19. **Abilities:** *Master of Deception* (Can create perfect illusions and alter perceptions), *Shattered Soul Blast* (Deals massive psychic damage and forces a WIS save vs. gaining a "Fracture").
+### 6. Broken Oath Knight (Corrupted) (CR 6)
+(CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Oath-Breaker's Fury* (Gains advantage on attack rolls against targets who uphold oaths), *Betrayal Strike* (Melee attack deals extra necrotic damage to former allies).
+### 7. Reflection Forger (Illusionist) (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Mirror Image* (Can create multiple perfect illusions of itself), *False Reflection* (Can create a false reflection of a target, confusing them).
+### 8. Soul-Shard Collector (Lich) (CR 10)
+(CR 10 Undead). HP: 150, AC: 17. **Abilities:** *Soul-Jar* (Can store and mend fragments of shattered souls), *Soul-Drain* (Deals necrotic damage and heals the Lich).
+### 9. Mirror-Walker (Explorer) (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Mirror Step* (Can travel through reflections), *Shattered Gaze* (Forces a WIS save vs. seeing a distorted reflection of themselves).
+### 10. Cosmic Mirror (Fragment) (CR 20)
+(CR 20 Legendary). HP: 500, AC: 22. **Abilities:** *True Reflection* (Reflects a being's true self and potential), *Reality Mending* (Can mend shattered souls and repair fractured realities).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

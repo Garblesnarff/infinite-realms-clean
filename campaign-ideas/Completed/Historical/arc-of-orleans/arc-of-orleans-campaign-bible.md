@@ -306,16 +306,26 @@ The central conflict is the struggle between **History and Legend**. The Hundred
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **English Longbowman (Elite)** (CR 3 Humanoid). HP: 50, AC: 15. **Abilities:** *Volley* (Can make two ranged attacks as a single action), *Deadly Aim* (Has advantage on attack rolls against targets at long range).
-2.  **Whispering Stone Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Gaulish Magic* (Can cast minor nature spells), *Stone's Whisper* (Forces a WIS save vs. being charmed by the Stone's whispers).
-3.  **Faerie Knight (Unseelie)** (CR 4 Fey). HP: 65, AC: 16. **Abilities:** *Glamour* (Can create powerful illusions), *Cold Iron Vulnerability* (Takes extra damage from cold iron weapons).
-4.  **Homunculus (Alchemical)** (CR 1 Construct). HP: 20, AC: 13. **Abilities:** *Alchemical Replication* (Can create a perfect duplicate of itself), *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
-5.  **Burgundian Knight (Opportunistic)** (CR 3 Humanoid). HP: 55, AC: 17. **Abilities:** *Opportunistic Strike* (Has advantage on attack rolls against targets who are engaged in combat with another creature), *Betrayal* (Can switch sides in combat as a bonus action).
-6.  **Mercenary Captain (Ruthless)** (CR 5 Humanoid). HP: 80, AC: 16. **Abilities:** *Commanding Presence* (Can grant advantage on attack rolls to allies), *Ruthless Strike* (Deals extra damage to targets who are below half health).
-7.  **Templar Knight (Zealous)** (CR 4 Humanoid). HP: 60, AC: 18. **Abilities:** *Holy Smite* (Deals extra radiant damage on a successful hit), *Divine Shield* (Can create a temporary shield of divine energy).
-8.  **Whispering Stone (Avatar)** (CR 15 Elemental). HP: 250, AC: 19. **Abilities:** *Gaulish Magic* (Can cast powerful nature spells), *Historical Revision* (Can alter minor historical events as a legendary action).
-9.  **Lord of Lies (Disguised)** (CR 10 Fiend). HP: 150, AC: 17. **Abilities:** *Master of Deception* (Can create perfect illusions and alter perceptions), *Whispering Temptation* (Forces a WIS save vs. being charmed by its temptations).
-10. **Jeanne d'Arc (Corrupted)** (CR 12 Humanoid). HP: 200, AC: 18. **Abilities:** *Divine Inspiration (Corrupted)* (Can inspire courage and defiance in allies, but also causes them to hear the whispers of the Stone), *Gaulish Fury* (Deals extra nature damage on a successful hit).
+### 1. English Longbowman (Elite) (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 15. **Abilities:** *Volley* (Can make two ranged attacks as a single action), *Deadly Aim* (Has advantage on attack rolls against targets at long range).
+### 2. Whispering Stone Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Gaulish Magic* (Can cast minor nature spells), *Stone's Whisper* (Forces a WIS save vs. being charmed by the Stone's whispers).
+### 3. Faerie Knight (Unseelie) (CR 4)
+(CR 4 Fey). HP: 65, AC: 16. **Abilities:** *Glamour* (Can create powerful illusions), *Cold Iron Vulnerability* (Takes extra damage from cold iron weapons).
+### 4. Homunculus (Alchemical) (CR 1)
+(CR 1 Construct). HP: 20, AC: 13. **Abilities:** *Alchemical Replication* (Can create a perfect duplicate of itself), *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
+### 5. Burgundian Knight (Opportunistic) (CR 3)
+(CR 3 Humanoid). HP: 55, AC: 17. **Abilities:** *Opportunistic Strike* (Has advantage on attack rolls against targets who are engaged in combat with another creature), *Betrayal* (Can switch sides in combat as a bonus action).
+### 6. Mercenary Captain (Ruthless) (CR 5)
+(CR 5 Humanoid). HP: 80, AC: 16. **Abilities:** *Commanding Presence* (Can grant advantage on attack rolls to allies), *Ruthless Strike* (Deals extra damage to targets who are below half health).
+### 7. Templar Knight (Zealous) (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 18. **Abilities:** *Holy Smite* (Deals extra radiant damage on a successful hit), *Divine Shield* (Can create a temporary shield of divine energy).
+### 8. Whispering Stone (Avatar) (CR 15)
+(CR 15 Elemental). HP: 250, AC: 19. **Abilities:** *Gaulish Magic* (Can cast powerful nature spells), *Historical Revision* (Can alter minor historical events as a legendary action).
+### 9. Lord of Lies (Disguised) (CR 10)
+(CR 10 Fiend). HP: 150, AC: 17. **Abilities:** *Master of Deception* (Can create perfect illusions and alter perceptions), *Whispering Temptation* (Forces a WIS save vs. being charmed by its temptations).
+### 10. Jeanne d'Arc (Corrupted) (CR 12)
+(CR 12 Humanoid). HP: 200, AC: 18. **Abilities:** *Divine Inspiration (Corrupted)* (Can inspire courage and defiance in allies, but also causes them to hear the whispers of the Stone), *Gaulish Fury* (Deals extra nature damage on a successful hit).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

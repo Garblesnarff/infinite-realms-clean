@@ -306,16 +306,26 @@ The central conflict is the struggle between **Acceptance and Obsession**. The C
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Forgetting (Corrupted)** (CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
-2.  **Nihilist Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Protection Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on protection checks), *Meaningless Zealot* (Immune to fear).
-3.  **Echo-Weaver (Corrupted)** (CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on protection checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
-4.  **Defense Thief (Master)** (CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Defense-Jar* (Can extract a defense directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
-5.  **Cosmic Barrier Seeker (Fanatic)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
-6.  **Ash-Weaver (Corrupted)** (CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
-7.  **Cosmic Barrier's Chosen (Corrupted)** (CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Protection (Corrupted)* (Can instantly restore any lost defense to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful protection spells that cause chaos).
-8.  **Fury-Eater (Corrupted)** (CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
-9.  **The Blank Slate (Nihilist Avatar)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Protection Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
-10. **The Cosmic Barrier's Fury (Avatar)** (CR 20 Cosmic Entity). HP: 400, AC: 22. **Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Protection* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
+### 1. Forgetting (Corrupted) (CR 3)
+(CR 3 Construct). HP: 45, AC: 14. **Abilities:** *Memory Erasure* (Can erase memories from living beings), *Corrupted Touch* (Deals necrotic damage and causes minor memory loss in the target).
+### 2. Nihilist Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Anti-Protection Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on protection checks), *Meaningless Zealot* (Immune to fear).
+### 3. Echo-Weaver (Corrupted) (CR 8)
+(CR 8 Elemental). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on protection checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
+### 4. Defense Thief (Master) (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 15. **Abilities:** *Defense-Jar* (Can extract a defense directly from a being's mind), *Disguise Self* (Can change its appearance as a bonus action).
+### 5. Cosmic Barrier Seeker (Fanatic) (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Zealous Aura* (Forces a WIS save vs. becoming fanatical), *Rebirth Seeker* (Immune to fear).
+### 6. Ash-Weaver (Corrupted) (CR 6)
+(CR 6 Humanoid). HP: 90, AC: 17. **Abilities:** *Ash Golems (Corrupted)* (Can summon corrupted ash golems), *Ash Chaos* (Melee attack deals extra ash damage).
+### 7. Cosmic Barrier's Chosen (Corrupted) (CR 10)
+(CR 10 Celestial). HP: 150, AC: 17. **Abilities:** *Divine Protection (Corrupted)* (Can instantly restore any lost defense to its original state, but it always becomes corrupted), *Divine Authority (Corrupted)* (Can cast powerful protection spells that cause chaos).
+### 8. Fury-Eater (Corrupted) (CR 7)
+(CR 7 Humanoid). HP: 110, AC: 18. **Abilities:** *Fury-Drain Rituals (Corrupted)* (Can drain the fury from living beings, gaining temporary power), *Fury Mastery (Corrupted)* (Can control any fury).
+### 9. The Blank Slate (Nihilist Avatar) (CR 15)
+(CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Anti-Protection Aura* (Drains all meaning from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
+### 10. The Cosmic Barrier's Fury (Avatar) (CR 20)
+(CR 20 Cosmic Entity). HP: 400, AC: 22. **Abilities:** *World-Shaking Fury* (Causes massive emotional turmoil and despair), *Reality-Bending Protection* (As a legendary action, can cause a random reality distortion in a 1-mile radius), *Cosmic Obsession* (Immune to all mind-affecting spells).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

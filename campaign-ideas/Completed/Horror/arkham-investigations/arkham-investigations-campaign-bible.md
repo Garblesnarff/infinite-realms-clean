@@ -306,16 +306,26 @@ The central conflict is the struggle between **Sanity and Cosmic Horror**. Arkha
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Deep One Hybrid (Corrupted)** (CR 3 Humanoid). HP: 45, AC: 14. **Abilities:** *Amphibious*, *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
-2.  **Cultist of Cthulhu (Fanatic)** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Cthulhu's Dreams* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on sanity checks), *Meaningless Zealot* (Immune to fear).
-3.  **Void-Spawn (Corrupted)** (CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on sanity checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
-4.  **Shoggoth (Master)** (CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Amorphous*, *Engulf* (Can engulf a creature, dealing massive acid damage), *Reality Warping* (Can alter the environment as a legendary action).
-5.  **Elder Thing (Ancient)** (CR 10 Aberration). HP: 150, AC: 17. **Abilities:** *Cosmic Knowledge* (Can cast powerful cosmic spells), *Ancient Technology* (Can use advanced alien technology).
-6.  **Ghoul (Arkham)** (CR 1/2 Undead). HP: 20, AC: 11. **Abilities:** *Paralyzing Touch*, *Disease Carrier*.
-7.  **Miskatonic University Student (Corrupted)** (CR 1 Humanoid). HP: 25, AC: 12. **Abilities:** *Forbidden Knowledge* (Can cast minor occult spells), *Madness Aura* (Creatures within 10ft have disadvantage on sanity checks).
-8.  **Arkham Asylum Patient (Violent)** (CR 1 Humanoid). HP: 30, AC: 10. **Abilities:** *Unpredictable Attack*, *Madness Aura* (Creatures within 10ft have disadvantage on sanity checks).
-9.  **Deep One (Warrior)** (CR 2 Humanoid). HP: 40, AC: 13. **Abilities:** *Amphibious*, *Net Attack* (Can entangle targets with a net).
-10. **Cthulhu (Awakened)** (CR 30 Cosmic Entity). HP: 600, AC: 25. **Abilities:** *Cosmic Horror* (Forces a WIS save vs. madness and fear), *Reality Warping* (Can alter the environment as a legendary action), *Dream Manipulation* (Can control the dreams of all living beings).
+### 1. Deep One Hybrid (Corrupted) (CR 3)
+(CR 3 Humanoid). HP: 45, AC: 14. **Abilities:** *Amphibious*, *Corrupted Touch* (Deals necrotic damage and causes minor mutations in the target).
+### 2. Cultist of Cthulhu (Fanatic) (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Cthulhu's Dreams* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on sanity checks), *Meaningless Zealot* (Immune to fear).
+### 3. Void-Spawn (Corrupted) (CR 8)
+(CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Discordant Aura* (Creatures within 30ft take 1d6 psychic damage and have disadvantage on sanity checks), *Volatile Burst* (Explodes on death, dealing 4d6 damage of a random emotional type).
+### 4. Shoggoth (Master) (CR 15)
+(CR 15 Aberration). HP: 250, AC: 19. **Abilities:** *Amorphous*, *Engulf* (Can engulf a creature, dealing massive acid damage), *Reality Warping* (Can alter the environment as a legendary action).
+### 5. Elder Thing (Ancient) (CR 10)
+(CR 10 Aberration). HP: 150, AC: 17. **Abilities:** *Cosmic Knowledge* (Can cast powerful cosmic spells), *Ancient Technology* (Can use advanced alien technology).
+### 6. Ghoul (Arkham) (CR 1/2)
+(CR 1/2 Undead). HP: 20, AC: 11. **Abilities:** *Paralyzing Touch*, *Disease Carrier*.
+### 7. Miskatonic University Student (Corrupted) (CR 1)
+(CR 1 Humanoid). HP: 25, AC: 12. **Abilities:** *Forbidden Knowledge* (Can cast minor occult spells), *Madness Aura* (Creatures within 10ft have disadvantage on sanity checks).
+### 8. Arkham Asylum Patient (Violent) (CR 1)
+(CR 1 Humanoid). HP: 30, AC: 10. **Abilities:** *Unpredictable Attack*, *Madness Aura* (Creatures within 10ft have disadvantage on sanity checks).
+### 9. Deep One (Warrior) (CR 2)
+(CR 2 Humanoid). HP: 40, AC: 13. **Abilities:** *Amphibious*, *Net Attack* (Can entangle targets with a net).
+### 10. Cthulhu (Awakened) (CR 30)
+(CR 30 Cosmic Entity). HP: 600, AC: 25. **Abilities:** *Cosmic Horror* (Forces a WIS save vs. madness and fear), *Reality Warping* (Can alter the environment as a legendary action), *Dream Manipulation* (Can control the dreams of all living beings).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

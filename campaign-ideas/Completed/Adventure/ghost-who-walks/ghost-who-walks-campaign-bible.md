@@ -306,16 +306,26 @@ The central conflict is the struggle between **Legacy and Corruption**. The Ghos
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Singh Brotherhood Pirate** (CR 2 Humanoid). HP: 30, AC: 14. **Abilities:** *Swashbuckler's Flourish* (Can gain advantage on an attack roll by performing a dramatic maneuver), *Cutlass Strike* (Melee attack deals slashing damage).
-2.  **Shadow Beast** (CR 5 Aberration). HP: 75, AC: 15. **Abilities:** *Shadow Step* (Can teleport between shadows as a bonus action), *Corrupting Touch* (Melee attack deals psychic damage and forces a WIS save vs. gaining a "Shadow Mark").
-3.  **Corrupted Jungle Animal** (CR 3 Beast). HP: 45, AC: 13. **Abilities:** *Frenzied Attack* (Gains advantage on attack rolls if below half HP), *Shadow Infusion* (Resistance to non-magical physical damage).
-4.  **Sky Pirate (Marauder)** (CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Grappling Hook* (Can grapple targets from a distance), *Airborne Strike* (Attacks from above gain advantage).
-5.  **Lost City Guardian (Golem)** (CR 8 Construct). HP: 120, AC: 18. **Abilities:** *Ancient Defenses* (Resistance to non-magical physical damage), *Primordial Slam* (Deals massive bludgeoning damage and can stun targets).
-6.  **Serpent King (Avatar)** (CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Serpentine Charm* (Can cast *Charm Person* at will), *Shadow Strike* (Melee attack deals necrotic damage and can poison targets).
-7.  **Shadow Weaver (Mystic)** (CR 7 Humanoid). HP: 100, AC: 14. **Abilities:** *Shadow Magic* (Can cast dark spells), *Corrupting Aura* (Creatures within 10ft have disadvantage on WIS saves).
-8.  **Bandar Warrior** (CR 1 Humanoid). HP: 20, AC: 13. **Abilities:** *Jungle Acuity* (Advantage on perception checks in jungle terrain), *Poisoned Arrow* (Ranged attack deals piercing damage and can poison targets).
-9.  **Bangalla Jungle Patrol Soldier** (CR 1 Humanoid). HP: 25, AC: 15. **Abilities:** *Jungle Training* (Advantage on survival checks in jungle terrain), *Rifle Shot* (Ranged attack deals piercing damage).
-10. **The Great Shadow (Manifestation)** (CR 20 Aberration). HP: 400, AC: 22. **Abilities:** *Cosmic Corruption* (Aura that corrupts minds and twists reality), *Shadow Tendrils* (Can grapple multiple targets and drain their life force), *Oath Breaker* (Can force a target to break an oath).
+### 1. Singh Brotherhood Pirate (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 14. **Abilities:** *Swashbuckler's Flourish* (Can gain advantage on an attack roll by performing a dramatic maneuver), *Cutlass Strike* (Melee attack deals slashing damage).
+### 2. Shadow Beast (CR 5)
+(CR 5 Aberration). HP: 75, AC: 15. **Abilities:** *Shadow Step* (Can teleport between shadows as a bonus action), *Corrupting Touch* (Melee attack deals psychic damage and forces a WIS save vs. gaining a "Shadow Mark").
+### 3. Corrupted Jungle Animal (CR 3)
+(CR 3 Beast). HP: 45, AC: 13. **Abilities:** *Frenzied Attack* (Gains advantage on attack rolls if below half HP), *Shadow Infusion* (Resistance to non-magical physical damage).
+### 4. Sky Pirate (Marauder) (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Grappling Hook* (Can grapple targets from a distance), *Airborne Strike* (Attacks from above gain advantage).
+### 5. Lost City Guardian (Golem) (CR 8)
+(CR 8 Construct). HP: 120, AC: 18. **Abilities:** *Ancient Defenses* (Resistance to non-magical physical damage), *Primordial Slam* (Deals massive bludgeoning damage and can stun targets).
+### 6. Serpent King (Avatar) (CR 10)
+(CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Serpentine Charm* (Can cast *Charm Person* at will), *Shadow Strike* (Melee attack deals necrotic damage and can poison targets).
+### 7. Shadow Weaver (Mystic) (CR 7)
+(CR 7 Humanoid). HP: 100, AC: 14. **Abilities:** *Shadow Magic* (Can cast dark spells), *Corrupting Aura* (Creatures within 10ft have disadvantage on WIS saves).
+### 8. Bandar Warrior (CR 1)
+(CR 1 Humanoid). HP: 20, AC: 13. **Abilities:** *Jungle Acuity* (Advantage on perception checks in jungle terrain), *Poisoned Arrow* (Ranged attack deals piercing damage and can poison targets).
+### 9. Bangalla Jungle Patrol Soldier (CR 1)
+(CR 1 Humanoid). HP: 25, AC: 15. **Abilities:** *Jungle Training* (Advantage on survival checks in jungle terrain), *Rifle Shot* (Ranged attack deals piercing damage).
+### 10. The Great Shadow (Manifestation) (CR 20)
+(CR 20 Aberration). HP: 400, AC: 22. **Abilities:** *Cosmic Corruption* (Aura that corrupts minds and twists reality), *Shadow Tendrils* (Can grapple multiple targets and drain their life force), *Oath Breaker* (Can force a target to break an oath).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

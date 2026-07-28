@@ -306,16 +306,26 @@ The central conflict is the struggle between **Civilization and Primal Nature**.
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Velociraptor Swarm** (CR 3 Beast). HP: 60, AC: 14. **Abilities:** *Pack Tactics*, *Pounce* (Knocks target prone).
-2.  **Giant Ape (Kong)** (CR 8 Beast). HP: 180, AC: 15. **Abilities:** *Colossal Strength* (Advantage on STR checks and saves), *Terrifying Roar* (Forces a WIS save vs. fear).
-3.  **Void-Worm** (CR 12 Aberration). HP: 250, AC: 18. **Abilities:** *Burrow* (Can burrow through earth and stone at full speed), *Reality-Shattering Roar* (Deals massive thunder damage and causes localized earthquakes).
-4.  **Primordial Heart Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Life-Drain* (Melee attack deals necrotic damage and heals the cultist), *Fanatical Devotion* (Immune to fear).
-5.  **T-Rex (Fang)** (CR 10 Beast). HP: 200, AC: 16. **Abilities:** *Massive Bite* (Deals massive piercing damage and can swallow targets whole), *Terrifying Presence* (Forces a WIS save vs. fear).
-6.  **Glass-Spined Stegosaurus** (CR 7 Beast). HP: 150, AC: 17. **Abilities:** *Glass Spines* (Deals piercing damage to anyone who hits it with a melee attack), *Tail Swipe* (Knocks targets prone).
-7.  **Storm Elemental (Greater)** (CR 9 Elemental). HP: 180, AC: 16. **Abilities:** *Lightning Aura* (Deals lightning damage to anyone who touches it), *Thunderclap* (30-ft cone, DC 16 CON save or take 4d6 thunder damage and be deafened).
-8.  **Serpent Priestess (Naga)** (CR 8 Monstrosity). HP: 120, AC: 15. **Abilities:** *Venomous Bite* (Deals poison damage and paralyzes targets), *Mind Control* (Can cast *Charm Person* at will).
-9.  **K'tharr Guardian** (CR 6 Construct). HP: 100, AC: 18. **Abilities:** *Ancient Defenses* (Resistance to non-magical physical damage), *Beast-Charm Aura* (Can temporarily calm nearby beasts).
-10. **The Beast of Skull Isle (Island Entity)** (CR 25 Legendary). HP: 1000, AC: 22. **Abilities:** *World-Shaking Roar* (Causes massive earthquakes and fear), *Primordial Heartbeat* (Regenerates 50 HP per round), *Island's Will* (Can summon any creature on the island as a legendary action).
+### 1. Velociraptor Swarm (CR 3)
+(CR 3 Beast). HP: 60, AC: 14. **Abilities:** *Pack Tactics*, *Pounce* (Knocks target prone).
+### 2. Giant Ape (Kong) (CR 8)
+(CR 8 Beast). HP: 180, AC: 15. **Abilities:** *Colossal Strength* (Advantage on STR checks and saves), *Terrifying Roar* (Forces a WIS save vs. fear).
+### 3. Void-Worm (CR 12)
+(CR 12 Aberration). HP: 250, AC: 18. **Abilities:** *Burrow* (Can burrow through earth and stone at full speed), *Reality-Shattering Roar* (Deals massive thunder damage and causes localized earthquakes).
+### 4. Primordial Heart Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Life-Drain* (Melee attack deals necrotic damage and heals the cultist), *Fanatical Devotion* (Immune to fear).
+### 5. T-Rex (Fang) (CR 10)
+(CR 10 Beast). HP: 200, AC: 16. **Abilities:** *Massive Bite* (Deals massive piercing damage and can swallow targets whole), *Terrifying Presence* (Forces a WIS save vs. fear).
+### 6. Glass-Spined Stegosaurus (CR 7)
+(CR 7 Beast). HP: 150, AC: 17. **Abilities:** *Glass Spines* (Deals piercing damage to anyone who hits it with a melee attack), *Tail Swipe* (Knocks targets prone).
+### 7. Storm Elemental (Greater) (CR 9)
+(CR 9 Elemental). HP: 180, AC: 16. **Abilities:** *Lightning Aura* (Deals lightning damage to anyone who touches it), *Thunderclap* (30-ft cone, DC 16 CON save or take 4d6 thunder damage and be deafened).
+### 8. Serpent Priestess (Naga) (CR 8)
+(CR 8 Monstrosity). HP: 120, AC: 15. **Abilities:** *Venomous Bite* (Deals poison damage and paralyzes targets), *Mind Control* (Can cast *Charm Person* at will).
+### 9. K'tharr Guardian (CR 6)
+(CR 6 Construct). HP: 100, AC: 18. **Abilities:** *Ancient Defenses* (Resistance to non-magical physical damage), *Beast-Charm Aura* (Can temporarily calm nearby beasts).
+### 10. The Beast of Skull Isle (Island Entity) (CR 25)
+(CR 25 Legendary). HP: 1000, AC: 22. **Abilities:** *World-Shaking Roar* (Causes massive earthquakes and fear), *Primordial Heartbeat* (Regenerates 50 HP per round), *Island's Will* (Can summon any creature on the island as a legendary action).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

@@ -318,16 +318,26 @@ The conflict exists because the **Cognitive Anchor** has slipped. The collective
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Monsters
-1.  **Magma-Shark (CR 5):** HP 80, AC 15. Swim (Lava). **Ability:** Breach (Jump out of lava to bite).
-2.  **Dust-Wraith (CR 3):** HP 40, AC 18. Speed 0 (Fly). **Ability:** Choke (Enter lungs of target).
-3.  **Void-Leech (CR 1):** HP 10, AC 12. **Ability:** Magic Drain (Eats spell slots).
-4.  **Steam-Mephit (CR 1/2):** HP 20, AC 12. **Ability:** Scald (AOE heat damage).
-5.  **Obsidian Golem (CR 8):** HP 150, AC 20. **Ability:** Shatter (Explodes on death).
-6.  **Cloud-Stalker (CR 4):** HP 50, AC 14. Invisible in fog. **Ability:** Lightning Strike.
-7.  **Emotion-Eater (CR 6):** HP 90, AC 16. **Ability:** Despair (Wis save or skip turn).
-8.  **Time-Mite (CR 2):** HP 30, AC 15. **Ability:** Rewind (Heals damage taken last turn).
-9.  **Chimera-13 (CR 10):** HP 200, AC 17. Snake/Lion/Goat. **Ability:** Chaos Breath.
-10. **The Un-Thing (CR 15):** HP 300, AC 10. **Ability:** Erasure (On hit, target forgets a skill).
+### 1. Magma-Shark (CR 5)
+**HP:** 80, **AC:** 15. Swim (Lava). **Ability:** Breach (Jump out of lava to bite).
+### 2. Dust-Wraith (CR 3)
+**HP:** 40, **AC:** 18. Speed 0 (Fly). **Ability:** Choke (Enter lungs of target).
+### 3. Void-Leech (CR 1)
+**HP:** 10, **AC:** 12. **Ability:** Magic Drain (Eats spell slots).
+### 4. Steam-Mephit (CR 1/2)
+**HP:** 20, **AC:** 12. **Ability:** Scald (AOE heat damage).
+### 5. Obsidian Golem (CR 8)
+**HP:** 150, **AC:** 20. **Ability:** Shatter (Explodes on death).
+### 6. Cloud-Stalker (CR 4)
+**HP:** 50, **AC:** 14. Invisible in fog. **Ability:** Lightning Strike.
+### 7. Emotion-Eater (CR 6)
+**HP:** 90, **AC:** 16. **Ability:** Despair (Wis save or skip turn).
+### 8. Time-Mite (CR 2)
+**HP:** 30, **AC:** 15. **Ability:** Rewind (Heals damage taken last turn).
+### 9. Chimera-13 (CR 10)
+**HP:** 200, **AC:** 17. Snake/Lion/Goat. **Ability:** Chaos Breath.
+### 10. The Un-Thing (CR 15)
+**HP:** 300, **AC:** 10. **Ability:** Erasure (On hit, target forgets a skill).
 
 [TAG: ENCOUNTER_TABLE]
 

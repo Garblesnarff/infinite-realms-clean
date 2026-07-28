@@ -306,16 +306,26 @@ The central conflict is the struggle between **Control and Chaos**. The Cosmic L
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Protocol Enforcer (Guard)** (CR 3 Construct). HP: 50, AC: 16. **Abilities:** *Reality Patch* (Can deploy localized code patches to fix minor glitches), *Stun Baton* (Melee attack deals bludgeoning damage and can stun targets).
-2.  **Raven's Syndicate Operative** (CR 4 Humanoid). HP: 65, AC: 17. **Abilities:** *Glitch-Tech Device* (Can cause minor reality distortions), *Shadow Step* (Can teleport between shadows as a bonus action).
-3.  **Time-Lock Crew Member** (CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Temporal Loop* (Can force a target to repeat their last action on a failed WIS save), *Time-Lock Device* (Can create a localized temporal stasis field).
-4.  **Mind-Palace Guardian (Construct)** (CR 6 Construct). HP: 90, AC: 18. **Abilities:** *Psychic Shield* (Resistance to psychic damage), *Thought Scramble* (Melee attack deals psychic damage and forces a WIS save vs. confusion).
-5.  **Archmage Thanatos (Obsessed)** (CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Temporal Magic* (Can cast powerful time-manipulating spells), *Grief-Driven Rage* (Gains advantage on attack rolls if below half HP).
-6.  **The Raven (Nyx Shadowmere)** (CR 12 Humanoid). HP: 180, AC: 19. **Abilities:** *Glitch-Tech Mastery* (Can cause major reality distortions), *Shadow Form* (Can become incorporeal as a bonus action), *Master Key Fragment* (Immune to all protocol-based defenses).
-7.  **The Glitch (Manifestation)** (CR 8 Aberration). HP: 120, AC: 15. **Abilities:** *Reality Distortion Aura* (Creatures within 10ft have disadvantage on all checks), *Code Corruption* (Can cause technology to malfunction).
-8.  **Cosmic Locksmith's Servant (Golem)** (CR 9 Construct). HP: 130, AC: 20. **Abilities:** *Impossible Defenses* (Immune to all non-magical damage), *Protocol Enforcement* (Can instantly identify and neutralize any protocol breach).
-9.  **Eternity Engine Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Temporal Zealotry* (Immune to fear), *Time-Warping Device* (Can cause minor temporal distortions).
-10. **The Cosmic Locksmith (Avatar)** (CR 25 Deity). HP: 500, AC: 25. **Abilities:** *Perfect Security* (Immune to all damage unless a Master Key is used), *Reality Lockout* (Can lock out entire sections of reality), *Cosmic Precision* (Can manipulate any mechanism in the universe).
+### 1. Protocol Enforcer (Guard) (CR 3)
+(CR 3 Construct). HP: 50, AC: 16. **Abilities:** *Reality Patch* (Can deploy localized code patches to fix minor glitches), *Stun Baton* (Melee attack deals bludgeoning damage and can stun targets).
+### 2. Raven's Syndicate Operative (CR 4)
+(CR 4 Humanoid). HP: 65, AC: 17. **Abilities:** *Glitch-Tech Device* (Can cause minor reality distortions), *Shadow Step* (Can teleport between shadows as a bonus action).
+### 3. Time-Lock Crew Member (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Temporal Loop* (Can force a target to repeat their last action on a failed WIS save), *Time-Lock Device* (Can create a localized temporal stasis field).
+### 4. Mind-Palace Guardian (Construct) (CR 6)
+(CR 6 Construct). HP: 90, AC: 18. **Abilities:** *Psychic Shield* (Resistance to psychic damage), *Thought Scramble* (Melee attack deals psychic damage and forces a WIS save vs. confusion).
+### 5. Archmage Thanatos (Obsessed) (CR 10)
+(CR 10 Humanoid). HP: 150, AC: 17. **Abilities:** *Temporal Magic* (Can cast powerful time-manipulating spells), *Grief-Driven Rage* (Gains advantage on attack rolls if below half HP).
+### 6. The Raven (Nyx Shadowmere) (CR 12)
+(CR 12 Humanoid). HP: 180, AC: 19. **Abilities:** *Glitch-Tech Mastery* (Can cause major reality distortions), *Shadow Form* (Can become incorporeal as a bonus action), *Master Key Fragment* (Immune to all protocol-based defenses).
+### 7. The Glitch (Manifestation) (CR 8)
+(CR 8 Aberration). HP: 120, AC: 15. **Abilities:** *Reality Distortion Aura* (Creatures within 10ft have disadvantage on all checks), *Code Corruption* (Can cause technology to malfunction).
+### 8. Cosmic Locksmith's Servant (Golem) (CR 9)
+(CR 9 Construct). HP: 130, AC: 20. **Abilities:** *Impossible Defenses* (Immune to all non-magical damage), *Protocol Enforcement* (Can instantly identify and neutralize any protocol breach).
+### 9. Eternity Engine Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Temporal Zealotry* (Immune to fear), *Time-Warping Device* (Can cause minor temporal distortions).
+### 10. The Cosmic Locksmith (Avatar) (CR 25)
+(CR 25 Deity). HP: 500, AC: 25. **Abilities:** *Perfect Security* (Immune to all damage unless a Master Key is used), *Reality Lockout* (Can lock out entire sections of reality), *Cosmic Precision* (Can manipulate any mechanism in the universe).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

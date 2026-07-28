@@ -306,16 +306,26 @@ The central conflict is the struggle between **Narrative and Nihilism**. The Fir
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Plot Hole** (CR 4 Aberration). HP: 60, AC: 14. **Abilities:** *Narrative Erosion* (Deals psychic damage and forces a WIS save vs. forgetting a minor memory), *Inconsistency Aura* (Creatures within 10ft have disadvantage on checks to recall information).
-2.  **Narrative Golem** (CR 6 Construct). HP: 90, AC: 17. **Abilities:** *Plot Armor* (Immune to damage from non-narratively significant sources), *Foreshadowing Strike* (Its attacks deal extra damage if the target has been previously warned about it).
-3.  **Archetype Actor (Corrupted)** (CR 3 Humanoid). HP: 45, AC: 15. **Abilities:** *Forced Role* (Can force a target to act out a specific archetype for 1 round), *Dramatic Monologue* (Forces a WIS save vs. being charmed by its performance).
-4.  **Deus Ex Machina Drone** (CR 2 Construct). HP: 30, AC: 16. **Abilities:** *Convenient Appearance* (Appears at narratively convenient moments), *Sudden Solution* (Can cast a minor spell that solves a problem, but creates a new one).
-5.  **Continuity Error** (CR 1 Ooze). HP: 20, AC: 8. **Abilities:** *Amorphous*, *Inconsistency Touch* (On a hit, target's appearance or a minor detail about them changes randomly).
-6.  **Fourth Wall Breaker (Rogue)** (CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Meta-Commentary* (Can impose disadvantage on a target's roll by pointing out a narrative flaw), *Audience Appeal* (Can gain temporary hit points by appealing to the players).
-7.  **Unreliable Narrator (Manifestation)** (CR 7 Fey). HP: 100, AC: 15. **Abilities:** *Subjective Reality* (Can alter the perception of reality for a single target), *Lying Strike* (Its attacks deal psychic damage and force a WIS save vs. believing a false truth).
-8.  **Foreshadowing Fanatic (Zealot)** (CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Ominous Warning* (Can impose disadvantage on a target's next attack roll), *Self-Fulfilling Prophecy* (If it dies, a minor disaster occurs).
-9.  **Character Development Committee (Therapist)** (CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Emotional Manipulation* (Can force a target to make a WIS save vs. experiencing a specific emotion), *Flaw Exploitation* (Deals extra psychic damage to targets with known character flaws).
-10. **The Cosmic Storyteller (Bored Avatar)** (CR 15 Deity). HP: 250, AC: 20. **Abilities:** *Narrative Control* (Can rewrite minor details of reality as a legendary action), *Yawns of Indifference* (Forces all creatures to make a WIS save vs. becoming bored and losing their will to fight).
+### 1. Plot Hole (CR 4)
+(CR 4 Aberration). HP: 60, AC: 14. **Abilities:** *Narrative Erosion* (Deals psychic damage and forces a WIS save vs. forgetting a minor memory), *Inconsistency Aura* (Creatures within 10ft have disadvantage on checks to recall information).
+### 2. Narrative Golem (CR 6)
+(CR 6 Construct). HP: 90, AC: 17. **Abilities:** *Plot Armor* (Immune to damage from non-narratively significant sources), *Foreshadowing Strike* (Its attacks deal extra damage if the target has been previously warned about it).
+### 3. Archetype Actor (Corrupted) (CR 3)
+(CR 3 Humanoid). HP: 45, AC: 15. **Abilities:** *Forced Role* (Can force a target to act out a specific archetype for 1 round), *Dramatic Monologue* (Forces a WIS save vs. being charmed by its performance).
+### 4. Deus Ex Machina Drone (CR 2)
+(CR 2 Construct). HP: 30, AC: 16. **Abilities:** *Convenient Appearance* (Appears at narratively convenient moments), *Sudden Solution* (Can cast a minor spell that solves a problem, but creates a new one).
+### 5. Continuity Error (CR 1)
+(CR 1 Ooze). HP: 20, AC: 8. **Abilities:** *Amorphous*, *Inconsistency Touch* (On a hit, target's appearance or a minor detail about them changes randomly).
+### 6. Fourth Wall Breaker (Rogue) (CR 5)
+(CR 5 Humanoid). HP: 75, AC: 14. **Abilities:** *Meta-Commentary* (Can impose disadvantage on a target's roll by pointing out a narrative flaw), *Audience Appeal* (Can gain temporary hit points by appealing to the players).
+### 7. Unreliable Narrator (Manifestation) (CR 7)
+(CR 7 Fey). HP: 100, AC: 15. **Abilities:** *Subjective Reality* (Can alter the perception of reality for a single target), *Lying Strike* (Its attacks deal psychic damage and force a WIS save vs. believing a false truth).
+### 8. Foreshadowing Fanatic (Zealot) (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 13. **Abilities:** *Ominous Warning* (Can impose disadvantage on a target's next attack roll), *Self-Fulfilling Prophecy* (If it dies, a minor disaster occurs).
+### 9. Character Development Committee (Therapist) (CR 8)
+(CR 8 Aberration). HP: 120, AC: 16. **Abilities:** *Emotional Manipulation* (Can force a target to make a WIS save vs. experiencing a specific emotion), *Flaw Exploitation* (Deals extra psychic damage to targets with known character flaws).
+### 10. The Cosmic Storyteller (Bored Avatar) (CR 15)
+(CR 15 Deity). HP: 250, AC: 20. **Abilities:** *Narrative Control* (Can rewrite minor details of reality as a legendary action), *Yawns of Indifference* (Forces all creatures to make a WIS save vs. becoming bored and losing their will to fight).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)

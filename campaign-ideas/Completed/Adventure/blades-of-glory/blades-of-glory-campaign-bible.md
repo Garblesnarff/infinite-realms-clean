@@ -306,16 +306,26 @@ The central conflict is the struggle between **Artistry and Annihilation**. The 
 [TAG: ENEMY_STATBLOCK]
 
 ### Custom Stat Blocks
-1.  **Echo-Warrior** (CR 3 Humanoid). HP: 50, AC: 16. **Abilities:** *Memory-Less Rage* (Immune to fear and charm), *Echoing Strike* (Melee attack deals extra psychic damage and forces a WIS save vs. forgetting a minor memory).
-2.  **Shadow-Duelist** (CR 4 Humanoid). HP: 65, AC: 17. **Abilities:** *Shadow Step* (Can teleport between shadows as a bonus action), *Veiled Strike* (Attacks have advantage if the target is unaware of them).
-3.  **Blade-Bound Knight** (CR 6 Humanoid). HP: 90, AC: 18. **Abilities:** *Blade of Glory* (Wields a powerful magical weapon), *Compelled Combat* (Cannot retreat from combat).
-4.  **Cosmic Duelist (Lesser)** (CR 7 Elemental). HP: 110, AC: 15. **Abilities:** *Planar Shift* (Can teleport to a different plane of existence as a bonus action), *Energy Blast* (Ranged attack deals force damage).
-5.  **Void-Blade Cultist** (CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Fanatical Devotion* (Immune to fear), *Void-Touch* (Melee attack deals necrotic damage).
-6.  **Glory-Seeker (Champion)** (CR 5 Humanoid). HP: 80, AC: 17. **Abilities:** *Unwavering Confidence* (Immune to fear), *Dramatic Flourish* (Can gain advantage on an attack roll by performing a dramatic maneuver).
-7.  **Blade-Breaker Monk** (CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Pacifist Strike* (Deals non-lethal damage), *Star-Shield Defense* (Can temporarily nullify the power of a Blade of Glory).
-8.  **Forge-Golem** (CR 8 Construct). HP: 130, AC: 19. **Abilities:** *Star-Forge Heat* (Deals fire damage to anyone who touches it), *Hammer Slam* (Deals massive bludgeoning damage).
-9.  **Echo-Beast** (CR 3 Monstrosity). HP: 50, AC: 14. **Abilities:** *Echoing Roar* (30-ft cone, DC 13 CON save or take 2d6 thunder damage and be deafened), *Memory Drain* (Melee attack deals psychic damage and forces a WIS save vs. forgetting a minor memory).
-10. **The Grand Master of Blades (Corrupted)** (CR 15 Humanoid). HP: 250, AC: 20. **Abilities:** *Void-Blade Mastery* (Wields a fragment of the Void-Blade), *Compelled Duel* (Can force a target to duel him to the death), *Cosmic Artistry* (Can perform legendary actions that reshape the battlefield).
+### 1. Echo-Warrior (CR 3)
+(CR 3 Humanoid). HP: 50, AC: 16. **Abilities:** *Memory-Less Rage* (Immune to fear and charm), *Echoing Strike* (Melee attack deals extra psychic damage and forces a WIS save vs. forgetting a minor memory).
+### 2. Shadow-Duelist (CR 4)
+(CR 4 Humanoid). HP: 65, AC: 17. **Abilities:** *Shadow Step* (Can teleport between shadows as a bonus action), *Veiled Strike* (Attacks have advantage if the target is unaware of them).
+### 3. Blade-Bound Knight (CR 6)
+(CR 6 Humanoid). HP: 90, AC: 18. **Abilities:** *Blade of Glory* (Wields a powerful magical weapon), *Compelled Combat* (Cannot retreat from combat).
+### 4. Cosmic Duelist (Lesser) (CR 7)
+(CR 7 Elemental). HP: 110, AC: 15. **Abilities:** *Planar Shift* (Can teleport to a different plane of existence as a bonus action), *Energy Blast* (Ranged attack deals force damage).
+### 5. Void-Blade Cultist (CR 2)
+(CR 2 Humanoid). HP: 30, AC: 12. **Abilities:** *Fanatical Devotion* (Immune to fear), *Void-Touch* (Melee attack deals necrotic damage).
+### 6. Glory-Seeker (Champion) (CR 5)
+(CR 5 Humanoid). HP: 80, AC: 17. **Abilities:** *Unwavering Confidence* (Immune to fear), *Dramatic Flourish* (Can gain advantage on an attack roll by performing a dramatic maneuver).
+### 7. Blade-Breaker Monk (CR 4)
+(CR 4 Humanoid). HP: 60, AC: 16. **Abilities:** *Pacifist Strike* (Deals non-lethal damage), *Star-Shield Defense* (Can temporarily nullify the power of a Blade of Glory).
+### 8. Forge-Golem (CR 8)
+(CR 8 Construct). HP: 130, AC: 19. **Abilities:** *Star-Forge Heat* (Deals fire damage to anyone who touches it), *Hammer Slam* (Deals massive bludgeoning damage).
+### 9. Echo-Beast (CR 3)
+(CR 3 Monstrosity). HP: 50, AC: 14. **Abilities:** *Echoing Roar* (30-ft cone, DC 13 CON save or take 2d6 thunder damage and be deafened), *Memory Drain* (Melee attack deals psychic damage and forces a WIS save vs. forgetting a minor memory).
+### 10. The Grand Master of Blades (Corrupted) (CR 15)
+(CR 15 Humanoid). HP: 250, AC: 20. **Abilities:** *Void-Blade Mastery* (Wields a fragment of the Void-Blade), *Compelled Duel* (Can force a target to duel him to the death), *Cosmic Artistry* (Can perform legendary actions that reshape the battlefield).
 
 [TAG: ENCOUNTER_TABLE]
 ### Encounter Tables (d20)
