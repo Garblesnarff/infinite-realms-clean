@@ -20,7 +20,8 @@ The "Demons" that plague the land are not invaders from another realm. They are 
 ### The "Why"
 The metaphysical conflict is a battle for the soul of humanity itself. The Slayers represent the philosophy that negative emotions, while painful, are a natural and necessary part of the human experience, and they must be managed with discipline and empathy. Muzan and his Demons represent the opposing view: that negative emotions are a source of ultimate power, and that the path to godhood is to cultivate endless suffering. The players are not just monster hunters; they are philosopher-warriors, fighting for the very definition of what it means to be human. Can they defeat Muzan without becoming like him? Can they save a world that is, by its very nature, the cause of its own suffering?
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Slayer Corps
 **Type:** Secret, Non-Governmental Demon-Fighting Organization
 **Leader:** The current head of the Ubuyashiki Family, a serene and wise, but cursed, leader.
@@ -81,83 +82,85 @@ The metaphysical conflict is a battle for the soul of humanity itself. The Slaye
 **Asset:** The army, the law, and a complete ignorance of the secret war being waged. They do not believe in Demons and often hinder the Slayer Corps' operations, mistaking them for vigilantes or criminals.
 **Rivals:** The Slayer Corps (unintentionally).
 
-## [TAG: NPC_TIER_1]
-**Tanjiro Kamado** (Human Fighter) - Kind, compassionate, with an unnaturally strong sense of smell. **Voice:** Earnest, polite, and full of empathy. **Goal:** To turn his sister, who has become a Demon, back into a human. **Secret:** He is the last living inheritor of the original Sun Breathing style.
-**Nezuko Kamado** (Demon) - Tanjiro's sister. A Demon who has never consumed a human and protects them instead. **Voice:** A series of determined, but muffled, grunts (she wears a bamboo muzzle). **Goal:** To protect her brother and other humans. **Secret:** Her unique nature is a potential key to defeating Muzan.
-**Muzan, the Progenitor** (Demon) - The first and most powerful Demon. Cruel, narcissistic, and utterly without empathy. **Voice:** A calm, cold, and condescending baritone. **Goal:** To conquer his one weakness—the sun—and become a perfect, immortal being. **Secret:** He is terrified of death and sees his own monstrosity as a curse.
-**Kagaya Ubuyashiki** (Human, Leader) - The leader of the Slayer Corps. Calm, serene, and wise, despite a curse that is slowly destroying his body. **Voice:** A soft, gentle, and incredibly calming voice. **Goal:** To defeat Muzan and end the cycle of suffering. **Secret:** His family's curse is a direct result of Muzan being a distant relative.
-**Giyu Tomioka, the Water Hashira** (Human Fighter) - The stoic, powerful Water Pillar of the Slayer Corps. **Voice:** A quiet, low, and emotionless monotone. **Goal:** To fulfill his duty as a Hashira. **Secret:** He suffers from a crippling inferiority complex, believing he was not worthy of becoming a Hashira.
-**Shinobu Kocho, the Insect Hashira** (Human Rogue) - The Insect Pillar. Always smiling, but with a deep, hidden rage. **Voice:** A cheerful, teasing, and light voice, but with a sharp, venomous edge. **Goal:** To kill the Demon who murdered her older sister. **Secret:** She is not strong enough to decapitate a Demon, so she developed a unique poison-based fighting style.
-**Kyojuro Rengoku, the Flame Hashira** (Human Fighter) - The Flame Pillar. Boisterous, charismatic, and filled with an unshakeable sense of duty. **Voice:** A loud, booming, and joyfully enthusiastic voice. **Goal:** To live up to the legacy of his family and protect the weak. **Secret:** His father, a former Flame Hashira, fell into a deep depression, and Kyojuro's enthusiasm is partly a way to fight his own despair.
-**Akaza, Upper Moon Three** (Demon) - A powerful Demon who despises the weak and respects only strength. **Voice:** A rough, confident, and challenging voice. **Goal:** To become the strongest being in existence. **Secret:** As a human, he was a gentle martial artist who lost everything he loved, and his obsession with strength is a twisted version of his desire to have been strong enough to protect them.
-**The Elder Smith** (Dwarf Artificer) - The head of the Swordsmith Village. Grumpy, proud, and a master of his craft. **Voice:** A gruff, raspy, and impatient bark. **Goal:** To forge the perfect Nichirin blade. **Secret:** He secretly adds a small, unique, and often whimsical design to every sword he makes.
-**Lady Tamayo** (Demon Doctor) - A Demon who, like Nezuko, has broken free from Muzan's control. A brilliant doctor and researcher. **Voice:** A calm, gentle, and intelligent voice. **Goal:** To create a "cure" for demonism and to get her revenge on Muzan. **Secret:** She was turned by Muzan personally and was forced to kill her own family in her initial bloodlust.
-**Yushiro** (Demon) - Tamayo's loyal, and obsessively devoted, assistant. **Voice:** A sharp, arrogant, and easily annoyed voice (especially towards anyone who isn't Tamayo). **Goal:** To protect Lady Tamayo. **Secret:** He was dying of a terminal illness when Tamayo saved him by turning him into a Demon.
-**Conductor Amadeus** (Human Bard) - The leader of the Forlorn Philharmonic. **Voice:** A smooth, dramatic, and passionate tenor. **Goal:** To prove that music is more powerful than violence. **Secret:** His "Nocturnes" are based on the humming of a dying Demon he once encountered.
-**The Dusk-Breather** (Human Fighter) - The leader of the Order of the Setting Sun. **Voice:** A cold, harsh, and bitter voice. **Goal:** To eradicate all Demons, without mercy or compassion. **Secret:** He was Giyu Tomioka's partner for the Final Selection exam and believes Giyu "stole" his spot as a Hashira.
-**The Gourmand of Grief** (Human Warlock) - The leader of the Emotion-Eaters. **Voice:** A wet, slurping, and deeply unsettling voice. **Goal:** To taste every emotion in existence. **Secret:** She was a former Slayer who was driven mad by the constant exposure to negative emotions.
-**Hotaru Haganezuka** (Human Expert) - A young, brilliant, and incredibly hot-tempered swordsmith. **Voice:** A high-pitched, frantic, and enraged scream (especially if you break one of his swords). **Goal:** To forge a sword for a truly worthy Slayer. **Secret:** He is a gentle soul who loves small animals, a fact he hides under his layers of rage.
-**Sakonji Urokodaki** (Human Ranger) - A former Water Hashira who now trains new Slayers. **Voice:** A gruff, but kind, voice, always muffled by his tengu mask. **Goal:** To train a student who can finally defeat Muzan. **Secret:** He has trained many students, and almost all of them have been killed. He wears his mask to hide his grief-stricken face.
-**Inosuke Hashibira** (Human Barbarian) - A wild boy, raised by boars, who developed his own "Beast Breathing" style. **Voice:** A loud, rough, and arrogant shout, muffled by his boar mask. **Goal:** To be the strongest fighter in the world. **Secret:** He is surprisingly sensitive and craves affection and praise.
-**Zenitsu Agatsuma** (Human Fighter) - A Slayer who is a sniveling coward... until he falls asleep, at which point he becomes a lightning-fast master of Thunder Breathing. **Voice:** A high-pitched, terrified wail (awake); a low, determined growl (asleep). **Goal:** To survive. **Secret:** He has perfect pitch, which is why the sound of Demons terrifies him so much.
-**The High Priest of Sorrow** (Human Cleric) - The leader of the Cult of Eternal Misery. **Voice:** A slow, droning, and utterly depressing voice. **Goal:** To bring about the "Great Despair," a world of perfect, unending sadness. **Secret:** He is incapable of feeling sadness himself and is desperately trying to understand it.
-**A Kasugai Crow** (Crow) - The intelligent crows that serve the Slayer Corps. **Voice:** A loud, obnoxious, and demanding caw that sounds suspiciously like human speech. **Goal:** To deliver its message and get a reward. **Secret:** The crows are the reincarnated souls of Slayers who died in the line of duty.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Tanjiro Kamado** (Human Fighter) - Kind, compassionate, with an unnaturally strong sense of smell. **Voice:** Earnest, polite, and full of empathy. **Goal:** To turn his sister, who has become a Demon, back into a human. **Secret:** He is the last living inheritor of the original Sun Breathing style.
+2.  **Nezuko Kamado** (Demon) - Tanjiro's sister. A Demon who has never consumed a human and protects them instead. **Voice:** A series of determined, but muffled, grunts (she wears a bamboo muzzle). **Goal:** To protect her brother and other humans. **Secret:** Her unique nature is a potential key to defeating Muzan.
+3.  **Muzan, the Progenitor** (Demon) - The first and most powerful Demon. Cruel, narcissistic, and utterly without empathy. **Voice:** A calm, cold, and condescending baritone. **Goal:** To conquer his one weakness—the sun—and become a perfect, immortal being. **Secret:** He is terrified of death and sees his own monstrosity as a curse.
+4.  **Kagaya Ubuyashiki** (Human, Leader) - The leader of the Slayer Corps. Calm, serene, and wise, despite a curse that is slowly destroying his body. **Voice:** A soft, gentle, and incredibly calming voice. **Goal:** To defeat Muzan and end the cycle of suffering. **Secret:** His family's curse is a direct result of Muzan being a distant relative.
+5.  **Giyu Tomioka, the Water Hashira** (Human Fighter) - The stoic, powerful Water Pillar of the Slayer Corps. **Voice:** A quiet, low, and emotionless monotone. **Goal:** To fulfill his duty as a Hashira. **Secret:** He suffers from a crippling inferiority complex, believing he was not worthy of becoming a Hashira.
+6.  **Shinobu Kocho, the Insect Hashira** (Human Rogue) - The Insect Pillar. Always smiling, but with a deep, hidden rage. **Voice:** A cheerful, teasing, and light voice, but with a sharp, venomous edge. **Goal:** To kill the Demon who murdered her older sister. **Secret:** She is not strong enough to decapitate a Demon, so she developed a unique poison-based fighting style.
+7.  **Kyojuro Rengoku, the Flame Hashira** (Human Fighter) - The Flame Pillar. Boisterous, charismatic, and filled with an unshakeable sense of duty. **Voice:** A loud, booming, and joyfully enthusiastic voice. **Goal:** To live up to the legacy of his family and protect the weak. **Secret:** His father, a former Flame Hashira, fell into a deep depression, and Kyojuro's enthusiasm is partly a way to fight his own despair.
+8.  **Akaza, Upper Moon Three** (Demon) - A powerful Demon who despises the weak and respects only strength. **Voice:** A rough, confident, and challenging voice. **Goal:** To become the strongest being in existence. **Secret:** As a human, he was a gentle martial artist who lost everything he loved, and his obsession with strength is a twisted version of his desire to have been strong enough to protect them.
+9.  **The Elder Smith** (Dwarf Artificer) - The head of the Swordsmith Village. Grumpy, proud, and a master of his craft. **Voice:** A gruff, raspy, and impatient bark. **Goal:** To forge the perfect Nichirin blade. **Secret:** He secretly adds a small, unique, and often whimsical design to every sword he makes.
+10.  **Lady Tamayo** (Demon Doctor) - A Demon who, like Nezuko, has broken free from Muzan's control. A brilliant doctor and researcher. **Voice:** A calm, gentle, and intelligent voice. **Goal:** To create a "cure" for demonism and to get her revenge on Muzan. **Secret:** She was turned by Muzan personally and was forced to kill her own family in her initial bloodlust.
+11.  **Yushiro** (Demon) - Tamayo's loyal, and obsessively devoted, assistant. **Voice:** A sharp, arrogant, and easily annoyed voice (especially towards anyone who isn't Tamayo). **Goal:** To protect Lady Tamayo. **Secret:** He was dying of a terminal illness when Tamayo saved him by turning him into a Demon.
+12.  **Conductor Amadeus** (Human Bard) - The leader of the Forlorn Philharmonic. **Voice:** A smooth, dramatic, and passionate tenor. **Goal:** To prove that music is more powerful than violence. **Secret:** His "Nocturnes" are based on the humming of a dying Demon he once encountered.
+13.  **The Dusk-Breather** (Human Fighter) - The leader of the Order of the Setting Sun. **Voice:** A cold, harsh, and bitter voice. **Goal:** To eradicate all Demons, without mercy or compassion. **Secret:** He was Giyu Tomioka's partner for the Final Selection exam and believes Giyu "stole" his spot as a Hashira.
+14.  **The Gourmand of Grief** (Human Warlock) - The leader of the Emotion-Eaters. **Voice:** A wet, slurping, and deeply unsettling voice. **Goal:** To taste every emotion in existence. **Secret:** She was a former Slayer who was driven mad by the constant exposure to negative emotions.
+15.  **Hotaru Haganezuka** (Human Expert) - A young, brilliant, and incredibly hot-tempered swordsmith. **Voice:** A high-pitched, frantic, and enraged scream (especially if you break one of his swords). **Goal:** To forge a sword for a truly worthy Slayer. **Secret:** He is a gentle soul who loves small animals, a fact he hides under his layers of rage.
+16.  **Sakonji Urokodaki** (Human Ranger) - A former Water Hashira who now trains new Slayers. **Voice:** A gruff, but kind, voice, always muffled by his tengu mask. **Goal:** To train a student who can finally defeat Muzan. **Secret:** He has trained many students, and almost all of them have been killed. He wears his mask to hide his grief-stricken face.
+17.  **Inosuke Hashibira** (Human Barbarian) - A wild boy, raised by boars, who developed his own "Beast Breathing" style. **Voice:** A loud, rough, and arrogant shout, muffled by his boar mask. **Goal:** To be the strongest fighter in the world. **Secret:** He is surprisingly sensitive and craves affection and praise.
+18.  **Zenitsu Agatsuma** (Human Fighter) - A Slayer who is a sniveling coward... until he falls asleep, at which point he becomes a lightning-fast master of Thunder Breathing. **Voice:** A high-pitched, terrified wail (awake); a low, determined growl (asleep). **Goal:** To survive. **Secret:** He has perfect pitch, which is why the sound of Demons terrifies him so much.
+19.  **The High Priest of Sorrow** (Human Cleric) - The leader of the Cult of Eternal Misery. **Voice:** A slow, droning, and utterly depressing voice. **Goal:** To bring about the "Great Despair," a world of perfect, unending sadness. **Secret:** He is incapable of feeling sadness himself and is desperately trying to understand it.
+20.  **A Kasugai Crow** (Crow) - The intelligent crows that serve the Slayer Corps. **Voice:** A loud, obnoxious, and demanding caw that sounds suspiciously like human speech. **Goal:** To deliver its message and get a reward. **Secret:** The crows are the reincarnated souls of Slayers who died in the line of duty.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Goto | Kakushi Member | Any post-battle scene | Is obsessed with cleaning and will try to scrub the blood off your clothes while you're still wearing them. |
-| Kiyo | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
-| Sumi | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
-| Naho | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
-| Kozo Kanamori | Swordsmith | The Swordsmith Village | Is Hotaru's rival and is just as angry, but about different things. |
-| Tetsuido | Swordsmith | The Swordsmith Village | An old, frail smith who forges swords by singing to the metal. |
-| Saburo | Farmer | A small village | Leaves out bowls of rice for "the good Demons." |
-| Hisa | Old Woman | A town with a Wisteria Crest | Insists on feeding and caring for any Slayer who passes through. |
-| Shoichi | Young Boy | A village attacked by a Demon | Is now terrified of the dark, and small spaces, and loud noises. |
-| Teruko | Young Girl | A village attacked by a Demon | Is now preternaturally brave and wants to become a Slayer. |
-| Officer Kenji | Policeman | A large city | Refuses to believe in Demons and is always trying to "arrest" the Slayers. |
-| Maestro's Protege | Musician | The Forlorn Philharmonic | Is trying to compose a "happy" song that is also a weapon. |
-| Dusk-Breather's Lieutenant | Slayer | Order of the Setting Sun | Believes compassion is a form of weakness and will "test" the party on it. |
-| The Gourmand's Apprentice | Mystic | The Emotion-Eaters | Asks to "taste" a sample of your rage. |
-| The Imperial Messenger | Bureaucrat | The Capital | Is trying to deliver a "cease and desist" order to Muzan. |
-| The Wisteria Matron's Son | Botanist | The Wisteria Gardens | Is trying to cross-breed a wisteria with a carnivorous plant. |
-| The Kakushi Captain | Former Slayer | The Kakushi HQ | Has a prosthetic leg that contains a dozen different cleaning supplies. |
-| The Demon-Sympathizer | Scholar | A university | Has a theory that Demons are a misunderstood, noble race. |
-| The "Breathing" Cook | Chef | A Slayer-friendly restaurant | Applies Breathing Style principles to his cooking, with delicious results. |
-| The Cursed Bride | Noblewoman | A haunted castle | Was turned into a Demon on her wedding night and now waits for her long-dead groom. |
-| The Storyteller | Old Man | A roadside shrine | Tells "fairy tales" that are actually accurate accounts of the Slayers' battles. |
-| The Blacksmith's Daughter | Young Girl | The Swordsmith Village | Makes tiny, perfect, miniature swords for dolls. |
-| The Crow-Trainer | Slayer Corps Member | The Crow Roost | Can understand the crows perfectly, and is tired of their constant complaints. |
-| The Emotion-Merchant | A strange man | A back alley | Sells bottled emotions: a vial of pure joy, a flask of righteous anger. |
-| The Silent Flutist | A musician | A bridge | Plays a flute that can only be heard by ghosts and Demons. |
-| The Failed Student | A young man | A tavern | Failed the Final Selection and is now a bitter drunk. |
-| The Demon's Pet | A small child | A ruined village | A child who is being "kept" by a Demon, who finds the child's happiness "interesting." |
-| The Mask-Maker | Artisan | A small town | Carves the fox and tengu masks used by Sakonji Urokodaki and his students. |
-| The Final Selection Guide | Two identical children | Fujikasane Mountain | The creepy, identical children who guide the Final Selection exam. |
-| The "Lucky" Recruit | A new Slayer | A Slayer camp | Has survived three Demon encounters through sheer, dumb luck, and is now considered a hero. |
-| The Grief-Eater's Victim | A hollow-eyed man | A city | A man who had his grief "eaten" and is now disturbingly cheerful about his family's death. |
-| The Philharmonic's Critic | A musician | A concert hall | Believes the Philharmonic's music is "emotionally manipulative." |
-| The Sun-Steel Miner | A miner | The Sunlight Mountains | Mines the special ore for the Nichirin blades. |
-| The Wisteria-Poison Brewer | A Wisteria Maiden | The Butterfly Estate | Brews Shinobu's poisons, and is terrified of her. |
-| The Kakushi Tailor | A tailor | The Kakushi HQ | Sews the Slayer Corps uniforms, complete with secret pockets for hiding snacks. |
-| The Setting Sun's Deserter | A former Slayer | A remote cabin | Fled the Order of the Setting Sun after finding their methods too cruel. |
-| The Demon's Collector | A Demon | A dark cave | Does not eat humans, but "collects" their most beautiful art. |
-| The Imperial Demonologist | A scholar | The Imperial University | Is trying to study Demons, and is looking for a "live specimen." |
-| The Slayer Fanboy | A young boy | Any town | Follows the party around, asking for their autographs. |
-| The Ex-Demon | A human | A small village | Was "cured" by a Slayer and is now trying to live a normal life, despite his lingering demonic traits. |
-| The Hashira's Attendant | A young Slayer | Slayer HQ | Is assigned to a Hashira and is terrified of them. |
-| The Forger | A criminal | A city | Is creating fake Nichirin blades and selling them to wannabe Slayers. |
-| The Demon's Gardener | A Demon | A beautiful garden | A Demon that consumes only the "despair" of wilted flowers. |
-| The Blood-Artist | A Demon | An abandoned theatre | Uses its Blood Demon Art to create beautiful, but deadly, sculptures of blood. |
-| The Memory-Eater | A Demon | A library | A Demon that consumes not people, but their written memories from books. |
-| The Joy-Eater | A Demon | A festival | A Demon that is drawn to and consumes great joy, leaving its victims depressed. |
-| The Courage-Eater | A Demon | A battlefield | A Demon that consumes the courage of soldiers, causing them to flee in terror. |
-| The Love-Eater | A Demon | A wedding | A Demon that consumes the love between two people, leaving them bitter strangers. |
-| The Peace-Eater | A Demon | A quiet monastery | A Demon that consumes tranquility, causing chaos and strife. |
-| The Dream-Eater | A Demon | A bedroom | A Demon that consumes the dreams of sleeping children. |
+| **Goto** | Kakushi Member | Any post-battle scene | Is obsessed with cleaning and will try to scrub the blood off your clothes while you're still wearing them. |
+| **Kiyo** | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
+| **Sumi** | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
+| **Naho** | Butterfly Estate Helper | The Butterfly Estate | One of the three identical, hyper-efficient little girls who help run the hospital. |
+| **Kozo Kanamori** | Swordsmith | The Swordsmith Village | Is Hotaru's rival and is just as angry, but about different things. |
+| **Tetsuido** | Swordsmith | The Swordsmith Village | An old, frail smith who forges swords by singing to the metal. |
+| **Saburo** | Farmer | A small village | Leaves out bowls of rice for "the good Demons." |
+| **Hisa** | Old Woman | A town with a Wisteria Crest | Insists on feeding and caring for any Slayer who passes through. |
+| **Shoichi** | Young Boy | A village attacked by a Demon | Is now terrified of the dark, and small spaces, and loud noises. |
+| **Teruko** | Young Girl | A village attacked by a Demon | Is now preternaturally brave and wants to become a Slayer. |
+| **Officer Kenji** | Policeman | A large city | Refuses to believe in Demons and is always trying to "arrest" the Slayers. |
+| **Maestro's Protege** | Musician | The Forlorn Philharmonic | Is trying to compose a "happy" song that is also a weapon. |
+| **Dusk-Breather's Lieutenant** | Slayer | Order of the Setting Sun | Believes compassion is a form of weakness and will "test" the party on it. |
+| **The Gourmand's Apprentice** | Mystic | The Emotion-Eaters | Asks to "taste" a sample of your rage. |
+| **The Imperial Messenger** | Bureaucrat | The Capital | Is trying to deliver a "cease and desist" order to Muzan. |
+| **The Wisteria Matron's Son** | Botanist | The Wisteria Gardens | Is trying to cross-breed a wisteria with a carnivorous plant. |
+| **The Kakushi Captain** | Former Slayer | The Kakushi HQ | Has a prosthetic leg that contains a dozen different cleaning supplies. |
+| **The Demon-Sympathizer** | Scholar | A university | Has a theory that Demons are a misunderstood, noble race. |
+| **The "Breathing" Cook** | Chef | A Slayer-friendly restaurant | Applies Breathing Style principles to his cooking, with delicious results. |
+| **The Cursed Bride** | Noblewoman | A haunted castle | Was turned into a Demon on her wedding night and now waits for her long-dead groom. |
+| **The Storyteller** | Old Man | A roadside shrine | Tells "fairy tales" that are actually accurate accounts of the Slayers' battles. |
+| **The Blacksmith's Daughter** | Young Girl | The Swordsmith Village | Makes tiny, perfect, miniature swords for dolls. |
+| **The Crow-Trainer** | Slayer Corps Member | The Crow Roost | Can understand the crows perfectly, and is tired of their constant complaints. |
+| **The Emotion-Merchant** | A strange man | A back alley | Sells bottled emotions: a vial of pure joy, a flask of righteous anger. |
+| **The Silent Flutist** | A musician | A bridge | Plays a flute that can only be heard by ghosts and Demons. |
+| **The Failed Student** | A young man | A tavern | Failed the Final Selection and is now a bitter drunk. |
+| **The Demon's Pet** | A small child | A ruined village | A child who is being "kept" by a Demon, who finds the child's happiness "interesting." |
+| **The Mask-Maker** | Artisan | A small town | Carves the fox and tengu masks used by Sakonji Urokodaki and his students. |
+| **The Final Selection Guide** | Two identical children | Fujikasane Mountain | The creepy, identical children who guide the Final Selection exam. |
+| **The "Lucky" Recruit** | A new Slayer | A Slayer camp | Has survived three Demon encounters through sheer, dumb luck, and is now considered a hero. |
+| **The Grief-Eater's Victim** | A hollow-eyed man | A city | A man who had his grief "eaten" and is now disturbingly cheerful about his family's death. |
+| **The Philharmonic's Critic** | A musician | A concert hall | Believes the Philharmonic's music is "emotionally manipulative." |
+| **The Sun-Steel Miner** | A miner | The Sunlight Mountains | Mines the special ore for the Nichirin blades. |
+| **The Wisteria-Poison Brewer** | A Wisteria Maiden | The Butterfly Estate | Brews Shinobu's poisons, and is terrified of her. |
+| **The Kakushi Tailor** | A tailor | The Kakushi HQ | Sews the Slayer Corps uniforms, complete with secret pockets for hiding snacks. |
+| **The Setting Sun's Deserter** | A former Slayer | A remote cabin | Fled the Order of the Setting Sun after finding their methods too cruel. |
+| **The Demon's Collector** | A Demon | A dark cave | Does not eat humans, but "collects" their most beautiful art. |
+| **The Imperial Demonologist** | A scholar | The Imperial University | Is trying to study Demons, and is looking for a "live specimen." |
+| **The Slayer Fanboy** | A young boy | Any town | Follows the party around, asking for their autographs. |
+| **The Ex-Demon** | A human | A small village | Was "cured" by a Slayer and is now trying to live a normal life, despite his lingering demonic traits. |
+| **The Hashira's Attendant** | A young Slayer | Slayer HQ | Is assigned to a Hashira and is terrified of them. |
+| **The Forger** | A criminal | A city | Is creating fake Nichirin blades and selling them to wannabe Slayers. |
+| **The Demon's Gardener** | A Demon | A beautiful garden | A Demon that consumes only the "despair" of wilted flowers. |
+| **The Blood-Artist** | A Demon | An abandoned theatre | Uses its Blood Demon Art to create beautiful, but deadly, sculptures of blood. |
+| **The Memory-Eater** | A Demon | A library | A Demon that consumes not people, but their written memories from books. |
+| **The Joy-Eater** | A Demon | A festival | A Demon that is drawn to and consumes great joy, leaving its victims depressed. |
+| **The Courage-Eater** | A Demon | A battlefield | A Demon that consumes the courage of soldiers, causing them to flee in terror. |
+| **The Love-Eater** | A Demon | A wedding | A Demon that consumes the love between two people, leaving them bitter strangers. |
+| **The Peace-Eater** | A Demon | A quiet monastery | A Demon that consumes tranquility, causing chaos and strife. |
+| **The Dream-Eater** | A Demon | A bedroom | A Demon that consumes the dreams of sleeping children. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Slayer Corps Headquarters
 A vast, hidden estate, protected by the Ubuyashiki family's foresight and layers of magical protection.
 *   **The Hashira's Garden:** A beautiful, serene garden where the nine Hashira, the Corps' most powerful Slayers, meet. **Smell:** Cherry blossoms, clean stone, and the faint scent of ozone. **Sound:** The trickle of a fountain, the rustle of leaves, the tense silence of powerful warriors.
@@ -191,7 +194,8 @@ A location in the mortal world where negative emotion has stagnated, becoming a 
 *   **The Ruined Battlefield:** The site of a particularly brutal and pointless battle. **Smell:** Old blood, rust, and the bitter scent of regret. **Sound:** The whisper of the wind, the faint clash of spectral swords.
 *   **The Debtor's Prison:** A prison where those who could not pay their debts were left to rot. **Smell:** Sickness, despair, and filth. **Sound:** The rattle of chains, the hopeless groans of the damned.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **A Slayer's First Mission:** The players, having just passed the Final Selection, are sent on their first official mission: investigate a series of disappearances in a small village.
 2.  **The Swamp of Sorrow:** The players track the disappearances to a nearby swamp, where a new Demon has manifested from the village's collective grief over a recent plague.
 3.  **The Asakusa Shuffle:** The players are sent to the bustling city of Asakusa. Their mission is disrupted when they have a chance encounter with Muzan himself, who is living there disguised as a human with a human family.
@@ -244,33 +248,35 @@ A location in the mortal world where negative emotion has stagnated, becoming a 
 | The Dream-Eater's Nightmare | The Dream-Eater Demon | Enter a child's dream and defeat the Demon there. | A small, woven dreamcatcher. |
 | The Crow's Complaint | Your Kasugai Crow | Your crow is complaining about its wages. Find it a particularly shiny pebble. | The crow will be slightly less obnoxious for a day. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Yoriichi's Nichirin Blade
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Yoriichi's Nichirin Blade:**
 **Type:** Legendary Longsword
 **Description:** The first Nichirin blade ever forged. A simple, black katana that seems to absorb the light. It feels warm to the touch, like a sliver of the sun.
 **Mechanics:** This is a +3 katana. It deals an extra 2d8 radiant damage to Demons. The wielder can use it to cast *Sunbeam* once per day. Most importantly, a creature attuned to this blade can see the "thread of fate" or "opening" in any opponent, granting them a permanent +2 bonus to all attack rolls.
 
-### 2. The Progenitor's Blood
+2.  **The Progenitor's Blood:**
 **Type:** Artifact
 **Description:** A single, vial of Muzan's own, powerful blood. It is black, viscous, and writhes with a life of its own.
 **Mechanics:** A creature who drinks this blood must make a DC 20 Constitution saving throw. On a success, they gain the powers of a Demon (regeneration, immense strength, and a unique Blood Demon Art), but are forever bound to Muzan's will. On a failure, they die, their body dissolving into a screaming puddle of flesh. There is a 1% chance that a success will create a Demon not under Muzan's control.
 
-### 3. The Book of Breathing
+3.  **The Book of Breathing:**
 **Type:** Wondrous Item (Tome)
 **Description:** A book written by Yoriichi, detailing the principles of Sun Breathing and how all other Breathing Styles are derived from it.
 **Mechanics:** A creature who spends a week studying this book can learn the basics of any Breathing Style, even if they are not a Slayer. They can gain the benefits of one "form" from any Breathing Style (e.g., the speed of Thunder Breathing's first form, the defense of Water Breathing's eleventh form). They can only know one such form at a time.
 
-### 4. The Blue Spider Lily
+4.  **The Blue Spider Lily:**
 **Type:** Artifact (Flower)
 **Description:** A mythical, legendary flower. It is the one thing Muzan has sought for a thousand years, believing it holds the key to conquering his weakness to the sun.
 **Mechanics:** The flower does not, in fact, grant immunity to the sun. It is a red herring. Its true purpose is metaphysical. If a Demon consumes the flower, it is not cured, but "perfected" in its current state. A sorrowful Demon would become a being of pure, weaponized grief. A rage-filled Demon would become a being of pure, unstoppable fury. If a human consumes it, it grants them perfect emotional control, making them immune to any Demon's emotional manipulation.
 
-### 5. The Ubuyashiki's Foresight
+5.  **The Ubuyashiki's Foresight:**
 **Type:** Wondrous Item (Amulet)
 **Description:** A simple, wooden amulet, passed down through the Ubuyashiki family. It is the source of their limited, but potent, precognitive abilities.
 **Mechanics:** The wearer can, once per week, ask the DM a single question about the future actions of Muzan or his minions. The DM must answer truthfully, but cryptically. **Curse:** The amulet is tied to the Ubuyashiki blood curse. Any non-Ubuyashiki who wears it begins to suffer from the same curse, their body slowly decaying over time.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Slightly-Used Bamboo Muzzle:** It's a bit chewed on.
 2.  **A Boar's Head Mask:** It smells terrible, but grants advantage on Intimidation checks against small animals.
 3.  **A Set of Hanafuda Earrings:** A pair of simple, wooden earrings with a rising sun motif. They feel... important.

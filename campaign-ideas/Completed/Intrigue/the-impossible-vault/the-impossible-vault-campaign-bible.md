@@ -119,56 +119,56 @@ The conflict exists because Lord Midas Goldweaver is not just hoarding gold; he 
 [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Old Man Jenkins | Janitor | Lobby | Sweeps dirt *onto* the floor. |
-| Mistress Fae | Receptionist | Front Desk | Sneezes confetti. |
-| Bargo | Bouncer | VIP Entrance | Only lets people in who tell a sad joke. |
-| Lilith | Waitress | Lounge | Floats 2 inches off the ground. |
-| Cog | Slot Tech | Gaming Floor | Bleeds oil when stressed. |
-| Rat-King | Informant | Sewers | Is actually 50 rats in a suit. |
-| Madame Zola | Fortune Teller | Arcade | Predicts the past, not the future. |
-| Grip | Dealer | Table 7 | Shuffles cards with his feet. |
-| Sparky | Electrician | Maintenance | Glows in the dark. |
-| The Twins | Entertainers | Stage | Speak in unison, but one lies. |
-| Gorak | Cook | Kitchen | Chops vegetables with a battleaxe. |
-| Slink | Pickpocket | Crowds | Steals only left shoes. |
-| Vinnie | Loan Shark | Alley | Accepts teeth as currency. |
-| Shade | Spy | Roof | Only visible in shadows. |
-| Echo | Bard | Bar | Repeats the last word everyone says. |
-| Rust | Guard | Vault Entrance | Armor is rusted shut; cannot move. |
-| Glint | Banker | Cage | Eyes are literal gold coins. |
-| Whisper | Librarian | Archives | Screams when reading. |
-| Puddles | Cleaner | Restrooms | Made entirely of water. |
-| Click | Locksmith | Shop | Hands are skeleton keys. |
-| Fizz | Bartender | High Limit | Mixes drinks telekinetically. |
-| Stoney | Statue | Garden | Is a person pretending to be stone. |
-| Blink | Mage | Security | Teleports 1 foot randomly. |
-| Scratch | Cat | VIP Suite | Is the actual owner of the casino. |
-| Mumble | Beggar | Street | Recites nuclear physics equations. |
-| Heavy | Porter | Luggage | Carries imaginary heavy boxes. |
-| Slick | Conman | Bar | Sells invisible bridges. |
-| Dot | Clerk | Gift Shop | Communicates via Morse code blinking. |
-| Fangs | Vampire | Night Shift | Drinks tomato juice only. |
-| Bones | Dog | Alley | Burying a golden scepter. |
-| Stitch | Tailor | Boutique | Sews clothes onto people's skin. |
-| Loom | Weaver | Backroom | Weaves fate into napkins. |
-| Tock | Watchmaker | Clock Tower | Walks backwards in time. |
-| Sniff | Perfumer | Shop | Smells like rain on hot asphalt. |
-| Grumble | Critic | Restaurant | Hates food, eats napkins. |
-| Haze | Smoker | Balcony | Exhales shapes of animals. |
-| Chip | Gambler | Slots | Eats poker chips. |
-| Lucky | Tourist | Lobby | Lightning strikes near him constantly. |
-| Jinx | Loser | Gutter | Causes mirrors to break nearby. |
-| Void | Mime | Street | Creates actual invisible walls. |
-| Rattle | Skeleton | Dungeon | Is afraid of dogs. |
-| Squint | Appraiser | Pawn Shop | Uses a telescope to look at rings. |
-| Patch | Medic | Clinic | Uses duct tape for everything. |
-| Dust | Archivist | Basement | Turns into sand if startled. |
-| Shine | Polisher | Shoes | Polishes shoes until they dissolve. |
-| Bolt | Runner | Track | Runs so fast he catches fire. |
-| Gear | Mechanic | Garage | Talks to engines seductively. |
-| Pluck | Musician | Stage | Plays a guitar with no strings. |
-| Ink | Tattooist | Parlor | Tattoos move on the skin. |
-| Zero | Math Monk | Plaza | Is strictly two-dimensional. |
+| **Old Man Jenkins** | Janitor | Lobby | Sweeps dirt *onto* the floor. |
+| **Mistress Fae** | Receptionist | Front Desk | Sneezes confetti. |
+| **Bargo** | Bouncer | VIP Entrance | Only lets people in who tell a sad joke. |
+| **Lilith** | Waitress | Lounge | Floats 2 inches off the ground. |
+| **Cog** | Slot Tech | Gaming Floor | Bleeds oil when stressed. |
+| **Rat-King** | Informant | Sewers | Is actually 50 rats in a suit. |
+| **Madame Zola** | Fortune Teller | Arcade | Predicts the past, not the future. |
+| **Grip** | Dealer | Table 7 | Shuffles cards with his feet. |
+| **Sparky** | Electrician | Maintenance | Glows in the dark. |
+| **The Twins** | Entertainers | Stage | Speak in unison, but one lies. |
+| **Gorak** | Cook | Kitchen | Chops vegetables with a battleaxe. |
+| **Slink** | Pickpocket | Crowds | Steals only left shoes. |
+| **Vinnie** | Loan Shark | Alley | Accepts teeth as currency. |
+| **Shade** | Spy | Roof | Only visible in shadows. |
+| **Echo** | Bard | Bar | Repeats the last word everyone says. |
+| **Rust** | Guard | Vault Entrance | Armor is rusted shut; cannot move. |
+| **Glint** | Banker | Cage | Eyes are literal gold coins. |
+| **Whisper** | Librarian | Archives | Screams when reading. |
+| **Puddles** | Cleaner | Restrooms | Made entirely of water. |
+| **Click** | Locksmith | Shop | Hands are skeleton keys. |
+| **Fizz** | Bartender | High Limit | Mixes drinks telekinetically. |
+| **Stoney** | Statue | Garden | Is a person pretending to be stone. |
+| **Blink** | Mage | Security | Teleports 1 foot randomly. |
+| **Scratch** | Cat | VIP Suite | Is the actual owner of the casino. |
+| **Mumble** | Beggar | Street | Recites nuclear physics equations. |
+| **Heavy** | Porter | Luggage | Carries imaginary heavy boxes. |
+| **Slick** | Conman | Bar | Sells invisible bridges. |
+| **Dot** | Clerk | Gift Shop | Communicates via Morse code blinking. |
+| **Fangs** | Vampire | Night Shift | Drinks tomato juice only. |
+| **Bones** | Dog | Alley | Burying a golden scepter. |
+| **Stitch** | Tailor | Boutique | Sews clothes onto people's skin. |
+| **Loom** | Weaver | Backroom | Weaves fate into napkins. |
+| **Tock** | Watchmaker | Clock Tower | Walks backwards in time. |
+| **Sniff** | Perfumer | Shop | Smells like rain on hot asphalt. |
+| **Grumble** | Critic | Restaurant | Hates food, eats napkins. |
+| **Haze** | Smoker | Balcony | Exhales shapes of animals. |
+| **Chip** | Gambler | Slots | Eats poker chips. |
+| **Lucky** | Tourist | Lobby | Lightning strikes near him constantly. |
+| **Jinx** | Loser | Gutter | Causes mirrors to break nearby. |
+| **Void** | Mime | Street | Creates actual invisible walls. |
+| **Rattle** | Skeleton | Dungeon | Is afraid of dogs. |
+| **Squint** | Appraiser | Pawn Shop | Uses a telescope to look at rings. |
+| **Patch** | Medic | Clinic | Uses duct tape for everything. |
+| **Dust** | Archivist | Basement | Turns into sand if startled. |
+| **Shine** | Polisher | Shoes | Polishes shoes until they dissolve. |
+| **Bolt** | Runner | Track | Runs so fast he catches fire. |
+| **Gear** | Mechanic | Garage | Talks to engines seductively. |
+| **Pluck** | Musician | Stage | Plays a guitar with no strings. |
+| **Ink** | Tattooist | Parlor | Tattoos move on the skin. |
+| **Zero** | Math Monk | Plaza | Is strictly two-dimensional. |
 
 ---
 

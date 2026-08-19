@@ -18,7 +18,8 @@ The City is a beast that feeds on its own. It's a concrete jungle where the only
 ### The 'Why'
 The central conflict is the struggle for survival and the preservation of brotherhood in a world that has turned against you. It is about the mythic journey of the 'Outcast'—can you make it back to where you belong when everyone wants you dead? The 'Why' is the question: 'What defines a Warrior when their back is against the wall?' It explores the theatricality of urban warfare, the weight of a false accusation, and the power of a legend being born through one impossible night. The players are the few who still believe in their Colors, and they'll do anything to keep them flying.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Warriors (The Outcasts)
 **Type:** Street-Level Survivalist Gang
 **Leader:** Cleon (initially), then Swan (Tier 1 NPC).
@@ -79,12 +80,13 @@ The central conflict is the struggle for survival and the preservation of brothe
 **Asset:** Top hats, mime makeup, and the ability to move through the City without making a sound.
 **Rivals:** None (they are too weird to attack).
 
-## [TAG: NPC_TIER_1]
-**Swan** (Warrior - Fighter/Leader) - The reluctant war chief of the Warriors. **Voice:** Cool, analytical, and street-smart. **Goal:** To get his brothers back to Coney Island in one piece. **Secret:** He hates the 'Colors' and wants to leave the gang life behind after tonight.
-**Luther** (Rogue - Psychotic/Killer) - The man who killed Cyrus. **Voice:** High-pitched, taunting, and utterly insane. **Goal:** To watch the City burn and watch the Warriors take the fall. **Secret:** He works for a high-ranking official who wants the gangs to destroy each other.
-**The DJ** (Independent - Media Personality) - The omniscient voice of the City. **Voice:** Smooth, calm, and mysterious. **Goal:** To narrate the night's events and give the 'boppers' the latest bulletins. **Secret:** She is actually a high-level Adept who can see everything that happens through the City's shadows.
-**Cyrus** (Riff - Visionary Leader) - The prophet of the gangs. **Voice:** Booming, charismatic, and filled with a grand vision. **Goal:** To unite the gangs into one unstoppable force. **Secret:** He was already dying of a terminal illness and viewed the Summit as his final performance.
-**Mercy** (Independent - Survivor) - A woman caught in the crossfire. **Voice:** Tough, sarcastic, and world-weary. **Goal:** To find someone who can get her out of this dump. **Secret:** She was once a member of the Lizzies but left after seeing too much blood.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Swan** (Warrior - Fighter/Leader) - The reluctant war chief of the Warriors. **Voice:** Cool, analytical, and street-smart. **Goal:** To get his brothers back to Coney Island in one piece. **Secret:** He hates the 'Colors' and wants to leave the gang life behind after tonight.
+2.  **Luther** (Rogue - Psychotic/Killer) - The man who killed Cyrus. **Voice:** High-pitched, taunting, and utterly insane. **Goal:** To watch the City burn and watch the Warriors take the fall. **Secret:** He works for a high-ranking official who wants the gangs to destroy each other.
+3.  **The DJ** (Independent - Media Personality) - The omniscient voice of the City. **Voice:** Smooth, calm, and mysterious. **Goal:** To narrate the night's events and give the 'boppers' the latest bulletins. **Secret:** She is actually a high-level Adept who can see everything that happens through the City's shadows.
+4.  **Cyrus** (Riff - Visionary Leader) - The prophet of the gangs. **Voice:** Booming, charismatic, and filled with a grand vision. **Goal:** To unite the gangs into one unstoppable force. **Secret:** He was already dying of a terminal illness and viewed the Summit as his final performance.
+5.  **Mercy** (Independent - Survivor) - A woman caught in the crossfire. **Voice:** Tough, sarcastic, and world-weary. **Goal:** To find someone who can get her out of this dump. **Secret:** She was once a member of the Lizzies but left after seeing too much blood.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -100,7 +102,8 @@ The central conflict is the struggle for survival and the preservation of brothe
 | The Roller Punk | Punk Enforcer | Subway Platforms | Can't stand up unless he's wearing his skates. |
 | The Fury Captain | Baseball Fury | Riverside Park | Wears face paint that looks like a weeping eye. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Van Cortlandt Park
 The site of the Great Summit and the birth of the nightmare.
 *   **The Podium:** A massive, natural rock formation where Cyrus gave his final speech. **Smell:** Night air and woodsmoke. **Sound:** The rhythmic chanting of 1,000 gang members.
@@ -121,7 +124,8 @@ The home of the Warriors and the end of the journey.
 *   **The Boardwalk:** A long, wooden path that leads to the ocean at dawn. **Smell:** Salt air and fried dough. **Sound:** The roar of the ocean and the distant sound of a carousel.
 *   **The Beach:** A wide-open expanse of sand where the final truth is revealed. **Visual:** The sun rising over the water, turning the sky orange and pink.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Summit:** Attend the Great Summit. Survive the chaos after Cyrus is shot and make your escape from Van Cortlandt Park.
 2.  **The Bronx Gauntlet:** Cross through the Turnbull AC turf. Use the subway or your wits to avoid their customized bus.
 3.  **The Orphan's Pride:** Deal with the Orphans. Choose whether to fight them or negotiate your way through their pathetic turf.
@@ -130,18 +134,19 @@ The home of the Warriors and the end of the journey.
 6.  **The Lizzie's Trap:** Escape an ambush by the Lizzies in their private club. The club is a maze of velvet and death.
 7.  **The Dawn at Coney:** Reach Coney Island at dawn. Face the Rogues and Luther in a final standoff on the beach. Reveal the truth to the Gramercy Riffs.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Warriors' Colors
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Warriors' Colors:**
 **Type:** Wondrous Item (Vest)
 **Description:** A brown leather vest with red trim and the 'Warriors' logo embroidered on the back.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion) checks with fellow Warriors and makes them immune to being frightened as long as they are within 10 feet of an ally.
 
-### 2. Luther's Clinking Bottles
+2.  **Luther's Clinking Bottles:**
 **Type:** Wondrous Item
 **Description:** Three empty glass bottles that make a chilling 'clink' when struck together.
 **Mechanics:** The user can use an action to strike the bottles. All enemies within 30 feet must succeed on a DC 15 Wisdom save or be frightened for 1 minute.
 
-### 3. The DJ's Microphone
+3.  **The DJ's Microphone:**
 **Type:** Wondrous Item
 **Description:** A large, silver microphone from a dimly lit radio studio.
 **Mechanics:** The user can use an action to speak into the microphone. Their voice is heard by everyone in the City who is currently tuned into a radio or near a shadow.

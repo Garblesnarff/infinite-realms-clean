@@ -18,7 +18,8 @@ The Soul is not an eternal light; it's a beautiful robe that's slowly rotting. I
 ### The 'Why'
 The central conflict is the struggle for 'Preservation' in a world of absolute 'Kegare.' It is about the 'Tragic Beauty' of the human condition—the realization that everything elegant will eventually rot. The 'Why' is the question: 'Is it better to fade into the darkness or fight a losing battle for a memory of light?' It explores the elegant decay of the Heian period, the visceral horror of the bone-grinding silence, and the loneliness of eternal decay. The players are the souls who must navigate the gurgling chambers and crumbling palaces to find a resolution that honors the beauty they once possessed.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Lost Souls (The Survivors)
 **Type:** Displaced/Desperate Human Spirits
 **Leader:** The Messenger (A being of pale, dying light).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Preservation' in a world of absolute '
 **Asset:** Access to the 'Cranial Records' and knowledge of the world's original harmony.
 **Rivals:** None (everyone needs their spiritual help).
 
-## [TAG: NPC_TIER_1]
-**Izanami** (Pollution - The Leader) - An elegant corpse-queen in rotting Heian robes. **Voice:** Whispered, slow, and punctuated by unsettling squelching. **Goal:** To reclaim her husband Izanagi and merge all souls into her own decay. **Secret:** She is secretly an Adept of 'Kegare' who can 'rewrite' a soul's memory through a single touch.
-**The Messenger** (Independent - The Guide) - A being of pale light with a lantern and a staff. **Voice:** Hushed, resigned, and filled with a tragic desperation. **Goal:** To guide new souls to the Peach Grove and maintain the light. **Secret:** He is secretly part-pollution, having stayed in Yomi too long to return to the surface.
-**The Librarian** (Independent - Expert/Rationalist) - A man whose body is made of rotting scrolls and synaptic fluid. **Voice:** Precise, tinkling, and clinical. **Goal:** To study the impact of the Kegare on the gods' anatomy. **Secret:** He believes Yomi isn't a tomb—it's a 'Womb' for a new, darker world.
-**The First Hag** (Shikome - The Villain) - A massive, multi-limbed creature with a hundred eyes. **Voice:** A high-pitched, screeching harmony of a thousand voices. **Goal:** To consume the Messenger's light and become the new god of Yomi. **Secret:** She was once a human maiden who was 'Perfected' by the Pollution.
-**The Shadow (Anomaly)** (Darkness - The Mastermind) - The manifest consciousness of the absolute void. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Izanami** (Pollution - The Leader) - An elegant corpse-queen in rotting Heian robes. **Voice:** Whispered, slow, and punctuated by unsettling squelching. **Goal:** To reclaim her husband Izanagi and merge all souls into her own decay. **Secret:** She is secretly an Adept of 'Kegare' who can 'rewrite' a soul's memory through a single touch.
+2.  **The Messenger** (Independent - The Guide) - A being of pale light with a lantern and a staff. **Voice:** Hushed, resigned, and filled with a tragic desperation. **Goal:** To guide new souls to the Peach Grove and maintain the light. **Secret:** He is secretly part-pollution, having stayed in Yomi too long to return to the surface.
+3.  **The Librarian** (Independent - Expert/Rationalist) - A man whose body is made of rotting scrolls and synaptic fluid. **Voice:** Precise, tinkling, and clinical. **Goal:** To study the impact of the Kegare on the gods' anatomy. **Secret:** He believes Yomi isn't a tomb—it's a 'Womb' for a new, darker world.
+4.  **The First Hag** (Shikome - The Villain) - A massive, multi-limbed creature with a hundred eyes. **Voice:** A high-pitched, screeching harmony of a thousand voices. **Goal:** To consume the Messenger's light and become the new god of Yomi. **Secret:** She was once a human maiden who was 'Perfected' by the Pollution.
+5.  **The Shadow (Anomaly)** (Darkness - The Mastermind) - The manifest consciousness of the absolute void. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Preservation' in a world of absolute '
 | The Monk | Ancient Worshipper | Heart Altar | Spends all his time painting murals of the 'Beast's Beginning.' |
 | The Clerk | Gut Admin | Headquarters | Only communicates through a rhythmic 'Gut-Punch' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Peach Grove (Lost Soul HQ)
 A small, impossible island of light and peach blossoms in the darkness.
 *   **The Purification Spring:** A site of 'Spiritual Sanctuary' and warm amber light. **Smell:** Peach blossoms, sage, and old earth. **Sound:** The rhythmic 'bong-bong' of a distant drum.
@@ -89,7 +92,8 @@ A dark, narrow labyrinth of pulsating flesh and organic corruption.
 A clinical, white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a narrow, wet tunnel. You must escape a 'Shikome Ambush' using only your improvised bone-cleaver.
 2.  **The Peach Run:** Navigate the islands of the acidic sea to find the Messenger. You must identify the 'Respiration Seed' before the tide rises.
 3.  **The Pollution Infiltration:** Infiltrate the Fungal Mind's garden to find evidence of the 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -98,18 +102,19 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Purifying Peach
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Purifying Peach:**
 **Type:** Artifact Focus
 **Description:** A small, perfectly ripe peach that hums with the key of the first god.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Kegare' magic.
 
-### 2. The Koto of Harmony
+2.  **The Koto of Harmony:**
 **Type:** Wondrous Item
 **Description:** A beautiful, 13-stringed instrument that seems to resonate with the world's original Song.
 **Mechanics:** The user can play the koto to gain 'Prime Harmony' for 1 hour, granting advantage on all spiritual checks.
 
-### 3. Izanami's Mask
+3.  **Izanami's Mask:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A mask made of white clay and rotting Heian silk.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.

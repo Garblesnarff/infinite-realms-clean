@@ -18,7 +18,8 @@ The World is a treasure chest that's waiting to be opened. Long ago, the 'Founde
 ### The 'Why'
 The central conflict is the struggle for 'Honor' in a world of 'Themed Greed.' It is about the 'Retro Nostalgia' of standing before a boss—the realization that every pattern has a solution and every shovel has a story. The 'Why' is the question: 'Is a hero defined by what they dig up, or what they protect?' It explores the chunky pixels of the NES era, the joy of finding secret treasure, and the warmth of a campfire checkpoint. The players are the knights and assistants who must navigate the platforming hazards and boss patterns to find a resolution that honors the Code of Chivalry.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Knights of Shovelry (The Heroes)
 **Type:** Association of Chivalrous Excavators
 **Leader:** Shovel Knight (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Honor' in a world of 'Themed Greed.' I
 **Asset:** Massive anchor weapons, knowledge of underwater blue tones, and a total disregard for the Code.
 **Rivals:** Both Knights (depending on the gold).
 
-## [TAG: NPC_TIER_1]
-**Shovel Knight** (Hero - The Lead) - A knight in cyan armor with a horned helmet and hero's cape. **Voice:** Enthusiastic, earnest, and heroic. **Goal:** To defeat the Order of No Quarter and find Shield Knight. **Secret:** He is secretly a high-level Adept of 'Treasure-Energy' who can 'bounce' off an enemy's head using a downward shovel strike.
-**Shield Knight** (Hero - The Protector) - A knight in gold armor with a red cape and shield emblem. **Voice:** Warm, maternal, and protective. **Goal:** To guide Shovel Knight and protect him from the Enchantress. **Secret:** She is the current 'Host' for the Enchantress and is fighting a psychological war for her soul.
-**The Enchantress** (Shadow - The Mastermind) - A being of pure spectral energy and dark beauty. **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To rule the land through the corruption of honor and the collection of gems. **Secret:** She was once a Founder of Shovelry who was 'broken' by the weight of the treasure.
-**King Knight** (No Quarter - Pompous Boss) - A man in a golden crown and cape with a pompous stance. **Voice:** Arrogant, theatrical, and comically stern. **Goal:** To be the most famous and wealthy king in history. **Secret:** He is actually a high-level Illusionist who uses 'Golden Glitter' to hide his own insecurities.
-**Spectre Knight** (No Quarter - Melancholic Boss) - A man in purple and black with flowing spectral energy. **Voice:** Resonant, melancholic, and raspy. **Goal:** To serve the Enchantress and protect his gothic spire. **Secret:** He is already dead and is using his 'Scythe of Memories' to maintain his physical form.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Shovel Knight** (Hero - The Lead) - A knight in cyan armor with a horned helmet and hero's cape. **Voice:** Enthusiastic, earnest, and heroic. **Goal:** To defeat the Order of No Quarter and find Shield Knight. **Secret:** He is secretly a high-level Adept of 'Treasure-Energy' who can 'bounce' off an enemy's head using a downward shovel strike.
+2.  **Shield Knight** (Hero - The Protector) - A knight in gold armor with a red cape and shield emblem. **Voice:** Warm, maternal, and protective. **Goal:** To guide Shovel Knight and protect him from the Enchantress. **Secret:** She is the current 'Host' for the Enchantress and is fighting a psychological war for her soul.
+3.  **The Enchantress** (Shadow - The Mastermind) - A being of pure spectral energy and dark beauty. **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To rule the land through the corruption of honor and the collection of gems. **Secret:** She was once a Founder of Shovelry who was 'broken' by the weight of the treasure.
+4.  **King Knight** (No Quarter - Pompous Boss) - A man in a golden crown and cape with a pompous stance. **Voice:** Arrogant, theatrical, and comically stern. **Goal:** To be the most famous and wealthy king in history. **Secret:** He is actually a high-level Illusionist who uses 'Golden Glitter' to hide his own insecurities.
+5.  **Spectre Knight** (No Quarter - Melancholic Boss) - A man in purple and black with flowing spectral energy. **Voice:** Resonant, melancholic, and raspy. **Goal:** To serve the Enchantress and protect his gothic spire. **Secret:** He is already dead and is using his 'Scythe of Memories' to maintain his physical form.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Honor' in a world of 'Themed Greed.' I
 | The Clerk | Village Admin | Town Hall | Only communicates through a rhythmic 'Shovel Strike' stamp. |
 | The Oracle | Adept | Tower of Fate | Can 'see' the interweaving themes of the eight knights. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Pridemoor Keep (King Knight's Home)
 A golden castle of red carpets, treasure hoards, and royal architecture.
 *   **The Throne Room:** A site of 'Golden Arrogance' and harsh overhead lighting. **Smell:** Vanilla, old wood, and expensive gold polish. **Sound:** The rhythmic 'thump-thump' of King Knight's staff.
@@ -89,7 +92,8 @@ A green toxic atmosphere of chemistry equipment and explosive barrels.
 A cozy town square of shops with awnings, campfires, and friendly NPCs.
 *   **The Campfire:** Where the 'Code of Shovelry' is shared and the party rests. **Visual:** Warm amber light reflecting in cyan armor. **Sound:** Triumphant fanfares and gentle village themes.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Strike:** Arrive at Pridemoor Keep. You must defeat King Knight in a 'Boss Battle' while maintaining your 'Chivalrous Honor.'
 2.  **The Gem Retrieval:** Follow the clues from the Village Hub. Each gem reveals a new layer of the Order of No Quarter's corruption.
 3.  **The Spectre's Challenge:** Navigate the floating platforms of the Spectre Tower. You must use your 'Downward Shovel Strike' to disarm the ghost guards.
@@ -98,18 +102,19 @@ A cozy town square of shops with awnings, campfires, and friendly NPCs.
 6.  **The Tower Ascent:** Lead a charge of chivalrous knights in a full-scale assault on the Tower of Fate. You must protect Shield Knight while the self-destruct activates.
 7.  **The Final Verdict:** Face the Enchantress face-to-face in a final, reality-bending standoff. The truth is revealed—will you strike the earth or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Ancient Shovel
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Ancient Shovel:**
 **Type:** Legendary Weapon
 **Description:** A simple, cyan shovel that seems to hum with the power of the Founders.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Shovel Pogo' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Shield of Protection
+2.  **The Shield of Protection:**
 **Type:** Artifact (Shield)
 **Description:** A gold and red shield that pulses with the light of the sun.
 **Mechanics:** Grants the wearer the ability to 'Heal' an ally's systems by 50 HP as a bonus action. Once per day, the wearer can 'Silence' a boss attack for 1 round.
 
-### 3. The Gem of Virtue
+3.  **The Gem of Virtue:**
 **Type:** Wondrous Item (Jewelry)
 **Description:** A shimmering emerald that contains a sliver of the original Code.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks. **Curse:** The user begins to see the world in 'Chunky Pixels' and suffers disadvantage on all perception checks.

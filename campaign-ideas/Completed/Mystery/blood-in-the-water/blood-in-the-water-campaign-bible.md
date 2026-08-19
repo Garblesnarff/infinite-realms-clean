@@ -18,7 +18,8 @@ The City of Ashenvale wasn't built on a foundation of stone, but on a promise of
 ### The 'Why'
 The central conflict is the struggle for 'Accountability' in a system designed to be unaccountable. It is about the 'Atmospheric Dread' of watching a city die while its leaders get fat on the remains. The 'Why' is the question: 'Does the truth matter if justice is impossible to achieve?' It explores the visual weight of systemic corruption, the tragedy of the 'Unwinnable Fight,' and the cruel irony of hoarded water in a world of dust. The players are the investigators and whistleblowers who must navigate the harsh sunlight and deep shadows to expose a conspiracy that reaches into their own pasts.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Ashenvale Water Syndicate (The Conspirators)
 **Type:** High-Society Criminal/Political Syndicate
 **Leader:** Noah Cross (Equivalent - A man of ancient, grandfatherly evil).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Accountability' in a system designed t
 **Asset:** Access to every land deed and water right in the valley's history.
 **Rivals:** None formally (everyone tries to bribe them).
 
-## [TAG: NPC_TIER_1]
-**The Investigator (Gittes)** (Independent - Weary Detective) - A man in a worn fedora and dust-covered coat. **Voice:** Gravelly, cynical, and world-weary. **Goal:** To find the truth, even if it destroys him. **Secret:** He was once a police officer in Ashenvale but left after a 'compromised justice' incident that still haunts him.
-**The Femme Fatale (Evelyn)** (Independent - Aristocratic Victim) - A woman of cold beauty and deep secrets. **Voice:** Sophisticated, intelligent, and filled with a haunted dread. **Goal:** To protect her family and keep her own tragedy buried. **Secret:** She is the daughter of the primary conspirator and the victim of his most personal crime.
-**The Patriarch (Noah Cross)** (Water Syndicate - Ancient Evil) - A man who views himself as a god of the valley. **Voice:** Warm, reasonable, and terrifyingly calm. **Goal:** To build 'New Ashenvale' on the graves of the old. **Secret:** He doesn't care about the gold; he cares about the 'Future'—a world where he is the only source of life.
-**Detective Escobar** (Law Enforcement - Skeptical Partner) - The Investigator's former partner. **Voice:** Gruff, tired, and defensive. **Goal:** To keep the peace and get his pension. **Secret:** He knows about the Water Syndicate's corruption but believes the system is too broken to fix.
-**Hollis Mulwray (The Echo)** (Water Syndicate equivalent - Murdered Victim) - The man who knew too much. **Voice:** None (silent/echoes). **Goal:** To reveal the truth from beyond the grave. **Secret:** He died trying to blow the whistle on the diversion project.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Investigator (Gittes)** (Independent - Weary Detective) - A man in a worn fedora and dust-covered coat. **Voice:** Gravelly, cynical, and world-weary. **Goal:** To find the truth, even if it destroys him. **Secret:** He was once a police officer in Ashenvale but left after a 'compromised justice' incident that still haunts him.
+2.  **The Femme Fatale (Evelyn)** (Independent - Aristocratic Victim) - A woman of cold beauty and deep secrets. **Voice:** Sophisticated, intelligent, and filled with a haunted dread. **Goal:** To protect her family and keep her own tragedy buried. **Secret:** She is the daughter of the primary conspirator and the victim of his most personal crime.
+3.  **The Patriarch (Noah Cross)** (Water Syndicate - Ancient Evil) - A man who views himself as a god of the valley. **Voice:** Warm, reasonable, and terrifyingly calm. **Goal:** To build 'New Ashenvale' on the graves of the old. **Secret:** He doesn't care about the gold; he cares about the 'Future'—a world where he is the only source of life.
+4.  **Detective Escobar** (Law Enforcement - Skeptical Partner) - The Investigator's former partner. **Voice:** Gruff, tired, and defensive. **Goal:** To keep the peace and get his pension. **Secret:** He knows about the Water Syndicate's corruption but believes the system is too broken to fix.
+5.  **Hollis Mulwray (The Echo)** (Water Syndicate equivalent - Murdered Victim) - The man who knew too much. **Voice:** None (silent/echoes). **Goal:** To reveal the truth from beyond the grave. **Secret:** He died trying to blow the whistle on the diversion project.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Accountability' in a system designed t
 | The Guard | Syndicate Security | Reservoir Gate | Wears a watch that cost more than the reservoir itself. |
 | The Newsie | Street Kid | Corner of Dust | Can name every corrupt official by the weight of the paper. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Great Aqueduct (Ashenvale)
 A massive, crumbling stone monument to systemic rot and technological grandeur.
 *   **The Main Gate:** A site of harsh afternoon sunlight and deep shadows. **Smell:** Dry stone, dust, and ozone. **Sound:** The rhythmic 'hiss' of escaping steam and the distant bell of a rationing station.
@@ -89,7 +92,8 @@ A grim, paper-cluttered building where the 'Truth' is buried in files.
 A high-contrast nightmare of dried-out fountains and desperate citizens.
 *   **The Rationing Station:** A chaotic arena of dust and desperation. **Visual:** Cracked earth and the precious blue of hoarded water creating stark contrasts.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Hollis Mulwray Mystery:** Investigate the death of the chief engineer. Discover that the reservoir he 'drowned' in was officially dry for months.
 2.  **The Land Deed Heist:** Infiltrate the Land Registry to find evidence of the 'New Ashenvale' land transfers. You must bypass the 'Spectral Clerk' and his paper-traps.
 3.  **The Green Hills Infiltration:** Attend a Noah Cross garden party undercover. You must find the entrance to the secret reservoir without alerting the Syndicate security.
@@ -98,18 +102,19 @@ A high-contrast nightmare of dried-out fountains and desperate citizens.
 6.  **The Final Confrontation at the Reservoir:** A face-to-face standoff between the Investigator, Evelyn, and Noah Cross. The truth is revealed, but the system is already closing in.
 7.  **The Mirage Verdict:** Justice is not served. You must decide whether to flee Ashenvale or stay and witness the birth of 'New Ashenvale' on the graves of your principles.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Cross Compass
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Cross Compass:**
 **Type:** Wondrous Item
 **Description:** A simple, silver compass that doesn't point north; it points toward the nearest source of water.
 **Mechanics:** Grants the user the ability to 'See' hidden reservoirs and underground pipes. Once per day, the user can 'Feel' the strongest source of corruption in a 100ft radius.
 
-### 2. Evelyn's Binoculars
+2.  **Evelyn's Binoculars:**
 **Type:** Wondrous Item
 **Description:** A pair of high-quality binoculars that seem to sharpen the contrast of the world.
 **Mechanics:** Grants the user advantage on all Wisdom (Perception) and Intelligence (Investigation) checks. Allows the wearer to see through 'Truth-Illusions' and mirages.
 
-### 3. The Master Valve Key
+3.  **The Master Valve Key:**
 **Type:** Artifact (Gatestone)
 **Description:** A heavy, brass key that controls the flow of the Great Aqueduct.
 **Mechanics:** Grants the user the ability to 'Lock' or 'Unlock' any water-based system in Ashenvale. Once per day, the user can create a 30ft 'Flood' that deals 4d10 force damage.

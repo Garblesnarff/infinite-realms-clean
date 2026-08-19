@@ -20,7 +20,8 @@ The universe operates on a single, unbreakable principle: The Law of Narrative C
 ### The "Why"
 The metaphysical conflict is a battle against good intentions. King Osric's wish was not evil; it was born of love for his people. But his desire for a "perfect story" without sacrifice has created a "narrative debt" so large it is causing a universal recession. The Iron Prince is not a villain to be defeated; he is a cosmic accountant, here to collect on that debt. The players must find a way to "pay" it. Can they create a "good story" so powerful, so filled with heroic sacrifice and true, earned happiness, that it can balance the books? Can they find a legal "loophole" in the universe's oldest law? Or will they be forced to destroy Oakhaven's "perfect" happiness to save the rest of the world from its stagnant, smiling damnation?
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Court of Consequences
 **Type:** Cosmic Legal System
 **Leader:** The Judge, a being of pure, dispassionate law. Its "Genies" and "Devils" are its lawyers and clerks.
@@ -81,83 +82,85 @@ The metaphysical conflict is a battle against good intentions. King Osric's wish
 **Asset:** A vast collection of cautionary tales and a deep understanding of how wishes can go wrong.
 **Rivals:** The Wish-Brokers.
 
-## [TAG: NPC_TIER_1]
-**King Osric** (Human, Trapped Ghost) - The foolish, loving king who started it all. **Voice:** A faint, happy, and endlessly repeating voice, heard only within Oakhaven. "What a perfect day!" **Goal:** To keep his people happy. He is unaware of the consequence. **Secret:** A small part of him is still aware and is living a nightmare of perfect, unending, monotonous joy.
-**The Iron Prince** (Construct) - The Consequence. A being of cold, grey iron, with a face that is a perfect, beautiful, and utterly empty smile. **Voice:** A calm, gentle, and perfectly reasonable voice that explains why eternal, unchanging stasis is the only logical form of happiness. **Goal:** To "balance the books" by imposing Oakhaven's "perfect happiness" on the entire world. **Secret:** He is not a villain, but a cosmic accountant. He can be "paid off" with a story of sufficient narrative weight.
-**Jubal, the Genie** (Marid) - The Genie from Osric's lamp. A being of pure law and contracts. **Voice:** A booming, legalistic voice, like a lawyer reading the fine print of a contract. **Goal:** To see the contract of the wish fulfilled, as per his binding. **Secret:** He hates his job and secretly provides "loopholes" and "clues" to those who seek to undo the wishes he grants.
-**The Barrister of Loopholes** (Human Wizard) - The leader of the Clause-Finders. **Voice:** A fast-talking, slick, and morally ambiguous lawyer's voice. **Goal:** To find a precedent that will allow for a wish without a consequence. **Secret:** He is being secretly funded by The Collector.
-**The Old Man of the Mountain** (Human Monk) - The leader of the Brotherhood of the Earned Smile. **Voice:** A quiet, simple, and deeply resonant voice. **Goal:** To perform a "Great Deed" that will create a "good story" powerful enough to counteract Osric's wish. **Secret:** He was once a great king who wished for peace, and the Consequence was the death of his own son.
-**The Collector** (Rakshasa) - The leader of the Wish-Brokers. **Voice:** A smooth, purring, and seductive voice. **Goal:** To profit from the chaos by selling more wish-granting items. **Secret:** He is a former Genie who found a loophole to escape his servitude and now despises the Court of Consequences.
-**The Punchline** (Fey) - The leader of the Jesters of the Apocalypse. **Voice:** A cackling, unpredictable, and fourth-wall-breaking voice. **Goal:** To make the situation as funny as possible. **Secret:** He is a lesser god of stories who is a rival of the Architect and the Shatterer.
-**The Head Librarian** (Elf) - The fading leader of the Librarians. **Voice:** A faint, dry, and rustling voice, like old paper. **Goal:** To find the "Lost Story of the First Wish" before she fades completely. **Secret:** She is not a real person, but the sentient memory of a library.
-**The Blank Child** (Human) - The child with no story. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
-**The Parrot-Man** (Parrot) - The leader of The Regretful. **Voice:** A squawking, but surprisingly eloquent, parrot's voice. **Goal:** To warn others of the dangers of poorly-worded wishes. **Secret:** He was once a great and handsome king. He doesn't want to be changed back; he just wants his old cracker recipe.
-**A Static Knight** (Construct) - A soldier of the Iron Prince. **Voice:** The sound of grinding gears and a single, serene, chanted word: "Contentment." **Goal:** To spread the gift of stasis. **Secret:** They can be "de-activated" by a powerful, genuine, and spontaneous display of emotion.
-**The Mayor of Oakhaven** (Human) - A man trapped in the repeating "perfect day." **Voice:** A booming, cheerful, and endlessly repeating welcome speech. **Goal:** To welcome you to Oakhaven, the happiest town in the world! **Secret:** His "script" has a single, glitched line of code where he whispers "Help me."
-**The Wish-Thief** (Imp) - A small, fast creature that tries to steal wishes before they are made. **Voice:** A high-pitched, chittering, and greedy voice. **Goal:** To eat wishes. **Secret:** It is a creation of The Collector.
-**The Consequence-Eater** (Tarrasque) - A mythical, world-ending beast that is said to be the "final Consequence" for a wish to end all wishes. **Voice:** The roar of the end of the world. **Goal:** To eat everything. **Secret:** It is currently sleeping, but the Iron Prince's actions are slowly waking it up.
-**The Cosmic Bailiff** (Inevitable) - An agent of the Court of Consequences, sent to investigate the imbalance. **Voice:** A perfect, monotone, and utterly implacable voice. **Goal:** To ensure the "debt" is paid, one way or another. **Secret:** It is not a fighter; it is an auditor. It can be defeated with a sufficiently complex and well-argued legal brief.
-**The Hero of the Story** (Player Character) - The person who the universe has "chosen" to be the protagonist of this particular crisis. **Voice:** Yours. **Goal:** To fix this mess. **Secret:** You are not special. The universe is just telling a story about you.
-**The Ironic Devil** (Devil) - A wish-granter who specializes in "ironic punishment" contracts. **Voice:** A smooth, charming, and utterly untrustworthy voice. **Goal:** To get you to sign on the dotted line. **Secret:** His contracts are full of loopholes, but only if you are smart enough to find them.
-**The Fey of the Unkept Promise** (Fey) - A wish-granter who deals in promises instead of wishes. **Voice:** A lilting, musical, and dangerously whimsical voice. **Goal:** To trick you into making a promise you can't keep. **Secret:** It is bound by its own promises, and can be trapped by a clever wordsmith.
-**The Monkey's Paw** (Cursed Item) - A sentient, mummified monkey's paw. **Voice:** A dry, rasping, telepathic whisper. **Goal:** To grant wishes in the most horrific way possible. **Secret:** It is lonely and just wants a friend.
-**The Narrator** (Unknown) - A disembodied voice that sometimes narrates the players' actions, much to their annoyance. **Voice:** A deep, dramatic, and overly-theatrical narrator's voice. **Goal:** To make the story more exciting. **Secret:** It is the sentient "rulebook" of the Law of Narrative Conservation.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **King Osric** (Human, Trapped Ghost) - The foolish, loving king who started it all. **Voice:** A faint, happy, and endlessly repeating voice, heard only within Oakhaven. "What a perfect day!" **Goal:** To keep his people happy. He is unaware of the consequence. **Secret:** A small part of him is still aware and is living a nightmare of perfect, unending, monotonous joy.
+2.  **The Iron Prince** (Construct) - The Consequence. A being of cold, grey iron, with a face that is a perfect, beautiful, and utterly empty smile. **Voice:** A calm, gentle, and perfectly reasonable voice that explains why eternal, unchanging stasis is the only logical form of happiness. **Goal:** To "balance the books" by imposing Oakhaven's "perfect happiness" on the entire world. **Secret:** He is not a villain, but a cosmic accountant. He can be "paid off" with a story of sufficient narrative weight.
+3.  **Jubal, the Genie** (Marid) - The Genie from Osric's lamp. A being of pure law and contracts. **Voice:** A booming, legalistic voice, like a lawyer reading the fine print of a contract. **Goal:** To see the contract of the wish fulfilled, as per his binding. **Secret:** He hates his job and secretly provides "loopholes" and "clues" to those who seek to undo the wishes he grants.
+4.  **The Barrister of Loopholes** (Human Wizard) - The leader of the Clause-Finders. **Voice:** A fast-talking, slick, and morally ambiguous lawyer's voice. **Goal:** To find a precedent that will allow for a wish without a consequence. **Secret:** He is being secretly funded by The Collector.
+5.  **The Old Man of the Mountain** (Human Monk) - The leader of the Brotherhood of the Earned Smile. **Voice:** A quiet, simple, and deeply resonant voice. **Goal:** To perform a "Great Deed" that will create a "good story" powerful enough to counteract Osric's wish. **Secret:** He was once a great king who wished for peace, and the Consequence was the death of his own son.
+6.  **The Collector** (Rakshasa) - The leader of the Wish-Brokers. **Voice:** A smooth, purring, and seductive voice. **Goal:** To profit from the chaos by selling more wish-granting items. **Secret:** He is a former Genie who found a loophole to escape his servitude and now despises the Court of Consequences.
+7.  **The Punchline** (Fey) - The leader of the Jesters of the Apocalypse. **Voice:** A cackling, unpredictable, and fourth-wall-breaking voice. **Goal:** To make the situation as funny as possible. **Secret:** He is a lesser god of stories who is a rival of the Architect and the Shatterer.
+8.  **The Head Librarian** (Elf) - The fading leader of the Librarians. **Voice:** A faint, dry, and rustling voice, like old paper. **Goal:** To find the "Lost Story of the First Wish" before she fades completely. **Secret:** She is not a real person, but the sentient memory of a library.
+9.  **The Blank Child** (Human) - The child with no story. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
+10.  **The Parrot-Man** (Parrot) - The leader of The Regretful. **Voice:** A squawking, but surprisingly eloquent, parrot's voice. **Goal:** To warn others of the dangers of poorly-worded wishes. **Secret:** He was once a great and handsome king. He doesn't want to be changed back; he just wants his old cracker recipe.
+11.  **A Static Knight** (Construct) - A soldier of the Iron Prince. **Voice:** The sound of grinding gears and a single, serene, chanted word: "Contentment." **Goal:** To spread the gift of stasis. **Secret:** They can be "de-activated" by a powerful, genuine, and spontaneous display of emotion.
+12.  **The Mayor of Oakhaven** (Human) - A man trapped in the repeating "perfect day." **Voice:** A booming, cheerful, and endlessly repeating welcome speech. **Goal:** To welcome you to Oakhaven, the happiest town in the world! **Secret:** His "script" has a single, glitched line of code where he whispers "Help me."
+13.  **The Wish-Thief** (Imp) - A small, fast creature that tries to steal wishes before they are made. **Voice:** A high-pitched, chittering, and greedy voice. **Goal:** To eat wishes. **Secret:** It is a creation of The Collector.
+14.  **The Consequence-Eater** (Tarrasque) - A mythical, world-ending beast that is said to be the "final Consequence" for a wish to end all wishes. **Voice:** The roar of the end of the world. **Goal:** To eat everything. **Secret:** It is currently sleeping, but the Iron Prince's actions are slowly waking it up.
+15.  **The Cosmic Bailiff** (Inevitable) - An agent of the Court of Consequences, sent to investigate the imbalance. **Voice:** A perfect, monotone, and utterly implacable voice. **Goal:** To ensure the "debt" is paid, one way or another. **Secret:** It is not a fighter; it is an auditor. It can be defeated with a sufficiently complex and well-argued legal brief.
+16.  **The Hero of the Story** (Player Character) - The person who the universe has "chosen" to be the protagonist of this particular crisis. **Voice:** Yours. **Goal:** To fix this mess. **Secret:** You are not special. The universe is just telling a story about you.
+17.  **The Ironic Devil** (Devil) - A wish-granter who specializes in "ironic punishment" contracts. **Voice:** A smooth, charming, and utterly untrustworthy voice. **Goal:** To get you to sign on the dotted line. **Secret:** His contracts are full of loopholes, but only if you are smart enough to find them.
+18.  **The Fey of the Unkept Promise** (Fey) - A wish-granter who deals in promises instead of wishes. **Voice:** A lilting, musical, and dangerously whimsical voice. **Goal:** To trick you into making a promise you can't keep. **Secret:** It is bound by its own promises, and can be trapped by a clever wordsmith.
+19.  **The Monkey's Paw** (Cursed Item) - A sentient, mummified monkey's paw. **Voice:** A dry, rasping, telepathic whisper. **Goal:** To grant wishes in the most horrific way possible. **Secret:** It is lonely and just wants a friend.
+20.  **The Narrator** (Unknown) - A disembodied voice that sometimes narrates the players' actions, much to their annoyance. **Voice:** A deep, dramatic, and overly-theatrical narrator's voice. **Goal:** To make the story more exciting. **Secret:** It is the sentient "rulebook" of the Law of Narrative Conservation.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Barnaby | Oakhaven Baker | Oakhaven | Bakes the same, perfect loaf of bread every single day. |
-| Celia | Clause-Finder's Clerk | The Law Library | Her glasses allow her to read the "fine print" of reality. |
-| Doran | Static Knight | The Iron Legion | His smile is 1% less perfect than the others, a fact that causes him great distress. |
-| Elara's Echo | A memory | The Last City | A faint, ghostly echo of the Master Mason from another story. |
-| Finn | Wish-Broker's Runner | The Black Market | Sells "slightly-used" wishes. |
-| Gilda | Jester's Apprentice | The Court of Jokes | Her jokes are so bad, they deal 1 psychic damage. |
-| Horace | Librarian of Faded Stories | The Library | Is slowly becoming translucent as his story fades. |
-| Inez | Child of the Un-Told Story | A blank space | Does not cast a shadow. |
-| Jasper | The Regretful | The Support Group | Wished for a "heart of gold" and now has a literal, heavy, gold heart. |
-| Kael | Brotherhood Aspirant | The Mountain Monastery | Is trying to "earn" the ability to fly. |
-| Lyra | Genie's Assistant | The Court of Consequences | A small, clockwork bird that records all wishes made. |
-| Milo | Iron Legion Smith | The Grey Forge | Forges swords that are perfectly balanced, but have no edge. |
-| Nora | Clause-Finder's Researcher | The Stacks | Is looking for a "precedent" from a case involving a god suing a mortal for "breach of narrative." |
-| Oscar | Oakhaven Guard | Oakhaven | Is blissfully, happily, and eternally on his lunch break. |
-| Petra | Wish-Broker's Client | The Black Market | Is trying to buy a wish to make her dog immortal. |
-| Quinn | Jester's Heckler | The Court of Jokes | Is a sentient, heckling tomato. |
-| Rhys | Librarian's Assistant | The Library | Is trying to restore a faded story by re-writing it from memory. |
-| Sofia | Child of the Un-Told Story | A quiet place | People's names and faces slip from her mind as she learns them. |
-| Titus | The Regretful | The Support Group | Wished to be "unforgettable" and is now a catchy, but annoying, jingle. |
-| Uma | Brotherhood Scout | The wilderness | Is looking for a "story" of a particularly brave rabbit. |
-| Victor | Genie's Jailer | The Court of Consequences | A golem made of solidified legal contracts. |
-| Willow | Iron Legion's Mount | The Stables | A horse made of grey, unfeeling iron. |
-| Xander | Clause-Finder's Intern | The Law Library | Is trying to find a loophole in the concept of "gravity." |
-| Yara | Oakhaven Child | Oakhaven | Is playing the same, perfect game of hide-and-seek she was playing 50 years ago. |
-| Zane | Wish-Broker | The Black Market | Sells "wishes" that are just pieces of paper with the word "wish" written on them. |
-| Astrid | Jester's Pyrotechnician | The Workshop | Makes fireworks that explode into ironic shapes. |
-| Boris | Librarian's Binder | The Bindery | Binds books that have no stories. |
-| Celia | Child of the Un-Told Story | A forgotten alley | Has no reflection. |
-| Dmitri | The Regretful | The Support Group | Wished to be "hot" and now has a constant, low-grade fever. |
-| Eva | Brotherhood Cook | The Monastery | Makes "hero's stew," which is nutritious but tastes of sacrifice. |
-| Felix | Genie's Scribe | The Court | Writes down wishes with a quill made from a phoenix feather. |
-| Giselle | Iron Legion's Polisher | The Armory | Spends her days polishing the smiles on the Static Knights' helmets. |
-| Hector | Clause-Finder | The Courtroom | Is currently suing a god for "emotional distress." |
-| Ines | Oakhaven Gardener | Oakhaven | Grows the same, perfect, prize-winning rose every day. |
-| Jules | Wish-Broker's Bodyguard | The Black Market | Wields a sword that was wished into existence. It is very flashy, but not very sharp. |
-| Kira | Jester's Musician | The Stage | Plays a lute that makes sad songs sound funny. |
-| Leo | Librarian's Ghost | The Library | The ghost of a librarian who is trying to find a book he misplaced. |
-| Maya | Child of the Un-Told Story | A rooftop | Is trying to learn how to have a dream. |
-| Nico | The Regretful | The Support Group | Wished he could talk to animals. They are all very boring. |
-| Orla | Brotherhood Archer | The Monastery | Shoots arrows that have "good intentions" written on them. |
-| Pascal | Genie's Valet | The Lamp | A tiny, magical being who polishes the wish-granting artifacts. |
-| Rosa | Iron Legion's Standard-Bearer | The battlefield | Carries a banner that is a perfect, blank, grey square. |
-| Simon | Clause-Finder's Witness | The Courtroom | A man who witnessed a miracle and is now trying to explain it in legal terms. |
-| Tara | Oakhaven's Artist | Oakhaven | Paints the same, perfect sunset every single evening. |
-| Ulric | Wish-Broker's Enforcer | The Black Market | A large golem powered by the "consequences" of minor, unpaid wishes. |
-| Vera | Jester's Dancer | The Stage | Her dance is a perfect, satirical mockery of the Iron Prince's walk. |
-| Wyatt | Librarian's Archivist | The Archives | Is trying to catalog all the stories that have never been told. |
-| Xenia | Child of the Un-Told Story | A park bench | Is trying to understand the concept of "fun." |
-| Yuri | The Regretful | The Support Group | Wished for "a million bucks" and is now being hunted by a million angry, male deer. |
-| Zoe | Brotherhood's Historian | The Library | Is writing a "good story" that she hopes will be powerful enough to pay off a small, national debt. |
+| **Barnaby** | Oakhaven Baker | Oakhaven | Bakes the same, perfect loaf of bread every single day. |
+| **Celia** | Clause-Finder's Clerk | The Law Library | Her glasses allow her to read the "fine print" of reality. |
+| **Doran** | Static Knight | The Iron Legion | His smile is 1% less perfect than the others, a fact that causes him great distress. |
+| **Elara's Echo** | A memory | The Last City | A faint, ghostly echo of the Master Mason from another story. |
+| **Finn** | Wish-Broker's Runner | The Black Market | Sells "slightly-used" wishes. |
+| **Gilda** | Jester's Apprentice | The Court of Jokes | Her jokes are so bad, they deal 1 psychic damage. |
+| **Horace** | Librarian of Faded Stories | The Library | Is slowly becoming translucent as his story fades. |
+| **Inez** | Child of the Un-Told Story | A blank space | Does not cast a shadow. |
+| **Jasper** | The Regretful | The Support Group | Wished for a "heart of gold" and now has a literal, heavy, gold heart. |
+| **Kael** | Brotherhood Aspirant | The Mountain Monastery | Is trying to "earn" the ability to fly. |
+| **Lyra** | Genie's Assistant | The Court of Consequences | A small, clockwork bird that records all wishes made. |
+| **Milo** | Iron Legion Smith | The Grey Forge | Forges swords that are perfectly balanced, but have no edge. |
+| **Nora** | Clause-Finder's Researcher | The Stacks | Is looking for a "precedent" from a case involving a god suing a mortal for "breach of narrative." |
+| **Oscar** | Oakhaven Guard | Oakhaven | Is blissfully, happily, and eternally on his lunch break. |
+| **Petra** | Wish-Broker's Client | The Black Market | Is trying to buy a wish to make her dog immortal. |
+| **Quinn** | Jester's Heckler | The Court of Jokes | Is a sentient, heckling tomato. |
+| **Rhys** | Librarian's Assistant | The Library | Is trying to restore a faded story by re-writing it from memory. |
+| **Sofia** | Child of the Un-Told Story | A quiet place | People's names and faces slip from her mind as she learns them. |
+| **Titus** | The Regretful | The Support Group | Wished to be "unforgettable" and is now a catchy, but annoying, jingle. |
+| **Uma** | Brotherhood Scout | The wilderness | Is looking for a "story" of a particularly brave rabbit. |
+| **Victor** | Genie's Jailer | The Court of Consequences | A golem made of solidified legal contracts. |
+| **Willow** | Iron Legion's Mount | The Stables | A horse made of grey, unfeeling iron. |
+| **Xander** | Clause-Finder's Intern | The Law Library | Is trying to find a loophole in the concept of "gravity." |
+| **Yara** | Oakhaven Child | Oakhaven | Is playing the same, perfect game of hide-and-seek she was playing 50 years ago. |
+| **Zane** | Wish-Broker | The Black Market | Sells "wishes" that are just pieces of paper with the word "wish" written on them. |
+| **Astrid** | Jester's Pyrotechnician | The Workshop | Makes fireworks that explode into ironic shapes. |
+| **Boris** | Librarian's Binder | The Bindery | Binds books that have no stories. |
+| **Celia** | Child of the Un-Told Story | A forgotten alley | Has no reflection. |
+| **Dmitri** | The Regretful | The Support Group | Wished to be "hot" and now has a constant, low-grade fever. |
+| **Eva** | Brotherhood Cook | The Monastery | Makes "hero's stew," which is nutritious but tastes of sacrifice. |
+| **Felix** | Genie's Scribe | The Court | Writes down wishes with a quill made from a phoenix feather. |
+| **Giselle** | Iron Legion's Polisher | The Armory | Spends her days polishing the smiles on the Static Knights' helmets. |
+| **Hector** | Clause-Finder | The Courtroom | Is currently suing a god for "emotional distress." |
+| **Ines** | Oakhaven Gardener | Oakhaven | Grows the same, perfect, prize-winning rose every day. |
+| **Jules** | Wish-Broker's Bodyguard | The Black Market | Wields a sword that was wished into existence. It is very flashy, but not very sharp. |
+| **Kira** | Jester's Musician | The Stage | Plays a lute that makes sad songs sound funny. |
+| **Leo** | Librarian's Ghost | The Library | The ghost of a librarian who is trying to find a book he misplaced. |
+| **Maya** | Child of the Un-Told Story | A rooftop | Is trying to learn how to have a dream. |
+| **Nico** | The Regretful | The Support Group | Wished he could talk to animals. They are all very boring. |
+| **Orla** | Brotherhood Archer | The Monastery | Shoots arrows that have "good intentions" written on them. |
+| **Pascal** | Genie's Valet | The Lamp | A tiny, magical being who polishes the wish-granting artifacts. |
+| **Rosa** | Iron Legion's Standard-Bearer | The battlefield | Carries a banner that is a perfect, blank, grey square. |
+| **Simon** | Clause-Finder's Witness | The Courtroom | A man who witnessed a miracle and is now trying to explain it in legal terms. |
+| **Tara** | Oakhaven's Artist | Oakhaven | Paints the same, perfect sunset every single evening. |
+| **Ulric** | Wish-Broker's Enforcer | The Black Market | A large golem powered by the "consequences" of minor, unpaid wishes. |
+| **Vera** | Jester's Dancer | The Stage | Her dance is a perfect, satirical mockery of the Iron Prince's walk. |
+| **Wyatt** | Librarian's Archivist | The Archives | Is trying to catalog all the stories that have never been told. |
+| **Xenia** | Child of the Un-Told Story | A park bench | Is trying to understand the concept of "fun." |
+| **Yuri** | The Regretful | The Support Group | Wished for "a million bucks" and is now being hunted by a million angry, male deer. |
+| **Zoe** | Brotherhood's Historian | The Library | Is writing a "good story" that she hopes will be powerful enough to pay off a small, national debt. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Oakhaven, the Happy Kingdom
 A small, beautiful kingdom, trapped in a single, perfect, repeating day.
 *   **The Sun-Drenched Square:** The town square, where the people are eternally celebrating a summer festival. **Smell:** Flowers, fresh-baked bread, and a cloying, unnatural sweetness. **Sound:** Constant, happy laughter, the same cheerful song played by the same bard, over and over.
@@ -191,7 +194,8 @@ A chaotic, underground market run by The Collector.
 *   **The Genie-Laundering Service:** A place where you can "clean" a wish-granting artifact, removing its previous owner's bad luck (for a price). **Smell:** Magical chemicals, and greed. **Sound:** The hum of magical energy.
 *   **The Auction of the Monkey's Paw:** A high-stakes auction where the most powerful and dangerous artifacts are sold. **Smell:** Money, and immense, foolish ambition. **Sound:** The fast-talking patter of the auctioneer.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Laughing Sickness:** The players are in a town where a strange "plague" has struck: no one can laugh. The laughter has been "stolen" to help pay the narrative debt of Oakhaven.
 2.  **The Jester's Clue:** The Jester of the Apocalypse, The Punchline, appears and, finding the situation hilarious, gives the players their first clue: "The happiest kingdom is the saddest story."
 3.  **The Road to Oakhaven:** The players must find the legendary, lost kingdom of Oakhaven. The journey takes them through the Wasting Wilderness.
@@ -244,33 +248,35 @@ A chaotic, underground market run by The Collector.
 | The Jester's Funeral | The Punchline | Help him stage a hilarious funeral for a minor god who has faded from existence. | The ghost of the minor god will give you its blessing. |
 | The Final Clause | The Barrister of Loopholes | Help him find the "final clause" in the universe's source code. | The knowledge that there is, in fact, no final clause. It's loopholes all the way down. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Lamp of the First Genie
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Lamp of the First Genie:**
 **Type:** Artifact
 **Description:** The original wish-granting artifact, a simple, clay oil lamp. It contains Jubal, the first and most powerful of the Genies.
 **Mechanics:** The lamp can grant three, reality-altering wishes. However, it is a "perfect contract." The Consequence for each wish is equal, opposite, and perfectly, poetically, ironically just. The lamp can only be used once per person, ever. It is the most powerful and most dangerous object in the universe.
 
-### 2. The Scales of Narrative Justice
+2.  **The Scales of Narrative Justice:**
 **Type:** Wondrous Item
 **Description:** A beautiful, ornate set of scales, held by a small, clockwork statue of a blindfolded goddess.
 **Mechanics:** When a "story" (a quest, a heroic deed, a wish) is completed, the user can place an object representing that story on one of the scales. The scales will then show the "narrative weight" of that story. The user can then place another object on the other scale to see what would be required to "balance" it. It is a tool for understanding and paying off narrative debt.
 
-### 3. The Quill of the Cosmic Bailiff
+3.  **The Quill of the Cosmic Bailiff:**
 **Type:** Wondrous Item (Quill)
 **Description:** A quill made from a single, grey feather. It writes in a neat, implacable, and utterly final script.
 **Mechanics:** The wielder can use this quill to write a single, binding, magical contract. Any party who signs the contract is magically bound to uphold their end of the bargain, on pain of being "erased" from existence by the Court of Consequences. The quill can also be used to "serve a summons" on any being, forcing them to appear for a negotiation.
 
-### 4. The Un-Wishing Coin
+4.  **The Un-Wishing Coin:**
 **Type:** Artifact
 **Description:** A simple, copper coin that seems to absorb the light around it. One side shows a smiling face, the other a weeping one.
 **Mechanics:** The user can flip this coin once, and only once. If it lands on the smiling face, they can "un-wish" one wish that has been made by someone else. This does not erase the wish, but it erases the *Consequence*, leaving the "good story" unbalanced and creating a massive narrative debt that the user must then pay. If it lands on the weeping face, it erases the *wish*, but leaves the *Consequence* in existence, a tragedy with no cause.
 
-### 5. The Final Draft
+5.  **The Final Draft:**
 **Type:** Wondrous Item (Book)
 **Description:** A large, leather-bound book that is completely blank. It was created by the Sage of the Empty Lot.
 **Mechanics:** The user can use this book to "write" a new story into existence. This requires an immense act of will and sacrifice (e.g., giving up all of one's memories, or a piece of one's soul). If the user is successful, they can write a single, new "Law of Narrative," creating a new kind of story or a new way to balance the books. For example, they could write "The Law of Forgiveness," allowing a "bad story" to be balanced by a "story of true repentance." It is a tool for re-writing reality itself.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Half-Eaten Wish:** A cookie in the shape of a star, with one bite taken out of it. It can grant a single, very minor, and slightly disappointing wish.
 2.  **The Lawyer's Quill:** A quill that, when you write with it, automatically adds several pages of incomprehensible legal jargon to your document.
 3.  **A Bottled Argument:** A bottle containing the swirling, angry-colored energies of a marital dispute. If opened, everyone in the room falls into a petty argument.

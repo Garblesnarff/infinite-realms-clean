@@ -120,56 +120,56 @@ The City acts as a "Psychic Capacitor." The sheer density of corruption, greed, 
 
 | Name | Role | Location | Low-Probability Quirk |
 | :--- | :--- | :--- | :--- |
-| Benny "Toes" | Snitch | The Docks | Refuses to walk on cracks in pavement. |
-| Sally Scissors | Barber | Midtown | Collects hair to make voodoo dolls. |
-| Officer Miller | Beat Cop | City Hall | Hums opera while beating suspects. |
-| The Blind Man | Beggar | Subway | Reads newspapers by licking the ink. |
-| Nurse Ratched | Nurse | Asylum | Smells constantly of formaldehyde and peppermint. |
-| Jimmy Two-Times | Thug | Little Italy | Says the last word of every sentence twice. Twice. |
-| Madame Zola | Fortune Teller | Carnival | Her crystal ball is a fishbowl with a live piranha. |
-| "Slick" Rick | Jazz Pianist | Blue Jade | Plays piano with his feet. |
-| Widow Gast | Landlady | Tenements | Keeps her husband's ashes in a pepper shaker. |
-| Tommy Gun | Enforcer | Warehouse | Extremely polite; says "please" before shooting. |
-| The Florist | Vendor | Street Corner | Flowers wilt when he touches them. |
-| Big Al | Bouncer | Speakeasy | Is actually three gnomes in a trench coat. |
-| Sister Mary | Nun | Orphanage | Carries a switchblade in her bible. |
-| "Lips" | Informant | Alley | Communicates only via ventriloquism dummy. |
-| Dr. Stein | Coroner | Morgue | Eats sandwiches over open cadavers. |
-| The Watchman | Guard | Museum | Falls asleep only when it's silent. |
-| Paperboy | Newsie | Plaza | Shouts headlines from 10 years ago. |
-| The Tailor | Shopkeep | High Street | Stitches secret pockets into every suit. |
-| "Hooks" | Fisherman | Wharf | Has a hook for a hand, but it's made of glass. |
-| The Librarian | Archivist | Library | Shushes people with a literal spell of silence. |
-| Taxi Tony | Driver | Downtown | Drives blindfolded "to feel the road." |
-| The Baker | Chef | Patisserie | Kneads dough with brass knuckles. |
-| "Numbers" | Bookie | Backroom | Can calculate odds of *anything* (e.g., rain, death). |
-| The Chemist | Drug Dealer | Lab | Skin is stained permanently blue. |
-| "Shadow" | Stray Dog | Streets | Barks at people who are about to die. |
-| The Lamplighter | Worker | Park | Blows out electric lights like candles. |
-| Miss Scarlett | Singer | Club | Sings in a language that doesn't exist. |
-| The Janitor | Cleaner | Police HQ | Mops up blood before the crime is reported. |
-| "Fingers" | Pickpocket | Market | Has 6 fingers on left hand. |
-| The Judge | Official | Court | Flips a coin to decide sentences. |
-| The Cobbler | Shopkeep | Slums | Shoes he fixes always walk north. |
-| "Static" | Radioman | Roof | Speaks only in radio jingles. |
-| The Sculptor | Artist | Studio | Sculptures bleed if chipped. |
-| The Barman | Server | Dive Bar | Serves drinks in hollowed-out skulls. |
-| "Gears" | Mechanic | Garage | Bleeds oil instead of blood. |
-| The Hatter | Milliner | Boutique | Hats whisper compliments to wearers. |
-| "Matches" | Arsonist | Cell | Can light fires by snapping fingers. |
-| The Groom | Stablehand | Track | Horses speak to him. |
-| The Usher | Cinema | Theater | Has no face, just a smooth patch of skin (illusion). |
-| "Ice" | Hitman | Hotel | Body temperature is 40 degrees F. |
-| The Grocer | Vendor | Market | Fruits rot instantly if stolen. |
-| "Tiny" | Giant | Circus | Is actually 7ft tall, calls everyone "Giant." |
-| The Banker | Clerk | Bank | Eyes are gold coins. |
-| The Maid | Servant | Mansion | Dusts with a raven's wing. |
-| "Echo" | Orphan | Sewers | Repeats words 5 seconds later. |
-| The Butcher | Vendor | Deli | Sells "Long Pig" on Tuesdays. |
-| "Quill" | Forger | Attic | Writes with his own blood. |
-| The Butler | Servant | Estate | Has no reflection. |
-| "Sparks" | Electrician | Power Plant | Hair stands up permanently. |
-| The Tourist | Civilian | Hotel | Takes photos of empty corners. |
+| **Benny "Toes"** | Snitch | The Docks | Refuses to walk on cracks in pavement. |
+| **Sally Scissors** | Barber | Midtown | Collects hair to make voodoo dolls. |
+| **Officer Miller** | Beat Cop | City Hall | Hums opera while beating suspects. |
+| **The Blind Man** | Beggar | Subway | Reads newspapers by licking the ink. |
+| **Nurse Ratched** | Nurse | Asylum | Smells constantly of formaldehyde and peppermint. |
+| **Jimmy Two-Times** | Thug | Little Italy | Says the last word of every sentence twice. Twice. |
+| **Madame Zola** | Fortune Teller | Carnival | Her crystal ball is a fishbowl with a live piranha. |
+| **"Slick" Rick** | Jazz Pianist | Blue Jade | Plays piano with his feet. |
+| **Widow Gast** | Landlady | Tenements | Keeps her husband's ashes in a pepper shaker. |
+| **Tommy Gun** | Enforcer | Warehouse | Extremely polite; says "please" before shooting. |
+| **The Florist** | Vendor | Street Corner | Flowers wilt when he touches them. |
+| **Big Al** | Bouncer | Speakeasy | Is actually three gnomes in a trench coat. |
+| **Sister Mary** | Nun | Orphanage | Carries a switchblade in her bible. |
+| **"Lips"** | Informant | Alley | Communicates only via ventriloquism dummy. |
+| **Dr. Stein** | Coroner | Morgue | Eats sandwiches over open cadavers. |
+| **The Watchman** | Guard | Museum | Falls asleep only when it's silent. |
+| **Paperboy** | Newsie | Plaza | Shouts headlines from 10 years ago. |
+| **The Tailor** | Shopkeep | High Street | Stitches secret pockets into every suit. |
+| **"Hooks"** | Fisherman | Wharf | Has a hook for a hand, but it's made of glass. |
+| **The Librarian** | Archivist | Library | Shushes people with a literal spell of silence. |
+| **Taxi Tony** | Driver | Downtown | Drives blindfolded "to feel the road." |
+| **The Baker** | Chef | Patisserie | Kneads dough with brass knuckles. |
+| **"Numbers"** | Bookie | Backroom | Can calculate odds of *anything* (e.g., rain, death). |
+| **The Chemist** | Drug Dealer | Lab | Skin is stained permanently blue. |
+| **"Shadow"** | Stray Dog | Streets | Barks at people who are about to die. |
+| **The Lamplighter** | Worker | Park | Blows out electric lights like candles. |
+| **Miss Scarlett** | Singer | Club | Sings in a language that doesn't exist. |
+| **The Janitor** | Cleaner | Police HQ | Mops up blood before the crime is reported. |
+| **"Fingers"** | Pickpocket | Market | Has 6 fingers on left hand. |
+| **The Judge** | Official | Court | Flips a coin to decide sentences. |
+| **The Cobbler** | Shopkeep | Slums | Shoes he fixes always walk north. |
+| **"Static"** | Radioman | Roof | Speaks only in radio jingles. |
+| **The Sculptor** | Artist | Studio | Sculptures bleed if chipped. |
+| **The Barman** | Server | Dive Bar | Serves drinks in hollowed-out skulls. |
+| **"Gears"** | Mechanic | Garage | Bleeds oil instead of blood. |
+| **The Hatter** | Milliner | Boutique | Hats whisper compliments to wearers. |
+| **"Matches"** | Arsonist | Cell | Can light fires by snapping fingers. |
+| **The Groom** | Stablehand | Track | Horses speak to him. |
+| **The Usher** | Cinema | Theater | Has no face, just a smooth patch of skin (illusion). |
+| **"Ice"** | Hitman | Hotel | Body temperature is 40 degrees F. |
+| **The Grocer** | Vendor | Market | Fruits rot instantly if stolen. |
+| **"Tiny"** | Giant | Circus | Is actually 7ft tall, calls everyone "Giant." |
+| **The Banker** | Clerk | Bank | Eyes are gold coins. |
+| **The Maid** | Servant | Mansion | Dusts with a raven's wing. |
+| **"Echo"** | Orphan | Sewers | Repeats words 5 seconds later. |
+| **The Butcher** | Vendor | Deli | Sells "Long Pig" on Tuesdays. |
+| **"Quill"** | Forger | Attic | Writes with his own blood. |
+| **The Butler** | Servant | Estate | Has no reflection. |
+| **"Sparks"** | Electrician | Power Plant | Hair stands up permanently. |
+| **The Tourist** | Civilian | Hotel | Takes photos of empty corners. |
 
 ---
 

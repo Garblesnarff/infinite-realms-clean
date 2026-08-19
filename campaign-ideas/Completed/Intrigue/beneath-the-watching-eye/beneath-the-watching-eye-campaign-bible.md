@@ -18,7 +18,8 @@ The World is a machine that has forgotten its purpose. In the beginning, there w
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Gray Conformity.' It is about the 'Psychological Horror' of having every thought monitored—the realization that the only freedom left is inside your own mind. The 'Why' is the question: 'Is it better to live in a comfortable lie or die for a dangerous truth?' It explores the oppressive scale of brutalist architecture, the sickly green glow of the telescreen, and the bravery of maintaining a forbidden hope in a hopeless world. The players are the Party functionaries and Prole rebels who must navigate the monotone landscape to find a truth that hasn't been rewritten yet.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Party (The Inner Circle)
 **Type:** Totalitarian Theocratic Superpower
 **Leader:** Big Brother (Tier 1 NPC - figurehead).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Gray Conf
 **Asset:** The ability to delete people and events from existence, both physically and historically.
 **Rivals:** The Memory Seekers.
 
-## [TAG: NPC_TIER_1]
-**Winston** (Outer Party - The Functionary) - A man in worn blue overalls with a gaunt face. **Voice:** Monotone, precise, and carefully neutral. **Goal:** To find a piece of truth that cannot be rewritten. **Secret:** He has started a secret diary where he records his 'unapproved' memories.
-**O'Brien** (Inner Party - The Inquisitor) - A powerful man in a black uniform with a practiced warmth. **Voice:** Authoritative, cultured, and terrifyingly reasonable. **Goal:** To identify and 're-educate' all thought-criminals. **Secret:** He is already part of the Brotherhood, or at least he wants you to believe that.
-**Julia** (Outer Party - The Rebel) - A bold woman who works in the Fiction Department. **Voice:** Sarcastic, energetic, and filled with a hidden joy. **Goal:** To experience pleasure and rebellion in a world of gray conformity. **Secret:** She doesn't care about the truth; she only cares about the moment.
-**Big Brother** (The Eye - Mythic Leader) - The face on every telescreen and propaganda poster. **Voice:** A monotone, perfect broadcast. **Goal:** Absolute control of the human soul. **Secret:** He doesn't exist as a human being; he is a symbolic construct of the State.
-**The Prole Woman** (Prole - The Witness) - A woman who sings pre-Party work songs in the slums. **Voice:** Strong, organic, and filled with a forbidden beauty. **Goal:** To live her life and remember the songs. **Secret:** She is the only person in Aethelgard who truly understands the meaning of the word 'Love.'
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Winston** (Outer Party - The Functionary) - A man in worn blue overalls with a gaunt face. **Voice:** Monotone, precise, and carefully neutral. **Goal:** To find a piece of truth that cannot be rewritten. **Secret:** He has started a secret diary where he records his 'unapproved' memories.
+2.  **O'Brien** (Inner Party - The Inquisitor) - A powerful man in a black uniform with a practiced warmth. **Voice:** Authoritative, cultured, and terrifyingly reasonable. **Goal:** To identify and 're-educate' all thought-criminals. **Secret:** He is already part of the Brotherhood, or at least he wants you to believe that.
+3.  **Julia** (Outer Party - The Rebel) - A bold woman who works in the Fiction Department. **Voice:** Sarcastic, energetic, and filled with a hidden joy. **Goal:** To experience pleasure and rebellion in a world of gray conformity. **Secret:** She doesn't care about the truth; she only cares about the moment.
+4.  **Big Brother** (The Eye - Mythic Leader) - The face on every telescreen and propaganda poster. **Voice:** A monotone, perfect broadcast. **Goal:** Absolute control of the human soul. **Secret:** He doesn't exist as a human being; he is a symbolic construct of the State.
+5.  **The Prole Woman** (Prole - The Witness) - A woman who sings pre-Party work songs in the slums. **Voice:** Strong, organic, and filled with a forbidden beauty. **Goal:** To live her life and remember the songs. **Secret:** She is the only person in Aethelgard who truly understands the meaning of the word 'Love.'
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Gray Conf
 | The Oracle | Adept | Hidden Memory-Vault | Can 'see' the pieces of pre-Party history before they were burned. |
 | 'Static' | Telescreen Spy | Anywhere | Flickers in and out of the sickly green light when he's watching you. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Ministry of Truth (Aethelgard)
 A massive, brutalist concrete pyramid that looms over the city.
 *   **The Records Room:** A labyrinth of gray cubicles and pneumatic tubes. **Smell:** Ink, stale air, and machine oil. **Sound:** The rhythmic 'whoosh' of documents being deleted.
@@ -89,7 +92,8 @@ A forest of identical brutalist apartment blocks under an overcast sky.
 A place of 'Desaturated Joy' where the broken functionaries gather.
 *   **The Booth:** A site of 'False Confessions' and clinical whites. **Visual:** A single, broken mirror on the wall.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Censorship Assignment:** Arrive at the Ministry of Truth. You must 'Adjust' a series of historical records to fit the Party's latest proclamation without leaving a trace.
 2.  **The Proles Incursion:** Visit the slums to investigate a report of 'Forbidden Songs.' You must find the source of the music without alerting the Thought Police.
 3.  **The Secret Diary:** Someone has left an empty notebook in your cubicle. You must find a way to take it home and write your first 'unapproved' thought.
@@ -98,18 +102,19 @@ A place of 'Desaturated Joy' where the broken functionaries gather.
 6.  **The Siege of the Senses:** You are captured by O'Brien. You must survive the 'Re-education' process in Room 101 while maintaining your own internal melody.
 7.  **The Final Betrayal:** Face Big Brother face-to-face in a final, reality-bending standoff. The truth is revealed—will you love him or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Glass Paperweight
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Glass Paperweight:**
 **Type:** Wondrous Item
 **Description:** A heavy, glass dome containing a piece of coral from the pre-Party era.
 **Mechanics:** Grants the user the ability to 'Stabilize' their own memories, making them immune to the effects of the Ministry of Truth or any mental rewriting for 1 hour.
 
-### 2. The Brotherhood Encryption Code
+2.  **The Brotherhood Encryption Code:**
 **Type:** Artifact Focus
 **Description:** A small, paper-based code that hums with the key of the resistance.
 **Mechanics:** Grants the user the ability to 'See' the truth behind any state broadcast. Once per day, the user can 'Silence' a nearby telescreen for 1 hour.
 
-### 3. Big Brother's Eye
+3.  **Big Brother's Eye:**
 **Type:** Wondrous Item (Cursed)
 **Description:** A small, silver lens that mimics the gaze of the state.
 **Mechanics:** Grants the user advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Concrete Grays' and loses the ability to feel any emotion other than 'Party Loyalty.'

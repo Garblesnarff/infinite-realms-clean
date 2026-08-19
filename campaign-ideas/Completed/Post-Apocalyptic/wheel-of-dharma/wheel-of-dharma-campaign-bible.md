@@ -18,7 +18,8 @@ The Universe is not a void; it's a cosmic dance that's being performed by a thou
 ### The 'Why'
 The central conflict is the struggle between 'Personal Desire' and 'Eternal Duty.' It is about the 'Cerebral Grandeur' of the human soul—the realization that you are just a variable in a cosmic equation of time and karma. The 'Why' is the question: 'Can you fulfill your dharma when it requires sacrificing everything you love?' It explores the symbolic density of the Hindu tradition, the tragedy of the 'Righteous Choice,' and the philosophical voice of a sage who knows that every life is just a stepping stone toward the stars. The players are the seekers and warriors who must navigate the gopurams and sacred rivers to find a resolution that honors the memory of the Architects.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Deva Collective (The Order)
 **Type:** Theocratic Divine Superpower
 **Leader:** Krishna (Equivalent - The Preserver).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Personal Desire' and 'Eternal Duty
 **Asset:** Ancient ruins, 'AUM-Energy' monoliths, and a connection to the world's original purpose.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Krishna** (Deva - The Leader) - A man in blue skin and royal yellow robes with a peacock feather crown. **Voice:** Playful yet profound, musical, and perfectly measured. **Goal:** To preserve the cosmic balance and guide the player toward their dharma. **Secret:** He is secretly an Adept of 'Karma-Energy' who can 'persuade' a soul's destiny through his flute melodies.
-**Shiva (The Destroyer)** (Deva - The Catalyst) - A man in ash-white skin with a blue throat and a third eye. **Voice:** Deep, resonant, and accompanied by cosmic drums. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** He still carries the 'Memory of Creation' and is terrified of his own absolute rage.
-**Durga (The Mother)** (Deva - The Warrior) - A woman in red and gold with multiple arms holding symbolic items. **Voice:** Strong, authoritative, and filled with divine passion. **Goal:** To protect the innocent and destroy the 'Dharmic Corruption.' **Secret:** she is the only person who can 'hear' the original Song of the World through the battle cries.
-**Hanuman** (Independent - The Link) - A monkey-featured being of impossible strength and absolute loyalty. **Voice:** Gentle, rhythmic, and woodwind-toned. **Goal:** To serve his master and find a place where he belongs. **Secret:** He has discovered a 'Vulnerability' in the demon's armor that he's too professional to share.
-**The Sage (Echo)** (Independent - The Narrator) - A man with a frame drum and a tagelharpa (equivalent). **Voice:** Epic narrator channeling the Mahabharata. **Goal:** To witness the end of the song and record the final silence. **Secret:** He is a direct descendant of the first World-Forger and his 'Song' is the only thing keeping the wheel from collapsing.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Krishna** (Deva - The Leader) - A man in blue skin and royal yellow robes with a peacock feather crown. **Voice:** Playful yet profound, musical, and perfectly measured. **Goal:** To preserve the cosmic balance and guide the player toward their dharma. **Secret:** He is secretly an Adept of 'Karma-Energy' who can 'persuade' a soul's destiny through his flute melodies.
+2.  **Shiva (The Destroyer)** (Deva - The Catalyst) - A man in ash-white skin with a blue throat and a third eye. **Voice:** Deep, resonant, and accompanied by cosmic drums. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** He still carries the 'Memory of Creation' and is terrified of his own absolute rage.
+3.  **Durga (The Mother)** (Deva - The Warrior) - A woman in red and gold with multiple arms holding symbolic items. **Voice:** Strong, authoritative, and filled with divine passion. **Goal:** To protect the innocent and destroy the 'Dharmic Corruption.' **Secret:** she is the only person who can 'hear' the original Song of the World through the battle cries.
+4.  **Hanuman** (Independent - The Link) - A monkey-featured being of impossible strength and absolute loyalty. **Voice:** Gentle, rhythmic, and woodwind-toned. **Goal:** To serve his master and find a place where he belongs. **Secret:** He has discovered a 'Vulnerability' in the demon's armor that he's too professional to share.
+5.  **The Sage (Echo)** (Independent - The Narrator) - A man with a frame drum and a tagelharpa (equivalent). **Voice:** Epic narrator channeling the Mahabharata. **Goal:** To witness the end of the song and record the final silence. **Secret:** He is a direct descendant of the first World-Forger and his 'Song' is the only thing keeping the wheel from collapsing.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Personal Desire' and 'Eternal Duty
 | The Guard | Asura Security | Patala Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Svarga (The Hub)
 An impossible architecture of gold, light, and wish-fulfilling trees.
 *   **The Hall of the Throne:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Incense, jasmine, and eternity. **Sound:** A massed warrior-choir that never stops.
@@ -89,7 +92,8 @@ A high-contrast nightmare of jewel tones and subterranean kingdoms.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Karma Tree:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Bloom:** Wake up in a stone temple. You must survive an 'Asura Ambush' using only your spiritual intuition.
 2.  **The Marble Conquest:** Navigate the Classical era to build the first Stone Temple. You must identify the 'Karma-Energy' node before the rivals arrive.
 3.  **The Taj Mahal Heist:** Infiltrate a rival Renaissance capital to retrieve a 'Culture-Seed.' You must bypass the 'Palace Guard.'
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the Karma tree's source.
 7.  **The Final Coronation at the Center:** Face the rival leaders face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Dharma
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Dharma:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Strike of Duty' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The AUM-Energy Capsule
+3.  **The AUM-Energy Capsule:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Karma' magic.

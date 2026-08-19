@@ -18,7 +18,8 @@ The World is not a floor; it's a suit that's being tailored by an invisible hand
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Silicon Valley Enthusiasts.' It is about the 'Human Resilience' of the spirit—the realization that refinement is the ultimate form of brutality. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal MV (equivalent)?' It explores the bespoke beauty of the refined brutality, the pride in mastering a gentleman's duel, and the perfect, resonant voice of a narrator who understands that every second is a gift. The players are the kingsmen and statesmen who must navigate the global conspiracies and the intensity of a single-take ultraviolence nightmare to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Kingsman Agency (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Lord Arthur (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Silicon V
 **Asset:** Reality-tearing blade-legs, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Lord Arthur** (Order - The Lead) - A man whose voice is perfect received pronunciation and unflappable. **Voice:** Posh strings, military drums, clear and honest. **Goal:** To protect the 'Kingsman Legacy' and guide the new gentlemen. **Secret:** He is secretly an Adept of 'Bespoke-Energy' who can 'rewrite' a soul's destiny through his etiquette lessons.
-**Richmond Valentine** (Shadow - The Villain) - A being whose voice is lisp-affected and unsettlingly pleasant. **Voice:** Samuel L. Jackson energy, charismatic begun, manic intensity later. **Goal:** To consolidate all global talent into a single 'High-Tech Chrome' network under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Merlin** (Independent - The Catalyst) - A man whose voice is Scottish, pragmatic, and warm underneath. **Voice:** Urban, modern, and witty banter. **Goal:** To find his lost partner and stop the agency-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the tailored clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Valentine's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient gentleman in practical bespoke gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the stitch ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lord Arthur** (Order - The Lead) - A man whose voice is perfect received pronunciation and unflappable. **Voice:** Posh strings, military drums, clear and honest. **Goal:** To protect the 'Kingsman Legacy' and guide the new gentlemen. **Secret:** He is secretly an Adept of 'Bespoke-Energy' who can 'rewrite' a soul's destiny through his etiquette lessons.
+2.  **Richmond Valentine** (Shadow - The Villain) - A being whose voice is lisp-affected and unsettlingly pleasant. **Voice:** Samuel L. Jackson energy, charismatic begun, manic intensity later. **Goal:** To consolidate all global talent into a single 'High-Tech Chrome' network under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Merlin** (Independent - The Catalyst) - A man whose voice is Scottish, pragmatic, and warm underneath. **Voice:** Urban, modern, and witty banter. **Goal:** To find his lost partner and stop the agency-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the tailored clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Valentine's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient gentleman in practical bespoke gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the stitch ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Silicon V
 | The Monk | Ancient Worshipper | Bespoke Temple | Spends all his time painting murals of the 'Stitch's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Savile Row (The Hub)
 A grand stone monument to architecture, tailors, and warm firelight.
 *   **The Fitting Room:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and expensive wool. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and high-tech chrome.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Refinement Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a tailor shop. You must survive your first 'Valentine Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Arthur Run:** Navigate the traditional territories to find Lord Arthur. You must identify the 'Bespoke-Energy' node before the rivals arrive.
 3.  **The Umbrella Heist:** Infiltrate the Valentine HQ to retrieve a stolen 'Stitch-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Richmond Valentine face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Refinement (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Refinement (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Bespoke Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Stitch Signet (Equivalent)
+2.  **The Stitch Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the stitch seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Bespoke-Energy Capsule (Equivalent)
+3.  **The Bespoke-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Silicon' magic.

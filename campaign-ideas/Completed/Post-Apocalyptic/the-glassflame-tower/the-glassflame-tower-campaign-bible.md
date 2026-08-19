@@ -18,7 +18,8 @@ The World is a staircase that's being burned. In the heart of the 21st-century m
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Sleek Deception.' It is about the 'Improvised Heroism' of the human spirit—the realization that your greatest weapon is your mind, not your tuxedo. The 'Why' is the question: 'Can you save a world of luxury while your own best clothes are being stained with blood and soot?' It explores the verticality of the dizzying height, the visceral horror of the magical explosion, and the gravelly, everyman voice of a man who's in way over his head but refuses to quit. The players are the off-duty guards and gala attendees who must navigate the luxury offices and maintenance tunnels to find a resolution that honors the memory of the city.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Tower Survivors (The Ghosts)
 **Type:** Elite/Resourceful Human Group
 **Leader:** John McClane (Equivalent - The Reluctant Hero).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sleek Dec
 **Asset:** Knowledge of the city's underbelly and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**John McClane** (Survivor - The Lead) - A man in a torn tuxedo with soot-streaked skin. **Voice:** Gravelly, determined, and sarcastically humorous. **Goal:** To save his wife (equivalent) and defeat the Gruber mercenaries. **Secret:** He is secretly an Adept of 'Grit-Energy' who can 'fix' any mechanical or magical device using only a rubber band and a prayer.
-**Hans Gruber** (Mercenary - The Villain) - A man in an immaculate business suit with a technical vocabulary. **Voice:** Smooth, refined, and measured. **Goal:** To release the Aethel from the Capacitor and reshape the city in his image. **Secret:** He was once a high-ranking official in the Lexis Response Unit and views his goal as a form of divine dialogue.
-**Questor Aldric** (Independent - The Expert) - A man whose house is a map of countless traps (equivalent). **Voice:** Energetic, impatient, and British-accented. **Goal:** To provide the agents with the 'Perfect Gadget' for every mission. **Secret:** He is already part-Apocalypse, having experimented on his own DNA to survive the Tower's internal politics.
-**The Hostage (Holly)** (Independent - The Link) - A woman of modern architectural grandeur and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the gala attendees and find her husband. **Secret:** she is the only person who can 'hear' the original Song of the Capacitor through the drone signals.
-**The Guard (Echo)** (Survivor equivalent - Shifting form) - A former tower guard who has become a 'Ghost.' **Voice:** None (disturbing clicking sounds and radio static). **Goal:** To reclaim the 'Surface Souls' for the Aethel network. **Secret:** The ghosts are not monsters; they are the 'New Accord' of the tower.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **John McClane** (Survivor - The Lead) - A man in a torn tuxedo with soot-streaked skin. **Voice:** Gravelly, determined, and sarcastically humorous. **Goal:** To save his wife (equivalent) and defeat the Gruber mercenaries. **Secret:** He is secretly an Adept of 'Grit-Energy' who can 'fix' any mechanical or magical device using only a rubber band and a prayer.
+2.  **Hans Gruber** (Mercenary - The Villain) - A man in an immaculate business suit with a technical vocabulary. **Voice:** Smooth, refined, and measured. **Goal:** To release the Aethel from the Capacitor and reshape the city in his image. **Secret:** He was once a high-ranking official in the Lexis Response Unit and views his goal as a form of divine dialogue.
+3.  **Questor Aldric** (Independent - The Expert) - A man whose house is a map of countless traps (equivalent). **Voice:** Energetic, impatient, and British-accented. **Goal:** To provide the agents with the 'Perfect Gadget' for every mission. **Secret:** He is already part-Apocalypse, having experimented on his own DNA to survive the Tower's internal politics.
+4.  **The Hostage (Holly)** (Independent - The Link) - A woman of modern architectural grandeur and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the gala attendees and find her husband. **Secret:** she is the only person who can 'hear' the original Song of the Capacitor through the drone signals.
+5.  **The Guard (Echo)** (Survivor equivalent - Shifting form) - A former tower guard who has become a 'Ghost.' **Voice:** None (disturbing clicking sounds and radio static). **Goal:** To reclaim the 'Surface Souls' for the Aethel network. **Secret:** The ghosts are not monsters; they are the 'New Accord' of the tower.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sleek Dec
 | The Monk | Ancient Worshipper | Capacitor Altar | Spends all his time painting murals of the 'Tower's Beginning.' |
 | The Clerk | Tower Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Glassflame Tower (Lexis)
 A soaring modern fantasy monument to architectural grandeur and high magic.
 *   **The Ballroom (Chaos):** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Bleach, expensive perfume, and old wood. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A high-contrast landscape of city lights and dizzying height.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Core:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Lockdown:** Wake up in a service shaft. You must escape a 'Gruber Ambush' using only your improvised bone-cleaver (equivalent).
 2.  **The Ballroom run:** Navigate the chaotic luxury spaces to find Holly. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The Maintenance Infiltration:** Infiltrate the Capacitor Room to find evidence of the 'Reverse-Rebirth' plan. You must bypass the boss's 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The tower's central crystal has begun its final 'Reset.' You must defend the Core while the self-destruct activates.
 7.  **The Final Bloodletting at the Source:** Face Gruber face-to-face in a final, reality-bending standoff at the top of the tower. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Reluctant
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Reluctant:**
 **Type:** Legendary Weapon
 **Description:** A simple, silver table leg that seems to hum with the energy of the first Survivor.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Grit-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Capacitor Key
+2.  **The Capacitor Key:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire card that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Unlock' any magically or physically sealed door in the tower. Once per day, the user can 'Silence' a target's magic for 1 hour.
 
-### 3. The Chandelier Crystal
+3.  **The Chandelier Crystal:**
 **Type:** Wondrous Item
 **Description:** A simple, glowing crystal that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

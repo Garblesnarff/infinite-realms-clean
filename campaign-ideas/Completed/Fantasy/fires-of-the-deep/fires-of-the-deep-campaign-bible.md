@@ -18,7 +18,8 @@ The World is not a floor; it's a boiler that's being played by an ancient firebi
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Elemental Fury.' It is about the 'Human Resilience' of the spirit—the realization that you need the destruction of the fire to appreciate the renewal of the ash. The 'Why' is the question: 'Can you remain human when the universe itself is trying to turn you into a white-hot spark in an eternal bird?' It explores the disaster beauty of the volcanic cinema, the pride in maintaining a forge, and the roaring, resonant voice of a phoenix who understands that every burn is a birth. The players are the smiths and seekers who must navigate the reality-breaks and the intensity of a volcanic shift to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Forge-Masters (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** Dr. Stoneheart (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Elemental
 **Asset:** Dark voids, reality-tearing pyroclastic flows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Dr. Stoneheart** (Order - The Lead) - An urgent scientist whose voice is haunted and resonant. **Voice:** Urgent, academic, slight volcanic tremor. **Goal:** To protect the 'Humanity' of the chain and guide the new smiths. **Secret:** He is secretly an Adept of 'Magma-Energy' who can 'rewrite' a soul's destiny through his geological reports.
-**Pyralis** (Shadow - The Villain) - A man whose voice is serene and fanatic. **Voice:** Fire-crackle voice, calm but insane ambition. **Goal:** To awaken the Phoenix and merge all reality into the Fire Plane. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Ash Phoenix** (Independent - The Catalyst) - A miles-wide firebird whose voice is roaring flames speaking words. **Voice:** Primordial power, overwhelming, multiple voices in unison. **Goal:** To rebirth the world and find a worthy successor. **Secret:** she is the only person who can 'hear' the original Song of the World through the eruption static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless heat-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Phoenix's heart that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical volcanic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the fire ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Dr. Stoneheart** (Order - The Lead) - An urgent scientist whose voice is haunted and resonant. **Voice:** Urgent, academic, slight volcanic tremor. **Goal:** To protect the 'Humanity' of the chain and guide the new smiths. **Secret:** He is secretly an Adept of 'Magma-Energy' who can 'rewrite' a soul's destiny through his geological reports.
+2.  **Pyralis** (Shadow - The Villain) - A man whose voice is serene and fanatic. **Voice:** Fire-crackle voice, calm but insane ambition. **Goal:** To awaken the Phoenix and merge all reality into the Fire Plane. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Ash Phoenix** (Independent - The Catalyst) - A miles-wide firebird whose voice is roaring flames speaking words. **Voice:** Primordial power, overwhelming, multiple voices in unison. **Goal:** To rebirth the world and find a worthy successor. **Secret:** she is the only person who can 'hear' the original Song of the World through the eruption static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless heat-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Phoenix's heart that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical volcanic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the fire ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Elemental
 | The Monk | Ancient Worshipper | Fire Temple | Spends all his time painting murals of the 'Spark's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Emberfall (The Hub)
 A grand subterranean monument to warm earth tones and mountain fire.
 *   **The Forge-Hall:** A site of 'Refined Formality' and harsh thermal rituals. **Smell:** Sulfur, vanilla, and old stone. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and elemental fire.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Fire Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in Emberfall. You must survive your first 'Eruption Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Stoneheart Run:** Navigate the traditional territories to find Dr. Stoneheart. You must identify the 'Magma-Energy' node before the rivals arrive.
 3.  **The Ash Heist:** Infiltrate the Phoenix HQ to retrieve a stolen 'Forge-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Pyralis face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Magma (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Magma (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Eruption Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Phoenix Signet (Equivalent)
+2.  **The Phoenix Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the phoenix seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Magma-Energy Capsule (Equivalent)
+3.  **The Magma-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Eruption' magic.

@@ -18,7 +18,8 @@ The World didn't run out of water; it was stolen by a logo. In the heart of the 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Sterile Oppression.' It is about the 'Stylish Rebellion' of the human spirit—the realization that chaos is a virtue when order is a crime. The 'Why' is the question: 'How much are you willing to burn to find out who you really are?' It explores the over-the-top action of the weaponized tank, the visceral horror of the corporate enforcer, and the energetic, irreverent voice of a woman who has already seen the end of the world and found it 'interesting.' The players are the Tank Girls and Rippers who must navigate the subculture politics and the intensity of a tank battle to find a truth that stays fabulous in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Wasteland Rebels (The Tank Girls)
 **Type:** Anarchist/Punk Resistance Network
 **Leader:** Tank Girl (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sterile O
 **Asset:** Knowledge of the city's mundane secrets and a refusal to participate in the 'Vibe-War.'
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Tank Girl** (Rebel - The Leader) - A woman with a mohawk, tattoos, and dual pistols. **Voice:** Energetic, irreverent, and gleeful. **Goal:** To destroy W&P and rule the Wasteland through superior firepower. **Secret:** She is a high-level Adept of 'Punk-Energy' who can 'persuade' a tank to leap over dunes through her sheer attitude.
-**Kesslee** (W&P - The Villain) - A man in an immaculate business suit with increasingly cybernetic chrome implants. **Voice:** Smooth, manipulative, and hiding a monstrosity. **Goal:** To control the world's water and erase all 'Variables' (including Tank Girl). **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Great Drought.
-**T-Saint** (Ripper - The Expert) - An anthropomorphic kangaroo warrior in military gear. **Voice:** Resonant, noble, and filled with martial arts wisdom. **Goal:** To protect his people and find a place where Rippers belong. **Secret:** He was the first human to 'sync' with the kangaroo DNA and his 'Loyalty' is his greatest weapon.
-**Jet Girl** (Rebel - The Catalyst) - A woman in a tank top with a pilot's helmet and technical goggles. **Voice:** Fast-paced, technical, and slightly raspy. **Goal:** To fix the rebels' tech and find her lost father. **Secret:** She has discovered a 'Vulnerability' in the W&P drone signals that she can only access while traveling at 100 mph.
-**The newsie (Echo)** (Independent - The Narrator) - A renegade radio DJ broadcasting from a hidden bunker. **Voice:** Young, energetic, and slightly raspy. **Goal:** To chronicle the rebellion's fabulous survival and keep the vibes high. **Secret:** He is a direct descendant of the first Architect and his 'Pirate Radio' is the only thing keeping the quarantine field from collapsing.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Tank Girl** (Rebel - The Leader) - A woman with a mohawk, tattoos, and dual pistols. **Voice:** Energetic, irreverent, and gleeful. **Goal:** To destroy W&P and rule the Wasteland through superior firepower. **Secret:** She is a high-level Adept of 'Punk-Energy' who can 'persuade' a tank to leap over dunes through her sheer attitude.
+2.  **Kesslee** (W&P - The Villain) - A man in an immaculate business suit with increasingly cybernetic chrome implants. **Voice:** Smooth, manipulative, and hiding a monstrosity. **Goal:** To control the world's water and erase all 'Variables' (including Tank Girl). **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Great Drought.
+3.  **T-Saint** (Ripper - The Expert) - An anthropomorphic kangaroo warrior in military gear. **Voice:** Resonant, noble, and filled with martial arts wisdom. **Goal:** To protect his people and find a place where Rippers belong. **Secret:** He was the first human to 'sync' with the kangaroo DNA and his 'Loyalty' is his greatest weapon.
+4.  **Jet Girl** (Rebel - The Catalyst) - A woman in a tank top with a pilot's helmet and technical goggles. **Voice:** Fast-paced, technical, and slightly raspy. **Goal:** To fix the rebels' tech and find her lost father. **Secret:** She has discovered a 'Vulnerability' in the W&P drone signals that she can only access while traveling at 100 mph.
+5.  **The newsie (Echo)** (Independent - The Narrator) - A renegade radio DJ broadcasting from a hidden bunker. **Voice:** Young, energetic, and slightly raspy. **Goal:** To chronicle the rebellion's fabulous survival and keep the vibes high. **Secret:** He is a direct descendant of the first Architect and his 'Pirate Radio' is the only thing keeping the quarantine field from collapsing.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sterile O
 | The Monk | Ancient Worshipper | Tank Altar | Spends all his time painting murals of the 'Rebellion's Beginning.' |
 | The Clerk | W&P Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Burnside Bridge (The Hub)
 A high-contrast landscape of vibrant graffiti and industrial grays.
 *   **The Hub:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Coffee, charcoal smoke, and wet wool. **Sound:** The rhythmic 'roar-roar' of salvaged drones.
@@ -88,7 +91,8 @@ A pristine white monument to corporate arrogance and high-tech weaponry.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Cockpit:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Tank Theft:** Arrive in the Wasteland. You must steal your first W&P tank while maintaining your 'Attitude' level.
 2.  **The Water-Pipe Heist:** Infiltrate a W&P facility to deface a water pipeline. You must use your 'Punk spray paint' without being caught.
 3.  **The Ripper Alliance:** Join T-Saint in a high-stakes escape across the dunes. You must identify the 'Punk-Energy' node before the drones arrive.
@@ -97,18 +101,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Agency face-to-face in a final, reality-bending standoff at the central bunker. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Anarchy
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Anarchy:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Tank.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Punk-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The W&P Master Key
+2.  **The W&P Master Key:**
 **Type:** Artifact (Focus)
 **Description:** A small, silver key that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Unlock' any magically or physically sealed door in the Wasteland. Once per day, the user can 'Silence' a drone's signal.
 
-### 3. The Pink Spray Paint
+3.  **The Pink Spray Paint:**
 **Type:** Wondrous Item
 **Description:** A can of hot pink paint that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

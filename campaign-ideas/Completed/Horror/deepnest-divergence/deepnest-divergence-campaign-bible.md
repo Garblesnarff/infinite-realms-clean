@@ -18,7 +18,8 @@ The World is a hive that has outgrown its creators. Long ago, the 'Founders of t
 ### The 'Why'
 The central conflict is the struggle between 'Individual Identity' and 'Collective Perfection.' It is about the 'Uncanny Valley' of intelligence in non-human forms—the realization that beauty can be found within the horror of transformation. The 'Why' is the question: 'Can humanity survive the siren call of a perfect, alien evolution?' It explores the living architecture of the hive, the visceral horror of the splitting skin, and the seductive promise of a world where no one is ever alone. The players are the adventurers and survivors who must navigate the clicking tunnels and pulsating chambers to find a truth that doesn't belong to the Swarm.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Broodmother's Children (The Swarm)
 **Type:** Unified Alien Hive-Mind
 **Leader:** Xin'thara (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Individual Identity' and 'Collecti
 **Asset:** Residual humanity, knowledge of the city's underbelly, and a refusal to join the Swarm.
 **Rivals:** All Kingdoms.
 
-## [TAG: NPC_TIER_1]
-**Xin'thara (First Broodmother)** (Swarm - The Leader) - A massive, queen-like being of biomechanical beauty. **Voice:** Thousands of voices speaking in perfect unison. **Goal:** To complete the 'Final Evolution' and merge all life into her children. **Secret:** She was the first human to enter the Deepnest and her 'Maternal' love is a byproduct of her own lost motherhood.
-**Silk-in-Moonlight** (Silkweaver - The Enigma) - A beautiful woman with spider features and flowing silk robes. **Voice:** Telepathic, gentle, and poetic. **Goal:** To experience human emotion through her 'Art' and protect her kingdom. **Secret:** She is secretly an Adept of 'Silk' who can 'rewrite' a soul's memory through her web-patterns.
-**Crimson-Blade** (Thri-kreen - The Warrior) - A mantis-like warrior in crimson-stained chitin. **Voice:** Harsh clicking integrated with direct speech. **Goal:** To prove the martial superiority of the Thri-kreen and find a worthy opponent. **Secret:** This unit is secretly an individualist who values 'Personal Honor' over the collective.
-**Theorem-17** (Formian - The Expert) - An ant-like being who views the world as a formula. **Voice:** Multiple voices in rapid-fire coordination. **Goal:** To standardize the Deepnest and eliminate all variables (including the player). **Secret:** He has discovered a 'Logic Glitch' in the Broodmother's directive that he's too afraid to report.
-**Marcus Thornfield** (Independent - The Link) - A human in mid-transformation with bio-luminescent veins. **Voice:** Human voice with progressive insect undertones. **Goal:** To help his friend (the player) escape the Deepnest or accept the gift. **Secret:** He is already part-Swarm and is feeding the player's movements to Xin'thara.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Xin'thara (First Broodmother)** (Swarm - The Leader) - A massive, queen-like being of biomechanical beauty. **Voice:** Thousands of voices speaking in perfect unison. **Goal:** To complete the 'Final Evolution' and merge all life into her children. **Secret:** She was the first human to enter the Deepnest and her 'Maternal' love is a byproduct of her own lost motherhood.
+2.  **Silk-in-Moonlight** (Silkweaver - The Enigma) - A beautiful woman with spider features and flowing silk robes. **Voice:** Telepathic, gentle, and poetic. **Goal:** To experience human emotion through her 'Art' and protect her kingdom. **Secret:** She is secretly an Adept of 'Silk' who can 'rewrite' a soul's memory through her web-patterns.
+3.  **Crimson-Blade** (Thri-kreen - The Warrior) - A mantis-like warrior in crimson-stained chitin. **Voice:** Harsh clicking integrated with direct speech. **Goal:** To prove the martial superiority of the Thri-kreen and find a worthy opponent. **Secret:** This unit is secretly an individualist who values 'Personal Honor' over the collective.
+4.  **Theorem-17** (Formian - The Expert) - An ant-like being who views the world as a formula. **Voice:** Multiple voices in rapid-fire coordination. **Goal:** To standardize the Deepnest and eliminate all variables (including the player). **Secret:** He has discovered a 'Logic Glitch' in the Broodmother's directive that he's too afraid to report.
+5.  **Marcus Thornfield** (Independent - The Link) - A human in mid-transformation with bio-luminescent veins. **Voice:** Human voice with progressive insect undertones. **Goal:** To help his friend (the player) escape the Deepnest or accept the gift. **Secret:** He is already part-Swarm and is feeding the player's movements to Xin'thara.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Individual Identity' and 'Collecti
 | The Monk | Ancient Worshipper | Heart Altar | Spends all his time painting murals of the 'Beast's Beginning.' |
 | The Clerk | Gut Admin | Headquarters | Only communicates through a rhythmic 'Gut-Punch' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Silk-Gallery (Silkweaver HQ)
 A vast underground chamber with walls of grown chitin and living membrane.
 *   **The Web-Library:** A place of 'Ancient Knowledge' and musical vibrations. **Smell:** Vanilla, old wood, and wet silk. **Sound:** The rhythmic 'click-clack' of weaving mandibles.
@@ -89,7 +92,8 @@ A utilitarian maze of power stations and evolution vats.
 A clinical, white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a narrow, wet tunnel. You must escape a 'Silkweaver Ambush' using only your improvised bone-cleaver.
 2.  **The Silk run:** Navigate the islands of the acidic sea to find Marcus. You must identify the 'Respiration Seed' before the tide rises.
 3.  **The Swarm Infiltration:** Infiltrate the Formian's garden to find evidence of the 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -98,18 +102,19 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Ancient Shovel
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Ancient Shovel:**
 **Type:** Legendary Weapon
 **Description:** A simple, cyan shovel that seems to hum with the power of the Swarm.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Visceral Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Shield of Protection
+2.  **The Shield of Protection:**
 **Type:** Artifact (Shield)
 **Description:** A gold and red shield that pulses with the light of the sun.
 **Mechanics:** Grants the wearer the ability to 'Heal' an ally's biological systems by 50 HP. Once per day, the user can 'Silence' a parasite attack for 1 round.
 
-### 3. The Queen's Chitin Mask
+3.  **The Queen's Chitin Mask:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A mask made of multi-limbed chitin that seems to grant the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.

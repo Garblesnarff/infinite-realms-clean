@@ -18,7 +18,8 @@ The Train is not just a machine; it is a moving microcosm of civilization, hurtl
 ### The 'Why'
 The central conflict is the struggle between 'Vengeance' and 'Justice' in a world that has failed to provide either. It is about the 'Confined Elegance' of the human condition—the realization that even the most sophisticated people are capable of darkness when pushed far enough. The 'Why' is the question: 'Can a crime be justified if the victim was a monster?' It explores the tragedy of the Armstrong family, the intricate geometric designs of the Art Deco era, and the cold, isolating power of the snow. The players are the detectives and observers who must piece together the shattered pieces of twelve lives to find a resolution that satisfies both their 'little gray cells' and their conscience.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Passengers (The Suspects)
 **Type:** Diverse Ensemble Cast
 **Leader:** Princess Dragomiroff (Socially) and Poirot (Intellectually).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Vengeance' and 'Justice' in a worl
 **Asset:** Logical deduction, an eye for detail, and a refusal to accept the impossible.
 **Rivals:** The Deception of the Suspects.
 
-## [TAG: NPC_TIER_1]
-**Hercule Poirot** (Independent - Master Detective) - Belgian detective with an immaculate waxed mustache. **Voice:** Belgian-accented, precise, and slightly pompous. **Goal:** To solve the murder using his 'little gray cells.' **Secret:** He is deeply troubled by the moral implications of this specific case and is questioning his own belief in absolute justice.
-**Princess Dragomiroff** (Suspect - Aristocratic Hauteur) - An elderly Russian noble with a terrifying presence. **Voice:** Cold, authoritative, and deeply British upper-class. **Goal:** To protect the secret of the Armstrong connection at all costs. **Secret:** She was the godmother of the murdered Armstrong child.
-**Colonel Arbuthnot** (Suspect - Military Bearing) - A rigid British officer returning from India. **Voice:** Gruff, disciplined, and strictly by-the-book. **Goal:** To fulfill his duty and protect Mary Debenham. **Secret:** He was a close friend of Colonel Armstrong and views the murder as an execution.
-**Mary Debenham** (Suspect - Nervous Gentility) - A governess trying to stay composed. **Voice:** Precise, soft, and perpetually anxious. **Goal:** To escape the train and her past without being noticed. **Secret:** She was the governess in the Armstrong household and is the tactical 'brain' behind the plan.
-**Ratchett (Cassetti)** (Criminal - The Victim) - A wealthy American with a dark past. **Voice:** Gruff, paranoid, and practical. **Goal:** To buy his way out of the consequences of his crimes. **Secret:** He knew he was being hunted and tried to hire Poirot for protection.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Hercule Poirot** (Independent - Master Detective) - Belgian detective with an immaculate waxed mustache. **Voice:** Belgian-accented, precise, and slightly pompous. **Goal:** To solve the murder using his 'little gray cells.' **Secret:** He is deeply troubled by the moral implications of this specific case and is questioning his own belief in absolute justice.
+2.  **Princess Dragomiroff** (Suspect - Aristocratic Hauteur) - An elderly Russian noble with a terrifying presence. **Voice:** Cold, authoritative, and deeply British upper-class. **Goal:** To protect the secret of the Armstrong connection at all costs. **Secret:** She was the godmother of the murdered Armstrong child.
+3.  **Colonel Arbuthnot** (Suspect - Military Bearing) - A rigid British officer returning from India. **Voice:** Gruff, disciplined, and strictly by-the-book. **Goal:** To fulfill his duty and protect Mary Debenham. **Secret:** He was a close friend of Colonel Armstrong and views the murder as an execution.
+4.  **Mary Debenham** (Suspect - Nervous Gentility) - A governess trying to stay composed. **Voice:** Precise, soft, and perpetually anxious. **Goal:** To escape the train and her past without being noticed. **Secret:** She was the governess in the Armstrong household and is the tactical 'brain' behind the plan.
+5.  **Ratchett (Cassetti)** (Criminal - The Victim) - A wealthy American with a dark past. **Voice:** Gruff, paranoid, and practical. **Goal:** To buy his way out of the consequences of his crimes. **Secret:** He knew he was being hunted and tried to hire Poirot for protection.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Vengeance' and 'Justice' in a worl
 | Count Andrenyi | Suspect | Dining Car | Only speaks to defend his wife's honor, even if she's just been asked for the salt. |
 | Countess Andrenyi | Suspect | Compartment 12 | Her hair smells like expensive French perfume and old gunpowder. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Express (Art Deco Luxury)
 A masterpiece of polished mahogany, brass fixtures, and burgundy velvet.
 *   **The Dining Car:** Long tables with white linens and crystal. **Smell:** Coffee, expensive cigars, and snow. **Sound:** The rhythmic thrum of the engine and the clink of silver.
@@ -89,7 +92,8 @@ An endless, isolating expanse of white.
 A heartbreaking, desaturated memory of a happy home.
 *   **The Nursery:** A room filled with toys and the scent of lavender. **Visual:** A single, broken doll on the floor.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Dead Passenger:** Discover Ratchett's body in his cabin. Secure the scene and find the first three pieces of contradictory evidence.
 2.  **The Twelve Interviews:** Question each of the twelve suspects in the Dining Car. Identify the 'Class-Based lie' in each of their testimonies.
 3.  **The Snowdrift Mystery:** Someone was seen in the corridor during the night. Track the footprints in the snow outside before they are covered.
@@ -98,18 +102,19 @@ A heartbreaking, desaturated memory of a happy home.
 6.  **The Moral Choice:** Poirot offers two solutions: one legal, one 'Just.' You must decide which story to tell the police when the snow clears.
 7.  **The Final Whistle:** The train begins to move again. Deal with the emotional fallout of the resolution as the Express reaches its destination.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Poirot's Pocket Watch
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Poirot's Pocket Watch:**
 **Type:** Wondrous Item
 **Description:** A perfectly balanced gold watch that never loses a second.
 **Mechanics:** Grants the user the ability to 'Rewind' a single 6-second moment once per day to observe a detail they missed.
 
-### 2. The Armstrong Handkerchief
+2.  **The Armstrong Handkerchief:**
 **Type:** Wondrous Item
 **Description:** A fine, cambric handkerchief with an embroidered 'H.'
 **Mechanics:** When held, the user can 'feel' the strongest emotion currently in the room (Grief, Fear, or Vengeance).
 
-### 3. The Master Key of the Express
+3.  **The Master Key of the Express:**
 **Type:** Artifact (Gatestone)
 **Description:** A heavy, brass key that opens every door on the train.
 **Mechanics:** Allows the user to enter any compartment without making a check and grants advantage on all Intelligence (Investigation) checks inside the train.

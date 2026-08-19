@@ -18,7 +18,8 @@ The World is not a floor; it's a living organism that's being consumed by a para
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Doom.' It is about the 'Heroic Resilience' of the human spirit—the realization that you can change the future if you have the heart to fight the past. The 'Why' is the question: 'Can you remain human when the very timeline of your existence is being consumed by a god from the stars?' It explores the diverse beauty of the eras, the pride in mastering the portals, and the warm, timeless voice of a guru who understands that every second is a gift. The players are the heroes and gurus who must navigate the reality-breaks and the intensity of a portal shift to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Chrono-Heroes (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Gaspar (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Rusted metal, reality-tearing toxic clouds, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Gaspar** (Order - The Lead) - An ancient man whose voice is warm, timeless, and resonant. **Voice:** Guru of Time, ancient and youthful. **Goal:** To protect the 'End of Time' and guide the new heroes. **Secret:** He is secretly an Adept of 'Chrono-Energy' who can 'rewrite' a soul's destiny through his measured words.
-**Queen Zeal** (Shadow - The Villain) - A woman of crystalline perfection and insane ambition. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To harness the 'Mammon Machine' and achieve eternal life through Lavos. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Magus** (Independent - The Catalyst) - A man whose voice is cold, sharp, and street-smart. **Voice:** Dark, flowing cloak, determined and world-weary. **Goal:** To stop Lavos and find his lost sister. **Secret:** she is the only person who can 'hear' the original Song of the World through the temporal static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless time-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Lavos's shell that he's too professional to share.
-**The Hero (Ghost)** (Independent - The Lead) - A resilient warrior in practical 16-bit gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the portal ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Gaspar** (Order - The Lead) - An ancient man whose voice is warm, timeless, and resonant. **Voice:** Guru of Time, ancient and youthful. **Goal:** To protect the 'End of Time' and guide the new heroes. **Secret:** He is secretly an Adept of 'Chrono-Energy' who can 'rewrite' a soul's destiny through his measured words.
+2.  **Queen Zeal** (Shadow - The Villain) - A woman of crystalline perfection and insane ambition. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To harness the 'Mammon Machine' and achieve eternal life through Lavos. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Magus** (Independent - The Catalyst) - A man whose voice is cold, sharp, and street-smart. **Voice:** Dark, flowing cloak, determined and world-weary. **Goal:** To stop Lavos and find his lost sister. **Secret:** she is the only person who can 'hear' the original Song of the World through the temporal static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless time-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Lavos's shell that he's too professional to share.
+5.  **The Hero (Ghost)** (Independent - The Lead) - A resilient warrior in practical 16-bit gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the portal ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Chrono Temple | Spends all his time painting murals of the 'Sequence's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Kingdom of Zeal (The Hub)
 A grand floating monument to crystalline architecture and magical machinery.
 *   **The Mammon Room:** A site of 'Refined Formality' and harsh magical rituals. **Smell:** Ozone, vanilla, and old wood. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and temporal energy.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Chrono Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the fair. You must survive your first 'Zeal Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Gaspar Run:** Navigate the traditional territories to find Gaspar. You must identify the 'Chrono-Energy' node before the rivals arrive.
 3.  **The Mammon Heist:** Infiltrate the Kingdom of Zeal to retrieve a stolen 'Chronosphere-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Queen Zeal face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Chrono (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Chrono (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Epoch Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Chronosphere Signet (Equivalent)
+2.  **The Chronosphere Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the chronosphere seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Chrono-Energy Capsule (Equivalent)
+3.  **The Chrono-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Portal' magic.

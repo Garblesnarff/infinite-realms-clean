@@ -18,7 +18,8 @@ The World is a giant, chaotic puzzle that most people are content to ignore. But
 ### The 'Why'
 The central conflict is the struggle for 'Order' in a world of absolute chaos. It is about the 'Cerebral Grandeur' of the human mind—the realization that intelligence is the most powerful weapon in the universe. The 'Why' is the question: 'Can logic truly prevail in a world where emotion and greed are the primary drivers of human behavior?' It explores the cluttered intimacy of Baker Street, the grimy docks of the underworld, and the cold, mathematical precision of 'The Spider.' The players are the detectives and observers who must use their magnifying glasses, chemistry equipment, and 'little gray cells' to find a resolution that is as elegant as it is just.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Baker Street Irregulars (The Informants)
 **Type:** Street-Level Intelligence Network
 **Leader:** Wiggins (A street-smart boy with a whistle).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Order' in a world of absolute chaos. I
 **Asset:** Stolen goods, illegal fighting rings, and the darkest secrets of the London fog.
 **Rivals:** Scotland Yard.
 
-## [TAG: NPC_TIER_1]
-**Sherlock Holmes** (Independent - Master Detective) - A man with a distinctive silhouette and a passion for the work. **Voice:** Precise, analytical, and clipped. **Goal:** To solve the 'impossible' problems and win the Great Game. **Secret:** He is secretly addicted to the adrenaline of the chase and is terrified of a world without a mystery to solve.
-**Dr. John Watson** (Independent - The Anchor) - A retired army doctor in practical military fashion. **Voice:** Warm, reliable, and British. **Goal:** To record the detective's successes and keep him grounded in reality. **Secret:** He suffers from chronic pain from his time in the Afghan war, which he masks with his dedication to the work.
-**Professor Moriarty** (Criminal - The Spider) - An impeccably dressed, professorial man with cold, calculating eyes. **Voice:** Soft, cultured, and mathematically precise. **Goal:** To control the world through the perfection of crime. **Secret:** He views the detective as his only peer and is actually bored by anyone else.
-**Inspector Lestrade** (Law Enforcement - Weary Detective) - The Yard's best man, which isn't saying much. **Voice:** Gruff, energetic, and slightly defensive. **Goal:** To do his duty and get the credit for the arrest. **Secret:** He knows he could never solve a case without Baker Street and is eternally grateful for the 'help.'
-**Irene Adler** (Independent - The Woman) - An adventuress who once outwitted the detective. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To live her life on her own terms and stay one step ahead of the law. **Secret:** She is the only person the detective has ever truly loved, though he would never admit it.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Sherlock Holmes** (Independent - Master Detective) - A man with a distinctive silhouette and a passion for the work. **Voice:** Precise, analytical, and clipped. **Goal:** To solve the 'impossible' problems and win the Great Game. **Secret:** He is secretly addicted to the adrenaline of the chase and is terrified of a world without a mystery to solve.
+2.  **Dr. John Watson** (Independent - The Anchor) - A retired army doctor in practical military fashion. **Voice:** Warm, reliable, and British. **Goal:** To record the detective's successes and keep him grounded in reality. **Secret:** He suffers from chronic pain from his time in the Afghan war, which he masks with his dedication to the work.
+3.  **Professor Moriarty** (Criminal - The Spider) - An impeccably dressed, professorial man with cold, calculating eyes. **Voice:** Soft, cultured, and mathematically precise. **Goal:** To control the world through the perfection of crime. **Secret:** He views the detective as his only peer and is actually bored by anyone else.
+4.  **Inspector Lestrade** (Law Enforcement - Weary Detective) - The Yard's best man, which isn't saying much. **Voice:** Gruff, energetic, and slightly defensive. **Goal:** To do his duty and get the credit for the arrest. **Secret:** He knows he could never solve a case without Baker Street and is eternally grateful for the 'help.'
+5.  **Irene Adler** (Independent - The Woman) - An adventuress who once outwitted the detective. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To live her life on her own terms and stay one step ahead of the law. **Secret:** She is the only person the detective has ever truly loved, though he would never admit it.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Order' in a world of absolute chaos. I
 | The Pilot | Hansom Cab Driver | London Streets | Can navigate through the thickest fog by the sound of the cobbles. |
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while eating a sandwich. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### 221B Baker Street
 A cluttered apartment overflowing with evidence, chemistry equipment, and experiments.
 *   **The Sitting Room:** A forest of books, newspapers, and red string connecting clues. **Smell:** Tobacco, chemical reagents, and old paper. **Sound:** The rhythmic scratching of a violin or a quill.
@@ -90,7 +93,8 @@ A grimy, dangerous sector shrouded in atmospheric fog.
 A dramatic, foggy waterfall that serves as the setting for the final duel.
 *   **The Precipice:** A narrow, dangerous ledge where the Fly and the Spider meet. **Visual:** Blue-white light reflecting off the mist.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **A Study in Deduction:** Your first day at Baker Street. You must solve a 'random' murder in a locked room using only a magnifying glass and your 'Analytical Eye.'
 2.  **The Irregulars' Trail:** Use the Baker Street Irregulars to track a Moriarty assassin through the London docks. You must navigate the fog without being detected.
 3.  **The Mathematical Heist:** Someone has stolen a set of high-society blackmail letters. The thief left no fingerprints, only a series of strange equations.
@@ -99,18 +103,19 @@ A dramatic, foggy waterfall that serves as the setting for the final duel.
 6.  **The Reichenbach Paradox:** You are accused of aiding Moriarty. You must prove your own innocence in a trial presided over by the British Government.
 7.  **The Final Deduction:** A face-to-face standoff with Professor Moriarty at the heart of his syndicate. The truth is about to be revealed—can you solve the formula for the perfect crime?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Magnifying Glass of Truth
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Magnifying Glass of Truth:**
 **Type:** Artifact Focus
 **Description:** A handheld lens that hums with the power of the first Master Detective.
 **Mechanics:** Grants the user +5 to all Intelligence (Investigation) and Wisdom (Insight) checks. Once per day, the user can 'See' a hidden clue that is otherwise invisible to human eyes.
 
-### 2. The Baker Street Violin
+2.  **The Baker Street Violin:**
 **Type:** Wondrous Item
 **Description:** A melancholic and haunting instrument that seems to resonate with the detective's mind.
 **Mechanics:** The user can play the violin to gain 'Cerebral Grandeur' for 1 hour, granting advantage on all analytical checks.
 
-### 3. Moriarty's Formula
+3.  **Moriarty's Formula:**
 **Type:** Wondrous Item (Cursed)
 **Description:** A single sheet of paper containing a series of perfect, cold equations.
 **Mechanics:** Grants the user 'Mathematical Precision'—the ability to predict an enemy's move with 100% accuracy once per day. **Curse:** The user begins to see the world in 'Foggy Grays' and loses all capacity for emotion.

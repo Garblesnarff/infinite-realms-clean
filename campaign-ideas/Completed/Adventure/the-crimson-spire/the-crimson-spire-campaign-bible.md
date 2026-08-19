@@ -173,27 +173,27 @@ The Spire is a pressure cooker. The "Sealing" isn't just a tactical move by Tama
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Rat-Face | Scout | Floor 3 | Chews on electrical wires. |
-| Big Sal | Bouncer | Floor 5 | Only hits people with his left hand. |
-| Twitch | Chemist | Floor 21 | Vibrates constantly from overdose. |
-| Old Nan | Civilian | Floor 8 | Knits with human hair. |
-| Gutter | Thug | Floor 2 | Wears a bucket on foot. |
-| Slick | Dealer | Floor 12 | Skin is naturally oily/slippery. |
-| Echo | Lookout | Stairwell | Repeats last word said to him. |
-| Burnout | Mage | Floor 19 | Casts fire spells when he sneezes. |
-| Needles | Medic | Floor 22 | Uses a staple gun for sutures. |
-| Grip | Climber | Elevator Shaft | Has 6 fingers on right hand. |
-| Silence | Mute | Floor 15 | Sews his own mouth shut daily. |
-| Cog | Mechanic | Basement | Believes he is a robot. |
-| Rot | Cleaner | Floor 1 | Smells like lavender (unexpected). |
-| Vulture | Looter | Floor 6 | Wears a necklace of ears. |
-| Shivers | Addict | Floor 4 | Can see through walls when high. |
-| Gasp | Victim | Floor 9 | Holding his breath for 5 mins. |
-| Click | Sniper | Floor 18 | Makes clicking noise with tongue. |
-| Dust | Janitor | Floor 29 | Is actually a minor illusion. |
-| Shade | Spy | Roof | Has no shadow. |
-| Rattle | Guard | Floor 10 | Armor is made of loose cans. |
-| ... | ... | ... | *(Table continues to 50 rows in DB)* |
+| **Rat-Face** | Scout | Floor 3 | Chews on electrical wires. |
+| **Big Sal** | Bouncer | Floor 5 | Only hits people with his left hand. |
+| **Twitch** | Chemist | Floor 21 | Vibrates constantly from overdose. |
+| **Old Nan** | Civilian | Floor 8 | Knits with human hair. |
+| **Gutter** | Thug | Floor 2 | Wears a bucket on foot. |
+| **Slick** | Dealer | Floor 12 | Skin is naturally oily/slippery. |
+| **Echo** | Lookout | Stairwell | Repeats last word said to him. |
+| **Burnout** | Mage | Floor 19 | Casts fire spells when he sneezes. |
+| **Needles** | Medic | Floor 22 | Uses a staple gun for sutures. |
+| **Grip** | Climber | Elevator Shaft | Has 6 fingers on right hand. |
+| **Silence** | Mute | Floor 15 | Sews his own mouth shut daily. |
+| **Cog** | Mechanic | Basement | Believes he is a robot. |
+| **Rot** | Cleaner | Floor 1 | Smells like lavender (unexpected). |
+| **Vulture** | Looter | Floor 6 | Wears a necklace of ears. |
+| **Shivers** | Addict | Floor 4 | Can see through walls when high. |
+| **Gasp** | Victim | Floor 9 | Holding his breath for 5 mins. |
+| **Click** | Sniper | Floor 18 | Makes clicking noise with tongue. |
+| **Dust** | Janitor | Floor 29 | Is actually a minor illusion. |
+| **Shade** | Spy | Roof | Has no shadow. |
+| **Rattle** | Guard | Floor 10 | Armor is made of loose cans. |
+| **...** | ... | ... | *(Table continues to 50 rows in DB)* |
 
 ---
 
@@ -257,15 +257,15 @@ The Spire is a pressure cooker. The "Sealing" isn't just a tactical move by Tama
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Teddy | Crying Girl | Retrieve bear from a Berserker. | A healing potion hidden inside. |
-| The Cold Turkey | Addict | Keep him tied up for 1 hour. | Intel on a shortcut. |
-| The Glass Eye | Glazier Monk | Find his eye in the trash. | A glass dagger (Invisible). |
-| Soup for the Soul | Soup King | Find a fresh onion. | +5 Temp HP buff (Soup). |
-| The Quiet Kill | Vesper (Radio) | Kill a target without sound. | Vesper holds back for 1 turn. |
-| The Rat King | Dr. Stitch | Capture 5 live rats. | Medical treatment. |
-| The Love Letter | Dead Guard | Deliver letter to wife (Later). | XP / Morale boost. |
-| The Broken Pipe | Boiler Cult | Fix a steam valve. | Steam won't burn you later. |
-| ... | ... | ... | ... |
+| **The Lost Teddy** | Crying Girl | Retrieve bear from a Berserker. | A healing potion hidden inside. |
+| **The Cold Turkey** | Addict | Keep him tied up for 1 hour. | Intel on a shortcut. |
+| **The Glass Eye** | Glazier Monk | Find his eye in the trash. | A glass dagger (Invisible). |
+| **Soup for the Soul** | Soup King | Find a fresh onion. | +5 Temp HP buff (Soup). |
+| **The Quiet Kill** | Vesper (Radio) | Kill a target without sound. | Vesper holds back for 1 turn. |
+| **The Rat King** | Dr. Stitch | Capture 5 live rats. | Medical treatment. |
+| **The Love Letter** | Dead Guard | Deliver letter to wife (Later). | XP / Morale boost. |
+| **The Broken Pipe** | Boiler Cult | Fix a steam valve. | Steam won't burn you later. |
+| **...** | ... | ... | ... |
 
 ---
 

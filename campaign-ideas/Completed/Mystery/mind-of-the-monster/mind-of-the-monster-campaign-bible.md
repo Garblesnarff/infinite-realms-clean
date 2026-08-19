@@ -18,7 +18,8 @@ The Monster isn't under the bed; it's across the table, smiling and offering you
 ### The 'Why'
 The central conflict is the struggle for 'Sanity' in a world of absolute depravity. It is about the 'Clinical Procedural' of the soul—the realization that understanding evil doesn't make you immune to it. The 'Why' is the question: 'Can you look into the abyss and remain an observer?' It explores the institutional brutalism of the 1970s, the intimate horror of the crime scene, and the chilling intelligence of 'The Apex.' The players are the BSU investigators and researchers who must navigate the labyrinth of the monster's mind while their own home lives and principles are slowly dismantled.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Behavioral Science Unit (The Observers)
 **Type:** Elite FBI Profiling/Research Branch
 **Leader:** Unit Chief Shepard (A man of cold, bureaucratic order).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Sanity' in a world of absolute depravi
 **Asset:** Moral weight and the reality of the horror that the BSU treats as 'data.'
 **Rivals:** The Monsters, The BSU (unintentionally).
 
-## [TAG: NPC_TIER_1]
-**Agent Holden** (BSU - Passionate Lead) - A man whose obsession with the monster is destroying his life. **Voice:** Professional, becoming increasingly fast-paced and detached. **Goal:** To create the perfect profiling system. **Secret:** He is starting to enjoy the interviews more than his mundane life.
-**'Big Ed' (Kemper Analogue)** (Incarcerated - Disarming Monster) - An articulate, 6'9" killer who is disarmingly friendly. **Voice:** Warm, articulate, and chillingly detached during violent descriptions. **Goal:** To be the BSU's 'star pupil' and manipulate his observers. **Secret:** He views the investigators as his newest 'project.'
-**The Apex** (Independent - Perfect Evil) - A killer who has never been caught and never will be. **Voice:** Cultured, charming, and perfectly controlled. **Goal:** To prove that his intelligence is superior to the BSU's science. **Secret:** He has been watching the BSU from within for years.
-**Agent Bill** (BSU - Weary Veteran) - A man trying to keep his feet on the ground while his head is in the clouds. **Voice:** Gruff, tired, and increasingly cynical. **Goal:** To do the job and go home to his family. **Secret:** His own home life is a crime scene of emotional neglect.
-**Wendy** (BSU - Clinical Psychologist) - The rational voice of the unit. **Voice:** Sterile, precise, and authoritative. **Goal:** To turn the investigators' 'intuition' into a peer-reviewed science. **Secret:** She is terrified that the data she's collecting is actually a blueprint for the next generation of monsters.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Agent Holden** (BSU - Passionate Lead) - A man whose obsession with the monster is destroying his life. **Voice:** Professional, becoming increasingly fast-paced and detached. **Goal:** To create the perfect profiling system. **Secret:** He is starting to enjoy the interviews more than his mundane life.
+2.  **'Big Ed' (Kemper Analogue)** (Incarcerated - Disarming Monster) - An articulate, 6'9" killer who is disarmingly friendly. **Voice:** Warm, articulate, and chillingly detached during violent descriptions. **Goal:** To be the BSU's 'star pupil' and manipulate his observers. **Secret:** He views the investigators as his newest 'project.'
+3.  **The Apex** (Independent - Perfect Evil) - A killer who has never been caught and never will be. **Voice:** Cultured, charming, and perfectly controlled. **Goal:** To prove that his intelligence is superior to the BSU's science. **Secret:** He has been watching the BSU from within for years.
+4.  **Agent Bill** (BSU - Weary Veteran) - A man trying to keep his feet on the ground while his head is in the clouds. **Voice:** Gruff, tired, and increasingly cynical. **Goal:** To do the job and go home to his family. **Secret:** His own home life is a crime scene of emotional neglect.
+5.  **Wendy** (BSU - Clinical Psychologist) - The rational voice of the unit. **Voice:** Sterile, precise, and authoritative. **Goal:** To turn the investigators' 'intuition' into a peer-reviewed science. **Secret:** She is terrified that the data she's collecting is actually a blueprint for the next generation of monsters.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Sanity' in a world of absolute depravi
 | The Pilot | UEF Cadet (Equivalent) | Military Base | Obsessed with becoming a 'Legendary Hunter.' |
 | 'Iron-Gut' | Coroner | City Morgue | Can eat a sandwich while conducting an autopsy. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The BSU Basement (Quantico)
 A windowless, institutional gray room filled with typewriters and data charts.
 *   **The Interview Room:** A clinical white space with a single table and a tape recorder. **Smell:** Stale coffee and sterile green cleaner. **Sound:** The rhythmic hum of fluorescent lights.
@@ -90,7 +93,8 @@ A warm home that has been turned into a nightmare of blood evidence red.
 An elegant, classical space corrupted by dissonance.
 *   **The Study:** A room filled with Architect-designed furniture and BSU manuals. **Sound:** A solo piano piece that is slightly out of tune.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Disarming Interview:** Conduct your first interview with 'Big Ed.' You must maintain your 'Clinical Observer' status while he describes his crimes in chilling detail.
 2.  **The Pattern Emerges:** Link three small-town murders to a single perpetrator using the 'Profiling Manual.' You must convince a skeptical Sheriff to let you lead.
 3.  **The Evidence Heist:** Someone has stolen the BSU's profile on 'The Apex.' Track the thief through a series of impersonal hotels.
@@ -99,18 +103,19 @@ An elegant, classical space corrupted by dissonance.
 6.  **The Siege of the Basement:** The BSU is being shut down by Unit Chief Shepard. You must use your latest profile to prove that the Apex is about to strike.
 7.  **The Final Confrontation:** A face-to-face interview with the Apex killer in his own lair. The truth is revealed—can you survive the mind of the monster?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The BSU Tape Recorder
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The BSU Tape Recorder:**
 **Type:** Wondrous Item
 **Description:** A professional-grade tape recorder that captures more than just sound.
 **Mechanics:** Grants the user the ability to 'Hear' a subject's surface thoughts when the tape is played back (DC 18 Wisdom save for the subject).
 
-### 2. The Profiling Manual
+2.  **The Profiling Manual:**
 **Type:** Artifact (Tome)
 **Description:** A thick, clinical book that contains the collective knowledge of the BSU.
 **Mechanics:** Grants the user +5 to all Intelligence (Investigation) and Wisdom (Insight) checks related to serial killers.
 
-### 3. The Apex's Signature
+3.  **The Apex's Signature:**
 **Type:** Wondrous Item (Cursed)
 **Description:** A single, perfectly preserved evidence item left by the Apex.
 **Mechanics:** Grants the user 'Perfect Control' over their own emotions for 1 hour. **Curse:** The user begins to see the world in 'Clinical White' and loses all capacity for empathy.

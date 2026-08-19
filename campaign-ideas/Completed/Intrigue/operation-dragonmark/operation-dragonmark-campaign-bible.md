@@ -18,7 +18,8 @@ The World is a secret that has been kept for too long. In the beginning, the 'Hi
 ### The 'Why'
 The central conflict is the struggle for 'Order' in a world of 'Sophisticated Chaos.' It is about the 'Tactical Elegance' of being an elite operative—the realization that style is a form of survival. The 'Why' is the question: 'Is the peace of the world worth the price of your own humanity?' It explores the opulent temptation of the Casino, the industrial menace of the Volcano Fortress, and the cold professionalism of the Bureau. The players are the Double-O agents who must navigate the subtext of a seduction scene and the intensity of a magical vehicle chase to find a truth that stays hidden in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Bureau (The Eyrie)
 **Type:** Elite International Intelligence Agency
 **Leader:** Director Morgantha (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Order' in a world of 'Sophisticated Ch
 **Asset:** Control of Bureau funding and a practiced warmth that hides cowardice.
 **Rivals:** Director Morgantha.
 
-## [TAG: NPC_TIER_1]
-**Director Morgantha (M)** (Bureau - The Leader) - A mature woman in charcoal business attire. **Voice:** Authoritative, measured, and controlled. **Goal:** To protect the world from the draconic threat. **Secret:** She was once Goldclaw's lover and feels responsible for his descent into madness.
-**Questor Aldric (Q)** (Bureau - The Expert) - A disheveled man in robes covered in tools. **Voice:** Energetic, impatient, and Scottish-accented. **Goal:** To provide the agents with the 'Perfect Gadget' for every mission. **Secret:** He secretly tests his inventions on himself, which is why his hair defies gravity.
-**Goldclaw (Lord Auric)** (Syndicate - The Villain) - A man in an immaculate golden suit with a mechanical hand. **Voice:** Smooth, menacing, and theatrical. **Goal:** To wake the High Dragons and reshape the world in his image. **Secret:** He is already part-dragon, a result of his own magical experimentation.
-**Vesper Nightshade** (Independent - The Enigma) - An elegant woman in a purple evening gown. **Voice:** Smoky, mysterious, and performative. **Goal:** To survive the mission and find someone she can actually trust. **Secret:** She is a double-agent working for both the Bureau and Goldclaw, trying to find her own third path.
-**Agent 008 (Octavia)** (Bureau - The Rival) - A posh, confident British agent. **Voice:** Posh, competitive, and quick-witted. **Goal:** To be the best agent in the Bureau and prove her worth to M. **Secret:** She views the player character as her only true competition and friend.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Director Morgantha (M)** (Bureau - The Leader) - A mature woman in charcoal business attire. **Voice:** Authoritative, measured, and controlled. **Goal:** To protect the world from the draconic threat. **Secret:** She was once Goldclaw's lover and feels responsible for his descent into madness.
+2.  **Questor Aldric (Q)** (Bureau - The Expert) - A disheveled man in robes covered in tools. **Voice:** Energetic, impatient, and Scottish-accented. **Goal:** To provide the agents with the 'Perfect Gadget' for every mission. **Secret:** He secretly tests his inventions on himself, which is why his hair defies gravity.
+3.  **Goldclaw (Lord Auric)** (Syndicate - The Villain) - A man in an immaculate golden suit with a mechanical hand. **Voice:** Smooth, menacing, and theatrical. **Goal:** To wake the High Dragons and reshape the world in his image. **Secret:** He is already part-dragon, a result of his own magical experimentation.
+4.  **Vesper Nightshade** (Independent - The Enigma) - An elegant woman in a purple evening gown. **Voice:** Smoky, mysterious, and performative. **Goal:** To survive the mission and find someone she can actually trust. **Secret:** She is a double-agent working for both the Bureau and Goldclaw, trying to find her own third path.
+5.  **Agent 008 (Octavia)** (Bureau - The Rival) - A posh, confident British agent. **Voice:** Posh, competitive, and quick-witted. **Goal:** To be the best agent in the Bureau and prove her worth to M. **Secret:** She views the player character as her only true competition and friend.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Order' in a world of 'Sophisticated Ch
 | The Guard | Syndicate Security | Volcano Fortress | Wears a watch that doubles as a draconic-fire tracker. |
 | The newsie | Street Kid | lex-Market | Can name every Dragonmark in the city by the sound of its glow. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Eyrie (Bureau HQ)
 A slate-gray, art deco fortress of cold professionalism and institutional power.
 *   **M's Office:** A dark-wood sanctuary with a single window overlooking the city. **Smell:** Earl Grey tea and old books. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ An obsidian and molten orange monument to industrial menace.
 A gray and muted blue sector of paranoia and truth in darkness.
 *   **The Observation Room:** A room filled with monitors showing the Eyrie's internal leaks. **Visual:** Flickering shadows that move wrong. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Operation Cold Open:** Secure a stolen encryption crystal from a moving skyship. You must use your 'Signature Item' to make a dramatic escape.
 2.  **The Q-Branch Tour:** Meet Questor Aldric and receive your mission equipment. You must complete a 'Safety Demonstration' that goes explosively wrong.
 3.  **Monte Celestia Gambit:** Infiltrate the Casino-Temple undercover as a high-roller. You must identify Goldclaw's contact without blowing your cover.
@@ -99,18 +103,19 @@ A gray and muted blue sector of paranoia and truth in darkness.
 6.  **The Volcano Assault:** Lead an epic infiltration of Goldclaw's fortress as the self-destruct activates. You must rescue Vesper Nightshade before the lava rises.
 7.  **The Final Verdict:** Face Goldclaw face-to-face in the center of his ritual. The truth is revealed—will you kill, redeem, or sacrifice yourself to stop the High Dragons?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Dragonmark Signet
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Dragonmark Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A platinum ring with a glowing draconic sigil.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks and allows them to 'Command' any non-royal Dragonmark bearer.
 
-### 2. The Eyrie encryption Crystal
+2.  **The Eyrie encryption Crystal:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the Bureau.
 **Mechanics:** Grants the user the ability to 'See' any magical or digital communication within 1 mile. Once per day, the user can 'Lock' a target's magical power for 1 hour.
 
-### 3. Goldclaw's Mechanical Hand
+3.  **Goldclaw's Mechanical Hand:**
 **Type:** Wondrous Item (Implant)
 **Description:** A golden left hand with dragon claw designs and intricate magical circuits.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to cast *Dragon's Breath* (Gold) once per day. The hand provides resistance to fire damage.

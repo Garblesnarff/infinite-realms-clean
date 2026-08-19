@@ -18,7 +18,8 @@ Los Angeles wasn't built on a foundation of stone, but on a foundation of 'The B
 ### The 'Why'
 The central conflict is the battle for a truth that nobody wants to hear. It is about the tragedy of 'compromised justice'—can you do a little bit of evil to achieve a greater good, or does the rot eventually claim everyone? The players are the ones who can't stop looking for 'Rollo Tomasi,' even when they know that finding him might mean the end of everything they believe in. It explores the cost of idealism in a world that rewards pragmatism and the weight of maintaining a beautiful facade while the interior is bleeding.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Los Angeles Police Department (LAPD)
 **Type:** Law Enforcement (Systemically Corrupt)
 **Leader:** Chief Parker (A man obsessed with image and control).
@@ -49,12 +50,13 @@ The central conflict is the battle for a truth that nobody wants to hear. It is 
 **Asset:** Files on corrupt officers and a willingness to burn the whole department down to save its soul.
 **Rivals:** The 'Brutal Enforcers' within the LAPD.
 
-## [TAG: NPC_TIER_1]
-**The Detective (Bud White)** (Law Enforcement - Brutal Enforcer) - A man of violence with a code of honor. **Voice:** Hardened, blunt, and filled with a haunted rage. **Goal:** To protect the innocent, especially women, even if he has to break the law to do it. **Secret:** He is terrified of his own brutality and fears he is becoming the very thing he hunts.
-**The Idealist (Ed Exley)** (Law Enforcement - By-the-Book Detective) - A man of rigid principles and immense ambition. **Voice:** Measured, precise, and patronizingly correct. **Goal:** To rise to the top of the LAPD and clean it up from within. **Secret:** He is willing to sacrifice anyone, including his friends, to achieve his 'holy' mission.
-**The Celebrity Cop (Jack Vincennes)** (Law Enforcement - Technical Advisor) - A man who cares more about his image than the truth. **Voice:** Smooth, charming, and perpetually bored. **Goal:** To maintain his lifestyle and his connection to the Hollywood elite. **Secret:** He can't remember why he became a cop in the first place and is drowning in his own cynicism.
-**The Pimp (Pierce Patchett)** (Criminal - High-Society Fixer) - The man who runs the Fleur-de-Lis. **Voice:** Cultured, sophisticated, and utterly devoid of a soul. **Goal:** To control the city's elite through blackmail and vice. **Secret:** He is 'Rollo Tomasi'—the man who has gotten away with everything for decades.
-**The Femme Fatale (Lynn Bracken)** (Independent - High-Class Escort) - A woman who looks like a movie star but lives in the shadows. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To survive and protect those she cares about in a city that treats her like a commodity. **Secret:** she is the only one who has seen Patchett's true face and lived to tell about it.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Detective (Bud White)** (Law Enforcement - Brutal Enforcer) - A man of violence with a code of honor. **Voice:** Hardened, blunt, and filled with a haunted rage. **Goal:** To protect the innocent, especially women, even if he has to break the law to do it. **Secret:** He is terrified of his own brutality and fears he is becoming the very thing he hunts.
+2.  **The Idealist (Ed Exley)** (Law Enforcement - By-the-Book Detective) - A man of rigid principles and immense ambition. **Voice:** Measured, precise, and patronizingly correct. **Goal:** To rise to the top of the LAPD and clean it up from within. **Secret:** He is willing to sacrifice anyone, including his friends, to achieve his 'holy' mission.
+3.  **The Celebrity Cop (Jack Vincennes)** (Law Enforcement - Technical Advisor) - A man who cares more about his image than the truth. **Voice:** Smooth, charming, and perpetually bored. **Goal:** To maintain his lifestyle and his connection to the Hollywood elite. **Secret:** He can't remember why he became a cop in the first place and is drowning in his own cynicism.
+4.  **The Pimp (Pierce Patchett)** (Criminal - High-Society Fixer) - The man who runs the Fleur-de-Lis. **Voice:** Cultured, sophisticated, and utterly devoid of a soul. **Goal:** To control the city's elite through blackmail and vice. **Secret:** He is 'Rollo Tomasi'—the man who has gotten away with everything for decades.
+5.  **The Femme Fatale (Lynn Bracken)** (Independent - High-Class Escort) - A woman who looks like a movie star but lives in the shadows. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To survive and protect those she cares about in a city that treats her like a commodity. **Secret:** she is the only one who has seen Patchett's true face and lived to tell about it.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the battle for a truth that nobody wants to hear. It is 
 | The Informant | Small-Time Grifter | A dark alley | Smells like cheap cigars and desperation. |
 | The Photographer | Crime Scene Tech | Any crime scene | Only takes photos from 'artistic' angles, even of the most brutal murders. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Fleur-de-Lis Club
 The apex of Hollywood glamour and systemic corruption.
 *   **The Main Room:** Art deco elegance, champagne, and beautiful people hiding ugly secrets. **Smell:** Expensive perfume and expensive cigars. **Sound:** Smooth jazz that covers the sound of whispered deals.
@@ -90,7 +93,8 @@ A den of vice that serves as the dark mirror to the city's glamour.
 Golden hour beauty that hides the city's bleeding heart.
 *   **Pierce Patchett's Estate:** A monument to the prosperity that comes from corruption. **Visual:** A perfect view of the city, looking golden and innocent.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Who is Rollo Tomasi?** Investigate the 'random' murder of a fellow officer. Discover that the killer was hired by someone within the department.
 2.  **A Night at the Fleur-de-Lis:** Undercover operation to retrieve a set of blackmail negatives. The players must navigate the club's social hierarchy without blowing their cover.
 3.  **The Victory Motel Massacre:** A series of brutal murders at a cheap motel. The evidence points to a high-ranking official, but the LAPD wants to pin it on a drifter.
@@ -99,18 +103,19 @@ Golden hour beauty that hides the city's bleeding heart.
 6.  **The Revelation of the Lie:** The players find the connection between Pierce Patchett and the Chief of Police.
 7.  **The Final Reckoning:** A three-way standoff between the players, the corrupt LAPD enforcers, and the Fleur-de-Lis syndicate at the Victory Motel. Justice is achieved, but at a tragic cost.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Rollo Tomasi Case File
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Rollo Tomasi Case File:**
 **Type:** Wondrous Item
 **Description:** A thick, blood-stained file containing the names and crimes of the city's elite.
 **Mechanics:** Grants the holder advantage on all Charisma (Intimidation) and Intelligence (Investigation) checks against any official or high-society figure in Los Angeles.
 
-### 2. Patchett's Blackmail Camera
+2.  **Patchett's Blackmail Camera:**
 **Type:** Wondrous Item
 **Description:** A small, high-quality camera with a specialized lens for low-light 'candid' photography.
 **Mechanics:** Can be used to take a photo that reveals a target's 'True Aspect' or their most guarded secret (DM's discretion).
 
-### 3. Chief Parker's Badge
+3.  **Chief Parker's Badge:**
 **Type:** Wondrous Item
 **Description:** A perfectly polished badge that represents the authority of the 'Big Lie.'
 **Mechanics:** Once per day, the wearer can use an action to command a group of up to 10 'Sleepers' (non-magical NPCs) to obey a simple command.

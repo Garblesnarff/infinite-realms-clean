@@ -18,7 +18,8 @@ The World is not a floor; it's a tapestry that's being rewoven by an invisible l
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Infinite Variables.' It is about the 'Heroic Responsibility' of the human spirit—the realization that your choices have consequences across infinite realities. The 'Why' is the question: 'Can you remain yourself when the very memories of your existence are being rewritten every time you blink?' It explores the fractured beauty of the worldline shifts, the pride in mastering the Chronograph, and the refined, scholarly voice of a professor who understands that every second is a gift. The players are the travelers and seekers who must navigate the reality-ripples and the intensity of a reading steiner activation to find a truth that stays solid in the change.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Sequence Guardians (The Order)
 **Type:** Scientific/Bureaucratic Defense Brotherhood
 **Leader:** Professor Aldric Thane (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 **Asset:** Dark voids, reality-tearing timeline-breaks, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Professor Aldric Thane** (Order - The Lead) - An elderly man whose voice is scholarly, energetic, and refined. **Voice:** Refined academic, slight European flavor. **Goal:** To protect the 'Sequence of Eternity' and guide the new travelers. **Secret:** He is secretly an Adept of 'Temporal-Energy' who can 'rewrite' a soul's destiny through his technical jargon.
-**Mobius** (Shadow - The Villain) - A being whose voice is calm, philosophical, and measured. **Voice:** Deliberate and clear, speaks in paradoxes and questions. **Goal:** To reach the 'Beta Worldline' (equivalent) by any means necessary, even if it means erasing millions. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Kira Silverhand** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the worldline shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the temporal static.
-**The Prophet (Ghost)** (Independent - The Mentor) - A man whose voice is tired, haunted, and desperate. **Voice:** Ages, same as PC, cryptic warnings. **Goal:** To warn the present about the mistakes of the future. **Secret:** He has discovered a 'Vulnerability' in the Convergence's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient traveler in practical urban gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chronograph ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Professor Aldric Thane** (Order - The Lead) - An elderly man whose voice is scholarly, energetic, and refined. **Voice:** Refined academic, slight European flavor. **Goal:** To protect the 'Sequence of Eternity' and guide the new travelers. **Secret:** He is secretly an Adept of 'Temporal-Energy' who can 'rewrite' a soul's destiny through his technical jargon.
+2.  **Mobius** (Shadow - The Villain) - A being whose voice is calm, philosophical, and measured. **Voice:** Deliberate and clear, speaks in paradoxes and questions. **Goal:** To reach the 'Beta Worldline' (equivalent) by any means necessary, even if it means erasing millions. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Kira Silverhand** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the worldline shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the temporal static.
+4.  **The Prophet (Ghost)** (Independent - The Mentor) - A man whose voice is tired, haunted, and desperate. **Voice:** Ages, same as PC, cryptic warnings. **Goal:** To warn the present about the mistakes of the future. **Secret:** He has discovered a 'Vulnerability' in the Convergence's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient traveler in practical urban gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chronograph ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 | The Monk | Ancient Worshipper | Clock Temple | Spends all his time painting murals of the 'Sequence's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Convergence Plaza (The Hub)
 A massive, high-contrast monument to architecture, clockwork, and temporal energy.
 *   **The Chronograph Chamber:** A site of 'Refined Formality' and harsh temporal rituals. **Smell:** Ozone, old paper, and expensive perfume. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and clockwork.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Sequence Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Reality Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Thane Run:** Navigate the traditional territories to find Professor Thane. You must identify the 'Temporal-Energy' node before the rivals arrive.
 3.  **The Chronograph Heist:** Infiltrate the Convergence HQ to retrieve a stolen 'Chronograph-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Mobius and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Sequence (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Sequence (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Reading Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Chronograph Signet (Equivalent)
+2.  **The Chronograph Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the chronograph seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Temporal-Energy Capsule (Equivalent)
+3.  **The Temporal-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Temporal' magic.

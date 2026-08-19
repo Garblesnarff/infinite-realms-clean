@@ -20,7 +20,8 @@ The "Gods" of Olympus are not, and have never been, truly divine. They are senti
 ### The "Why"
 The metaphysical conflict is a war for the soul of the modern world, a battle between the romantic, chaotic power of myth and the cold, hard logic of scientific rationalism. The players are not just pawns in a divine game; they are the living, breathing stories that will decide the outcome. Their quests are not just about retrieving a golden fleece, but about creating a tale so compelling it can compete with the moon landing and the internet. The ultimate enemy is not a monster, but apathy. If the players fail, the Gods will not be "killed" in a grand battle; they will simply be forgotten, fading into the background noise of a world that no longer has time for them.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### Camp Half-Blood
 **Type:** Demigod Training Facility & Sanctuary
 **Leader:** Chiron, the centaur trainer of heroes, and Mr. D (Dionysus), the camp director.
@@ -81,83 +82,85 @@ The metaphysical conflict is a war for the soul of the modern world, a battle be
 **Asset:** The ability to create magical weapons and armor of immense power. They run a 24/7 television shopping network, broadcast only on magical channels, selling their wares.
 **Rivals:** The Amazons (business rivals).
 
-## [TAG: NPC_TIER_1]
-**Percy Jackson** (Son of Poseidon) - Sarcastic, loyal, and more powerful than he knows. **Voice:** A modern, slightly sarcastic teenager's voice, but with an underlying tone of a weary, old soul. **Goal:** To protect his friends and live a "normal" life, if possible. **Secret:** He is the "child of the prophecy" and is terrified of the choice he will have to make.
-**Annabeth Chase** (Daughter of Athena) - Brilliant, proud, and a master strategist. **Voice:** A clear, confident, and slightly impatient voice. **Goal:** To build something permanent, something that will last. **Secret:** Her greatest fear is not being good enough, a fear instilled by her mother, the goddess of wisdom.
-**Grover Underwood** (Satyr) - Percy's best friend. Anxious, empathetic, and a terrible liar. **Voice:** A nervous, bleating, and cracking voice. **Goal:** To find the lost god of the wild, Pan. **Secret:** He was the satyr assigned to Thalia Grace, and he blames himself for her "death."
-**Chiron** (Centaur) - The trainer of heroes. Wise, kind, and has seen it all before. **Voice:** A deep, calm, and professorial voice. **Goal:** To train the next generation of heroes to be better than the last. **Secret:** He is tired. So, so tired of watching the children he trains go off to die.
-**Mr. D / Dionysus** (God of Wine) - The camp director. Sardonic, lazy, and under a curse to not drink wine. **Voice:** A bored, sarcastic, and slurring drawl. **Goal:** To serve his punishment and get back to Olympus so he can have a decent glass of wine. **Secret:** His apathy is a front; he genuinely cares for some of the demigods, a fact he would rather die than admit.
-**Luke Castellan** (Son of Hermes) - The charming, popular head counselor, who becomes the tragic villain. **Voice:** A smooth, charming, and friendly voice that slowly curdles into bitter resentment. **Goal:** To overthrow the gods, who he sees as deadbeat parents. **Secret:** He is being manipulated by Kronos.
-**Thalia Grace** (Daughter of Zeus) - A fierce, punk-rock demigod, formerly a tree. **Voice:** A sharp, punk-rock, and defiant voice. **Goal:** To lead the Hunters of Artemis and be free of the prophecy. **Secret:** She is terrified of heights, a cruel irony for a daughter of the sky god.
-**Clarisse La Rue** (Daughter of Ares) - The camp's resident bully. Tough, aggressive, and secretly insecure. **Voice:** A loud, brutish, and arrogant bark. **Goal:** To earn the respect of her father, the god of war. **Secret:** She has a secret, soft spot for a fellow camper who is the son of a love god.
-**Kronos** (Titan) - The ancient idea of time, seeking to consume the gods. **Voice:** A cold, dry, and ancient voice, like the dust of ages. It speaks from the minds of those it possesses. **Goal:** To return the world to the chaotic, godless state that existed before the Olympians. **Secret:** He cannot create; he can only consume. He is, in his own way, a being of pure entropy.
-**Professor Axiom** (Human) - The leader of the Logicians. **Voice:** A calm, precise, and condescendingly patient voice, like a professor explaining a simple concept to a child. **Goal:** To "solve" the "problem" of the gods. **Secret:** He was once a devout believer, but his prayers went unanswered during a family tragedy. His logic is fueled by pure, cold rage.
-**The Oracle of Delphi** (Spirit) - A mummified hippie from the 1960s, now the host for the spirit of prophecy. **Voice:** A raspy, ethereal, and multi-layered voice that speaks in cryptic, rhyming couplets. **Goal:** To speak the truth, no matter how painful. **Secret:** It is aware of its own role in the "story" and sometimes tries to give prophecies that will create a more interesting narrative.
-**Rachel Elizabeth Dare** (Human) - A mortal who can see through the "Mist" that hides the mythological world. **Voice:** A quirky, artistic, and friendly voice. **Goal:** To find her place in a world she was never meant to see. **Secret:** She is the next potential host for the Oracle of Delphi.
-**Nico di Angelo** (Son of Hades) - A gloomy, goth kid who can command the dead. **Voice:** A quiet, sullen, and resentful whisper. **Goal:** To find a place where he belongs. **Secret:** He had a crush on Percy Jackson, a secret that caused him immense shame and self-loathing.
-**Hylla, Queen of the Amazons** (Demigod) - The CEO of Amazon.com. **Voice:** A sharp, efficient, and commanding corporate voice. **Goal:** To expand her company's market share and protect her people. **Secret:** She is terrified of her sister, Reyna, who is a leader at the Roman camp.
-**The Party Pony President** (Centaur) - A centaur named "Chad." **Voice:** A loud, obnoxious, "bro" voice. **Goal:** To throw the greatest party in the history of the world. **Secret:** He is a brilliant political strategist.
-**A "Statistic"** (Un-Believer) - A monster made of pure data. **Voice:** The sound of a thousand calculators clicking at once. **Goal:** To reduce all actions to their statistical probability. **Secret:** It can be defeated by an act of pure, irrational faith.
-**The Master Scribe of the Fates** (Unknown) - A being in a grey robe who writes everything that happens in a massive book. **Voice:** The sound of a quill scratching on parchment. **Goal:** To record the story. **Secret:** It is not just recording the story; it is writing it. It is the "DM" of the universe.
-**Hephaestus** (God) - The god of the forge, broadcasting his 24/7 shopping channel from his workshop. **Voice:** A gruff, used-car-salesman voice. "And if you order now, I'll throw in a FREE set of bronze-tipped arrows!" **Goal:** To sell his merchandise. **Secret:** He is lonely and just wants someone to appreciate his craft.
-**Artemis** (Goddess) - The goddess of the hunt. **Voice:** A clear, cold, and sharp voice, like the snap of a bowstring. **Goal:** To protect her Hunters and the wild places of the world. **Secret:** She is weary of her eternal duty and sometimes wishes she could just retire.
-**The Minotaur** (Monster) - The first monster Percy ever fought. **Voice:** An enraged, bestial roar. **Goal:** To smash things. **Secret:** He is not the original Minotaur, but a "story-echo" of him. He is terrified of mazes.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Percy Jackson** (Son of Poseidon) - Sarcastic, loyal, and more powerful than he knows. **Voice:** A modern, slightly sarcastic teenager's voice, but with an underlying tone of a weary, old soul. **Goal:** To protect his friends and live a "normal" life, if possible. **Secret:** He is the "child of the prophecy" and is terrified of the choice he will have to make.
+2.  **Annabeth Chase** (Daughter of Athena) - Brilliant, proud, and a master strategist. **Voice:** A clear, confident, and slightly impatient voice. **Goal:** To build something permanent, something that will last. **Secret:** Her greatest fear is not being good enough, a fear instilled by her mother, the goddess of wisdom.
+3.  **Grover Underwood** (Satyr) - Percy's best friend. Anxious, empathetic, and a terrible liar. **Voice:** A nervous, bleating, and cracking voice. **Goal:** To find the lost god of the wild, Pan. **Secret:** He was the satyr assigned to Thalia Grace, and he blames himself for her "death."
+4.  **Chiron** (Centaur) - The trainer of heroes. Wise, kind, and has seen it all before. **Voice:** A deep, calm, and professorial voice. **Goal:** To train the next generation of heroes to be better than the last. **Secret:** He is tired. So, so tired of watching the children he trains go off to die.
+5.  **Mr. D / Dionysus** (God of Wine) - The camp director. Sardonic, lazy, and under a curse to not drink wine. **Voice:** A bored, sarcastic, and slurring drawl. **Goal:** To serve his punishment and get back to Olympus so he can have a decent glass of wine. **Secret:** His apathy is a front; he genuinely cares for some of the demigods, a fact he would rather die than admit.
+6.  **Luke Castellan** (Son of Hermes) - The charming, popular head counselor, who becomes the tragic villain. **Voice:** A smooth, charming, and friendly voice that slowly curdles into bitter resentment. **Goal:** To overthrow the gods, who he sees as deadbeat parents. **Secret:** He is being manipulated by Kronos.
+7.  **Thalia Grace** (Daughter of Zeus) - A fierce, punk-rock demigod, formerly a tree. **Voice:** A sharp, punk-rock, and defiant voice. **Goal:** To lead the Hunters of Artemis and be free of the prophecy. **Secret:** She is terrified of heights, a cruel irony for a daughter of the sky god.
+8.  **Clarisse La Rue** (Daughter of Ares) - The camp's resident bully. Tough, aggressive, and secretly insecure. **Voice:** A loud, brutish, and arrogant bark. **Goal:** To earn the respect of her father, the god of war. **Secret:** She has a secret, soft spot for a fellow camper who is the son of a love god.
+9.  **Kronos** (Titan) - The ancient idea of time, seeking to consume the gods. **Voice:** A cold, dry, and ancient voice, like the dust of ages. It speaks from the minds of those it possesses. **Goal:** To return the world to the chaotic, godless state that existed before the Olympians. **Secret:** He cannot create; he can only consume. He is, in his own way, a being of pure entropy.
+10.  **Professor Axiom** (Human) - The leader of the Logicians. **Voice:** A calm, precise, and condescendingly patient voice, like a professor explaining a simple concept to a child. **Goal:** To "solve" the "problem" of the gods. **Secret:** He was once a devout believer, but his prayers went unanswered during a family tragedy. His logic is fueled by pure, cold rage.
+11.  **The Oracle of Delphi** (Spirit) - A mummified hippie from the 1960s, now the host for the spirit of prophecy. **Voice:** A raspy, ethereal, and multi-layered voice that speaks in cryptic, rhyming couplets. **Goal:** To speak the truth, no matter how painful. **Secret:** It is aware of its own role in the "story" and sometimes tries to give prophecies that will create a more interesting narrative.
+12.  **Rachel Elizabeth Dare** (Human) - A mortal who can see through the "Mist" that hides the mythological world. **Voice:** A quirky, artistic, and friendly voice. **Goal:** To find her place in a world she was never meant to see. **Secret:** She is the next potential host for the Oracle of Delphi.
+13.  **Nico di Angelo** (Son of Hades) - A gloomy, goth kid who can command the dead. **Voice:** A quiet, sullen, and resentful whisper. **Goal:** To find a place where he belongs. **Secret:** He had a crush on Percy Jackson, a secret that caused him immense shame and self-loathing.
+14.  **Hylla, Queen of the Amazons** (Demigod) - The CEO of Amazon.com. **Voice:** A sharp, efficient, and commanding corporate voice. **Goal:** To expand her company's market share and protect her people. **Secret:** She is terrified of her sister, Reyna, who is a leader at the Roman camp.
+15.  **The Party Pony President** (Centaur) - A centaur named "Chad." **Voice:** A loud, obnoxious, "bro" voice. **Goal:** To throw the greatest party in the history of the world. **Secret:** He is a brilliant political strategist.
+16.  **A "Statistic"** (Un-Believer) - A monster made of pure data. **Voice:** The sound of a thousand calculators clicking at once. **Goal:** To reduce all actions to their statistical probability. **Secret:** It can be defeated by an act of pure, irrational faith.
+17.  **The Master Scribe of the Fates** (Unknown) - A being in a grey robe who writes everything that happens in a massive book. **Voice:** The sound of a quill scratching on parchment. **Goal:** To record the story. **Secret:** It is not just recording the story; it is writing it. It is the "DM" of the universe.
+18.  **Hephaestus** (God) - The god of the forge, broadcasting his 24/7 shopping channel from his workshop. **Voice:** A gruff, used-car-salesman voice. "And if you order now, I'll throw in a FREE set of bronze-tipped arrows!" **Goal:** To sell his merchandise. **Secret:** He is lonely and just wants someone to appreciate his craft.
+19.  **Artemis** (Goddess) - The goddess of the hunt. **Voice:** A clear, cold, and sharp voice, like the snap of a bowstring. **Goal:** To protect her Hunters and the wild places of the world. **Secret:** She is weary of her eternal duty and sometimes wishes she could just retire.
+20.  **The Minotaur** (Monster) - The first monster Percy ever fought. **Voice:** An enraged, bestial roar. **Goal:** To smash things. **Secret:** He is not the original Minotaur, but a "story-echo" of him. He is terrified of mazes.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Sherman | Son of Ares | Camp Half-Blood | Is a devoted knitter. |
-| Laurel | Daughter of Apollo | Camp Half-Blood | Her singing makes plants wilt. |
-| Connor Stoll | Son of Hermes | Camp Half-Blood | Is a kleptomaniac, but only steals left shoes. |
-| Travis Stoll | Son of Hermes | Camp Half-Blood | Is a kleptomaniac, but only steals right shoes. |
-| Katie Gardner | Daughter of Demeter | Camp Half-Blood | Can make flowers bloom by insulting them. |
-| Argus | Head of Security | Camp Half-Blood | A giant with a hundred eyes all over his body. He never speaks. |
-| The Harpies | Cleaning Crew | Camp Half-Blood | Winged monsters who will eat anyone out of their cabin after curfew. |
-| Peleus | Dragon | Camp Half-Blood | A small, sleepy dragon who guards the Golden Fleece. |
-| Juniper | Dryad | Camp Half-Blood | Her boyfriend is a satyr, and she is very jealous of his tree. |
-| Silena Beauregard | Daughter of Aphrodite | Camp Half-Blood | Is the best fighter in the camp, a fact she hides. |
-| Charles Beckendorf | Son of Hephaestus | Camp Half-Blood | Can fix any machine, but can't operate a toaster. |
-| The Oracle's Host | Mummy | Camp Half-Blood | A mummified hippie who sometimes whispers Grateful Dead lyrics. |
-| Zoe Nightshade | Hunter of Artemis | The wilderness | Speaks in an archaic, Shakespearean dialect. |
-| Bianca di Angelo | Hunter of Artemis | The wilderness | Nico's sister, who joined the Hunters to escape her past. |
-| Phoebe | Hunter of Artemis | The wilderness | Is obsessed with healing and carries a ridiculous number of bandages. |
-| Eurytion | Son of Ares | A ranch | A demigod who runs a ranch for mythical beasts. |
-| The Grey Sisters | Taxi Drivers | New York City | Three old women who share one eye and one tooth, and drive like maniacs. |
-| Procrustes | Monster | A mattress store | A monster who tries to make everyone "fit" his beds by stretching or cutting them. |
-| Medusa | Monster | A garden gnome emporium | A monster who is a surprisingly talented sculptor. |
-| Echidna | Monster | The St. Louis Arch | The "Mother of Monsters," who appears as a tourist with a pet chihuahua (which is actually the Chimera). |
-| Pan | God of the Wild | A cave in New Mexico | The lost god of the wild, who is fading because the wild places are gone. |
-| Calypso | Nymph | The island of Ogygia | A nymph cursed to fall in love with every hero who washes up on her island, but they can never stay. |
-| Circe | Sorceress | A spa and resort | A sorceress who turns men who displease her into guinea pigs. |
-| Blackbeard | Son of Ares | The Sea of Monsters | The infamous pirate, now a demigod running a cruise ship for monsters. |
-| The Sirens | Monsters | The Sea of Monsters | Monsters whose singing is so beautiful it drives you mad. They sound like your favorite band. |
-| Polyphemus | Cyclops | The Sea of Monsters | A giant, lonely cyclops who just wants a friend (and a sheep). |
-| The Lydian Drakon | Monster | Camp Half-Blood | An ancient, dragon-like monster that spits poison. |
-| Mrs. O'Leary | Hellhound | Camp Half-Blood | A giant, friendly, shadow-traveling hellhound who acts like a puppy. |
-| Daedalus | Inventor | The Labyrinth | The ancient inventor, who has survived for millennia by creating new automaton bodies for himself. |
-| Janus | God | The Labyrinth | The two-faced god of choices, who offers you two doors, both of which are probably traps. |
-| The Sphinx | Monster | The Labyrinth | A monster who asks terrible, modern, pop-culture riddles instead of ancient ones. |
-| Kampe | Monster | Alcatraz | The ancient jailer of the Titans, a half-woman, half-dragon monster. |
-| Hestia | Goddess | Olympus / Any hearth | The goddess of the hearth, who appears as a young, hopeful girl. |
-| Paul Blofis | Human | Percy's apartment | Percy's step-father, a kind, brave, and utterly normal man. |
-| May Castellan | Human | A suburban house | Luke's mother, driven mad by her attempt to host the Oracle. |
-| The Fates | Goddesses | A bus stop | Three old women knitting the socks of fate. |
-| Charon | Ferryman of the Dead | The Underworld | The ferryman of the dead, who now wears an Italian suit and complains about not being paid enough. |
-| Cerberus | Hellhound | The Underworld | The three-headed guard dog of the Underworld, who can be distracted by a red rubber ball. |
-| Hades | God | The Underworld | The god of the dead. Not evil, just overworked, underappreciated, and very, very gloomy. |
-| Persephone | Goddess | The Underworld / Olympus | The goddess of spring, who is forced to live in the Underworld for half the year. |
-| The Judges of the Dead | Ghosts | The Underworld | Three ancient kings who judge every soul that enters the Underworld. |
-| Sisyphus | Ghost | The Underworld | A ghost forced to push a boulder up a hill for eternity. He is surprisingly cheerful about it. |
-| Tantalus | Ghost | The Underworld | A ghost cursed with eternal hunger and thirst. He is not cheerful about it. |
-| The Minotaur's Ghost | Ghost | The Underworld | The ghost of the Minotaur, who is now a pacifist. |
-| A "Logic-Bomb" | Un-Believer | A library | A creature that looks like a floating, complex mathematical equation. |
-| A "Statistic" | Un-Believer | A casino | A creature that can manipulate probability. |
-| A "Coincidence" | Un-Believer | Anywhere | A creature that causes a series of mundane, but disastrous, coincidences. |
-| A "Placebo" | Un-Believer | A hospital | A creature that can make you believe you are healed, even when you are not. |
-| A "Headline" | Un-Believer | A newsstand | A creature that can make a sensational, untrue headline become reality for a short time. |
-| A "Glitch" | Un-Believer | A server room | A creature that can "glitch" through walls and corrupt data. |
+| **Sherman** | Son of Ares | Camp Half-Blood | Is a devoted knitter. |
+| **Laurel** | Daughter of Apollo | Camp Half-Blood | Her singing makes plants wilt. |
+| **Connor Stoll** | Son of Hermes | Camp Half-Blood | Is a kleptomaniac, but only steals left shoes. |
+| **Travis Stoll** | Son of Hermes | Camp Half-Blood | Is a kleptomaniac, but only steals right shoes. |
+| **Katie Gardner** | Daughter of Demeter | Camp Half-Blood | Can make flowers bloom by insulting them. |
+| **Argus** | Head of Security | Camp Half-Blood | A giant with a hundred eyes all over his body. He never speaks. |
+| **The Harpies** | Cleaning Crew | Camp Half-Blood | Winged monsters who will eat anyone out of their cabin after curfew. |
+| **Peleus** | Dragon | Camp Half-Blood | A small, sleepy dragon who guards the Golden Fleece. |
+| **Juniper** | Dryad | Camp Half-Blood | Her boyfriend is a satyr, and she is very jealous of his tree. |
+| **Silena Beauregard** | Daughter of Aphrodite | Camp Half-Blood | Is the best fighter in the camp, a fact she hides. |
+| **Charles Beckendorf** | Son of Hephaestus | Camp Half-Blood | Can fix any machine, but can't operate a toaster. |
+| **The Oracle's Host** | Mummy | Camp Half-Blood | A mummified hippie who sometimes whispers Grateful Dead lyrics. |
+| **Zoe Nightshade** | Hunter of Artemis | The wilderness | Speaks in an archaic, Shakespearean dialect. |
+| **Bianca di Angelo** | Hunter of Artemis | The wilderness | Nico's sister, who joined the Hunters to escape her past. |
+| **Phoebe** | Hunter of Artemis | The wilderness | Is obsessed with healing and carries a ridiculous number of bandages. |
+| **Eurytion** | Son of Ares | A ranch | A demigod who runs a ranch for mythical beasts. |
+| **The Grey Sisters** | Taxi Drivers | New York City | Three old women who share one eye and one tooth, and drive like maniacs. |
+| **Procrustes** | Monster | A mattress store | A monster who tries to make everyone "fit" his beds by stretching or cutting them. |
+| **Medusa** | Monster | A garden gnome emporium | A monster who is a surprisingly talented sculptor. |
+| **Echidna** | Monster | The St. Louis Arch | The "Mother of Monsters," who appears as a tourist with a pet chihuahua (which is actually the Chimera). |
+| **Pan** | God of the Wild | A cave in New Mexico | The lost god of the wild, who is fading because the wild places are gone. |
+| **Calypso** | Nymph | The island of Ogygia | A nymph cursed to fall in love with every hero who washes up on her island, but they can never stay. |
+| **Circe** | Sorceress | A spa and resort | A sorceress who turns men who displease her into guinea pigs. |
+| **Blackbeard** | Son of Ares | The Sea of Monsters | The infamous pirate, now a demigod running a cruise ship for monsters. |
+| **The Sirens** | Monsters | The Sea of Monsters | Monsters whose singing is so beautiful it drives you mad. They sound like your favorite band. |
+| **Polyphemus** | Cyclops | The Sea of Monsters | A giant, lonely cyclops who just wants a friend (and a sheep). |
+| **The Lydian Drakon** | Monster | Camp Half-Blood | An ancient, dragon-like monster that spits poison. |
+| **Mrs. O'Leary** | Hellhound | Camp Half-Blood | A giant, friendly, shadow-traveling hellhound who acts like a puppy. |
+| **Daedalus** | Inventor | The Labyrinth | The ancient inventor, who has survived for millennia by creating new automaton bodies for himself. |
+| **Janus** | God | The Labyrinth | The two-faced god of choices, who offers you two doors, both of which are probably traps. |
+| **The Sphinx** | Monster | The Labyrinth | A monster who asks terrible, modern, pop-culture riddles instead of ancient ones. |
+| **Kampe** | Monster | Alcatraz | The ancient jailer of the Titans, a half-woman, half-dragon monster. |
+| **Hestia** | Goddess | Olympus / Any hearth | The goddess of the hearth, who appears as a young, hopeful girl. |
+| **Paul Blofis** | Human | Percy's apartment | Percy's step-father, a kind, brave, and utterly normal man. |
+| **May Castellan** | Human | A suburban house | Luke's mother, driven mad by her attempt to host the Oracle. |
+| **The Fates** | Goddesses | A bus stop | Three old women knitting the socks of fate. |
+| **Charon** | Ferryman of the Dead | The Underworld | The ferryman of the dead, who now wears an Italian suit and complains about not being paid enough. |
+| **Cerberus** | Hellhound | The Underworld | The three-headed guard dog of the Underworld, who can be distracted by a red rubber ball. |
+| **Hades** | God | The Underworld | The god of the dead. Not evil, just overworked, underappreciated, and very, very gloomy. |
+| **Persephone** | Goddess | The Underworld / Olympus | The goddess of spring, who is forced to live in the Underworld for half the year. |
+| **The Judges of the Dead** | Ghosts | The Underworld | Three ancient kings who judge every soul that enters the Underworld. |
+| **Sisyphus** | Ghost | The Underworld | A ghost forced to push a boulder up a hill for eternity. He is surprisingly cheerful about it. |
+| **Tantalus** | Ghost | The Underworld | A ghost cursed with eternal hunger and thirst. He is not cheerful about it. |
+| **The Minotaur's Ghost** | Ghost | The Underworld | The ghost of the Minotaur, who is now a pacifist. |
+| **A "Logic-Bomb"** | Un-Believer | A library | A creature that looks like a floating, complex mathematical equation. |
+| **A "Statistic"** | Un-Believer | A casino | A creature that can manipulate probability. |
+| **A "Coincidence"** | Un-Believer | Anywhere | A creature that causes a series of mundane, but disastrous, coincidences. |
+| **A "Placebo"** | Un-Believer | A hospital | A creature that can make you believe you are healed, even when you are not. |
+| **A "Headline"** | Un-Believer | A newsstand | A creature that can make a sensational, untrue headline become reality for a short time. |
+| **A "Glitch"** | Un-Believer | A server room | A creature that can "glitch" through walls and corrupt data. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Camp Half-Blood, Long Island
 A hidden valley on the north shore of Long Island, the only safe haven for demigods.
 *   **The Big House:** A four-story farmhouse that serves as the camp's headquarters. **Smell:** Old books, and the faint scent of wine (from Mr. D). **Sound:** The clip-clop of Chiron's hooves, Mr. D complaining about his job.
@@ -193,7 +196,8 @@ The home of the Gods, located on the mystical 600th floor of the Empire State Bu
 *   **Hephaestus's TV Studio:** A massive, chaotic workshop where Hephaestus films his 24/7 shopping channel. **Smell:** Hot metal, and desperation. **Sound:** Hephaestus's booming, salesman voice.
 *   **The Gardens of Persephone:** Beautiful, magical gardens that are always in bloom. **Smell:** Every flower you have ever imagined. **Sound:** The buzzing of bees, the songs of birds.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **I Accidentally Vaporize My Pre-Algebra Teacher:** The player discovers they are a demigod when a monster, disguised as a teacher, attacks them.
 2.  **My Best Friend is a Goat:** The player is rescued by a satyr and brought to Camp Half-Blood.
 3.  **We Capture a Flag:** The player is "claimed" by their divine parent after showing their abilities in a camp-wide game of capture the flag.
@@ -246,33 +250,35 @@ The home of the Gods, located on the mystical 600th floor of the Empire State Bu
 | The God's Boredom | Dionysus | Entertain him for an afternoon. | He will remember your name correctly for a full day. |
 | The Final Exam | Chiron | Help a younger camper study for their "Ancient Greek Monsters" final exam. | The warm, fuzzy feeling of having done a good deed. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Anaklusmos (Riptide)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Anaklusmos (Riptide):**
 **Type:** Legendary Longsword
 **Description:** Percy Jackson's signature weapon. A simple, bronze ballpoint pen that, when uncapped, transforms into a perfectly balanced, glowing bronze longsword.
 **Mechanics:** This is a +3 longsword that deals an extra 1d8 lightning damage to monsters. It is a "loyal" weapon; if lost, it will always reappear in the wielder's pocket after a few minutes. It cannot harm mortals, passing through them as if they were ghosts.
 
-### 2. The Master Bolt
+2.  **The Master Bolt:**
 **Type:** Artifact (Javelin)
 **Description:** The symbol of Zeus's power, a two-foot long, perfectly formed lightning bolt of pure, celestial bronze. It hums with immense power.
 **Mechanics:** The Bolt can be thrown as a javelin. On a hit, it deals 20d10 lightning damage and creates a massive thunderclap that stuns all creatures within 100 feet. It then immediately returns to the hand of Zeus. It is the ultimate weapon, and its theft is the cause of a world-threatening war between the gods.
 
-### 3. The Helm of Darkness
+3.  **The Helm of Darkness:**
 **Type:** Artifact (Helmet)
 **Description:** The symbol of Hades's power. A helmet forged from pure, solidified darkness.
 **Mechanics:** The wearer of the Helm is invisible, silent, and cannot be detected by any means, magical or mundane. They can also radiate an aura of intense fear, forcing all creatures who see them to make a high DC Wisdom save or become frightened. The Helm allows the wearer to command the dead and travel through shadows.
 
-### 4. The Golden Fleece
+4.  **The Golden Fleece:**
 **Type:** Artifact (Wondrous Item)
 **Description:** The fleece of a legendary, winged ram. It glows with a warm, golden light and radiates an aura of pure, healing life-force.
 **Mechanics:** The Fleece can heal any poison, disease, or curse. If draped over a living thing (like a tree or a person), it will create a magical barrier that repels all monsters. It can even bring a recently-deceased creature back to life, though not without consequences.
 
-### 5. Daedalus's Laptop
+5.  **Daedalus's Laptop:**
 **Type:** Artifact (Wondrous Item)
 **Description:** A sleek, silver laptop, covered in glowing, Greek-letter keys. It contains the life's work of the master inventor, Daedalus.
 **Mechanics:** The laptop contains the blueprints for every one of Daedalus's inventions, from simple automatons to the Labyrinth itself. A user with the right skills can use it to build incredible devices. It also has a direct, Wi-Fi connection to the "source code" of the Labyrinth, allowing the user to reshape its passages and traps. It is protected by a password that is a riddle only a true genius could solve.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Can of Diet Coke:** The preferred drink of Mr. D, as he is forbidden from drinking wine. It tastes of disappointment.
 2.  **A Blue Plastic Hairbrush:** Annabeth's emergency weapon of choice. Surprisingly effective at hitting monsters in the eye.
 3.  **A Minotaur's Horn:** The horn of the Minotaur, broken off in a fight. It smells faintly of beef.

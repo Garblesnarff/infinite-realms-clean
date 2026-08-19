@@ -167,56 +167,56 @@ The "Inevitability" is not a guardian. It is the calcification of the timeline. 
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Alistair | Baker | City Center | Kneads dough with feet; bread tastes like memories. |
-| Brea | Guard | North Gate | Only arrests people for crimes they *will* commit. |
-| Caelum | Beggar | Slums | Floats 2 inches off the ground when asleep. |
-| Doro | Merchant | Market | Sells shadows (literally cuts them off you). |
-| Elara | Scribe | Library | Writes with her own blood, claims ink is "too loud." |
-| Flicker | Torchlighter | Streets | Is terrified of the dark but eats candles. |
-| Gorr | Blacksmith | Forge | Hammers heated ice instead of iron. |
-| Hia | Nurse | Hospital | Hums songs that cause listeners to weep uncontrollably. |
-| Io | Fisher | Docks | Fishes for birds in the sky using helium balloons. |
-| Jax | Thief | Alley | Steals only left shoes to disrupt walking rhythms. |
-| Kalo | Bard | Tavern | Plays a lute with no strings (mime), music still plays. |
-| Lira | Seamstress | Tailor | Stitches time into clothes (wearer ages slower). |
-| Mugg | Brawler | Fighting Pit | Has a second face on the back of his head that cries. |
-| Nix | Alchemist | Lab | Potions taste like the drinker's worst fear. |
-| Opal | Jeweler | Market | Her gems are petrified tear drops of giants. |
-| Pym | Ratcatcher | Sewers | Controls rats by debating philosophy with them. |
-| Qor | Mason | Walls | Carves screaming faces into every brick, "for protection." |
-| Ria | Florist | Garden | Her roses scream when cut. |
-| Sol | Astrologer | Tower | Is allergic to starlight (sneezes when sun sets). |
-| Tibs | Child | Orphanage | Has no reflection; his reflection is sitting beside him. |
-| Ula | Cook | Inn | Cooks soup that lets you speak to the dead for 1 min. |
-| Vex | Lawyer | Court | Argues cases using interpretative dance. |
-| Wyn | Sailor | Port | Has an anchor for a hand. |
-| Xar | Cultist | Basement | Worships a dust bunny under the King's bed. |
-| Yolo | Gambler | Casino | Always loses, but claims he wins in parallel universes. |
-| Zep | Pilot | Airship | Is a sentient cloud of smoke in a suit. |
-| A1 | Construct | Factory | Repeats the word "Why" every 10 seconds. |
-| B2 | Drone | Hive | Flies backward. |
-| C3 | Golem | Gate | Made of cheese, surprisingly durable. |
-| D4 | Imp | Summoning | Demands payment in fingernail clippings. |
-| E5 | Ghost | Attic | Haunts a dollhouse, very small scares. |
-| F6 | Skeleton | Crypt | Dances whenever music plays, hates it. |
-| G7 | Zombie | Graveyard | Apologizes profusely while attacking. |
-| H8 | Spirit | Well | Grants wishes but sarcastically. |
-| I9 | Elemental | Forge | Is made of cold fire (freezes things it burns). |
-| J0 | Mimic | Dungeon | Is a door that refuses to open unless told a joke. |
-| K1 | Slime | Sewer | Sentient mucus that wants to be a painter. |
-| L2 | Beast | Woods | A wolf that meows. |
-| M3 | Bird | Sky | A crow that recites tax code. |
-| N4 | Fish | River | Swims through the air, drowns in water. |
-| O5 | Tree | Forest | Bleeds red blood when chopped. |
-| P6 | Rock | Mountain | Screams when stepped on. |
-| Q7 | Cloud | Sky | Shaped like a hand giving a thumbs down. |
-| R8 | Rain | Weather | Tastes like lemonade. |
-| S9 | Fog | Valley | Makes you forget your middle name. |
-| T0 | Mud | Swamp | Pulls you down only if you are thinking sad thoughts. |
-| U1 | Grass | Plains | Tickles bare feet aggressively. |
-| V2 | Wind | Canyon | Whispers gossip about your neighbors. |
-| W3 | Star | Space | Blinks in Morse code ("Help me"). |
-| X4 | Moon | Night | Sometimes rotates to show a smiley face. |
+| **Alistair** | Baker | City Center | Kneads dough with feet; bread tastes like memories. |
+| **Brea** | Guard | North Gate | Only arrests people for crimes they *will* commit. |
+| **Caelum** | Beggar | Slums | Floats 2 inches off the ground when asleep. |
+| **Doro** | Merchant | Market | Sells shadows (literally cuts them off you). |
+| **Elara** | Scribe | Library | Writes with her own blood, claims ink is "too loud." |
+| **Flicker** | Torchlighter | Streets | Is terrified of the dark but eats candles. |
+| **Gorr** | Blacksmith | Forge | Hammers heated ice instead of iron. |
+| **Hia** | Nurse | Hospital | Hums songs that cause listeners to weep uncontrollably. |
+| **Io** | Fisher | Docks | Fishes for birds in the sky using helium balloons. |
+| **Jax** | Thief | Alley | Steals only left shoes to disrupt walking rhythms. |
+| **Kalo** | Bard | Tavern | Plays a lute with no strings (mime), music still plays. |
+| **Lira** | Seamstress | Tailor | Stitches time into clothes (wearer ages slower). |
+| **Mugg** | Brawler | Fighting Pit | Has a second face on the back of his head that cries. |
+| **Nix** | Alchemist | Lab | Potions taste like the drinker's worst fear. |
+| **Opal** | Jeweler | Market | Her gems are petrified tear drops of giants. |
+| **Pym** | Ratcatcher | Sewers | Controls rats by debating philosophy with them. |
+| **Qor** | Mason | Walls | Carves screaming faces into every brick, "for protection." |
+| **Ria** | Florist | Garden | Her roses scream when cut. |
+| **Sol** | Astrologer | Tower | Is allergic to starlight (sneezes when sun sets). |
+| **Tibs** | Child | Orphanage | Has no reflection; his reflection is sitting beside him. |
+| **Ula** | Cook | Inn | Cooks soup that lets you speak to the dead for 1 min. |
+| **Vex** | Lawyer | Court | Argues cases using interpretative dance. |
+| **Wyn** | Sailor | Port | Has an anchor for a hand. |
+| **Xar** | Cultist | Basement | Worships a dust bunny under the King's bed. |
+| **Yolo** | Gambler | Casino | Always loses, but claims he wins in parallel universes. |
+| **Zep** | Pilot | Airship | Is a sentient cloud of smoke in a suit. |
+| **A1** | Construct | Factory | Repeats the word "Why" every 10 seconds. |
+| **B2** | Drone | Hive | Flies backward. |
+| **C3** | Golem | Gate | Made of cheese, surprisingly durable. |
+| **D4** | Imp | Summoning | Demands payment in fingernail clippings. |
+| **E5** | Ghost | Attic | Haunts a dollhouse, very small scares. |
+| **F6** | Skeleton | Crypt | Dances whenever music plays, hates it. |
+| **G7** | Zombie | Graveyard | Apologizes profusely while attacking. |
+| **H8** | Spirit | Well | Grants wishes but sarcastically. |
+| **I9** | Elemental | Forge | Is made of cold fire (freezes things it burns). |
+| **J0** | Mimic | Dungeon | Is a door that refuses to open unless told a joke. |
+| **K1** | Slime | Sewer | Sentient mucus that wants to be a painter. |
+| **L2** | Beast | Woods | A wolf that meows. |
+| **M3** | Bird | Sky | A crow that recites tax code. |
+| **N4** | Fish | River | Swims through the air, drowns in water. |
+| **O5** | Tree | Forest | Bleeds red blood when chopped. |
+| **P6** | Rock | Mountain | Screams when stepped on. |
+| **Q7** | Cloud | Sky | Shaped like a hand giving a thumbs down. |
+| **R8** | Rain | Weather | Tastes like lemonade. |
+| **S9** | Fog | Valley | Makes you forget your middle name. |
+| **T0** | Mud | Swamp | Pulls you down only if you are thinking sad thoughts. |
+| **U1** | Grass | Plains | Tickles bare feet aggressively. |
+| **V2** | Wind | Canyon | Whispers gossip about your neighbors. |
+| **W3** | Star | Space | Blinks in Morse code ("Help me"). |
+| **X4** | Moon | Night | Sometimes rotates to show a smiley face. |
 
 ---
 
@@ -290,36 +290,36 @@ The "Inevitability" is not a guardian. It is the calcification of the timeline. 
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Sneeze | Alistair | Find the sneeze he suppressed in 1492. | Bread of Haste |
-| The Left Shoe | Jax | Steal the Duke's left shoe to stop a war. | Boots of Silence |
-| The Future Letter | Elara | Deliver a letter to a man dead for 10 years. | Ghost Ink |
-| The Cat's Meow | L2 (Beast) | Find the cat who stole the wolf's bark. | Amulet of Tongues |
-| The Frozen Tear | Opal | Retrieve a tear from a statue in the Static City. | Diamond of Stasis |
-| The Shadow Hunt | Doro | Catch a shadow that escaped its owner. | Cloak of Night |
-| The Backward Song | Kalo | Learn a song played in reverse from a ghost. | Flute of Rewind |
-| The Rotten Seed | Spore-Mother | Plant a seed in the King's stomach (stealth). | Armor of Bark |
-| The Silent Bell | The Curator | Ring a bell that makes no sound in the Void. | Ring of Silence |
-| The Missing Tuesday | Chronos | Find where last Tuesday went (it was stolen). | Potion of Long Rest |
-| The Echo Trap | Echo-Eaters | Trap a scream in a jar. | Bomb of Sonic Force |
-| The Mirror's Lie | Tibs | Break a mirror that shows a happy future. | Shield of Reflection |
-| The Anchor's Rust | Wyn | Polish the anchor of a ship sailing through time. | Trident of Rust |
-| The Dream Eater | Grandmother | Kill a nightmare plaguing the orphanage. | Dreamcatcher Shield |
-| The Paradox Coin | Yolo | Flip a coin until it lands on its edge (DC 30). | Lucky Coin |
-| The Love Note | The Siphon | Deliver a breakup note to a vampire. | Vial of Vampire Blood |
-| The Clockwork Heart | General Tock | Find a gear to fix his heart. | Clockwork Familiar |
-| The Blind Painter | Madame Twice | Describe a sunset to a blind painter perfectly. | Painting of True Sight |
-| The Unborn Child | Hia | Protect a pregnant woman from time-assassins. | Healing Staff |
-| The Forgotten Name | Grave-Keeper | Find the name on an eroded tombstone. | Shovel of Digging |
-| The Rain's Taste | R8 (Rain) | Collect rain that tastes like wine. | Decanter of Endless Water |
-| The Cloud's Shape | Zep | Reshape a cloud into a smiley face. | Flying Carpet |
-| The Stone's Scream | Qor | Make a stone laugh. | Hammer of Smashing |
-| The Fire's Cold | I9 | Light a fire under water. | Torch of Everburning |
-| The Door's Joke | J0 (Mimic) | Tell a mimic a joke it hasn't heard. | Key of Opening |
-| The Rat's Debate | Pym | Win a debate against a rat king. | Pipe of Swarms |
-| The Star's Blink | Sol | Map the Morse code from a dying star. | Scroll of Meteor Swarm |
-| The Mud's Sorrow | T0 | Cheer up a swamp. | Boots of Striding |
-| The Wind's Gossip | V2 | Learn a secret from the wind. | Earring of Whispers |
-| The Final Breath | Cassandra | Catch the last breath of a dying god. | Vial of Resurrection |
+| **The Lost Sneeze** | Alistair | Find the sneeze he suppressed in 1492. | Bread of Haste |
+| **The Left Shoe** | Jax | Steal the Duke's left shoe to stop a war. | Boots of Silence |
+| **The Future Letter** | Elara | Deliver a letter to a man dead for 10 years. | Ghost Ink |
+| **The Cat's Meow** | L2 (Beast) | Find the cat who stole the wolf's bark. | Amulet of Tongues |
+| **The Frozen Tear** | Opal | Retrieve a tear from a statue in the Static City. | Diamond of Stasis |
+| **The Shadow Hunt** | Doro | Catch a shadow that escaped its owner. | Cloak of Night |
+| **The Backward Song** | Kalo | Learn a song played in reverse from a ghost. | Flute of Rewind |
+| **The Rotten Seed** | Spore-Mother | Plant a seed in the King's stomach (stealth). | Armor of Bark |
+| **The Silent Bell** | The Curator | Ring a bell that makes no sound in the Void. | Ring of Silence |
+| **The Missing Tuesday** | Chronos | Find where last Tuesday went (it was stolen). | Potion of Long Rest |
+| **The Echo Trap** | Echo-Eaters | Trap a scream in a jar. | Bomb of Sonic Force |
+| **The Mirror's Lie** | Tibs | Break a mirror that shows a happy future. | Shield of Reflection |
+| **The Anchor's Rust** | Wyn | Polish the anchor of a ship sailing through time. | Trident of Rust |
+| **The Dream Eater** | Grandmother | Kill a nightmare plaguing the orphanage. | Dreamcatcher Shield |
+| **The Paradox Coin** | Yolo | Flip a coin until it lands on its edge (DC 30). | Lucky Coin |
+| **The Love Note** | The Siphon | Deliver a breakup note to a vampire. | Vial of Vampire Blood |
+| **The Clockwork Heart** | General Tock | Find a gear to fix his heart. | Clockwork Familiar |
+| **The Blind Painter** | Madame Twice | Describe a sunset to a blind painter perfectly. | Painting of True Sight |
+| **The Unborn Child** | Hia | Protect a pregnant woman from time-assassins. | Healing Staff |
+| **The Forgotten Name** | Grave-Keeper | Find the name on an eroded tombstone. | Shovel of Digging |
+| **The Rain's Taste** | R8 (Rain) | Collect rain that tastes like wine. | Decanter of Endless Water |
+| **The Cloud's Shape** | Zep | Reshape a cloud into a smiley face. | Flying Carpet |
+| **The Stone's Scream** | Qor | Make a stone laugh. | Hammer of Smashing |
+| **The Fire's Cold** | I9 | Light a fire under water. | Torch of Everburning |
+| **The Door's Joke** | J0 (Mimic) | Tell a mimic a joke it hasn't heard. | Key of Opening |
+| **The Rat's Debate** | Pym | Win a debate against a rat king. | Pipe of Swarms |
+| **The Star's Blink** | Sol | Map the Morse code from a dying star. | Scroll of Meteor Swarm |
+| **The Mud's Sorrow** | T0 | Cheer up a swamp. | Boots of Striding |
+| **The Wind's Gossip** | V2 | Learn a secret from the wind. | Earring of Whispers |
+| **The Final Breath** | Cassandra | Catch the last breath of a dying god. | Vial of Resurrection |
 
 ---
 

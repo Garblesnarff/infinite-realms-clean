@@ -242,36 +242,36 @@ The conflict is not about gold. The "Treasure of the Pirate King" is the **Titan
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Missing Leg | Peg-Leg Pete | Find his original leg in a shark's stomach. | The leg (it’s magical). |
-| The Cursed Parrot | Madame Zora | Silence a parrot that shouts prophecies. | A Potion of Silence. |
-| The Love Letter | Ghost of Cabin 4 | Deliver a letter to a woman dead 50 years. | Ghost touch weapon. |
-| The Rat King | Barnaby | Overthrow the cat ruling the galley. | Infinite cheese supply. |
-| The Floating Garden | Nora | Retrieve a cloud-lily from a floating island. | Self-healing sails. |
-| The Drunken Compass | Captain Z | Calibrate a compass that points to rum. | The compass. |
-| The Mermaid's Comb | Dredge | Steal a comb from a sleeping siren. | Water breathing ring. |
-| The Shadow Thief | Vrix | Catch a shadow that escaped its owner. | Cloak of Displacement. |
-| The Golden Tooth | Rickets | Extract a tooth from a Dragon Turtle. | 500 Gold. |
-| The Invisible Ink | Xylia | Find a squid that squirts invisible ink. | Unreadable spellbook. |
-| The Singing Sword | Garm | Retrieve a sword that won't stop screaming. | Sonic damage sword. |
-| The Lost Time | Old Tom | Find the hour he lost gambling. | A Potion of Haste. |
-| The Weeping Figurehead | Splinter | Carve a smile on a depressed ship. | Ship morale boost. |
-| The Stolen Wind | Mother Monsoon | Release the wind trapped in a bottle. | Wind Fan. |
-| The Living Map | The Blind Draftsman | Feed the map a drop of royal blood. | Map reveals secret path. |
-| The Skeleton Key | Duchess Marrow | Find the key to her chastity belt. | A skeleton crewman. |
-| The Explosive Pie | Pippin | Deliver a pie that is a bomb to the Governor. | Fire resistance ring. |
-| The Moon-Rock | Null | Catch a falling star in a net. | Meteorite metal. |
-| The Silent Bell | Brother O | Ring a bell that makes no sound. | Zone of Silence scroll. |
-| The Twin Mirror | Lira | Find the mirror that shows your evil twin. | Mirror Image scroll. |
-| The Salt-Glider | Fizzlepop | Test fly a glider made of fish bones. | Glider wings. |
-| The Bioluminescent Dye | Luminarch Krell | Harvest dye from a glowing jellyfish. | Glowing armor. |
-| The Infinite Rope | Silas | Untangle a rope that has no end. | Rope of Climbing. |
-| The Lead Coin | Vane | Slip a cursed coin into a rival's purse. | Insider trading info. |
-| The Coral Crown | Olan | Plant a coral on a rival ship's hull. | Breathing bubble. |
-| The Dream-Catcher | Spore | Enter a sleeping giant's dream. | Potion of Rest. |
-| The Frozen Flame | Ash | Bring back fire that is cold to the touch. | Frost brand dagger. |
-| The Whispering Shell | Siren | Record a secret in a conch shell. | Charm Person wand. |
-| The Unsinkable Cork | Dredge | Find a cork that can float an anvil. | Buoyancy vest. |
-| The Last Laugh | Gliff | Tell a joke to a stone golem. | Stone skin potion. |
+| **The Missing Leg** | Peg-Leg Pete | Find his original leg in a shark's stomach. | The leg (it’s magical). |
+| **The Cursed Parrot** | Madame Zora | Silence a parrot that shouts prophecies. | A Potion of Silence. |
+| **The Love Letter** | Ghost of Cabin 4 | Deliver a letter to a woman dead 50 years. | Ghost touch weapon. |
+| **The Rat King** | Barnaby | Overthrow the cat ruling the galley. | Infinite cheese supply. |
+| **The Floating Garden** | Nora | Retrieve a cloud-lily from a floating island. | Self-healing sails. |
+| **The Drunken Compass** | Captain Z | Calibrate a compass that points to rum. | The compass. |
+| **The Mermaid's Comb** | Dredge | Steal a comb from a sleeping siren. | Water breathing ring. |
+| **The Shadow Thief** | Vrix | Catch a shadow that escaped its owner. | Cloak of Displacement. |
+| **The Golden Tooth** | Rickets | Extract a tooth from a Dragon Turtle. | 500 Gold. |
+| **The Invisible Ink** | Xylia | Find a squid that squirts invisible ink. | Unreadable spellbook. |
+| **The Singing Sword** | Garm | Retrieve a sword that won't stop screaming. | Sonic damage sword. |
+| **The Lost Time** | Old Tom | Find the hour he lost gambling. | A Potion of Haste. |
+| **The Weeping Figurehead** | Splinter | Carve a smile on a depressed ship. | Ship morale boost. |
+| **The Stolen Wind** | Mother Monsoon | Release the wind trapped in a bottle. | Wind Fan. |
+| **The Living Map** | The Blind Draftsman | Feed the map a drop of royal blood. | Map reveals secret path. |
+| **The Skeleton Key** | Duchess Marrow | Find the key to her chastity belt. | A skeleton crewman. |
+| **The Explosive Pie** | Pippin | Deliver a pie that is a bomb to the Governor. | Fire resistance ring. |
+| **The Moon-Rock** | Null | Catch a falling star in a net. | Meteorite metal. |
+| **The Silent Bell** | Brother O | Ring a bell that makes no sound. | Zone of Silence scroll. |
+| **The Twin Mirror** | Lira | Find the mirror that shows your evil twin. | Mirror Image scroll. |
+| **The Salt-Glider** | Fizzlepop | Test fly a glider made of fish bones. | Glider wings. |
+| **The Bioluminescent Dye** | Luminarch Krell | Harvest dye from a glowing jellyfish. | Glowing armor. |
+| **The Infinite Rope** | Silas | Untangle a rope that has no end. | Rope of Climbing. |
+| **The Lead Coin** | Vane | Slip a cursed coin into a rival's purse. | Insider trading info. |
+| **The Coral Crown** | Olan | Plant a coral on a rival ship's hull. | Breathing bubble. |
+| **The Dream-Catcher** | Spore | Enter a sleeping giant's dream. | Potion of Rest. |
+| **The Frozen Flame** | Ash | Bring back fire that is cold to the touch. | Frost brand dagger. |
+| **The Whispering Shell** | Siren | Record a secret in a conch shell. | Charm Person wand. |
+| **The Unsinkable Cork** | Dredge | Find a cork that can float an anvil. | Buoyancy vest. |
+| **The Last Laugh** | Gliff | Tell a joke to a stone golem. | Stone skin potion. |
 
 ---
 

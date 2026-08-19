@@ -18,7 +18,8 @@ The World is not a floor; it's a mouth that's slowly swallowing the past. In the
 ### The 'Why'
 The central conflict is the struggle between 'Resilience' and 'Ruthlessness.' It is about the 'Desolate Beauty' of the human spirit—the realization that true glory comes from surviving a land that wants to swallow you whole. The 'Why' is the question: 'Who killed the world, and how much grit are you willing to show to find a way back to the Green?' It explores the realistic texture of the pitted metal, the visceral horror of the tooth-filled maw (equivalent), and the gravelly, weathered voice of a man who has seen too many neighbors vanish into the sand. The players are the road warriors and rebels who must navigate the sand-skiff tactics and desert navigation to find a resolution that honors the memory of the past.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Dust-Runners (The Survivors)
 **Type:** Elite/Survivalist Desert Defense Force
 **Leader:** Rust (A grizzled prospector - Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Resilience' and 'Ruthlessness.' It
 **Asset:** Knowledge of the deepest ruins and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Rust** (Independent - The Lead) - A man in a patched leather duster with a weathered face. **Voice:** Old, gravelly, and dry like the sun-baked earth. **Goal:** To get his team across the salt-pan alive and find the 'Green Place.' **Secret:** He is a high-level Adept of 'Grit-Energy' who can 'fix' a skiff using nothing but a rock and a prayer.
-**The Warlord (Director Vane)** (Syndicate - The Villain) - A man in a perfectly pressed suit who views the desert as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest 'Vibe-Energy' from the ruins and monetize the past. **Secret:** He is the one who triggered the 'Silicon surge' that created the Wasteland.
-**Doc Mira** (Independent - The Mentor) - A woman in practical robes with a medical satchel. **Voice:** Soft, melodic, and filled with gentle determination. **Goal:** To find a way to 'Pacify' the desert and save the people. **Secret:** she is the only person who has entered a 'Dust-Tear' and returned with her soul intact.
-**The Pilot (Flash)** (Independent - The Expert) - A man who can fly a sand-skiff through a storm without blinking. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect the survivors and find his own place in the story. **Secret:** He has discovered a 'Vulnerability' in the Warlord's tracking system that he's too professional to share.
-**The Desert (Echo)** (Anomaly - Mythic Leader) - The manifest consciousness of the sun-baked earth. **Voice:** None (subsonic rumbles and whispers). **Goal:** To reclaim the world from the 'Vibrating Parasites' (humans). **Secret:** The desert is not hunting for blood; it is protecting a 'Reality-Anchor' hidden in the mesa.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Rust** (Independent - The Lead) - A man in a patched leather duster with a weathered face. **Voice:** Old, gravelly, and dry like the sun-baked earth. **Goal:** To get his team across the salt-pan alive and find the 'Green Place.' **Secret:** He is a high-level Adept of 'Grit-Energy' who can 'fix' a skiff using nothing but a rock and a prayer.
+2.  **The Warlord (Director Vane)** (Syndicate - The Villain) - A man in a perfectly pressed suit who views the desert as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest 'Vibe-Energy' from the ruins and monetize the past. **Secret:** He is the one who triggered the 'Silicon surge' that created the Wasteland.
+3.  **Doc Mira** (Independent - The Mentor) - A woman in practical robes with a medical satchel. **Voice:** Soft, melodic, and filled with gentle determination. **Goal:** To find a way to 'Pacify' the desert and save the people. **Secret:** she is the only person who has entered a 'Dust-Tear' and returned with her soul intact.
+4.  **The Pilot (Flash)** (Independent - The Expert) - A man who can fly a sand-skiff through a storm without blinking. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect the survivors and find his own place in the story. **Secret:** He has discovered a 'Vulnerability' in the Warlord's tracking system that he's too professional to share.
+5.  **The Desert (Echo)** (Anomaly - Mythic Leader) - The manifest consciousness of the sun-baked earth. **Voice:** None (subsonic rumbles and whispers). **Goal:** To reclaim the world from the 'Vibrating Parasites' (humans). **Secret:** The desert is not hunting for blood; it is protecting a 'Reality-Anchor' hidden in the mesa.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Resilience' and 'Ruthlessness.' It
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Past's Beginning.' |
 | The Clerk | Syndicate Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Fortified Oasis (The Hub)
 A ramshackle town built from scrap and ancient stone.
 *   **The Main Plaza:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Dust, stale whiskey, and old wood. **Sound:** The rhythmic 'creak-creak' of elevated walkways.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to forgotten wonders and taboos.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Observation Deck:** Where the 'Grand Scouring' was first spoken. **Visual:** A single harsh spotlight in the center of the dark.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Ripple:** Arrive at the Fortified Oasis. You must survive your first 'Dust Devil Ambush' using only your iron axe (equivalent).
 2.  **The Sand-Skiff Breakout:** Join Rust in a high-stakes escape across the salt-pan. You must identify the 'Grit-Energy' node before the Warlord's fleet arrives.
 3.  **The Ancient Tech Heist:** Infiltrate a rival Warlord's camp to retrieve a stolen 'Map-Focus.' You must bypass their 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the Desert's secret vault.
 7.  **The Final Bloodletting at Dawn:** Face the Warlord and the Desert face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the armor or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Wastes
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Wastes:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Skiff.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Grit-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Master key card
+2.  **The Master key card:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire card that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Unlock' any magically or physically sealed door in the Wasteland. Once per day, the user can 'Silence' a Warlord's speech.
 
-### 3. The Seed of the Green Place
+3.  **The Seed of the Green Place:**
 **Type:** Wondrous Item
 **Description:** A simple, glowing seed that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

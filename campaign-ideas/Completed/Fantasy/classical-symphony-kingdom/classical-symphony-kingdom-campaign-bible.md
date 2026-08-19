@@ -215,56 +215,56 @@ The conflict is not Good vs. Evil; it is **Existence vs. Dissolution**. The Gran
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Largo | Innkeeper | The Slow district | Moves in slow motion, spills nothing. |
-| Sharp | Blacksmith | Iron Quarter | Hammers exclusively in 7/8 time. |
-| Flat | Beggar | Street Corner | Is literally two-dimensional (paper thin). |
-| Coda | Scribe | Archives | Writes with own blood (ink is expensive). |
-| Reed | Woodworker | Market | Sneezes sawdust. |
-| Bow | Guard | Gate | Helmet is a giant bell. |
-| Rosin | Alchemist | Alleyway | Smells like pine and rotting meat. |
-| Key | Jailor | Dungeon | Has keys fused into his fingertips. |
-| Pitch | Roofer | High District | Only speaks in questions? |
-| Tempo | Courier | Citywide | Runs backwards. |
-| Major | Noble | Palace | Wears a wig made of living birds. |
-| Minor | Servant | Palace | Weeps constantly but is happy. |
-| Bridge | Architect | Construction | Refuses to build right angles. |
-| Chorus | Baker | Bakery | Bread screams when sliced. |
-| Verse | Teacher | School | Floats 2 inches off the ground. |
-| Clef | Doctor | Clinic | Listens to hearts with a trumpet. |
-| Note | Child | Park | Has no face, only a speaker. |
-| Scale | Fishmonger | Docks | Fish are made of glass. |
-| Drum | Bouncer | Tavern | Chest is a literal drum. |
-| Fret | Gambler | Casino | Fingers are unnaturally long. |
-| Lyric | Poet | Square | Vomits ink when stressed. |
-| Chant | Priest | Temple | Skin is covered in sheet music tattoos. |
-| Hum | Janitor | Hall | Sweeps in geometric patterns. |
-| Whistle | Scout | Walls | Can call birds to attack. |
-| Echo | Twin 1 | Market | Repeats everything Twin 2 says. |
-| Reverb | Twin 2 | Market | Says things before Twin 1 says them. |
-| Tone | Painter | Studio | Paints with sound waves. |
-| Bell | Town Crier | Plaza | Head is a clapper. |
-| Harp | Seamstress | Tailor | Sews with harp strings (razor sharp). |
-| Organ | Butcher | Meat Shop | Organs are musical organs. |
-| Piper | Rat Catcher | Sewers | Rats dance behind him. |
-| Viol | Prostitute | Red Light | Body vibrates pleasantly. |
-| Tuba | Heavy Lifter | Docks | Voice creates shockwaves. |
-| Oboe | Spy | Shadows | Can fold into a pocket. |
-| Flute | Gardener | Greenhouse | Plants grow when he whistles. |
-| Rest | Undertaker | Graveyard | Buries people in instrument cases. |
-| Horn | Taxi Driver | Carriage | Carriage pulled by giant crickets. |
-| Jazz | Outlaw | Slums | Colors change when he moves. |
-| Blues | Bartender | Dive Bar | Tears are 100 proof alcohol. |
-| Rock | Mason | Quarry | Eats stones. |
-| Soul | Medium | Seance Room | Glows in the dark. |
-| Pop | Celebrity | Theater | Explodes into glitter if touched. |
-| Folk | Farmer | Fields | Corn grows in rows of 5. |
-| Punk | Anarchist | Sewer | Hair is made of spikes. |
-| Ska | Dancer | Club | Knees bend backwards. |
-| Metal | Soldier | Barracks | Bleeds mercury. |
-| Trance | Drug Dealer | Alley | Eyes are spinning spirals. |
-| Disco | Mirror Maker | Shop | Reflections show your true self. |
-| Beat | Boxer | Gym | Heartbeat is audible 10ft away. |
-| Noise | Madman | Asylum | Emits static constantly. |
+| **Largo** | Innkeeper | The Slow district | Moves in slow motion, spills nothing. |
+| **Sharp** | Blacksmith | Iron Quarter | Hammers exclusively in 7/8 time. |
+| **Flat** | Beggar | Street Corner | Is literally two-dimensional (paper thin). |
+| **Coda** | Scribe | Archives | Writes with own blood (ink is expensive). |
+| **Reed** | Woodworker | Market | Sneezes sawdust. |
+| **Bow** | Guard | Gate | Helmet is a giant bell. |
+| **Rosin** | Alchemist | Alleyway | Smells like pine and rotting meat. |
+| **Key** | Jailor | Dungeon | Has keys fused into his fingertips. |
+| **Pitch** | Roofer | High District | Only speaks in questions? |
+| **Tempo** | Courier | Citywide | Runs backwards. |
+| **Major** | Noble | Palace | Wears a wig made of living birds. |
+| **Minor** | Servant | Palace | Weeps constantly but is happy. |
+| **Bridge** | Architect | Construction | Refuses to build right angles. |
+| **Chorus** | Baker | Bakery | Bread screams when sliced. |
+| **Verse** | Teacher | School | Floats 2 inches off the ground. |
+| **Clef** | Doctor | Clinic | Listens to hearts with a trumpet. |
+| **Note** | Child | Park | Has no face, only a speaker. |
+| **Scale** | Fishmonger | Docks | Fish are made of glass. |
+| **Drum** | Bouncer | Tavern | Chest is a literal drum. |
+| **Fret** | Gambler | Casino | Fingers are unnaturally long. |
+| **Lyric** | Poet | Square | Vomits ink when stressed. |
+| **Chant** | Priest | Temple | Skin is covered in sheet music tattoos. |
+| **Hum** | Janitor | Hall | Sweeps in geometric patterns. |
+| **Whistle** | Scout | Walls | Can call birds to attack. |
+| **Echo** | Twin 1 | Market | Repeats everything Twin 2 says. |
+| **Reverb** | Twin 2 | Market | Says things before Twin 1 says them. |
+| **Tone** | Painter | Studio | Paints with sound waves. |
+| **Bell** | Town Crier | Plaza | Head is a clapper. |
+| **Harp** | Seamstress | Tailor | Sews with harp strings (razor sharp). |
+| **Organ** | Butcher | Meat Shop | Organs are musical organs. |
+| **Piper** | Rat Catcher | Sewers | Rats dance behind him. |
+| **Viol** | Prostitute | Red Light | Body vibrates pleasantly. |
+| **Tuba** | Heavy Lifter | Docks | Voice creates shockwaves. |
+| **Oboe** | Spy | Shadows | Can fold into a pocket. |
+| **Flute** | Gardener | Greenhouse | Plants grow when he whistles. |
+| **Rest** | Undertaker | Graveyard | Buries people in instrument cases. |
+| **Horn** | Taxi Driver | Carriage | Carriage pulled by giant crickets. |
+| **Jazz** | Outlaw | Slums | Colors change when he moves. |
+| **Blues** | Bartender | Dive Bar | Tears are 100 proof alcohol. |
+| **Rock** | Mason | Quarry | Eats stones. |
+| **Soul** | Medium | Seance Room | Glows in the dark. |
+| **Pop** | Celebrity | Theater | Explodes into glitter if touched. |
+| **Folk** | Farmer | Fields | Corn grows in rows of 5. |
+| **Punk** | Anarchist | Sewer | Hair is made of spikes. |
+| **Ska** | Dancer | Club | Knees bend backwards. |
+| **Metal** | Soldier | Barracks | Bleeds mercury. |
+| **Trance** | Drug Dealer | Alley | Eyes are spinning spirals. |
+| **Disco** | Mirror Maker | Shop | Reflections show your true self. |
+| **Beat** | Boxer | Gym | Heartbeat is audible 10ft away. |
+| **Noise** | Madman | Asylum | Emits static constantly. |
 
 ---
 

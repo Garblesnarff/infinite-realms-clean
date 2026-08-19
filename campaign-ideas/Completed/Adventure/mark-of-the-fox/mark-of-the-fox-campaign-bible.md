@@ -18,7 +18,8 @@ The Soul is not a face; it's a mask. In the sun-drenched, adobe-white pueblo of 
 ### The 'Why'
 The central conflict is the struggle between 'Noble Responsibility' and 'Systemic Injustice.' It is about the 'Romantic Swashbuckler' of the double-life—the realization that being a hero often requires becoming a ghost. The 'Why' is the question: 'Can one masked man inspire a people to reclaim their own freedom?' It explores the sunset oranges of the California landscape, the dramatic geometry of the duel, and the playful wit of a man who outsmarts his enemies with a smile. The players are the Fox's assistants and the noble allies who must navigate the subtext of a garden party and the intensity of a rooftop escape to find a justice that isn't written in the law.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Fox's Vanguard (The Liberators)
 **Type:** Masked Vigilante/Peasant Resistance
 **Leader:** The Fox (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Noble Responsibility' and 'Systemi
 **Asset:** Knowledge of the pueblo's layout, medical expertise, and a refusal to be bought by the Governor.
 **Rivals:** The Governor's Guard.
 
-## [TAG: NPC_TIER_1]
-**Don Diego (The Fox)** (Independent - Master Duelist) - A man who appears harmless but is actually a lethal weapon. **Voice:** Foppish disinterest (Public) vs. Confident and heroic (Private). **Goal:** To restore justice to Los Angeles and protect his family. **Secret:** He is a high-level Adept of 'Flourish' who can 'carve' symbols into reality that cause psychological damage.
-**Lolita** (Independent - Rebel Heroine) - A beautiful and practical woman in period-appropriate Spanish dresses. **Voice:** Seductive, intelligent, and filled with righteous anger. **Goal:** To support the Fox and find a man she can actually respect. **Secret:** She was the one who 'accidently' left the gate unlocked for the Fox's first raid.
-**Captain Monastario** (Governor's Guard - The Villain) - A man of arrogant discipline and dramatic flourishes. **Voice:** Booming, theatrical, and filled with a cold rage. **Goal:** To unmask the Fox and rule the pueblo with an iron fist. **Secret:** He is secretly terrified of the Fox and views their duels as a form of divine punishment.
-**Father Felipe** (Church - The Mentor) - A man of humble whites and browns who speaks for the mission. **Voice:** Soft, melodic, and filled with wisdom. **Goal:** To preserve the 'Great Accord' and protect the innocent. **Secret:** He knows Diego's secret and provides him with 'Spiritual Alibis.'
-**Bernardo** (Independent - The Silent) - Diego's loyal servant who pretends to be deaf and dumb. **Voice:** None (gestures and whistles). **Goal:** To provide the Fox with real-time intelligence and support. **Secret:** He is a master of 'Silent Navigation' and can move through the pueblo without making a sound.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Don Diego (The Fox)** (Independent - Master Duelist) - A man who appears harmless but is actually a lethal weapon. **Voice:** Foppish disinterest (Public) vs. Confident and heroic (Private). **Goal:** To restore justice to Los Angeles and protect his family. **Secret:** He is a high-level Adept of 'Flourish' who can 'carve' symbols into reality that cause psychological damage.
+2.  **Lolita** (Independent - Rebel Heroine) - A beautiful and practical woman in period-appropriate Spanish dresses. **Voice:** Seductive, intelligent, and filled with righteous anger. **Goal:** To support the Fox and find a man she can actually respect. **Secret:** She was the one who 'accidently' left the gate unlocked for the Fox's first raid.
+3.  **Captain Monastario** (Governor's Guard - The Villain) - A man of arrogant discipline and dramatic flourishes. **Voice:** Booming, theatrical, and filled with a cold rage. **Goal:** To unmask the Fox and rule the pueblo with an iron fist. **Secret:** He is secretly terrified of the Fox and views their duels as a form of divine punishment.
+4.  **Father Felipe** (Church - The Mentor) - A man of humble whites and browns who speaks for the mission. **Voice:** Soft, melodic, and filled with wisdom. **Goal:** To preserve the 'Great Accord' and protect the innocent. **Secret:** He knows Diego's secret and provides him with 'Spiritual Alibis.'
+5.  **Bernardo** (Independent - The Silent) - Diego's loyal servant who pretends to be deaf and dumb. **Voice:** None (gestures and whistles). **Goal:** To provide the Fox with real-time intelligence and support. **Secret:** He is a master of 'Silent Navigation' and can move through the pueblo without making a sound.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Noble Responsibility' and 'Systemi
 | The Monk | Ancient Worshipper | Mission Library | Spends all his time painting murals of the 'Spirit of the Fox.' |
 | The Guard | Governor's Security | Throne Room | Wears a tie that is 1 inch too long; claims it's a 'Spanish Fashion.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Pueblo Plaza (Los Angeles)
 An adobe-white landscape of family-owned shops and a central fountain.
 *   **The Mission Church:** A site of 'Spiritual Sanctuary' and humble whites. **Smell:** Incense, dry earth, and old paper. **Sound:** The rhythmic 'bong-bong' of the mission bell.
@@ -89,7 +92,8 @@ A royal gold and burgundy monument to wealth and arrogance.
 A site of 'Romantic Seduction' and desaturated pastels.
 *   **The Bench:** Where the Fox and Lolita first spoke. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Mark:** Arrive in the pueblo as Don Diego. You must carve your first 'Z' into the Governor's wall while maintaining your 'Harmless Fop' disguise.
 2.  **The Mission Rescue:** The Governor has taken a peasant leader hostage at the Mission Church. You must rescue him without violating the sanctuary.
 3.  **The Secret Cave Heist:** Retrieve a shipment of recovered gold from the Governor's vault. You must use Tornado's speed to navigate the desert road.
@@ -98,18 +102,19 @@ A site of 'Romantic Seduction' and desaturated pastels.
 6.  **The Mark of the Fox:** Face Captain Monastario in a final, public duel in the Plaza. You must use your 'Science of Flourish' to brand him with the 'Z.'
 7.  **The Final Coronation:** The truth is revealed through 'Romantic Swashbuckling' and mutual respect as the Governor is overthrown and justice is restored.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Fox
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Fox:**
 **Type:** Legendary Rapier
 **Description:** A simple, black rapier that seems to hum with the energy of the first Fox.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Mark of Zorro' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mask of Shadow
+2.  **The Mask of Shadow:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A simple, black domino mask that seems to meld with the wearer's face.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks and makes them immune to being recognized by anyone who doesn't already know their secret.
 
-### 3. The Governor's Ledger
+3.  **The Governor's Ledger:**
 **Type:** Artifact (Tome)
 **Description:** A thick, clinical book that contains the records of every bribe and tax in the pueblo.
 **Mechanics:** Grants the holder advantage on all Intelligence (Investigation) and Wisdom (Insight) checks. **Curse:** The holder is hunted by the Governor's Guard.

@@ -18,7 +18,8 @@ The World is not a floor; it's a board that's waiting to be flipped. In the hear
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Sterile Performance.' It is about the 'Found Family' of the human spirit—the realization that your greatest weapon is your board, not your reputation. The 'Why' is the question: 'Can the streets remember what they were before they were paved, or is the future a zero-sum game of marble and glass?' It explores the realistic texture of the worn concrete, the visceral horror of the snapped board, and the weathered, street-wise voice of a man who has seen too many legends vanish into the shadows. The players are the skaters and artists who must navigate the crew politics and the intensity of a high-speed chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Pit Crew (The Order)
 **Type:** Multi-Ethnic/Working-Class Brotherhood
 **Leader:** Ollie "The Godfather" Martinez (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sterile P
 **Asset:** High-end gear, knowledge of the marble ledges, and a total disregard for 'Old Guard' history.
 **Rivals:** The Pit Crew.
 
-## [TAG: NPC_TIER_1]
-**Ollie "The Godfather" Martinez** (Pit Crew - The Leader) - A man in weathered flannel with a smoker's rasp. **Voice:** Weathered, street-wise, and tired but determined. **Goal:** To protect the Pit and find a worthy successor to the Flow. **Secret:** He is secretly an Adept of 'Vibe-Energy' who can 'persuade' a rail to extend infinitely through his presence.
-**Commissioner Slate** (Judges - The Villain) - A man in a sterile gray suit with a bureaucratic precision. **Voice:** Corporate smooth, cold, and calculated. **Goal:** To standardize the city and eliminate the 'Variable' vibes. **Secret:** He killed his own father, a legendary skater, to prove the superiority of the 'Order of Progress.'
-**Ghost** (Independent - The Enigma) - A figure whose voice is echoing, ethereal, and sometimes overlapping with himself. **Voice:** Melancholic, wise, and resigned. **Goal:** To witness the end of the song and record the final silence. **Secret:** He is already part-Apocalypse, having stayed in the 'Void Quarter' too long to maintain his physical form.
-**K-Grind** (Arte Crew - The Catalyst) - A woman in vibrant, graffiti-stained silks with Zendaya's confidence. **Voice:** Energetic, artistic, and revolutionary. **Goal:** To turn the entire city into a permanent 'Eternal Gallery.' **Secret:** she is the only person who can 'hear' the original Song of the World through the spray-paint hiss.
-**Razor** (West Side - The Rival) - A young, cocky man in high-end gear with Michael B. Jordan energy. **Voice:** Young, confident, and cocky. **Goal:** To dominate the city's leaderboards and win the 'Concrete Colosseum.' **Secret:** He has discovered a 'Vulnerability' in the Judges' tracking system that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Ollie "The Godfather" Martinez** (Pit Crew - The Leader) - A man in weathered flannel with a smoker's rasp. **Voice:** Weathered, street-wise, and tired but determined. **Goal:** To protect the Pit and find a worthy successor to the Flow. **Secret:** He is secretly an Adept of 'Vibe-Energy' who can 'persuade' a rail to extend infinitely through his presence.
+2.  **Commissioner Slate** (Judges - The Villain) - A man in a sterile gray suit with a bureaucratic precision. **Voice:** Corporate smooth, cold, and calculated. **Goal:** To standardize the city and eliminate the 'Variable' vibes. **Secret:** He killed his own father, a legendary skater, to prove the superiority of the 'Order of Progress.'
+3.  **Ghost** (Independent - The Enigma) - A figure whose voice is echoing, ethereal, and sometimes overlapping with himself. **Voice:** Melancholic, wise, and resigned. **Goal:** To witness the end of the song and record the final silence. **Secret:** He is already part-Apocalypse, having stayed in the 'Void Quarter' too long to maintain his physical form.
+4.  **K-Grind** (Arte Crew - The Catalyst) - A woman in vibrant, graffiti-stained silks with Zendaya's confidence. **Voice:** Energetic, artistic, and revolutionary. **Goal:** To turn the entire city into a permanent 'Eternal Gallery.' **Secret:** she is the only person who can 'hear' the original Song of the World through the spray-paint hiss.
+5.  **Razor** (West Side - The Rival) - A young, cocky man in high-end gear with Michael B. Jordan energy. **Voice:** Young, confident, and cocky. **Goal:** To dominate the city's leaderboards and win the 'Concrete Colosseum.' **Secret:** He has discovered a 'Vulnerability' in the Judges' tracking system that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Sterile P
 | The Monk | Ancient Worshipper | Stone Altar | Spends all his time painting murals of the 'Flow's Beginning.' |
 | The Clerk | City Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Pit (The Hub)
 An iconic monument to empty swimming pools, decay, and graffiti masterpieces.
 *   **The Deep End:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Concrete, dust, and old paint. **Sound:** The rhythmic 'clack-clack' of wheels on tile.
@@ -89,7 +92,8 @@ A pristine corporate monument to marble ledges, glass, and steel.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Rock Formation:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Session:** Arrive in the city. You must survive your first 'Judge Ambush' using only your board and your 'Spiritual intuition.'
 2.  **The Sacred Grind Run:** Navigate the Quarry to find the Godfather. You must identify the 'Respiration Seed' (equivalent) before the surge.
 3.  **The West Side Infiltration:** Infiltrate the West Side camp to find evidence of their 'Reverse-Rebirth' plan. You must bypass Razor's guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The city's central crystal has begun its final 'Reset.' You must defend the Spires while the self-destruct activates.
 7.  **The Final Bloodletting at the Source:** Face the Judge face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Flow
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Flow:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Board.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Vibe-Energy Capsule
+3.  **The Vibe-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Vibe' magic.

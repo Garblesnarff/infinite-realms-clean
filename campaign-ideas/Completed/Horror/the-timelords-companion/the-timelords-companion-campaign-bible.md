@@ -156,18 +156,18 @@ In the final hour, the Aether-Mariner, a renegade Chronarch who loved the univer
 [TAG: NPC_TIER_2]
 
 ### Minor NPCs (High-Density Table)
-| ID | Name | Role | Location | Quirk | Secret (Plot Hook) |
+| **ID** | Name | Role | Location | Quirk | Secret (Plot Hook) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | Wilfred Mott | Retired Soldier | London | Salutes the stars; sells newspapers. | Saw the Mariner's face in a dream 20 years ago. |
-| 02 | Dorium Maldovar | Black Marketeer | The Maldovarium | Blue skin, exceedingly fat. | Has the head of a headless monk in a box. |
-| 03 | Novice Hame | Cat-Nun | New Earth | Purrs when nervous. | Knows the Face of Boe's final message. |
-| 04 | Madame Vastra | Silurian Detective | Victorian London | Eats criminals; wears a veil. | Is investigating the "Great Intelligence." |
-| 05 | Strax | Sontar-Kin Butler | Victorian London | Suggests grenades for all problems. | Lactates when stressed (he is cloned). |
-| 06 | Cantore | Face of Boe | Platform One | Giant head in a jar. | Is actually Captain Jack Harkness from the far future. |
-| 07 | Harriet Jones | MP / Prime Minister | London | Shows ID constantly. "I know who you are." | Will sacrifice the Mariner to save Earth. |
-| 08 | The Editor | Media Mogul | Satellite 5 | Albino; freezing cold hands. | Is a puppet for the Krell Emperor. |
-| 09 | Nancy | Street Urchin | 1941 London | Steals food for "monster" kids. | The "Empty Child" is her brother/son. |
-| 10 | Jabe | Tree-Person | Platform One | Skin is bark; flammable breath. | Possesses a cutting of the Ancestral Tree (illegal). |
+| **01** | Wilfred Mott | Retired Soldier | London | Salutes the stars; sells newspapers. | Saw the Mariner's face in a dream 20 years ago. |
+| **02** | Dorium Maldovar | Black Marketeer | The Maldovarium | Blue skin, exceedingly fat. | Has the head of a headless monk in a box. |
+| **03** | Novice Hame | Cat-Nun | New Earth | Purrs when nervous. | Knows the Face of Boe's final message. |
+| **04** | Madame Vastra | Silurian Detective | Victorian London | Eats criminals; wears a veil. | Is investigating the "Great Intelligence." |
+| **05** | Strax | Sontar-Kin Butler | Victorian London | Suggests grenades for all problems. | Lactates when stressed (he is cloned). |
+| **06** | Cantore | Face of Boe | Platform One | Giant head in a jar. | Is actually Captain Jack Harkness from the far future. |
+| **07** | Harriet Jones | MP / Prime Minister | London | Shows ID constantly. "I know who you are." | Will sacrifice the Mariner to save Earth. |
+| **08** | The Editor | Media Mogul | Satellite 5 | Albino; freezing cold hands. | Is a puppet for the Krell Emperor. |
+| **09** | Nancy | Street Urchin | 1941 London | Steals food for "monster" kids. | The "Empty Child" is her brother/son. |
+| **10** | Jabe | Tree-Person | Platform One | Skin is bark; flammable breath. | Possesses a cutting of the Ancestral Tree (illegal). |
 ... [Rows 11-50 generated in memory] ...
 
 ---
@@ -240,11 +240,11 @@ In the final hour, the Aether-Mariner, a renegade Chronarch who loved the univer
 ### Side Quest Table (Sample of 50)
 | Quest Name | Giver | Objective | Reward | Twist |
 | :--- | :--- | :--- | :--- | :--- |
-| The Girl in the Fireplace | Reinette | Kill the clockwork droids | Royal favor | She dies waiting for you to return (Time dilation). |
-| Midnight | The Hostess | Survive the shuttle ride | Survival | The monster steals voices; players must stop talking. |
-| The Lodger | Craig | Stop the upstairs noise | S.A.R.C. refuel | Upstairs is a proto-S.A.R.C. piloted by a hologram. |
-| Vincent | Van Gogh | Kill the invisible beast | Painting | Van Gogh still commits suicide (Fixed Point). |
-| The Unicorn | Unknown | Find the horn | Gold | The Unicorn is a disguised Krell. |
+| **The Girl in the Fireplace** | Reinette | Kill the clockwork droids | Royal favor | She dies waiting for you to return (Time dilation). |
+| **Midnight** | The Hostess | Survive the shuttle ride | Survival | The monster steals voices; players must stop talking. |
+| **The Lodger** | Craig | Stop the upstairs noise | S.A.R.C. refuel | Upstairs is a proto-S.A.R.C. piloted by a hologram. |
+| **Vincent** | Van Gogh | Kill the invisible beast | Painting | Van Gogh still commits suicide (Fixed Point). |
+| **The Unicorn** | Unknown | Find the horn | Gold | The Unicorn is a disguised Krell. |
 
 ---
 

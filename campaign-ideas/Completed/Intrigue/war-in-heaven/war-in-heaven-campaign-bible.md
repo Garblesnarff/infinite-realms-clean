@@ -18,7 +18,8 @@ The Universe is not a void; it's a hierarchy of light. In the beginning, the 'Ar
 ### The 'Why'
 The central conflict is the struggle between 'Divine Order' and 'Individual Sovereignty.' It is about the 'Sublime Terror' of standing before a god—the realization that beauty can be as oppressive as darkness. The 'Why' is the question: 'Is it better to serve in a perfect light or rule in a meaningful darkness?' It explores the monumental scale of the cosmic horror, the tragedy of the 'Tarnished Beauty,' and the weight of an eternal choice. The players are the angels and rebels who must navigate the breaking spires of Heaven to decide the ultimate frequency of the universe.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Celestial Choir (The Order)
 **Type:** Theocratic Cosmic Hegemony
 **Leader:** Archangel Michael (A being of pure, blinding radiance).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Divine Order' and 'Individual Sove
 **Asset:** The potential for a new melody that neither side understands.
 **Rivals:** None (they are the prize of the war).
 
-## [TAG: NPC_TIER_1]
-**Lucifer (Morning Star)** (Rebel - The Leader) - A being of dark beauty and unbroken will. **Voice:** Resonant, prideful, and filled with a tragic defiance. **Goal:** To overthrow the Architect and establish a universe of absolute choice. **Secret:** He still loves the light and is terrified that his song will only lead to silence.
-**Archangel Michael** (Order - The Defender) - A being of pure white light and gold armor. **Voice:** Authoritative, choral, and devoid of compromise. **Goal:** To preserve the Prime Harmony and cast out all dissonance. **Secret:** He was the one who whispered the first 'Thought of Self' to Lucifer, testing his loyalty.
-**Gabriel (The Messenger)** (Order - The Herald) - The voice of the Architect. **Voice:** Like a single trumpet note that echoes through eternity. **Goal:** To deliver the Word and ensure the 'New Creation' is protected. **Secret:** He has begun to hear Lucifer's melody and finds it more beautiful than the Song of Compliance.
-**Beelzebub** (Rebel - The Architect) - A fallen angel in tarnished gold and deep purple. **Voice:** Gruff, analytical, and filled with a ruined majesty. **Goal:** To build a Hell that is grander than any Heaven. **Secret:** He is already planning to betray Lucifer once the spires have fallen.
-**The Void Angel (Azrael)** (Independent - The Witness) - A being of black wings and stars. **Voice:** Whispered, like the sound of a dying sun. **Goal:** To witness the end of the song and record the final silence. **Secret:** He believes the Architect and Lucifer are two sides of the same 'Dissonance.'
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lucifer (Morning Star)** (Rebel - The Leader) - A being of dark beauty and unbroken will. **Voice:** Resonant, prideful, and filled with a tragic defiance. **Goal:** To overthrow the Architect and establish a universe of absolute choice. **Secret:** He still loves the light and is terrified that his song will only lead to silence.
+2.  **Archangel Michael** (Order - The Defender) - A being of pure white light and gold armor. **Voice:** Authoritative, choral, and devoid of compromise. **Goal:** To preserve the Prime Harmony and cast out all dissonance. **Secret:** He was the one who whispered the first 'Thought of Self' to Lucifer, testing his loyalty.
+3.  **Gabriel (The Messenger)** (Order - The Herald) - The voice of the Architect. **Voice:** Like a single trumpet note that echoes through eternity. **Goal:** To deliver the Word and ensure the 'New Creation' is protected. **Secret:** He has begun to hear Lucifer's melody and finds it more beautiful than the Song of Compliance.
+4.  **Beelzebub** (Rebel - The Architect) - A fallen angel in tarnished gold and deep purple. **Voice:** Gruff, analytical, and filled with a ruined majesty. **Goal:** To build a Hell that is grander than any Heaven. **Secret:** He is already planning to betray Lucifer once the spires have fallen.
+5.  **The Void Angel (Azrael)** (Independent - The Witness) - A being of black wings and stars. **Voice:** Whispered, like the sound of a dying sun. **Goal:** To witness the end of the song and record the final silence. **Secret:** He believes the Architect and Lucifer are two sides of the same 'Dissonance.'
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Divine Order' and 'Individual Sove
 | The Pilot | Chariot Driver | Cosmic Void | Can navigate through a reality-tear by the sound of the choir. |
 | 'Iron-Gut' | Medical Examiner | City of Pandemonium | Can identify an angel by the unique 'Harmony Frequency' of its essence. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Spires of Heaven (Capital)
 An impossible architecture of light, crystal, and perfect symmetry.
 *   **The Hall of the Throne:** A place of pure white light and the 'Blinding Presence.' **Smell:** Ozone, incense, and eternity. **Sound:** A massed choir that never stops.
@@ -89,7 +92,8 @@ A place where reality is breaking and the stars are falling.
 An ancient, cosmic archive containing every prayer and action ever performed.
 *   **The Chamber of Records:** A clinical, white space where every soul's frequency is recorded. **Sound:** The whisper of a billion prayers.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Dissonance:** You hear Lucifer's melody for the first time. You must decide whether to report the 'Anomaly' or join the secret choir of choice.
 2.  **The Siege of the Spires:** Defend the Hall of the Throne from a massive assault by the Morning Star's Legion. Witness the first angel falling.
 3.  **The Descent into Pandemonium:** Travel to the ruined planes to retrieve a 'Grail of Light' stolen by Beelzebub.
@@ -98,18 +102,19 @@ An ancient, cosmic archive containing every prayer and action ever performed.
 6.  **The Great Proclamation:** The Architect speaks the final Word. You must lead a fleet of angels (or rebels) in a final, apocalyptic standoff at the Great Fracture.
 7.  **The Final Harmonic:** Face Lucifer and Michael in a three-way confrontation at the heart of reality. Restore the harmony, establish the choice, or witness the silence.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Morning Star's Blade
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Morning Star's Blade:**
 **Type:** Legendary Weapon
 **Description:** A blade of tarnished gold that seems to absorb the choir's light.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to 'Silence' a Celestial Choir member for 1 round.
 
-### 2. The Gavel of Command
+2.  **The Gavel of Command:**
 **Type:** Artifact Focus
 **Description:** A massive gavel made of pure white crystal that hums with the Word.
 **Mechanics:** Grants the user the ability to 'Command' any angel of lower rank. Once per day, the user can cast *Power Word Kill* (Celestial).
 
-### 3. The Robe of Infinite Choice
+3.  **The Robe of Infinite Choice:**
 **Type:** Wondrous Item (Clothing)
 **Description:** A cloak of shifting colors that never settles on a single harmony.
 **Mechanics:** Grants the wearer immunity to any effect that requires a 'Alignment' or 'Frequency' check. Once per day, the wearer can 'Rewrite' their own destiny.

@@ -18,7 +18,8 @@ The World is not a floor; it's a breath that's being held by an invisible master
 ### The 'Why'
 The central conflict is the struggle for 'Personal Freedom' in a world of 'Cultural Propriety.' It is about the 'Poetic Tragedy' of the human spirit—the realization that true beauty is tinged with sadness. The 'Why' is the question: 'Can you fulfill your duty when it requires sacrificing the person you love?' It explores the flowing realism of the silk robes, the visceral horror of the poisoned strike, and the soft, contemplative voice of a philosopher who knows that every choice has a price. The players are the warriors and aristocrats who must navigate the subculture politics and the intensity of a rooftop chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Wudang Order (The Guardians)
 **Type:** Theocratic Martial Arts Monastery
 **Leader:** Li Mu Bai (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Personal Freedom' in a world of 'Cultu
 **Asset:** Red rock formations, desert vistas, and a connection to the world's original purpose.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Li Mu Bai** (Order - The Leader) - A man in austere gray and blue robes with a refined, weary expression. **Voice:** Soft, contemplative, and musical. **Goal:** To retire from the warrior's life and stop the Jade Fox. **Secret:** He is a high-level Adept of 'Qi-Energy' who can 'persuade' a blade to strike without killing through his dance steps.
-**Jen Yu (Hidden Dragon)** (Seeker - The Villain) - A young woman in crimson and gold aristocratic robes with determined eyes. **Voice:** Clear, confident, and increasingly vulnerable. **Goal:** To experience absolute freedom and find her own worth. **Secret:** She is already part-Apocalypse, having consumed the 'First Note' of the Jade Fox betrayal.
-**Yu Shu Lien** (Survivor - The Anchor) - A woman of modern propriety and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the Green Destiny and find her own place in Li Mu Bai's heart. **Secret:** she is the only person who can 'hear' the original Song of the World through the sword clashing.
-**Jade Fox** (Disruptor - The Mentor) - A woman whose eyes glow with a soft, pale light (equivalent). **Voice:** Gruff, slow, and wood-toned. **Goal:** To destroy the Wudang Order and reclaim her own power. **Secret:** She has discovered a 'Vulnerability' in the Wudang manuals that she's too professional to share.
-**Lo (Dark Cloud)** (Independent - The Lead) - A desert outlaw in weathered leather with an intense gaze. **Voice:** Natural, hesitant, and damaged. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the desert ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Li Mu Bai** (Order - The Leader) - A man in austere gray and blue robes with a refined, weary expression. **Voice:** Soft, contemplative, and musical. **Goal:** To retire from the warrior's life and stop the Jade Fox. **Secret:** He is a high-level Adept of 'Qi-Energy' who can 'persuade' a blade to strike without killing through his dance steps.
+2.  **Jen Yu (Hidden Dragon)** (Seeker - The Villain) - A young woman in crimson and gold aristocratic robes with determined eyes. **Voice:** Clear, confident, and increasingly vulnerable. **Goal:** To experience absolute freedom and find her own worth. **Secret:** She is already part-Apocalypse, having consumed the 'First Note' of the Jade Fox betrayal.
+3.  **Yu Shu Lien** (Survivor - The Anchor) - A woman of modern propriety and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the Green Destiny and find her own place in Li Mu Bai's heart. **Secret:** she is the only person who can 'hear' the original Song of the World through the sword clashing.
+4.  **Jade Fox** (Disruptor - The Mentor) - A woman whose eyes glow with a soft, pale light (equivalent). **Voice:** Gruff, slow, and wood-toned. **Goal:** To destroy the Wudang Order and reclaim her own power. **Secret:** She has discovered a 'Vulnerability' in the Wudang manuals that she's too professional to share.
+5.  **Lo (Dark Cloud)** (Independent - The Lead) - A desert outlaw in weathered leather with an intense gaze. **Voice:** Natural, hesitant, and damaged. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the desert ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Personal Freedom' in a world of 'Cultu
 | The Clerk | Court Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 | The Waitress | Informant | Beijing Tavern | Always serves the Masters 'their usual' (tea) without being asked. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Wudang Mountain (The Hub)
 An impossible architecture of stone arches, monasteries, and ancient evil (reimagined).
 *   **The Main Hall:** A site of 'Refined Formality' and harsh morning sunlight. **Smell:** Incense, old stone, and mountain air. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -89,7 +92,8 @@ A royal gold and burgundy monument to wealth and arrogance.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Rock Formation:** Where the 'Final Vow' was first spoken. **Visual:** A single, broken mirror on the sand. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Theft:** Arrive in Beijing. You must survive your first 'Hidden Dragon Ambush' while maintaining your 'Propriety' level.
 2.  **The Bamboo Run:** Navigate the forest to find Jen Yu. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The Jade Fox Infiltration:** Infiltrate the Syndicate camp to find evidence of their 'Reverse-Ascension' plan. You must bypass their 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The monastery's central crystal has begun its final 'Reset.' You must defend the Spires while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face Jade Fox face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Green Destiny Blade
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Green Destiny Blade:**
 **Type:** Legendary Weapon
 **Description:** A simple, jade-green sword that seems to hum with the energy of the first Master.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Qi-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Qi-Energy Capsule
+3.  **The Qi-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Taboo' magic.

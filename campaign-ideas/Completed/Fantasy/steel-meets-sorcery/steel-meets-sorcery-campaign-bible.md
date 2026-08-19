@@ -18,7 +18,8 @@ The World is not a floor; it's a bridge that's being held by an invisible builde
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Culture Shock.' It is about the 'Human Resilience' of the spirit—the realization that you can have a rifle and still have a heart. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single курса in an eternal book?' It explores the beautiful urban fantasy, the pride in mastering a fantasy language, and the professional, resonant voice of a narrator who understands that every second is a gift. The players are the soldiers and mages who must navigate the bureaucratic oppressions and the intensity of a dragon battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The JSDF Expedition (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Itami (equivalent - the otakusoldier).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Culture S
 **Asset:** Reality-tearing pressure waves, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Itami** (Order - The Lead) - A soldier whose voice is professional, military-briefing, and resonant. **Voice:** Otaku soldier, modern uniform, spiky hair, fierce. **Goal:** To protect the 'Humanity' of the special region and guide the new soldiers. **Secret:** He is secretly an Adept of 'Bridge-Energy' who can 'rewrite' a soul's destiny through his tactical briefings.
-**Emperor Molt** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all biological talent into a single 'Global Empire' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Lelei** (Independent - The Catalyst) - A mage whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the gate-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the tank clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Molt's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the bridge ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Itami** (Order - The Lead) - A soldier whose voice is professional, military-briefing, and resonant. **Voice:** Otaku soldier, modern uniform, spiky hair, fierce. **Goal:** To protect the 'Humanity' of the special region and guide the new soldiers. **Secret:** He is secretly an Adept of 'Bridge-Energy' who can 'rewrite' a soul's destiny through his tactical briefings.
+2.  **Emperor Molt** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all biological talent into a single 'Global Empire' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Lelei** (Independent - The Catalyst) - A mage whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the gate-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the tank clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Molt's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the bridge ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Culture S
 | The Monk | Ancient Worshipper | Flow Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Tokyo (The Hub)
 A grand urban monument to architecture, streets, and school uniforms.
 *   **The Gate Room:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and floor wax. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and dragon fire.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Bridge Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a school cell. You must survive your first 'Imperial Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Itami Run:** Navigate the traditional territories to find Itami. You must identify the 'Bridge-Energy' node before the rivals arrive.
 3.  **The Artifact Heist:** Infiltrate the Imperial HQ to retrieve a stolen 'Bridge-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Emperor Molt face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Bridge (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Bridge (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Bridge Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Gate Signet (Equivalent)
+2.  **The Gate Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the gate seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Bridge-Energy Capsule (Equivalent)
+3.  **The Bridge-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Imperial' magic.

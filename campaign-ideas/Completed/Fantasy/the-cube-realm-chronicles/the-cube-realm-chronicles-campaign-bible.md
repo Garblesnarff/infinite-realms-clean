@@ -18,7 +18,8 @@ The World is not a floor; it's a block that's being placed by an invisible hand.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Moves.' It is about the 'Human Resilience' of the spirit—the realization that you are more than just a piece of plastic (equivalent). The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal game?' It explores the beautiful wonder of the geometric surrealism, the pride in mastering a tactical maneuver, and the enthusiastic, resonant voice of a guide who understands that every second is a gift. The players are the builders and guides who must navigate the domestic oppressions and the intensity of a blocky battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Tabletop Guardians (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** The Guide (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with consciousness.
 
-## [TAG: NPC_TIER_1]
-**The Guide** (Order - The Lead) - A being whose voice is clear, enthusiastic, and friendly. **Voice:** Mid-western American accent, upbeat pacing, studio-quality. **Goal:** To protect the 'Library Balance' and guide the new builders. **Secret:** He is secretly an Adept of 'Voxel-Energy' who can 'rewrite' a soul's destiny through his tactical orders.
-**The Eraser** (Shadow - The Villain) - A being that looks and sounds like a logical scholar. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Villager** (Independent - The Catalyst) - A being whose voice is high, clear, and crystalline. **Voice:** Large head, simple expression, friendly. **Goal:** To find the 'destination' and stop the pieces-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the board noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless game-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Ender Tyrant's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Board ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Guide** (Order - The Lead) - A being whose voice is clear, enthusiastic, and friendly. **Voice:** Mid-western American accent, upbeat pacing, studio-quality. **Goal:** To protect the 'Library Balance' and guide the new builders. **Secret:** He is secretly an Adept of 'Voxel-Energy' who can 'rewrite' a soul's destiny through his tactical orders.
+2.  **The Eraser** (Shadow - The Villain) - A being that looks and sounds like a logical scholar. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Villager** (Independent - The Catalyst) - A being whose voice is high, clear, and crystalline. **Voice:** Large head, simple expression, friendly. **Goal:** To find the 'destination' and stop the pieces-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the board noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless game-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Ender Tyrant's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Board ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Game Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Wargaming Table (The Hub)
 A grand stone monument to architecture, terrain, and desk-lamp light.
 *   **The Command Room:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and acrylic paint. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and solvent.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Eraser Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Guide Run:** Navigate the traditional territories to find The Guide. You must identify the 'Voxel-Energy' node before the rivals arrive.
 3.  **The Block Heist:** Infiltrate the Eraser HQ to retrieve a stolen 'Block-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Ender Tyrant face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Balance (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Balance (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Divine Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Form Signet (Equivalent)
+2.  **The Form Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the form seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Voxel-Energy Capsule (Equivalent)
+3.  **The Voxel-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Logical' magic.

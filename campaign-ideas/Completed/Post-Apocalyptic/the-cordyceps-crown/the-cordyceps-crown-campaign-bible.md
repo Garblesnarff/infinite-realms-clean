@@ -18,7 +18,8 @@ The Earth didn't fall to a god; it fell to a fungus. In the heart of the 21st ce
 ### The 'Why'
 The central conflict is the struggle for 'Purpose' in a world of 'Meaningless Loss.' It is about the 'Oppressive Beauty' of the human spirit—the realization that love is the only thing worth fighting for in a dead world. The 'Why' is the question: 'Would you trade the survival of humanity for the life of one person?' It explores the grounded realism of the weathered leather, the visceral horror of the fungal plate, and the world-weary voice of a man who refuses to lose another person he cares about. The players are the survivors and protectors who must navigate the infected zones and moral darkness to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Survivors (The Guardians)
 **Type:** Elite/Survivalist Found Family Units
 **Leader:** Joel (Tier 1 NPC - the protector).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Purpose' in a world of 'Meaningless Lo
 **Asset:** Knowledge of the ruins and a willingness to kill for a backpack or a can of beans.
 **Rivals:** Everyone.
 
-## [TAG: NPC_TIER_1]
-**Joel** (Survivor - The Protector) - A middle-aged man in a weathered leather jacket with a gray beard. **Voice:** Gruff, world-weary, and protective. **Goal:** To get Ellie to the Fireflies and outrun his own ghosts. **Secret:** He is a high-level Adept of 'Spore-Energy' who can 'feel' an infected's approach through the vibrations of the fungal network.
-**Ellie** (Survivor - The Catalyst) - A teenage girl in a red hoodie with a purple backpack and determined eyes. **Voice:** Sincere, sarcastic, and emotionally resonant. **Goal:** To be the 'Cure' and find a place where she belongs. **Secret:** she is the only person who can 'hear' the original Song of the World through the fungal plates.
-**Marlene** (Firefly - The Leader) - A woman in military gear with a compassionate but unyielding expression. **Voice:** Precise, authoritative, and filled with a tragic wonder. **Goal:** To save humanity through the sacrifice of the Immune. **Secret:** She was the best friend of Ellie's mother and views her goal as a form of divine dialogue.
-**Bill** (Independent - The Expert) - A man whose house is a map of countless traps. **Voice:** Gruff, paranoid, and cynical. **Goal:** To stay alive and outrun his own memories. **Secret:** He has discovered a 'Vulnerability' in the Bloater's armor that he's too professional to share.
-**The Clicker (Echo)** (Infected equivalent - Shifting form) - An infected human with a fungal-plate head. **Voice:** None (disturbing clicking sounds). **Goal:** To reclaim the 'Surface Souls' for the fungal network. **Secret:** The Clickers are not hunting for food; they are protecting a 'Reality-Anchor' hidden in the museum.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Joel** (Survivor - The Protector) - A middle-aged man in a weathered leather jacket with a gray beard. **Voice:** Gruff, world-weary, and protective. **Goal:** To get Ellie to the Fireflies and outrun his own ghosts. **Secret:** He is a high-level Adept of 'Spore-Energy' who can 'feel' an infected's approach through the vibrations of the fungal network.
+2.  **Ellie** (Survivor - The Catalyst) - A teenage girl in a red hoodie with a purple backpack and determined eyes. **Voice:** Sincere, sarcastic, and emotionally resonant. **Goal:** To be the 'Cure' and find a place where she belongs. **Secret:** she is the only person who can 'hear' the original Song of the World through the fungal plates.
+3.  **Marlene** (Firefly - The Leader) - A woman in military gear with a compassionate but unyielding expression. **Voice:** Precise, authoritative, and filled with a tragic wonder. **Goal:** To save humanity through the sacrifice of the Immune. **Secret:** She was the best friend of Ellie's mother and views her goal as a form of divine dialogue.
+4.  **Bill** (Independent - The Expert) - A man whose house is a map of countless traps. **Voice:** Gruff, paranoid, and cynical. **Goal:** To stay alive and outrun his own memories. **Secret:** He has discovered a 'Vulnerability' in the Bloater's armor that he's too professional to share.
+5.  **The Clicker (Echo)** (Infected equivalent - Shifting form) - An infected human with a fungal-plate head. **Voice:** None (disturbing clicking sounds). **Goal:** To reclaim the 'Surface Souls' for the fungal network. **Secret:** The Clickers are not hunting for food; they are protecting a 'Reality-Anchor' hidden in the museum.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Purpose' in a world of 'Meaningless Lo
 | The Guard | FEDRA Security | Main Gate | Wears a tie that is 1 inch too long; claims it's a 'Sovereign Fashion.' |
 | The Monk | Ancient Worshipper | Fungal Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Boston Quarantine Zone (The Hub)
 A high-contrast landscape of concrete grays, barbed wire, and oppressive walls.
 *   **The Checkpoint:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Bleach, stale sweat, and machine oil. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ A small, wooden monument to resourcefulness and improvised traps.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Operating Room:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Escape:** Smuggle Ellie out of the Boston QZ. You must survive your first 'Clicker Ambush' while maintaining your 'Silence' level.
 2.  **The Museum Heist:** Infiltrate the Cordyceps-filled museum to retrieve a stolen 'Spore-Focus.' You must bypass the blind predators.
 3.  **Bill's Town Run:** Navigate the trapped streets to find Bill. You must identify the 'Respiration Seed' (equivalent) before the Bloater arrives.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Choice:** You are ordered to kill the doctors to save Ellie. You must decide whether to save the world or the individual.
 7.  **The Last Lie:** Face Ellie face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Immune
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Immune:**
 **Type:** Legendary Weapon
 **Description:** A simple, silver switchblade that seems to hum with the energy of the first Catalyst.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Clicker-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. Joel's Watch
+2.  **Joel's Watch:**
 **Type:** Wondrous Item
 **Description:** A broken watch that never moves and hums with the key of the first Survivor.
 **Mechanics:** Grants the user the ability to 'Authorize' any action, making it immune to emotional obstacles for 1 hour. Once per day, the user can 'Freeze' a reality-tear.
 
-### 3. The Firefly Pendant
+3.  **The Firefly Pendant:**
 **Type:** Artifact (Focus)
 **Description:** A small, silver pendant that contains the name of a fallen rebel.
 **Mechanics:** Grants the holder advantage on all Charisma (Persuasion and Intimidation) checks inside the ruins. **Curse:** The holder is hunted by FEDRA.

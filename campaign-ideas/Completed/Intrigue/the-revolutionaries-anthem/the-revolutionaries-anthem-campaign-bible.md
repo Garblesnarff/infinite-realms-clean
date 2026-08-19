@@ -119,28 +119,28 @@ The conflict is between **Prescription** (The Empire/Federalists: Reality is fix
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Silas Vane | Innkeeper | The Rusty Quill | Serves drinks in hollowed-out skulls. |
-| Martha | Seamstress | Capital Slums | Stitches secret messages into coats. |
-| "Ink-Stain" Joe | Beggar | Docks | Bleeds blue ink instead of blood. |
-| Sergeant York | Drill Instructor | Valley Crossing | Screams commands in haiku. |
-| Little Timmy | Drummer Boy | Frontlines | Is actually a 400-year-old gnome. |
-| Baron Von Drill | Mercenary | Hessian Camp | Obsessed with perfect geometric formations. |
-| Sister Silence | Nun | Hospital | Floats 2 inches off the ground. |
-| Barnaby Bunt | Baker | Capital | Breads scream when sliced. |
-| "Shifty" Sal | Fence | Underground | Wears 12 watches, none work. |
-| The Oracle | Mystic | Sewers | Predicts future via cheese mold patterns. |
-| Captain Black | Privateer | The Harbor | Has a wooden head (literally). |
-| Private Pyle | Soldier | Valley Crossing | Sleepwalks while firing musket accurately. |
-| Widow Gast | Spy | Loyalist Ball | Wears a wig made of white spiders. |
-| Thaddeus Ink | Scribe | Assembly Hall | Only writes with left foot. |
-| Governor Rot | Politician | The Palace | Skin is slowly turning to parchment. |
-| "Echo" | Street Urchin | Market | Repeats the last word everyone says x3. |
-| Dr. Bleak | Surgeon | Field Tent | Uses leeches that sing. |
-| Mistress Plume | Courtesan | Red Light Dist. | Hair changes color with mood. |
-| "Iron" Mike | Blacksmith | Armory | Eats nails as a snack. |
-| Father Time | Priest | Chapel | Clock for a face (Curse). |
-| ... (Rows 21-50 omitted for brevity, but pattern continues: Name, Role, Location, Weird Quirk) | ... | ... | ... |
-| Note: | In actual DB | Ensure all 50 | are unique. |
+| **Silas Vane** | Innkeeper | The Rusty Quill | Serves drinks in hollowed-out skulls. |
+| **Martha** | Seamstress | Capital Slums | Stitches secret messages into coats. |
+| **"Ink-Stain" Joe** | Beggar | Docks | Bleeds blue ink instead of blood. |
+| **Sergeant York** | Drill Instructor | Valley Crossing | Screams commands in haiku. |
+| **Little Timmy** | Drummer Boy | Frontlines | Is actually a 400-year-old gnome. |
+| **Baron Von Drill** | Mercenary | Hessian Camp | Obsessed with perfect geometric formations. |
+| **Sister Silence** | Nun | Hospital | Floats 2 inches off the ground. |
+| **Barnaby Bunt** | Baker | Capital | Breads scream when sliced. |
+| **"Shifty" Sal** | Fence | Underground | Wears 12 watches, none work. |
+| **The Oracle** | Mystic | Sewers | Predicts future via cheese mold patterns. |
+| **Captain Black** | Privateer | The Harbor | Has a wooden head (literally). |
+| **Private Pyle** | Soldier | Valley Crossing | Sleepwalks while firing musket accurately. |
+| **Widow Gast** | Spy | Loyalist Ball | Wears a wig made of white spiders. |
+| **Thaddeus Ink** | Scribe | Assembly Hall | Only writes with left foot. |
+| **Governor Rot** | Politician | The Palace | Skin is slowly turning to parchment. |
+| **"Echo"** | Street Urchin | Market | Repeats the last word everyone says x3. |
+| **Dr. Bleak** | Surgeon | Field Tent | Uses leeches that sing. |
+| **Mistress Plume** | Courtesan | Red Light Dist. | Hair changes color with mood. |
+| **"Iron" Mike** | Blacksmith | Armory | Eats nails as a snack. |
+| **Father Time** | Priest | Chapel | Clock for a face (Curse). |
+| **... (Rows 21-50 omitted for brevity, but pattern continues: Name, Role, Location, Weird Quirk)** | ... | ... | ... |
+| **Note:** | In actual DB | Ensure all 50 | are unique. |
 
 *(Self-Correction: To save space in this output while demonstrating the mandate, I provided 20 detailed examples. For the full RAG database, I would generate the remaining 30 rows following the "Surreal/Low Prob" pattern.)*
 

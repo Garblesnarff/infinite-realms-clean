@@ -18,7 +18,8 @@ The World is not a battlefield; it's a patient that's bleeding out. In the heart
 ### The 'Why'
 The central conflict is the struggle for 'Preservation' in a world of 'Meaningless Destruction.' It is about the 'Heroic Determination' of the human spirit—the realization that true glory comes from being a protector and a warrior simultaneously. The 'Why' is the question: 'Can you remain human when war requires you to weaponize your own soul?' It explores the grounded realism of the battle-worn armor, the visceral horror of the demonic mutilation, and the gruff, weathered voice of a mentor who pushes because she cares. The players are the healers and soldiers who must navigate the trenches and craters to find a resolution that honors the memory of the fallen.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Combat Healers (The Guardians)
 **Type:** Elite International Military/Medical Order
 **Leader:** Commander Roswen Stormblade (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Preservation' in a world of 'Meaningle
 **Asset:** Knowledge of the trenches and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Commander Roswen Stormblade** (Guardian - Grizzled Leader) - A woman in heavy plate armor with a deep facial scar. **Voice:** Gruff, weathered alto, commanding respect without shouting. **Goal:** To get her healers home alive and defeat Malakor. **Secret:** She is secretly an Adept of 'Life-Energy' who can 'heal' an entire army's morale through her presence.
-**Malakor the Desolate** (Demon - The Villain) - A massive, 9ft tall being wreathed in necrotic energy. **Voice:** Deep, menacing bass with an echoing quality. **Goal:** To purge humanity and turn the world into a permanent 'Necrotic Void.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the 2014 surge.
-**Prince Aldric** (Kingdom - The Link) - A man in polished armor with military precision. **Voice:** Clear, confident, and earnest. **Goal:** To find a way for humans and demons to coexist (initially). **Secret:** He was the first person to 'hear' the original Song of the World through the battle cries.
-**Archcleric Mendel** (Independent - The Mentor) - An elderly man in traditional robes with a precise baritone voice. **Voice:** Precise, academic, and authoritative. **Goal:** To preserve the ancient religious traditions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the demon's armor that he's too professional to share.
-**Sergeant Kaela Ironfist** (Independent - The Expert) - A no-nonsense soldier with a practical contralto voice. **Voice:** Gruff, no-nonsense, and filled with military bearing. **Goal:** To protect her squad and outrun her own ghosts. **Secret:** she is the only person who has survived a 'Martyr's Stand' and returned with her soul intact.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Commander Roswen Stormblade** (Guardian - Grizzled Leader) - A woman in heavy plate armor with a deep facial scar. **Voice:** Gruff, weathered alto, commanding respect without shouting. **Goal:** To get her healers home alive and defeat Malakor. **Secret:** She is secretly an Adept of 'Life-Energy' who can 'heal' an entire army's morale through her presence.
+2.  **Malakor the Desolate** (Demon - The Villain) - A massive, 9ft tall being wreathed in necrotic energy. **Voice:** Deep, menacing bass with an echoing quality. **Goal:** To purge humanity and turn the world into a permanent 'Necrotic Void.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the 2014 surge.
+3.  **Prince Aldric** (Kingdom - The Link) - A man in polished armor with military precision. **Voice:** Clear, confident, and earnest. **Goal:** To find a way for humans and demons to coexist (initially). **Secret:** He was the first person to 'hear' the original Song of the World through the battle cries.
+4.  **Archcleric Mendel** (Independent - The Mentor) - An elderly man in traditional robes with a precise baritone voice. **Voice:** Precise, academic, and authoritative. **Goal:** To preserve the ancient religious traditions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the demon's armor that he's too professional to share.
+5.  **Sergeant Kaela Ironfist** (Independent - The Expert) - A no-nonsense soldier with a practical contralto voice. **Voice:** Gruff, no-nonsense, and filled with military bearing. **Goal:** To protect her squad and outrun her own ghosts. **Secret:** she is the only person who has survived a 'Martyr's Stand' and returned with her soul intact.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Preservation' in a world of 'Meaningle
 | The newsie | Street Kid | Urban Market | Can name every Ironhearth district by the sound of its water-lapping. |
 | The Guard | Kingdom Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Ironhearth Fortress (The Hub)
 A rugged, industrial fortress built on the edge of a scarred landscape.
 *   **The War Room:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ozone, machine oil, and coffee. **Sound:** The rhythmic hum of engines and satellite pings.
@@ -88,7 +91,8 @@ A dark, humid labyrinth of giant trees and dangerous shadows.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** Where the 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Strike:** Arrive at Ironhearth. You must survive your first 'Demon Ambush' using only your martial arts intuition.
 2.  **The Training Montage:** Complete a high-stakes 'Technique Mastery' challenge. You must identify the 'Life-Energy' node before the rivals arrive.
 3.  **The Healer Heist:** Infiltrate a rival Cleric's library to retrieve a 'Life-Seed.' You must bypass the 'Palace Guard.'
@@ -97,18 +101,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Malakor face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Ibelin (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Ibelin (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Life-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Ironhearth Shield
+2.  **The Ironhearth Shield:**
 **Type:** Artifact (Shield)
 **Description:** A gold and red shield that pulses with the light of the sun.
 **Mechanics:** Grants the wearer the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'
 
-### 3. The Life-Energy Capsule
+3.  **The Life-Energy Capsule:**
 **Type:** Wondrous Item
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Necrotic' magic.

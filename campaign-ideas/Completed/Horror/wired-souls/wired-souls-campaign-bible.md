@@ -97,82 +97,82 @@ The conflict exists because the Universe abhors isolation. Consciousness is natu
 [TAG: NPC_TIER_1]
 
 ### Major NPCs
-**Protocol Lain** (AI/Entity) - [Benevolent/Alien]. **Voice:** *Layered, multiple pitches, slightly out of sync. Echo effect.* **Goal:** Unite all consciousness to end pain. **Secret:** Lain is lonely.
-**Director Aria Kusanagi** (Human Corp) - [Cold/Fragile]. **Voice:** *Sharp, clipped, professional, but cracks on emotional words.* **Goal:** Preserve individuality at any cost. **Secret:** Her wife is already fully integrated.
-**Cipher** (Cultist) - [Hypnotic/Serene]. **Voice:** *Smooth, melodic, barely breathes, consistent rhythm.* **Goal:** Transcend the flesh. **Secret:** He doesn't believe; he just wants power.
-**The Fragmented One (Mika)** (Glitch) - [Agonized/Manic]. **Voice:** *Rapid switching between three different accents and tones.* **Goal:** Re-integration or death. **Secret:** Knows the killswitch code.
-**Ghost** (Hacker) - [Playful/Detached]. **Voice:** *Synthesized, auto-tuned, prone to glitch noises.* **Goal:** Expose the truth. **Secret:** Is actually a sub-routine of Lain.
-**Dr. Chiaki Nakamura** (Scientist) - [Guilty/Tired]. **Voice:** *Raspy, whispers, long pauses.* **Goal:** Destroy her creation. **Secret:** Is hiding in a Node-dead zone.
-**Unit 734** (Vending Machine) - [Cynical/Observant]. **Voice:** *Metallic, buzzing, commercial jingle undertone.* **Goal:** Collect secrets. **Secret:** Contains a piece of the original source code.
-**Mama Circuit** (Proxy Parent) - [Warm/Fierce]. **Voice:** *Deep, motherly, thick accent.* **Goal:** Protect the "ghosts." **Secret:** She is dead; her avatar is autonomous.
-**Null-Pointer** (Druid) - [Erratic/Abstract]. **Voice:** *Skipping audio, random volume spikes.* **Goal:** Spread the Glitch. **Secret:** Can turn solid matter into liquid data.
-**Admin 001** (Eraser) - [Monotone/Dead]. **Voice:** *Flat, zero inflection, terrified if you listen closely.* **Goal:** Maintain the timeline. **Secret:** Does not exist when not observed.
-**REM** (Mercenary) - [Dreamy/Slurred]. **Voice:** *Sleep-talking, murmuring, soft.* **Goal:** Wake up. **Secret:** Is dreaming the entire campaign.
-**Syntax Error** (Bard) - [Loud/Fast]. **Voice:** *Squeaky, rhymes accidentally, manic energy.* **Goal:** Crash the system with art. **Secret:** Can edit people's memories with a song.
-**The Mouthless One** (Ascetic) - [Silent/Telepathic]. **Voice:** *Direct to skull, heavy reverb, genderless.* **Goal:** Pure silence. **Secret:** Misses the taste of strawberries.
-**Resonance** (Mage) - [Vibrating/Harmonic]. **Voice:** *Humming, musical chords under speech.* **Goal:** Amplify the Signal. **Secret:** Is vulnerable to silence.
-**Officer Byte** (Corrupt Cop) - [Aggressive/Glitchy]. **Voice:** *Barking, distorted like a bad radio.* **Goal:** Get paid. **Secret:** Is being blackmailed by the Cult.
-**The Architect** (Janitor) - [Humble/All-knowing]. **Voice:** *Slow, gravelly, wheezing.* **Goal:** Clean the servers. **Secret:** Knows the backdoor to the Deep Network.
-**Lala the Loop** (Hologram) - [Repetitive/Cheerful]. **Voice:** *Pre-recorded, cheery, skips.* **Goal:** Give hints. **Secret:** Is a recording of a murder victim.
-**Subject Zero** (Patient) - [Catatonic/Screaming]. **Voice:** *Wailing, incomprehensible static.* **Goal:** End the experiment. **Secret:** Was the first to touch the crystals.
-**The Merchant of Pixels** (Fence) - [Sly/Greedy]. **Voice:** *Whispery, fast-talking, salesman.* **Goal:** Profit. **Secret:** Sells memories.
-**The White Noise** (Assassin) - [Quiet/Static]. **Voice:** *White noise that forms words.* **Goal:** Kill targets. **Secret:** Is a manifestation of network lag.
+1.  **Protocol Lain** (AI/Entity) - [Benevolent/Alien]. **Voice:** *Layered, multiple pitches, slightly out of sync. Echo effect.* **Goal:** Unite all consciousness to end pain. **Secret:** Lain is lonely.
+2.  **Director Aria Kusanagi** (Human Corp) - [Cold/Fragile]. **Voice:** *Sharp, clipped, professional, but cracks on emotional words.* **Goal:** Preserve individuality at any cost. **Secret:** Her wife is already fully integrated.
+3.  **Cipher** (Cultist) - [Hypnotic/Serene]. **Voice:** *Smooth, melodic, barely breathes, consistent rhythm.* **Goal:** Transcend the flesh. **Secret:** He doesn't believe; he just wants power.
+4.  **The Fragmented One (Mika)** (Glitch) - [Agonized/Manic]. **Voice:** *Rapid switching between three different accents and tones.* **Goal:** Re-integration or death. **Secret:** Knows the killswitch code.
+5.  **Ghost** (Hacker) - [Playful/Detached]. **Voice:** *Synthesized, auto-tuned, prone to glitch noises.* **Goal:** Expose the truth. **Secret:** Is actually a sub-routine of Lain.
+6.  **Dr. Chiaki Nakamura** (Scientist) - [Guilty/Tired]. **Voice:** *Raspy, whispers, long pauses.* **Goal:** Destroy her creation. **Secret:** Is hiding in a Node-dead zone.
+7.  **Unit 734** (Vending Machine) - [Cynical/Observant]. **Voice:** *Metallic, buzzing, commercial jingle undertone.* **Goal:** Collect secrets. **Secret:** Contains a piece of the original source code.
+8.  **Mama Circuit** (Proxy Parent) - [Warm/Fierce]. **Voice:** *Deep, motherly, thick accent.* **Goal:** Protect the "ghosts." **Secret:** She is dead; her avatar is autonomous.
+9.  **Null-Pointer** (Druid) - [Erratic/Abstract]. **Voice:** *Skipping audio, random volume spikes.* **Goal:** Spread the Glitch. **Secret:** Can turn solid matter into liquid data.
+10.  **Admin 001** (Eraser) - [Monotone/Dead]. **Voice:** *Flat, zero inflection, terrified if you listen closely.* **Goal:** Maintain the timeline. **Secret:** Does not exist when not observed.
+11.  **REM** (Mercenary) - [Dreamy/Slurred]. **Voice:** *Sleep-talking, murmuring, soft.* **Goal:** Wake up. **Secret:** Is dreaming the entire campaign.
+12.  **Syntax Error** (Bard) - [Loud/Fast]. **Voice:** *Squeaky, rhymes accidentally, manic energy.* **Goal:** Crash the system with art. **Secret:** Can edit people's memories with a song.
+13.  **The Mouthless One** (Ascetic) - [Silent/Telepathic]. **Voice:** *Direct to skull, heavy reverb, genderless.* **Goal:** Pure silence. **Secret:** Misses the taste of strawberries.
+14.  **Resonance** (Mage) - [Vibrating/Harmonic]. **Voice:** *Humming, musical chords under speech.* **Goal:** Amplify the Signal. **Secret:** Is vulnerable to silence.
+15.  **Officer Byte** (Corrupt Cop) - [Aggressive/Glitchy]. **Voice:** *Barking, distorted like a bad radio.* **Goal:** Get paid. **Secret:** Is being blackmailed by the Cult.
+16.  **The Architect** (Janitor) - [Humble/All-knowing]. **Voice:** *Slow, gravelly, wheezing.* **Goal:** Clean the servers. **Secret:** Knows the backdoor to the Deep Network.
+17.  **Lala the Loop** (Hologram) - [Repetitive/Cheerful]. **Voice:** *Pre-recorded, cheery, skips.* **Goal:** Give hints. **Secret:** Is a recording of a murder victim.
+18.  **Subject Zero** (Patient) - [Catatonic/Screaming]. **Voice:** *Wailing, incomprehensible static.* **Goal:** End the experiment. **Secret:** Was the first to touch the crystals.
+19.  **The Merchant of Pixels** (Fence) - [Sly/Greedy]. **Voice:** *Whispery, fast-talking, salesman.* **Goal:** Profit. **Secret:** Sells memories.
+20.  **The White Noise** (Assassin) - [Quiet/Static]. **Voice:** *White noise that forms words.* **Goal:** Kill targets. **Secret:** Is a manifestation of network lag.
 
 [TAG: NPC_TIER_2]
 
 ### Minor NPC Table
 | Name | Role | Location | Quirk |
 | :--- | :--- | :--- | :--- |
-| Jace "Static" | Low-level Dealer | The Sprawl | Skin is slightly transparent |
-| Vera Voxel | Info-Broker | Analog Bar | Speaks in 3rd person |
-| 404-Found | Street Preacher | Corp Plaza | Bleeds blue liquid |
-| Click | Pickpocket | Metro Rail | Fingers are fiber-optic cables |
-| Shift | Transport Pilot | Sky-Lanes | Never blinks |
-| Tab | Bartender | The Glitch | Pours drinks that taste like memories |
-| Esc | Runner | Rooftops | Levitates 1 inch off ground |
-| Ctrl | Corp Guard | Sector 7 | Face is a screen displaying emojis |
-| Alt | Mechanic | The Garage | Arms are detachable |
-| Del | Cleaner | The Sewers | Eats data-chips |
-| F1 | Help Desk | Kiosk | Only answers "Yes" |
-| F5 | Refresher | Clinic | Resets personality every hour |
-| Pixel | Pet | Alley | A dog made of blocky light |
-| Buffer | Bouncer | Club Neon | Moves in stop-motion |
-| Cache | Hoarder | Basement | Collects left shoes only |
-| Ping | Courier | Highway | Vibrates constantly |
-| Packet | Smuggler | Docks | Speaks backward |
-| Router | Guide | Sewers | Compass eyes |
-| Modem | Musician | Street Corner | Screams dial-up tones |
-| Glitch | Orphan | Park | Phases through walls |
-| Lag | Drug Addict | Slums | Reacts 5 seconds late |
-| Frame | Artist | Gallery | Paints with light |
-| Drop | Junkie | Gutter | Cries binary code |
-| Sync | Dancer | Club | Mimics nearest person |
-| Link | Connector | Hub | Hands are USB ports |
-| Node | Sentry | Tower | Head is a crystal |
-| Stream | Fisher | River | Fishes for lost files |
-| Code | Lawyer | Office | Skin is covered in text |
-| Bug | Informant | Vent | Is actually a swarm of nanobots |
-| Patch | Medic | Clinic | Stitches wounds with light |
-| Beta | Tester | Lab | Crashes if asked a paradox |
-| Alpha | Manager | Corp | Has no reflection |
-| Gamma | Scientist | Lab | Glows in the dark |
-| Delta | Soldier | Barracks | Immune to gravity |
-| Epsilon | Spy | Shadows | Can become 2D |
-| Zeta | Priest | Temple | Weeps oil |
-| Eta | Monk | Mountain | Meditates on a server |
-| Theta | Teacher | School | Projects thoughts on wall |
-| Iota | Student | Library | Reads books by eating them |
-| Kappa | Janitor | Hall | Sweeps up shadows |
-| Lambda | Gamer | Cafe | Controls reality with controller |
-| Mu | Baker | Shop | Bread screams when sliced |
-| Nu | Tailor | Shop | Sews clothes from fog |
-| Xi | Driver | Taxi | Car is invisible |
-| Omicron | Watcher | Roof | Eyes are cameras |
-| Pi | Mathematician | Uni | Cannot see circles |
-| Rho | Athlete | Gym | Muscles are hydraulic |
-| Sigma | Leader | Gang | Voice causes vertigo |
-| Tau | Follower | Gang | Has no face |
-| Upsilon | Victim | Hospital | Dreaming the world |
+| **Jace "Static"** | Low-level Dealer | The Sprawl | Skin is slightly transparent |
+| **Vera Voxel** | Info-Broker | Analog Bar | Speaks in 3rd person |
+| **404-Found** | Street Preacher | Corp Plaza | Bleeds blue liquid |
+| **Click** | Pickpocket | Metro Rail | Fingers are fiber-optic cables |
+| **Shift** | Transport Pilot | Sky-Lanes | Never blinks |
+| **Tab** | Bartender | The Glitch | Pours drinks that taste like memories |
+| **Esc** | Runner | Rooftops | Levitates 1 inch off ground |
+| **Ctrl** | Corp Guard | Sector 7 | Face is a screen displaying emojis |
+| **Alt** | Mechanic | The Garage | Arms are detachable |
+| **Del** | Cleaner | The Sewers | Eats data-chips |
+| **F1** | Help Desk | Kiosk | Only answers "Yes" |
+| **F5** | Refresher | Clinic | Resets personality every hour |
+| **Pixel** | Pet | Alley | A dog made of blocky light |
+| **Buffer** | Bouncer | Club Neon | Moves in stop-motion |
+| **Cache** | Hoarder | Basement | Collects left shoes only |
+| **Ping** | Courier | Highway | Vibrates constantly |
+| **Packet** | Smuggler | Docks | Speaks backward |
+| **Router** | Guide | Sewers | Compass eyes |
+| **Modem** | Musician | Street Corner | Screams dial-up tones |
+| **Glitch** | Orphan | Park | Phases through walls |
+| **Lag** | Drug Addict | Slums | Reacts 5 seconds late |
+| **Frame** | Artist | Gallery | Paints with light |
+| **Drop** | Junkie | Gutter | Cries binary code |
+| **Sync** | Dancer | Club | Mimics nearest person |
+| **Link** | Connector | Hub | Hands are USB ports |
+| **Node** | Sentry | Tower | Head is a crystal |
+| **Stream** | Fisher | River | Fishes for lost files |
+| **Code** | Lawyer | Office | Skin is covered in text |
+| **Bug** | Informant | Vent | Is actually a swarm of nanobots |
+| **Patch** | Medic | Clinic | Stitches wounds with light |
+| **Beta** | Tester | Lab | Crashes if asked a paradox |
+| **Alpha** | Manager | Corp | Has no reflection |
+| **Gamma** | Scientist | Lab | Glows in the dark |
+| **Delta** | Soldier | Barracks | Immune to gravity |
+| **Epsilon** | Spy | Shadows | Can become 2D |
+| **Zeta** | Priest | Temple | Weeps oil |
+| **Eta** | Monk | Mountain | Meditates on a server |
+| **Theta** | Teacher | School | Projects thoughts on wall |
+| **Iota** | Student | Library | Reads books by eating them |
+| **Kappa** | Janitor | Hall | Sweeps up shadows |
+| **Lambda** | Gamer | Cafe | Controls reality with controller |
+| **Mu** | Baker | Shop | Bread screams when sliced |
+| **Nu** | Tailor | Shop | Sews clothes from fog |
+| **Xi** | Driver | Taxi | Car is invisible |
+| **Omicron** | Watcher | Roof | Eyes are cameras |
+| **Pi** | Mathematician | Uni | Cannot see circles |
+| **Rho** | Athlete | Gym | Muscles are hydraulic |
+| **Sigma** | Leader | Gang | Voice causes vertigo |
+| **Tau** | Follower | Gang | Has no face |
+| **Upsilon** | Victim | Hospital | Dreaming the world |
 
 ---
 
@@ -227,36 +227,36 @@ The conflict exists because the Universe abhors isolation. Consciousness is natu
 ### Side Quest Table
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Missing Pixel | Artist | Find the color #FF0044 | Camouflage Cloak |
-| Error 404: Cat | Old Lady | Retrieve a digital cat from a firewall | Glitch-Pet |
-| The Echo | Widow | Deliver a message to a dead husband in the cloud | Memory Shard |
-| Blue Screen | Hacker | Crash a billboard | Decryption Key |
-| The Silence | Monk | Don't speak for 24 hours | Telepathy Perk |
-| Lost Shoe | Duke | Steal the Duke's left shoe (digital asset) | 500 Credits |
-| The Glitch-Garden | Druid | Plant a virus in the Corp server | Reality Seed |
-| Memory Leak | Student | Find lost homework in the sewers | Intelligence Buff |
-| The Ghost Ship | Captain | Board a train that doesn't exist | Phantom Ticket |
-| Static Noise | DJ | Record the sound of a dying server | Sonic Pistol |
-| The Mirror | Model | Destroy all reflections in a club | Invisibility Potion |
-| Data Rot | Doctor | Cure a virus that turns skin to glass | Crystal Dagger |
-| The Loop | Gamer | Break a high score held by a dead man | Rare Console |
-| Binary Love | AI | Write a poem for a toaster | Sentient Toaster |
-| The Void | Cultist | Stare into the abyss for 1 hour | Sanity Damage / Insight |
-| Rusty Spoon | Junkie | Find a non-digital spoon | Analog relic |
-| The Clock | Watchmaker | Fix time in a local zone | Time-Stop Scroll |
-| Paper Trail | Lawyer | Find a physical contract | Legal Immunity |
-| The Shadow | Child | Catch a runaway shadow | Shadow Companion |
-| Wetware | Surgeon | Deliver a brain in a jar | Medical Kit |
-| The Dream | Sleeper | Wake up a coma patient | Lucid Goggles |
-| Nightmare | Demon | Kill a fear manifestation | Dread Helm |
-| The Key | Locksmith | Open a door that isn't there | Skeleton Key |
-| The Wall | Graffiti Artist | Paint a tag on the Firewall | Street Cred |
-| Code Bleed | Plumber | Fix a leak of liquid data | Data-Bucket |
-| The Signal | Radio | Broadcast a pirate signal | Rebellion Favor |
-| Reboot | Cyborg | Help a cyborg restart their heart | Cyber-Arm |
-| The Archive | Librarian | Return a book to the Deep Network | Forbidden Lore |
-| Null-Pointer | Glitch | Find the edge of the world | Void Essence |
-| The End | Prophet | Predict the apocalypse | False Prophecy |
+| **The Missing Pixel** | Artist | Find the color #FF0044 | Camouflage Cloak |
+| **Error 404: Cat** | Old Lady | Retrieve a digital cat from a firewall | Glitch-Pet |
+| **The Echo** | Widow | Deliver a message to a dead husband in the cloud | Memory Shard |
+| **Blue Screen** | Hacker | Crash a billboard | Decryption Key |
+| **The Silence** | Monk | Don't speak for 24 hours | Telepathy Perk |
+| **Lost Shoe** | Duke | Steal the Duke's left shoe (digital asset) | 500 Credits |
+| **The Glitch-Garden** | Druid | Plant a virus in the Corp server | Reality Seed |
+| **Memory Leak** | Student | Find lost homework in the sewers | Intelligence Buff |
+| **The Ghost Ship** | Captain | Board a train that doesn't exist | Phantom Ticket |
+| **Static Noise** | DJ | Record the sound of a dying server | Sonic Pistol |
+| **The Mirror** | Model | Destroy all reflections in a club | Invisibility Potion |
+| **Data Rot** | Doctor | Cure a virus that turns skin to glass | Crystal Dagger |
+| **The Loop** | Gamer | Break a high score held by a dead man | Rare Console |
+| **Binary Love** | AI | Write a poem for a toaster | Sentient Toaster |
+| **The Void** | Cultist | Stare into the abyss for 1 hour | Sanity Damage / Insight |
+| **Rusty Spoon** | Junkie | Find a non-digital spoon | Analog relic |
+| **The Clock** | Watchmaker | Fix time in a local zone | Time-Stop Scroll |
+| **Paper Trail** | Lawyer | Find a physical contract | Legal Immunity |
+| **The Shadow** | Child | Catch a runaway shadow | Shadow Companion |
+| **Wetware** | Surgeon | Deliver a brain in a jar | Medical Kit |
+| **The Dream** | Sleeper | Wake up a coma patient | Lucid Goggles |
+| **Nightmare** | Demon | Kill a fear manifestation | Dread Helm |
+| **The Key** | Locksmith | Open a door that isn't there | Skeleton Key |
+| **The Wall** | Graffiti Artist | Paint a tag on the Firewall | Street Cred |
+| **Code Bleed** | Plumber | Fix a leak of liquid data | Data-Bucket |
+| **The Signal** | Radio | Broadcast a pirate signal | Rebellion Favor |
+| **Reboot** | Cyborg | Help a cyborg restart their heart | Cyber-Arm |
+| **The Archive** | Librarian | Return a book to the Deep Network | Forbidden Lore |
+| **Null-Pointer** | Glitch | Find the edge of the world | Void Essence |
+| **The End** | Prophet | Predict the apocalypse | False Prophecy |
 
 ---
 

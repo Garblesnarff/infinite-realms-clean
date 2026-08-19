@@ -18,7 +18,8 @@ The Law is not a human invention; it is a primal enchantment woven into the foun
 ### The 'Why'
 The central conflict is the battle for 'Objective Truth' in a world of magical deception. It is about the 'Dramatic Flair' of the intellectual battle—the thrill of the breakthrough and the wit of the counter-argument. The 'Why' is the question: 'Can logic prevail in a world where reality itself can be enchanted?' It explores the exaggerated expressions of humanity, the weight of a divine impartial judgment, and the comedy found in the absurdities of the law. The players are the rookie lawyers and veteran prosecutors who must use their wits, evidence, and a touch of magical flair to ensure that justice is not just done, but seen to be done.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Defense Guild (The Truth-Seekers)
 **Type:** Association of Independent Defense Attorneys
 **Leader:** Phoenix Wright (Equivalent - The Mentor).
@@ -49,12 +50,13 @@ The central conflict is the battle for 'Objective Truth' in a world of magical d
 **Asset:** Truth-Illusions, 'Memory-Wipe' mist, and a network of shifty witnesses.
 **Rivals:** The Defense Guild, The Arcane Prosecution.
 
-## [TAG: NPC_TIER_1]
-**The Protagonist (Apollo)** (Defense - Passionate Rookie) - A lawyer with wide, determined eyes and a pointing finger. **Voice:** Energetic, sharp, and prone to 'Objection!' shouts. **Goal:** To save his clients and find the ultimate truth. **Secret:** He can 'perceive' a witness's nervous habits as visual distortions.
-**Prosecutor Miles** (Prosecution - Flamboyant Rival) - A man in a deep red suit with a sharp, arrogant smile. **Voice:** Witty, confident, and patronizingly correct. **Goal:** To achieve a 'Perfect Verdict' and uphold the dignity of the court. **Secret:** He secretly respects the Protagonist and views their battles as a form of intellectual art.
-**The Golem Judge** (Judiciary - Imposing Construct) - A massive stone construct with glowing blue eyes. **Voice:** Booming, monotone, and comically stern. **Goal:** To maintain order and deliver a fair verdict. **Secret:** He secretly enjoys the Protagonist's 'Dramatic Flair' and scores their arguments in his head.
-**The Shifty Witness (Larry)** (Independent - Clumsy Grifter) - A man who is perpetually nervous and prone to comically panicked squeaks. **Voice:** High-pitched, fast-paced, and unreliable. **Goal:** To stay out of trouble and tell a 'good enough' story. **Secret:** He is almost always an accidental witness to the most important events.
-**The Spectral Librarian** (Grail Seeker equivalent - Expert/AI) - An ancient ghost who guards the Aetheneum. **Voice:** Wise, glitchy, and multi-tonal. **Goal:** To ensure the records of Lexis remain untainted. **Secret:** He was the first defense attorney to ever lose a case, and he's still bitter about it.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Protagonist (Apollo)** (Defense - Passionate Rookie) - A lawyer with wide, determined eyes and a pointing finger. **Voice:** Energetic, sharp, and prone to 'Objection!' shouts. **Goal:** To save his clients and find the ultimate truth. **Secret:** He can 'perceive' a witness's nervous habits as visual distortions.
+2.  **Prosecutor Miles** (Prosecution - Flamboyant Rival) - A man in a deep red suit with a sharp, arrogant smile. **Voice:** Witty, confident, and patronizingly correct. **Goal:** To achieve a 'Perfect Verdict' and uphold the dignity of the court. **Secret:** He secretly respects the Protagonist and views their battles as a form of intellectual art.
+3.  **The Golem Judge** (Judiciary - Imposing Construct) - A massive stone construct with glowing blue eyes. **Voice:** Booming, monotone, and comically stern. **Goal:** To maintain order and deliver a fair verdict. **Secret:** He secretly enjoys the Protagonist's 'Dramatic Flair' and scores their arguments in his head.
+4.  **The Shifty Witness (Larry)** (Independent - Clumsy Grifter) - A man who is perpetually nervous and prone to comically panicked squeaks. **Voice:** High-pitched, fast-paced, and unreliable. **Goal:** To stay out of trouble and tell a 'good enough' story. **Secret:** He is almost always an accidental witness to the most important events.
+5.  **The Spectral Librarian** (Grail Seeker equivalent - Expert/AI) - An ancient ghost who guards the Aetheneum. **Voice:** Wise, glitchy, and multi-tonal. **Goal:** To ensure the records of Lexis remain untainted. **Secret:** He was the first defense attorney to ever lose a case, and he's still bitter about it.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the battle for 'Objective Truth' in a world of magical d
 | The Newsie | Street Kid | Corner of Law | Can name every judicial loophole by the weight of the paper. |
 | 'Lipstick' | Informant | Speakeasy | Leaves a blood red mark on the evidence where the next lie will happen. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The High Court of Lexis
 A grand courtroom with towering pillars and glowing magical runes.
 *   **The Defense Bench:** A sleek, wooden stand with a glowing interface for evidence. **Smell:** Old paper and ozone. **Sound:** The rhythmic tapping of a determined lawyer.
@@ -90,7 +93,8 @@ A detailed, urban investigation hub with a comic-book feel.
 A grittier, mysterious sector where the shifty witnesses hide.
 *   **The Blind Alley:** A place where 'Truth-Illusions' are sold. **Visual:** Flickering neon signs and the shadows of ghosts.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Objection:** Win your first trial in Lexis. Discover a contradiction in a witness's testimony by using your 'Perception' ability.
 2.  **The Golem's Dilemma:** Defend a client against a comically stern Golem Judge who has been enchanted by a 'Bias Spell.'
 3.  **The Aetheneum Heist:** Someone has stolen the 'Stone of Truth' from the archives. You must track the thief through the Underworld.
@@ -99,18 +103,19 @@ A grittier, mysterious sector where the shifty witnesses hide.
 6.  **The Phantom's Frame:** You are accused of tampering with evidence. You must prove your own innocence in a trial presided over by the Golem Prime.
 7.  **The Final Verdict:** A three-way legal standoff at the center of Lexis. Break the 'False Evidence Syndicate' and restore the Magical Contract.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Gavel of Silence
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Gavel of Silence:**
 **Type:** Artifact Focus
 **Description:** A massive, golden gavel that hums with the power of the Judicial Council.
 **Mechanics:** Grants the user the ability to 'Silence' a witness for 1 round (DC 18 Wisdom save). If successful, the witness must reveal their most guarded secret.
 
-### 2. The Attorney's Badge
+2.  **The Attorney's Badge:**
 **Type:** Wondrous Item
 **Description:** A simple, gold pin that glows when near a contradiction.
 **Mechanics:** Grants the wearer advantage on all Wisdom (Insight) and Intelligence (Investigation) checks. Once per day, the wearer can shout 'OBJECTION!' to negate an enemy's action.
 
-### 3. The Magatama of Truth
+3.  **The Magatama of Truth:**
 **Type:** Wondrous Item
 **Description:** A glowing green jewel that reveals the 'Locks' on a person's heart.
 **Mechanics:** Allows the user to see the 'Psych-Locks' protecting a secret. Each lock can be broken by presenting the correct piece of evidence.

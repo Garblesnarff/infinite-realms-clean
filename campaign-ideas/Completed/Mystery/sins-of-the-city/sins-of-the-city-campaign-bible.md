@@ -20,7 +20,8 @@ The "City" is not a place. It is a single, colossal, sentient being, an "Urban G
 ### The "Why"
 The metaphysical conflict is a struggle against the dissolution of reality itself. The Urban God is not evil; it is simply waking up. Its dream is becoming our reality, and our reality is becoming its dream. The players are caught in this "Divergence," and the horror comes from the realization that their existence is merely a fleeting thought in the mind of a cosmic city. The goal is not to "kill" the Urban God, which is impossible, but to find a way to "wake it up" fully (which would destroy our reality), or to "put it back to sleep" (which would erase its dream), or, perhaps, to find a way to "integrate" our reality into its dream, becoming a part of its consciousness without losing our individuality. The ultimate horror is the realization that we are all just bricks in someone else's dream.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Dream-Walkers
 **Type:** Psychic Detectives
 **Leader:** The Somnambulist, a detective who can enter and manipulate the Urban God's dream-state.
@@ -81,83 +82,85 @@ The metaphysical conflict is a struggle against the dissolution of reality itsel
 **Asset:** A shared, fractured consciousness. They cannot speak, but they can communicate telepathically with each other, and they sometimes receive "echoes" of the Urban God's own thoughts and feelings.
 **Rivals:** Loud noises.
 
-## [TAG: NPC_TIER_1]
-**The Somnambulist** (Human Wizard) - The leader of the Dream-Walkers. A gaunt, pale figure who is always half-asleep. **Voice:** A dreamy, distant, and slightly slurred voice. **Goal:** To put the Urban God back to sleep by "re-writing" its nightmares into pleasant dreams. **Secret:** He is slowly losing his own mind, becoming a part of the Urban God's dream.
-**The City's Voice** (Human Warlock) - The leader of the Assimilated. A woman whose eyes are a swirling vortex of urban patterns. **Voice:** A calm, serene, and utterly alien voice, a chorus of a thousand tiny voices speaking as one. **Goal:** To assimilate all of humanity into the Urban God's dream. **Secret:** She believes assimilation is the ultimate form of enlightenment, and she is genuinely trying to save humanity from its own individuality.
-**Professor Anya Sharma** (Human Wizard) - The leader of the Reality-Engineers. Brilliant, reckless, and obsessed with breaking the boundaries of reality. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To use the Sins Emergence as a portal to another dimension. **Secret:** She believes her dead daughter is in that other dimension.
-**General Marcus Brody** (Human Fighter) - The leader of the City Guard. A weary, gravelly, and stressed-out military commander. **Voice:** A tired, but determined, military bark. **Goal:** To contain the Divergence at all costs, even if it means sacrificing the affected region. **Secret:** He has already authorized a "Hammer-Down" protocol, a tactical nuclear strike, as a last resort.
-**The Moth-Priestess** (Human Warlock) - The leader of the Memory-Moths. A being whose body is covered in moth-like patterns. **Voice:** A soft, fluttering whisper, like moth wings. **Goal:** To feed on forgotten memories, believing this will help the Urban God "digest" our reality. **Secret:** She is slowly losing her own memories, becoming a blank slate.
-**The Debug-Master** (Unknown) - The leader of the Glitch-Hunters. **Voice:** A series of glitched, distorted, and repeating audio files. **Goal:** To find the "root password" for reality. **Secret:** It is a sentient piece of "junk code" left over from a previous reality-divergence.
-**The City-Planner** (Human Artificer) - The leader of the Architects of the Dream. A man who designs cities to be "perfect" dream-manifestations. **Voice:** A precise, cold, and utterly detached voice. **Goal:** To design a city that will cause the Urban God maximum irritation, forcing it to "wake up." **Secret:** He believes that by causing enough "dream-noise," he can force the Urban God to "wake up" and apologize for dreaming him into existence.
-**The Blank Child** (Human) - The leader of the Un-Dreamed. A child born with no "story," a narrative vacuum. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
-**The Urban God** (Cosmic Entity) - A colossal, sentient city-organism from a higher dimension. **Voice:** A deep, resonant hum that can be felt in the bones, a constant, low thrum that causes reality-warps and dream-manifestations. **Goal:** To wake up. **Secret:** It is not evil; it is simply dreaming. It is unaware of our existence as anything other than a dream.
-**The Silent Child** (Human Psion) - A member of the Silent Choir. A young girl who was struck dumb by the Urban God's awakening. **Voice:** Silence. She communicates through hauntingly accurate drawings. **Goal:** To draw what the "big, sad monster" is feeling. **Secret:** She has a direct, one-way psychic link to the Urban God and feels all of its pain and confusion.
-**General Brody's Aide** (Human Expert) - A young, ambitious military officer. **Voice:** A crisp, professional, and slightly nervous voice. **Goal:** To impress General Brody. **Secret:** He is secretly a member of the Assimilated.
-**The Moth-Priestess's Apprentice** (Human Warlock) - A young, ambitious mystic. **Voice:** A soft, fluttering whisper. **Goal:** To learn how to steal memories. **Secret:** She is slowly losing her own memories, becoming a blank slate.
-**The Debug-Master's Informant** (Human Rogue) - A local who is secretly working for the Glitch-Hunters. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** He is terrified of both the Urban God and the Debug-Master.
-**The City-Planner's Apprentice** (Human Artificer) - A young, ambitious architect. **Voice:** A precise, cold, and utterly detached voice. **Goal:** To design the "perfect dream-manifestation." **Secret:** He is secretly trying to design a city that will soothe the Urban God, not irritate it.
-**The Blank Child's Guardian** (Human Commoner) - A man who has dedicated his life to protecting the Blank Child. **Voice:** A quiet, desperate, and lonely voice. **Goal:** To find a way to give the Blank Child a story. **Secret:** He is the Blank Child's father, and he blames himself for its condition.
-**The Urban God's Dream-Echo** (Aberration) - A monster born from the Urban God's dreams. **Voice:** A cacophony of whispers, screams, and the sound of breaking bones. **Goal:** To spread terror and despair. **Secret:** It is a physical manifestation of a specific, terrible memory of the Urban God.
-**The Assimilated Drone** (Humanoid) - A human who has been partially assimilated into the Urban God. **Voice:** A flat, monotone, and emotionless voice. **Goal:** To serve the Urban God. **Secret:** A small part of its original personality is still aware and is screaming for help.
-**The Reality-Engineer's Assistant** (Human Expert) - A young, ambitious scientist. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To prove Professor Sharma's theories. **Secret:** She is secretly trying to use the Divergence to bring back her dead pet hamster.
-**The City Guard Soldier** (Human Fighter) - A weary, but determined, soldier. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To protect the civilians. **Secret:** He has been bitten by one of the Urban God's dream-creatures and is hiding the infection from his squad.
-**The Silent Choir's Conductor** (Human Bard) - A former musician who was psychically shattered by the Urban God's awakening. **Voice:** Silence. He communicates through hauntingly accurate musical scores. **Goal:** To compose a "symphony of silence" that will put the Urban God back to sleep. **Secret:** He is slowly losing his own ability to hear.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Somnambulist** (Human Wizard) - The leader of the Dream-Walkers. A gaunt, pale figure who is always half-asleep. **Voice:** A dreamy, distant, and slightly slurred voice. **Goal:** To put the Urban God back to sleep by "re-writing" its nightmares into pleasant dreams. **Secret:** He is slowly losing his own mind, becoming a part of the Urban God's dream.
+2.  **The City's Voice** (Human Warlock) - The leader of the Assimilated. A woman whose eyes are a swirling vortex of urban patterns. **Voice:** A calm, serene, and utterly alien voice, a chorus of a thousand tiny voices speaking as one. **Goal:** To assimilate all of humanity into the Urban God's dream. **Secret:** She believes assimilation is the ultimate form of enlightenment, and she is genuinely trying to save humanity from its own individuality.
+3.  **Professor Anya Sharma** (Human Wizard) - The leader of the Reality-Engineers. Brilliant, reckless, and obsessed with breaking the boundaries of reality. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To use the Sins Emergence as a portal to another dimension. **Secret:** She believes her dead daughter is in that other dimension.
+4.  **General Marcus Brody** (Human Fighter) - The leader of the City Guard. A weary, gravelly, and stressed-out military commander. **Voice:** A tired, but determined, military bark. **Goal:** To contain the Divergence at all costs, even if it means sacrificing the affected region. **Secret:** He has already authorized a "Hammer-Down" protocol, a tactical nuclear strike, as a last resort.
+5.  **The Moth-Priestess** (Human Warlock) - The leader of the Memory-Moths. A being whose body is covered in moth-like patterns. **Voice:** A soft, fluttering whisper, like moth wings. **Goal:** To feed on forgotten memories, believing this will help the Urban God "digest" our reality. **Secret:** She is slowly losing her own memories, becoming a blank slate.
+6.  **The Debug-Master** (Unknown) - The leader of the Glitch-Hunters. **Voice:** A series of glitched, distorted, and repeating audio files. **Goal:** To find the "root password" for reality. **Secret:** It is a sentient piece of "junk code" left over from a previous reality-divergence.
+7.  **The City-Planner** (Human Artificer) - The leader of the Architects of the Dream. A man who designs cities to be "perfect" dream-manifestations. **Voice:** A precise, cold, and utterly detached voice. **Goal:** To design a city that will cause the Urban God maximum irritation, forcing it to "wake up." **Secret:** He believes that by causing enough "dream-noise," he can force the Urban God to "wake up" and apologize for dreaming him into existence.
+8.  **The Blank Child** (Human) - The leader of the Un-Dreamed. A child born with no "story," a narrative vacuum. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
+9.  **The Urban God** (Cosmic Entity) - A colossal, sentient city-organism from a higher dimension. **Voice:** A deep, resonant hum that can be felt in the bones, a constant, low thrum that causes reality-warps and dream-manifestations. **Goal:** To wake up. **Secret:** It is not evil; it is simply dreaming. It is unaware of our existence as anything other than a dream.
+10.  **The Silent Child** (Human Psion) - A member of the Silent Choir. A young girl who was struck dumb by the Urban God's awakening. **Voice:** Silence. She communicates through hauntingly accurate drawings. **Goal:** To draw what the "big, sad monster" is feeling. **Secret:** She has a direct, one-way psychic link to the Urban God and feels all of its pain and confusion.
+11.  **General Brody's Aide** (Human Expert) - A young, ambitious military officer. **Voice:** A crisp, professional, and slightly nervous voice. **Goal:** To impress General Brody. **Secret:** He is secretly a member of the Assimilated.
+12.  **The Moth-Priestess's Apprentice** (Human Warlock) - A young, ambitious mystic. **Voice:** A soft, fluttering whisper. **Goal:** To learn how to steal memories. **Secret:** She is slowly losing her own memories, becoming a blank slate.
+13.  **The Debug-Master's Informant** (Human Rogue) - A local who is secretly working for the Glitch-Hunters. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** He is terrified of both the Urban God and the Debug-Master.
+14.  **The City-Planner's Apprentice** (Human Artificer) - A young, ambitious architect. **Voice:** A precise, cold, and utterly detached voice. **Goal:** To design the "perfect dream-manifestation." **Secret:** He is secretly trying to design a city that will soothe the Urban God, not irritate it.
+15.  **The Blank Child's Guardian** (Human Commoner) - A man who has dedicated his life to protecting the Blank Child. **Voice:** A quiet, desperate, and lonely voice. **Goal:** To find a way to give the Blank Child a story. **Secret:** He is the Blank Child's father, and he blames himself for its condition.
+16.  **The Urban God's Dream-Echo** (Aberration) - A monster born from the Urban God's dreams. **Voice:** A cacophony of whispers, screams, and the sound of breaking bones. **Goal:** To spread terror and despair. **Secret:** It is a physical manifestation of a specific, terrible memory of the Urban God.
+17.  **The Assimilated Drone** (Humanoid) - A human who has been partially assimilated into the Urban God. **Voice:** A flat, monotone, and emotionless voice. **Goal:** To serve the Urban God. **Secret:** A small part of its original personality is still aware and is screaming for help.
+18.  **The Reality-Engineer's Assistant** (Human Expert) - A young, ambitious scientist. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To prove Professor Sharma's theories. **Secret:** She is secretly trying to use the Divergence to bring back her dead pet hamster.
+19.  **The City Guard Soldier** (Human Fighter) - A weary, but determined, soldier. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To protect the civilians. **Secret:** He has been bitten by one of the Urban God's dream-creatures and is hiding the infection from his squad.
+20.  **The Silent Choir's Conductor** (Human Bard) - A former musician who was psychically shattered by the Urban God's awakening. **Voice:** Silence. He communicates through hauntingly accurate musical scores. **Goal:** To compose a "symphony of silence" that will put the Urban God back to sleep. **Secret:** He is slowly losing his own ability to hear.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Barnaby | Dream-Walker Apprentice | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
-| Cinder | Assimilated Drone | The Hive-City | Her eyes are constantly twitching, as if seeing a thousand tiny lives at once. |
-| Drogan | Reality-Engineer Intern | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
-| Elara | City Guard Medic | The Containment Zone | Her medical kit is filled with insect repellent. |
-| Finn | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Gilda | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
-| Horace | Glitch-Hunter Informant | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
-| Inker | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
-| Jori | Architect of the Dream Draftsman | The Dream-City | Designs buildings that are intentionally uncomfortable. |
-| Kael | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
-| Loric | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
-| Mort | Assimilated Drone | The Hive-City | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Nyla | Reality-Engineer | The Glitch-Lab | Believes she can communicate with the Urban God through interpretive dance. |
-| Orin | City Guard Soldier | The Containment Zone | His rifle is filled with insect repellent. |
-| Pip | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Quelenna | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
-| Roric | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
-| Silas | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
-| Tork | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
-| Ula | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
-| Val | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
-| Wex | Assimilated Drone | The Hive-City | His voice is a chorus of a thousand tiny voices speaking as one. |
-| Xylo | Reality-Engineer | The Glitch-Lab | Believes she can communicate with the Urban God through interpretive dance. |
-| Yara | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
-| Zane | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Astrid | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
-| Boris | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
-| Celia | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
-| Dmitri | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
-| Eva | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
-| Felix | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
-| Giselle | Assimilated Drone | The Hive-City | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Hector | Reality-Engineer | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
-| Ines | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
-| Jules | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Kira | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
-| Leo | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
-| Maya | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
-| Nico | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
-| Orla | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
-| Pascal | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
-| Rosa | Assimilated Drone | The Hive-City | Her voice is a chorus of a thousand tiny voices speaking as one. |
-| Simon | Reality-Engineer | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
-| Tara | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
-| Ulric | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
-| Vera | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
-| Wyatt | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
-| Xenia | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
-| Yuri | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
-| Zoe | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
+| **Barnaby** | Dream-Walker Apprentice | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
+| **Cinder** | Assimilated Drone | The Hive-City | Her eyes are constantly twitching, as if seeing a thousand tiny lives at once. |
+| **Drogan** | Reality-Engineer Intern | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
+| **Elara** | City Guard Medic | The Containment Zone | Her medical kit is filled with insect repellent. |
+| **Finn** | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
+| **Gilda** | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
+| **Horace** | Glitch-Hunter Informant | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
+| **Inker** | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
+| **Jori** | Architect of the Dream Draftsman | The Dream-City | Designs buildings that are intentionally uncomfortable. |
+| **Kael** | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
+| **Loric** | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
+| **Mort** | Assimilated Drone | The Hive-City | His voice is a chorus of a thousand tiny voices speaking as one. |
+| **Nyla** | Reality-Engineer | The Glitch-Lab | Believes she can communicate with the Urban God through interpretive dance. |
+| **Orin** | City Guard Soldier | The Containment Zone | His rifle is filled with insect repellent. |
+| **Pip** | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
+| **Quelenna** | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
+| **Roric** | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
+| **Silas** | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
+| **Tork** | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
+| **Ula** | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
+| **Val** | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
+| **Wex** | Assimilated Drone | The Hive-City | His voice is a chorus of a thousand tiny voices speaking as one. |
+| **Xylo** | Reality-Engineer | The Glitch-Lab | Believes she can communicate with the Urban God through interpretive dance. |
+| **Yara** | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
+| **Zane** | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
+| **Astrid** | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
+| **Boris** | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
+| **Celia** | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
+| **Dmitri** | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
+| **Eva** | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
+| **Felix** | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
+| **Giselle** | Assimilated Drone | The Hive-City | Her voice is a chorus of a thousand tiny voices speaking as one. |
+| **Hector** | Reality-Engineer | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
+| **Ines** | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
+| **Jules** | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
+| **Kira** | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
+| **Leo** | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
+| **Maya** | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
+| **Nico** | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
+| **Orla** | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
+| **Pascal** | Dream-Walker | The Dream-Sanctuary | Dreams in perfect, geometric patterns. |
+| **Rosa** | Assimilated Drone | The Hive-City | Her voice is a chorus of a thousand tiny voices speaking as one. |
+| **Simon** | Reality-Engineer | The Glitch-Lab | Believes he can communicate with the Urban God through interpretive dance. |
+| **Tara** | City Guard Soldier | The Containment Zone | Her rifle is filled with insect repellent. |
+| **Ulric** | Whispering Streets Scout | The Divergence Zone | Is a human who has been partially assimilated, and now has a single, twitching antenna. |
+| **Vera** | Memory-Moth Collector | The Library of Lost Memories | Her clothes are made of moth wings. |
+| **Wyatt** | Glitch-Hunter | The Glitched Wall | Communicates by leaving messages written in the game's UI font. |
+| **Xenia** | Un-Dreamed Child | The Blank Space | Does not cast a shadow. |
+| **Yuri** | Architect of the Dream | The Dream-City | Designs buildings that are intentionally uncomfortable. |
+| **Zoe** | Silent Choir Member | The Silent Sanctuary | Can only communicate by arranging pebbles into meaningful patterns. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Divergence Zone
 The epicenter of the Sins Emergence, a region where reality is actively being overwritten by the Urban God's dream-logic.
 *   **The Skyscraper:** A massive, iridescent skyscraper, miles high, that hangs in the sky above the affected region. It pulses with a faint, organic light. **Smell:** Ozone, and a strange, sweet, organic smell. **Sound:** A low, resonant hum that can be felt in the bones.
@@ -194,7 +197,8 @@ A dense, ancient forest that borders the Divergence Zone, where the trees seem t
 *   **The Tree of Lies:** A massive, ancient tree that grows in the center of the woods. Its leaves are covered in the lies of the community. **Smell:** Pine needles, and the faint scent of deception. **Sound:** The whisper of the wind, which sounds like a thousand lies being told at once.
 *   **The Cave of Lost Voices:** A cave where the echoes of stolen identities are trapped. **Smell:** Dust, and the faint scent of forgotten names. **Sound:** A cacophony of whispers, screams, and the sound of your own deepest fears.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Missing Person:** The players are in a town where a loved one has gone missing.
 2.  **The First Divergence:** The players witness a localized reality-warp, a sign of the Sins Emergence.
 3.  **The Infected:** The players encounter a person who has been partially assimilated into the Urban God.
@@ -247,33 +251,35 @@ A dense, ancient forest that borders the Divergence Zone, where the trees seem t
 | The Silent Choir's Symphony | The Silent Choir's Conductor | Compose a "symphony of silence" that will put the Urban God back to sleep. | A musical score that can induce sleep in cosmic entities. |
 | The Urban God's Dream-Echo | The Silent Child | Draw a picture of the Urban God's dream-echo. | A drawing that can manifest a minor dream-creature. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Somnambulist's Staff
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Somnambulist's Staff:**
 **Type:** Legendary Quarterstaff
 **Description:** A staff made of petrified dream-wood, topped with a glowing, pulsating crystal. It hums with a faint, psychic energy.
 **Mechanics:** This is a +3 quarterstaff. It deals psychic damage. A creature attuned to this staff can enter the dream-state of the Urban God. While in the dream-state, they can manipulate the landscape, create objects, and interact with the Urban God's memories. They can also "weave" new dreams for the Urban God, replacing its nightmares with pleasant visions.
 
-### 2. The City's Voice's Crown
+2.  **The City's Voice's Crown:**
 **Type:** Cursed Item (Crown)
 **Description:** A crown made of concrete and steel, adorned with glowing, pulsating crystals. It hums with a faint, telepathic energy.
 **Mechanics:** When a creature wears this crown, they gain a direct, telepathic connection to the Urban God. They can manipulate its dream-thoughts and manifest its dream-creatures in our reality. **Curse:** The crown slowly assimilates the wearer's mind into the Urban God. Each day the crown is worn, the wearer must make a WIS save. On a failure, they lose a piece of their own individuality (e.g., a memory, a personality trait, a skill proficiency). At 5 failures, the wearer's mind is completely assimilated, and they become a new City's Voice.
 
-### 3. The Reality-Engineer's Goggles
+3.  **The Reality-Engineer's Goggles:**
 **Type:** Wondrous Item
 **Description:** A pair of high-tech goggles with glowing, multi-faceted lenses. They hum with a faint, electronic energy.
 **Mechanics:** A creature wearing these goggles can see the "source code" of reality. They can detect reality-glitches, identify dream-manifestations, and perceive the Urban God's dream-logic. Once per day, the goggles can be used to perform a "Reality-Patch," which temporarily stabilizes a localized reality-warp.
 
-### 4. The City Guard's Rifle
+4.  **The City Guard's Rifle:**
 **Type:** Legendary Rifle
 **Description:** A military-grade rifle, modified with insect repellent. It hums with a faint, chemical energy.
 **Mechanics:** This is a +3 rifle. It deals piercing damage. It deals double damage to any creature born from the Urban God's dream. It also has a built-in insect repellent that creates a 20-foot radius zone where all insectoid creatures have disadvantage on attack rolls.
 
-### 5. The Blank Child's Toy
+5.  **The Blank Child's Toy:**
 **Type:** Artifact
 **Description:** A simple, wooden toy, carved in the shape of a small, blank doll. It absorbs all light and sound around it.
 **Mechanics:** The toy is immune to narrative absorption. It can be used to "absorb" a narrative, making it immune to the Urban God's dream-logic. If a creature touches the toy, they are temporarily immune to the Urban God's dream-logic for 1 hour. **Curse:** The toy slowly absorbs the user's own narrative. Each day the toy is held, the user must make a CHA save. On a failure, they lose a piece of their own story (e.g., a memory, a personality trait, a skill proficiency). At 5 failures, the user's story is completely absorbed, and they become a new Blank Child.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Bottle of Dream-Dust:** A small, corked bottle containing a fine, shimmering dust. If inhaled, it induces vivid, prophetic dreams.
 2.  **A Piece of Chitin from a Dream-Creature:** A piece of iridescent chitin. It hums with a faint, psychic energy.
 3.  **A Glitched Compass:** A compass that constantly spins, never pointing North. It sometimes points towards reality-glitches.

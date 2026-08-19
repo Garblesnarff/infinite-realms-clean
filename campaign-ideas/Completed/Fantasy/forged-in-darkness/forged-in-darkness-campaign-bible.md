@@ -18,7 +18,8 @@ The World is not a floor; it's a mouth that's being played by an ancient predato
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Hostility.' It is about the 'Human Resilience' of the spirit—the realization that you need the darkness to appreciate the light. The 'Why' is the question: 'Can you remain human when the universe itself is trying to turn you into a predator in an eternal mouth?' It explores the visceral beauty of the dark fantasy, the pride in mastering a custom weapon, and the deep, resonant voice of a survivor who understands that every scar is a story. The players are the survivors and forgers who must navigate the reality-breaks and the intensity of an abyssal shift to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Deep Survivors (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** Guts (equivalent - the survivor).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing gravity-defying forms, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with abyssal energy.
 
-## [TAG: NPC_TIER_1]
-**Guts** (Order - The Lead) - A man whose voice is deep, gravelly, and resonant. **Voice:** HARD-WON wisdom, controlled but intense anger. **Goal:** To protect the 'Humanity' of the labyrinth and guide the new survivors. **Secret:** He is secretly an Adept of 'Abyssal-Energy' who can 'rewrite' a soul's destiny through his measured words.
-**Griffith** (Shadow - The Villain) - A being whose voice is smooth, philosophical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all predatory talent into a single 'Global Syndicate' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Casca** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost brother and stop the labyrinth-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the abyssal static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless labyrinth-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Griffith's armor that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient survivor in practical tattered gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the abyssal ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Guts** (Order - The Lead) - A man whose voice is deep, gravelly, and resonant. **Voice:** HARD-WON wisdom, controlled but intense anger. **Goal:** To protect the 'Humanity' of the labyrinth and guide the new survivors. **Secret:** He is secretly an Adept of 'Abyssal-Energy' who can 'rewrite' a soul's destiny through his measured words.
+2.  **Griffith** (Shadow - The Villain) - A being whose voice is smooth, philosophical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all predatory talent into a single 'Global Syndicate' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Casca** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost brother and stop the labyrinth-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the abyssal static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless labyrinth-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Griffith's armor that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient survivor in practical tattered gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the abyssal ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Abyss Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Great Labyrinth (The Hub)
 A grand subterranean monument to ancient stone and impossible geometry.
 *   **The Survivor Camp:** A site of 'Refined Formality' and harsh transformation rituals. **Smell:** Vanilla, old stone, and damp earth. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to biomechanical horror and Godhand light.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Labyrinth Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the labyrinth. You must survive your first 'Liberator Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Guts Run:** Navigate the traditional territories to find Guts. You must identify the 'Abyssal-Energy' node before the rivals arrive.
 3.  **The Azantium Heist:** Infiltrate the Liberator HQ to retrieve a stolen 'Azantium-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Griffith face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Azantium (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Azantium (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Abyssal Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Labyrinth Signet (Equivalent)
+2.  **The Labyrinth Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the labyrinth seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Abyssal-Energy Capsule (Equivalent)
+3.  **The Abyssal-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Transformation' magic.

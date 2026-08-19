@@ -18,7 +18,8 @@ The Earth is not a static rock; it's a canvas for the 'Grand Progress.' In the b
 ### The 'Why'
 The central conflict is the struggle for 'Historical Significance' in a world of 'Competing Empires.' It is about the 'Epic Scope' of human progress—the realization that every civilization is a stepping stone toward eternity. The 'Why' is the question: 'Can you lead your people to victory through every age without losing your own soul?' It explores the visual transformation of the eras, the pride in building a wonder, and the scholarly observation of a world that is always changing. The players are the leaders and great people who must navigate the hex-grid and the technology tree to find a resolution that honors the memory of humanity.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The United Civilizations (The Architects)
 **Type:** International Strategic Alliance/Hegemony
 **Leader:** Emperor Trajan (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Historical Significance' in a world of
 **Asset:** Ancient ruins, 'Sun-Energy' monoliths, and a connection to the world's original purpose.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Emperor Trajan** (Rome - The Leader) - A man in gilded ceremonial armor with a purple cloak. **Voice:** Authoritative, proud, and perfectly measured. **Goal:** To turn Rome into an eternal empire of white marble and gold. **Secret:** He is a high-level Adept of 'Civ-Energy' who can 'persuade' a hex-tile to yield more resources through his presence.
-**Leonardo da Vinci** (Renaissance - The Expert) - A man with a sketch and a wild beard. **Voice:** Wise, curious, and multi-tonal. **Goal:** To achieve the 'Cultural Victory' through artistic innovation. **Secret:** he is the one who designed the first 'Master Key' for the technology tree.
-**Cleopatra VII** (Egypt - The Catalyst) - A queen in elaborate headdress and jewel-toned silks. **Voice:** Seductive, intelligent, and filled with a tragic wonder. **Goal:** To preserve Egypt's primitive majesty while mastering the modern era. **Secret:** She is the only person who can 'hear' the original Song of the Nile through the industrial smoke.
-**Gandhi** (Independent - The Prophet) - A man in simple white robes who speaks for the Proles (Equivalent). **Voice:** Soft, melodic, and terrifyingly calm. **Goal:** To achieve a 'Religious Victory' and ensure global peace. **Secret:** He possesses a 'Nuclear Trigger'—the ultimate form of destructive deterrence.
-**The Scholar (Einstein)** (Modern - The Specialist) - A man with a chalkboard and messy hair. **Voice:** Precise, academic, and increasingly frantic. **Goal:** To complete the 'Science Victory' and launch the first spaceship. **Secret:** He believes that history isn't a line—it's a 'Loop' designed by the Architects.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Emperor Trajan** (Rome - The Leader) - A man in gilded ceremonial armor with a purple cloak. **Voice:** Authoritative, proud, and perfectly measured. **Goal:** To turn Rome into an eternal empire of white marble and gold. **Secret:** He is a high-level Adept of 'Civ-Energy' who can 'persuade' a hex-tile to yield more resources through his presence.
+2.  **Leonardo da Vinci** (Renaissance - The Expert) - A man with a sketch and a wild beard. **Voice:** Wise, curious, and multi-tonal. **Goal:** To achieve the 'Cultural Victory' through artistic innovation. **Secret:** he is the one who designed the first 'Master Key' for the technology tree.
+3.  **Cleopatra VII** (Egypt - The Catalyst) - A queen in elaborate headdress and jewel-toned silks. **Voice:** Seductive, intelligent, and filled with a tragic wonder. **Goal:** To preserve Egypt's primitive majesty while mastering the modern era. **Secret:** She is the only person who can 'hear' the original Song of the Nile through the industrial smoke.
+4.  **Gandhi** (Independent - The Prophet) - A man in simple white robes who speaks for the Proles (Equivalent). **Voice:** Soft, melodic, and terrifyingly calm. **Goal:** To achieve a 'Religious Victory' and ensure global peace. **Secret:** He possesses a 'Nuclear Trigger'—the ultimate form of destructive deterrence.
+5.  **The Scholar (Einstein)** (Modern - The Specialist) - A man with a chalkboard and messy hair. **Voice:** Precise, academic, and increasingly frantic. **Goal:** To complete the 'Science Victory' and launch the first spaceship. **Secret:** He believes that history isn't a line—it's a 'Loop' designed by the Architects.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Historical Significance' in a world of
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Progress Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Capital City (Aethelgard)
 A vast, evolving monument to human progress and architectural diversity.
 *   **The Throne Room:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ink, stale air, and machine oil. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A high-contrast nightmare of iron grays and coal smoke.
 A clinical, white-blue space of absolute knowledge and desaturated reality.
 *   **The Technology Tree:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Bloom:** Wake up in a mud hut. You must survive a 'Barbarian Raid' using only your animal-skin warriors.
 2.  **The Marble Conquest:** Navigate the Classical era to build the first Stone Temple. You must identify the 'Civ-Energy' node before the rivals arrive.
 3.  **The Taj Mahal Heist:** Infiltrate a rival Renaissance capital to retrieve a 'Culture-Seed.' You must bypass the 'Palace Guard.'
@@ -98,18 +102,19 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the technology tree's source.
 7.  **The Final Coronation at the Center:** Face the rival leaders face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Great Library Key
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Great Library Key:**
 **Type:** Artifact (Tome)
 **Description:** A thick, clinical book that contains the records of every era.
 **Mechanics:** Grants the holder absolute knowledge of human history. Once per day, the user can 'Authorize' any action, making it immune to political obstacles.
 
-### 2. The Colosseum Coin
+2.  **The Colosseum Coin:**
 **Type:** Wondrous Item (Currency)
 **Description:** A heavy, gold coin with the Imperial seal.
 **Mechanics:** Grants the holder advantage on all Charisma (Persuasion and Intimidation) checks. Once per day, the user can 'Buy' a 1-hour truce from any rival.
 
-### 3. The Spaceship Navigator
+3.  **The Spaceship Navigator:**
 **Type:** Wondrous Item
 **Description:** A high-tech (Modern era) device that allows the pilot to see the world from orbit.
 **Mechanics:** Grants the user the ability to 'See' any hex-tile on the map. Once per day, the user can create a 30ft 'Sanctuary Field.'

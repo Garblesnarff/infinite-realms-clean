@@ -210,56 +210,56 @@ The conflict exists because Evolution is not finished. Humanity has plateaued. T
 
 | Name | Role | Location | Quirk (Weird/Low Prob) |
 | :--- | :--- | :--- | :--- |
-| Satotz | Exam Proctor | Trick Tower | Has no mouth; speaks via vibration. |
-| Beans | Secretary | HQ | Is literally a green jelly bean man. |
-| Zepile | Forger | Yorknew | Can counterfeit "history" onto items. |
-| Goreinu | Player | Greed Island | Obsessed with gorillas to a spiritual degree. |
-| Squala | Bodyguard | Yorknew | Controls dogs by kissing them. |
-| Neon | Fortune Teller | Yorknew | Collects mummified body parts. |
-| Basho | Poet | Yorknew | His Haikus become reality if they are good. |
-| Pokkle | Beast Hunter | NGL | Carries a rainbow bow; dies horribly. |
-| Ponzu | Applicant | Exam Site | Stores bees in her hat. |
-| Hanzo | Ninja | Exam Site | Bald, talks too much for a ninja. |
-| Wing | Teacher | Heaven's Arena | Shirt is always untucked; wildly messy. |
-| Zushi | Student | Heaven's Arena | Hard head; barely intelligent but distinct. |
-| Kastro | Fighter | Heaven's Arena | Created a clone but forgot how to fight. |
-| Gido | Fighter | Heaven's Arena | Spins like a top; has no legs. |
-| Riehlvelt | Fighter | Heaven's Arena | Uses wheelchairs with boosters. |
-| Sadaso | Fighter | Heaven's Arena | Only has one arm; uses aura for the other. |
-| Tsezguerra | Jackpot Hunter | Greed Island | Only cares about vertical jumping height. |
-| Razor | Game Master | Greed Island | Spikes volleyballs that explode heads. |
-| Elena | Game Master | Greed Island | Twin sister sits at exit; never speaks. |
-| Eta | Game Master | Greed Island | Twin sister sits at entrance; never sleeps. |
-| Dwun | Game Master | Greed Island | Lives in a pile of trash; hates bathing. |
-| List | Game Master | Greed Island | Short, angry, organizes the trash. |
-| Ickshonpe | Hacker | Internet | Wears a mascot suit 24/7. |
-| Milluki | Assassin | Zoldyck Estate | Obese otaku; kills with anime figurines. |
-| Kikyo | Mother | Zoldyck Estate | wears electronic visor; screams constantly. |
-| Silva | Head of House | Zoldyck Estate | Drops from ceiling without sound. |
-| Zeno | Grandfather | Zoldyck Estate | Wears "A Kill A Day" shirt. |
-| Canary | Butler | Zoldyck Estate | Can kill with a coin flick. |
-| Gotoh | Head Butler | Zoldyck Estate | Juggles coins with lethal force. |
-| Alluka | Child | Sealed Room | Possessed by a wish-granting demon. |
-| Pike | Chimera | NGL | Spider with an old man's face. |
-| Zazan | Chimera | NGL | Scorpion woman obsessed with beauty. |
-| Rammot | Chimera | NGL | Rabbit/Shrike; addicted to Nen hits. |
-| Leol | Chimera | NGL | Lion who borrows abilities via iPod. |
-| Cheetu | Chimera | NGL | Cheetah; ADHD; talks until enemies quit. |
-| Colt | Chimera | NGL | Bird/Human; fiercely loyal/honorable. |
-| Welfin | Chimera | Palace | Wolf; paranoid; literally smells fear. |
-| Brovada | Chimera | Palace | Lobster; spits acid; surprisingly chill. |
-| Ikalgo | Chimera | Palace | Octopus who wants to be a squid. |
-| Meleoron | Chimera | Palace | Chameleon; invisible when holding breath. |
-| Palm | Seeker | Palace | Bleeds on things to track them. |
-| Knov | Seeker | Palace | Loses hair from sheer terror. |
-| Morel | Seeker | Palace | Wears sunglasses in pitch black caves. |
-| Bizeff | Politician | East Gorteau | Only wants women and wine; bureaucratic genius. |
-| Ming Jol-ik | Dictator | East Gorteau | Puppet; actually a corpse on strings. |
-| Gyro | Founder | NGL | Became a Chimera; retained human will; fled. |
-| Koala | Chimera | NGL | Pink Koala in a suit; existential nihilist. |
-| Bloster | Chimera | NGL | Lobster with machine gun claws. |
-| Stick Dinner | Chef | Exam Phase 2 | Cooks disgusting pigs whole. |
-| Buhara | Gourmet | Exam Phase 2 | Sounds like a whale; eats 70 pigs. |
+| **Satotz** | Exam Proctor | Trick Tower | Has no mouth; speaks via vibration. |
+| **Beans** | Secretary | HQ | Is literally a green jelly bean man. |
+| **Zepile** | Forger | Yorknew | Can counterfeit "history" onto items. |
+| **Goreinu** | Player | Greed Island | Obsessed with gorillas to a spiritual degree. |
+| **Squala** | Bodyguard | Yorknew | Controls dogs by kissing them. |
+| **Neon** | Fortune Teller | Yorknew | Collects mummified body parts. |
+| **Basho** | Poet | Yorknew | His Haikus become reality if they are good. |
+| **Pokkle** | Beast Hunter | NGL | Carries a rainbow bow; dies horribly. |
+| **Ponzu** | Applicant | Exam Site | Stores bees in her hat. |
+| **Hanzo** | Ninja | Exam Site | Bald, talks too much for a ninja. |
+| **Wing** | Teacher | Heaven's Arena | Shirt is always untucked; wildly messy. |
+| **Zushi** | Student | Heaven's Arena | Hard head; barely intelligent but distinct. |
+| **Kastro** | Fighter | Heaven's Arena | Created a clone but forgot how to fight. |
+| **Gido** | Fighter | Heaven's Arena | Spins like a top; has no legs. |
+| **Riehlvelt** | Fighter | Heaven's Arena | Uses wheelchairs with boosters. |
+| **Sadaso** | Fighter | Heaven's Arena | Only has one arm; uses aura for the other. |
+| **Tsezguerra** | Jackpot Hunter | Greed Island | Only cares about vertical jumping height. |
+| **Razor** | Game Master | Greed Island | Spikes volleyballs that explode heads. |
+| **Elena** | Game Master | Greed Island | Twin sister sits at exit; never speaks. |
+| **Eta** | Game Master | Greed Island | Twin sister sits at entrance; never sleeps. |
+| **Dwun** | Game Master | Greed Island | Lives in a pile of trash; hates bathing. |
+| **List** | Game Master | Greed Island | Short, angry, organizes the trash. |
+| **Ickshonpe** | Hacker | Internet | Wears a mascot suit 24/7. |
+| **Milluki** | Assassin | Zoldyck Estate | Obese otaku; kills with anime figurines. |
+| **Kikyo** | Mother | Zoldyck Estate | wears electronic visor; screams constantly. |
+| **Silva** | Head of House | Zoldyck Estate | Drops from ceiling without sound. |
+| **Zeno** | Grandfather | Zoldyck Estate | Wears "A Kill A Day" shirt. |
+| **Canary** | Butler | Zoldyck Estate | Can kill with a coin flick. |
+| **Gotoh** | Head Butler | Zoldyck Estate | Juggles coins with lethal force. |
+| **Alluka** | Child | Sealed Room | Possessed by a wish-granting demon. |
+| **Pike** | Chimera | NGL | Spider with an old man's face. |
+| **Zazan** | Chimera | NGL | Scorpion woman obsessed with beauty. |
+| **Rammot** | Chimera | NGL | Rabbit/Shrike; addicted to Nen hits. |
+| **Leol** | Chimera | NGL | Lion who borrows abilities via iPod. |
+| **Cheetu** | Chimera | NGL | Cheetah; ADHD; talks until enemies quit. |
+| **Colt** | Chimera | NGL | Bird/Human; fiercely loyal/honorable. |
+| **Welfin** | Chimera | Palace | Wolf; paranoid; literally smells fear. |
+| **Brovada** | Chimera | Palace | Lobster; spits acid; surprisingly chill. |
+| **Ikalgo** | Chimera | Palace | Octopus who wants to be a squid. |
+| **Meleoron** | Chimera | Palace | Chameleon; invisible when holding breath. |
+| **Palm** | Seeker | Palace | Bleeds on things to track them. |
+| **Knov** | Seeker | Palace | Loses hair from sheer terror. |
+| **Morel** | Seeker | Palace | Wears sunglasses in pitch black caves. |
+| **Bizeff** | Politician | East Gorteau | Only wants women and wine; bureaucratic genius. |
+| **Ming Jol-ik** | Dictator | East Gorteau | Puppet; actually a corpse on strings. |
+| **Gyro** | Founder | NGL | Became a Chimera; retained human will; fled. |
+| **Koala** | Chimera | NGL | Pink Koala in a suit; existential nihilist. |
+| **Bloster** | Chimera | NGL | Lobster with machine gun claws. |
+| **Stick Dinner** | Chef | Exam Phase 2 | Cooks disgusting pigs whole. |
+| **Buhara** | Gourmet | Exam Phase 2 | Sounds like a whale; eats 70 pigs. |
 
 ---
 

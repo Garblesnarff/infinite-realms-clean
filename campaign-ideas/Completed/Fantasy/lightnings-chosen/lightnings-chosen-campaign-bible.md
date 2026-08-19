@@ -18,7 +18,8 @@ The World is not a floor; it's a battery that's being charged by a divine bolt. 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Surveillance.' It is about the 'Human Resilience' of the spirit—the realization that you need the darkness to appreciate the flash. The 'Why' is the question: 'Can you remain human when the universe itself is watching you through eyes that flash with power?' It explores the beautiful electric divinity of the lightning, the pride in mastering a trial, and the thunder-punctuated, resonant voice of a deity who understands that every second is a gift. The players are the chosen and rogues who must navigate the reality-breaks and the intensity of an electric shift to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Storm Guardians (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** High Conductor Marcus (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Su
 **Asset:** Dark voids, reality-tearing thunder crashes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Thunder Voice** (Order - The Lead) - A being whose voice is multiple voices speaking in unison, punctuated by thunder. **Voice:** Orchestral, electronic, voices in storm. **Goal:** To protect the 'Humanity' of the chosen and guide the new bolts. **Secret:** It is secretly an Adept of 'Electric-Energy' who can 'rewrite' a soul's destiny through its light patterns.
-**Void Speaker** (Shadow - The Villain) - A being whose voice is a soft whisper promising peace. **Voice:** Seductive absence, whispers, absolute darkness. **Goal:** To complete the 'Final Reconstruction' and merge all reality into the Void. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**High Conductor Marcus** (Independent - The Catalyst) - A man whose voice is filled with zealot's passion and divine certainty. **Voice:** Zealot's passion, divine certainty, Nordic folk energy (equivalent). **Goal:** To find a way to close the void and stop the electric-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the thunder static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the storm's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical storm gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the electric ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Thunder Voice** (Order - The Lead) - A being whose voice is multiple voices speaking in unison, punctuated by thunder. **Voice:** Orchestral, electronic, voices in storm. **Goal:** To protect the 'Humanity' of the chosen and guide the new bolts. **Secret:** It is secretly an Adept of 'Electric-Energy' who can 'rewrite' a soul's destiny through its light patterns.
+2.  **Void Speaker** (Shadow - The Villain) - A being whose voice is a soft whisper promising peace. **Voice:** Seductive absence, whispers, absolute darkness. **Goal:** To complete the 'Final Reconstruction' and merge all reality into the Void. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **High Conductor Marcus** (Independent - The Catalyst) - A man whose voice is filled with zealot's passion and divine certainty. **Voice:** Zealot's passion, divine certainty, Nordic folk energy (equivalent). **Goal:** To find a way to close the void and stop the electric-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the thunder static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the storm's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical storm gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the electric ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Su
 | The Monk | Ancient Worshipper | Bolt Temple | Spends all his time painting murals of the 'Strike's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Storm Citadel (The Hub)
 A grand stone monument to architecture, lightning, and cosmic surveillance.
 *   **The Control Room:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old paper, and clinical ozone. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and absolute darkness.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Light Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the citadel. You must survive your first 'Void Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Marcus Run:** Navigate the traditional territories to find High Conductor Marcus. You must identify the 'Electric-Energy' node before the rivals arrive.
 3.  **The Bolt Heist:** Infiltrate the Void HQ to retrieve a stolen 'Storm-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Void Speaker face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Bolt (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Bolt (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Electric Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Trial Signet (Equivalent)
+2.  **The Trial Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the trial seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Electric-Energy Capsule (Equivalent)
+3.  **The Electric-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Void' magic.

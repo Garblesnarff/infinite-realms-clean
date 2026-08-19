@@ -18,7 +18,8 @@ The World is not a floor; it's a board that's being played by a cosmic banker. I
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Wealth.' It is about the 'Human Resilience' of the spirit—the realization that you need the poverty of the vagrant to appreciate the wealth of the baron. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal game?' It explores the Art Deco beauty of the dystopian capitalism, the pride in mastering a property negotiation, and the cold, resonant voice of a banker who understands that every cent is a gift. The players are the landlords and vagrants who must navigate the industrial oppressions and the intensity of a mass uprising to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Board Walk Lords (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Baron Boardwalk (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Reality-tearing prison dimensions, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The Banker** (Order - The Lead) - A being whose voice is cold, corporate, and emotionless. **Voice:** Monetary terms, emotionless calculation, every word a transaction. **Goal:** To protect the 'Fiscal Balance' and guide the new landlords. **Secret:** He is secretly an Adept of 'Monopoly-Energy' who can 'rewrite' a soul's destiny through his investment speeches.
-**Baron Boardwalk** (Shadow - The Villain) - A being that looks and sounds like an aristocratic British snob. **Voice:** Drip with condescension, obsessed with luxury, dripping British accent. **Goal:** To consolidate all global wealth into a single 'Luxury District' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Free Parking Vagrant** (Independent - The Catalyst) - A being whose voice is zen, calm, and minimalist. **Voice:** Long pauses, monk-like wisdom, urban and modern. **Goal:** To find the 'Singularity' and stop the monetary-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the board noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless fiscal-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Banker's accounting that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical Art Deco gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Board ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Banker** (Order - The Lead) - A being whose voice is cold, corporate, and emotionless. **Voice:** Monetary terms, emotionless calculation, every word a transaction. **Goal:** To protect the 'Fiscal Balance' and guide the new landlords. **Secret:** He is secretly an Adept of 'Monopoly-Energy' who can 'rewrite' a soul's destiny through his investment speeches.
+2.  **Baron Boardwalk** (Shadow - The Villain) - A being that looks and sounds like an aristocratic British snob. **Voice:** Drip with condescension, obsessed with luxury, dripping British accent. **Goal:** To consolidate all global wealth into a single 'Luxury District' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Free Parking Vagrant** (Independent - The Catalyst) - A being whose voice is zen, calm, and minimalist. **Voice:** Long pauses, monk-like wisdom, urban and modern. **Goal:** To find the 'Singularity' and stop the monetary-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the board noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless fiscal-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Banker's accounting that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical Art Deco gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Board ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Fiscal Temple | Spends all his time painting murals of the 'Turn's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Board Walk (The Hub)
 A grand Art Deco monument to architecture, wealth, and golden light.
 *   **The Luxury Hotel:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and expensive champagne. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and iron gray stone.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Capital Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a brown district. You must survive your first 'Warden Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Banker Run:** Navigate the traditional territories to find The Banker. You must identify the 'Fiscal-Energy' node before the rivals arrive.
 3.  **The Deed Heist:** Infiltrate the Baron's HQ to retrieve a stolen 'Property-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Jail Warden face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Property (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Property (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Monetary Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Die Signet (Equivalent)
+2.  **The Die Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the die seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Fiscal-Energy Capsule (Equivalent)
+3.  **The Fiscal-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Economic' magic.

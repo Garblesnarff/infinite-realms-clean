@@ -121,56 +121,56 @@ The conflict is not merely survival; it is a clash of designs. The Corporation s
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Kane | Executive Officer | Mess Hall | Obsessed with pasta shapes. |
-| Dallas | Captain (Alt) | Bridge | Claustrophobia (Irony). |
-| Miller | Cargo Handler | Hold 3 | Collects vintage spoons. |
-| Verheiden | Comms Tech | Server Room | Speaks in third person when stressed. |
-| J.P. | Cook | Galley | Uses engine grease as spice. |
-| Spunkmeyer | Drop Ship Pilot | Hangar | Chews tobacco, never spits. |
-| Ferro | Drop Ship Co-Pilot | Hangar | Wears sunglasses in the dark. |
-| Drake | Heavy Gunner | Armory | Has a pet rock named "Dwayne". |
-| Crowe | Marine | Corridors | Hums circus music constantly. |
-| Wierzbowski | Marine | Vents | Sleeps with eyes open. |
-| Dietrich | Medic | Medbay | Faints at the sight of green blood. |
-| Frost | Marine Driver | APC | Allergies to synthetic skin. |
-| Gorman | Lieutenant | APC Command | Sweats profusely when asked questions. |
-| Simpson | Traffic Control | Colony Ops | Collects snow globes. |
-| Lydecker | Security | Colony | Wears a tie over his spacesuit. |
-| Reynolds | Miner | Shaft 4 | Believes the Aliens are "Angels". |
-| Jenson | Hydroponics | Garden | Talks to the tomatoes. |
-| O'Niel | Security | Airlock | Has a fear of buttons. |
-| Hideo | System Admin | Mainframe | Types with toes (lost hands). |
-| Kaitan | Welder | Engineering | Wears a welding mask 24/7. |
-| Vance | Loader Op | Cargo Bay | Only eats yellow food. |
-| Ricks | Surveyor | Planet Surface | Thinks the air is breathable (it's not). |
-| Taller | Xenobiologist | Lab | Tries to pet the facehuggers. |
-| Zed | Android | Storage | Recites poetry while lifting crates. |
-| Echo | Android | Medbay | Glitches: thinks it's a toaster. |
-| Vicks | Mercenary | Cryo-Sleep | Has a tattoo of a Xenomorph (prophetic). |
-| Stans | Prisoner | Brigg | Wears a tin-foil hat. |
-| Golic | Prisoner | Brigg | Thinks the dragon is "Magnificent". |
-| Morse | Prisoner | Brigg | IQ of 85, heart of gold. |
-| Aaron | Warden | Brigg | Called "85" because of IQ misunderstanding. |
-| Clemens | Doctor | Infirmary | Bald due to lice incident. |
-| Andrews | Superintendent | Office | Obsessed with tea temperature. |
-| Boggs | Prisoner | Laundry | Steals everyone's left sock. |
-| Rains | Prisoner | Mines | Can hold breath for 4 minutes. |
-| McGregor | Colonist | Terraformer | Scottish, plays bagpipes over comms. |
-| Timothy | Child | Vents | Carries a doll head. |
-| Russ | Father | Vents | Missing one leg. |
-| Anne | Mother | Vents | Pregnant (Normal, not Alien). |
-| Billy | Colonist | Bar | Bartender who serves industrial ethanol. |
-| Tyrell | Corporate | Remote | Hologram flickers when lying. |
-| Yutani | CEO | Remote | Speaks only in Japanese haiku. |
-| "Mother" | Ship AI | Mainframe | Voice cracks like a pubescent boy. |
-| "Father" | Colony AI | Server | Aggressively paternalistic. |
-| Red | Dog | Kennel | Bark sounds like a scream. |
-| Blue | Cat | Quarters | Hisses at androids only. |
-| Green | Parrot | Mess Hall | Mimics the motion tracker sound. |
-| Unit 4 | Sweeper Bot | Hallway A | Sings opera. |
-| Unit 9 | Loader Bot | Cargo B | Is actually a bomb disposal bot. |
-| The Corpse | Dead Guy | Chair | Holding a sign: "I was wrong." |
-| Subject 9 | Failed Clone | Lab Tank | Has two heads, both screaming. |
+| **Kane** | Executive Officer | Mess Hall | Obsessed with pasta shapes. |
+| **Dallas** | Captain (Alt) | Bridge | Claustrophobia (Irony). |
+| **Miller** | Cargo Handler | Hold 3 | Collects vintage spoons. |
+| **Verheiden** | Comms Tech | Server Room | Speaks in third person when stressed. |
+| **J.P.** | Cook | Galley | Uses engine grease as spice. |
+| **Spunkmeyer** | Drop Ship Pilot | Hangar | Chews tobacco, never spits. |
+| **Ferro** | Drop Ship Co-Pilot | Hangar | Wears sunglasses in the dark. |
+| **Drake** | Heavy Gunner | Armory | Has a pet rock named "Dwayne". |
+| **Crowe** | Marine | Corridors | Hums circus music constantly. |
+| **Wierzbowski** | Marine | Vents | Sleeps with eyes open. |
+| **Dietrich** | Medic | Medbay | Faints at the sight of green blood. |
+| **Frost** | Marine Driver | APC | Allergies to synthetic skin. |
+| **Gorman** | Lieutenant | APC Command | Sweats profusely when asked questions. |
+| **Simpson** | Traffic Control | Colony Ops | Collects snow globes. |
+| **Lydecker** | Security | Colony | Wears a tie over his spacesuit. |
+| **Reynolds** | Miner | Shaft 4 | Believes the Aliens are "Angels". |
+| **Jenson** | Hydroponics | Garden | Talks to the tomatoes. |
+| **O'Niel** | Security | Airlock | Has a fear of buttons. |
+| **Hideo** | System Admin | Mainframe | Types with toes (lost hands). |
+| **Kaitan** | Welder | Engineering | Wears a welding mask 24/7. |
+| **Vance** | Loader Op | Cargo Bay | Only eats yellow food. |
+| **Ricks** | Surveyor | Planet Surface | Thinks the air is breathable (it's not). |
+| **Taller** | Xenobiologist | Lab | Tries to pet the facehuggers. |
+| **Zed** | Android | Storage | Recites poetry while lifting crates. |
+| **Echo** | Android | Medbay | Glitches: thinks it's a toaster. |
+| **Vicks** | Mercenary | Cryo-Sleep | Has a tattoo of a Xenomorph (prophetic). |
+| **Stans** | Prisoner | Brigg | Wears a tin-foil hat. |
+| **Golic** | Prisoner | Brigg | Thinks the dragon is "Magnificent". |
+| **Morse** | Prisoner | Brigg | IQ of 85, heart of gold. |
+| **Aaron** | Warden | Brigg | Called "85" because of IQ misunderstanding. |
+| **Clemens** | Doctor | Infirmary | Bald due to lice incident. |
+| **Andrews** | Superintendent | Office | Obsessed with tea temperature. |
+| **Boggs** | Prisoner | Laundry | Steals everyone's left sock. |
+| **Rains** | Prisoner | Mines | Can hold breath for 4 minutes. |
+| **McGregor** | Colonist | Terraformer | Scottish, plays bagpipes over comms. |
+| **Timothy** | Child | Vents | Carries a doll head. |
+| **Russ** | Father | Vents | Missing one leg. |
+| **Anne** | Mother | Vents | Pregnant (Normal, not Alien). |
+| **Billy** | Colonist | Bar | Bartender who serves industrial ethanol. |
+| **Tyrell** | Corporate | Remote | Hologram flickers when lying. |
+| **Yutani** | CEO | Remote | Speaks only in Japanese haiku. |
+| **"Mother"** | Ship AI | Mainframe | Voice cracks like a pubescent boy. |
+| **"Father"** | Colony AI | Server | Aggressively paternalistic. |
+| **Red** | Dog | Kennel | Bark sounds like a scream. |
+| **Blue** | Cat | Quarters | Hisses at androids only. |
+| **Green** | Parrot | Mess Hall | Mimics the motion tracker sound. |
+| **Unit 4** | Sweeper Bot | Hallway A | Sings opera. |
+| **Unit 9** | Loader Bot | Cargo B | Is actually a bomb disposal bot. |
+| **The Corpse** | Dead Guy | Chair | Holding a sign: "I was wrong." |
+| **Subject 9** | Failed Clone | Lab Tank | Has two heads, both screaming. |
 
 ---
 
@@ -243,36 +243,36 @@ The conflict is not merely survival; it is a clash of designs. The Corporation s
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Cat's Meow | Jonesy | Catch the cat before it runs into the vents. | 1 Stress Relief for all. |
-| Lost Letter | Corpse | Deliver a letter to a locker in Crew Quarters. | Shotgun Shells (x4). |
-| The Glitch | Ash | Reboot the mainframe servers manually. | Map of the Vents. |
-| Spicy Noodles | Chef | Retrieve the hidden stash of spices from the mess. | High Morale Meal (+HP). |
-| Cold Storage | Medbay | Secure the cryo-tubes before power fails. | A backup save point. |
-| Welding Torch | Parker | Find the oxy-acetylene torch in the dark. | Can seal doors. |
-| The Locket | Corpse | Find the missing half of a locket. | Codes to the Captain's safe. |
-| Hydroponics | Jenson | Save the strawberry plants from toxic gas. | Fresh Food (Heals Stress). |
-| The Signal | Comms | Align the dish to send a warning to Earth. | XP Bonus. |
-| Black Box | Derelict | Retrieve the flight recorder from the *Prometheus*. | Evidence against Weyland-Yutani. |
-| Turret Sentry | Marine | Set up a sentry gun in Hallway B. | Safe Rest Area. |
-| Acid Burn | Hull | Patch a hull breach before air runs out. | Survival. |
-| The Sample | Burke | Collect a vial of Xenomorph blood. | Betrayal (and money). |
-| Reboot Android | Bishop | Find his missing legs. | Ally in combat. |
-| Ventilation Purge | Engineering | Turn on the fans to blow out the gas. | Clear vision in vents. |
-| The Smuggler | Brett | Find the stash of bourbon. | Stress Relief / Drunk debuff. |
-| Weapon Crafting | Workshop | Combine tape, fuel, and pipes. | Flamethrower. |
-| Motion Tracker | Lab | Calibrate the sensors. | Motion Tracker Item. |
-| Quarantine | Medbay | Lock the infected NPC in the stasis pod. | Delay chestburster. |
-| The Molted Skin | Science | Analyze the skin for weaknesses. | +1 Damage vs Xeno. |
-| Fire Suppression | Bridge | Disable the sprinklers (they ruin visibility). | Better sight lines. |
-| Gravity Plating | Engineering | Turn off gravity in Sector 4. | Slows the Xenomorph? |
-| The Eggs | Hive | Destroy 10 eggs with fire. | Enrages Queen. |
-| Dog Tags | Marine | Collect tags from fallen marines. | Reputation with USCM. |
-| The Keycard | Captain | Find the Red Keycard on the captain's body. | Access to Self-Destruct. |
-| Power Loader | Cargo | Repair the hydraulic line on the Exo-Suit. | Melee weapon vs Queen. |
-| Hidden Camera | Spy | Destroy the corporate surveillance bugs. | Prevents info leak. |
-| The Toy | Newt | Find the doll head "Casey". | Newt trusts you (Guide). |
-| Royal Jelly | Hive | Steal a vial of Queen's jelly. | Full Heal / Mutation risk. |
-| The Airlock | Bridge | Jettison the trash while Xeno is inside. | Instant Kill (Hard). |
+| **The Cat's Meow** | Jonesy | Catch the cat before it runs into the vents. | 1 Stress Relief for all. |
+| **Lost Letter** | Corpse | Deliver a letter to a locker in Crew Quarters. | Shotgun Shells (x4). |
+| **The Glitch** | Ash | Reboot the mainframe servers manually. | Map of the Vents. |
+| **Spicy Noodles** | Chef | Retrieve the hidden stash of spices from the mess. | High Morale Meal (+HP). |
+| **Cold Storage** | Medbay | Secure the cryo-tubes before power fails. | A backup save point. |
+| **Welding Torch** | Parker | Find the oxy-acetylene torch in the dark. | Can seal doors. |
+| **The Locket** | Corpse | Find the missing half of a locket. | Codes to the Captain's safe. |
+| **Hydroponics** | Jenson | Save the strawberry plants from toxic gas. | Fresh Food (Heals Stress). |
+| **The Signal** | Comms | Align the dish to send a warning to Earth. | XP Bonus. |
+| **Black Box** | Derelict | Retrieve the flight recorder from the *Prometheus*. | Evidence against Weyland-Yutani. |
+| **Turret Sentry** | Marine | Set up a sentry gun in Hallway B. | Safe Rest Area. |
+| **Acid Burn** | Hull | Patch a hull breach before air runs out. | Survival. |
+| **The Sample** | Burke | Collect a vial of Xenomorph blood. | Betrayal (and money). |
+| **Reboot Android** | Bishop | Find his missing legs. | Ally in combat. |
+| **Ventilation Purge** | Engineering | Turn on the fans to blow out the gas. | Clear vision in vents. |
+| **The Smuggler** | Brett | Find the stash of bourbon. | Stress Relief / Drunk debuff. |
+| **Weapon Crafting** | Workshop | Combine tape, fuel, and pipes. | Flamethrower. |
+| **Motion Tracker** | Lab | Calibrate the sensors. | Motion Tracker Item. |
+| **Quarantine** | Medbay | Lock the infected NPC in the stasis pod. | Delay chestburster. |
+| **The Molted Skin** | Science | Analyze the skin for weaknesses. | +1 Damage vs Xeno. |
+| **Fire Suppression** | Bridge | Disable the sprinklers (they ruin visibility). | Better sight lines. |
+| **Gravity Plating** | Engineering | Turn off gravity in Sector 4. | Slows the Xenomorph? |
+| **The Eggs** | Hive | Destroy 10 eggs with fire. | Enrages Queen. |
+| **Dog Tags** | Marine | Collect tags from fallen marines. | Reputation with USCM. |
+| **The Keycard** | Captain | Find the Red Keycard on the captain's body. | Access to Self-Destruct. |
+| **Power Loader** | Cargo | Repair the hydraulic line on the Exo-Suit. | Melee weapon vs Queen. |
+| **Hidden Camera** | Spy | Destroy the corporate surveillance bugs. | Prevents info leak. |
+| **The Toy** | Newt | Find the doll head "Casey". | Newt trusts you (Guide). |
+| **Royal Jelly** | Hive | Steal a vial of Queen's jelly. | Full Heal / Mutation risk. |
+| **The Airlock** | Bridge | Jettison the trash while Xeno is inside. | Instant Kill (Hard). |
 
 ---
 

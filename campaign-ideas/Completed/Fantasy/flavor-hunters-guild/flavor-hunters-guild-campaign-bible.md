@@ -18,7 +18,8 @@ The World is not a floor; it's a buffet that's being served by a master chef. In
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Industrial Greed.' It is about the 'Human Resilience' of the spirit—the realization that you need the respect of the hunt to appreciate the life of the prey. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal feast?' It explores the bombastic beauty of the monster designs, the pride in mastering a cooking technique, and the commanding, resonant voice of a guild master who understands that every meal is a prayer. The players are the hunters and chefs who must navigate the ecological disasters and the intensity of a transformation shift to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Flavor Hunters Guild (The Order)
 **Type:** Martial/Culinary Defense Brotherhood
 **Leader:** Toro Ironjaw (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 **Asset:** Reality-bending impossible sounds, black-purple voids, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with flavor.
 
-## [TAG: NPC_TIER_1]
-**Toro Ironjaw** (Order - The Lead) - A massive orc whose voice is deep, commanding, and gravelly. **Voice:** Controlled power, lion in winter, military precision. **Goal:** To protect the 'Frontier Balance' and guide the new hunters. **Secret:** He is secretly an Adept of 'Flavor-Energy' who can 'rewrite' a soul's destiny through his commanding orders.
-**Dorian Glutarch** (Shadow - The Villain) - A being whose voice is smooth, persuasive, and darkening. **Voice:** Charismatic, manic intensity later, chimeric nightmare. **Goal:** To consume all eight Apex Beasts and achieve 'Absolute Divinity.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Kira Quickblade** (Independent - The Catalyst) - A halfling whose voice is quick-talking, energetic, and street-smart. **Voice:** Quick talking, halfling accent, rapid delivery. **Goal:** To find her lost partner and stop the cartel-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the frontier noise.
-**Chef Umami** (Independent - The Mentor) - An elderly gnome whose body is a map of countless kitchen-scars. **Voice:** Gentle, patient, wise grandfather. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Cartel's recipes that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient hunter in practical monster-hide armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the feast ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Toro Ironjaw** (Order - The Lead) - A massive orc whose voice is deep, commanding, and gravelly. **Voice:** Controlled power, lion in winter, military precision. **Goal:** To protect the 'Frontier Balance' and guide the new hunters. **Secret:** He is secretly an Adept of 'Flavor-Energy' who can 'rewrite' a soul's destiny through his commanding orders.
+2.  **Dorian Glutarch** (Shadow - The Villain) - A being whose voice is smooth, persuasive, and darkening. **Voice:** Charismatic, manic intensity later, chimeric nightmare. **Goal:** To consume all eight Apex Beasts and achieve 'Absolute Divinity.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Kira Quickblade** (Independent - The Catalyst) - A halfling whose voice is quick-talking, energetic, and street-smart. **Voice:** Quick talking, halfling accent, rapid delivery. **Goal:** To find her lost partner and stop the cartel-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the frontier noise.
+4.  **Chef Umami** (Independent - The Mentor) - An elderly gnome whose body is a map of countless kitchen-scars. **Voice:** Gentle, patient, wise grandfather. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Cartel's recipes that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient hunter in practical monster-hide armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the feast ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 | The Monk | Ancient Worshipper | Recipe Temple | Spends all his time painting murals of the 'Feast's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Guild Hall (The Hub)
 A grand stone monument to trophy skulls, preserved specimens, and warm firelight.
 *   **The Feast Hall:** A site of 'Refined Formality' and harsh hunting rituals. **Smell:** Vanilla, old stone, and roasting meat. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to industrial waste and chimneys.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Flavor Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the Guild Hall. You must survive your first 'Cartel Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Toro Run:** Navigate the traditional territories to find Toro Ironjaw. You must identify the 'Flavor-Energy' node before the rivals arrive.
 3.  **The Recipe Heist:** Infiltrate the Cartel HQ to retrieve a stolen 'Umami-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Dorian Glutarch face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Flavor (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Flavor (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Savory Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Umami Signet (Equivalent)
+2.  **The Umami Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the umami seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Flavor-Energy Capsule (Equivalent)
+3.  **The Flavor-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Bland' magic.

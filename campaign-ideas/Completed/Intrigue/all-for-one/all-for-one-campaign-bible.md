@@ -18,7 +18,8 @@ The Soul is not a person; it's a code of honor. In the heart of 17th-century Fra
 ### The 'Why'
 The central conflict is the struggle between 'Personal Honor' and 'Political Duty.' It is about the 'Romantic Swashbuckler' of the human spirit—the realization that a true friend is worth more than a kingdom. The 'Why' is the question: 'Can you remain honorable in a world where the law is written by the corrupt?' It explores the vibrant colors of the Renaissance, the dynamic geometry of the sword fight, and the genuine warmth of a tavern halfway through a third cup of wine. The players are the Musketeers and their few allies who must navigate the subtext of a court minuet and the intensity of a rooftop chase to find a truth that doesn't belong to any nation.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Musketeers of the Guard (The Blue)
 **Type:** Elite Royal Bodyguard/Brotherhood
 **Leader:** Captain de Tréville (A man of iron honor and fatherly warmth).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Personal Honor' and 'Political Dut
 **Asset:** Psychological manipulation, poison expertise, and an uncanny ability to vanish.
 **Rivals:** The Musketeers.
 
-## [TAG: NPC_TIER_1]
-**d'Artagnan** (Musketeer - Hot-Headed Lead) - A young Gascon with a lethal blade and a theatrical flair. **Voice:** Charismatic, energetic, and French-accented. **Goal:** To become a Musketeer and avenge his father's honor. **Secret:** He is secretly an Adept of 'Sword-Intent' who can 'see' the opening in any opponent's guard.
-**Athos** (Musketeer - Melancholic Expert) - A man of deep reds and dark woods. **Voice:** Resonant, melancholic, and British upper-class. **Goal:** To forget his past and protect his brothers. **Secret:** He was once a high-ranking noble who gave it all up for a woman who betrayed him (Milady).
-**Porthos** (Musketeer - Vibrant Heavy) - A man of gold trim and absolute physical power. **Voice:** Booming, joyfully enthusiastic, and loud. **Goal:** To live the most opulent life possible and have the biggest sword in France. **Secret:** He is secretly terrified of being forgotten and uses his vibrancy as a 'Shield of Fame.'
-**Aramis** (Musketeer - Intellectual Spirit) - A man of celestial blues and religious severity. **Voice:** Soft, melodic, and intellectual. **Goal:** To serve both God and the King, in that order. **Secret:** He is a master of 'Arcane Minuets' and can cast subtle spells through his dance steps.
-**Cardinal Richelieu** (Order - The Mastermind) - A man in deep red robes with cold, calculating eyes. **Voice:** Soft, cultured, and terrifyingly reasonable. **Goal:** To unify France through the 'Song of State' and eliminate the Musketeers. **Secret:** He believes that he is the only one who truly loves France, and that everyone else is a 'variable' to be solved.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **d'Artagnan** (Musketeer - Hot-Headed Lead) - A young Gascon with a lethal blade and a theatrical flair. **Voice:** Charismatic, energetic, and French-accented. **Goal:** To become a Musketeer and avenge his father's honor. **Secret:** He is secretly an Adept of 'Sword-Intent' who can 'see' the opening in any opponent's guard.
+2.  **Athos** (Musketeer - Melancholic Expert) - A man of deep reds and dark woods. **Voice:** Resonant, melancholic, and British upper-class. **Goal:** To forget his past and protect his brothers. **Secret:** He was once a high-ranking noble who gave it all up for a woman who betrayed him (Milady).
+3.  **Porthos** (Musketeer - Vibrant Heavy) - A man of gold trim and absolute physical power. **Voice:** Booming, joyfully enthusiastic, and loud. **Goal:** To live the most opulent life possible and have the biggest sword in France. **Secret:** He is secretly terrified of being forgotten and uses his vibrancy as a 'Shield of Fame.'
+4.  **Aramis** (Musketeer - Intellectual Spirit) - A man of celestial blues and religious severity. **Voice:** Soft, melodic, and intellectual. **Goal:** To serve both God and the King, in that order. **Secret:** He is a master of 'Arcane Minuets' and can cast subtle spells through his dance steps.
+5.  **Cardinal Richelieu** (Order - The Mastermind) - A man in deep red robes with cold, calculating eyes. **Voice:** Soft, cultured, and terrifyingly reasonable. **Goal:** To unify France through the 'Song of State' and eliminate the Musketeers. **Secret:** He believes that he is the only one who truly loves France, and that everyone else is a 'variable' to be solved.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Personal Honor' and 'Political Dut
 | 'Flash' | Royal Scout | Palace Gate | His presence is felt as a sudden burst of pure gold light. |
 | The Waitress | Informant | The Pine-Cone Tavern | Always serves the Musketeers 'their usual' (wine) without being asked. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Louvre (Royal Palace)
 An opulent masterpiece of art deco elegance and royal grandeur.
 *   **The King's Study:** A room filled with leather-bound books and a magically sealed safe. **Smell:** Pipe tobacco, expensive perfume, and old paper. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ A high-contrast landscape of narrow alleys, cobblestone squares, and dangerous s
 A site of 'Tense Investigations' and breathtaking vistas.
 *   **The Lighthouse:** A place where the 'Diamond Studs' were retrieved. **Visual:** Blue-white light reflecting off the sea. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Gascon's Challenge:** Arrive in Paris. You must challenge Athos, Porthos, and Aramis to three separate duels while maintaining your 'Gascon Pride.'
 2.  **The All For One Pact:** The duels are interrupted by the Cardinal's Guard. You must unite with the Three to defeat ten guards in a 'Mexican Standoff' style fight.
 3.  **The Queen's Diamonds:** Travel to London to retrieve the Queen's stolen studs. You must navigate a high-speed chase through the French countryside.
@@ -99,18 +103,19 @@ A site of 'Tense Investigations' and breathtaking vistas.
 6.  **The Bastille Breakout:** Rescue a fellow Musketeer from the Bastille. You must use a 'Dynamic Pose' to swing from a chandelier and disarm the guards.
 7.  **The Final Showdown:** A face-to-face confrontation with Cardinal Richelieu and Milady at the Louvre. The truth is revealed through 'Romantic Grandeur' and mutual respect as the world is saved.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of d'Artagnan
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of d'Artagnan:**
 **Type:** Legendary Rapier
 **Description:** A simple, elegant rapier that seems to hum with the energy of the first Musketeer.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'All for One' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Queen's Diamond Studs
+2.  **The Queen's Diamond Studs:**
 **Type:** Artifact (Jewelry)
 **Description:** Twelve perfect diamonds that glow with the light of the sun.
 **Mechanics:** Grants the wearer the ability to 'Stabilize' any high-society situation. Once per day, the wearer can 'Silence' a Cardinal's Guard for 1 hour.
 
-### 3. Richelieu's Red Robe
+3.  **Richelieu's Red Robe:**
 **Type:** Wondrous Item (Clothing)
 **Description:** A heavy, red robe that seems to absorb all forms of personal passion.
 **Mechanics:** Grants the wearer immunity to being charmed or frightened. **Curse:** The user begins to see the world in 'Song of State' grays and loses all capacity for brotherhood.

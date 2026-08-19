@@ -18,7 +18,8 @@ The Earth is not a floor; it's a mouth. In the sun-baked, dust-covered valley of
 ### The 'Why'
 The central conflict is the struggle between 'Human Ingenuity' and 'Nature's Ruthlessness.' It is about the 'Primal Fear' of the unseen predator—the realization that the ground you stand on is your greatest enemy. The 'Why' is the question: 'Can humanity find a way to coexist with a land that wants to swallow them whole?' It explores the gritty realism of the weathered wood, the visceral horror of the tooth-filled maw, and the wry humor of a grizzled survivor who has seen too many neighbors vanish into the sand. The players are the Dusthaven residents and Guild specialists who must use improvised weapons, makeshift defenses, and clever tactics to ensure that the town survives the night.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Dusthaven Guardians (The Slayers)
 **Type:** Elite Frontier Defense Force
 **Leader:** Sheriff Kord (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Human Ingenuity' and 'Nature's Rut
 **Asset:** Knowledge of the deepest dunes and a willingness to live in total silence.
 **Rivals:** The Sandwyrms.
 
-## [TAG: NPC_TIER_1]
-**Sheriff Kord** (Guardian - Grizzled Leader) - A dwarven sheriff in dusty leather gear. **Voice:** Gravelly, weathered, and filled with a Western drawl. **Goal:** To protect Dusthaven and kill every wyrm in the valley. **Secret:** He is secretly an Adept of 'Seismic Sensing' who can 'feel' a ripple in the sand from a mile away.
-**Doc Mira** (Independent - Elven Healer) - A woman in practical robes with a medical satchel. **Voice:** Soft, melodic, and filled with gentle determination. **Goal:** To find a way to 'Pacify' the wyrms and save the town. **Secret:** she is the only person who has entered a wyrm nest and returned with her soul intact.
-**Director Vane (Syndicate)** (Syndicate - Corporate Villain) - A man in a perfectly pressed suit who views the desert as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest wyrm eggs for military research and secure the silver vein. **Secret:** He is the one who triggered the 'Silicon Surge' that awakened the wyrms.
-**The Prospector (Rust)** (Independent - Philosophical Survivor) - A man who has lived in the dunes for twenty years. **Voice:** Wry, cynical, and philosophical. **Goal:** To witness the end of the world with dignity. **Secret:** He has discovered a 'Vibration-Free' material that makes a person invisible to the wyrms.
-**The Master Wyrm (Echo)** (Predator - Mythic Leader) - A being of ancient teeth and segmented stone. **Voice:** None (subsonic rumbles). **Goal:** To reclaim the valley from the 'Vibrating Parasites' (humans). **Secret:** The wyrms are not hunting for food; they are protecting a 'Reality-Anchor' hidden in the mine.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Sheriff Kord** (Guardian - Grizzled Leader) - A dwarven sheriff in dusty leather gear. **Voice:** Gravelly, weathered, and filled with a Western drawl. **Goal:** To protect Dusthaven and kill every wyrm in the valley. **Secret:** He is secretly an Adept of 'Seismic Sensing' who can 'feel' a ripple in the sand from a mile away.
+2.  **Doc Mira** (Independent - Elven Healer) - A woman in practical robes with a medical satchel. **Voice:** Soft, melodic, and filled with gentle determination. **Goal:** To find a way to 'Pacify' the wyrms and save the town. **Secret:** she is the only person who has entered a wyrm nest and returned with her soul intact.
+3.  **Director Vane (Syndicate)** (Syndicate - Corporate Villain) - A man in a perfectly pressed suit who views the desert as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest wyrm eggs for military research and secure the silver vein. **Secret:** He is the one who triggered the 'Silicon Surge' that awakened the wyrms.
+4.  **The Prospector (Rust)** (Independent - Philosophical Survivor) - A man who has lived in the dunes for twenty years. **Voice:** Wry, cynical, and philosophical. **Goal:** To witness the end of the world with dignity. **Secret:** He has discovered a 'Vibration-Free' material that makes a person invisible to the wyrms.
+5.  **The Master Wyrm (Echo)** (Predator - Mythic Leader) - A being of ancient teeth and segmented stone. **Voice:** None (subsonic rumbles). **Goal:** To reclaim the valley from the 'Vibrating Parasites' (humans). **Secret:** The wyrms are not hunting for food; they are protecting a 'Reality-Anchor' hidden in the mine.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Human Ingenuity' and 'Nature's Rut
 | The Monk | Ancient Worshipper | Mission Library | Spends all his time painting murals of the 'Spirit of the Sands.' |
 | The Clerk | Town Admin | Headquarters | Only communicates through a rhythmic 'Shovel Strike' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Dusthaven (Frontier Town)
 A small, wooden monument to resourcefulness and elevated planks.
 *   **The Main Street:** A site of 'Seismic Tension' and harsh midday sunlight. **Smell:** Dust, stale whiskey, and old wood. **Sound:** The rhythmic 'creak-creak' of elevated walkways.
@@ -89,7 +92,8 @@ A site of 'Heat Shimmer' and primal fear.
 A humble white and brown monument to spiritual silence and asylum status.
 *   **The Bell Tower:** Where the 'Oracle' sits to watch the sand. **Visual:** A single harsh spotlight in the center of the dark.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Ripple:** Arrive in Dusthaven as a new prospector. You must survive your first wyrm attack while maintaining your 'Silence' level.
 2.  **The Water Tower Defense:** The wyrms are attacking the town's water supply. You must defend the tower using improvised explosives and your 'Seismic Sensing.'
 3.  **The Syndicate Infiltration:** Infiltrate the Mining Syndicate lab to find evidence of the wyrm egg harvesting. You must bypass Director Vane's guards.
@@ -98,18 +102,19 @@ A humble white and brown monument to spiritual silence and asylum status.
 6.  **The Cultist's Gamble:** The 'Ghost' prospectors have been sabotaging the town's defenses. You must find their leader and convince them to join the Hunt.
 7.  **The Final Bloodletting at the Source:** Face the Master Wyrm face-to-face in a final, reality-bending standoff. The truth is revealed—will you strike the earth or reclaim the sand?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Sheriff's Shotgun
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Sheriff's Shotgun:**
 **Type:** Legendary Weapon
 **Description:** A custom-made shotgun with a badge engraved on the handle.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Seismic Blast' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Wyrm-Scale Vest
+2.  **The Wyrm-Scale Vest:**
 **Type:** Wondrous Item (Armor)
 **Description:** A leather vest reinforced with the segmented chitin of a behemoth wyrm.
 **Mechanics:** Grants the wearer +5 to AC and resistance to all non-magical weapon damage. The vest provides advantage on Stealth checks in the sand.
 
-### 3. The Vibration-Free Boots
+3.  **The Vibration-Free Boots:**
 **Type:** Wondrous Item
 **Description:** A pair of sturdy boots made from a specialized material found in the mine.
 **Mechanics:** Grants the user the ability to move across any surface without making a sound or a ripple. The user can 'Freeze' a seismic sensor for 1 round.

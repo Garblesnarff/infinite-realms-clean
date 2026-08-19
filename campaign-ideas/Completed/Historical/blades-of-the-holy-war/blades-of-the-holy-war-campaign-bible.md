@@ -18,7 +18,8 @@ The Land is not a kingdom; it's a prayer made of stone. In the heart of the 12th
 ### The 'Why'
 The central conflict is the struggle between 'Religious Conviction' and 'Human Humanity.' It is about the 'Epic Holy War' of the spirit—the realization that 'God wills it' is often a mask for human greed. The 'Why' is the question: 'What is Jerusalem worth?' (Saladin's answer: 'Nothing. Everything.') It explores the desert tans of the landscape, the visceral horror of the religious atrocity, and the tragic beauty of a sophisticated culture meeting its dark mirror. The players are the knights, mamluks, and priests who must navigate the subtext of a peace treaty and the intensity of a wall-breach to find a resolution that honors the sanctity of life.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Kingdom of Jerusalem (The Defenders)
 **Type:** Theocratic Feudal Superpower
 **Leader:** Baldwin IV (The Leper King - Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Religious Conviction' and 'Human H
 **Asset:** Hidden fortresses, 'Shadow-Intent' magic, and a total disregard for either faith.
 **Rivals:** Both Empires.
 
-## [TAG: NPC_TIER_1]
-**Balian of Ibelin** (Kingdom - Practical Lead) - A man in a simple white tabard with a lethal blade. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the people of Jerusalem and find his own place in the story. **Secret:** He is secretly an Adept of 'Stone-Intent' who can 'persuade' a wall to hold firm against any siege.
-**Saladin (Salah ad-Din)** (Saracen - The Sovereign) - A man in flowing silk armor with a deep, authoritative voice. **Voice:** Authoritative, honorable, and multicultural. **Goal:** To reclaim Jerusalem and restore the 'Crescent Harmony.' **Secret:** He secretly respects the Leper King and views their war as a form of divine dialogue.
-**Baldwin IV (The Leper King)** (Kingdom - The Witness) - A man in a silver mask whose body is decaying. **Voice:** Whispered, slow, and filled with a tragic authority. **Goal:** To maintain the peace until his last breath and find a worthy successor. **Secret:** He is the only person who can 'hear' the original Song of the Holy City through the religious dissonance.
-**The Hospitaller** (Independent - The Mentor) - A man of Victorian propriety (equivalent) and medical expertise. **Voice:** Soft, melodic, and filled with a world-weary melancholy. **Goal:** To save the souls of the wounded and provide a 'Spiritual Sanctuary.' **Secret:** He is already part-Apocalypse, having witnessed the First Crusade's atrocities.
-**Reynald de Châtillon** (Templar - The Villain) - A man in blood-stained chainmail with an increasingly unhinged expression. **Voice:** Booming, theatrical, and filled with a religious rage. **Goal:** To kill every Saracen in the world and trigger the final judgment. **Secret:** He is secretly funded by an 'External Agency' that wants to see both empires destroyed.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Balian of Ibelin** (Kingdom - Practical Lead) - A man in a simple white tabard with a lethal blade. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect the people of Jerusalem and find his own place in the story. **Secret:** He is secretly an Adept of 'Stone-Intent' who can 'persuade' a wall to hold firm against any siege.
+2.  **Saladin (Salah ad-Din)** (Saracen - The Sovereign) - A man in flowing silk armor with a deep, authoritative voice. **Voice:** Authoritative, honorable, and multicultural. **Goal:** To reclaim Jerusalem and restore the 'Crescent Harmony.' **Secret:** He secretly respects the Leper King and views their war as a form of divine dialogue.
+3.  **Baldwin IV (The Leper King)** (Kingdom - The Witness) - A man in a silver mask whose body is decaying. **Voice:** Whispered, slow, and filled with a tragic authority. **Goal:** To maintain the peace until his last breath and find a worthy successor. **Secret:** He is the only person who can 'hear' the original Song of the Holy City through the religious dissonance.
+4.  **The Hospitaller** (Independent - The Mentor) - A man of Victorian propriety (equivalent) and medical expertise. **Voice:** Soft, melodic, and filled with a world-weary melancholy. **Goal:** To save the souls of the wounded and provide a 'Spiritual Sanctuary.' **Secret:** He is already part-Apocalypse, having witnessed the First Crusade's atrocities.
+5.  **Reynald de Châtillon** (Templar - The Villain) - A man in blood-stained chainmail with an increasingly unhinged expression. **Voice:** Booming, theatrical, and filled with a religious rage. **Goal:** To kill every Saracen in the world and trigger the final judgment. **Secret:** He is secretly funded by an 'External Agency' that wants to see both empires destroyed.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Religious Conviction' and 'Human H
 | The Monk | Ancient Worshipper | Dome of the Rock | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Kingdom Admin | Headquarters | Only communicates through a rhythmic 'Sacred Stamp.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Jerusalem (The Hub)
 A sophisticated stone-and-marble city floating on a hill.
 *   **The Wailing Wall:** A site of 'Saturated Grays' and harsh midday sunlight. **Smell:** Incense, old stone, and charcoal smoke. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -89,7 +92,8 @@ A silver and gray-stone monument to imperial arrogance and gold trim.
 A vibrant green and gold monument to luxury and sophisticated diplomacy.
 *   **The Council Room:** Where the 'Peace Treaty' was first spoken. **Visual:** Blue-white light reflecting off the massive gold reserves. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Contact:** Arrive at Jerusalem. You must meet Baldwin IV and successfully tell your 'Red Story' to gain the King's trust.
 2.  **The Kerak Rescue:** Retreat from the fortress during a violent uprising. You must use your 'Practical Honor' to survive the Templar ambush.
 3.  **The True Cross Mystery:** Someone has stolen the 'True Cross' from the cathedral. Track the thief through the desert villages.
@@ -98,18 +102,19 @@ A vibrant green and gold monument to luxury and sophisticated diplomacy.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the Shadow's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Saladin face-to-face in a final, reality-bending standoff at the gates of Jerusalem. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Ibelin
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Ibelin:**
 **Type:** Legendary Longsword
 **Description:** A simple, iron sword that has been touched by the light of the sun.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Stone-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The silver Mask of Baldwin
+2.  **The silver Mask of Baldwin:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A silver mask that hides the wearer's identity and grants absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks and makes them immune to being recognized as a mortal.
 
-### 3. The True Cross (Fragment)
+3.  **The True Cross (Fragment):**
 **Type:** Artifact Focus
 **Description:** A small, wooden fragment that hums with the key of the first Storyteller.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Holy War' magic.

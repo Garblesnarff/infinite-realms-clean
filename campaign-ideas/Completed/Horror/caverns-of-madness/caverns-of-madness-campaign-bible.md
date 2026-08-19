@@ -18,7 +18,8 @@ The Earth is not a silent rock; it's a living throat that's slowly swallowing yo
 ### The 'Why'
 The central conflict is the struggle for 'Sanity' in a world of absolute confinement. It is about the 'Claustrophobic Horror' of standing before a god—the realization that the mountain doesn't care about your stories. The 'Why' is the question: 'How much of your humanity will you sacrifice to see the sun one more time?' It explores the gritty realism of the rock tunnels, the visceral terror of the eyeless face, and the ragged breath of a woman who has seen her own friends become the monsters. The players are the cavers and survivalists who must use their ropes, torches, and 'little gray cells' to find a resolution that satisfies both their 'Analytical Eye' and their will to live.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Caver Collective (The Survivors)
 **Type:** Elite Exploration/Survivalist Group
 **Leader:** Sarah (The survivor - Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Sanity' in a world of absolute confine
 **Asset:** Knowledge of the safe-pockets and a willingness to eat anything to survive.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Sarah (The Survivor)** (Independent - The Lead) - A woman in practical caving gear with dirt-streaked skin. **Voice:** Ragged, breathless, and filled with suppressed panic. **Goal:** To get her team back to the surface alive. **Secret:** She is secretly an Adept of 'Echo' who can 'see' the crawlers through the rock walls.
-**The Blind King** (Crawler - The Mastermind) - A being of absolute silence and elongated limbs. **Voice:** None (subsonic clicks). **Goal:** To reclaim the 'Surface Souls' and turn them into new crawlers. **Secret:** He was once the leader of the Borehole Incident team who was 'Perfected' by the dark.
-**Director Vane (Syndicate)** (Syndicate - Corporate Villain) - A man in a perfectly pressed suit who views the cave as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest 'Echo-Energy' from the nest and monetize the data. **Secret:** He is the one who triggered the 'Silicon surge' that trapped the team.
-**The Madman (Rust)** (Independent - Philosophical Survivor) - A man who has lived in the safe-pockets for five years. **Voice:** Wry, cynical, and philosophical. **Goal:** To witness the end of the world with dignity. **Secret:** He has discovered a 'Sound-Free' material that makes a person invisible to the crawlers.
-**The Cave (Anomaly)** (Cave - The Shadow) - The manifest consciousness of the mountain. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To consume all life and return the world to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Sarah (The Survivor)** (Independent - The Lead) - A woman in practical caving gear with dirt-streaked skin. **Voice:** Ragged, breathless, and filled with suppressed panic. **Goal:** To get her team back to the surface alive. **Secret:** She is secretly an Adept of 'Echo' who can 'see' the crawlers through the rock walls.
+2.  **The Blind King** (Crawler - The Mastermind) - A being of absolute silence and elongated limbs. **Voice:** None (subsonic clicks). **Goal:** To reclaim the 'Surface Souls' and turn them into new crawlers. **Secret:** He was once the leader of the Borehole Incident team who was 'Perfected' by the dark.
+3.  **Director Vane (Syndicate)** (Syndicate - Corporate Villain) - A man in a perfectly pressed suit who views the cave as an engineering problem. **Voice:** Measured, cultured, and supremely confident. **Goal:** To harvest 'Echo-Energy' from the nest and monetize the data. **Secret:** He is the one who triggered the 'Silicon surge' that trapped the team.
+4.  **The Madman (Rust)** (Independent - Philosophical Survivor) - A man who has lived in the safe-pockets for five years. **Voice:** Wry, cynical, and philosophical. **Goal:** To witness the end of the world with dignity. **Secret:** He has discovered a 'Sound-Free' material that makes a person invisible to the crawlers.
+5.  **The Cave (Anomaly)** (Cave - The Shadow) - The manifest consciousness of the mountain. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To consume all life and return the world to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Sanity' in a world of absolute confine
 | The Clerk | Town Admin | Headquarters | Only communicates through a rhythmic 'Shovel Strike' stamp. |
 | The Waitress | Informant | Pueblo Tavern | Always serves the Fox 'his usual' (water) without being asked. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Safehouse (Ingested HQ)
 A small, wooden monument to resourcefulness and elevated planks.
 *   **The Main Bay:** A site of 'Seismic Tension' and harsh midday sunlight. **Smell:** Dust, stale whiskey, and old wood. **Sound:** The rhythmic 'creak-creak' of elevated walkways.
@@ -89,7 +92,8 @@ A flat, white-bleached expanse where there is nowhere to hide.
 A humble white and brown monument to spiritual silence and asylum status.
 *   **The Bell Tower:** Where the 'Oracle' sits to watch the sand. **Visual:** A single harsh spotlight in the center of the dark.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First squeeze:** Wake up in a narrow, wet tunnel. You must escape a 'Crawler Ambush' using only your improvised bone-cleaver.
 2.  **The Stomach Run:** Navigate the islands of the acidic sea to find Sarah. You must identify the 'Respiration Seed' before the tide rises.
 3.  **The Blight Infiltration:** Infiltrate the Fungal Mind's garden to find evidence of the 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -98,18 +102,19 @@ A humble white and brown monument to spiritual silence and asylum status.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Bone-Cleaver of Scorn
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Bone-Cleaver of Scorn:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the femur of the original Alpha Beast.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Visceral Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Bile-Focus Amulet
+2.  **The Bile-Focus Amulet:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the Beast's immune system.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's biological systems by 50 HP. Once per day, the user can 'Silence' a parasite attack for 1 round.
 
-### 3. The Queen's Chitin Mask
+3.  **The Queen's Chitin Mask:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A mask made of multi-limbed chitin that seems to grant the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.

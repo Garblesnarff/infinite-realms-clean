@@ -140,58 +140,58 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 
 ### Tier 2: Minor NPC Database (50 Entries)
 
-| ID | Name | Role | Location | Quirk/Hook |
+| **ID** | Name | Role | Location | Quirk/Hook |
 |:---|:---|:---|:---|:---|
-| 1 | **Snug** | Lion/Actor | Clearing | Pacifist lion wanting to be a dentist. |
-| 2 | **Peaseblossom** | Fae Spy | Bower | Communicates via interpretive dance. |
-| 3 | **Quince** | Carpenter | Clearing | Writes scripts on shingles; speaks in stage directions. |
-| 4 | **Flute** | Actor | Clearing | Possessed by a ghost soprano. |
-| 5 | **Bellows** | Construct | Clearing | Walking lungs selling fresh air. |
-| 6 | **Mistress Quickly** | Ghost | Slums | Runs a tavern that only exists on Tuesdays. |
-| 7 | **Moonshine** | Dog | Verge | Believes it is a lantern; emits light from mouth. |
-| 8 | **Mustard-Pot** | Pixie | Bower | Attacks people with bland food. |
-| 9 | **Sir Prickle** | Hedgehog | Woods | Rides a tortoise; demands duels. |
-| 10 | **Lady Gossamer** | Noble | Oberon's | Dress made of silence; sound dies near her. |
-| 11 | **The Prompter** | Stalker | Backstage | Whispers fears to "motivate" actors. |
-| 12 | **Snout Jr.** | Tinker | Athens | Building a clockwork god. |
-| 13 | **Moth-Eaten Jack** | Scarecrow | Fields | Debates ethics of scaring crows. |
-| 14 | **The Gentle Lion** | Chimera | Clearing | Only eats fruit; dangerous hug. |
-| 15 | **Duchess Duncet** | Noble | Court | Wig is a mimic that eats rumors. |
-| 16 | **Paseo** | Satyr | Verge | Walks backward; guide to underworld. |
-| 17 | **Thimble** | Gnome | Clearing | Sews shadows back onto people. |
-| 18 | **Lord Lack-Wit** | Jester | Oberon's | Jokes deal psychic damage. |
-| 19 | **The Painted Man** | 2D Being | Backdrop | Lives on the sky canvas. |
-| 20 | **Sneeze** | Elemental | Verge | Sentient allergy seeking a cure. |
-| 21 | **Captain Crab** | Beast | Shore | Conducts fiddler crab orchestra. |
-| 22 | **The Understudy** | Doppelganger | Shadow | Waiting for a PC to die to take their spot. |
-| 23 | **Madame Hush** | Banshee | Swamp | Sells silence in jars. |
-| 24 | **Cobbler John** | Human | Athens | Shoes dance on their own. |
-| 25 | **Fern-Face** | Dryad | Woods | Face is a fern; rustles to speak. |
-| 26 | **The Critic** | Beholder | Floating | Rates combat performance 1-10. |
-| 27 | **Heavy Hans** | Ogre | Bridge | Toll collector; accepts jokes as payment. |
-| 28 | **Little Vestibule** | Halfling | Athens | Sells "Exits" (doors). |
-| 29 | **Prince Pauper** | Rat King | Sewers | Rats in a trench coat pretending to be a duke. |
-| 30 | **Mr. Early** | Zombie | Grave | Obsessed with punctuality. |
-| 31 | **Glitter-Wing** | Sprite | Bower | Eats coins; addicted to gold leaf. |
-| 32 | **The Narrator** | Cloud | Sky | Shapes into words describing events. |
-| 33 | **Bucket** | Goblin | Well | Thinks the sky is a lid. |
-| 34 | **Sir Loin** | Minotaur | Maze | Gourmet chef; won't fight hungry. |
-| 35 | **Whispering Willow** | Treant | Woods | Forest gossipmonger. |
-| 36 | **The Choreographer** | Marilith | Pit | Forces fighting in 3/4 time. |
-| 37 | **Static** | Mephit | Cloud | Shocks recipient of messages. |
-| 38 | **Gloom** | Mastiff | Oberon's | Depression dog; petting makes you sad. |
-| 39 | **Script-Keeper** | Librarian | Archives | Shushes deal force damage. |
-| 40 | **Props** | Mimic | Clearing | Chest pretending to be furniture. |
-| 41 | **Spotlight** | Wisp | Marsh | Highlights "Main Character" (Advantage). |
-| 42 | **Curtain-Call** | Rug | Stage | Smothers boring actors. |
-| 43 | **Exit Stage Left** | Blink Dog | Global | Teleports if looked at. |
-| 44 | **Bumble** | Bee-Man | Hive | Speaks only in B-flat. |
-| 45 | **Tallow** | Candle Golem | Shrine | Melts when complimented. |
-| 46 | **Ink-Stain** | Ooze | Library | Consumes history books. |
-| 47 | **The Echo** | Spirit | Cave | Repeats last word said, but sarcastically. |
-| 48 | **Patch** | Scarecrow | Farm | Afraid of birds. |
-| 49 | **Knot** | Rope Golem | Ship | Ties self into impossible shapes. |
-| 50 | **Silence** | Void | Deep | A hole in the air that eats noise. |
+| **1** | **Snug** | Lion/Actor | Clearing | Pacifist lion wanting to be a dentist. |
+| **2** | **Peaseblossom** | Fae Spy | Bower | Communicates via interpretive dance. |
+| **3** | **Quince** | Carpenter | Clearing | Writes scripts on shingles; speaks in stage directions. |
+| **4** | **Flute** | Actor | Clearing | Possessed by a ghost soprano. |
+| **5** | **Bellows** | Construct | Clearing | Walking lungs selling fresh air. |
+| **6** | **Mistress Quickly** | Ghost | Slums | Runs a tavern that only exists on Tuesdays. |
+| **7** | **Moonshine** | Dog | Verge | Believes it is a lantern; emits light from mouth. |
+| **8** | **Mustard-Pot** | Pixie | Bower | Attacks people with bland food. |
+| **9** | **Sir Prickle** | Hedgehog | Woods | Rides a tortoise; demands duels. |
+| **10** | **Lady Gossamer** | Noble | Oberon's | Dress made of silence; sound dies near her. |
+| **11** | **The Prompter** | Stalker | Backstage | Whispers fears to "motivate" actors. |
+| **12** | **Snout Jr.** | Tinker | Athens | Building a clockwork god. |
+| **13** | **Moth-Eaten Jack** | Scarecrow | Fields | Debates ethics of scaring crows. |
+| **14** | **The Gentle Lion** | Chimera | Clearing | Only eats fruit; dangerous hug. |
+| **15** | **Duchess Duncet** | Noble | Court | Wig is a mimic that eats rumors. |
+| **16** | **Paseo** | Satyr | Verge | Walks backward; guide to underworld. |
+| **17** | **Thimble** | Gnome | Clearing | Sews shadows back onto people. |
+| **18** | **Lord Lack-Wit** | Jester | Oberon's | Jokes deal psychic damage. |
+| **19** | **The Painted Man** | 2D Being | Backdrop | Lives on the sky canvas. |
+| **20** | **Sneeze** | Elemental | Verge | Sentient allergy seeking a cure. |
+| **21** | **Captain Crab** | Beast | Shore | Conducts fiddler crab orchestra. |
+| **22** | **The Understudy** | Doppelganger | Shadow | Waiting for a PC to die to take their spot. |
+| **23** | **Madame Hush** | Banshee | Swamp | Sells silence in jars. |
+| **24** | **Cobbler John** | Human | Athens | Shoes dance on their own. |
+| **25** | **Fern-Face** | Dryad | Woods | Face is a fern; rustles to speak. |
+| **26** | **The Critic** | Beholder | Floating | Rates combat performance 1-10. |
+| **27** | **Heavy Hans** | Ogre | Bridge | Toll collector; accepts jokes as payment. |
+| **28** | **Little Vestibule** | Halfling | Athens | Sells "Exits" (doors). |
+| **29** | **Prince Pauper** | Rat King | Sewers | Rats in a trench coat pretending to be a duke. |
+| **30** | **Mr. Early** | Zombie | Grave | Obsessed with punctuality. |
+| **31** | **Glitter-Wing** | Sprite | Bower | Eats coins; addicted to gold leaf. |
+| **32** | **The Narrator** | Cloud | Sky | Shapes into words describing events. |
+| **33** | **Bucket** | Goblin | Well | Thinks the sky is a lid. |
+| **34** | **Sir Loin** | Minotaur | Maze | Gourmet chef; won't fight hungry. |
+| **35** | **Whispering Willow** | Treant | Woods | Forest gossipmonger. |
+| **36** | **The Choreographer** | Marilith | Pit | Forces fighting in 3/4 time. |
+| **37** | **Static** | Mephit | Cloud | Shocks recipient of messages. |
+| **38** | **Gloom** | Mastiff | Oberon's | Depression dog; petting makes you sad. |
+| **39** | **Script-Keeper** | Librarian | Archives | Shushes deal force damage. |
+| **40** | **Props** | Mimic | Clearing | Chest pretending to be furniture. |
+| **41** | **Spotlight** | Wisp | Marsh | Highlights "Main Character" (Advantage). |
+| **42** | **Curtain-Call** | Rug | Stage | Smothers boring actors. |
+| **43** | **Exit Stage Left** | Blink Dog | Global | Teleports if looked at. |
+| **44** | **Bumble** | Bee-Man | Hive | Speaks only in B-flat. |
+| **45** | **Tallow** | Candle Golem | Shrine | Melts when complimented. |
+| **46** | **Ink-Stain** | Ooze | Library | Consumes history books. |
+| **47** | **The Echo** | Spirit | Cave | Repeats last word said, but sarcastically. |
+| **48** | **Patch** | Scarecrow | Farm | Afraid of birds. |
+| **49** | **Knot** | Rope Golem | Ship | Ties self into impossible shapes. |
+| **50** | **Silence** | Void | Deep | A hole in the air that eats noise. |
 
 ---
 

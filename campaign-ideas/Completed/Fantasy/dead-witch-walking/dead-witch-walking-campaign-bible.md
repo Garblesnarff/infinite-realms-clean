@@ -19,7 +19,8 @@ The World is not a floor; it's a grid that's being powered by the earth's own he
 ### The 'Why'
 The central conflict is the struggle for 'Personal Integrity' in a world of 'Species Politics.' It is about the 'Sarcastic Heroism' of the human spirit—the realization that found family is the only thing worth the cost of power. The 'Why' is the question: 'Can you remain human when you are simultaneously the monster that makes deals with demons?' It explores the realistic texture of the weathered leather, the visceral horror of the soul-mark, and the determined, sarcastic voice of a woman who knows that wisdom is found in every word. The players are the witches, vampires, and pixies who must navigate the subculture politics and the intensity of a demon-negotiation to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Hollows Agency (The Heroes)
 **Type:** Elite/Multicultural Bounty Hunter Order
 **Leader:** Rachel Morgan (Tier 1 NPC).
@@ -50,12 +51,13 @@ The central conflict is the struggle for 'Personal Integrity' in a world of 'Spe
 **Asset:** Reality-warping smut, twisted geometry, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with souls.
 
-## [TAG: NPC_TIER_1]
-**Rachel Morgan** (Hero - The Lead) - A red-haired witch in practical leather and denim. **Voice:** Determined, sarcastic, and action-oriented. **Goal:** To protect her friends and find a way to stop the demons. **Secret:** She is secretly an Adept of 'Ley-Energy' who can 'persuade' a demon to return to its home through her spell-patterns.
-**Ivy Tamwood** (Vampire - The Partner) - A pale, beautiful woman in business attire. **Voice:** Seductive, intelligent, and controlled. **Goal:** To control her bloodlust and build a legitimate life with Rachel. **Secret:** she is already part-Apocalypse, having consumed the 'First Note' of the Great Separation.
-**Jenks** (Pixie - The Catalyst) - A four-inch pixie warrior with dragonfly wings. **Voice:** Squeaky, high-pitched, and fierce. **Goal:** To support his 'Big' friends and find a place where pixies are respected. **Secret:** he is the only person who can 'hear' the original Song of the World through the ley line's hum.
-**Algaliarept** (Demon - The Mentor) - A being who appears as a normal man but has 'Dark Smudges' on his skin. **Voice:** Gruff, slow, and wood-toned. **Goal:** To reclaim his own power and rule through the Ever-After. **Secret:** He has discovered a 'Vulnerability' in the ley line nodes that he's too professional to share.
-**The Master (Shadow)** (Demon equivalent - Shifting form) - A massive, intelligent shadow that stands on its hind legs (equivalent). **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for demon power.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Rachel Morgan** (Hero - The Lead) - A red-haired witch in practical leather and denim. **Voice:** Determined, sarcastic, and action-oriented. **Goal:** To protect her friends and find a way to stop the demons. **Secret:** She is secretly an Adept of 'Ley-Energy' who can 'persuade' a demon to return to its home through her spell-patterns.
+2.  **Ivy Tamwood** (Vampire - The Partner) - A pale, beautiful woman in business attire. **Voice:** Seductive, intelligent, and controlled. **Goal:** To control her bloodlust and build a legitimate life with Rachel. **Secret:** she is already part-Apocalypse, having consumed the 'First Note' of the Great Separation.
+3.  **Jenks** (Pixie - The Catalyst) - A four-inch pixie warrior with dragonfly wings. **Voice:** Squeaky, high-pitched, and fierce. **Goal:** To support his 'Big' friends and find a place where pixies are respected. **Secret:** he is the only person who can 'hear' the original Song of the World through the ley line's hum.
+4.  **Algaliarept** (Demon - The Mentor) - A being who appears as a normal man but has 'Dark Smudges' on his skin. **Voice:** Gruff, slow, and wood-toned. **Goal:** To reclaim his own power and rule through the Ever-After. **Secret:** He has discovered a 'Vulnerability' in the ley line nodes that he's too professional to share.
+5.  **The Master (Shadow)** (Demon equivalent - Shifting form) - A massive, intelligent shadow that stands on its hind legs (equivalent). **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for demon power.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the struggle for 'Personal Integrity' in a world of 'Spe
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Ley-Line's Beginning.' |
 | The Clerk | City Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Converted Church (The Hub)
 An old stone church, graveyard, sitting on a ley line node.
 *   **The Living Space:** A site of 'Found Family' and warm amber light. **Smell:** Incense, old stone, and expensive port. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ A twisted, reality-distorting dimension of red-black corruption.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Source:** Where the 'Sacred Laws' were first received. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Sighting:** Wake up in your church. You must survive your first 'Vampire Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Ley Line Run:** Navigate the traditional territories to find Rachel. You must identify the 'Ley-Energy' node before the rivals arrive.
 3.  **The IS Heist:** Infiltrate the Inderland Security HQ to retrieve a stolen 'Cursed-Tool.' You must bypass the guards.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Algaliarept and the IS face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Ibelin (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Ibelin (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Life-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Ley-Energy Capsule
+3.  **The Ley-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Demon' magic.

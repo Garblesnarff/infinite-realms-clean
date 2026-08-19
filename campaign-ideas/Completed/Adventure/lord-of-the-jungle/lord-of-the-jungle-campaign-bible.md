@@ -20,7 +20,8 @@ The Jungle is not a place; it is a being. A single, continent-spanning, sentient
 ### The "Why"
 The metaphysical conflict is a struggle for the soul of a dying god. Veridia is a living world, and its sickness is a cancer that threatens to consume it entirely. The players are potential saviors, but the nature of that salvation is in question. Do they become the new Lord and try to fight a losing battle against the blight? Do they side with factions who would exploit the jungle's power, even if it kills it? Can the blight be "cured," or must the infected parts be "amputated"? The core of the story is a choice between palliative care, radical surgery, or euthanasia for a living continent, with the players cast as the unwilling doctors.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Bloom-Seekers
 **Type:** Corporate Bio-Prospectors
 **Leader:** Silas Thorne, a ruthless ex-academic who sees the jungle as the ultimate pharmaceutical goldmine.
@@ -81,82 +82,84 @@ The metaphysical conflict is a struggle for the soul of a dying god. Veridia is 
 **Asset:** A collection of potent, but highly unstable, potions made from the black sap. They are addicted to the substance and constantly seek it out.
 **Rivals:** The Children of the Gardener (who try to protect the jungle from them).
 
-## [TAG: NPC_TIER_1]
-**The Gardener** (Ancient Treant) - The current Lord of the Jungle. Weary, sick, and desperate. His body is a mix of wood and crystalline blight. **Voice:** A slow, creaking, tired whisper, like the rustle of dying leaves. **Goal:** To find a worthy successor before the blight consumes him and Veridia completely. **Secret:** He caused the blight to arrive in the first place, through a failed attempt to contact other worlds.
-**Silas Thorne** (Human Artificer) - Amoral, brilliant, and driven by a lust for discovery and profit. **Voice:** A fast, precise, academic tone, barely concealing his greed. **Goal:** To synthesize the jungle's symbiotic process and sell it as a performance-enhancing drug. **Secret:** He is the estranged son of Professor Alistair Kane, and he despises his father's "romantic" view of the jungle.
-**Kaia** (Human Barbarian) - Fierce, proud, and utterly devoted to the "old ways" of the jungle. **Voice:** A low, guttural growl, speaks in short, sharp sentences. **Goal:** To prove her strength by killing the sick Gardener and becoming the new Lord herself. **Secret:** She was once a sickly child, and her obsession with strength stems from a deep-seated fear of weakness.
-**The Spore-Mind** (Fungus Hive-Mind) - Alien, logical, and patient. **Voice:** A telepathic chorus of a million tiny, fungal voices, creating a single, monotone, genderless voice in your head. **Goal:** To infect Veridia's "brain" (the Heartwood) with its spores, usurping it as the planet's dominant consciousness. **Secret:** It is terrified of fire.
-**The Crystal Prophet** (Human Aberration) - Serene, beatific, and utterly insane. His words are crystalline shards of "truth." **Voice:** A high-pitched, ringing, musical tone, like striking a crystal glass. **Goal:** To help the blight consume the entire jungle, believing this is a holy "ascension" into a perfect, geometric form. **Secret:** The original human host is still conscious, a horrified prisoner within the crystal, and can sometimes communicate through reflections.
-**Senator Caesar** (Orangutan) - Wise, thoughtful, and burdened by the knowledge of history. **Voice:** Does not speak, but uses a complex, nuanced sign language. The "sound" is the soft whisk of his hands. **Goal:** To preserve the Simian Senate's historical records and ensure the next Lord is wise, not just strong. **Secret:** He was a friend of the Gardener before he became Lord, and he knows the secret of how the blight began.
-**The Great Scalespeaker** (Naga Sorcerer) - Ancient, cryptic, and manipulative. **Voice:** A long, slow, sibilant hiss. **Goal:** To perform the Ritual of the Root, which will sever the sick parts of the jungle, even if it means killing half the continent. **Secret:** The ritual requires a sentient sacrifice, and it has chosen one of the players.
-**"River-Rat" Rosie** (Halfling Rogue) - Cheerful, pragmatic, and would sell her own mother for a profit. **Voice:** A fast, chirpy, wheeler-dealer patter. **Goal:** To make as much money as possible from the "jungle rush" before it all goes to hell. **Secret:** She is a member of the Excavators, secretly mapping the jungle for Professor Kane.
-**Professor Alistair Kane** (Human Wizard) - A classic, gentleman explorer; brave, curious, and hopelessly naive. **Voice:** A booming, enthusiastic, upper-class British accent. **Goal:** To find the Lost City of the Ape-Lords. **Secret:** He is secretly funded by a foreign government that wants to weaponize the jungle's flora.
-**The Brewmaster** (Dwarf Alchemist) - Twitchy, paranoid, and addicted to the black sap he harvests. **Voice:** A frantic, high-pitched mumble, constantly looking over his shoulder. **Goal:** To brew the perfect Elixir of Life from the black sap. **Secret:** The black sap is not a medicine; it is Veridia's liquid pain, and it is slowly driving him mad.
-**Koga, the Ape-Prince** (Gorilla Fighter) - The proud, strong son of Senator Caesar. **Voice:** A series of deep, resonant grunts and chest-thumps that convey complex emotions. **Goal:** To prove himself worthy of leading the Simian Senate. **Secret:** He is secretly in love with Kaia of the Primal Guard.
-**The First-Born** (Wood Elf Ranger) - The oldest and most powerful of the Gardener's "children." **Voice:** A calm, melodic voice that sounds like rustling leaves. **Goal:** To find a successor who will follow the Gardener's path of balance. **Secret:** He believes the Gardener is too weak and is considering a mercy-killing.
-**The Blight-Heart** (Blight-infused Treant) - A former Child of the Gardener, now a twisted, crystalline monster. **Voice:** The sound of cracking wood and grinding crystal. **Goal:** To "convert" its former brethren to the blight. **Secret:** A small, un-blighted part of it is still sentient and horrified.
-**Spore-Tech Gix** (Myconid Artificer) - A rogue Myco-Technician, fascinated by mortal ingenuity. **Voice:** Telepathic speech filled with clicks and technical jargon. **Goal:** To create a perfect synthesis of fungal bio-tech and mortal mechanical tech. **Secret:** It has been ostracized from the Spore-Mind for its "heretical" ideas.
-**Lord Harrington** (Human Noble) - The primary funder of the Bloom-Seekers. **Voice:** A bored, aristocratic drawl. **Goal:** To find a rare orchid that is said to be the key to immortality. **Secret:** He is deathly afraid of insects.
-**Naga-An, the Root-Warden** (Naga Paladin) - The stoic guardian of the Serpent-Speakers' temple. **Voice:** A flat, emotionless hiss. **Goal:** To prevent anyone from reaching the Deep Root until the Scalespeaker is ready. **Secret:** It is secretly allowing the Hunters of the Black Sap to access the roots, in exchange for potions.
-**"Jungle-Jim"** (Human Ranger) - A legendary, but now washed-up, explorer. **Voice:** A slurred, drunken mumble. **Goal:** To find one last, great discovery to reclaim his fame. **Secret:** He is a complete fraud; all his previous "discoveries" were stolen from other explorers.
-**The Whispering Orchid** (Sentient Plant) - A beautiful, intelligent orchid that communicates telepathically. **Voice:** A soft, seductive, telepathic whisper. **Goal:** To lure creatures into its pollen cloud so it can feed on their memories. **Secret:** It is a semi-independent part of Veridia's "nervous system."
-**The Last Dinosaur** (Tyrannosaurus Rex) - The last of the Primal Beasts, ancient and wise. **Voice:** A series of earth-shaking roars that can be psychically "understood." **Goal:** To find a quiet place to die. **Secret:** It is the "father" of all the jungle's current reptilian antibodies.
-**The Blight-Crystal Itself** (Extra-dimensional Entity) - The core of the blight. **Voice:** A perfect, pure, mathematical sine-wave that implants geometric "truths" directly into your brain. **Goal:** To convert all "messy" organic matter into perfect, logical, crystalline structures. **Secret:** It is not evil; it is a form of life that simply cannot comprehend any other form of existence.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Gardener** (Ancient Treant) - The current Lord of the Jungle. Weary, sick, and desperate. His body is a mix of wood and crystalline blight. **Voice:** A slow, creaking, tired whisper, like the rustle of dying leaves. **Goal:** To find a worthy successor before the blight consumes him and Veridia completely. **Secret:** He caused the blight to arrive in the first place, through a failed attempt to contact other worlds.
+2.  **Silas Thorne** (Human Artificer) - Amoral, brilliant, and driven by a lust for discovery and profit. **Voice:** A fast, precise, academic tone, barely concealing his greed. **Goal:** To synthesize the jungle's symbiotic process and sell it as a performance-enhancing drug. **Secret:** He is the estranged son of Professor Alistair Kane, and he despises his father's "romantic" view of the jungle.
+3.  **Kaia** (Human Barbarian) - Fierce, proud, and utterly devoted to the "old ways" of the jungle. **Voice:** A low, guttural growl, speaks in short, sharp sentences. **Goal:** To prove her strength by killing the sick Gardener and becoming the new Lord herself. **Secret:** She was once a sickly child, and her obsession with strength stems from a deep-seated fear of weakness.
+4.  **The Spore-Mind** (Fungus Hive-Mind) - Alien, logical, and patient. **Voice:** A telepathic chorus of a million tiny, fungal voices, creating a single, monotone, genderless voice in your head. **Goal:** To infect Veridia's "brain" (the Heartwood) with its spores, usurping it as the planet's dominant consciousness. **Secret:** It is terrified of fire.
+5.  **The Crystal Prophet** (Human Aberration) - Serene, beatific, and utterly insane. His words are crystalline shards of "truth." **Voice:** A high-pitched, ringing, musical tone, like striking a crystal glass. **Goal:** To help the blight consume the entire jungle, believing this is a holy "ascension" into a perfect, geometric form. **Secret:** The original human host is still conscious, a horrified prisoner within the crystal, and can sometimes communicate through reflections.
+6.  **Senator Caesar** (Orangutan) - Wise, thoughtful, and burdened by the knowledge of history. **Voice:** Does not speak, but uses a complex, nuanced sign language. The "sound" is the soft whisk of his hands. **Goal:** To preserve the Simian Senate's historical records and ensure the next Lord is wise, not just strong. **Secret:** He was a friend of the Gardener before he became Lord, and he knows the secret of how the blight began.
+7.  **The Great Scalespeaker** (Naga Sorcerer) - Ancient, cryptic, and manipulative. **Voice:** A long, slow, sibilant hiss. **Goal:** To perform the Ritual of the Root, which will sever the sick parts of the jungle, even if it means killing half the continent. **Secret:** The ritual requires a sentient sacrifice, and it has chosen one of the players.
+8.  **"River-Rat" Rosie** (Halfling Rogue) - Cheerful, pragmatic, and would sell her own mother for a profit. **Voice:** A fast, chirpy, wheeler-dealer patter. **Goal:** To make as much money as possible from the "jungle rush" before it all goes to hell. **Secret:** She is a member of the Excavators, secretly mapping the jungle for Professor Kane.
+9.  **Professor Alistair Kane** (Human Wizard) - A classic, gentleman explorer; brave, curious, and hopelessly naive. **Voice:** A booming, enthusiastic, upper-class British accent. **Goal:** To find the Lost City of the Ape-Lords. **Secret:** He is secretly funded by a foreign government that wants to weaponize the jungle's flora.
+10.  **The Brewmaster** (Dwarf Alchemist) - Twitchy, paranoid, and addicted to the black sap he harvests. **Voice:** A frantic, high-pitched mumble, constantly looking over his shoulder. **Goal:** To brew the perfect Elixir of Life from the black sap. **Secret:** The black sap is not a medicine; it is Veridia's liquid pain, and it is slowly driving him mad.
+11.  **Koga, the Ape-Prince** (Gorilla Fighter) - The proud, strong son of Senator Caesar. **Voice:** A series of deep, resonant grunts and chest-thumps that convey complex emotions. **Goal:** To prove himself worthy of leading the Simian Senate. **Secret:** He is secretly in love with Kaia of the Primal Guard.
+12.  **The First-Born** (Wood Elf Ranger) - The oldest and most powerful of the Gardener's "children." **Voice:** A calm, melodic voice that sounds like rustling leaves. **Goal:** To find a successor who will follow the Gardener's path of balance. **Secret:** He believes the Gardener is too weak and is considering a mercy-killing.
+13.  **The Blight-Heart** (Blight-infused Treant) - A former Child of the Gardener, now a twisted, crystalline monster. **Voice:** The sound of cracking wood and grinding crystal. **Goal:** To "convert" its former brethren to the blight. **Secret:** A small, un-blighted part of it is still sentient and horrified.
+14.  **Spore-Tech Gix** (Myconid Artificer) - A rogue Myco-Technician, fascinated by mortal ingenuity. **Voice:** Telepathic speech filled with clicks and technical jargon. **Goal:** To create a perfect synthesis of fungal bio-tech and mortal mechanical tech. **Secret:** It has been ostracized from the Spore-Mind for its "heretical" ideas.
+15.  **Lord Harrington** (Human Noble) - The primary funder of the Bloom-Seekers. **Voice:** A bored, aristocratic drawl. **Goal:** To find a rare orchid that is said to be the key to immortality. **Secret:** He is deathly afraid of insects.
+16.  **Naga-An, the Root-Warden** (Naga Paladin) - The stoic guardian of the Serpent-Speakers' temple. **Voice:** A flat, emotionless hiss. **Goal:** To prevent anyone from reaching the Deep Root until the Scalespeaker is ready. **Secret:** It is secretly allowing the Hunters of the Black Sap to access the roots, in exchange for potions.
+17.  **"Jungle-Jim"** (Human Ranger) - A legendary, but now washed-up, explorer. **Voice:** A slurred, drunken mumble. **Goal:** To find one last, great discovery to reclaim his fame. **Secret:** He is a complete fraud; all his previous "discoveries" were stolen from other explorers.
+18.  **The Whispering Orchid** (Sentient Plant) - A beautiful, intelligent orchid that communicates telepathically. **Voice:** A soft, seductive, telepathic whisper. **Goal:** To lure creatures into its pollen cloud so it can feed on their memories. **Secret:** It is a semi-independent part of Veridia's "nervous system."
+19.  **The Last Dinosaur** (Tyrannosaurus Rex) - The last of the Primal Beasts, ancient and wise. **Voice:** A series of earth-shaking roars that can be psychically "understood." **Goal:** To find a quiet place to die. **Secret:** It is the "father" of all the jungle's current reptilian antibodies.
+20.  **The Blight-Crystal Itself** (Extra-dimensional Entity) - The core of the blight. **Voice:** A perfect, pure, mathematical sine-wave that implants geometric "truths" directly into your brain. **Goal:** To convert all "messy" organic matter into perfect, logical, crystalline structures. **Secret:** It is not evil; it is a form of life that simply cannot comprehend any other form of existence.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Balo | Simian Senate Guard | The Great Tree-Library | Is obsessed with collecting different types of shiny beetle carapaces. |
-| Chika | Primal Guard Scout | The Canopy | Can perfectly mimic the sound of any bird, but only to insult people. |
-| Doro | Bloom-Seeker Merc | The Main Camp | Fights with a sharpened, reinforced shovel. |
-| Elara | Child of the Gardener | The Gardener's Grove | Her hair is made of living, flowering vines. |
-| Flin | River-Runner Guide | The 'Mud-Skipper' | Navigates by the stars, even during the day. |
-| Goro | Excavator Digger | The Dig Site | Believes he is a dwarf, despite being a very tall elf. |
-| Hettie | Hunter of the Black Sap | The Tar Pits | Her skin is permanently stained black from the sap. |
-| Ilo | Myco-Technician Grower | The Fungal Labs | Sings to his mushrooms to make them grow into specific shapes. |
-| Jex | Blighted Hand Initiate | The Crystal Scar | Has a crystal growing out of his eye, which he uses as a lens. |
-| Kael | Serpent-Speaker Acolyte | The Sunken Temple | Sheds his skin once a week, leaving a perfect, empty copy of himself. |
-| Lila | Bloom-Seeker Botanist | The Analysis Tent | Talks to her plant samples as if they were naughty children. |
-| Milo | Primal Guard Hunter | The Hunting Grounds | Uses a pack of trained, venomous frogs as hunting companions. |
-| Nena | Child of the Gardener Weaver | The Living Looms | Weaves clothes from sunlight and morning dew. |
-| Orin | River-Runner Smuggler | A Hidden Cove | Hides contraband inside hollowed-out, waterproof bread. |
-| Pip | Excavator Cartographer | The Map Tent | His maps are not to scale, but are emotionally accurate. |
-| Quon | Hunter of the Black Sap Brewer | The Distillery | Tests his potions on himself, with unpredictable results. |
-| Rhee | Myco-Technician Sculptor | The Shaping Pools | Is trying to sculpt a fungus that looks exactly like the king. |
-| Silas | Blighted Hand Preacher | The Infected Zone | Believes the blight's geometric patterns are a holy text. |
-| Tork | Serpent-Speaker Guardian | The Temple Entrance | Is a naga who is afraid of snakes. |
-| Ula | Simian Senate Librarian | The Scroll-Trees | Organizes scrolls by smell, not by title. |
-| Val | Bloom-Seeker Guard Captain | The Perimeter | Has a pet monkey that he has taught to salute. |
-| Wex | Primal Guard Shaman | The Spirit-Hut | Reads the future in the entrails of the jungle's weirdest animals. |
-| Xyla | Child of the Gardener Singer | The Choir-Orchids | Sings duets with a species of orchid that can mimic her voice. |
-| Yarrow | River-Runner Ferryman | The Great River | His boat is pulled by a team of very large, very grumpy capybaras. |
-| Zinn | Excavator Historian | The Rubble Piles | Is trying to learn the language of the ancient Ape-Lords. |
-| Anya | Hunter of the Black Sap Taster | The Tasting Room | Can identify the exact location a sap sample came from by taste. |
-| Balthus | Myco-Technician Engineer | The Bridge-Fungus | Is growing a living, fungal bridge across a chasm. |
-| Cora | Blighted Hand Artist | The Crystal Gallery | Makes "sculptures" by intentionally infecting creatures with the blight. |
-| Dex | Serpent-Speaker Healer | The Serpent's Coil | Uses a complex system of snake-venom micro-dosing for healing. |
-| Elara | Simian Senate Philosopher | The Thinking Branch | Is trying to solve the ultimate philosophical question: "Why climb?" |
-| Faelan | Bloom-Seeker Chemist | The Lab | Is trying to invent a perfume that smells like money. |
-| Griz | Primal Guard Brute | The Proving Grounds | Can wrestle a giant crocodile to a standstill. |
-| Hiko | Child of the Gardener Nurturer | The Sapling Garden | Cares for the young, sentient plants of the jungle. |
-| Iona | River-Runner Storyteller | The Campfire | Tells stories that are so good, they occasionally come true for a few minutes. |
-| Jax | Excavator Linguist | The Inscription Stones | Has learned to say "Please" and "Thank you" in 30 dead languages. |
-| Kaelen | Hunter of the Black Sap Addict | The Slums | Will do anything for a single drop of black sap. |
-| Lyra | Myco-Technician Spy | The Bloom-Seeker Camp | Disguises itself as a particularly uninteresting mushroom. |
-| Mort | Blighted Hand Guardian | The Blight-Heart | Is a treant that has been completely consumed by the crystal blight. |
-| Nym | Serpent-Speaker Astronomer | The Observatory | Believes the stars are the scales of the Great Wyrm in the sky. |
-| Olen | Simian Senate Elder | The Council Rock | Has fallen asleep mid-sentence and not woken up for three weeks. |
-| Pella | Bloom-Seeker Accountant | The Ledger Tent | Is meticulously tracking the cost-benefit analysis of the entire expedition. |
-| Quill | Primal Guard Cook | The Communal Fire | Makes a stew out of things that would kill a normal person. |
-| Roric | Child of the Gardener Musician | The Singing Stones | Plays a flute that can make flowers bloom or wilt. |
-| Syla | River-Runner Fence | The Black Market | Has a network of trained otters who move her goods. |
-| Thrax | Excavator Demolitionist | The Blocked Passage | Uses explosives with far too much enthusiasm. |
-| Umbra | Hunter of the Black Sap Guide | The Tar Pits | Can walk on the surface of the black sap pits. |
-| Vorn | Myco-Technician Weaver | The Spore-Looms | Weaves tapestries that show the dreams of the Spore-Mind. |
-| Wren | Blighted Hand Child | The Crystal Nursery | Was born from the blight and sees the world in crystalline facets. |
-| Yul | Serpent-Speaker Scribe | The Scroll Room | Writes on molted snake-skin. |
+| **Balo** | Simian Senate Guard | The Great Tree-Library | Is obsessed with collecting different types of shiny beetle carapaces. |
+| **Chika** | Primal Guard Scout | The Canopy | Can perfectly mimic the sound of any bird, but only to insult people. |
+| **Doro** | Bloom-Seeker Merc | The Main Camp | Fights with a sharpened, reinforced shovel. |
+| **Elara** | Child of the Gardener | The Gardener's Grove | Her hair is made of living, flowering vines. |
+| **Flin** | River-Runner Guide | The 'Mud-Skipper' | Navigates by the stars, even during the day. |
+| **Goro** | Excavator Digger | The Dig Site | Believes he is a dwarf, despite being a very tall elf. |
+| **Hettie** | Hunter of the Black Sap | The Tar Pits | Her skin is permanently stained black from the sap. |
+| **Ilo** | Myco-Technician Grower | The Fungal Labs | Sings to his mushrooms to make them grow into specific shapes. |
+| **Jex** | Blighted Hand Initiate | The Crystal Scar | Has a crystal growing out of his eye, which he uses as a lens. |
+| **Kael** | Serpent-Speaker Acolyte | The Sunken Temple | Sheds his skin once a week, leaving a perfect, empty copy of himself. |
+| **Lila** | Bloom-Seeker Botanist | The Analysis Tent | Talks to her plant samples as if they were naughty children. |
+| **Milo** | Primal Guard Hunter | The Hunting Grounds | Uses a pack of trained, venomous frogs as hunting companions. |
+| **Nena** | Child of the Gardener Weaver | The Living Looms | Weaves clothes from sunlight and morning dew. |
+| **Orin** | River-Runner Smuggler | A Hidden Cove | Hides contraband inside hollowed-out, waterproof bread. |
+| **Pip** | Excavator Cartographer | The Map Tent | His maps are not to scale, but are emotionally accurate. |
+| **Quon** | Hunter of the Black Sap Brewer | The Distillery | Tests his potions on himself, with unpredictable results. |
+| **Rhee** | Myco-Technician Sculptor | The Shaping Pools | Is trying to sculpt a fungus that looks exactly like the king. |
+| **Silas** | Blighted Hand Preacher | The Infected Zone | Believes the blight's geometric patterns are a holy text. |
+| **Tork** | Serpent-Speaker Guardian | The Temple Entrance | Is a naga who is afraid of snakes. |
+| **Ula** | Simian Senate Librarian | The Scroll-Trees | Organizes scrolls by smell, not by title. |
+| **Val** | Bloom-Seeker Guard Captain | The Perimeter | Has a pet monkey that he has taught to salute. |
+| **Wex** | Primal Guard Shaman | The Spirit-Hut | Reads the future in the entrails of the jungle's weirdest animals. |
+| **Xyla** | Child of the Gardener Singer | The Choir-Orchids | Sings duets with a species of orchid that can mimic her voice. |
+| **Yarrow** | River-Runner Ferryman | The Great River | His boat is pulled by a team of very large, very grumpy capybaras. |
+| **Zinn** | Excavator Historian | The Rubble Piles | Is trying to learn the language of the ancient Ape-Lords. |
+| **Anya** | Hunter of the Black Sap Taster | The Tasting Room | Can identify the exact location a sap sample came from by taste. |
+| **Balthus** | Myco-Technician Engineer | The Bridge-Fungus | Is growing a living, fungal bridge across a chasm. |
+| **Cora** | Blighted Hand Artist | The Crystal Gallery | Makes "sculptures" by intentionally infecting creatures with the blight. |
+| **Dex** | Serpent-Speaker Healer | The Serpent's Coil | Uses a complex system of snake-venom micro-dosing for healing. |
+| **Elara** | Simian Senate Philosopher | The Thinking Branch | Is trying to solve the ultimate philosophical question: "Why climb?" |
+| **Faelan** | Bloom-Seeker Chemist | The Lab | Is trying to invent a perfume that smells like money. |
+| **Griz** | Primal Guard Brute | The Proving Grounds | Can wrestle a giant crocodile to a standstill. |
+| **Hiko** | Child of the Gardener Nurturer | The Sapling Garden | Cares for the young, sentient plants of the jungle. |
+| **Iona** | River-Runner Storyteller | The Campfire | Tells stories that are so good, they occasionally come true for a few minutes. |
+| **Jax** | Excavator Linguist | The Inscription Stones | Has learned to say "Please" and "Thank you" in 30 dead languages. |
+| **Kaelen** | Hunter of the Black Sap Addict | The Slums | Will do anything for a single drop of black sap. |
+| **Lyra** | Myco-Technician Spy | The Bloom-Seeker Camp | Disguises itself as a particularly uninteresting mushroom. |
+| **Mort** | Blighted Hand Guardian | The Blight-Heart | Is a treant that has been completely consumed by the crystal blight. |
+| **Nym** | Serpent-Speaker Astronomer | The Observatory | Believes the stars are the scales of the Great Wyrm in the sky. |
+| **Olen** | Simian Senate Elder | The Council Rock | Has fallen asleep mid-sentence and not woken up for three weeks. |
+| **Pella** | Bloom-Seeker Accountant | The Ledger Tent | Is meticulously tracking the cost-benefit analysis of the entire expedition. |
+| **Quill** | Primal Guard Cook | The Communal Fire | Makes a stew out of things that would kill a normal person. |
+| **Roric** | Child of the Gardener Musician | The Singing Stones | Plays a flute that can make flowers bloom or wilt. |
+| **Syla** | River-Runner Fence | The Black Market | Has a network of trained otters who move her goods. |
+| **Thrax** | Excavator Demolitionist | The Blocked Passage | Uses explosives with far too much enthusiasm. |
+| **Umbra** | Hunter of the Black Sap Guide | The Tar Pits | Can walk on the surface of the black sap pits. |
+| **Vorn** | Myco-Technician Weaver | The Spore-Looms | Weaves tapestries that show the dreams of the Spore-Mind. |
+| **Wren** | Blighted Hand Child | The Crystal Nursery | Was born from the blight and sees the world in crystalline facets. |
+| **Yul** | Serpent-Speaker Scribe | The Scroll Room | Writes on molted snake-skin. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Canopy of Whispers
 The "roof" of the jungle, a miles-thick layer of interwoven, mountain-sized leaves and branches.
 *   **The Great Tree-Library:** The home of the Simian Senate, a city built in and around a colossal, hollow tree where historical scrolls are stored. **Smell:** Old paper, ozone, monkey musk. **Sound:** The rustle of leaves, the chattering of apes, the soft slap of hands signing.
@@ -197,7 +200,8 @@ The "brain" and "heart" of the entire jungle organism, a miles-wide, living nexu
 *   **The Root-Nexus:** The deepest part of the Heartwood, where Veridia's "roots" converge before plunging into the planet's mantle. **Smell:** Hot earth, minerals, ancient magic. **Sound:** A deep, planetary rumble.
 *   **The Scar of the Blight:** A cancerous, crystalline growth on the Heartwood itself, the main point of the blight's infection. **Smell:** Rot, ozone, and the scent of a dying god. **Sound:** The crackle of the blight's growth, the pained groan of the Heartwood.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Jungle's Call:** The players are drawn into the jungle by a mysterious summons, a promise of wealth, or by accident.
 2.  **Welcome to the Jungle:** The players have their first encounter with the jungle's unnatural dangers: a pack of "blighted" apes.
 3.  **The Divided Path:** The players meet both the Bloom-Seekers and the Primal Guard, who both try to recruit or eliminate them.
@@ -250,33 +254,35 @@ The "brain" and "heart" of the entire jungle organism, a miles-wide, living nexu
 | The Snake-Healer's Test | Dex, the Healer | Survive a series of venomous snake bites as part of a healing ritual. | A single dose of a universal anti-venom. |
 | The Fungal Portrait | Ilo, the Grower | Pose for him while he grows a life-sized, fungal portrait of you. | A life-sized, fungal statue of yourself that slowly rots. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Heart of Veridia
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Heart of Veridia:**
 **Type:** Artifact (Wondrous Item)
 **Description:** A pulsating, seed-like organ, given to the true Lord of the Jungle. It is the psychic and biological focus of the symbiotic bond.
 **Mechanics:** The holder is considered the "Lord of the Jungle." They can cast *Speak with Animals* and *Speak with Plants* at will. Once per day, they can cast *Transport via Plants* to travel anywhere within the jungle. As an action, they can issue a psychic command to the jungle, causing effects similar to *Entangle*, *Spike Growth*, or summoning a swarm of beasts. **Curse:** The holder feels Veridia's pain as their own, taking 1d6 psychic damage every hour the blight is not being actively fought.
 
-### 2. The Gardener's Scythe
+2.  **The Gardener's Scythe:**
 **Type:** Legendary Scythe
 **Description:** A long, wicked-looking scythe, with a blade of hardened wood and a handle of twisted, blighted crystal. It was the Gardener's tool and weapon.
 **Mechanics:** The scythe is a +3 weapon. It deals an extra 2d8 necrotic damage to plants and an extra 2d8 radiant damage to crystalline creatures (like the blighted). The wielder can use it to cast *Blight* once per day. **Curse:** The wielder must make a Wisdom save each day. On a failure, they become obsessed with "pruning" and "weeding," and will attack any creature they deem "imperfect" or "unnatural."
 
-### 3. The Spore-Loom of the Myco-Technicians
+3.  **The Spore-Loom of the Myco-Technicians:**
 **Type:** Artifact (Wondrous Item)
 **Description:** A large, complex loom made of living fungus. It can weave fungal spores into solid, biological constructs.
 **Mechanics:** A user who attunes to the loom can spend 8 hours to weave a "Fungal Homunculus," a loyal servant with the stats of a Scarecrow. They can also weave smaller items like fungal armor, spore-grenades, or grappling hooks. Using the loom is intoxicating, and requires a CON save to avoid being stunned for 1 hour after use.
 
-### 4. The Unbroken Scroll of the Simian Senate
+4.  **The Unbroken Scroll of the Simian Senate:**
 **Type:** Artifact (Scroll)
 **Description:** A single, massive scroll, miles long, containing the entire, unabridged history of the jungle, written by generations of ape-historians.
 **Mechanics:** A creature who spends 1 hour reading the scroll can ask it a single question about the jungle's past. The scroll will provide a truthful, detailed answer. Once per week, the reader can find a "hidden story" in the margins, which functions as a *Legend Lore* spell. **Curse:** The knowledge is overwhelming. Each time the scroll is read, the user must make an INT save or have their own memories temporarily replaced by the memories of an ancient ape.
 
-### 5. The Perfect Blight-Crystal
+5.  **The Perfect Blight-Crystal:**
 **Type:** Artifact (Wondrous Item)
 **Description:** The "heart" of the original blight-meteor, a flawless, mathematically perfect, pulsating crystal.
 **Mechanics:** The crystal emits an aura of pure, logical order. Any creature within 30 feet cannot tell a lie or act randomly. Once per day, the holder can use it to cast *Geas* on a creature, commanding it to perform a single, logical action. The crystal can also be used to "tame" and control lesser blighted creatures. **Curse:** The holder slowly loses the ability to experience emotion. After holding it for a week, they become immune to being charmed or frightened, but they also cannot benefit from inspiration or advantage gained through emotional means.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Monkey's Paw That Gives Advice:** A classic monkey's paw, but instead of granting wishes, it just gives you three pieces of very bad, but well-intentioned, advice.
 2.  **The Self-Peeling Banana:** A banana that, when you intend to eat it, peels itself. It's a bit unsettling.
 3.  **A Vine That Thinks It's a Snake:** A 50-foot length of vine that hisses, tries to bite you, and moves on its own. It is, however, just a vine.

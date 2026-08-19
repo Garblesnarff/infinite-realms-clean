@@ -18,7 +18,8 @@ The World is not a floor; it's a blade that's being held by an invisible hand. I
 ### The 'Why'
 The central conflict is the struggle for 'Personal Honor' and 'Survival.' It is about the 'Deadly Grace' of being an elite operative—the realization that your reputation is your only true shield. The 'Why' is the question: 'What is the value of a code in a world that rewards betrayal?' It explores the opulent environments of the luxury hotel, the gritty reality of the training hall, and the balletic violence of the professional kill. The players are the assassins who must navigate the subtext of a polite conversation and the intensity of a hall of mirrors ambush to find a truth that doesn't belong to the High Table.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Lexis Sanctuary (The Heroes)
 **Type:** Elite/Multicultural Assassin Order
 **Leader:** Winston (Equivalent - The Manager).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Personal Honor' and 'Survival.' It is 
 **Asset:** Blood Markers (unbreakable debts) and a commitment to the 'Deadly Ballet.'
 **Rivals:** Each Other.
 
-## [TAG: NPC_TIER_1]
-**Winston** (Sanctuary - The Leader) - A man of art deco elegance and dark-wood sanctuaries. **Voice:** Authoritative, sophisticated, and British. **Goal:** To protect the Sanctuary from the High Table's overreach. **Secret:** He has been building a secret 'Mirror Hall' beneath the hotel to survive the next purge.
-**The High Adjudicator** (High Table - The Villain) - A woman in a black uniform with a reflective face shield. **Voice:** Sterile, precise, and emotionless. **Goal:** To adjust the underworld to fit the High Table's narrative. **Secret:** She is secretly working for the 'Ghost' Resistance to expose the Table's internal rot.
-**Ezio** (Independent - The Mentor) - A man whose body is a map of countless battles. **Voice:** Measured, deep, and contemplative. **Goal:** To restore the original Code of Chivalry and stop the High Table. **Secret:** He is secretly an Adept of 'Glory-Energy' who can 'echo' his past commands through the sand (equivalent).
-**The Concierge (Charon)** (Sanctuary - Professional Calm) - A man in a perfectly tailored black suit with a neutral accent. **Voice:** Smooth, controlled, and precisely measured. **Goal:** To provide the agents with the 'Perfect Sanctuary' and maintain the order of the house. **Secret:** He is a high-level Adept of 'Deadly Grace' who can 'disarm' an opponent with a single look.
-**The Rookie (Ghost)** (Independent - The Lead) - A young noble assassin in practical dark clothing. **Voice:** Natural, hesitant, and damaged. **Goal:** To survive the mission and find his own worth. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the assassin ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Winston** (Sanctuary - The Leader) - A man of art deco elegance and dark-wood sanctuaries. **Voice:** Authoritative, sophisticated, and British. **Goal:** To protect the Sanctuary from the High Table's overreach. **Secret:** He has been building a secret 'Mirror Hall' beneath the hotel to survive the next purge.
+2.  **The High Adjudicator** (High Table - The Villain) - A woman in a black uniform with a reflective face shield. **Voice:** Sterile, precise, and emotionless. **Goal:** To adjust the underworld to fit the High Table's narrative. **Secret:** She is secretly working for the 'Ghost' Resistance to expose the Table's internal rot.
+3.  **Ezio** (Independent - The Mentor) - A man whose body is a map of countless battles. **Voice:** Measured, deep, and contemplative. **Goal:** To restore the original Code of Chivalry and stop the High Table. **Secret:** He is secretly an Adept of 'Glory-Energy' who can 'echo' his past commands through the sand (equivalent).
+4.  **The Concierge (Charon)** (Sanctuary - Professional Calm) - A man in a perfectly tailored black suit with a neutral accent. **Voice:** Smooth, controlled, and precisely measured. **Goal:** To provide the agents with the 'Perfect Sanctuary' and maintain the order of the house. **Secret:** He is a high-level Adept of 'Deadly Grace' who can 'disarm' an opponent with a single look.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A young noble assassin in practical dark clothing. **Voice:** Natural, hesitant, and damaged. **Goal:** To survive the mission and find his own worth. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the assassin ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Personal Honor' and 'Survival.' It is 
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Code's Beginning.' |
 | The Clerk | Sanctuary Admin | Headquarters | Only communicates through a rhythmic 'Gold Coin' clink. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Lexis Sanctuary (The Hub)
 An art deco masterpiece of black marble floors, gold columns, and warm chandelier light.
 *   **The Lobby:** A site of 'Polite Formality' and high-society business. **Smell:** Bourbon, expensive tobacco, and old stone. **Sound:** The rhythmic scratching of a silver quill.
@@ -88,7 +91,8 @@ A chaotic, crumbling maze of tunnels, rooftop pigeon lofts, and secret passages.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Center:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Checking In:** Arrive at the Sanctuary. You must check in with the Concierge and receive your first gold coin while maintaining your 'Aristocratic Cool.'
 2.  **The Marker Retrieval:** Infiltrate a High Table gala to retrieve a Blood Marker stolen by a rival boss. You must navigate the 'Hall of Mirrors' ambush.
 3.  **The Sommelier's Tasting:** Meet the Sommelier to select your mission equipment. You must complete a 'Safety Demonstration' that involves disarming three guards.
@@ -97,18 +101,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Siege of the Sanctuary:** Lead a defense of the hotel against a High Table 'Adjustment' squad. You must protect Winston while the self-destruct activates.
 7.  **The Final Consequence:** Face the Elder face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Table or die for the Code?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Accord
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Accord:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Deadly Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Gold Coin of Choice
+3.  **The Gold Coin of Choice:**
 **Type:** Artifact (Currency)
 **Description:** A heavy, gold coin with the High Table seal.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Excommunicado' magic.

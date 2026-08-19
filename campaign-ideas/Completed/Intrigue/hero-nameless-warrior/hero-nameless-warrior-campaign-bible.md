@@ -18,7 +18,8 @@ The Land is not divided by geography, but by the calligraphy of the soul. In the
 ### The 'Why'
 The central conflict is the struggle between 'Individual Honor' and 'Universal Peace.' It is about the 'Visual Poetry' of the human mind—the realization that the stories we tell define the world we live in. The 'Why' is the question: 'Can one man's life be worth the peace of a thousand years?' It explores the color-coded layers of deception, the massive scale of imperial power, and the beauty of martial arts as a philosophical dance. The players are the assassins and officials who must navigate the stories within stories to decide the ultimate fate of 'All Under Heaven.'
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Kingdom of Qin (The Unifiers)
 **Type:** Legalist Imperial Superpower
 **Leader:** The King of Qin (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Individual Honor' and 'Universal P
 **Asset:** Proximity to the King and shields that can stop a thousand arrows.
 **Rivals:** Any assassin within ten paces.
 
-## [TAG: NPC_TIER_1]
-**Nameless** (Independent - The Warrior) - A minor official with dead, emotionless eyes and a lethal blade. **Voice:** Measured, philosophical, and calm. **Goal:** To get within ten paces of the King and decide whether to kill him. **Secret:** He has mastered the 'Death in Ten Paces' technique, which allows him to strike without killing.
-**The King of Qin** (Qin - The Ruler) - A man hidden behind a screen of candles and authority. **Voice:** Booming, theatrical, and filled with historical weight. **Goal:** To unify the land and bring an end to the Warring States. **Secret:** He is terrified of his own destiny and views the assassins as his only true companions.
-**Broken Sword** (Calligraphy - The Sage) - A legendary warrior who has stopped fighting. **Voice:** Soft, melodic, and filled with melancholy. **Goal:** To prevent Nameless from killing the King and stop the cycle of revenge. **Secret:** He realized that 'Sword' and 'Calligraphy' are the same art—and that both seek the same 'White' truth.
-**Flying Snow** (Zhao - The Vengeful) - A woman of vibrant passion and absolute loyalty to her home. **Voice:** Intense, fierce, and prone to emotional outbursts. **Goal:** To avenge Zhao and kill the King of Qin. **Secret:** She loves Broken Sword more than her mission, but she can't forgive his 'betrayal' of Zhao.
-**Long Sky** (Independent - The Duelist) - A master of the spear who chose to 'die' for the cause. **Voice:** Gruff, honorable, and direct. **Goal:** To give Nameless the chance to reach the King. **Secret:** He is a master of 'Mental Combat,' fighting battles entirely within his own mind before a single blow is struck.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Nameless** (Independent - The Warrior) - A minor official with dead, emotionless eyes and a lethal blade. **Voice:** Measured, philosophical, and calm. **Goal:** To get within ten paces of the King and decide whether to kill him. **Secret:** He has mastered the 'Death in Ten Paces' technique, which allows him to strike without killing.
+2.  **The King of Qin** (Qin - The Ruler) - A man hidden behind a screen of candles and authority. **Voice:** Booming, theatrical, and filled with historical weight. **Goal:** To unify the land and bring an end to the Warring States. **Secret:** He is terrified of his own destiny and views the assassins as his only true companions.
+3.  **Broken Sword** (Calligraphy - The Sage) - A legendary warrior who has stopped fighting. **Voice:** Soft, melodic, and filled with melancholy. **Goal:** To prevent Nameless from killing the King and stop the cycle of revenge. **Secret:** He realized that 'Sword' and 'Calligraphy' are the same art—and that both seek the same 'White' truth.
+4.  **Flying Snow** (Zhao - The Vengeful) - A woman of vibrant passion and absolute loyalty to her home. **Voice:** Intense, fierce, and prone to emotional outbursts. **Goal:** To avenge Zhao and kill the King of Qin. **Secret:** She loves Broken Sword more than her mission, but she can't forgive his 'betrayal' of Zhao.
+5.  **Long Sky** (Independent - The Duelist) - A master of the spear who chose to 'die' for the cause. **Voice:** Gruff, honorable, and direct. **Goal:** To give Nameless the chance to reach the King. **Secret:** He is a master of 'Mental Combat,' fighting battles entirely within his own mind before a single blow is struck.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Individual Honor' and 'Universal P
 | The Pilot | Chariot Driver | Desert Road | Can fly through a sandstorm by the sound of the horses' hooves. |
 | 'Iron-Gut' | Executioner | City Square | Can perform a 'Death in Ten Paces' while reciting a poem. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Qin Throne Room
 A massive, symmetrical chamber of black stone and thousands of candles.
 *   **The Ten Paces Line:** A sacred boundary that no official is allowed to cross. **Smell:** Candle wax, incense, and cold steel. **Sound:** The rhythmic 'whoosh' of fabric and the King's philosophical musings.
@@ -89,7 +92,8 @@ A site of 'Melancholic Truth' and desaturated blues.
 A stark, revealing landscape where the 'Ultimate Truth' is faced.
 *   **The Precipice:** A site of 'Purity' and sacrifice. **Visual:** Pure whites and silvers. **Feeling:** A heavy, silent pressure on the soul.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Ten Paces:** Arrive at the Qin palace. You must present the assassins' weapons and successfully tell the 'Red Story' to gain the King's trust.
 2.  **The Library Defense:** Flashback to the Zhao school. Defend the calligraphy records from a Qin arrow-storm while Broken Sword paints the 'Ultimate Word.'
 3.  **The Blue Duel:** Face Flying Snow in a mental combat on the surface of the Blue Lake. You must find the 'Melancholy' in her strike to win her weapon.
@@ -98,18 +102,19 @@ A stark, revealing landscape where the 'Ultimate Truth' is faced.
 6.  **The Ten Paces Standoff:** You stand before the King. He has realized your story is a lie. You must use your 'Death in Ten Paces' to convince him of your true intent.
 7.  **The Unification Choice:** The King offers you a place at his side. You must decide whether to help him build 'Tianxia' or accept your own execution to maintain the Warrior's honor.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Caliburn of Qin
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Caliburn of Qin:**
 **Type:** Legendary Longsword
 **Description:** A simple, black katana that seems to absorb the light of the candles.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Death in Ten Paces' technique (once per combat).
 
-### 2. The Brush of the White Truth
+2.  **The Brush of the White Truth:**
 **Type:** Wondrous Item (Focus)
 **Description:** A calligraphy brush made from the hair of a white crane and the wood of a sacred tree.
 **Mechanics:** Grants the user the ability to 'See' the narrative layer of any situation (Red, Blue, or White). Once per day, the user can 'Rewrite' a target's motivation.
 
-### 3. Flying Snow's Red Robes
+3.  **Flying Snow's Red Robes:**
 **Type:** Wondrous Item (Clothing)
 **Description:** Vibrant red robes that seem to move with a life of their own.
 **Mechanics:** Grants the wearer advantage on all DEX (Acrobatics) and Performance checks. The robes provide resistance to fire damage and grant advantage on Intimidation checks.

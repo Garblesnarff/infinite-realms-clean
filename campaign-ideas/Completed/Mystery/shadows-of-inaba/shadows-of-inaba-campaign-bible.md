@@ -18,7 +18,8 @@ The Truth is not a light; it's a mirror that most people are too terrified to lo
 ### The 'Why'
 The central conflict is the struggle for 'Self-Acceptance' in a society that demands conformity. It is about the 'Stylish Modern Mystery' of growing up—the realization that heroes are just people who have stopped lying to themselves. The 'Why' is the question: 'Can you look into the mirror and say "You are me" to the parts of yourself you hate?' It explores the duality of self, the psychological depth of repressed desires, and the hope found in genuine human connection (Social Links). The players are the Investigation Team, high schoolers who must balance their part-time jobs and exams with the life-or-death battle for the town's soul.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Investigation Team (The Truth-Seekers)
 **Type:** High School Vigilante Group
 **Leader:** The Protagonist (Tier 1 NPC - blank slate).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Self-Acceptance' in a society that dem
 **Asset:** Economic control of Inaba and a catchy jingle that everyone hates/loves.
 **Rivals:** The Central Shopping District.
 
-## [TAG: NPC_TIER_1]
-**The Protagonist (Yu)** (Pilot - Blank Slate) - The city boy who can wield multiple Personas. **Voice:** Calm, stoic, and thoughtful. **Goal:** To solve the mystery and protect his new friends. **Secret:** He is the only one who can enter the Velvet Room and perceive the 'Threads of Fate.'
-**Yosuke Hanamura** (Investigation Team - Sidekick/Leader) - The son of the Junes manager. **Voice:** Fast-paced, clumsy, but deeply loyal. **Goal:** To find meaning in a town he originally hated. **Secret:** He feels immense guilt for Junes's impact on the local shopkeepers.
-**Chie Satonaka** (Investigation Team - Martial Artist) - A girl obsessed with steak and kung-fu movies. **Voice:** Energetic, loud, and prone to sudden shouts. **Goal:** To protect her best friend Yukiko and find her own strength. **Secret:** She is secretly jealous of Yukiko's feminine grace and beauty.
-**Ryotaro Dojima** (Law Enforcement - Weary Detective) - The Protagonist's uncle. **Voice:** Gruff, tired, and deeply protective of his daughter. **Goal:** To catch the killer using 'Real' police work. **Secret:** He uses his work to avoid the grief of his wife's death.
-**Teddie** (Independent/Support - Alien Mascot) - A hollow bear-suit living in the Midnight Realm. **Voice:** Squeaky, high-pitched, and filled with puns. **Goal:** To find out 'who he really is.' **Secret:** He is a Shadow that developed a human heart and a Persona.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Protagonist (Yu)** (Pilot - Blank Slate) - The city boy who can wield multiple Personas. **Voice:** Calm, stoic, and thoughtful. **Goal:** To solve the mystery and protect his new friends. **Secret:** He is the only one who can enter the Velvet Room and perceive the 'Threads of Fate.'
+2.  **Yosuke Hanamura** (Investigation Team - Sidekick/Leader) - The son of the Junes manager. **Voice:** Fast-paced, clumsy, but deeply loyal. **Goal:** To find meaning in a town he originally hated. **Secret:** He feels immense guilt for Junes's impact on the local shopkeepers.
+3.  **Chie Satonaka** (Investigation Team - Martial Artist) - A girl obsessed with steak and kung-fu movies. **Voice:** Energetic, loud, and prone to sudden shouts. **Goal:** To protect her best friend Yukiko and find her own strength. **Secret:** She is secretly jealous of Yukiko's feminine grace and beauty.
+4.  **Ryotaro Dojima** (Law Enforcement - Weary Detective) - The Protagonist's uncle. **Voice:** Gruff, tired, and deeply protective of his daughter. **Goal:** To catch the killer using 'Real' police work. **Secret:** He uses his work to avoid the grief of his wife's death.
+5.  **Teddie** (Independent/Support - Alien Mascot) - A hollow bear-suit living in the Midnight Realm. **Voice:** Squeaky, high-pitched, and filled with puns. **Goal:** To find out 'who he really is.' **Secret:** He is a Shadow that developed a human heart and a Persona.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Self-Acceptance' in a society that dem
 | Hanako | High School Student | Hallways | A girl of 'immense presence' who is always looking for a date. |
 | The Smith | Weapon Expert | Metalworks | Only speaks in 'Grunted Approvals' or 'Metallic Barks.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Central Shopping District (Inaba)
 A nostalgic, foggy street of family-owned shops and vending machines.
 *   **The Aiya Diner:** A small restaurant where the 'Mega Beef Bowl Challenge' is held. **Smell:** Soy sauce, rain, and cheap kerosene. **Sound:** The rhythmic hum of a faulty neon sign.
@@ -90,7 +93,8 @@ A mundane, gray building where life happens between the horrors.
 A warm, lived-in home that serves as the party's sanctuary.
 *   **The Living Room TV:** The primary portal to the Midnight Realm. **Visual:** Reflections showing the 'Shadow-Self' during rain. **Smell:** Homemade curry and stale beer.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Rainy Night:** Watch the Midnight Channel for the first time. Experience the 'Static' and find your way into the TV.
 2.  **Facing the Shadow:** Rescue Yosuke from his own Shadow-Self in the Midnight Realm. Witness the birth of his Persona.
 3.  **The Amagi Inn Mystery:** Yukiko has disappeared. Navigate her 'Castle' dungeon and defeat her Shadow before the fog clears.
@@ -99,18 +103,19 @@ A warm, lived-in home that serves as the party's sanctuary.
 6.  **The Rise of the Idol:** Rise Kujikawa has returned to Inaba. Protect her from the killer and navigate her 'Striptease' dungeon.
 7.  **The True Culprit:** The fog has leaked into Inaba. You must piece together the clues from the entire year to identify the killer and face the 'God of the Fog' in a final, reality-bending battle.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Persona Card
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Persona Card:**
 **Type:** Artifact Focus
 **Description:** A tarot card that shatters like glass when used to summon a Persona.
 **Mechanics:** Grants the user the ability to cast a high-tier elemental spell (e.g., *Ziodyne*, *Agidyne*) without spending a spell slot once per day.
 
-### 2. The Glasses of Truth
+2.  **The Glasses of Truth:**
 **Type:** Wondrous Item
 **Description:** A pair of stylish, yellow-tinted glasses that allow the wearer to see through the fog.
 **Mechanics:** Makes the wearer immune to blindness and allows them to see the 'True Aspect' of any Shadow or illusion.
 
-### 3. The Social Link Signet
+3.  **The Social Link Signet:**
 **Type:** Wondrous Item
 **Description:** A simple, silver ring that glows when near a trusted ally.
 **Mechanics:** Grants the user +1 to all attack and damage rolls for every Social Link they have reached Rank 10 with.

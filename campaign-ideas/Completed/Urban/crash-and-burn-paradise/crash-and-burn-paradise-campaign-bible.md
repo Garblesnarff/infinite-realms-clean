@@ -18,7 +18,8 @@ Paradise City wasn't built for commuting; it was built for the rush. It is a con
 ### The 'Why'
 The central conflict is the pursuit of the 'Perfect Moment'—that split second between extreme speed and total destruction where everything makes sense. It is a battle for glory, for the rush, and for the title of 'God of the Asphalt.' The players are those who have traded everything—money, safety, sanity—for the chance to be the fastest and the loudest. The 'Why' is the question: 'How much are you willing to lose to feel alive for one second?' It explores the addiction to risk, the artistry of destruction, and the dangerous allure of a world where consequences are just another chance for a slow-motion replay.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Paradise Racers (The Elites)
 **Type:** Professional High-Stakes Racing Syndicate
 **Leader:** 'The Baron,' a man who owns half of Downtown and all of the fastest cars.
@@ -49,12 +50,13 @@ The central conflict is the pursuit of the 'Perfect Moment'—that split second 
 **Asset:** The best repair shops in the city and knowledge of every car's weakness.
 **Rivals:** The Paradise Racers (who think they're better than them).
 
-## [TAG: NPC_TIER_1]
-**DJ Atomika** (Independent - Media Personality) - The voice of Paradise City. **Voice:** Energetic, frantic, and barely-contained excitement. **Goal:** To keep the city's pulse racing and the ratings high. **Secret:** He has never actually driven a car in his life and is terrified of speed.
-**'The Baron'** (Criminal - Mob Boss/Racer) - The king of Downtown. **Voice:** Calm, cultured, and deeply dismissive of anyone who isn't 'Elite.' **Goal:** To turn Paradise City into a private playground for his wealthy associates. **Secret:** He is secretly funding the Burnout Underground to keep the races 'interesting.'
-**'Crash' Cassidy** (Independent - Street Racer) - The queen of the takedown. **Voice:** High-energy, sarcastic, and prone to rapid-fire delivery. **Goal:** To prove that speed is for cowards and destruction is the only true art. **Secret:** She is the daughter of one of the city's original founders and views the city as her inheritance.
-**'Leadfoot' Thompson** (Law Enforcement - Chief Enforcer) - A cop who loves the chase more than the arrest. **Voice:** Gruff, weary, and prone to shouting over the roar of his engine. **Goal:** To have the most spectacular takedown in the history of the department. **Secret:** He keeps a secret tally of every racer he's 'retired.'
-**'The Phantom'** (Independent - Mystery Racer) - A driver who never speaks and never loses. **Voice:** None (silent). **Goal:** Unknown. **Secret:** He is actually an AI designed by the conglomerate to test the city's limits.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **DJ Atomika** (Independent - Media Personality) - The voice of Paradise City. **Voice:** Energetic, frantic, and barely-contained excitement. **Goal:** To keep the city's pulse racing and the ratings high. **Secret:** He has never actually driven a car in his life and is terrified of speed.
+2.  **'The Baron'** (Criminal - Mob Boss/Racer) - The king of Downtown. **Voice:** Calm, cultured, and deeply dismissive of anyone who isn't 'Elite.' **Goal:** To turn Paradise City into a private playground for his wealthy associates. **Secret:** He is secretly funding the Burnout Underground to keep the races 'interesting.'
+3.  **'Crash' Cassidy** (Independent - Street Racer) - The queen of the takedown. **Voice:** High-energy, sarcastic, and prone to rapid-fire delivery. **Goal:** To prove that speed is for cowards and destruction is the only true art. **Secret:** She is the daughter of one of the city's original founders and views the city as her inheritance.
+4.  **'Leadfoot' Thompson** (Law Enforcement - Chief Enforcer) - A cop who loves the chase more than the arrest. **Voice:** Gruff, weary, and prone to shouting over the roar of his engine. **Goal:** To have the most spectacular takedown in the history of the department. **Secret:** He keeps a secret tally of every racer he's 'retired.'
+5.  **'The Phantom'** (Independent - Mystery Racer) - A driver who never speaks and never loses. **Voice:** None (silent). **Goal:** Unknown. **Secret:** He is actually an AI designed by the conglomerate to test the city's limits.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the pursuit of the 'Perfect Moment'—that split second 
 | 'Turbo' | Street Kid | Residential District | Can whistle the theme song to every Paradise race perfectly. |
 | 'Iron Mike' | Enforcer | The Docks | Has one metallic arm from a racing accident. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Paradise City Downtown
 A soaring, art deco forest of glass and steel.
 *   **The Central Bridge:** A high-speed suspension bridge that is the site of most 'Mid-Air Takedowns.' **Smell:** Exhaust and sea salt. **Sound:** The rhythmic 'thump-thump' of tires on the joints.
@@ -90,7 +93,8 @@ Winding, high-speed curves that test the limits of any car and driver.
 A gothic monument to the city's history of destruction.
 *   **The Crusher:** A massive machine that turns masterpieces into cubes. **Smell:** Old grease and stagnant water. **Sound:** The constant 'clank-hiss' of heavy machinery.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Welcome to Paradise:** Survive your first race in Paradise City. Takedown a rival and get recognized by DJ Atomika.
 2.  **The Baron's Challenge:** Complete a high-stakes race through Downtown without a single scratch. If you fail, the Baron takes your car.
 3.  **Cassidy's Takedown:** Join the Burnout Underground for a 'Destruction Event' at the Harbor Docks. The goal isn't to win; it's to cause  million in property damage.
@@ -99,18 +103,19 @@ A gothic monument to the city's history of destruction.
 6.  **The Scrap Metal Secret:** Retrieve a prototype engine from the Financial District vault. The vault is guarded by 'Leadfoot' Thompson himself.
 7.  **The Paradise Grand Finale:** The ultimate race for the title of 'God of the Asphalt.' The race covers every district and ends in a spectacular three-way showdown atop the Central Bridge.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Atomika Focus
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Atomika Focus:**
 **Type:** Wondrous Item (Radio)
 **Description:** A specialized radio that allows the driver to hear DJ Atomika's 'internal monologue' and predictions.
 **Mechanics:** Grants the driver advantage on all Initiative checks and allows them to 'see' a takedown opportunity 1 round before it happens.
 
-### 2. The Baron's Key
+2.  **The Baron's Key:**
 **Type:** Wondrous Item (Gatestone)
 **Description:** A golden key that opens any garage or vault in Paradise City.
 **Mechanics:** Can be used to 'unlock' a car's potential, granting it a permanent +2 bonus to Speed and Handling.
 
-### 3. Cassidy's Crash Mask
+3.  **Cassidy's Crash Mask:**
 **Type:** Wondrous Item
 **Description:** A rumpled, oil-stained racing helmet that has survived dozens of spectacular crashes.
 **Mechanics:** Makes the wearer immune to damage from their first crash in any session and grants advantage on Charisma (Intimidation) checks.

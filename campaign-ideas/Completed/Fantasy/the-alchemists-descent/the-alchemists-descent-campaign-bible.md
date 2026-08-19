@@ -18,7 +18,8 @@ The World is not a floor; it's a batch that's being cooked by an invisible chemi
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Systemic Injustice.' It is about the 'Human Resilience' of the spirit—the realization that you can have a formula and still have a heart. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single курса in an eternal batch?' It explores the gritty beauty of the dark fantasy, the pride in mastering a chemical formula, and the measured, resonant voice of an alchemist who understands that every second is a gift. The players are the alchemists and guards who must navigate the industrial oppressions and the intensity of a desert battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Albuquerque Chemists (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Walden (equivalent - the alchemist).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Systemic 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with chemical energy.
 
-## [TAG: NPC_TIER_1]
-**Walden** (Order - The Lead) - An alchemist whose voice is measured, contemplative, and resonant. **Voice:** Teacher explaining concepts, desperate hope to cold justification. **Goal:** To protect the 'Humanity' of his family and guide the new alchemists. **Secret:** He is secretly an Adept of 'Chemical-Energy' who can 'rewrite' a soul's destiny through his perfectly balanced batches.
-**Fring** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global chemical into a single 'Global Distribution' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Jesse** (Independent - The Catalyst) - A survivor whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the cartel-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the laboratory noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Fring's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chemical ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Walden** (Order - The Lead) - An alchemist whose voice is measured, contemplative, and resonant. **Voice:** Teacher explaining concepts, desperate hope to cold justification. **Goal:** To protect the 'Humanity' of his family and guide the new alchemists. **Secret:** He is secretly an Adept of 'Chemical-Energy' who can 'rewrite' a soul's destiny through his perfectly balanced batches.
+2.  **Fring** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global chemical into a single 'Global Distribution' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Jesse** (Independent - The Catalyst) - A survivor whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the cartel-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the laboratory noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Fring's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chemical ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Systemic 
 | The Monk | Ancient Worshipper | Chemical Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Desert Wasteland (The Hub)
 A grand stone monument to architecture, laboratories, and sun-bleached light.
 *   **The Laundromat Laboratory:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and chemicals. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and distribution.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Formula Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Cartel Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Edward Run:** Navigate the traditional territories to find Edward. You must identify the 'Chemical-Energy' node before the rivals arrive.
 3.  **The Crystal Heist:** Infiltrate the Cartel HQ to retrieve a stolen 'Formula-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Fring face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Choice (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Choice (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Chemical Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Formula Signet (Equivalent)
+2.  **The Formula Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the formula seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Chemical-Energy Capsule (Equivalent)
+3.  **The Chemical-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Industrial' magic.

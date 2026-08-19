@@ -129,56 +129,56 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 | Name | Role | Race | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- | :--- |
-| Pinch | Line Cook | Crab-Person | Kitchen | Only walks sideways, spills soup. |
-| Vex | Janitor | Imp | Scullery | Cleans with own tongue. |
-| Oolo | Supplier | Grung | Delivery Bay | Pays in poisonous frogs. |
-| X7-9 | Accountant | Construct | Office | Counts on abacus made of knuckles. |
-| Brie | Cheesemonger | Awakened Mouse | Pantry | Fears cats, wields a needle sword. |
-| Thud | Bouncer | Ogre | Front Door | Extremely eloquent poet. |
-| Mist | Server | Air Elemental | Dining Floor | Dissipates when embarrassed. |
-| Clank | Repair | Kobold | Boiler Room | Wears a pot as a helmet. |
-| Sallow | Gardener | Zombie | Greenhouse | Plants grow faster near him. |
-| Echo | Busboy | Ghost | Dining Floor | Drops plates that don't break. |
-| Krill | Fishmonger | Deepfin fishfolk | Freezer | Worships a frozen tuna. |
-| Blaze | Grill Chef | Azer | Hot Line | Beard is literal fire. |
-| Shhh | Librarian | Shadow | Archives | Steals vowels from loud people. |
-| Pop | Baker | Gnome | Bakery | Sneezes flour constantly. |
-| Glug | Plumber | Water Genasi | Restrooms | Can travel through pipes. |
-| Hiss | Pest Control | Scalebound humanoid | Basement | Eats the rats whole. |
-| Fern | Decorator | Firbolg | Lobby | Talks to chairs. |
-| Void | Disposal | Sphere of Annihilation | Alley | Wears a tiny hat. |
-| Scratch | Sous Chef | Rakshasa | Prep Station | Hands are backwards. |
-| Loom | Weaver | Drider | Linen Closet | Makes tablecloths from silk. |
-| Pebble | Masseur | Earth Elemental | Spa | Hands are literal rocks. |
-| Drip | Sauce Chef | Ooze | Sauce Station | Is the sauce (sometimes). |
-| Cog | Timekeeper | Warforged | Clock Tower | Ticks loudly when lying. |
-| Vim | Energy Drink | Living Spell | Bar | Vibrates constantly. |
-| Mort | Butcher | Skeleton | Meat Locker | Uses own rib as knife. |
-| Sash | Host | Changeling | Foyer | Copies customer's face. |
-| Gloom | emo teen | Dark Elf | Corner Table | Writes poetry on napkins. |
-| Bulb | Lighter | Will-o'-Wisp | Ceiling | Changes color with mood. |
-| Snort | Truffler | Wereboar | Forest Door | Smells gold. |
-| Plank | Carpenter | Treant | Workshop | Uses own sap as glue. |
-| Fizz | Bartender | Alchemist | Bar | Drinks experiments. |
-| Gnash | Taster | Mimic | Kitchen | Is actually a stool. |
-| Hoot | Lookout | Owlin | Roof | Sleeps with eyes open. |
-| Scales | Lawyer | Lizardfolk | Office | Eats the evidence. |
-| Puff | Pastry Assistant | Steam Mephit | Oven | Inflates when happy. |
-| Rot | Composter | Shambling Mound | Garden | Smells like potpourri. |
-| Singe | Torch | Magmin | Cellar | Burns wood he touches. |
-| Frost | Ice Carver | Yeti | Freezer | Makes ice sculptures of ex-wives. |
-| Zip | Courier | Quickling | Everywhere | Moves too fast to see. |
-| Maw | Disposal | Otyugh | Trash Compactor | Polite but drools. |
-| Click | Typist | Thri-Kreen | Office | Types with 4 hands. |
-| Shade | Spy | Doppelganger | Rafters | Has no face when alone. |
-| Brine | Pickler | Sea Hag | Pantry | Pickles eyes. |
-| Spore | Fungus Farmer | Myconid | Cellar | Grows mushrooms on self. |
-| Gulp | Drink Tester | Satyr | Wine Cellar | Permanently drunk. |
-| Shift | Valet | Flickerhound | Parking | Teleports cars. |
-| Rattle | Musician | Bones | Stage | Plays ribcage like xylophone. |
-| Gleam | Polisher | Gelatinous Cube (Mini) | Floor | Polishes bones clean. |
-| Dust | Cleaner | Mephit | Attic | Sneezes dust bunnies. |
-| End | Undertaker | Raven Queen Warlock | Back Door | Measures customers for coffins. |
+| **Pinch** | Line Cook | Crab-Person | Kitchen | Only walks sideways, spills soup. |
+| **Vex** | Janitor | Imp | Scullery | Cleans with own tongue. |
+| **Oolo** | Supplier | Grung | Delivery Bay | Pays in poisonous frogs. |
+| **X7-9** | Accountant | Construct | Office | Counts on abacus made of knuckles. |
+| **Brie** | Cheesemonger | Awakened Mouse | Pantry | Fears cats, wields a needle sword. |
+| **Thud** | Bouncer | Ogre | Front Door | Extremely eloquent poet. |
+| **Mist** | Server | Air Elemental | Dining Floor | Dissipates when embarrassed. |
+| **Clank** | Repair | Kobold | Boiler Room | Wears a pot as a helmet. |
+| **Sallow** | Gardener | Zombie | Greenhouse | Plants grow faster near him. |
+| **Echo** | Busboy | Ghost | Dining Floor | Drops plates that don't break. |
+| **Krill** | Fishmonger | Deepfin fishfolk | Freezer | Worships a frozen tuna. |
+| **Blaze** | Grill Chef | Azer | Hot Line | Beard is literal fire. |
+| **Shhh** | Librarian | Shadow | Archives | Steals vowels from loud people. |
+| **Pop** | Baker | Gnome | Bakery | Sneezes flour constantly. |
+| **Glug** | Plumber | Water Genasi | Restrooms | Can travel through pipes. |
+| **Hiss** | Pest Control | Scalebound humanoid | Basement | Eats the rats whole. |
+| **Fern** | Decorator | Firbolg | Lobby | Talks to chairs. |
+| **Void** | Disposal | Sphere of Annihilation | Alley | Wears a tiny hat. |
+| **Scratch** | Sous Chef | Rakshasa | Prep Station | Hands are backwards. |
+| **Loom** | Weaver | Drider | Linen Closet | Makes tablecloths from silk. |
+| **Pebble** | Masseur | Earth Elemental | Spa | Hands are literal rocks. |
+| **Drip** | Sauce Chef | Ooze | Sauce Station | Is the sauce (sometimes). |
+| **Cog** | Timekeeper | Warforged | Clock Tower | Ticks loudly when lying. |
+| **Vim** | Energy Drink | Living Spell | Bar | Vibrates constantly. |
+| **Mort** | Butcher | Skeleton | Meat Locker | Uses own rib as knife. |
+| **Sash** | Host | Changeling | Foyer | Copies customer's face. |
+| **Gloom** | emo teen | Dark Elf | Corner Table | Writes poetry on napkins. |
+| **Bulb** | Lighter | Will-o'-Wisp | Ceiling | Changes color with mood. |
+| **Snort** | Truffler | Wereboar | Forest Door | Smells gold. |
+| **Plank** | Carpenter | Treant | Workshop | Uses own sap as glue. |
+| **Fizz** | Bartender | Alchemist | Bar | Drinks experiments. |
+| **Gnash** | Taster | Mimic | Kitchen | Is actually a stool. |
+| **Hoot** | Lookout | Owlin | Roof | Sleeps with eyes open. |
+| **Scales** | Lawyer | Lizardfolk | Office | Eats the evidence. |
+| **Puff** | Pastry Assistant | Steam Mephit | Oven | Inflates when happy. |
+| **Rot** | Composter | Shambling Mound | Garden | Smells like potpourri. |
+| **Singe** | Torch | Magmin | Cellar | Burns wood he touches. |
+| **Frost** | Ice Carver | Yeti | Freezer | Makes ice sculptures of ex-wives. |
+| **Zip** | Courier | Quickling | Everywhere | Moves too fast to see. |
+| **Maw** | Disposal | Otyugh | Trash Compactor | Polite but drools. |
+| **Click** | Typist | Thri-Kreen | Office | Types with 4 hands. |
+| **Shade** | Spy | Doppelganger | Rafters | Has no face when alone. |
+| **Brine** | Pickler | Sea Hag | Pantry | Pickles eyes. |
+| **Spore** | Fungus Farmer | Myconid | Cellar | Grows mushrooms on self. |
+| **Gulp** | Drink Tester | Satyr | Wine Cellar | Permanently drunk. |
+| **Shift** | Valet | Flickerhound | Parking | Teleports cars. |
+| **Rattle** | Musician | Bones | Stage | Plays ribcage like xylophone. |
+| **Gleam** | Polisher | Gelatinous Cube (Mini) | Floor | Polishes bones clean. |
+| **Dust** | Cleaner | Mephit | Attic | Sneezes dust bunnies. |
+| **End** | Undertaker | Raven Queen Warlock | Back Door | Measures customers for coffins. |
 
 ---
 
@@ -240,36 +240,36 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Fork | Unit 734 | Find the fork that ran away to the forest. | A self-cleaning spoon. |
-| Spicy Surprise | Balthazar | Harvest peppers from a sleeping dragon's nose. | Fire resistance apron. |
-| Cold Shoulder | Lady Glaze | Deliver soup before it freezes (Time limit). | Ice cubes that never melt. |
-| Rat Problem | Hiss | Kill the "Shadow Rats" in the pantry. | A tail that acts as a belt. |
-| Wine Run | Vintage | Steal wine from a vampire's castle. | Bottle of "Liquid Courage." |
-| Love Letter | Doorkeeper | Deliver a stone rose to the Gargoyle Queen. | Golem strength for 1 hour. |
-| Missing Menu | Remy | Retrieve the menu from a customer who ate it. | Ability to read any language. |
-| Sticky Situation | Dishwasher Prime | Clean the grease trap (It fights back). | Slime companion. |
-| Wedding Cake | Sweetness | Find "Happy Thoughts" in the Dream Realm. | Cake that heals 20HP. |
-| Meat Run | Mort | Hunt a Hydra for unlimited neck meat. | Regenerating ham. |
-| Silence Please | Librarian | Shush the Banshee in the library. | Scroll of Silence. |
-| The Pickle Jar | Brine | Open the jar (DC 30 Strength). | The jar (indestructible). |
-| Fishy Business | Krill | Catch a fish that swims through walls. | X-Ray Goggles. |
-| Soufflé Watch | Pop | Don't let the soufflé fall (Protect from earthquakes). | Hover boots. |
-| Lost Soul | Echo | Find the customer who died in the bathroom. | A ghost tip (secret info). |
-| Garden Pests | Sallow | Remove the carnivorous cabbage. | Living Salad (Pet). |
-| Late Fee | X7-9 | Collect gold from a debt-dodging Demon. | Bag of Holding. |
-| Decor Change | Fern | Re-paint the lobby (Color must be "Hope"). | Paintbrush of Illusion. |
-| Garbage Day | Void | Throw the trash into the literal Sun. | Sunglasses of Coolness. |
-| Taste Test | Gnash | Eat the mystery stew (CON Save). | Cast "Poison Spray" 1/day. |
-| Clockwork Orange | Cog | Fix the orange that ticks. | Clockwork Orange (Grenade). |
-| Heavy Lifting | Pebble | Move the table made of Neutron Star matter. | Potion of Giant Strength. |
-| Hot Potato | Blaze | Pass the potato before it explodes. | Potato bomb. |
-| Ice Sculpture | Frost | Model for a sculpture (Hold still for 4 hours). | Statue of yourself. |
-| Fast Food | Zip | Deliver takeout to a falling wizard. | Boots of Speed. |
-| Bone Broth | Rattle | Find the missing rib for the xylophone. | Bardic Inspiration die. |
-| Shadow Tag | Shade | Catch the shadow that escaped its owner. | Cloak of Hiding. |
-| Mushroom Hunt | Spore | Find the truffle that screams. | Screaming Truffle (Alarm). |
-| Drunken Master | Gulp | Out-drink the Satyr. | Tankard of Sobriety. |
-| The Last Straw | Union Rep | Negotiate better soap for the dishwashers. | The Union's favor. |
+| **The Lost Fork** | Unit 734 | Find the fork that ran away to the forest. | A self-cleaning spoon. |
+| **Spicy Surprise** | Balthazar | Harvest peppers from a sleeping dragon's nose. | Fire resistance apron. |
+| **Cold Shoulder** | Lady Glaze | Deliver soup before it freezes (Time limit). | Ice cubes that never melt. |
+| **Rat Problem** | Hiss | Kill the "Shadow Rats" in the pantry. | A tail that acts as a belt. |
+| **Wine Run** | Vintage | Steal wine from a vampire's castle. | Bottle of "Liquid Courage." |
+| **Love Letter** | Doorkeeper | Deliver a stone rose to the Gargoyle Queen. | Golem strength for 1 hour. |
+| **Missing Menu** | Remy | Retrieve the menu from a customer who ate it. | Ability to read any language. |
+| **Sticky Situation** | Dishwasher Prime | Clean the grease trap (It fights back). | Slime companion. |
+| **Wedding Cake** | Sweetness | Find "Happy Thoughts" in the Dream Realm. | Cake that heals 20HP. |
+| **Meat Run** | Mort | Hunt a Hydra for unlimited neck meat. | Regenerating ham. |
+| **Silence Please** | Librarian | Shush the Banshee in the library. | Scroll of Silence. |
+| **The Pickle Jar** | Brine | Open the jar (DC 30 Strength). | The jar (indestructible). |
+| **Fishy Business** | Krill | Catch a fish that swims through walls. | X-Ray Goggles. |
+| **Soufflé Watch** | Pop | Don't let the soufflé fall (Protect from earthquakes). | Hover boots. |
+| **Lost Soul** | Echo | Find the customer who died in the bathroom. | A ghost tip (secret info). |
+| **Garden Pests** | Sallow | Remove the carnivorous cabbage. | Living Salad (Pet). |
+| **Late Fee** | X7-9 | Collect gold from a debt-dodging Demon. | Bag of Holding. |
+| **Decor Change** | Fern | Re-paint the lobby (Color must be "Hope"). | Paintbrush of Illusion. |
+| **Garbage Day** | Void | Throw the trash into the literal Sun. | Sunglasses of Coolness. |
+| **Taste Test** | Gnash | Eat the mystery stew (CON Save). | Cast "Poison Spray" 1/day. |
+| **Clockwork Orange** | Cog | Fix the orange that ticks. | Clockwork Orange (Grenade). |
+| **Heavy Lifting** | Pebble | Move the table made of Neutron Star matter. | Potion of Giant Strength. |
+| **Hot Potato** | Blaze | Pass the potato before it explodes. | Potato bomb. |
+| **Ice Sculpture** | Frost | Model for a sculpture (Hold still for 4 hours). | Statue of yourself. |
+| **Fast Food** | Zip | Deliver takeout to a falling wizard. | Boots of Speed. |
+| **Bone Broth** | Rattle | Find the missing rib for the xylophone. | Bardic Inspiration die. |
+| **Shadow Tag** | Shade | Catch the shadow that escaped its owner. | Cloak of Hiding. |
+| **Mushroom Hunt** | Spore | Find the truffle that screams. | Screaming Truffle (Alarm). |
+| **Drunken Master** | Gulp | Out-drink the Satyr. | Tankard of Sobriety. |
+| **The Last Straw** | Union Rep | Negotiate better soap for the dishwashers. | The Union's favor. |
 
 ---
 

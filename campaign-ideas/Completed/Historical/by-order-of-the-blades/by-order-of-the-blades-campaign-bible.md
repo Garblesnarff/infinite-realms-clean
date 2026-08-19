@@ -18,7 +18,8 @@ The Soul is not a person; it's a family business. In the soot-stained, industria
 ### The 'Why'
 The central conflict is the struggle for 'Upward Mobility' in a world of 'Systemic Inequality.' It is about the 'Industrial Gothic' of the human spirit—the realization that being a 'King' requires becoming a monster. The 'Why' is the question: 'How much blood are you willing to spill to ensure your family never goes hungry again?' It explores the soot-stained beauty of the factories, the brutal intimacy of the razor-blade duel, and the fierce pride of a man who has already seen the end of the world in the trenches. The players are the members of the Blades who must navigate the subtext of a pub negotiation and the intensity of a cobblestone ambush to find a truth that doesn't belong to the Crown.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Blades (The Family)
 **Type:** Elite/Working-Class Criminal Syndicate
 **Leader:** Thomas (Equivalent - The Strategist).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Upward Mobility' in a world of 'System
 **Asset:** Knowledge of the city's tunnels and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Thomas** (Blades - The Leader) - A man in a perfectly tailored long coat with cold, calculating eyes. **Voice:** Birmingham-accented, sharp, and commanding. **Goal:** To turn the Blades into a legitimate global empire. **Secret:** He is a high-level Adept of 'Grit-Energy' who can 'persuade' an entire crowd through a single menancing look.
-**Inspector Campbell** (Law Enforcement - The Inquisitor) - A man in a rigid police uniform with a secret fear of the dark. **Voice:** Authoritative, disciplined, and filled with a religious passion. **Goal:** To unmask the Blades and restore 'Order' to Birmingham. **Secret:** He is secretly part-Trench, having lost his own soul during the war.
-**Grace** (Independent - The Link) - A beautiful woman who works as a barmaid in the Blades' pub. **Voice:** Soft, melodic, and increasingly conflicted. **Goal:** To survive the mission and find someone she can actually trust. **Secret:** She is a double-agent working for both the SIS and Thomas, trying to find her own third path.
-**Polly** (Blades - The Matriarch) - A woman of art deco elegance and dark-wood sanctuaries. **Voice:** Wise, calculated, and world-weary. **Goal:** To keep the family together and manage the business while the men are at war. **Secret:** She was the first person to use a 'Razor-Cap' in combat.
-**The Rival (Billy)** (London - Charming Villain) - A man in a three-piece suit with a cruel smile. **Voice:** Charming, arrogant, and manipulative. **Goal:** To take control of the Birmingham docks and rule through the London Syndicate. **Secret:** He has a mechanical eye that can see 'Grit-Energy.'
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Thomas** (Blades - The Leader) - A man in a perfectly tailored long coat with cold, calculating eyes. **Voice:** Birmingham-accented, sharp, and commanding. **Goal:** To turn the Blades into a legitimate global empire. **Secret:** He is a high-level Adept of 'Grit-Energy' who can 'persuade' an entire crowd through a single menancing look.
+2.  **Inspector Campbell** (Law Enforcement - The Inquisitor) - A man in a rigid police uniform with a secret fear of the dark. **Voice:** Authoritative, disciplined, and filled with a religious passion. **Goal:** To unmask the Blades and restore 'Order' to Birmingham. **Secret:** He is secretly part-Trench, having lost his own soul during the war.
+3.  **Grace** (Independent - The Link) - A beautiful woman who works as a barmaid in the Blades' pub. **Voice:** Soft, melodic, and increasingly conflicted. **Goal:** To survive the mission and find someone she can actually trust. **Secret:** She is a double-agent working for both the SIS and Thomas, trying to find her own third path.
+4.  **Polly** (Blades - The Matriarch) - A woman of art deco elegance and dark-wood sanctuaries. **Voice:** Wise, calculated, and world-weary. **Goal:** To keep the family together and manage the business while the men are at war. **Secret:** She was the first person to use a 'Razor-Cap' in combat.
+5.  **The Rival (Billy)** (London - Charming Villain) - A man in a three-piece suit with a cruel smile. **Voice:** Charming, arrogant, and manipulative. **Goal:** To take control of the Birmingham docks and rule through the London Syndicate. **Secret:** He has a mechanical eye that can see 'Grit-Energy.'
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Upward Mobility' in a world of 'System
 | The Monk | Ancient Worshipper | Church of the Trench | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Blades Admin | Headquarters | Only communicates through a rhythmic 'Order of Progress' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Garrison Pub (Blades HQ)
 A warm, inviting sanctuary that hides a cold, controlling interior.
 *   **The Back Room:** Where the 'Grand Strategy' is discussed. **Smell:** Stale whiskey, tobacco, and expensive perfume. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A high-contrast nightmare of red brick factories and smog-filled skies.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Strike:** Arrive in Birmingham as a new recruit. You must participate in your first 'Pub Standoff' against a rival gang while maintaining your 'Honor Level.'
 2.  **The Razor-Cap Heist:** Infiltrate a London Syndicate warehouse to retrieve a shipment of stolen weapons. You must use your 'Razor-Blade' intuition to win the battle.
 3.  **The Inspector's Gambit:** Meet Inspector Campbell in a moonlit alley. He offers a 'Safe Moment' and a chance to betray the Blades. Do you trust the man of faith?
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Political Standoff:** Present your findings to the gathered workers. You must use your 'Grit-Energy' to win their loyalty and trigger a strike.
 7.  **The Final Bloodletting:** Face Billy and the London Syndicate face-to-face in a final, public duel in the city square. The truth is revealed—will you wear the cap or restore the Crown?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Master Razor-Cap
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Master Razor-Cap:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A perfectly tailored flat cap with an integrated blade of pure starlight.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Order of the Blade' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Thomas's Pocket Watch
+2.  **The Thomas's Pocket Watch:**
 **Type:** Wondrous Item
 **Description:** A gold watch that never loses a second and hums with the key of the first Strategist.
 **Mechanics:** Grants the user the ability to 'Authorize' any action, making it immune to political obstacles for 1 hour. Once per day, the user can 'Freeze' a reality-tear.
 
-### 3. The Family Ledger
+3.  **The Family Ledger:**
 **Type:** Artifact (Tome)
 **Description:** A thick, clinical book that contains the records of every member of the Blades.
 **Mechanics:** Grants the holder advantage on all Intelligence (Investigation) and Wisdom (Insight) checks inside Birmingham. **Curse:** The holder is hunted by the London Syndicate.

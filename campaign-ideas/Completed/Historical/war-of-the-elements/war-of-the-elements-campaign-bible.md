@@ -126,56 +126,56 @@ The conflict exists because the **Cognitive Anchor** has slipped. The collective
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Gribble | Mud-Farmer | Earth Zone | Eats dirt to taste the pH level. |
-| Vosh | Cloud-Herder | Air Zone | Tethered to the ground by a heavy iron ball. |
-| Flame-kin Ash | Ember-Smith | Fire Zone | Sneezes sparks that ignite drapes. |
-| Drip | Water-Scribe | Water Zone | Writes on ice; panics when it melts. |
-| Sergeant Brick | Gate Guard | Modality Refuge | Only allows people in who can tell a joke. |
-| Lira | Star-Gazer | Neutral Zone | Wears glasses made of obsidian; sees ghosts. |
-| Bop | Percussionist | Bard College | Plays drums on people's armor during battle. |
-| Sizz | Cook | Leo's Court | Cooks only insects; claims they are prawns. |
-| Granite-Face | Bouncer | Tavern | Has a literal granite face; uses chalk to smile. |
-| Windy Miller | Miller | Air Zone | Grinds clouds into flour (it tastes like nothing). |
-| Pinch | Crab-Trainer | Cancer Coast | Communicates only by clicking tongs. |
-| Void-Eye Joe | Beggar | Slums | Sells "jars of darkness" (empty jars). |
-| Tock | Watchmaker | Capricorn City | Obsessed with the concept of "5:00 PM". |
-| Sparky | Arsonist | Fire Prison | Apologizes profusely while lighting fires. |
-| Mistress Web | Weaver | Scorpio Den | Weaves secrets into scarves; reading them causes madness. |
-| Bubble-Boy | Diver | Pisces Reef | Lives inside a giant unpoppable bubble. |
-| Codex | Librarian | Virgo Archive | Shushes people so hard they take physical damage. |
-| Bolt | Courier | Gemini Spire | Runs so fast his clothes catch fire. |
-| Bloom | Florist | Taurus Garden | Grows flowers that scream when picked. |
-| Rusty | Mechanic | Junkyard | Talks to machines; claims they are depressed. |
-| Echo | Spy | Air Zone | Repeats the last word of every sentence. Sentence. |
-| Puddle | Janitor | Water Zone | Is made of water; mops himself up. |
-| Cinder | Baker | Fire Zone | Bakes bread that stays hot for 10 years. |
-| Pebble | Child | Earth Zone | Collects rocks that look like famous generals. |
-| Zephyr | Kite-Maker | Air Zone | Afraid of heights; flies kites from a basement. |
-| Gloom | Poet | Void Cult | Rhymes everything with "death" or "breath". |
-| Shard | Glassblower | Fire/Earth Border | Blows glass into shapes of future events. |
-| Dew | Medic | Water Front | Heals people by crying on them. |
-| Crunch | Miner | Earth Deep | Chews on diamonds like hard candy. |
-| Whisp | Thief | Air Docks | Steals sounds; carries a bag of stolen whispers. |
-| Torch | Lamp-Lighter | Fire City | Believes the streetlamps are watching him. |
-| Root | Herbalist | Earth Forest | Planted himself in a pot; refuses to move. |
-| Scale | Merchant | Libra Market | Weighs souls instead of gold. |
-| Fin | Fisher | Pisces Lake | Fishes for compliments, literally. |
-| Dust | Cleaner | Modality Refuge | Is allergic to dust; lives in a bubble suit. |
-| Ember-Eye | Sniper | Sagittarius Range | Has a telescopic eye that zooms with a mechanical whir. |
-| Slate | Architect | Capricorn Hold | Designs buildings with no doors. |
-| Breeze | Dancer | Aquarius Hall | Dances without touching the floor. |
-| Shell | Armorer | Cancer Fort | Makes armor out of giant discarded lobster shells. |
-| Venom | Alchemist | Scorpio Lab | Drinks poison to build immunity; skin is green. |
-| Dream | Oracle | Pisces Temple | Sleeps 23 hours a day; speaks in sleep. |
-| Gear | Tinker | Virgo Factory | Replaced his own nose with a whistle. |
-| Bull | Porter | Taurus Gate | Carries four cows at once. |
-| Flash | Photographer | Gemini Studio | Captures souls in film (allegedly). |
-| Void-Rat | Pest | Sewers | A rat that learned to speak common; rude. |
-| Glint | Jeweler | Leo Palace | Polishes gems until they disappear. |
-| Tremor | Seismologist | Earth Zone | Faints whenever the ground shakes. |
-| Gust | Fan-Bearer | Air Court | Blows people away when he sneezes. |
-| Splash | Laundress | Water Zone | Washes clothes in acid; they come out very clean. |
-| Null | Cultist | Void Temple | Has erased his own face features. |
+| **Gribble** | Mud-Farmer | Earth Zone | Eats dirt to taste the pH level. |
+| **Vosh** | Cloud-Herder | Air Zone | Tethered to the ground by a heavy iron ball. |
+| **Flame-kin Ash** | Ember-Smith | Fire Zone | Sneezes sparks that ignite drapes. |
+| **Drip** | Water-Scribe | Water Zone | Writes on ice; panics when it melts. |
+| **Sergeant Brick** | Gate Guard | Modality Refuge | Only allows people in who can tell a joke. |
+| **Lira** | Star-Gazer | Neutral Zone | Wears glasses made of obsidian; sees ghosts. |
+| **Bop** | Percussionist | Bard College | Plays drums on people's armor during battle. |
+| **Sizz** | Cook | Leo's Court | Cooks only insects; claims they are prawns. |
+| **Granite-Face** | Bouncer | Tavern | Has a literal granite face; uses chalk to smile. |
+| **Windy Miller** | Miller | Air Zone | Grinds clouds into flour (it tastes like nothing). |
+| **Pinch** | Crab-Trainer | Cancer Coast | Communicates only by clicking tongs. |
+| **Void-Eye Joe** | Beggar | Slums | Sells "jars of darkness" (empty jars). |
+| **Tock** | Watchmaker | Capricorn City | Obsessed with the concept of "5:00 PM". |
+| **Sparky** | Arsonist | Fire Prison | Apologizes profusely while lighting fires. |
+| **Mistress Web** | Weaver | Scorpio Den | Weaves secrets into scarves; reading them causes madness. |
+| **Bubble-Boy** | Diver | Pisces Reef | Lives inside a giant unpoppable bubble. |
+| **Codex** | Librarian | Virgo Archive | Shushes people so hard they take physical damage. |
+| **Bolt** | Courier | Gemini Spire | Runs so fast his clothes catch fire. |
+| **Bloom** | Florist | Taurus Garden | Grows flowers that scream when picked. |
+| **Rusty** | Mechanic | Junkyard | Talks to machines; claims they are depressed. |
+| **Echo** | Spy | Air Zone | Repeats the last word of every sentence. Sentence. |
+| **Puddle** | Janitor | Water Zone | Is made of water; mops himself up. |
+| **Cinder** | Baker | Fire Zone | Bakes bread that stays hot for 10 years. |
+| **Pebble** | Child | Earth Zone | Collects rocks that look like famous generals. |
+| **Zephyr** | Kite-Maker | Air Zone | Afraid of heights; flies kites from a basement. |
+| **Gloom** | Poet | Void Cult | Rhymes everything with "death" or "breath". |
+| **Shard** | Glassblower | Fire/Earth Border | Blows glass into shapes of future events. |
+| **Dew** | Medic | Water Front | Heals people by crying on them. |
+| **Crunch** | Miner | Earth Deep | Chews on diamonds like hard candy. |
+| **Whisp** | Thief | Air Docks | Steals sounds; carries a bag of stolen whispers. |
+| **Torch** | Lamp-Lighter | Fire City | Believes the streetlamps are watching him. |
+| **Root** | Herbalist | Earth Forest | Planted himself in a pot; refuses to move. |
+| **Scale** | Merchant | Libra Market | Weighs souls instead of gold. |
+| **Fin** | Fisher | Pisces Lake | Fishes for compliments, literally. |
+| **Dust** | Cleaner | Modality Refuge | Is allergic to dust; lives in a bubble suit. |
+| **Ember-Eye** | Sniper | Sagittarius Range | Has a telescopic eye that zooms with a mechanical whir. |
+| **Slate** | Architect | Capricorn Hold | Designs buildings with no doors. |
+| **Breeze** | Dancer | Aquarius Hall | Dances without touching the floor. |
+| **Shell** | Armorer | Cancer Fort | Makes armor out of giant discarded lobster shells. |
+| **Venom** | Alchemist | Scorpio Lab | Drinks poison to build immunity; skin is green. |
+| **Dream** | Oracle | Pisces Temple | Sleeps 23 hours a day; speaks in sleep. |
+| **Gear** | Tinker | Virgo Factory | Replaced his own nose with a whistle. |
+| **Bull** | Porter | Taurus Gate | Carries four cows at once. |
+| **Flash** | Photographer | Gemini Studio | Captures souls in film (allegedly). |
+| **Void-Rat** | Pest | Sewers | A rat that learned to speak common; rude. |
+| **Glint** | Jeweler | Leo Palace | Polishes gems until they disappear. |
+| **Tremor** | Seismologist | Earth Zone | Faints whenever the ground shakes. |
+| **Gust** | Fan-Bearer | Air Court | Blows people away when he sneezes. |
+| **Splash** | Laundress | Water Zone | Washes clothes in acid; they come out very clean. |
+| **Null** | Cultist | Void Temple | Has erased his own face features. |
 
 ---
 
@@ -245,36 +245,36 @@ The conflict exists because the **Cognitive Anchor** has slipped. The collective
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Sneeze | Windy Miller | Catch a runaway living sneeze in a jar. | Bag of Wind |
-| The Sad Rock | Gribble | Cheer up a depressed boulder. | Pet Rock (It bites) |
-| Fire & Ice Cream | Sizz | Deliver ice cream to the Fire Plane before it melts. | Ever-Hot Spoon |
-| The Reverse Debt | Prefect Zyx | Collect a debt that hasn't been incurred yet. | Future Coin |
-| The Missing Shadow | Shadowlord Mortis | Find a shadow that detached from its owner. | Cloak of Blurring |
-| The Loud Librarian | Codex | Silence the screaming books in the forbidden section. | Silence Spell Scroll |
-| The Love Letter | Marshal Valorian | Deliver a letter to a Virgo general without being shot. | Fire Medal |
-| The Rusty Gear | Rusty | Find oil for a robot that thinks it's a dog. | Mechanical Dog Whistle |
-| The Impossible Knot | Castor | Untie a knot made of water. | Fluid Rope |
-| The Void Cat | Void-Eye Joe | Catch a cat that phases through walls. | Phase-Shift Ring |
-| The Heavy Cloud | Vosh | Push a lead-filled cloud out of the flight path. | Featherfall Boots |
-| The Angry Tofu | Bloom | Harvest carnivorous tofu plants. | Vegetarian Ration Pack |
-| The Naked Emperor | Empress Solara | Find the Emperor's "invisible clothes" (they were stolen). | Gold Silk Robe |
-| The Crying Sword | Dew | Comfort a sword that weeps blood. | Sword of Empathy |
-| The backwards Walk | Retrograde Cult | Walk backwards through a dungeon to reset a trap. | Time-Step Boots |
-| The Color Thief | Glint | Find who stole the color "Red" from the tapestry. | Prism Shield |
-| The Whispering Wall | Echo | Record a secret whispered by a wall. | Wall-Climb Gloves |
-| The Boiling Fish | Fin | Save fish from a lake that is turning to soup. | Trident of Cooking |
-| The Stone Soup | Pebble | Find a specific flavor of granite for a soup. | Potion of Stone Skin |
-| The Flying Pig | Zephyr | It's not a metaphor. Catch the pig. | Flying Ham |
-| The Lonely Ghost | Lira | Find a date for a ghost. | Ethereal Amulet |
-| The Musical Lock | Bop | Pick a lock by playing the right drum beat. | Bardic Inspiration Die |
-| The Wet Fire | Sparky | Light a fire underwater using magical wood. | Waterproof Matches |
-| The Dream Eater | Dream | Kill a nightmare manifesting in the real world. | Dreamcatcher Shield |
-| The Rude Rat | Void-Rat | Evict the rat from the sewer palace. | Sewer Map |
-| The Infinite Stair | Slate | Climb a stair that adds steps as you go. | Endurance Potion |
-| The Frozen Flame | Cinder | Thaw out a frozen fire elemental. | Frostfire Dagger |
-| The Glass slipper | Shard | Steal a glass shoe from a lava field. | Fire-Walk Boots |
-| The Binary Choice | Archon Analytica | Solve a logic puzzle to open a gate. | Logic Monocle |
-| The Final Drink | Baron Empty | Drink the Void Wine and survive the hangover. | Resistance to Necrotic |
+| **The Lost Sneeze** | Windy Miller | Catch a runaway living sneeze in a jar. | Bag of Wind |
+| **The Sad Rock** | Gribble | Cheer up a depressed boulder. | Pet Rock (It bites) |
+| **Fire & Ice Cream** | Sizz | Deliver ice cream to the Fire Plane before it melts. | Ever-Hot Spoon |
+| **The Reverse Debt** | Prefect Zyx | Collect a debt that hasn't been incurred yet. | Future Coin |
+| **The Missing Shadow** | Shadowlord Mortis | Find a shadow that detached from its owner. | Cloak of Blurring |
+| **The Loud Librarian** | Codex | Silence the screaming books in the forbidden section. | Silence Spell Scroll |
+| **The Love Letter** | Marshal Valorian | Deliver a letter to a Virgo general without being shot. | Fire Medal |
+| **The Rusty Gear** | Rusty | Find oil for a robot that thinks it's a dog. | Mechanical Dog Whistle |
+| **The Impossible Knot** | Castor | Untie a knot made of water. | Fluid Rope |
+| **The Void Cat** | Void-Eye Joe | Catch a cat that phases through walls. | Phase-Shift Ring |
+| **The Heavy Cloud** | Vosh | Push a lead-filled cloud out of the flight path. | Featherfall Boots |
+| **The Angry Tofu** | Bloom | Harvest carnivorous tofu plants. | Vegetarian Ration Pack |
+| **The Naked Emperor** | Empress Solara | Find the Emperor's "invisible clothes" (they were stolen). | Gold Silk Robe |
+| **The Crying Sword** | Dew | Comfort a sword that weeps blood. | Sword of Empathy |
+| **The backwards Walk** | Retrograde Cult | Walk backwards through a dungeon to reset a trap. | Time-Step Boots |
+| **The Color Thief** | Glint | Find who stole the color "Red" from the tapestry. | Prism Shield |
+| **The Whispering Wall** | Echo | Record a secret whispered by a wall. | Wall-Climb Gloves |
+| **The Boiling Fish** | Fin | Save fish from a lake that is turning to soup. | Trident of Cooking |
+| **The Stone Soup** | Pebble | Find a specific flavor of granite for a soup. | Potion of Stone Skin |
+| **The Flying Pig** | Zephyr | It's not a metaphor. Catch the pig. | Flying Ham |
+| **The Lonely Ghost** | Lira | Find a date for a ghost. | Ethereal Amulet |
+| **The Musical Lock** | Bop | Pick a lock by playing the right drum beat. | Bardic Inspiration Die |
+| **The Wet Fire** | Sparky | Light a fire underwater using magical wood. | Waterproof Matches |
+| **The Dream Eater** | Dream | Kill a nightmare manifesting in the real world. | Dreamcatcher Shield |
+| **The Rude Rat** | Void-Rat | Evict the rat from the sewer palace. | Sewer Map |
+| **The Infinite Stair** | Slate | Climb a stair that adds steps as you go. | Endurance Potion |
+| **The Frozen Flame** | Cinder | Thaw out a frozen fire elemental. | Frostfire Dagger |
+| **The Glass slipper** | Shard | Steal a glass shoe from a lava field. | Fire-Walk Boots |
+| **The Binary Choice** | Archon Analytica | Solve a logic puzzle to open a gate. | Logic Monocle |
+| **The Final Drink** | Baron Empty | Drink the Void Wine and survive the hangover. | Resistance to Necrotic |
 
 ---
 

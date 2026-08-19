@@ -18,7 +18,8 @@ The Land is not a place; it's a memory that can be stolen. In the vast, sun-dren
 ### The 'Why'
 The central conflict is the struggle for 'Trust' in a world of absolute deception. It is about the 'Psychological Horror' of the atmospheric dread—the realization that your neighbor, your friend, or even your own shadow might be a Skinwalker. The 'Why' is the question: 'Can ancient tradition and respect for sacred laws overcome a magic that can take any form?' It explores the beauty of the stark landscape, the visceral terror of the transformation, and the hushed tones of a man who knows the old ways and reluctantly shares them. The players are the residents and investigators who must navigate the taboos and sacred sites to find a truth that doesn't belong to the night.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Hogan Guardians (The Elders)
 **Type:** Traditional/Spiritual Defense Order
 **Leader:** Hosteen (The Elder - Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Trust' in a world of absolute deceptio
 **Asset:** Numbers, knowledge of the vast empty spaces, and a total disregard for human territory.
 **Rivals:** Anyone in the desert at night.
 
-## [TAG: NPC_TIER_1]
-**Hosteen (The Elder)** (Guardian - Visionary Leader) - An old man with a low, careful voice and a southwestern accent. **Voice:** Hushed, deliberate, and filled with deep respect and fear. **Goal:** To protect the people and preserve the sacred laws. **Secret:** He was once a Skinwalker apprentice who 'escaped' the coven by sacrificing his own sight.
-**The First Witch** (Skinwalker - The Mastermind) - A being who appears as a normal woman but has 'Wrong Eye Reflections.' **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To steal every soul on the reservation and become the 'Ultimate Star' of the night. **Secret:** She is the player character's biological ancestor, the one who first performed the ritual.
-**Captain Jim** (Mundane - Skeptical Partner) - A man in a crisp police uniform with a secret fear of the dark. **Voice:** Pragmatic, authoritative, and world-weary. **Goal:** To maintain order and solve the 'Livestock Mutilation' cases using real police work. **Secret:** He knows about the Skinwalkers but believes that speaking of them gives them power.
-**Dr. Grey (Ghost)** (Independent - Expert/Rationalist) - A man with a clinical bedside manner and high-tech goggles. **Voice:** Precise, tinkling, and clinical. **Goal:** To harvest Skinwalker DNA and find a 'Biological Cure' for the transformation. **Secret:** He is secretly working for a corporate syndicate that wants to weaponize the 'Skin-Tech.'
-**The Coyote (Shadow)** (Skinwalker equivalent - Shifting form) - A massive, intelligent animal that stands on its hind legs. **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for forbidden magic.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Hosteen (The Elder)** (Guardian - Visionary Leader) - An old man with a low, careful voice and a southwestern accent. **Voice:** Hushed, deliberate, and filled with deep respect and fear. **Goal:** To protect the people and preserve the sacred laws. **Secret:** He was once a Skinwalker apprentice who 'escaped' the coven by sacrificing his own sight.
+2.  **The First Witch** (Skinwalker - The Mastermind) - A being who appears as a normal woman but has 'Wrong Eye Reflections.' **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To steal every soul on the reservation and become the 'Ultimate Star' of the night. **Secret:** She is the player character's biological ancestor, the one who first performed the ritual.
+3.  **Captain Jim** (Mundane - Skeptical Partner) - A man in a crisp police uniform with a secret fear of the dark. **Voice:** Pragmatic, authoritative, and world-weary. **Goal:** To maintain order and solve the 'Livestock Mutilation' cases using real police work. **Secret:** He knows about the Skinwalkers but believes that speaking of them gives them power.
+4.  **Dr. Grey (Ghost)** (Independent - Expert/Rationalist) - A man with a clinical bedside manner and high-tech goggles. **Voice:** Precise, tinkling, and clinical. **Goal:** To harvest Skinwalker DNA and find a 'Biological Cure' for the transformation. **Secret:** He is secretly working for a corporate syndicate that wants to weaponize the 'Skin-Tech.'
+5.  **The Coyote (Shadow)** (Skinwalker equivalent - Shifting form) - A massive, intelligent animal that stands on its hind legs. **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for forbidden magic.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Trust' in a world of absolute deceptio
 | The Monk | Ancient Worshipper | Mission Library | Spends all his time painting murals of the 'Forbidden Beginning.' |
 | The Clerk | Tribal Admin | Headquarters | Only communicates through a rhythmic 'Sacred Stamp.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Sacred Hogan (Guardian HQ)
 A traditional Navajo dwelling built on spiritual anchors.
 *   **The Fire Pit:** A site of 'Spiritual Sanctuary' and warm amber light. **Smell:** Juniper smoke, sage, and old earth. **Sound:** The rhythmic 'bong-bong' of a distant drum.
@@ -90,7 +93,8 @@ A dark, reality-distorting monument to forbidden magic and taboos.
 A mundane, gray building where life happens between the horrors.
 *   **The Porch:** Where the newsie sits to watch the people. **Visual:** A single flickering yellow light in the fog. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Sighting:** Wake up in your hogan to see a massive coyote standing outside. You must escape the 'Animal Ambush' using only your 'Spiritual intuition.'
 2.  **The Elder's Lesson:** Visit Hosteen to learn the first 'Sacred Law.' You must identify a 'Skinwalker in disguise' among the residents without alerting them.
 3.  **The Pelt Heist:** Infiltrate the Hidden Cave to retrieve a stolen 'Spiritual Mask.' You must bypass the 'Shadow-Guard' and the First Witch's seduction.
@@ -99,18 +103,19 @@ A mundane, gray building where life happens between the horrors.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the First Witch's secret vault.
 7.  **The Final Bloodletting at Dawn:** Face the First Witch face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the skin or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Mask of the First Witch
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Mask of the First Witch:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A mask made of white clay and human-eyed coyote fur.
 **Mechanics:** Grants the wearer the ability to 'Shift' into any animal form for 1 hour. Once per day, the wearer can 'Silence' a target's memory for 1 minute.
 
-### 2. The Hogan Anchor
+2.  **The Hogan Anchor:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Guardian.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Taboo' magic.
 
-### 3. The Sacred Law Scroll
+3.  **The Sacred Law Scroll:**
 **Type:** Wondrous Item (Tome)
 **Description:** A thick, case file manila folder containing the original laws.
 **Mechanics:** Grants the holder advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Saturated Oranges' and loses all capacity for empathy.

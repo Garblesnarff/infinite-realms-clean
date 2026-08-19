@@ -18,7 +18,8 @@ The World is not a floor; it's a dragon that's waking up from a long sleep. In t
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Destiny.' It is about the 'Heroic Defiance' of the human spirit—the realization that you are the one who chooses the words of the world. The 'Why' is the question: 'Can you remain human when your soul is that of a dragon, destined to consume the very world you love?' It explores the rugged beauty of the northern landscape, the pride in mastering the Thu'um, and the earth-shaking, resonant voice of a hero who understands that every shout is a prayer. The players are the dragonborn and warriors who must navigate the civil war and the intensity of a dragon-soul absorption to find a truth that stays solid in the cold.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Greybeards (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** Arngeir (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Destiny.'
 **Asset:** Black scales, reality-tearing fire, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Arngeir** (Order - The Lead) - A man whose voice is deep, resonant, and earth-shaking. **Voice:** Resonant, earth-shaking, and prophetic. **Goal:** To protect the 'Way of the Voice' and guide the Dragonborn. **Secret:** He is secretly an Adept of 'Dragon-Energy' who can 'rewrite' a soul's destiny through his whispered words.
-**Alduin** (Shadow - The Villain) - A being that looks and sounds like a massive, black dragon. **Voice:** Terrifying, majestic, and elemental. **Goal:** To complete the 'Final Devouring' and reset the universe. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Paarthurnax** (Independent - The Catalyst) - A dragon whose voice is wise, calculated, and world-weary. **Voice:** Strong, clear, and filled with divine passion. **Goal:** To stop the world-eater and restore the 'Crescent Harmony' (equivalent). **Secret:** she is the only person who can 'hear' the original Song of the World through the dragon-fire.
-**Delphine** (Independent - The Mentor) - A woman whose body is a map of countless dragon-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To restore the Blades and find a way to kill the world-eater. **Secret:** She has discovered a 'Vulnerability' in the dragon's armor that she's too professional to share.
-**Ulfric (Ghost)** (Independent - The Lead) - A resilient commander in heavy fur armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the dragon-shout ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Arngeir** (Order - The Lead) - A man whose voice is deep, resonant, and earth-shaking. **Voice:** Resonant, earth-shaking, and prophetic. **Goal:** To protect the 'Way of the Voice' and guide the Dragonborn. **Secret:** He is secretly an Adept of 'Dragon-Energy' who can 'rewrite' a soul's destiny through his whispered words.
+2.  **Alduin** (Shadow - The Villain) - A being that looks and sounds like a massive, black dragon. **Voice:** Terrifying, majestic, and elemental. **Goal:** To complete the 'Final Devouring' and reset the universe. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Paarthurnax** (Independent - The Catalyst) - A dragon whose voice is wise, calculated, and world-weary. **Voice:** Strong, clear, and filled with divine passion. **Goal:** To stop the world-eater and restore the 'Crescent Harmony' (equivalent). **Secret:** she is the only person who can 'hear' the original Song of the World through the dragon-fire.
+4.  **Delphine** (Independent - The Mentor) - A woman whose body is a map of countless dragon-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To restore the Blades and find a way to kill the world-eater. **Secret:** She has discovered a 'Vulnerability' in the dragon's armor that she's too professional to share.
+5.  **Ulfric (Ghost)** (Independent - The Lead) - A resilient commander in heavy fur armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the dragon-shout ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Destiny.'
 | The Monk | Ancient Worshipper | Dragon Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Whiterun (The Hub)
 A grand timber and stone monument to architectural grandeur and dragon lore.
 *   **The Dragonsreach:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Vanilla, old wood, and expensive perfume. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and ancient stone.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Hall of Valor:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Ingestion:** Wake up in a border cell. You must survive your first 'Dragon Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Greybeard Run:** Navigate the traditional territories to find Arngeir. You must identify the 'Dragon-Energy' node before the rivals arrive.
 3.  **The Word Wall Heist:** Infiltrate a rival ruin to retrieve a stolen 'Shout-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Alduin face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Dragon (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Dragon (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Dragon-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Dragon-Energy Capsule (Equivalent)
+3.  **The Dragon-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Shout' magic.

@@ -18,7 +18,8 @@ The World is not a nation; it's a televised execution. In the heart of the opule
 ### The 'Why'
 The central conflict is the struggle between 'Performance' and 'Authenticity.' It is about the 'Human Insignificance' of being a tribute—the realization that your life is a toy for the elite. The 'Why' is the question: 'Can you remain human in an arena designed to turn you into a beast?' It explores the decadent baroque of the Capital, the visceral horror of the muttation, and the weary, damaged voice of a survivor who has already seen the end of the world in the arena. The players are the tributes, mentors, and rebels who must navigate the subtext of a sponsor interview and the intensity of a forest fire to find a resolution that honors the memory of the fallen.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Capital Elite (The Sovereigns)
 **Type:** Decadent/Totalitarian Urban Superpower
 **Leader:** President Bloodworth (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Performance' and 'Authenticity.' I
 **Asset:** Lifelong training, superior gear, and a belief in the 'Glory' of the Games.
 **Rivals:** The District Tributes.
 
-## [TAG: NPC_TIER_1]
-**President Carmina Bloodworth** (Elite - The Leader) - A woman in extreme haute couture with a deceptively gentle voice. **Voice:** Smooth, refined, and measured. **Goal:** To maintain the Capital's order through the 'spectacle' of the Games. **Secret:** She is a high-level Adept of 'Fame-Energy' who can 'delete' entire families from existence through a single command.
-**Maximus Aurelius** (Capital - The Host) - A man in a jeweled suit with a theatrical flair. **Voice:** Rich, theatrical, and building to crescendos. **Goal:** To make every Tribute a 'Star' and keep the ratings high. **Secret:** He secretly funds the District Rebels to keep the 'Conflict' interesting.
-**Seneca Nightweave** (Gamemaker - The Expert) - A man in a perfectly tailored business suit with a technical vocabulary. **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To turn the Arena into a masterpiece of 'Technological Horror.' **Secret:** He is already part-Muttation, having experimented on his own DNA to survive the Capital's internal politics.
-**Brutus Stone** (Mentor - The Survivor) - A man in ruined clothes who smells of stale whiskey. **Voice:** Gravelly, damaged, and cynical. **Goal:** To get his Tributes home alive, or at least keep them sober. **Secret:** He has won the Games three times, but his soul is still trapped in the arena.
-**Kaelith Swiftarrow** (Career - The Warrior) - A woman in polished armor with military precision. **Voice:** Clear, confident, and commanding. **Goal:** To win the Games and bring 'Glory' back to District 1. **Secret:** She was the first Tribute to 'hear' the original Song of the Districts through the Capital's propaganda.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **President Carmina Bloodworth** (Elite - The Leader) - A woman in extreme haute couture with a deceptively gentle voice. **Voice:** Smooth, refined, and measured. **Goal:** To maintain the Capital's order through the 'spectacle' of the Games. **Secret:** She is a high-level Adept of 'Fame-Energy' who can 'delete' entire families from existence through a single command.
+2.  **Maximus Aurelius** (Capital - The Host) - A man in a jeweled suit with a theatrical flair. **Voice:** Rich, theatrical, and building to crescendos. **Goal:** To make every Tribute a 'Star' and keep the ratings high. **Secret:** He secretly funds the District Rebels to keep the 'Conflict' interesting.
+3.  **Seneca Nightweave** (Gamemaker - The Expert) - A man in a perfectly tailored business suit with a technical vocabulary. **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To turn the Arena into a masterpiece of 'Technological Horror.' **Secret:** He is already part-Muttation, having experimented on his own DNA to survive the Capital's internal politics.
+4.  **Brutus Stone** (Mentor - The Survivor) - A man in ruined clothes who smells of stale whiskey. **Voice:** Gravelly, damaged, and cynical. **Goal:** To get his Tributes home alive, or at least keep them sober. **Secret:** He has won the Games three times, but his soul is still trapped in the arena.
+5.  **Kaelith Swiftarrow** (Career - The Warrior) - A woman in polished armor with military precision. **Voice:** Clear, confident, and commanding. **Goal:** To win the Games and bring 'Glory' back to District 1. **Secret:** She was the first Tribute to 'hear' the original Song of the Districts through the Capital's propaganda.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Performance' and 'Authenticity.' I
 | The Guard | Peacekeeper | District Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Arena Ruins | Spends all his time painting murals of the 'Games' Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Capital Vermillion (The Hub)
 A decadent baroque monument to cyberpunk excess and crystal spires.
 *   **The Presidential Balcony:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Expensive perfume, bleach, and gold leaf. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ An industrial revolution monument to coal dust and muted grays.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Private Suite:** Where the 'Final Strategy' is discussed. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Reaping:** Experience the choice. You must survive your first 'Psychological Break' and find a way to maintain your 'Humanity' level during the parade.
 2.  **The Training Heist:** Infiltrate the Gamemaker's Interface to retrieve a shipment of stolen medicines. You must use your 'Fame-Energy' to win sponsor gifts.
 3.  **The Bloodbath:** The Games begin. You must escape the central Cornucopia while your own reality is skipping frames.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Act of Defiance:** The final three Tributes are ordered to kill each other. You must lead a 'Berry-Standoff' to force a change in the rules.
 7.  **The Final Coronation:** Face President Bloodworth face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Mockingjay Pin
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Mockingjay Pin:**
 **Type:** Wondrous Item (Jewelry)
 **Description:** A simple, gold pin of a bird in flight with an arrow.
 **Mechanics:** Grants the wearer +5 to all Charisma (Persuasion and Performance) checks and allows them to 'Command' any non-royal District citizen.
 
-### 2. Seneca's Interface
+2.  **Seneca's Interface:**
 **Type:** Artifact (Focus)
 **Description:** A small, high-tech radio that hums with the key of the Gamemakers.
 **Mechanics:** Grants the user the ability to 'See' any communication within 1 mile. Once per day, the user can 'Lock' a target's reality for 1 hour.
 
-### 3. The Bread of District 11
+3.  **The Bread of District 11:**
 **Type:** Wondrous Item
 **Description:** A simple, warm loaf of bread that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

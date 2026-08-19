@@ -18,7 +18,8 @@ The World is not a floor; it's a scroll that's being painted by an invisible bru
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Bureaucracy.' It is about the 'Heroic Resilience' of the spirit—the realization that you need the mischief of the heart to appreciate the wisdom of the mind. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single stroke in an eternal scroll?' It explores the painterly beauty of the ink painting, the pride in mastering a transformation, and the mischievous, resonant voice of a monkey king who understands that every second is a gift. The players are the pilgrims and sages who must navigate the celestial politics and the intensity of a demon battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Celestial Pilgrims (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Tripitaka (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Bu
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Sun Wukong** (Independent - The Lead) - A monkey king whose voice is energetic, mischievous, and theatrical. **Voice:** Theatrical Chinese accent, quick-paced in action, slow for wisdom. **Goal:** To protect the 'Humanity' of the pilgrims and guide the new sages. **Secret:** He is secretly an Adept of 'Ink-Energy' who can 'rewrite' a soul's destiny through his staff strikes.
-**The Jade Emperor** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all spiritual talent into a single 'Global Order' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Tripitaka** (Order - The Catalyst) - A monk whose voice is peaceful, meditative, and scholarly. **Voice:** Refined academic, slow and measured. **Goal:** To find the 'Western Paradise' and stop the sutra-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the celestial noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless journey-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Jade Palace's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient pilgrim in practical traditional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the scroll ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Sun Wukong** (Independent - The Lead) - A monkey king whose voice is energetic, mischievous, and theatrical. **Voice:** Theatrical Chinese accent, quick-paced in action, slow for wisdom. **Goal:** To protect the 'Humanity' of the pilgrims and guide the new sages. **Secret:** He is secretly an Adept of 'Ink-Energy' who can 'rewrite' a soul's destiny through his staff strikes.
+2.  **The Jade Emperor** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all spiritual talent into a single 'Global Order' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Tripitaka** (Order - The Catalyst) - A monk whose voice is peaceful, meditative, and scholarly. **Voice:** Refined academic, slow and measured. **Goal:** To find the 'Western Paradise' and stop the sutra-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the celestial noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless journey-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Jade Palace's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient pilgrim in practical traditional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the scroll ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Bu
 | The Monk | Ancient Worshipper | Sutra Temple | Spends all his time painting murals of the 'Stroke's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Flower-Fruit Mountain (The Hub)
 A grand stone monument to dynamic brushwork, waterfalls, and warm firelight.
 *   **The Monkey Throne:** A site of 'Refined Formality' and harsh spiritual rituals. **Smell:** Peach, vanilla, and old paper. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and celestial bureaucracy.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Scroll Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up at the mountain. You must survive your first 'Jade Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Wukong Run:** Navigate the traditional territories to find Sun Wukong. You must identify the 'Ink-Energy' node before the rivals arrive.
 3.  **The Sutra Heist:** Infiltrate the Jade Palace HQ to retrieve a stolen 'Ancient-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Jade Emperor face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of West (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of West (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Transformative Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Sutra Signet (Equivalent)
+2.  **The Sutra Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the sutra seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Ink-Energy Capsule (Equivalent)
+3.  **The Ink-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Bureaucratic' magic.

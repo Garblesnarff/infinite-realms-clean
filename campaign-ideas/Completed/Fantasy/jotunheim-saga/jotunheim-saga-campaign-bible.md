@@ -18,7 +18,8 @@ The World is not a floor; it's a branch that's being played by an ancient ash tr
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Myths.' It is about the 'Heroic Resilience' of the spirit—the realization that you can change the story if you have the heart to fight the plot. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal book (equivalent)?' It explores the mythic beauty of the Norse saga, the pride in mastering a runic weapon, and the deep, resonant voice of a giant who understands that every second is a gift. The players are the giants and gods who must navigate the skaldic poetry and the intensity of a mythic choice to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Aesir Guardians (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** Odin (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Dark voids, reality-tearing threads, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Odin** (Order - The Lead) - A man whose voice is measured, calculating, and resonant. **Voice:** Authoritative, desperate beneath authority, multiple languages in unison. **Goal:** To protect the 'Aesir Order' and prevent the Ragnarok. **Secret:** He is secretly an Adept of 'Runic-Energy' who can 'rewrite' a soul's destiny through his whispered calculations.
-**Þrymr** (Shadow - The Villain) - A giant whose voice is commanding, harsh, and aged. **Voice:** Harsh, commanding, occasional dark humor. **Goal:** To consolidate all elemental talent into a single 'Global Giant' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Surtr** (Independent - The Catalyst) - A giant whose voice is melancholic, deep, and poetic. **Voice:** Deep, melancholic, conflicted poet despite destruction role. **Goal:** To find a way to end the cycle and stop the runic-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the elemental noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless mythic-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Odin's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient giant in practical fur gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the runic ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Odin** (Order - The Lead) - A man whose voice is measured, calculating, and resonant. **Voice:** Authoritative, desperate beneath authority, multiple languages in unison. **Goal:** To protect the 'Aesir Order' and prevent the Ragnarok. **Secret:** He is secretly an Adept of 'Runic-Energy' who can 'rewrite' a soul's destiny through his whispered calculations.
+2.  **Þrymr** (Shadow - The Villain) - A giant whose voice is commanding, harsh, and aged. **Voice:** Harsh, commanding, occasional dark humor. **Goal:** To consolidate all elemental talent into a single 'Global Giant' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Surtr** (Independent - The Catalyst) - A giant whose voice is melancholic, deep, and poetic. **Voice:** Deep, melancholic, conflicted poet despite destruction role. **Goal:** To find a way to end the cycle and stop the runic-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the elemental noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless mythic-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Odin's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient giant in practical fur gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the runic ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Runic Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Midgard (The Hub)
 A grand stone monument to architecture, community, and warm firelight.
 *   **The High Hall:** A site of 'Refined Formality' and harsh mythic rituals. **Smell:** Vanilla, old stone, and woodsmoke. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and cosmic scale.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Mythic Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a giant village. You must survive your first 'Aesir Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Þrymr Run:** Navigate the traditional territories to find Þrymr. You must identify the 'Mythic-Energy' node before the rivals arrive.
 3.  **The Rune Heist:** Infiltrate the Aesir HQ to retrieve a stolen 'Runic-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Odin face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Myth (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Myth (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Skaldic Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Rune Signet (Equivalent)
+2.  **The Rune Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the rune seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Mythic-Energy Capsule (Equivalent)
+3.  **The Mythic-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Apocalypse' magic.

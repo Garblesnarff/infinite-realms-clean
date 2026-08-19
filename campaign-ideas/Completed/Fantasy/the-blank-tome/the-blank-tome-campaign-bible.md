@@ -18,7 +18,8 @@ The World is not a floor; it's a page that's being rewritten by an invisible han
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Endless Archetypes.' It is about the 'Human Resilience' of the spirit—the realization that you are more than just a character in a book. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal book?' It explores the glitchy beauty of the style-shifts, the pride in mastering a narrative delivery, and the authorial, resonant voice of a scribe who understands that every word is a prayer. The players are the scribes and variables who must navigate the reality-breaks and the intensity of a genre shift to find a truth that stays solid in the change.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Script Guardians (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** The First Scribe (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless A
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The First Scribe** (Order - The Lead) - A being whose voice is authorial, omniscient, and gentle. **Voice:** Authorial quality, omniscient narrator, gentle but absolute. **Goal:** To protect the 'Narrative Balance' and guide the new scribes. **Secret:** He is secretly an Adept of 'Narrative-Energy' who can 'rewrite' a soul's destiny through his perfectly paced speeches.
-**Chaos** (Shadow - The Villain) - A being whose voice is anarchic, chaotic, and multiple. **Voice:** Anarchic, chaotic speech patterns, multiple voices in unison. **Goal:** To consolidate all global names into a single 'Global Inversion' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Recursive Author** (Independent - The Catalyst) - A being whose voice is metafictional and self-aware. **Voice:** Urban, modern, witty banter, fourth-wall breaking. **Goal:** To find the 'destination' and stop the style-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the archive noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless plot-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in The First Scribe's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Tome ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The First Scribe** (Order - The Lead) - A being whose voice is authorial, omniscient, and gentle. **Voice:** Authorial quality, omniscient narrator, gentle but absolute. **Goal:** To protect the 'Narrative Balance' and guide the new scribes. **Secret:** He is secretly an Adept of 'Narrative-Energy' who can 'rewrite' a soul's destiny through his perfectly paced speeches.
+2.  **Chaos** (Shadow - The Villain) - A being whose voice is anarchic, chaotic, and multiple. **Voice:** Anarchic, chaotic speech patterns, multiple voices in unison. **Goal:** To consolidate all global names into a single 'Global Inversion' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Recursive Author** (Independent - The Catalyst) - A being whose voice is metafictional and self-aware. **Voice:** Urban, modern, witty banter, fourth-wall breaking. **Goal:** To find the 'destination' and stop the style-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the archive noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless plot-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in The First Scribe's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Tome ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless A
 | The Monk | Ancient Worshipper | Tome Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Scriptorium (The Hub)
 A grand stone monument to architecture, libraries, and ink reservoirs.
 *   **The Reading Room:** A site of 'Refined Formality' and harsh narrative rituals. **Smell:** Vanilla, old paper, and expensive ink. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and tropes.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Chaos Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Scribe Run:** Navigate the traditional territories to find The First Scribe. You must identify the 'Narrative-Energy' node before the rivals arrive.
 3.  **The Quill Heist:** Infiltrate the Chaos HQ to retrieve a stolen 'Tome-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Chaos face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Word (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Word (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Narrative Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Tome Signet (Equivalent)
+2.  **The Tome Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the tome seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Narrative-Energy Capsule (Equivalent)
+3.  **The Narrative-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Anarchic' magic.

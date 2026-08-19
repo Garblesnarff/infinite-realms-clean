@@ -18,7 +18,8 @@ The World is a reset button that's stuck. Long ago, the 'Islanders' were part of
 ### The 'Why'
 The central conflict is the struggle for 'Persistence' in a world of 'Permanent Futility.' It is about the 'Post-Apocalyptic Brutalism' of the human condition—the realization that we are all just a collection of looted gear. The 'Why' is the question: 'Is it worth building something if you know it will be destroyed?' It explores the realistic decay of the rusted metal, the visceral horror of the raided base, and the dark humor of a man who jokes while losing everything. The players are the adventurers and survivors who must navigate the bear traps and landmines to find a truth that survives the flash.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Lone Wolves (The Survivors)
 **Type:** Individual/Self-Sufficient Combatants
 **Leader:** None (autonomous units).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Persistence' in a world of 'Permanent 
 **Asset:** Knowledge of ancient hierarchies, high-tech (scavenged) goggles, and a desire to stop the Cycle.
 **Rivals:** The Zerg Clans (who view them as 'Loot').
 
-## [TAG: NPC_TIER_1]
-**The Survivor (Rust)** (Independent - The Lead) - A man in crude leather armor and a metal chest plate. **Voice:** Gruff, weary, and terse. **Goal:** To survive the month and find a way to stop the wipe. **Secret:** He is secretly an Adept of 'Scrap-Energy' who can 'fix' a weapon using nothing but a rock and a prayer.
-**The Warlord** (Zerg - The Villain) - A man in perfectly maintained military gear. **Voice:** Authoritative, disciplined, and increasingly cold. **Goal:** To dominate the island and build an impenetrable fortress. **Secret:** He has discovered a 'Vulnerability' in the Wipe Cycle that allows him to keep one item across resets.
-**The Archivist** (Independent - The Witness) - A man whose skin is covered in stenciled blueprints. **Voice:** Whispered, slow, and filled with a tragic wonder. **Goal:** To record the history of every wipe and find the 'Seed of Stability.' **Secret:** He was the one who 'accidentally' triggered the original Silicon Surge.
-**The Bandit King** (Independent - The Mentor) - A man in a three-piece suit (equivalent) who runs the Outpost. **Voice:** Smooth, transactional, and authoritative. **Goal:** To monetize the Wipe Cycle and maintain the peace... for a price. **Secret:** He is a high-level Adept of 'Trade' who can 'persuade' a vending machine to yield elite loot.
-**The Shadow (Anomaly)** (Shadow - The Mastermind) - The manifest consciousness of the Wipe Cycle. **Voice:** A whispering, distorted chorus of a thousand clicks. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Survivor (Rust)** (Independent - The Lead) - A man in crude leather armor and a metal chest plate. **Voice:** Gruff, weary, and terse. **Goal:** To survive the month and find a way to stop the wipe. **Secret:** He is secretly an Adept of 'Scrap-Energy' who can 'fix' a weapon using nothing but a rock and a prayer.
+2.  **The Warlord** (Zerg - The Villain) - A man in perfectly maintained military gear. **Voice:** Authoritative, disciplined, and increasingly cold. **Goal:** To dominate the island and build an impenetrable fortress. **Secret:** He has discovered a 'Vulnerability' in the Wipe Cycle that allows him to keep one item across resets.
+3.  **The Archivist** (Independent - The Witness) - A man whose skin is covered in stenciled blueprints. **Voice:** Whispered, slow, and filled with a tragic wonder. **Goal:** To record the history of every wipe and find the 'Seed of Stability.' **Secret:** He was the one who 'accidentally' triggered the original Silicon Surge.
+4.  **The Bandit King** (Independent - The Mentor) - A man in a three-piece suit (equivalent) who runs the Outpost. **Voice:** Smooth, transactional, and authoritative. **Goal:** To monetize the Wipe Cycle and maintain the peace... for a price. **Secret:** He is a high-level Adept of 'Trade' who can 'persuade' a vending machine to yield elite loot.
+5.  **The Shadow (Anomaly)** (Shadow - The Mastermind) - The manifest consciousness of the Wipe Cycle. **Voice:** A whispering, distorted chorus of a thousand clicks. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Persistence' in a world of 'Permanent 
 | The Monk | Ancient Worshipper | Stone Circle | Spends all his time painting murals of the 'Rock's Beginning.' |
 | The Clerk | Trade Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Outpost (The Hub)
 A neutral, transactional sanctuary of vending machines and scrap metal.
 *   **The Vending Machine Hall:** A site of 'Saturated Golds' and harsh midday sunlight. **Smell:** Diesel, stale coffee, and ozone. **Sound:** The rhythmic 'clink-clink' of scrap metal.
@@ -90,7 +93,8 @@ A monumental fortress of stone walls and armored watchtowers.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Spawn Point:** Where the 'Rock and Torch' were first received. **Visual:** A single, broken mirror on the sand. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Bloom:** Wake up on the beach. You must escape a 'Wolf Ambush' using only your rock and a makeshift spear.
 2.  **The Scrap Run:** Navigate the industrial monuments to find the Bandit King. You must identify the 'Blueprint Node' before the rivals arrive.
 3.  **The Zerg Heist:** Infiltrate a Zerg watchtower to retrieve a stolen 'Code-Lock.' You must bypass their 'Watching Eye' security.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the Archivist's secret vault.
 7.  **The Final Bloodletting at Dawn:** Face the Warlord and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the armor or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Wipe
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Wipe:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Rock.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Brutal Takedown' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Master Key Card
+2.  **The Master Key Card:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire card that hums with the key of the first Islander.
 **Mechanics:** Grants the user the ability to 'Unlock' any magically or physically sealed door on the island. Once per day, the user can 'Silence' a SAM-site for 1 hour.
 
-### 3. The Blueprint of the Stars
+3.  **The Blueprint of the Stars:**
 **Type:** Wondrous Item (Tome)
 **Description:** A thick, clinical book that contains the records of every wipe.
 **Mechanics:** Grants the holder advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The user begins to see the world in 'Sickly Greens' and loses all capacity for empathy.

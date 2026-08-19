@@ -18,7 +18,8 @@ The World is a machine that runs on 'Consequence.' In the shadows of every major
 ### The 'Why'
 The central conflict is the struggle between 'Professional Honor' and 'Survival.' It is about the 'Deadly Grace' of being an elite operative—the realization that your reputation is your only true shield. The 'Why' is the question: 'What is the value of a code in a world that rewards betrayal?' It explores the opulent environments of the luxury hotel, the gritty reality of the training hall, and the balletic violence of the professional kill. The players are the assassins who must navigate the subtext of a polite conversation and the intensity of a hall of mirrors ambush to find a truth that doesn't belong to the High Table.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Continental Network (The Sanctuaries)
 **Type:** International Neutral Sanctuary System
 **Leader:** Winston (Equivalent - The Manager).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Professional Honor' and 'Survival.
 **Asset:** Absolute authority from the High Table and a refusal to be swayed by reputation or gold.
 **Rivals:** Anyone who breaks the rules.
 
-## [TAG: NPC_TIER_1]
-**The Concierge (Charon)** (Continental - Professional Calm) - A man in a perfectly tailored black suit with a neutral accent. **Voice:** Smooth, controlled, and precisely measured. **Goal:** To provide the agents with the 'Perfect Sanctuary' and maintain the order of the house. **Secret:** He is a high-level Adept of 'Deadly Grace' who can 'disarm' an opponent with a single look.
-**The Manager (Winston)** (Continental - The Strategist) - A man of art deco elegance and dark-wood sanctuaries. **Voice:** Authoritative, sophisticated, and British. **Goal:** To protect the Continental from the High Table's overreach. **Secret:** He has been building a secret 'Mirror Hall' beneath the hotel to survive the next purge.
-**The Bowery King** (Independent - Street Leader) - A man of pigeons, rags, and absolute truth. **Voice:** Gruff, theatrical, and filled with street-smart wisdom. **Goal:** To overthrow the High Table and give the 'Invisibles' their due. **Secret:** He was once a High Table candidate who was 'erased' from history.
-**The Adjudicator** (High Table - Cold Inquisitor) - A woman in a black uniform with a reflective face shield. **Voice:** Sterile, precise, and emotionless. **Goal:** To adjust the underworld to fit the High Table's narrative. **Secret:** She is secretly working for the Bowery King to expose the Table's internal rot.
-**The Rival (Cassian)** (Independent - Star Assassin) - A man of honor and balletic violence. **Voice:** Determined, professional, and respectful. **Goal:** To fulfill his Blood Marker and retire with dignity. **Secret:** He views the player character as his only true peer and brother.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Concierge (Charon)** (Continental - Professional Calm) - A man in a perfectly tailored black suit with a neutral accent. **Voice:** Smooth, controlled, and precisely measured. **Goal:** To provide the agents with the 'Perfect Sanctuary' and maintain the order of the house. **Secret:** He is a high-level Adept of 'Deadly Grace' who can 'disarm' an opponent with a single look.
+2.  **The Manager (Winston)** (Continental - The Strategist) - A man of art deco elegance and dark-wood sanctuaries. **Voice:** Authoritative, sophisticated, and British. **Goal:** To protect the Continental from the High Table's overreach. **Secret:** He has been building a secret 'Mirror Hall' beneath the hotel to survive the next purge.
+3.  **The Bowery King** (Independent - Street Leader) - A man of pigeons, rags, and absolute truth. **Voice:** Gruff, theatrical, and filled with street-smart wisdom. **Goal:** To overthrow the High Table and give the 'Invisibles' their due. **Secret:** He was once a High Table candidate who was 'erased' from history.
+4.  **The Adjudicator** (High Table - Cold Inquisitor) - A woman in a black uniform with a reflective face shield. **Voice:** Sterile, precise, and emotionless. **Goal:** To adjust the underworld to fit the High Table's narrative. **Secret:** She is secretly working for the Bowery King to expose the Table's internal rot.
+5.  **The Rival (Cassian)** (Independent - Star Assassin) - A man of honor and balletic violence. **Voice:** Determined, professional, and respectful. **Goal:** To fulfill his Blood Marker and retire with dignity. **Secret:** He views the player character as his only true peer and brother.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Professional Honor' and 'Survival.
 | The newsie | Street Kid | Bowery District | Can name every assassin in the city by the sound of their heel clicks. |
 | The Guard | High Table Security | Private Estate | Wears a tie that is 1 inch too long; claims it's a 'Sovereign Fashion.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Continental Hotel (Sanctuary)
 An art deco masterpiece of black marble floors, gold columns, and warm chandelier light.
 *   **The Lobby:** A site of 'Polite Formality' and high-society business. **Smell:** Bourbon, expensive tobacco, and old stone. **Sound:** The rhythmic scratching of a silver quill.
@@ -88,7 +91,8 @@ A chaotic, crumbling maze of tunnels, rooftop pigeon lofts, and secret passages.
 A site of 'Visual Paranoia' and reality-bending combat.
 *   **The Glass Maze:** A place where reflections show different dimensions and anyone could be an enemy. **Visual:** Neon blues and pinks reflecting in infinite mirrors.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Checking In:** Arrive at the Continental for the first time. You must check in with the Concierge and receive your first gold coin.
 2.  **The Marker Retrieval:** Infiltrate a High Table gala to retrieve a Blood Marker stolen by a rival boss. You must navigate the 'Hall of Mirrors' ambush.
 3.  **The Sommelier's Tasting:** Meet the Sommelier to select your mission equipment. You must complete a 'Safety Demonstration' that involves disarming three guards.
@@ -97,18 +101,19 @@ A site of 'Visual Paranoia' and reality-bending combat.
 6.  **The Siege of the Continental:** Lead a defense of the hotel against a High Table 'Adjustment' squad. You must protect Winston while the self-destruct activates.
 7.  **The Final Consequence:** Face the Elder face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Table or die for the Code?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The High Table Gold Coin
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The High Table Gold Coin:**
 **Type:** Artifact (Currency)
 **Description:** A heavy, gold coin with the High Table seal.
 **Mechanics:** Grants the holder absolute authority in the underworld. Once per day, the user can 'Buy' a 1-hour truce from any assassin.
 
-### 2. The Continental Suit (3-Piece)
+2.  **The Continental Suit (3-Piece):**
 **Type:** Wondrous Item (Armor)
 **Description:** An immaculate, black suit with subtle armor plating worked into the design.
 **Mechanics:** Grants the wearer +5 to AC and resistance to all non-magical weapon damage. The suit never gets wrinkled or dirty.
 
-### 3. The Blood Marker
+3.  **The Blood Marker:**
 **Type:** Wondrous Item (Contract)
 **Description:** A circular, gold medal that holds a single, dried drop of blood.
 **Mechanics:** When 'Opened,' the user can force an NPC to succeed on a DC 18 Wisdom save or be compelled to perform an 'Impossible Task.'

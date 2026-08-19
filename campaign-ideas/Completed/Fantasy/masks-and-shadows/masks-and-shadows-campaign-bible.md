@@ -18,7 +18,8 @@ The World is not a floor; it's a mirror that's being played by a hidden face. In
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Roles.' It is about the 'Human Resilience' of the spirit—the realization that you need the privacy of the home to appreciate the publicity of the school. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single episode in an eternal romance?' It explores the warm beauty of the slice-of-life anime, the pride in mastering a relationship, and the gentle, resonant voice of a narrator who understands that every moment is a prayer. The players are the personas and shadows who must navigate the awkward domesticities and the intensity of a genuine connection to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Academy Students (The Order)
 **Type:** Cooperative/Social Defense Brotherhood
 **Leader:** Hori (equivalent - the duality).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Dark voids, reality-tearing social isolation, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with hearts.
 
-## [TAG: NPC_TIER_1]
-**Hori** (Order - The Lead) - A woman whose voice is warm, gentle, and resonant. **Voice:** Pretty, not impossibly so, simple and genuine at home. **Goal:** To protect the 'Humanity' of her friends and guide the new students. **Secret:** She is secretly an Adept of 'Domestic-Energy' who can 'rewrite' a soul's destiny through her kitchen preparations.
-**The Director** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To consolidate all social talent into a single 'Global Syndicate' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Miyamura** (Independent - The Catalyst) - A man whose voice is surprisingly gentle and domestic. **Voice:** Gentle expression, long dark hair, hidden tattoos. **Goal:** To find a safe haven for his friends and stop the social-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the academy noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless relationship-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Director's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical home gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the mask ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Hori** (Order - The Lead) - A woman whose voice is warm, gentle, and resonant. **Voice:** Pretty, not impossibly so, simple and genuine at home. **Goal:** To protect the 'Humanity' of her friends and guide the new students. **Secret:** She is secretly an Adept of 'Domestic-Energy' who can 'rewrite' a soul's destiny through her kitchen preparations.
+2.  **The Director** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To consolidate all social talent into a single 'Global Syndicate' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Miyamura** (Independent - The Catalyst) - A man whose voice is surprisingly gentle and domestic. **Voice:** Gentle expression, long dark hair, hidden tattoos. **Goal:** To find a safe haven for his friends and stop the social-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the academy noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless relationship-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Director's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical home gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the mask ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Heart Temple | Spends all his time painting murals of the 'Letter's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Academy of the Star (The Hub)
 A grand stone monument to architecture, community, and bright school light.
 *   **The Classroom:** A site of 'Refined Formality' and harsh social rituals. **Smell:** Vanilla, old stone, and floor wax. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and influence.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Bond Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in your classroom. You must survive your first 'Director Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Miyamura Run:** Navigate the traditional territories to find Miyamura. You must identify the 'Domestic-Energy' node before the rivals arrive.
 3.  **The Star-Seed Heist:** Infiltrate the Syndicate HQ to retrieve a stolen 'Mask-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Director face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Heart (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Heart (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Genuine Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mask Signet (Equivalent)
+2.  **The Mask Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mask seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Domestic-Energy Capsule (Equivalent)
+3.  **The Domestic-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Social' magic.

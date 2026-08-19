@@ -18,7 +18,8 @@ The World is a dance floor where the music is about to stop. In the heat of the 
 ### The 'Why'
 The central conflict is the struggle between 'National Loyalty' and 'Human Connection.' It is about the 'Stylish Cold War' of the human heart—the realization that the person you were told to hate is the only one who can save you. The 'Why' is the question: 'Can two enemies become a partnership that saves the world?' It explores the bright colors of 1960s European glamour, the intellectual precision of the Russian mind, and the charming smoothness of the American ego. The players are the Agents of Concordia who must navigate the bickering and the banter to find a truth that transcends borders.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### Concordia (The Accord)
 **Type:** International Secret Intelligence Agency
 **Leader:** Waverly (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'National Loyalty' and 'Human Conne
 **Asset:** Knowledge of the latest magic-tech and the ability to fix anything with a wrench and a smile.
 **Rivals:** The T.H.R.U.S.H. Engineers.
 
-## [TAG: NPC_TIER_1]
-**Napoleon Solo** (Concordia - Charming Lead) - A smooth-talking American agent in a perfectly tailored suit. **Voice:** Charming, smooth, and perfectly paced. **Goal:** To solve the mission and look good doing it. **Secret:** He is a high-level Adept of 'Glamour' who can 'persuade' inanimate objects to function.
-**Illya Kuryakin** (Concordia - Intellectual Lead) - A Russian agent with controlled intensity and a turtleneck. **Voice:** Russian-accented, precise, and intellectual. **Goal:** To achieve the mission objective with absolute efficiency. **Secret:** He suffers from sudden bouts of 'Red Rage' when his intellectual limits are pushed.
-**Waverly** (Concordia - British Authority) - The dry-witted leader of Concordia. **Voice:** Authoritative, dry, and British. **Goal:** To keep the Americans and Russians from killing each other long enough to save the world. **Secret:** He was the original 'Agent of Concordia' and knows the location of the first magic-tech device.
-**Gaby** (Independent - German Efficiency) - A warm, efficient mechanic caught in the crossfire. **Voice:** German-accented, warm, and direct. **Goal:** To find her father and use her technical skills for peace. **Secret:** She is the only person who can 'sync' with the latest Concordia magic-tech.
-**Victoria** (T.H.R.U.S.H. - Italian Temptress) - A dangerous, elegant woman in high-society golds. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To destroy Concordia and rule the world through T.H.R.U.S.H. **Secret:** she is Napoleon Solo's former rival and the only person who can out-charming him.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Napoleon Solo** (Concordia - Charming Lead) - A smooth-talking American agent in a perfectly tailored suit. **Voice:** Charming, smooth, and perfectly paced. **Goal:** To solve the mission and look good doing it. **Secret:** He is a high-level Adept of 'Glamour' who can 'persuade' inanimate objects to function.
+2.  **Illya Kuryakin** (Concordia - Intellectual Lead) - A Russian agent with controlled intensity and a turtleneck. **Voice:** Russian-accented, precise, and intellectual. **Goal:** To achieve the mission objective with absolute efficiency. **Secret:** He suffers from sudden bouts of 'Red Rage' when his intellectual limits are pushed.
+3.  **Waverly** (Concordia - British Authority) - The dry-witted leader of Concordia. **Voice:** Authoritative, dry, and British. **Goal:** To keep the Americans and Russians from killing each other long enough to save the world. **Secret:** He was the original 'Agent of Concordia' and knows the location of the first magic-tech device.
+4.  **Gaby** (Independent - German Efficiency) - A warm, efficient mechanic caught in the crossfire. **Voice:** German-accented, warm, and direct. **Goal:** To find her father and use her technical skills for peace. **Secret:** She is the only person who can 'sync' with the latest Concordia magic-tech.
+5.  **Victoria** (T.H.R.U.S.H. - Italian Temptress) - A dangerous, elegant woman in high-society golds. **Voice:** Seductive, intelligent, and world-weary. **Goal:** To destroy Concordia and rule the world through T.H.R.U.S.H. **Secret:** she is Napoleon Solo's former rival and the only person who can out-charming him.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'National Loyalty' and 'Human Conne
 | The Oracle | Adept | Rome Rooftop | Can 'see' the interweaving themes of Solo and Kuryakin. |
 | 'Static' | Victoria's Spy | Anywhere | Flickers in and out of the light when he's under high stress. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Hub (Concordia HQ)
 A sleek, retro-futuristic fortress of art deco elegance and magic-tech.
 *   **Waverly's Office:** A dark-wood sanctuary with a view of the world's 'Tension Lines.' **Smell:** Pipe tobacco and old maps. **Sound:** The rhythmic scratching of a silver quill.
@@ -90,7 +93,8 @@ A cold, industrial nightmare of grays divided by bright propaganda colors.
 A royal gold and casino red monument to luxury and champagne bubbles.
 *   **The VIP Tables:** Where the final game of 'Style-Fi' is played. **Sound:** The rhythmic clinking of chips and the husky laugh of Victoria.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Rome Ambush:** Solo and Kuryakin are both after the same target. You must force them to cooperate to survive a T.H.R.U.S.H. hit squad.
 2.  **The Berlin Gala:** Solo and Kuryakin must pose as a married couple to infiltrate a high-society party. You must navigate the 'Fake Marriage' chemistry without blowing your cover.
 3.  **The Gaby Rescue:** Retrieve Gaby from her mechanic shop before T.H.R.U.S.H. kidnaps her. You must use your 'Style-Fi' Glamour to win her trust.
@@ -99,18 +103,19 @@ A royal gold and casino red monument to luxury and champagne bubbles.
 6.  **The Final Choice:** Solo and Kuryakin are ordered to kill each other by their respective nations. You must decide whether to follow orders or join them in a 'Third Path.'
 7.  **The Kiss at Dawn:** Reach the T.H.R.U.S.H. volcano fortress. The truth is revealed through 'Polite Destruction' and mutual respect as the world is saved.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Napoleon Solo's Cufflinks
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Napoleon Solo's Cufflinks:**
 **Type:** Wondrous Item (Jewelry)
 **Description:** A pair of silver cufflinks with a subtle draconic pattern.
 **Mechanics:** Grants the wearer +5 to all Charisma (Persuasion and Performance) checks and allows them to 'Charm' any NPC of lower rank.
 
-### 2. Illya Kuryakin's Radio
+2.  **Illya Kuryakin's Radio:**
 **Type:** Wondrous Item
 **Description:** A small, high-tech radio that hums with the key of the Accord.
 **Mechanics:** Grants the user the ability to 'See' any communication within 1 mile. Once per day, the user can 'Lock' a target's magic-tech for 1 hour.
 
-### 3. Gaby's Wrench of Efficiency
+3.  **Gaby's Wrench of Efficiency:**
 **Type:** Artifact Focus
 **Description:** A simple, worn wrench that seems to hum with the power of harmony.
 **Mechanics:** Grants the user the ability to 'Fix' any mechanical or magic-tech device instantly. Once per day, the user can create a 30ft 'Harmony Field' that calms all enemies.

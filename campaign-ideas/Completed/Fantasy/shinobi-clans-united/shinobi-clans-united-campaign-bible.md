@@ -18,7 +18,8 @@ The World is not a floor; it's a seal that's being held by an invisible master. 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Destinies.' It is about the 'Heroic Resilience' of the spirit—the realization that you never give up on your friends. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal anime?' It explores the dynamic beauty of the ninja action, the pride in mastering a jutsu, and the energetic, resonant voice of a shinobi who understands that every second is a gift. The players are the ninjas and sages who must navigate the village politics and the intensity of a tailed beast battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Leaf Village Shinobi (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Naruto (equivalent - the hero).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Kakashi** (Order - The Lead) - A shinobi whose voice is precise, intellectual, and slightly world-weary. **Voice:** Teacher, wise but weary, hidden eye. **Goal:** To protect the 'Shinobi Legacy' and guide the new ninjas. **Secret:** He is secretly an Adept of 'Chakra-Energy' who can 'rewrite' a soul's destiny through his jutsu strikes.
-**Madara** (Shadow - The Villain) - A being whose voice is hierarchical, arrogant, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global chakra into a single 'Eternal Dream' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Naruto** (Independent - The Catalyst) - A being whose voice is young, energetic, and full of determination. **Voice:** Urban, modern, and witty banter. **Goal:** To find his true identity and stop the village-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the jutsu clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shinobi-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Madara's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical shinobi gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chakra ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Kakashi** (Order - The Lead) - A shinobi whose voice is precise, intellectual, and slightly world-weary. **Voice:** Teacher, wise but weary, hidden eye. **Goal:** To protect the 'Shinobi Legacy' and guide the new ninjas. **Secret:** He is secretly an Adept of 'Chakra-Energy' who can 'rewrite' a soul's destiny through his jutsu strikes.
+2.  **Madara** (Shadow - The Villain) - A being whose voice is hierarchical, arrogant, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global chakra into a single 'Eternal Dream' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Naruto** (Independent - The Catalyst) - A being whose voice is young, energetic, and full of determination. **Voice:** Urban, modern, and witty banter. **Goal:** To find his true identity and stop the village-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the jutsu clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shinobi-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Madara's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical shinobi gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the chakra ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Chakra Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Hidden Leaf Village (The Hub)
 A grand stone monument to architecture, traditional roofs, and warm firelight.
 *   **The Hokage Rock:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and cherry blossoms. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and red clouds.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Shinobi Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a training ground. You must survive your first 'Akatsuki Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Kakashi Run:** Navigate the traditional territories to find Kakashi. You must identify the 'Chakra-Energy' node before the rivals arrive.
 3.  **The Seal Heist:** Infiltrate the Akatsuki HQ to retrieve a stolen 'Seal-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Madara face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Form (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Form (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Jutsu Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Seal Signet (Equivalent)
+2.  **The Seal Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the seal signet.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Chakra-Energy Capsule (Equivalent)
+3.  **The Chakra-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Rogue' magic.

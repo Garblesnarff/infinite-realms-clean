@@ -18,7 +18,8 @@ The Universe is not a single thread; it's a tapestry that's being unraveled by t
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Infinite Choice.' It is about the 'Heroic Defiance' of the human spirit—the realization that you are more than just one story. The 'Why' is the question: 'Can you remain yourself when you are simultaneously every version of yourself?' It explores the visual transformation of the eras, the pride in building a wonder, and the vast, echoing voice of a god that sounds like multiple speakers in imperfect unison. The players are the champions and scouts who must navigate the reality-breaks and cosmic vistas to find a resolution that honors the memory of the infinite.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Multiversal Coalition (The Heroes)
 **Type:** Cooperative/Mortal-Divine Strategic Alliance
 **Leader:** The Monitor (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 **Asset:** Knowledge of the city's mundane secrets and a refusal to participate in the 'Star-War' (equivalent).
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**The Monitor** (Order - The Leader) - A vast, echoing voice that sounds like multiple speakers in unison. **Voice:** Ancient, otherworldly, and authoritative. **Goal:** To protect the tapestry of infinite realities and guide the champions. **Secret:** He is secretly an Adept of 'Cosmic-Energy' who can 'rewrite' a soul's destiny through his poetic speeches.
-**The Anti-Monitor** (Shadow - The Villain) - A being of pure black with white negative-space edges. **Voice:** None (disturbing clicking sounds and radio static). **Goal:** To consume the entire Multiverse and return it to a state of absolute silence. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the original Silicon surge.
-**Dr. Star-Sight (Ghost)** (Independent - Clinical Healer) - A woman with a compassionate bedside manner and high-tech (scavenged) goggles. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the champions' DNA and find a 'Celestial Cure' for the multiversal rot. **Secret:** She is secretly working for a shadow-syndicate that wants to harvest the 'Mutation-Energy.'
-**The Champion (Wander)** (Coalition - The Lead) - A man in armor crafted from the fragments of a previous world. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect his family and find his own worth. **Secret:** He is secretly a 'Clone' grown by the monitor to serve as a new pilot.
-**The Architect (Shadow)** (Shadow equivalent - Shifting form) - A being that looks and sounds eerily like the player character. **Voice:** Familiar but wrong, with an inverted version of the player's theme. **Goal:** To complete the 'Final Reconstruction' and merge all versions of the player. **Secret:** He is the player's biological twin, the only one who wasn't erased.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Monitor** (Order - The Leader) - A vast, echoing voice that sounds like multiple speakers in unison. **Voice:** Ancient, otherworldly, and authoritative. **Goal:** To protect the tapestry of infinite realities and guide the champions. **Secret:** He is secretly an Adept of 'Cosmic-Energy' who can 'rewrite' a soul's destiny through his poetic speeches.
+2.  **The Anti-Monitor** (Shadow - The Villain) - A being of pure black with white negative-space edges. **Voice:** None (disturbing clicking sounds and radio static). **Goal:** To consume the entire Multiverse and return it to a state of absolute silence. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the original Silicon surge.
+3.  **Dr. Star-Sight (Ghost)** (Independent - Clinical Healer) - A woman with a compassionate bedside manner and high-tech (scavenged) goggles. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the champions' DNA and find a 'Celestial Cure' for the multiversal rot. **Secret:** She is secretly working for a shadow-syndicate that wants to harvest the 'Mutation-Energy.'
+4.  **The Champion (Wander)** (Coalition - The Lead) - A man in armor crafted from the fragments of a previous world. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect his family and find his own worth. **Secret:** He is secretly a 'Clone' grown by the monitor to serve as a new pilot.
+5.  **The Architect (Shadow)** (Shadow equivalent - Shifting form) - A being that looks and sounds eerily like the player character. **Voice:** Familiar but wrong, with an inverted version of the player's theme. **Goal:** To complete the 'Final Reconstruction' and merge all versions of the player. **Secret:** He is the player's biological twin, the only one who wasn't erased.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 | The Monk | Ancient Worshipper | Star-Seed Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Merged Reality (The Hub)
 A high-contrast landscape where a medieval village and a futuristic city overlap.
 *   **The Hub:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ozone, charcoal smoke, and wet wool. **Sound:** The rhythmic hum of engines and celestial pulses.
@@ -89,7 +92,8 @@ A high-contrast nightmare of black voids and purple-red corruption.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Technology Tree:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a merged reality. You must escape an 'Antimatter Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Monitor Run:** Navigate the traditional territories to find the Monitor. You must identify the 'Cosmic-Energy' node before the rivals arrive.
 3.  **The Architect Heist:** Infiltrate a rival Architect's library to retrieve a 'Glamour-Focus.' You must bypass the 'Palace Guard.'
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Anti-Monitor and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Infinity
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Infinity:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Cosmic-Energy Capsule
+3.  **The Cosmic-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Multiversal' magic.

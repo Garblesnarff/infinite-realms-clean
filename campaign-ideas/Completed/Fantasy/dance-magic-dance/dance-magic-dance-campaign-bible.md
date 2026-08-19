@@ -18,7 +18,8 @@ The World is not a floor; it's a puzzle that's being played by an invisible king
 ### The 'Why'
 The central conflict is the struggle between 'Romantic Idealism' and 'Emotional Maturity.' It is about the 'Theatrical Swashbuckler' of the human spirit—the realization that growing up doesn't mean giving up the magic. The 'Why' is the question: 'Can you remain a part of the Labyrinth when your own nature wants you to run alone?' It explores the tactile realism of the puppets, the visceral horror of the intercision (equivalent), and the theatrical, knowing voice of a man who knows that wisdom is found in every word. The players are the seekers and goblins who must navigate the subculture politics and the intensity of a crystal-ball entry to find a truth that stays fabulous in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Goblin King's Court (The Sovereigns)
 **Type:** Elite/Glam-Rock Divine Dynasty
 **Leader:** Jareth (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Romantic Idealism' and 'Emotional 
 **Asset:** Stone-Energy, deep bellows, and a connection to the world's original purpose.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Jareth (Goblin King)** (Sovereign - The Leader) - A man in tight pants and flowing capes with wild blonde hair. **Voice:** Theatrical, knowing, and whimsical. **Goal:** To keep the player in the Labyrinth and rule through 'Glamour-Energy.' **Secret:** He is secretly an Adept of 'Glamour-Energy' who can 'rewrite' a target's memory through his crystal balls.
-**Hoggle** (Rebel - The Villain) - A grumpy dwarf who appears as a normal man but has 'Wrong Eye Reflections.' **Voice:** Gruff, slow, and wood-toned. **Goal:** To reclaim his own freedom and find a place where he belongs. **Secret:** He was the player character's biological ancestor (equivalent), the one who first परफॉर्म the Labyrinth ritual.
-**Sarah** (Survivor - The Lead) - A teenage girl in a white peasant blouse with determined eyes. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To rescue her brother and find her own worth. **Secret:** she is the only person who can 'hear' the original Song of the World through the Labyrinth's clicks.
-**Sir Didymus** (Independent - The Mentor) - A fox-terrier in knight's armor who speaks with 'Pragmatic Wisdom.' **Voice:** Heroic, high-pitched, and filled with a tragic wonder. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the King's armor that he's too professional to share.
-**Ludo** (Independent - The Link) - A massive, shaggy being who can talk to the rocks. **Voice:** Deep, gentle, and woodwind-toned. **Goal:** To protect his friends and find a place where he belongs. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Bog of Eternal Stench.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Jareth (Goblin King)** (Sovereign - The Leader) - A man in tight pants and flowing capes with wild blonde hair. **Voice:** Theatrical, knowing, and whimsical. **Goal:** To keep the player in the Labyrinth and rule through 'Glamour-Energy.' **Secret:** He is secretly an Adept of 'Glamour-Energy' who can 'rewrite' a target's memory through his crystal balls.
+2.  **Hoggle** (Rebel - The Villain) - A grumpy dwarf who appears as a normal man but has 'Wrong Eye Reflections.' **Voice:** Gruff, slow, and wood-toned. **Goal:** To reclaim his own freedom and find a place where he belongs. **Secret:** He was the player character's biological ancestor (equivalent), the one who first परफॉर्म the Labyrinth ritual.
+3.  **Sarah** (Survivor - The Lead) - A teenage girl in a white peasant blouse with determined eyes. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To rescue her brother and find her own worth. **Secret:** she is the only person who can 'hear' the original Song of the World through the Labyrinth's clicks.
+4.  **Sir Didymus** (Independent - The Mentor) - A fox-terrier in knight's armor who speaks with 'Pragmatic Wisdom.' **Voice:** Heroic, high-pitched, and filled with a tragic wonder. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the King's armor that he's too professional to share.
+5.  **Ludo** (Independent - The Link) - A massive, shaggy being who can talk to the rocks. **Voice:** Deep, gentle, and woodwind-toned. **Goal:** To protect his friends and find a place where he belongs. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Bog of Eternal Stench.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Romantic Idealism' and 'Emotional 
 | The Monk | Ancient Worshipper | Crystal Altar | Spends all his time painting murals of the 'Labyrinth's Beginning.' |
 | The Clerk | City Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Labyrinth (The Hub)
 An iconic monument to stone walls, decay, and graffiti masterpieces (reimagined).
 *   **The Main Hall:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Dust, stale incense, and old wood. **Sound:** The rhythmic 'clack-clack' of wheels on tile.
@@ -89,7 +92,8 @@ A monumental fortress of marble ledges, glass, and steel.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Rock Formation:** Where the 'Sacred Laws' were first received. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the Labyrinth. You must escape a 'Goblin Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Crystal run:** Navigate the traditional territories to find Sarah. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The King's Heist:** Infiltrate the Escher Castle to retrieve a stolen 'Glamour-Focus.' You must bypass Jareth's guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Jareth face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Labyrinth
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Labyrinth:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god (equivalent).
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Magic-Dance' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Glamour-Energy Capsule
+3.  **The Glamour-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Glamour' magic.

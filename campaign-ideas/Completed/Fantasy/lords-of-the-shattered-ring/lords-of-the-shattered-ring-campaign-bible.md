@@ -18,7 +18,8 @@ The World is not a floor; it's a ring that's being played by an invisible hand. 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Predetermination.' It is about the 'Heroic Resilience' of the spirit—the realization that you can be a lord and still be human. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single rune in an eternal ring?' It explores the epic beauty of the dark fantasy, the pride in mastering a great rune, and the grim, resonant voice of a tarnished who understands that every death is a lesson. The players are the tarnished and lords who must navigate the cryptic prophecies and the intensity of a boss battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Tarnished Exiles (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** The Tarnished (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Pr
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Queen Marika** (Shadow - The Villain) - A woman whose voice is cryptic, Shakespearean, and measured. **Voice:** Grand authority, tragic beauty, underlying current of despair. **Goal:** To maintain the 'Golden Order' and prevent the Shattered Ring from being restored. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Tarnished** (Order - The Lead) - A man whose voice is grim, determined, and weathered. **Voice:** Grim, determined, weathered by countless deaths. **Goal:** To reach the 'Erdtree' and find the truth about his exile. **Secret:** He is secretly an Adept of 'Golden-Energy' who can 'rewrite' a soul's destiny through his boss battles.
-**Melina** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the order-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the Erdtree noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shattered-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Marika's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient exile in practical worn gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the ring ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Queen Marika** (Shadow - The Villain) - A woman whose voice is cryptic, Shakespearean, and measured. **Voice:** Grand authority, tragic beauty, underlying current of despair. **Goal:** To maintain the 'Golden Order' and prevent the Shattered Ring from being restored. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+2.  **The Tarnished** (Order - The Lead) - A man whose voice is grim, determined, and weathered. **Voice:** Grim, determined, weathered by countless deaths. **Goal:** To reach the 'Erdtree' and find the truth about his exile. **Secret:** He is secretly an Adept of 'Golden-Energy' who can 'rewrite' a soul's destiny through his boss battles.
+3.  **Melina** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the order-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the Erdtree noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shattered-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Marika's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient exile in practical worn gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the ring ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Pr
 | The Monk | Ancient Worshipper | Ring Temple | Spends all his time painting murals of the 'Shattering's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Lands Between (The Hub)
 A grand stone monument to architecture, Erdtree light, and golden grandeur.
 *   **The Roundtable Hold:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old paper, and clinical ozone. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and grafted limbs.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Order Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a church cell. You must survive your first 'Grafted Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Melina Run:** Navigate the traditional territories to find Melina. You must identify the 'Golden-Energy' node before the rivals arrive.
 3.  **The Rune Heist:** Infiltrate the Stormveil HQ to retrieve a stolen 'Ring-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Queen Marika face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Grace (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Grace (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Golden Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Ring Signet (Equivalent)
+2.  **The Ring Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the ring seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Golden-Energy Capsule (Equivalent)
+3.  **The Golden-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Apocalypse' magic.

@@ -1,12 +1,12 @@
 # Campaign Bible: Above the Cloudline
 
-## **1. DEEP LORE & HISTORY**
+## 1. DEEP LORE & HISTORY
 `[TAG: LORE_CORE]`
 
-### **Origin Myth: The Breath of the Sleeping Titan**
+### Origin Myth: The Breath of the Sleeping Titan
 Before gods, there was only the Titan known as **Aethos**, who held the sky upon his shoulders. When the First Betrayal occurred—the moment mortality was invented by a jealous star—Aethos did not fight. Instead, he wept, and his grief was so heavy it solidified into the earth, while his final, ragged breath refused to dissipate. This breath became the **Cloud Continents**, held aloft not by physics, but by the Titan's dying wish that some part of him remain untouched by the mud of the world below. The Beanstalks are not merely plants; they are the stitching that accidentally binds the Titan’s corpse (Earth) to his ghost (Sky).
 
-### **Timeline of Events**
+### Timeline of Events
 1.  **-3,500 The Gray Plague:** Humans attempt to poison the giants using *The Dust of Envy*. The wind shifts unexpectedly, killing 40% of the human population instead, creating the *Wailing Badlands*.
 2.  **-3,000 The Great Ascendance (The Separation):** Archdruid Sylvanus weaves the *Verdant Lock*. The clouds solidify. Giants retreat upward. The sun turns green for a decade due to the magical discharge.
 3.  **-2,400 The Era of Falling Whales:** A metaphysical glitch causes ocean life to spawn in the sky. For fifty years, it rains blue whales upon human cities. This leads to the invention of "Umbrella Architecture" (reinforced roofs).
@@ -18,69 +18,69 @@ Before gods, there was only the Titan known as **Aethos**, who held the sky upon
 9.  **-1 Day Zero:** The Beanstalk erupts through the capital plaza of Oakhaven. It grows 9 miles in 6 hours. The sonic boom of its growth shatters every window in a 50-mile radius.
 10. **Present Day:** The "Sky-Blindness" lifts. Mortals can suddenly see the glimmer of crystal castles in the upper atmosphere, previously cloaked by the Separation Spell.
 
-### **The Metaphysical "Why"**
+### The Metaphysical "Why"
 The conflict is not just biological; it is **Dimensional Friction**. Gravity (The Law of the Earth) seeks to pull everything down. Levity (The Law of the Sky) seeks to untether existence. The Beanstalk acts as a lightning rod grounding Levity into Gravity. If the connection holds, the Earth might float apart; if it snaps, the Sky will crash. The Giants are beings of Levity—their morality is detached, lofty, and abstract. Humans are beings of Gravity—grounded, heavy with desire, and dense with history.
 
 ---
 
-## **2. FACTIONS**
+## 2. FACTIONS
 `[TAG: FACTION_DATA]`
 
-### **1. The Crown of Oakhaven (Human/Royal)**
+### 1. The Crown of Oakhaven (Human/Royal)
 *   **Type:** Bureaucratic Monarchy / Crisis Management.
 *   **Leader:** Queen Valerica (Human, Paladin of Order).
 *   **Asset:** **The Royal Ballisticians** – Engineers expert in calculating trajectory for anti-air defense.
 *   **Rivals:** The Cult of the Ascended; The Storm Peaks.
 
-### **2. The Storm Peaks (Giant/Militarist)**
+### 2. The Storm Peaks (Giant/Militarist)
 *   **Type:** Aerial Warlords / Supremacists.
 *   **Leader:** Lady Tempest (Storm Giant).
 *   **Asset:** **Captured Lightning** – Literal bolts of lightning stored in glass jars, used as grenades.
 *   **Rivals:** The Crown of Oakhaven; The Crystal Spires.
 
-### **3. The Society of the Golden Egg (Human/Criminal)**
+### 3. The Society of the Golden Egg (Human/Criminal)
 *   **Type:** Smugglers / Heist Specialists.
 *   **Leader:** "One-Eye" Jack Oldtree (The original climber).
 *   **Asset:** **Grappling Moss** – A magical fungus that adheres to cloud-matter, allowing humans to walk upside down on clouds.
 *   **Rivals:** The Royal Guard; The Cloud-Whalers.
 
-### **4. The Cloud-Whalers (Giant/Industry)**
+### 4. The Cloud-Whalers (Giant/Industry)
 *   **Type:** Resource Extraction / Sky-Hunters.
 *   **Leader:** Captain Brontos (Cloud Giant Ranger).
 *   **Asset:** **Harpoon Ships** – Flying galleons rigged to catch Sky-Krakens.
 *   **Rivals:** The Society of the Golden Egg (who steal their oil).
 
-### **5. The Barometric Sorority (Mixed/Mystic)**
+### 5. The Barometric Sorority (Mixed/Mystic)
 *   **Type:** Weather Witches / Oracles.
 *   **Leader:** High Priestess Nimbus (Air Genasi).
 *   **Asset:** **The Pressure Maps** – Can predict the future by tasting the air pressure changes caused by giant movements.
 *   **Rivals:** The Iron Roots.
 
-### **6. The Iron Roots (Human/Xenophobic)**
+### 6. The Iron Roots (Human/Xenophobic)
 *   **Type:** Radical Isolationists / Druidic Terrorists.
 *   **Leader:** Arch-Druid Kaelen (Human).
 *   **Asset:** **Rot-Weevils** – Giant insects bred specifically to eat the Beanstalk from the inside out.
 *   **Rivals:** Everyone attempting to climb.
 
-### **7. The Order of the Heavy Boot (Human/Weird)**
+### 7. The Order of the Heavy Boot (Human/Weird)
 *   **Type:** Gravity Fanatics.
 *   **Leader:** Father Stone (Dwarf Cleric).
 *   **Asset:** **Lead-Lined Robes** – They believe "lightness" is a sin. They possess gravity-magic that can ground flying enemies instantly.
 *   **Rivals:** The Sky-Dancers.
 
-### **8. The Sky-Dancers (Giant/Artistic)**
+### 8. The Sky-Dancers (Giant/Artistic)
 *   **Type:** Performance Troupe / Spies.
 *   **Leader:** Lyssandra the Weightless (Cloud Giant Bard).
 *   **Asset:** **The Sonic Flutes** – Instruments massive enough to cause earthquakes below when played. Used for communication and "artistic bombardment."
 *   **Rivals:** The Storm Peaks (who see art as weakness).
 
-### **9. The Mycelial Diplomatic Corps (Non-Human/Weird)**
+### 9. The Mycelial Diplomatic Corps (Non-Human/Weird)
 *   **Type:** Sentient Fungus Colony.
 *   **Leader:** Spore-Lord Xyloph (Sentient Mushroom Cluster).
 *   **Asset:** **Universal Translation Spores** – Inhaling their spores allows biological entities to understand any language, but causes mild hallucinations of weeping ancestors.
 *   **Rivals:** None (they are too weird to fight).
 
-### **10. The Archivists of the Void (Giant/Scholar)**
+### 10. The Archivists of the Void (Giant/Scholar)
 *   **Type:** Historians / Keepers of Forbidden Lore.
 *   **Leader:** Seeker Nimbus (Cloud Giant Wizard).
 *   **Asset:** **The Lens of Truth** – A telescope that looks *back in time* rather than across distance.
@@ -88,10 +88,10 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **3. NPC ROSTER**
+## 3. NPC ROSTER
 `[TAG: NPC_TIER_1]`
 
-### **Major NPCs (The 20 Key Players)**
+### Major NPCs (The 20 Key Players)
 
 1.  **Grimble** (Cloud Giant Child | Commoner) - Shy, bullied, hiding in a "small" cave (human dungeon size).
     *   **Voice:** High-pitched (for a giant), booming cracks, childlike stutter.
@@ -194,7 +194,7 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
     *   **Secret:** It lays eggs that hatch into alternate realities, not gold.
 
 `[TAG: NPC_TIER_2]`
-### **Minor NPCs (The High-Density Table)**
+### Minor NPCs (The High-Density Table)
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
@@ -251,38 +251,38 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **4. LOCATIONS**
+## 4. LOCATIONS
 `[TAG: LOCATIONS_MAIN]`
 
-### **Zone 1: The Root Crown (Ground Zero)**
+### Zone 1: The Root Crown (Ground Zero)
 *   **The Shattered Plaza:** The city center, now a crater filled with massive roots. **Sensory:** Smell of turned earth and ozone. Sound of wood groaning under tension.
 *   **Refugee Tents:** Thousands of colorful tents ringing the crater.
 *   **The Sap-Lake:** A pool of magical sap leaking from the stalk. Drinking it causes hallucinations.
 *   **The Royal Siege Line:** Ballistae aimed upward, manned 24/7.
 *   **The Shadow-Market:** Smugglers selling "Beanstalk Souvenirs" (mostly fake).
 
-### **Zone 2: The Stalk (The Climb)**
+### Zone 2: The Stalk (The Climb)
 *   **The Leaf-Platforms:** Leaves the size of football fields. **Sensory:** Sound of wind whistling through veins. Vibration of the plant growing.
 *   **The Aphid-Caves:** Hollowed out sections of the vine inhabited by giant insects.
 *   **The Thorn-Gauntlet:** A vertical mile of razor-sharp thorns the size of spears.
 *   **The Resting Inn (Mile 3):** A hut built by a dwarf into the bark. "Last Beer for 6 Miles."
 *   **The Druid’s Knot:** A massive tangle of vines that pulses with green light.
 
-### **Zone 3: The Cloudline (The Transition)**
+### Zone 3: The Cloudline (The Transition)
 *   **The Solid Vapor:** The ground feels like memory foam but looks like mist. **Sensory:** Cold, damp, muffled sound (disadvantage on Perception).
 *   **The Frozen Waterfall:** A river flowing off the cloud, freezing mid-air into a bridge.
 *   **The Prism-Gate:** The entrance to the Giant Realm, guarded by light-refraction puzzles.
 *   **The Graveyard of Birds:** Where birds who flew too high froze and fell.
 *   **The Thunder-Docks:** Where cloud-ships dock. Loud crashing sounds of hulls against solid cloud.
 
-### **Zone 4: Nimbus Village (Giant Farmland)**
+### Zone 4: Nimbus Village (Giant Farmland)
 *   **The Mega-Barns:** Red barns, 200ft high. Smells of sweet hay and giant manure.
 *   **The Chicken Run:** Fenced area containing T-Rex-sized chickens.
 *   **Petal’s Cottage:** Cozy, terrifyingly large furniture. A "Cat" (Tiger) sleeps on the rug.
 *   **The Bean-Silos:** Towers storing magical beans. Highly explosive.
 *   **The Dew-Ponds:** Lakes of collected morning dew, pure water that heals 1HP.
 
-### **Zone 5: The Crystal Court (Capital)**
+### Zone 5: The Crystal Court (Capital)
 *   **The Rainbow Bridge:** Literally made of solid light. Disappears at night.
 *   **The Throne Room:** Ceiling is the open sky. Pillars are tornadoes frozen in time.
 *   **The Whispering Library:** Books are 10ft tall. **Sensory:** Smell of old parchment and ozone. Sound of pages turning like thunderclaps.
@@ -291,24 +291,24 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **5. QUEST ARCHITECTURE**
+## 5. QUEST ARCHITECTURE
 `[TAG: QUEST_MAIN]`
 
-### **Act I: The Ascent**
+### Act I: The Ascent
 1.  **The Eruption:** Survive the destruction of the plaza and the initial growth.
 2.  **The King’s Decree:** Receive the mission to climb and scout.
 3.  **The First Mile:** Climb the lower stalk, fight Giant Aphids.
 4.  **The Thorn-Block:** Navigate the Thorn-Gauntlet; puzzle/dexterity challenge.
 5.  **The Cloudline Breach:** Break through the cloud layer; survive the temperature drop.
 
-### **Act II: Diplomacy & Deception**
+### Act II: Diplomacy & Deception
 6.  **First Contact:** Encounter Petal the Giant Farmer. Don’t get stepped on.
 7.  **The Goose Chase:** Track down the stolen Goose’s location for the Giants.
 8.  **The Court Summons:** Audition before King Cumulus. Social combat.
 9.  **The Heist:** Infiltrate the Treasury to find the *Ancient Treaty*.
 10. **The Faction Choice:** Ally with Storm, Scholar, or Isolationist factions.
 
-### **Act III: War & Resolution**
+### Act III: War & Resolution
 11. **The Descent Begins:** The clouds start sinking. Timed escape sequence.
 12. **The Battle of the Stalk:** Fight on the beanstalk against invading Storm Giants.
 13. **The Heart of the Druid:** Enter the Stalk’s core. Commune with Sylvanus.
@@ -316,7 +316,7 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 15. **The New World:** Negotiate the final treaty or the destruction of the bridge.
 
 `[TAG: QUEST_SIDE]`
-### **Side Quests (The Table of 30)**
+### Side Quests (The Table of 30)
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
@@ -353,10 +353,10 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **6. ITEM DATABASE**
+## 6. ITEM DATABASE
 `[TAG: ITEM_LEGENDARY]`
 
-### **Artifacts of the High Sky**
+### Artifacts of the High Sky
 1.  **The Goose** (Living Artifact): Lays eggs that can alter probability (essentially *Wish* spell with random effects).
 2.  **The Cloud-Splitter** (Greatsword): +3 Weapon. On hit, target must succeed DC 18 STR save or be launched 60ft into the air.
 3.  **The Mantle of Sylvanus** (Cape): Made of living vines. Grants flight (speed 40ft) but user takes double fire damage. Root yourself to heal 10HP/turn.
@@ -364,7 +364,7 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 5.  **The Anchor-Stone**: A pebble that weighs 10,000 lbs on command. Used to pin dragons (or giants) to the ground.
 
 `[TAG: ITEM_LOOT]`
-### **Weird & Rare Loot Table**
+### Weird & Rare Loot Table
 1.  **Jar of Condensed Thunder:** Thrown weapon. 4d6 Thunder damage + Deafness.
 2.  **Giant’s Toothpick:** Acts as a +1 Pike for humans.
 3.  **Vial of Solid Cloud:** Can be molded into any shape, then hardens like steel.
@@ -388,10 +388,10 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **7. BESTIARY**
+## 7. BESTIARY
 `[TAG: ENEMY_STATBLOCK]`
 
-### **Unique Monsters**
+### Unique Monsters
 1.  **Cloud-Shark** (Large Beast, CR 3): Swims through mist. **Ability: Silent Swim** (Invisible in fog). **Bite:** 2d8 Piercing.
 2.  **Beanstalk Mite** (Medium Beast, CR 1): Parasitic insect. **Ability: Acid Spit** (Range 30ft, 2d6 Acid).
 3.  **Sky-Jelly** (Huge Beast, CR 5): Floats, trailing tentacles. **Ability: Paralyzing Sting** (DC 14 CON or paralyzed).
@@ -404,7 +404,7 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 10. **The Rot-Weevil Queen** (Huge Monstrosity, CR 7): Boss monster. **Ability: Spawn Larva** (Summons 1d4 Mites).
 
 `[TAG: ENCOUNTER_TABLE]`
-### **Encounters (d20)**
+### Encounters (d20)
 **Urban (Ground)**
 1.  Falling Debris (DEX Save).
 2.  Refugee Riot.
@@ -433,33 +433,33 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **8. MECHANICS**
+## 8. MECHANICS
 `[TAG: RULES_CUSTOM]`
 
-### **1. Scale Mechanics**
+### 1. Scale Mechanics
 *   **Climbing:** Human furniture = Athletics checks. A table is a 10ft wall.
 *   **Combat:** Medium creatures have +2 AC vs Huge/Gargantuan creatures (hard to hit). Huge creatures have Reach 15ft minimum.
 *   **Stealth:** Advantage on Stealth vs Giants (you are mouse-sized). Disadvantage on Intimidation.
 
-### **2. Gravity & Falling**
+### 2. Gravity & Falling
 *   **Terminal Velocity:** Reached instantly. 20d6 damage is the *minimum* for falling off the cloud.
 *   **Safety Lines:** Climbing kits are mandatory. Severing a line is a Called Shot (AC 15).
 
-### **3. Cloud Terrain**
+### 3. Cloud Terrain
 *   **Mist:** Lightly obscured.
 *   **Solid Cloud:** Difficult terrain unless wearing *Cloud-Boots*.
 *   **Storm-Cloud:** Electrified floor. 1d4 Lightning damage per turn if standing on it.
 
-### **4. Reputation: Gravity vs. Levity**
+### 4. Reputation: Gravity vs. Levity
 *   **Gravity Points:** Earned by helping humans/grounded factions. Unlocks artillery support.
 *   **Levity Points:** Earned by helping giants/sky factions. Unlocks weather magic.
 
 ---
 
-## **9. SESSION GUIDE**
+## 9. SESSION GUIDE
 `[TAG: DM_GUIDE]`
 
-### **Roadmap (Sessions 1-12)**
+### Roadmap (Sessions 1-12)
 
 *   **Session 1: The Sky Breaks.** The Beanstalk erupts. Party helps evacuation. King’s Decree issued.
 *   **Session 2: The Green Mile.** The climb begins. Fight Aphids. Meet Jack Oldtree’s ghost/memory.
@@ -476,6 +476,6 @@ The conflict is not just biological; it is **Dimensional Friction**. Gravity (Th
 
 ---
 
-## **10. RAG INDEX**
+## 10. RAG INDEX
 `[TAG: INDEX_KEYWORDS]`
 Aethos, Beanstalk, Cloudline, King Cumulus, Lady Tempest, Grimble, Jack Oldtree, Sylvanus, Storm Peaks, Oakhaven, Nimbus Village, Crystal Court, Goose, Levity, Gravity, Cloud-Shark, Rot-Weevil, Sky-Blindness, Separation Spell, Cloud Magic, Giant Slayer, The Anchor.

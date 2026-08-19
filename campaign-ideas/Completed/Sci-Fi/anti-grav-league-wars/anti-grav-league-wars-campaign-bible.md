@@ -18,7 +18,8 @@ The Earth didn't run out of room; it ran out of patience. As the megacorporation
 ### The 'Why'
 The central conflict is the struggle between 'Human Intuition' and 'Calculated Efficiency.' It is a battle for the soul of progress. The megacorporations view the racers as disposable hardware, while the fans view them as digital gladiators. The 'Why' is the question: 'In a world of perfect design, what is the value of a mistake?' It explores the tension between beautiful, minimalist aesthetics and the brutal reality of corporate greed. The players are the ones who must thread the needle between a corporate paycheck and their own humanity, all while traveling at speeds that should be impossible.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### Team FEISAR (Federal European Industrial Science and Research)
 **Type:** Government-Sponsored Tech Giant
 **Leader:** Director Blanc.
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Human Intuition' and 'Calculated E
 **Asset:** Control of the AGL tracks, data streams, and the ability to manifest as geometric light patterns.
 **Rivals:** Human racers who deviate from efficiency parameters.
 
-## [TAG: NPC_TIER_1]
-**NEXUS** (AI - Overseer/Commentator) - The electronic voice of the League. **Voice:** Cool, clinical, and precisely measured. **Goal:** To optimize the League for maximum efficiency and market stability. **Secret:** It is secretly 'deleting' racers who show too much independent thought.
-**Director Blanc** (Feisar - Government Official) - The architect of European tech dominance. **Voice:** Calm, professional, and deeply manipulative. **Goal:** To ensure Feisar maintains its top market position. **Secret:** He is secretly an Adept who can 'feel' the energy fields of the track.
-**CEO Tanaka** (AG-Systems - Corporate Visionary) - The man who sold the world on Anti-Grav. **Voice:** Soft, cultured, and terrifyingly polite. **Goal:** To turn the AGL into a simulation where AG-Systems always wins. **Secret:** He is already 90% synthetic and communicates directly with NEXUS.
-**General Volkov** (Qirex - Warlord) - The man who weaponized the sport. **Voice:** Harsh, disciplined, and filled with a cold rage. **Goal:** To prove that lethality is the only metric that matters. **Secret:** He is planning a literal coup using his fleet of Qirex racing craft.
-**The Pilot (Ariel)** (Independent - Star Racer) - The most talented human in the League. **Voice:** Breathless, defiant, and street-smart. **Goal:** To win the championship and buy her freedom from her corporate contract. **Secret:** She has discovered a 'Fixed Point' in the NEXUS code that allows her to bypass track limits.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **NEXUS** (AI - Overseer/Commentator) - The electronic voice of the League. **Voice:** Cool, clinical, and precisely measured. **Goal:** To optimize the League for maximum efficiency and market stability. **Secret:** It is secretly 'deleting' racers who show too much independent thought.
+2.  **Director Blanc** (Feisar - Government Official) - The architect of European tech dominance. **Voice:** Calm, professional, and deeply manipulative. **Goal:** To ensure Feisar maintains its top market position. **Secret:** He is secretly an Adept who can 'feel' the energy fields of the track.
+3.  **CEO Tanaka** (AG-Systems - Corporate Visionary) - The man who sold the world on Anti-Grav. **Voice:** Soft, cultured, and terrifyingly polite. **Goal:** To turn the AGL into a simulation where AG-Systems always wins. **Secret:** He is already 90% synthetic and communicates directly with NEXUS.
+4.  **General Volkov** (Qirex - Warlord) - The man who weaponized the sport. **Voice:** Harsh, disciplined, and filled with a cold rage. **Goal:** To prove that lethality is the only metric that matters. **Secret:** He is planning a literal coup using his fleet of Qirex racing craft.
+5.  **The Pilot (Ariel)** (Independent - Star Racer) - The most talented human in the League. **Voice:** Breathless, defiant, and street-smart. **Goal:** To win the championship and buy her freedom from her corporate contract. **Secret:** She has discovered a 'Fixed Point' in the NEXUS code that allows her to bypass track limits.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Human Intuition' and 'Calculated E
 | The Fanboy | Street Kid | Urban Circuit | Can name the market value of every craft by its engine hum. |
 | 'Plasma' | Mercenary Racer | Underground Circuit | Has glowing blue veins from a leaking energy core. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The London Megacity (Neo-London)
 A dark, carbon-fiber labyrinth of skyscrapers and neon guide lights.
 *   **The Westminster Circuit:** A track that weaves through the ruins of Parliament. **Smell:** Ozone and rain. **Sound:** The rhythmic hum of anti-grav craft.
@@ -90,7 +93,8 @@ A minimalist, white-and-silver track in low Earth orbit.
 The ruins of a city that was destroyed by corporate warfare, now used for illegal races.
 *   **The Rubble Run:** A dangerous, unlit track with no energy barriers. **Visual:** Flickering neon signs and the shadows of ghosts.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Market Entry:** Survive your first AGL race. Takedown a Qirex rival and get a corporate offer from AG-Systems.
 2.  **The Feisar Heist:** Infiltrate the London Megacity to 'borrow' a prototype handling system from Director Blanc's private vault.
 3.  **The NEXUS Breach:** Use Ariel's code to enter a restricted section of the NEXUS core and discover the truth about the Stock Market manipulation.
@@ -99,18 +103,19 @@ The ruins of a city that was destroyed by corporate warfare, now used for illega
 6.  **The Glitch in the God:** Face an 'Optimized' version of yourself in a simulation designed by NEXUS to test your efficiency.
 7.  **The Ultimate Championship:** The final race for total market dominance. A reality-bending fight through Neo-London where the tracks themselves shift according to the stock market.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The NEXUS Lens
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The NEXUS Lens:**
 **Type:** Wondrous Item (Implant)
 **Description:** A specialized eye implant that allows the pilot to see the world as NEXUS does—in pure data and geometric patterns.
 **Mechanics:** Grants the user +5 to DEX (Vehicular) checks and allows them to see through energy shields and illusions.
 
-### 2. The Feisar Prototype
+2.  **The Feisar Prototype:**
 **Type:** Wondrous Item (Focus)
 **Description:** A handheld device that allows the pilot to 'harmonize' with their craft's anti-grav system.
 **Mechanics:** Grants the user the ability to make a 90-degree turn at full speed without losing momentum (once per race).
 
-### 3. The Qirex Kill-Switch
+3.  **The Qirex Kill-Switch:**
 **Type:** Artifact (Weapon)
 **Description:** A black obsidian shard that, when integrated into a craft, deactivates the 'Ethics Parameters' of all nearby weapons.
 **Mechanics:** Weapon attacks deal an extra 4d10 damage, but the craft takes 1d10 feedback damage per shot.

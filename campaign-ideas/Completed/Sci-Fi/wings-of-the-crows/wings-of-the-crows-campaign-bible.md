@@ -196,38 +196,38 @@ The world is slowly sinking. The "Heavy layer" beneath the floating islands is r
 
 ### **Tier 2: The Extras (Data Table of 50 NPCs)**
 
-| ID | Name | Race/Role | Location | Quirk/Hook |
+| **ID** | Name | Race/Role | Location | Quirk/Hook |
 |:---|:---|:---|:---|:---|
-| 21 | Squire Goshiki | Human/Rookie | Griffon Roost | Shouts his own internal monologue. |
-| 22 | Lev the Long | Half-Giant/Rookie | Lynx Guild | Limbs are too long; knocks over furniture. |
-| 23 | Yaku the Defender | Halfling/Libero | Lynx Guild | Kicks shins if called short. |
-| 24 | Enno the Director | Human/Sub | Raven's Perch | Looks like a zombie; exhausted leader. |
-| 25 | Kino the Sweeper | Human/Sub | Raven's Perch | Nervous sweater; creates puddles. |
-| 26 | Nari the Ghost | Human/Sub | Raven's Perch | Completely forgettable; stealth +10. |
-| 27 | Saeko the Drummer | Human/Bard | Audience | Drives recklessly; plays war drums. |
-| 28 | Aki the Moon | Elf/Civilian | Audience | Disguises himself to watch games. |
-| 29 | Master Shimada | Human/Mentor | Market | Teaches the "float serve" using eggs. |
-| 30 | Master Taki | Human/Mentor | Bar | Yells advice while drunk. |
-| 31 | Elder Neko | Old Human/Coach | Lynx Guild | Laughs like a wheezing kettle. |
-| 32 | Elder Washijo | Old Dwarf/Coach | Griffon Roost | Hates newfangled tactics; throws clipboards. |
-| 33 | Onion-Knight Kind | Human/Blocker | Azure Castle | Onion-shaped helmet hair; holds grudges. |
-| 34 | Sleeper Kuni | Human/Wing | Azure Castle | Saves energy; looks asleep on court. |
-| 35 | Foreman Moni | Human/Setter | Iron Bastion | Trying to herd iron giants; stressed. |
-| 36 | The Golem Aone | Warforged/Blocker | Iron Bastion | No eyebrows; points silently. |
-| 37 | Futa the Cheat | Human/Ace | Iron Bastion | Sarcastic bully; steals snacks. |
-| 38 | Gear-Head Koga | Human/Setter | Iron Bastion | Oversized setter; clumsy hands. |
-| 39 | Saku the Clean | Elf/Ace | Weasel Guild | Germaphobe; wears two masks. |
-| 40 | Komo the Scout | Human/Libero | Weasel Guild | Thick eyebrows; painfully optimistic. |
-| 41 | Korai the Star | Halfling/Ace | Sky-Gulls | Intense stare; jumps 10ft vertical. |
-| 42 | Hiru the Calm | Human/Blocker | Sky-Gulls | "The Immovable"; pacifist off-court. |
-| 43 | Shinsuke the Monk | Human/Captain | Kitsune Guild | Robot-like logic; scares everyone. |
-| 44 | Atsu the Twin | Tiefling/Setter | Kitsune Guild | Dyes hair blonde; toxic perfectionist. |
-| 45 | Osa the Twin | Tiefling/Spiker | Kitsune Guild | Dyes hair gray; hungry constantly. |
-| 46 | Suna the Bender | Human/Blocker | Kitsune Guild | Bends torso 90 degrees; cryptic. |
-| 47 | Aran the Strong | Human/Ace | Kitsune Guild | The straight man to the twins' comedy. |
-| 48 | Keiji the Handler | Human/Setter | Strix Guild | Deadpan eyes; Tyto's handler. |
-| 49 | Kono the Jack | Human/Wing | Strix Guild | Jack of all trades; master of none. |
-| 50 | Washio the Silent | Giant/Blocker | Strix Guild | Silent; eats raw meat. |
+| **21** | Squire Goshiki | Human/Rookie | Griffon Roost | Shouts his own internal monologue. |
+| **22** | Lev the Long | Half-Giant/Rookie | Lynx Guild | Limbs are too long; knocks over furniture. |
+| **23** | Yaku the Defender | Halfling/Libero | Lynx Guild | Kicks shins if called short. |
+| **24** | Enno the Director | Human/Sub | Raven's Perch | Looks like a zombie; exhausted leader. |
+| **25** | Kino the Sweeper | Human/Sub | Raven's Perch | Nervous sweater; creates puddles. |
+| **26** | Nari the Ghost | Human/Sub | Raven's Perch | Completely forgettable; stealth +10. |
+| **27** | Saeko the Drummer | Human/Bard | Audience | Drives recklessly; plays war drums. |
+| **28** | Aki the Moon | Elf/Civilian | Audience | Disguises himself to watch games. |
+| **29** | Master Shimada | Human/Mentor | Market | Teaches the "float serve" using eggs. |
+| **30** | Master Taki | Human/Mentor | Bar | Yells advice while drunk. |
+| **31** | Elder Neko | Old Human/Coach | Lynx Guild | Laughs like a wheezing kettle. |
+| **32** | Elder Washijo | Old Dwarf/Coach | Griffon Roost | Hates newfangled tactics; throws clipboards. |
+| **33** | Onion-Knight Kind | Human/Blocker | Azure Castle | Onion-shaped helmet hair; holds grudges. |
+| **34** | Sleeper Kuni | Human/Wing | Azure Castle | Saves energy; looks asleep on court. |
+| **35** | Foreman Moni | Human/Setter | Iron Bastion | Trying to herd iron giants; stressed. |
+| **36** | The Golem Aone | Warforged/Blocker | Iron Bastion | No eyebrows; points silently. |
+| **37** | Futa the Cheat | Human/Ace | Iron Bastion | Sarcastic bully; steals snacks. |
+| **38** | Gear-Head Koga | Human/Setter | Iron Bastion | Oversized setter; clumsy hands. |
+| **39** | Saku the Clean | Elf/Ace | Weasel Guild | Germaphobe; wears two masks. |
+| **40** | Komo the Scout | Human/Libero | Weasel Guild | Thick eyebrows; painfully optimistic. |
+| **41** | Korai the Star | Halfling/Ace | Sky-Gulls | Intense stare; jumps 10ft vertical. |
+| **42** | Hiru the Calm | Human/Blocker | Sky-Gulls | "The Immovable"; pacifist off-court. |
+| **43** | Shinsuke the Monk | Human/Captain | Kitsune Guild | Robot-like logic; scares everyone. |
+| **44** | Atsu the Twin | Tiefling/Setter | Kitsune Guild | Dyes hair blonde; toxic perfectionist. |
+| **45** | Osa the Twin | Tiefling/Spiker | Kitsune Guild | Dyes hair gray; hungry constantly. |
+| **46** | Suna the Bender | Human/Blocker | Kitsune Guild | Bends torso 90 degrees; cryptic. |
+| **47** | Aran the Strong | Human/Ace | Kitsune Guild | The straight man to the twins' comedy. |
+| **48** | Keiji the Handler | Human/Setter | Strix Guild | Deadpan eyes; Tyto's handler. |
+| **49** | Kono the Jack | Human/Wing | Strix Guild | Jack of all trades; master of none. |
+| **50** | Washio the Silent | Giant/Blocker | Strix Guild | Silent; eats raw meat. |
 
 ---
 
@@ -319,36 +319,36 @@ The world is slowly sinking. The "Heavy layer" beneath the floating islands is r
 
 | Quest Name | Quest Giver | Objective | Reward |
 |:---|:---|:---|:---|
-| The Broken Wand | Janitor | Retrieve 5 Splinter-Free Ash Wood Planks. | +1 Mop of Cleaning |
-| The Lost Familiar | Cipher | Find "Blackie" (it's a literal cat, not the person). | Scrying Orb |
-| Mana Buns 101 | Marshall | Steal the secret spice form the rival store. | Free Food for Life |
-| The Cursed Tunic | Elara | Wash the tunic in Holy Water (Zone 6). | +1 Charisma Tunic |
-| Valerius's Fan | Fan Girl | Get a lock of Valerius's hair (Stealth). | Scouting Report |
-| The Broken Nail | Atlas | Find a manicurist in the dungeon. | +1 Finger Tape |
-| The Scary Face | Ryu | Practice intimidation on 10 Goblins. | "Intimidating Glare" Feat |
-| The Spectacles | Orion | Find replacement lenses in the library. | +2 Perception |
-| Jump Serve | Kaelen | Hit a water bottle from 50ft away 10 times. | "Service Ace" Skill |
-| The Thunder Roll | Rico | Do 100 somersaults without vomiting. | "Safe Fall" Ability |
-| The Brain Strain | Cipher | Solve a rune puzzle while under fire. | +1 Intelligence |
-| The Owl's Depression | Keiji | Cheer up Tyto (Performance Check DC 15). | Strix Guild Allyship |
-| The Twin Chaos | Kitsune Twins | Tell them apart 5 times in a row. | "Doppelganger" tactic |
-| The Iron Wall | Aone | High-five Aone without flinching. | "Sturdy Hands" Trait |
-| The Clean God | Saku | Disinfect the entire court (100 squares). | "Poison Resistance" |
-| The Tiny Titan | Saeko | Watch old tapes (Time Sink). | Inspiration Die |
-| The Wagon Driver | Taki | Fix the wagon wheel (Strength Check). | Fast Travel |
-| The Banner | Penny | Paint a banner using griffon blood. | Team Morale Boost |
-| The Screaming Knee | Coach Marshall | Find a knee brace in the apothecary. | Coach's Wisdom |
-| The Bald Shine | Ryu | Polish his head to blinding levels. | "Solar Flare" (Blind enemy) |
-| The Pudding Head | Cipher | Find blonde dye in the alchemist shop. | Stealth Proficiency |
-| The Giant's Fear | Atlas | Enter the haunted locker room alone. | "Brave" Feat |
-| The Monarch's Cape | Kaelen | Wear a towel like a cape for 1 hour. | Leadership Boost |
-| The Decoy | Jace | Run around without touching the ball. | "Distraction" Ability |
-| The Salt Shaker | Orion | Insult 5 opponents creatively. | "Vicious Mockery" Cantrip |
-| The Fly Swatter | Oracle | Block 10 flies with chopsticks. | "Guess Block" Ability |
-| The Farmer | Titus | Plant 20 corn stalks. | +1 Strength |
-| The Snake | Daishou | Cheat without getting caught. | "Sleight of Hand" Skill |
-| The Spectator | Aki | Buy a ticket without being recognized. | Disguise Kit |
-| The Final Point | Captain Bastion | Survive a ball to the face (CON Save). | "Iron Face" Trait |
+| **The Broken Wand** | Janitor | Retrieve 5 Splinter-Free Ash Wood Planks. | +1 Mop of Cleaning |
+| **The Lost Familiar** | Cipher | Find "Blackie" (it's a literal cat, not the person). | Scrying Orb |
+| **Mana Buns 101** | Marshall | Steal the secret spice form the rival store. | Free Food for Life |
+| **The Cursed Tunic** | Elara | Wash the tunic in Holy Water (Zone 6). | +1 Charisma Tunic |
+| **Valerius's Fan** | Fan Girl | Get a lock of Valerius's hair (Stealth). | Scouting Report |
+| **The Broken Nail** | Atlas | Find a manicurist in the dungeon. | +1 Finger Tape |
+| **The Scary Face** | Ryu | Practice intimidation on 10 Goblins. | "Intimidating Glare" Feat |
+| **The Spectacles** | Orion | Find replacement lenses in the library. | +2 Perception |
+| **Jump Serve** | Kaelen | Hit a water bottle from 50ft away 10 times. | "Service Ace" Skill |
+| **The Thunder Roll** | Rico | Do 100 somersaults without vomiting. | "Safe Fall" Ability |
+| **The Brain Strain** | Cipher | Solve a rune puzzle while under fire. | +1 Intelligence |
+| **The Owl's Depression** | Keiji | Cheer up Tyto (Performance Check DC 15). | Strix Guild Allyship |
+| **The Twin Chaos** | Kitsune Twins | Tell them apart 5 times in a row. | "Doppelganger" tactic |
+| **The Iron Wall** | Aone | High-five Aone without flinching. | "Sturdy Hands" Trait |
+| **The Clean God** | Saku | Disinfect the entire court (100 squares). | "Poison Resistance" |
+| **The Tiny Titan** | Saeko | Watch old tapes (Time Sink). | Inspiration Die |
+| **The Wagon Driver** | Taki | Fix the wagon wheel (Strength Check). | Fast Travel |
+| **The Banner** | Penny | Paint a banner using griffon blood. | Team Morale Boost |
+| **The Screaming Knee** | Coach Marshall | Find a knee brace in the apothecary. | Coach's Wisdom |
+| **The Bald Shine** | Ryu | Polish his head to blinding levels. | "Solar Flare" (Blind enemy) |
+| **The Pudding Head** | Cipher | Find blonde dye in the alchemist shop. | Stealth Proficiency |
+| **The Giant's Fear** | Atlas | Enter the haunted locker room alone. | "Brave" Feat |
+| **The Monarch's Cape** | Kaelen | Wear a towel like a cape for 1 hour. | Leadership Boost |
+| **The Decoy** | Jace | Run around without touching the ball. | "Distraction" Ability |
+| **The Salt Shaker** | Orion | Insult 5 opponents creatively. | "Vicious Mockery" Cantrip |
+| **The Fly Swatter** | Oracle | Block 10 flies with chopsticks. | "Guess Block" Ability |
+| **The Farmer** | Titus | Plant 20 corn stalks. | +1 Strength |
+| **The Snake** | Daishou | Cheat without getting caught. | "Sleight of Hand" Skill |
+| **The Spectator** | Aki | Buy a ticket without being recognized. | Disguise Kit |
+| **The Final Point** | Captain Bastion | Survive a ball to the face (CON Save). | "Iron Face" Trait |
 
 ### **10 Hooks to Start**
 1.  **The Flyer:** A crumpled flyer hits the PC's face: "Ravens Wanted."

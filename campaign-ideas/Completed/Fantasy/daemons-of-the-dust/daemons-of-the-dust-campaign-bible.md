@@ -19,7 +19,8 @@ The Soul is not a spark; it's a cup that's constantly being filled by the stars.
 ### The 'Why'
 The central conflict is the struggle between 'Spiritual Freedom' and 'Institutional Authority.' It is about the 'Metaphysical Mystery' of the human condition—the realization that true power comes from truth, not dogma. The 'Why' is the question: 'Can you remain yourself when the system itself wants to delete your soul?' It explores the naturalistic magic of the animal daemons, the tragedy of the 'surgical soul removal,' and the thoughtful, philosophical voice of a young adult who knows that wisdom is found in every word. The players are the seekers and rebels who must navigate the subculture politics and the intensity of a reality-tear to find a truth that stays fabulous in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Magisterium (The Order)
 **Type:** Theocratic/Totalitarian Global Superpower
 **Leader:** Mrs. Coulter (Tier 1 NPC).
@@ -50,12 +51,13 @@ The central conflict is the struggle between 'Spiritual Freedom' and 'Institutio
 **Asset:** Shadow-purple voids, reality-tearing tendrils, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with Daemons.
 
-## [TAG: NPC_TIER_1]
-**Mrs. Coulter** (Order - The Leader) - A woman in elegant furs with a golden monkey daemon. **Voice:** Nicole Kidman's cold elegance, maternal warmth hiding cruelty. **Goal:** To control the Dust and protect the Magisterium's order. **Secret:** She is secretly an Adept of 'Dust-Energy' who can 'rewrite' a soul's memory through her touch.
-**Lord Asriel** (Rebel - The Villain) - A man in a tailored long coat with a snow leopard daemon. **Voice:** Daniel Craig's intensity, aristocratic rebel. **Goal:** To overthrow the Authority and build a 'New Republic' of heaven. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the aurora bridge.
-**Iorek Byrnison** (Panserbjørn - The Expert) - A massive polar bear in sky-iron armor. **Voice:** Deep bass, slow speech, absolute certainty. **Goal:** To reclaim his throne and protect Lyra. **Secret:** He has discovered a 'Vulnerability' in the Magisterium's armor that he's too professional to share.
-**Lee Scoresby** (Independent - The Catalyst) - A man in a vintage flannel (equivalent) with a hare daemon. **Voice:** Sam Elliott's Texan drawl, humor masking heroism. **Goal:** To provide aerial support and find a 'Safe Moment' for the seekers. **Secret:** He is a direct descendant of the first Architect and his 'Zeppelin-Technology' is the only thing keeping the seekers airborne.
-**Lyra Belacqua (The Link)** (Independent - The Lead) - A young girl in practical Arctic gear with an ever-shifting daemon. **Voice:** Sincere, sarcastic, and emotionally resonant. **Goal:** To find her friend Roger and outrun her own ghosts. **Secret:** she is the only person who can 'hear' the original Song of the World through the alethiometer's clicks.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Mrs. Coulter** (Order - The Leader) - A woman in elegant furs with a golden monkey daemon. **Voice:** Nicole Kidman's cold elegance, maternal warmth hiding cruelty. **Goal:** To control the Dust and protect the Magisterium's order. **Secret:** She is secretly an Adept of 'Dust-Energy' who can 'rewrite' a soul's memory through her touch.
+2.  **Lord Asriel** (Rebel - The Villain) - A man in a tailored long coat with a snow leopard daemon. **Voice:** Daniel Craig's intensity, aristocratic rebel. **Goal:** To overthrow the Authority and build a 'New Republic' of heaven. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the aurora bridge.
+3.  **Iorek Byrnison** (Panserbjørn - The Expert) - A massive polar bear in sky-iron armor. **Voice:** Deep bass, slow speech, absolute certainty. **Goal:** To reclaim his throne and protect Lyra. **Secret:** He has discovered a 'Vulnerability' in the Magisterium's armor that he's too professional to share.
+4.  **Lee Scoresby** (Independent - The Catalyst) - A man in a vintage flannel (equivalent) with a hare daemon. **Voice:** Sam Elliott's Texan drawl, humor masking heroism. **Goal:** To provide aerial support and find a 'Safe Moment' for the seekers. **Secret:** He is a direct descendant of the first Architect and his 'Zeppelin-Technology' is the only thing keeping the seekers airborne.
+5.  **Lyra Belacqua (The Link)** (Independent - The Lead) - A young girl in practical Arctic gear with an ever-shifting daemon. **Voice:** Sincere, sarcastic, and emotionally resonant. **Goal:** To find her friend Roger and outrun her own ghosts. **Secret:** she is the only person who can 'hear' the original Song of the World through the alethiometer's clicks.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the struggle between 'Spiritual Freedom' and 'Institutio
 | The Guard | Magisterium Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Dust Temple | Spends all his time painting murals of the 'Bonds Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Brytain Oxford (The Hub)
 A Victorian-meets-Metaphysical monument to ancient knowledge and old stone.
 *   **The Master's Study:** A site of 'Refined Formality' and era-appropriate lighting. **Smell:** Ink, old paper, and expensive port. **Sound:** The rhythmic scratching of a silver quill.
@@ -91,7 +94,8 @@ An organic, Art Nouveau monument to symmetry and stained-glass effects (reimagin
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Bridge Room:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Sealing:** Wake up in Jordan College. You must survive your first 'Magisterium Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Alethiometer Run:** Navigate the traditional territories to find Lyra. You must identify the 'Dust-Energy' node before the rivals arrive.
 3.  **The Bear Heist:** Infiltrate the Svalbard fortress to retrieve a stolen 'Armor-Focus.' You must bypass Iorek's guards.
@@ -100,18 +104,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Mrs. Coulter and the Authority face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Subtle Knife
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Subtle Knife:**
 **Type:** Legendary Weapon
 **Description:** A simple, double-edged knife that seems to hum with the energy of the first Architect.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Reality-Cut' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Alethiometer
+2.  **The Alethiometer:**
 **Type:** Artifact (Focus)
 **Description:** A brass truth-telling device that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'See' any communication within 1 mile. Once per day, the user can 'Lock' a target's memory for 1 hour.
 
-### 3. The Dust Capsule
+3.  **The Dust Capsule:**
 **Type:** Wondrous Item
 **Description:** A small, sapphire crystal that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Spectre' magic.

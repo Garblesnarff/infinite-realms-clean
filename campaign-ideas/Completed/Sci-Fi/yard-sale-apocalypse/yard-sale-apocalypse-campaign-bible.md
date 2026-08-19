@@ -18,7 +18,8 @@ The World didn't end with a bang; it ended with a 'For Sale' sign. To the 'Giant
 ### The 'Why'
 The central conflict is the preservation of 'Soul' in a world that views you as a commodity. It is about the tragedy of being 'Outgrown'—the realization that the person you were made for no longer needs you. The 'Why' is the question: 'What is a story worth when the storyteller is gone?' It explores the hierarchy of value (Mint Condition vs. Well-Played) and the bravery of choosing freedom over safety. The players are the Soul-Bound toys who refuse to be silent witnesses to their own apocalypse, fighting to stay together and reach the salvation of the Moving Truck.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Boxed (The Saved)
 **Type:** Elite/Safe Class of Toys
 **Leader:** Major Tom (Tier 1 NPC).
@@ -49,13 +50,14 @@ The central conflict is the preservation of 'Soul' in a world that views you as 
 **Asset:** Pure destruction, mobility, and a total ignorance of toy sentience.
 **Rivals:** Everyone (especially small, squeaky toys).
 
-## [TAG: NPC_TIER_1]
-**Major Tom** (Action Figure - Soldier/Leader) - A battle-worn space marine with a cracked helmet. **Voice:** Desperate, commanding, but with a military bearing that is slowly breaking. **Goal:** To get every 'Boxed' toy onto the Moving Truck. **Secret:** He is missing his left arm, a fact he hides with a makeshift cape.
-**Scout** (Plastic Animal - Revolutionary/Rogue) - A small, nimble fox toy. **Voice:** Hopeful, fast-paced, and street-smart. **Goal:** To organize a mass escape for the 'Priced' toys. **Secret:** He was once a 'Collector's Item' but escaped the shelf to be played with.
-**Bella** (Rag Doll - Maternal/Healer) - A soft doll with mismatched button eyes. **Voice:** Optimistic, gentle, and maternal. **Goal:** To soothe the fear of the smaller toys and keep the family together. **Secret:** Her stuffing is leaking, and she knows she's headed for the 'Big Black Bag' if she isn't careful.
-**Rust** (Die-Cast Car - Philosophical/Expert) - A rusted, 1950s-style toy car. **Voice:** Philosophical, accepting, and world-weary. **Goal:** To witness the apocalypse with dignity. **Secret:** He knows the secret of the 'Basement Drain'—a hidden path out of the Garage.
-**The Collector** (Giant - Enthusiastic Antagonist) - A man who views toys as investments. **Voice:** Enthusiastic, loud, and tone-deaf to toy consciousness. **Goal:** To acquire the 'perfect' specimens for his museum. **Secret:** He is actually terrified of the toys and only feels 'safe' when they are behind glass.
-**Timmy** (Giant - The Giver) - The child who is moving away. **Voice:** Sad, soft, and forced to choose. **Goal:** To keep his 'best' toys and say goodbye to the rest. **Secret:** He secretly wants to take all of them but doesn't have the room.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Major Tom** (Action Figure - Soldier/Leader) - A battle-worn space marine with a cracked helmet. **Voice:** Desperate, commanding, but with a military bearing that is slowly breaking. **Goal:** To get every 'Boxed' toy onto the Moving Truck. **Secret:** He is missing his left arm, a fact he hides with a makeshift cape.
+2.  **Scout** (Plastic Animal - Revolutionary/Rogue) - A small, nimble fox toy. **Voice:** Hopeful, fast-paced, and street-smart. **Goal:** To organize a mass escape for the 'Priced' toys. **Secret:** He was once a 'Collector's Item' but escaped the shelf to be played with.
+3.  **Bella** (Rag Doll - Maternal/Healer) - A soft doll with mismatched button eyes. **Voice:** Optimistic, gentle, and maternal. **Goal:** To soothe the fear of the smaller toys and keep the family together. **Secret:** Her stuffing is leaking, and she knows she's headed for the 'Big Black Bag' if she isn't careful.
+4.  **Rust** (Die-Cast Car - Philosophical/Expert) - A rusted, 1950s-style toy car. **Voice:** Philosophical, accepting, and world-weary. **Goal:** To witness the apocalypse with dignity. **Secret:** He knows the secret of the 'Basement Drain'—a hidden path out of the Garage.
+5.  **The Collector** (Giant - Enthusiastic Antagonist) - A man who views toys as investments. **Voice:** Enthusiastic, loud, and tone-deaf to toy consciousness. **Goal:** To acquire the 'perfect' specimens for his museum. **Secret:** He is actually terrified of the toys and only feels 'safe' when they are behind glass.
+6.  **Timmy** (Giant - The Giver) - The child who is moving away. **Voice:** Sad, soft, and forced to choose. **Goal:** To keep his 'best' toys and say goodbye to the rest. **Secret:** He secretly wants to take all of them but doesn't have the room.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the preservation of 'Soul' in a world that views you as 
 | 'Thump' | Action Hero | The Moving Truck | Refuses to leave the ramp until the last toy is on board. |
 | 'Static' | Walkie-Talkie | The Perimeter | Receives transmissions from 'The Other House.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Playroom (Sanctuary)
 A stripped-down, hollowed-out room that was once a kingdom.
 *   **The Empty Shelf:** A high, dusty ledge where the 'Boxed' elite once sat. **Smell:** Vanilla and old wood. **Sound:** The echo of disappearing voices.
@@ -92,7 +95,8 @@ A dark, echoing cavern filled with boxes and the promise of a future.
 *   **The Ramp:** A steep, metallic path to the unknown. **Sound:** The rhythmic 'thud-thump' of boxes being loaded.
 *   **The Safe Box:** A specialized container at the very back where the 'Boxed' are stored.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Great Sorting:** Survive the pricing process in the Garage. Escape the 'Trash Pile' and find a way back to the Playroom.
 2.  **The Orange Seal Heist:** Steal a roll of 'Orange Seals' to label yourself as a 'Treasure' instead of 'Trash.'
 3.  **The Market Run:** Navigate the Front Lawn during the height of the sale. Rescue Bella from a 'Collector's' grasp.
@@ -101,18 +105,19 @@ A dark, echoing cavern filled with boxes and the promise of a future.
 6.  **The Big Black Bag:** Rescue the 'Trash' leaders from the curb before the garbage truck arrives.
 7.  **The Final Loading:** Lead a mass charge of every Soul-Bound toy up the ramp of the Moving Truck as the Giants close the door.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Master Price Tag
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Master Price Tag:**
 **Type:** Wondrous Item
 **Description:** A golden price tag with '99.99' written in permanent ink.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion) checks with Giants and makes them immune to being placed in a 'Trash Pile' for 24 hours.
 
-### 2. Major Tom's Cracked Helmet
+2.  **Major Tom's Cracked Helmet:**
 **Type:** Wondrous Item
 **Description:** A translucent plastic dome with a spider-web crack.
 **Mechanics:** Grants the wearer 'Space-Sight'—the ability to see through walls and boxes for 1 minute.
 
-### 3. The Collector's Price Guide
+3.  **The Collector's Price Guide:**
 **Type:** Artifact (Tome)
 **Description:** A thick, clinical book that determines the 'value' of every toy in existence.
 **Mechanics:** Once per day, the user can ask the DM a question about a toy's 'True Aspect' or its market value.

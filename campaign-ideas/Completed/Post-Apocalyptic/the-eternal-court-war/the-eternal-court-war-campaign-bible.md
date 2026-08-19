@@ -18,7 +18,8 @@ The World is not a circle; it's a four-way collision that's been frozen in time.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Elementalism.' It is about the 'Psychological Horror' of the atmospheric dread—the realization that your own body is becoming a weather pattern. The 'Why' is the question: 'Can you remain human when nature itself wants you to worship it?' It explores the visual transformation of the eras, the pride in building a wonder, and the dreamy, synesthetic voice of a being that speaks in colors and sensations. The players are the champions and scouts who must navigate the gopurams and sacred rivers to find a resolution that honors the memory of the Architects.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Spring Court (The Eternal Garden)
 **Type:** Theocratic/Growth-Based Superpower
 **Leader:** Lady Verdantia (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Anti-music, anti-light, and the ability to unravel reality.
 **Rivals:** All Seasonal Courts.
 
-## [TAG: NPC_TIER_1]
-**Lady Verdantia (Spring)** (Spring - The Leader) - A woman of pre-Raphaelite beauty meets body horror. **Voice:** Mezzo-soprano, musical, and persuasive. **Goal:** To turn the entire world into a permanent 'Eternal Garden.' **Secret:** She is secretly an Adept of 'Growth-Energy' who can 'persuade' a target's limbs to become plant-life through her touch.
-**Lord Helion (Summer)** (Summer - The Villain) - A man of burnished metal flesh and solar-flare hair. **Voice:** Deep bass-baritone, commanding, and passionate. **Goal:** To dominate the other courts and rule through 'Glory-Energy.' **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
-**The Harvestmask (Autumn)** (Autumn - The Enigma) - A being whose form is constantly shifting between child and crone. **Voice:** Constantly shifting, cryptic, and unsettling. **Goal:** To record the history of all endings and find the 'Seed of Stability.' **Secret:** she is the only person who can 'hear' the original Song of the World through the falling leaves.
-**Duchess Frostweave (Winter)** (Winter - The Expert) - A woman of crystal fractal patterns and cold clarity. **Voice:** Alto, crystalline, and emotionally flat. **Goal:** To stabilize the world through 'Absolute Zero' and stop the Void. **Secret:** She was the first monarch to 'Sync' with the anti-light, allowing her to become shadow.
-**The Void Prophet (Echo)** (Void - The Mastermind) - A being who speaks in anti-sound. **Voice:** Words that absorb sound, impossible to remember. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lady Verdantia (Spring)** (Spring - The Leader) - A woman of pre-Raphaelite beauty meets body horror. **Voice:** Mezzo-soprano, musical, and persuasive. **Goal:** To turn the entire world into a permanent 'Eternal Garden.' **Secret:** She is secretly an Adept of 'Growth-Energy' who can 'persuade' a target's limbs to become plant-life through her touch.
+2.  **Lord Helion (Summer)** (Summer - The Villain) - A man of burnished metal flesh and solar-flare hair. **Voice:** Deep bass-baritone, commanding, and passionate. **Goal:** To dominate the other courts and rule through 'Glory-Energy.' **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
+3.  **The Harvestmask (Autumn)** (Autumn - The Enigma) - A being whose form is constantly shifting between child and crone. **Voice:** Constantly shifting, cryptic, and unsettling. **Goal:** To record the history of all endings and find the 'Seed of Stability.' **Secret:** she is the only person who can 'hear' the original Song of the World through the falling leaves.
+4.  **Duchess Frostweave (Winter)** (Winter - The Expert) - A woman of crystal fractal patterns and cold clarity. **Voice:** Alto, crystalline, and emotionally flat. **Goal:** To stabilize the world through 'Absolute Zero' and stop the Void. **Secret:** She was the first monarch to 'Sync' with the anti-light, allowing her to become shadow.
+5.  **The Void Prophet (Echo)** (Void - The Mastermind) - A being who speaks in anti-sound. **Voice:** Words that absorb sound, impossible to remember. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Dharma' choice. |
 | The Guard | Winter Security | Frost Throne | Wears armor so crystalline it looks like ice shadow. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Borderlands (The Hub)
 A high-contrast landscape of four-season adaptations and visual chaos.
 *   **The Hub:** A site of 'Grand Strategy' and unstable key changes. **Smell:** Petrichor, ozone, and old earth. **Sound:** The rhythmic 'creak-creak' of rotating weather vents.
@@ -89,7 +92,8 @@ Brutal monumental architecture of Aztec pyramids and Roman Colosseum.
 A site of 'Visual Impossibility' and cosmic horror.
 *   **The Center:** Where the 'Fractal-Tear' is first seen. **Visual:** A single harsh spotlight in the center of the absolute black. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the Borderlands. You must escape a 'Seasonal Ambush' using only your iron axe (equivalent).
 2.  **The Bloom run:** Navigate the islands of the acidic sea to find the Messenger. You must identify the 'Respiration Seed' (equivalent) before the tide rises.
 3.  **The Pollution Infiltration:** Infiltrate the Fungal Mind's garden to find evidence of the 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -98,18 +102,19 @@ A site of 'Visual Impossibility' and cosmic horror.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Seasons
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Seasons:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Seasonal Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Season-Energy Capsule
+3.  **The Season-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Void' magic.

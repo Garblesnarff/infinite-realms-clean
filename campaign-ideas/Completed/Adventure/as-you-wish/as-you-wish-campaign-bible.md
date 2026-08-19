@@ -19,7 +19,8 @@ The World is not a planet; it's a Storybook that's being read by a Grandfather t
 ### The 'Why'
 The central conflict is the struggle between 'True Love' and 'Political Pragmatism.' It is about the 'Romantic Swashbuckler' of the human heart—the realization that 'Life is Pain, Highness. Anyone who says differently is selling something.' The 'Why' is the question: 'Can a story told with enough love and wit overcome even the most impossible geography and political corruption?' It explores the theatrical composition of the fairy tale, the tragedy of the 'Mostly Dead' hero, and the playful meta-commentary of a wise storyteller. The players are the heroes and outlaws who must navigate the Fire Swamp and the Cliffs of Insanity to find a resolution that honors the Storybook Code.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The 'True Love' Seekers (The Heroes)
 **Type:** Mythic/Romantic Task Force
 **Leader:** Westley (Tier 1 NPC).
@@ -50,12 +51,13 @@ The central conflict is the struggle between 'True Love' and 'Political Pragmati
 **Asset:** Numbers, knowledge of the Fire Swamp, and a total disregard for the Storybook.
 **Rivals:** Anyone who enters the swamp.
 
-## [TAG: NPC_TIER_1]
-**Westley (Man in Black)** (Hero - The Lead) - A man in a black mask and flowing black clothes. **Voice:** Confident, witty, and deeply romantic. **Goal:** To rescue Buttercup and defeat the Prince. **Secret:** He is a high-level Adept of 'Romance-Energy' who can 'survive' death as long as the story requires it.
-**Princess Buttercup** (Hero - The Catalyst) - A woman of storybook beauty and increasing practical confidence. **Voice:** Sincere, passionate, and regal. **Goal:** To be with Westley and find her own strength. **Secret:** She was the one who 'narrated' the location of the Man in Black's first appearance.
-**Inigo Montoya** (Outlaw - The Duelist) - A man with flowing dark hair and a rapier at his side. **Voice:** Spanish-accented, theatrical, and honorable. **Goal:** To find the six-fingered man and avenge his father. **Secret:** He has mastered the 'Inevitable Strike'—a move that cannot be blocked if the user's motive is pure.
-**Fezzik** (Outlaw - The Gentle Giant) - A man of impossible size and a gentle soul. **Voice:** Soft, rhythmic, and woodwind-toned. **Goal:** To support his friends and find a place where he belongs. **Secret:** He is actually a high-level Adept of 'Unstoppable Fury' who can 'move' buildings if he's protecting an ally.
-**Prince Humperdinck** (Order - The Villain) - A man in hunting greens with a perfectly coiffed beard. **Voice:** Measured, authoritative, and cold. **Goal:** To rule Florin through efficiency and the elimination of all variable threats. **Secret:** He is terrified of direct physical combat and views the world as a game he must rig to win.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Westley (Man in Black)** (Hero - The Lead) - A man in a black mask and flowing black clothes. **Voice:** Confident, witty, and deeply romantic. **Goal:** To rescue Buttercup and defeat the Prince. **Secret:** He is a high-level Adept of 'Romance-Energy' who can 'survive' death as long as the story requires it.
+2.  **Princess Buttercup** (Hero - The Catalyst) - A woman of storybook beauty and increasing practical confidence. **Voice:** Sincere, passionate, and regal. **Goal:** To be with Westley and find her own strength. **Secret:** She was the one who 'narrated' the location of the Man in Black's first appearance.
+3.  **Inigo Montoya** (Outlaw - The Duelist) - A man with flowing dark hair and a rapier at his side. **Voice:** Spanish-accented, theatrical, and honorable. **Goal:** To find the six-fingered man and avenge his father. **Secret:** He has mastered the 'Inevitable Strike'—a move that cannot be blocked if the user's motive is pure.
+4.  **Fezzik** (Outlaw - The Gentle Giant) - A man of impossible size and a gentle soul. **Voice:** Soft, rhythmic, and woodwind-toned. **Goal:** To support his friends and find a place where he belongs. **Secret:** He is actually a high-level Adept of 'Unstoppable Fury' who can 'move' buildings if he's protecting an ally.
+5.  **Prince Humperdinck** (Order - The Villain) - A man in hunting greens with a perfectly coiffed beard. **Voice:** Measured, authoritative, and cold. **Goal:** To rule Florin through efficiency and the elimination of all variable threats. **Secret:** He is terrified of direct physical combat and views the world as a game he must rig to win.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the struggle between 'True Love' and 'Political Pragmati
 | The Brute Squad | Enforcers | City Gate | Move with the discipline of a professional dance troupe. |
 | The Clergyman | Court Official | Florin Chapel | Only speaks about 'Mawage' and 'Two Wuv.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Cliffs of Insanity
 An impossible geography of steep stone and blue-white mist.
 *   **The Rope:** A site of 'Dynamic Dueling' and cerebral grandeur. **Visual:** Deep perspectives and the Man in Black's black silhouette. **Sound:** The rhythmic 'bong-bong' of the sea below.
@@ -91,7 +94,8 @@ A royal gold and white marble monument to opulent arrogance and gold trim.
 A site of 'Whimsical Healing' and desaturated pastels.
 *   **The Kitchen:** Where the 'Chocolate-Coated Pill' was forged. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the soul.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Kidnapping:** Buttercup is taken. You must arrive at the scene and meet the Outlaw Trio while maintaining your 'Storybook Hero' disguise.
 2.  **The Battle of Wits:** Defeat Vizzini in a high-stakes 'Logical Deduction' challenge. You must choose the right cup without confirming your knowledge of the poison.
 3.  **The Inigo Duel:** Face Inigo Montoya at the top of the Cliffs of Insanity. You must match his 'Theatrical Flair' to earn his respect.
@@ -100,18 +104,19 @@ A site of 'Whimsical Healing' and desaturated pastels.
 6.  **The Miracle Formula:** Convince Miracle Max to create a life-restoring pill. You must use your 'Romantic Idealism' to prove the motive is True Love.
 7.  **The Final Standpoint:** A three-way confrontation at Florin Castle between the Heroes, the Prince, and the Count. The truth is revealed through 'Romantic Swashbuckling' and mutual respect as the world is saved.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Inigo's Rapier
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Inigo's Rapier:**
 **Type:** Legendary Weapon
 **Description:** A simple, elegant rapier made by the master smith Domingo Montoya.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Inevitable Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Dread Pirate's Mask
+2.  **The Dread Pirate's Mask:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A simple, black mask that seems to grant the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks and makes them immune to being recognized by anyone who doesn't know their story.
 
-### 3. The Miracle Pill
+3.  **The Miracle Pill:**
 **Type:** Artifact Focus
 **Description:** A large, chocolate-coated pill that hums with the key of the first Storyteller.
 **Mechanics:** Grants the user the ability to 'Heal' a Mostly Dead creature to full HP. Once per day, the user can 'Silence' a villain's speech for 1 round.

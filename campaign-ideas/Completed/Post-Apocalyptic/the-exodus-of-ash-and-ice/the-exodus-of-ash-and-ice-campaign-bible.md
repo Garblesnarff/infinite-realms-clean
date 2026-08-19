@@ -18,7 +18,8 @@ The World is not a home; it's a cage that's being burned and frozen at the same 
 ### The 'Why'
 The central conflict is the struggle for 'Survival' in a world of 'Elemental Indifference.' It is about the 'Human Resilience' of the refugee—the realization that hope is a fragile melody that must be sung with 'Exhausted Authority.' The 'Why' is the question: 'Can humanity find a third path when the very weather wages war?' It explores the gritty realism of the weathered gear, the visceral horror of the weather-muttation, and the crackling, fire-toned voice of a being that has already seen the end of the world. The players are the road warriors and caravan masters who must navigate the subtext of a peace negotiation and the intensity of a blizzard-chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Great Caravan (The Survivors)
 **Type:** Cooperative/Ragged Human Exodus
 **Leader:** Caravan Master Kael (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Survival' in a world of 'Elemental Ind
 **Asset:** Knowledge of the deepest ruins and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Caravan Master Kael** (Survivor - The Lead) - A man in a patchwork of military gear and leather with a thousand-yard stare. **Voice:** Exhausted, authoritative, and filled with moral weight. **Goal:** To get his mob to the Green Place and outrun his own ghosts. **Secret:** He is secretly an Adept of 'Climate-Energy' who can 'stabilize' a vehicle's engine through his sheer will.
-**Elder Smoke (Ash Lord)** (Ash - The Villain) - A being of ancient fire and segmented stone. **Voice:** Crackling, ash-choked, and filled with an ancient rage. **Goal:** To reclaim the world for the 'Fire-Children' and witness the final reset. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
-**Glacier Queen (Frost Titan)** (Ice - The Enigma) - A woman of beautiful, cold wind and ice creaking. **Voice:** Cold, patient, and inevitably measured. **Goal:** To freeze the world into a state of absolute silence and 'Perfect Harmony.' **Secret:** she is the only person who can 'hear' the original Song of the Earth through the blizzard's roar.
-**The Weather Warlord** (Independent - The Catalyst) - A man in a perfectly pressed suit who views the disaster as an opportunity. **Voice:** Smooth, manipulative, and hiding a monstrosity. **Goal:** To harvest the 'Climate-Energy' and rule the remains through fear. **Secret:** He was the one who 'accidentally' designed the weapon that created the Permanent Storm.
-**The Skald (Echo)** (Independent - The Narrator) - A refugee who records the stories of the march around the campfire. **Voice:** Warm, weathered, and filled with a fragile hope. **Goal:** To witness the apocalypse and ensure the new world remembers the heroes. **Secret:** He is a direct descendant of the first Architect and his 'Song' is the only thing keeping the caravan from collapsing.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Caravan Master Kael** (Survivor - The Lead) - A man in a patchwork of military gear and leather with a thousand-yard stare. **Voice:** Exhausted, authoritative, and filled with moral weight. **Goal:** To get his mob to the Green Place and outrun his own ghosts. **Secret:** He is secretly an Adept of 'Climate-Energy' who can 'stabilize' a vehicle's engine through his sheer will.
+2.  **Elder Smoke (Ash Lord)** (Ash - The Villain) - A being of ancient fire and segmented stone. **Voice:** Crackling, ash-choked, and filled with an ancient rage. **Goal:** To reclaim the world for the 'Fire-Children' and witness the final reset. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
+3.  **Glacier Queen (Frost Titan)** (Ice - The Enigma) - A woman of beautiful, cold wind and ice creaking. **Voice:** Cold, patient, and inevitably measured. **Goal:** To freeze the world into a state of absolute silence and 'Perfect Harmony.' **Secret:** she is the only person who can 'hear' the original Song of the Earth through the blizzard's roar.
+4.  **The Weather Warlord** (Independent - The Catalyst) - A man in a perfectly pressed suit who views the disaster as an opportunity. **Voice:** Smooth, manipulative, and hiding a monstrosity. **Goal:** To harvest the 'Climate-Energy' and rule the remains through fear. **Secret:** He was the one who 'accidentally' designed the weapon that created the Permanent Storm.
+5.  **The Skald (Echo)** (Independent - The Narrator) - A refugee who records the stories of the march around the campfire. **Voice:** Warm, weathered, and filled with a fragile hope. **Goal:** To witness the apocalypse and ensure the new world remembers the heroes. **Secret:** He is a direct descendant of the first Architect and his 'Song' is the only thing keeping the caravan from collapsing.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Survival' in a world of 'Elemental Ind
 | The Guard | Settlement Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Green Temple | Spends all his time painting murals of the 'Storm's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Refugee Caravan (The Hub)
 A massive, ragged monument to human resilience and community gardens.
 *   **The Master Rig:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Diesel, charcoal smoke, and wet leather. **Sound:** The rhythmic 'hammer-thump' of rebuilding.
@@ -89,7 +92,8 @@ A desolate monument to blue blizzards and absolute whites.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Safe Haven:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Storm:** Wake up in the caravan. You must escape an 'Ash Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Road Breakout:** Join Kael in a high-stakes escape through the Neutral Gap. You must identify the 'Climate-Energy' node before the titans arrive.
 3.  **The Warlord Infiltration:** Infiltrate the Weather Warlord's camp to find evidence of his 'Reverse-Rebirth' plan. You must bypass his 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The safe haven't central crystal has begun its final 'Reset.' You must defend the Temple while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Ash Lord and the Glacier Queen face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the skin or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Exodus
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Exodus:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Chariot.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Weather-Anchor Focus
+2.  **The Weather-Anchor Focus:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Storm' magic.
 
-### 3. The Seed of the Green Place
+3.  **The Seed of the Green Place:**
 **Type:** Wondrous Item
 **Description:** A simple, glowing seed that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

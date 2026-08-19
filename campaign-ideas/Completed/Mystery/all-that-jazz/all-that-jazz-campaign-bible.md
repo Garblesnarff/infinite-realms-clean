@@ -18,7 +18,8 @@ Chicago didn't discover jazz; jazz discovered Chicago and used it to hide its si
 ### The 'Why'
 The central conflict is the struggle for 'Invisibility' in a world that demands a 'Spotlight.' It is about the cynical realization that justice is just a performance and that the truth is irrelevant if it doesn't have a good melody. The 'Why' is the question: 'How much of your soul are you willing to sell for a front-page headline?' It explores the decadence of the Jazz Age, the theatricality of crime, and the heartbreaking reality of those left in the shadows. The players are the performers, the press, and the invisible men who must navigate the razzle-dazzle to find a truth that nobody actually wants to hear.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Chicago Press (The Spotlight-Makers)
 **Type:** Media and Publicity Syndicate
 **Leader:** Mary Sunshine (A reporter who only sees the 'Good' in a good story).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Invisibility' in a world that demands 
 **Asset:** The ability to see things nobody else does because they are never in the spotlight.
 **Rivals:** Everyone (unintentionally).
 
-## [TAG: NPC_TIER_1]
-**Billy Flynn** (Independent - Legal Maestro) - A smooth-talking attorney in a sharp three-piece suit. **Voice:** Smooth, persuasive, and perfectly paced. **Goal:** To turn every trial into a hit show and never lose a case. **Secret:** He hates jazz and only listens to it to stay in tune with the city's corruption.
-**Velma Kelly** (Criminal - Bitter Queen) - The reigning queen of the cellblock. **Voice:** Sharp, cynical, and filled with a theatrical rage. **Goal:** To reclaim her headlines from Roxie Hart and return to the stage. **Secret:** She actually committed the murder she was accused of, and she doesn't regret a single step of the dance.
-**Roxie Hart** (Criminal - Desperate Starlet) - A chorus girl who finally found her spotlight in jail. **Voice:** Breathy, manipulative, and frantic. **Goal:** To become the biggest name in vaudeville through the 'Murderess of the Week' program. **Secret:** She is terrified of returning to her mundane life with Amos.
-**Mama Morton** (Independent - Matron/Manager) - The 'Mother' of the cellblock. **Voice:** Warm, transactional, and authoritative. **Goal:** To keep her girls profitable and her prison comfortable. **Secret:** She was once a failed vaudeville performer who found her true calling in the business of crime.
-**Amos Hart (Mr. Cellophane)** (Independent - Invisible Man) - Roxie's husband, a man who is literally hard to see. **Voice:** Mournful, soft, and heartbreakingly honest. **Goal:** To support Roxie, even if she doesn't know he's there. **Secret:** He knows Roxie is lying about her pregnancy but supports the lie to keep her 'special.'
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Billy Flynn** (Independent - Legal Maestro) - A smooth-talking attorney in a sharp three-piece suit. **Voice:** Smooth, persuasive, and perfectly paced. **Goal:** To turn every trial into a hit show and never lose a case. **Secret:** He hates jazz and only listens to it to stay in tune with the city's corruption.
+2.  **Velma Kelly** (Criminal - Bitter Queen) - The reigning queen of the cellblock. **Voice:** Sharp, cynical, and filled with a theatrical rage. **Goal:** To reclaim her headlines from Roxie Hart and return to the stage. **Secret:** She actually committed the murder she was accused of, and she doesn't regret a single step of the dance.
+3.  **Roxie Hart** (Criminal - Desperate Starlet) - A chorus girl who finally found her spotlight in jail. **Voice:** Breathy, manipulative, and frantic. **Goal:** To become the biggest name in vaudeville through the 'Murderess of the Week' program. **Secret:** She is terrified of returning to her mundane life with Amos.
+4.  **Mama Morton** (Independent - Matron/Manager) - The 'Mother' of the cellblock. **Voice:** Warm, transactional, and authoritative. **Goal:** To keep her girls profitable and her prison comfortable. **Secret:** She was once a failed vaudeville performer who found her true calling in the business of crime.
+5.  **Amos Hart (Mr. Cellophane)** (Independent - Invisible Man) - Roxie's husband, a man who is literally hard to see. **Voice:** Mournful, soft, and heartbreakingly honest. **Goal:** To support Roxie, even if she doesn't know he's there. **Secret:** He knows Roxie is lying about her pregnancy but supports the lie to keep her 'special.'
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Invisibility' in a world that demands 
 | The Newsie | Street Kid | Corner of 5th | Can name the market value of every scandal by the weight of the paper. |
 | 'Lipstick' | Informant | Speakeasy | Leaves a blood red mark on the wall where the next crime will happen. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Onyx Club
 An art deco jazz club with illegal booze and a killer brass band.
 *   **The Center Stage:** A harsh, white spotlight picking out the performers against deep shadows. **Smell:** Cigarette smoke, expensive gin, and sweat. **Sound:** Sultry jazz and the clink of champagne glasses.
@@ -90,7 +93,8 @@ The ultimate theater of justice, where the press gallery is the audience.
 A series of crumbling, gothic stages where the lines between performance and life are erased.
 *   **The Dressing Room:** A cluttered space of mirrors, makeup, and desperate ambitions. **Feeling:** A frantic, high-stakes energy.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Opening Night:** Roxy Hart has just shot Fred Casely. You must help her clean up the 'stylized murder' before the police arrive, or sell the story to the press immediately.
 2.  **Mama's Transaction:** Mama Morton needs a specific 'favor' from the outside. Infiltrate the Onyx Club to retrieve a suitcase of illegal booze for her 'girls.'
 3.  **The Razzle Dazzle Heist:** Billy Flynn's latest trial script has been stolen. Track the thief through the vaudeville dressing rooms to prevent a 'Boring' verdict.
@@ -99,18 +103,19 @@ A series of crumbling, gothic stages where the lines between performance and lif
 6.  **The Cell Block Tango:** The six murderesses are planning a mass breakout during their nightly performance. You must synchronize the dance steps to trigger the distraction.
 7.  **The Final Showstopper:** A three-way standoff in the courtroom between Billy Flynn, the Press, and the Murderesses. The truth is about to be revealed—can you 'Razzle Dazzle' it back into the shadows?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Billy Flynn's Silver Tongue
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Billy Flynn's Silver Tongue:**
 **Type:** Wondrous Item (Implant)
 **Description:** A silver-plated tongue that hums with the power of persuasion.
 **Mechanics:** Grants the user +5 to all Charisma (Persuasion and Deception) checks and allows them to 'Conduct' a crowd of up to 100 people.
 
-### 2. Velma Kelly's Fishnets
+2.  **Velma Kelly's Fishnets:**
 **Type:** Wondrous Item (Clothing)
 **Description:** A pair of black, silk fishnets that seem to vibrate with the rhythm of the city.
 **Mechanics:** Grants the wearer advantage on all DEX (Acrobatics) and Performance checks. Once per day, the wearer can 'Freeze' a target in a spotlight for 1 round.
 
-### 3. Mary Sunshine's Camera
+3.  **Mary Sunshine's Camera:**
 **Type:** Wondrous Item
 **Description:** A heavy, brass camera with a blindingly white flashbulb.
 **Mechanics:** The flash can be used to blind all enemies in a 30ft cone. Additionally, any photo taken by the camera reveals the 'True Aspect' of the target.

@@ -132,55 +132,55 @@ The conflict exists because **Wisdom is a finite resource that decays.** The Lan
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Bip | Janitor | Entrance | Sweeps up shadows. |
-| Mugg | Cook | Base Camp | Stew tastes like your childhood. |
-| Retta | Guide | Level 1 | Walks backwards only. |
-| Vorn | Merchant | Level 1 | Sells imaginary friends. |
-| Liss | Scribe | Level 2 | Writes with invisible ink. |
-| Kael | Scout | Level 2 | Is allergic to stone. |
-| Oog | Guard | Level 2 | Sleeping, always. |
-| Yip | Beggar | Level 3 | Asks for seconds of time. |
-| Zot | Mage | Level 3 | Spells cast via sneezing. |
-| Himm | Priest | Level 3 | Worships a shoe. |
-| Fae | Dancer | Mirror Pool | Dances without moving. |
-| Rrok | Miner | Mirror Pool | Mines for silence. |
-| Tabb | Fisher | Mirror Pool | Fishes for compliments. |
-| Ula | Nurse | Base Camp | Bandages emotional wounds. |
-| Pox | Alchemist | Level 4 | Potions taste like earwax. |
-| Gyl | Smith | Level 4 | Hammers with his head. |
-| Jinx | Jester | Level 4 | Jokes cause physical pain. |
-| Kruk | Brawler | Level 5 | Fights his own shadow. |
-| Lom | Porter | Level 5 | Carries empty boxes. |
-| Nym | Thief | Level 5 | Steals footprints. |
-| Qell | Lawyer | Level 6 | Sues ghosts. |
-| Rix | Baker | Level 6 | Bread screams when bitten. |
-| Sorn | Butcher | Level 6 | Cuts meat into fractals. |
-| Thum | Cobbler | Level 7 | Shoes that refuse to walk. |
-| Vark | Tailor | Level 7 | Sews with spider silk. |
-| Wyl | Brewer | Level 7 | Beer makes you float. |
-| Xot | Mason | Level 8 | Builds walls across paths. |
-| Yule | Lantern | Level 8 | Is a literal living lantern. |
-| Zek | Climber | Summit | Has fallen 40 times. |
-| Ash | Burner | Summit | Burns journals. |
-| Bee | Keeper | Summit | Keeps the clouds in jars. |
-| Caa | Watcher | Summit | Watches for the end. |
-| Doo | Drummer | Echo Chamber | Drums the heartbeat of earth. |
-| Eee | Screamer | Echo Chamber | Screams to test acoustics. |
-| Fff | Whisper | Echo Chamber | Whispers lie to you. |
-| Ggg | Hummer | Echo Chamber | Hums "Happy Birthday." |
-| Hhh | Breather | Echo Chamber | Steals your breath. |
-| Iii | Egoist | Ego Death | Thinks he is the DM. |
-| Jjj | Nihilist | Ego Death | Believes he is a typo. |
-| Kkk | Realist | Ego Death | Pays taxes in a dungeon. |
-| Lll | Dreamer | Ego Death | Sleeping, we are his dream. |
-| Mmm | Glutton | Food Hall | Eats ceramic plates. |
-| Nnn | Faster | Food Hall | Feeds on attention. |
-| Ooo | Critic | Gallery | Critiques the cave structure. |
-| Ppp | Artist | Gallery | Paints with darkness. |
-| Qqq | Mime | Gallery | Trapped in a real box. |
-| Rrr | Poet | Library | Rhymes only with "Orange." |
-| Sss | Snake | Library | Is a snake in a wig. |
-| Ttt | Time | Clocktower | Is moving backwards in time. |
+| **Bip** | Janitor | Entrance | Sweeps up shadows. |
+| **Mugg** | Cook | Base Camp | Stew tastes like your childhood. |
+| **Retta** | Guide | Level 1 | Walks backwards only. |
+| **Vorn** | Merchant | Level 1 | Sells imaginary friends. |
+| **Liss** | Scribe | Level 2 | Writes with invisible ink. |
+| **Kael** | Scout | Level 2 | Is allergic to stone. |
+| **Oog** | Guard | Level 2 | Sleeping, always. |
+| **Yip** | Beggar | Level 3 | Asks for seconds of time. |
+| **Zot** | Mage | Level 3 | Spells cast via sneezing. |
+| **Himm** | Priest | Level 3 | Worships a shoe. |
+| **Fae** | Dancer | Mirror Pool | Dances without moving. |
+| **Rrok** | Miner | Mirror Pool | Mines for silence. |
+| **Tabb** | Fisher | Mirror Pool | Fishes for compliments. |
+| **Ula** | Nurse | Base Camp | Bandages emotional wounds. |
+| **Pox** | Alchemist | Level 4 | Potions taste like earwax. |
+| **Gyl** | Smith | Level 4 | Hammers with his head. |
+| **Jinx** | Jester | Level 4 | Jokes cause physical pain. |
+| **Kruk** | Brawler | Level 5 | Fights his own shadow. |
+| **Lom** | Porter | Level 5 | Carries empty boxes. |
+| **Nym** | Thief | Level 5 | Steals footprints. |
+| **Qell** | Lawyer | Level 6 | Sues ghosts. |
+| **Rix** | Baker | Level 6 | Bread screams when bitten. |
+| **Sorn** | Butcher | Level 6 | Cuts meat into fractals. |
+| **Thum** | Cobbler | Level 7 | Shoes that refuse to walk. |
+| **Vark** | Tailor | Level 7 | Sews with spider silk. |
+| **Wyl** | Brewer | Level 7 | Beer makes you float. |
+| **Xot** | Mason | Level 8 | Builds walls across paths. |
+| **Yule** | Lantern | Level 8 | Is a literal living lantern. |
+| **Zek** | Climber | Summit | Has fallen 40 times. |
+| **Ash** | Burner | Summit | Burns journals. |
+| **Bee** | Keeper | Summit | Keeps the clouds in jars. |
+| **Caa** | Watcher | Summit | Watches for the end. |
+| **Doo** | Drummer | Echo Chamber | Drums the heartbeat of earth. |
+| **Eee** | Screamer | Echo Chamber | Screams to test acoustics. |
+| **Fff** | Whisper | Echo Chamber | Whispers lie to you. |
+| **Ggg** | Hummer | Echo Chamber | Hums "Happy Birthday." |
+| **Hhh** | Breather | Echo Chamber | Steals your breath. |
+| **Iii** | Egoist | Ego Death | Thinks he is the DM. |
+| **Jjj** | Nihilist | Ego Death | Believes he is a typo. |
+| **Kkk** | Realist | Ego Death | Pays taxes in a dungeon. |
+| **Lll** | Dreamer | Ego Death | Sleeping, we are his dream. |
+| **Mmm** | Glutton | Food Hall | Eats ceramic plates. |
+| **Nnn** | Faster | Food Hall | Feeds on attention. |
+| **Ooo** | Critic | Gallery | Critiques the cave structure. |
+| **Ppp** | Artist | Gallery | Paints with darkness. |
+| **Qqq** | Mime | Gallery | Trapped in a real box. |
+| **Rrr** | Poet | Library | Rhymes only with "Orange." |
+| **Sss** | Snake | Library | Is a snake in a wig. |
+| **Ttt** | Time | Clocktower | Is moving backwards in time. |
 
 ---
 

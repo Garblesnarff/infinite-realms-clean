@@ -266,36 +266,36 @@ Reality in Ironport is defined by **The Juke**. If a thing is not written down, 
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Missing Desk | Herc | Find a desk that was stolen from the precinct. | +1 Reputation (Police) |
-| The Golden Vial | Bubbles | Test a "bad batch" of drugs without dying. | Rare Info |
-| The Sunday Crown | Omar | Steal a specific hat from a dealer during church. | Omar's Favor |
-| The Juke | Rawls | Reclassify 5 murders as "accidents" in the database. | Promotion opportunity |
-| The Lost Duck | Ziggy | Retrieve a duck from the top of a crane. | A crate of vodka |
-| The Wiretap | Freamon | Listen to 4 hours of audio for one keyword. | +2 Investigation |
-| The Campaign | Carcetti | Remove opponents' posters from telephone poles. | Political favor |
-| The School Budget | Prez | Find a computer that actually works. | Access to school records |
-| The Burner | Stringer | Clone a specific cell phone within 5 minutes. | Organization Intel |
-| The Ring | Marlo | Steal a class ring from a dead body. | Cash |
-| The Eviction | Sheriff | Serve papers to a grandmother who has a shotgun. | Sadness |
-| The Copy Machine | Landsman | Fix the Xerox machine (DC 25 Intelligence). | Landsman's respect |
-| The Stolen Car | Donut | Drive a stolen car through a narrow alley. | Driving proficiency |
-| The Witness | Bunk | Find a witness who "ain't seen nothing." | Case progression |
-| The Package | The Greeks | Deliver a box without opening it. | Mystery Item |
-| The Church Window | Deacon | Raise funds for a new stained glass window. | Community Trust |
-| The Rat | Avon | Identify the snitch in the crew. | A golden pistol |
-| The Article | Gus | Fact-check a lying reporter's story. | Media contact |
-| The Sob Story | Bubbles | Sell copper pipe to a scrapyard. | $50 |
-| The Sandwich | Cutty | Deliver a sandwich to a kid on the corner. | +1 Humanity |
-| The Stakeout | McNulty | Stay awake in a car for 48 hours. | Exhaustion + Intel |
-| The Funeral | Prop Joe | Arrange a funeral for a rival. | Truce active |
-| The Zoning Law | Sobotka | Bribe a zoning official. | Union support |
-| The Mural | Artist | Protect a mural from being painted over. | Cultural Asset |
-| The Bad Badge | Daniels | Investigate a dirty cop. | Internal Affairs enemy |
-| The Shelter | Dukie | Find a warm place to sleep. | Survival success |
-| The Pigeon | Marlo | Capture a specific pigeon (it's a racing bird). | $500 |
-| The Printer | Newspaper | Stop the presses for a retraction. | Integrity |
-| The Haircut | Snoop | Get a haircut while being interrogated. | Intimidation skill |
-| TheEnd | The City | Sit on a bench and watch the sun set. | XP |
+| **The Missing Desk** | Herc | Find a desk that was stolen from the precinct. | +1 Reputation (Police) |
+| **The Golden Vial** | Bubbles | Test a "bad batch" of drugs without dying. | Rare Info |
+| **The Sunday Crown** | Omar | Steal a specific hat from a dealer during church. | Omar's Favor |
+| **The Juke** | Rawls | Reclassify 5 murders as "accidents" in the database. | Promotion opportunity |
+| **The Lost Duck** | Ziggy | Retrieve a duck from the top of a crane. | A crate of vodka |
+| **The Wiretap** | Freamon | Listen to 4 hours of audio for one keyword. | +2 Investigation |
+| **The Campaign** | Carcetti | Remove opponents' posters from telephone poles. | Political favor |
+| **The School Budget** | Prez | Find a computer that actually works. | Access to school records |
+| **The Burner** | Stringer | Clone a specific cell phone within 5 minutes. | Organization Intel |
+| **The Ring** | Marlo | Steal a class ring from a dead body. | Cash |
+| **The Eviction** | Sheriff | Serve papers to a grandmother who has a shotgun. | Sadness |
+| **The Copy Machine** | Landsman | Fix the Xerox machine (DC 25 Intelligence). | Landsman's respect |
+| **The Stolen Car** | Donut | Drive a stolen car through a narrow alley. | Driving proficiency |
+| **The Witness** | Bunk | Find a witness who "ain't seen nothing." | Case progression |
+| **The Package** | The Greeks | Deliver a box without opening it. | Mystery Item |
+| **The Church Window** | Deacon | Raise funds for a new stained glass window. | Community Trust |
+| **The Rat** | Avon | Identify the snitch in the crew. | A golden pistol |
+| **The Article** | Gus | Fact-check a lying reporter's story. | Media contact |
+| **The Sob Story** | Bubbles | Sell copper pipe to a scrapyard. | $50 |
+| **The Sandwich** | Cutty | Deliver a sandwich to a kid on the corner. | +1 Humanity |
+| **The Stakeout** | McNulty | Stay awake in a car for 48 hours. | Exhaustion + Intel |
+| **The Funeral** | Prop Joe | Arrange a funeral for a rival. | Truce active |
+| **The Zoning Law** | Sobotka | Bribe a zoning official. | Union support |
+| **The Mural** | Artist | Protect a mural from being painted over. | Cultural Asset |
+| **The Bad Badge** | Daniels | Investigate a dirty cop. | Internal Affairs enemy |
+| **The Shelter** | Dukie | Find a warm place to sleep. | Survival success |
+| **The Pigeon** | Marlo | Capture a specific pigeon (it's a racing bird). | $500 |
+| **The Printer** | Newspaper | Stop the presses for a retraction. | Integrity |
+| **The Haircut** | Snoop | Get a haircut while being interrogated. | Intimidation skill |
+| **TheEnd** | The City | Sit on a bench and watch the sun set. | XP |
 
 ***
 

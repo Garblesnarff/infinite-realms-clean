@@ -18,7 +18,8 @@ The World is not a floor; it's a hard drive that's made of stone. In the heart o
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Infinite Memory.' It is about the 'Geological Resilience' of the human spirit—the realization that your story is written in the very ground you walk on. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single pixel in a 4-billion-year recording?' It explores the layered beauty of the Grand Canyon, the pride in hearing the stone's voice, and the slow, grinding unison of a planet that remembers everything. The players are the stoneguards and seekers who must navigate the tectonic tremors and the intensity of a temporal echo to find a truth that stays solid in the deep.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Stoneguard (The Order)
 **Type:** Theocratic/Historical Defense Brotherhood
 **Leader:** Thrain (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 **Asset:** Dark voids, reality-tearing avalanches, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Thrain** (Order - The Lead) - A man whose voice is deep, gravelly, and speaks with long pauses. **Voice:** Thinking in stone-time, ancient and patient. **Goal:** To protect the 'Earth's Memory' and guide the new guards. **Secret:** He is secretly an Adept of 'Geological-Energy' who can 'rewrite' a soul's destiny through his stone-whispers.
-**The Timekeeper** (Shadow - The Villain) - A being that is neither young nor old, perfectly calm and detached. **Voice:** Timeless, melodic, and devoid of emotion. **Goal:** To prune the 'unnecessary' memories and rule the world through 'Perfect Efficiency.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Stratum Mind** (Independent - The Catalyst) - Multiple voices speaking in slow, grinding unison. **Voice:** tectonic-plate drones, grinding stone, and echoing time. **Goal:** To record every moment and find a worthy witness. **Secret:** she is the only person who can 'hear' the original Song of the World through the erosion.
-**Echo of the Builders** (Independent - The Mentor) - A distorted, static-filled recording of an ancient civilization. **Voice:** Desperate, distorted, and cutting in and out. **Goal:** To warn the present about the mistakes of the past. **Secret:** He has discovered a 'Vulnerability' in the Timekeeper's archives that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical canyon gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the crystal ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Thrain** (Order - The Lead) - A man whose voice is deep, gravelly, and speaks with long pauses. **Voice:** Thinking in stone-time, ancient and patient. **Goal:** To protect the 'Earth's Memory' and guide the new guards. **Secret:** He is secretly an Adept of 'Geological-Energy' who can 'rewrite' a soul's destiny through his stone-whispers.
+2.  **The Timekeeper** (Shadow - The Villain) - A being that is neither young nor old, perfectly calm and detached. **Voice:** Timeless, melodic, and devoid of emotion. **Goal:** To prune the 'unnecessary' memories and rule the world through 'Perfect Efficiency.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Stratum Mind** (Independent - The Catalyst) - Multiple voices speaking in slow, grinding unison. **Voice:** tectonic-plate drones, grinding stone, and echoing time. **Goal:** To record every moment and find a worthy witness. **Secret:** she is the only person who can 'hear' the original Song of the World through the erosion.
+4.  **Echo of the Builders** (Independent - The Mentor) - A distorted, static-filled recording of an ancient civilization. **Voice:** Desperate, distorted, and cutting in and out. **Goal:** To warn the present about the mistakes of the past. **Secret:** He has discovered a 'Vulnerability' in the Timekeeper's archives that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical canyon gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the crystal ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Infinite 
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Memory's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Living Wall (The Hub)
 A massive cliff face with exposed, glowing sedimentary layers.
 *   **The Heart-Seat:** A site of 'Refined Formality' and harsh geological rituals. **Smell:** Vanilla, old stone, and damp earth. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to extinction and ancient stone.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Stratum Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a canyon cave. You must survive your first 'Time Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Thrain Run:** Navigate the traditional territories to find Thrain. You must identify the 'Geological-Energy' node before the rivals arrive.
 3.  **The Crystal Heist:** Infiltrate the Memory Thieves HQ to retrieve a stolen 'Memory-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Timekeeper face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Stratum (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Stratum (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Temporal Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Memory Signet (Equivalent)
+2.  **The Memory Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the memory seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Geological-Energy Capsule (Equivalent)
+3.  **The Geological-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Temporal' magic.

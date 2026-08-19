@@ -121,56 +121,56 @@ The conflict exists because Silverport shouldn't exist. The city is using "borro
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Jubs | Baker | The Crusty Loaf | Kneads dough with feet; bread tastes of lavender. |
-| Rattle | Guard | West Gate | Armor is held together by sticky toffee. |
-| Vex | Scribe | Town Hall | Ink bleeds upward on the page. |
-| Midge | Urchin | Docks | Can smell lies (they smell like sulfur). |
-| Barnaby | Smith | The Anvil | Only forges weapons during thunderstorms. |
-| Lolo | Bard | The Gilded Goblin | Plays a flute made of a human tibia. |
-| Grit | Miner | Pit #4 | Skin turns transparent when frightened. |
-| Hobb | Butcher | Market | Talks to the meat, claims it talks back. |
-| Fable | Librarian | Vane Archives | Sneezes uncontrollably near accurate history books. |
-| Pike | Sailor | Pier 9 | Has a wooden leg that grows leaves in spring. |
-| Oona | Alchemist | Chem-District | Hair is made of blue smoke. |
-| Brick | Bouncer | The Hole | Only lets people in if they tell a sad joke. |
-| Tallow | Chandler | Candle Shop | Wears a helmet made of bees. |
-| Murk | Dredger | Sewer | Collects teeth; builds tiny castles with them. |
-| Cog | Tinker | Street Corner | Replaced own nose with a glowing bulb. |
-| Shush | Nun | Temple of Silence | Levitates 1 inch off the ground while sleeping. |
-| Vip | Drug Dealer | Alley | Sells "bottled yawns" (tranquilizers). |
-| Glum | Undertaker | Boneyard | Measures people with a tape measure while they walk by. |
-| Pip | Newsie | Plaza | Shouts headlines that haven't happened yet. |
-| Fern | Florist | Green District | Watering can is a skull. |
-| Stye | Beggar | Bridge | Has a third eye painted on forehead that blinks. |
-| Clank | Porter | Warehouse | Is actually three kobolds in a suit of armor. |
-| Dot | Waitress | Inn | Spills drinks in the shape of omens. |
-| Gutter | Rat Catcher | Undercroft | Rats follow him like the Pied Piper. |
-| Haze | Smuggler | Cove | Shadow casts a reflection of a wolf. |
-| Jinx | Gambler | Casino | Coin flips always land on edge. |
-| Mop | Janitor | University | Sweeps dust into patterns of arcane runes. |
-| Nip | Barber | Groomer | Uses a small dragon to cauterize cuts. |
-| Riff | Busker | Square | Plays a guitar with no strings (illusion). |
-| Sog | Fisher | Pier | Catches books instead of fish. |
-| Tick | Watchmaker | Clocktower | Heartbeat is audible from 5 feet away. |
-| Umber | Painter | Studio | Paints portraits that age instead of the subject. |
-| Val | Tailor | Clothier | Stitches mouths shut on mannequins (compulsively). |
-| Wisp | Lantern Lighter | Streets | Flame turns blue when ghosts are near. |
-| Xyl | Glassblower | Foundry | Blows glass shapes of people's souls. |
-| Yarp | Town Crier | Main St | Only yells bad news. Whispers good news. |
-| Zog | Orc Chef | Fancy Restaurant | Cooks delicate pastries with a greataxe. |
-| Aba | Fortune Teller | Tent | Uses cheese rinds instead of tarot cards. |
-| Bop | Courier | Roofs | Never touches the ground. Parkour expert. |
-| Cab | Driver | Carriage | Horse is skeletal but illusioned. |
-| Doff | Hatter | Shop | Hats force the wearer to tell the truth. |
-| Ebb | Water Seller | Well | Water glows in moonlight. |
-| Fop | Dandy | Ball | Clothes change color with mood. |
-| Gag | Jester | Court | Jokes cause physical pain (1d4 psychic). |
-| Huff | Glass Eater | Circus | Burps smoke rings shaped like skulls. |
-| Io | Astronomer | Tower | Telescope looks into the earth, not the sky. |
-| Jag | Bounty Hunter | Saloon | Wears a necklace of ears (elf ears). |
-| Kit | Spy | Shadow | Reflects no light (always silhouette). |
-| Lob | Ogre | Guard | Thinks he is a small elf. |
-| Mab | Witch | Swamp Edge | Lives in a house that walks on chicken legs. |
+| **Jubs** | Baker | The Crusty Loaf | Kneads dough with feet; bread tastes of lavender. |
+| **Rattle** | Guard | West Gate | Armor is held together by sticky toffee. |
+| **Vex** | Scribe | Town Hall | Ink bleeds upward on the page. |
+| **Midge** | Urchin | Docks | Can smell lies (they smell like sulfur). |
+| **Barnaby** | Smith | The Anvil | Only forges weapons during thunderstorms. |
+| **Lolo** | Bard | The Gilded Goblin | Plays a flute made of a human tibia. |
+| **Grit** | Miner | Pit #4 | Skin turns transparent when frightened. |
+| **Hobb** | Butcher | Market | Talks to the meat, claims it talks back. |
+| **Fable** | Librarian | Vane Archives | Sneezes uncontrollably near accurate history books. |
+| **Pike** | Sailor | Pier 9 | Has a wooden leg that grows leaves in spring. |
+| **Oona** | Alchemist | Chem-District | Hair is made of blue smoke. |
+| **Brick** | Bouncer | The Hole | Only lets people in if they tell a sad joke. |
+| **Tallow** | Chandler | Candle Shop | Wears a helmet made of bees. |
+| **Murk** | Dredger | Sewer | Collects teeth; builds tiny castles with them. |
+| **Cog** | Tinker | Street Corner | Replaced own nose with a glowing bulb. |
+| **Shush** | Nun | Temple of Silence | Levitates 1 inch off the ground while sleeping. |
+| **Vip** | Drug Dealer | Alley | Sells "bottled yawns" (tranquilizers). |
+| **Glum** | Undertaker | Boneyard | Measures people with a tape measure while they walk by. |
+| **Pip** | Newsie | Plaza | Shouts headlines that haven't happened yet. |
+| **Fern** | Florist | Green District | Watering can is a skull. |
+| **Stye** | Beggar | Bridge | Has a third eye painted on forehead that blinks. |
+| **Clank** | Porter | Warehouse | Is actually three kobolds in a suit of armor. |
+| **Dot** | Waitress | Inn | Spills drinks in the shape of omens. |
+| **Gutter** | Rat Catcher | Undercroft | Rats follow him like the Pied Piper. |
+| **Haze** | Smuggler | Cove | Shadow casts a reflection of a wolf. |
+| **Jinx** | Gambler | Casino | Coin flips always land on edge. |
+| **Mop** | Janitor | University | Sweeps dust into patterns of arcane runes. |
+| **Nip** | Barber | Groomer | Uses a small dragon to cauterize cuts. |
+| **Riff** | Busker | Square | Plays a guitar with no strings (illusion). |
+| **Sog** | Fisher | Pier | Catches books instead of fish. |
+| **Tick** | Watchmaker | Clocktower | Heartbeat is audible from 5 feet away. |
+| **Umber** | Painter | Studio | Paints portraits that age instead of the subject. |
+| **Val** | Tailor | Clothier | Stitches mouths shut on mannequins (compulsively). |
+| **Wisp** | Lantern Lighter | Streets | Flame turns blue when ghosts are near. |
+| **Xyl** | Glassblower | Foundry | Blows glass shapes of people's souls. |
+| **Yarp** | Town Crier | Main St | Only yells bad news. Whispers good news. |
+| **Zog** | Orc Chef | Fancy Restaurant | Cooks delicate pastries with a greataxe. |
+| **Aba** | Fortune Teller | Tent | Uses cheese rinds instead of tarot cards. |
+| **Bop** | Courier | Roofs | Never touches the ground. Parkour expert. |
+| **Cab** | Driver | Carriage | Horse is skeletal but illusioned. |
+| **Doff** | Hatter | Shop | Hats force the wearer to tell the truth. |
+| **Ebb** | Water Seller | Well | Water glows in moonlight. |
+| **Fop** | Dandy | Ball | Clothes change color with mood. |
+| **Gag** | Jester | Court | Jokes cause physical pain (1d4 psychic). |
+| **Huff** | Glass Eater | Circus | Burps smoke rings shaped like skulls. |
+| **Io** | Astronomer | Tower | Telescope looks into the earth, not the sky. |
+| **Jag** | Bounty Hunter | Saloon | Wears a necklace of ears (elf ears). |
+| **Kit** | Spy | Shadow | Reflects no light (always silhouette). |
+| **Lob** | Ogre | Guard | Thinks he is a small elf. |
+| **Mab** | Witch | Swamp Edge | Lives in a house that walks on chicken legs. |
 
 ---
 

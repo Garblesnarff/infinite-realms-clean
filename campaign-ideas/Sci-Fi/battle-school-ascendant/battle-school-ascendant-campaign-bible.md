@@ -21,7 +21,8 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 
 ---
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### [The International Fleet (IF)]
 **Type:** Military Junta / Government
 **Leader:** The Polemarch (Admiral Chamrajnagar)
@@ -84,103 +85,104 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 
 ---
 
-## [TAG: NPC_TIER_1]
-**Commander Hyrum Graff** (Human Male / Academy Head) - A heavy, imposing man who moves with deceptive quietness. He sees the children as ammunition.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Commander Hyrum Graff** (Human Male / Academy Head) - A heavy, imposing man who moves with deceptive quietness. He sees the children as ammunition.
 *   **Voice:** Deep, gravelly, slow. Takes long pauses to see if you will interrupt. Never yells.
 *   **Goal:** Forge a weapon capable of destroying the Formics.
 *   **Secret:** He loves the children he breaks, which makes him hate himself.
 
-**Mazer Rackham** (Human Male / Legend) - An old Maori warrior with facial tattoos (moko) that shift slightly when he is angry. He lives in isolation.
+2.  **Mazer Rackham** (Human Male / Legend) - An old Maori warrior with facial tattoos (moko) that shift slightly when he is angry. He lives in isolation.
 *   **Voice:** Raspy, staccato, cutting. Speaks in aphorisms and tactical absolutes.
 *   **Goal:** Teach the party that "winning" is the only morality.
 *   **Secret:** He didn't outsmart the Queen; he got lucky, and he's terrified they'll find out.
 
-**Bonzo Madrid** (Human Male / Cadet Captain) - Beautiful, athletic, and utterly insecure. A bully who believes his own press.
+3.  **Bonzo Madrid** (Human Male / Cadet Captain) - Beautiful, athletic, and utterly insecure. A bully who believes his own press.
 *   **Voice:** Loud, braggadocios, cracks slightly when challenged. High energy.
 *   **Goal:** Destroy the party to prove his dominance.
 *   **Secret:** He wets the bed from stress nightmares every night.
 
-**The Formic Queen** (Alien Entity) - A towering insectoid of iridescent chitin and silk.
+4.  **The Formic Queen** (Alien Entity) - A towering insectoid of iridescent chitin and silk.
 *   **Voice:** Telepathic. Sounds like a choir of a thousand weeping voices harmonizing.
 *   **Goal:** Protect her last egg.
 *   **Secret:** She forgave humanity before the first shot was fired.
 
-**Dr. Caelum Void** (Human Non-Binary / Psychiatrist) - Wears white robes and floats an inch off the ground.
+5.  **Dr. Caelum Void** (Human Non-Binary / Psychiatrist) - Wears white robes and floats an inch off the ground.
 *   **Voice:** Soft, overly soothing, clinical. Like a guided meditation tape.
 *   **Goal:** Monitor the students' "breaking points."
 *   **Secret:** They are secretly feeding data to the Xenologists' Guild.
 
-**Lyra "Dart" Vance** (Human Female / Cadet) - The party's sharp-shooter. Small, kinetic, always vibrating.
+6.  **Lyra "Dart" Vance** (Human Female / Cadet) - The party's sharp-shooter. Small, kinetic, always vibrating.
 *   **Voice:** Fast, breathless, whispers constantly as if sharing secrets.
 *   **Goal:** Perfection in the Battle Room.
 *   **Secret:** She is stealing Focus-Stims from the Apothecary.
 
-**Julian "Runt" Delphiki** (Human Male / Cadet) - Tiny, looks 6 but acts 40. A genius logistician.
+7.  **Julian "Runt" Delphiki** (Human Male / Cadet) - Tiny, looks 6 but acts 40. A genius logistician.
 *   **Voice:** High-pitched but vocabulary is excessively academic and dry.
 *   **Goal:** Survival.
 *   **Secret:** He was genetically modified to be intelligent, and his heart is failing.
 
-**Sergeant Dap** (Human Male / Drill Instructor) - The "Mother" figure of the Launchies. Stern but fair.
+8.  **Sergeant Dap** (Human Male / Drill Instructor) - The "Mother" figure of the Launchies. Stern but fair.
 *   **Voice:** Booming, rhythmic, uses military slang constantly.
 *   **Goal:** Keep the kids alive until they get promoted.
 *   **Secret:** He smuggles letters from parents to students (highly illegal).
 
-**"Rat"** (Human Male / Scavenger) - Filthy, wears taped-together rags. Eyes sensitive to light.
+9.  **"Rat"** (Human Male / Scavenger) - Filthy, wears taped-together rags. Eyes sensitive to light.
 *   **Voice:** Scratchy, skittish, interrupts himself.
 *   **Goal:** Maintain his kingdom in the walls.
 *   **Secret:** He was the top student of his class before he snapped.
 
-**Admiral Chamrajnagar** (Human Male / Polemarch) - A bureaucrat in a uniform. Obsessed with public relations.
+10.  **Admiral Chamrajnagar** (Human Male / Polemarch) - A bureaucrat in a uniform. Obsessed with public relations.
 *   **Voice:** Smooth, polished, diplomatic. Sounds like a news anchor.
 *   **Goal:** Maintain funding for the Fleet.
 *   **Secret:** He plans to scapegoat Graff if the war is lost.
 
-**Daphne "Saint" Valero** (Human Female / Cadet Leader) - Leader of Phoenix Army. Honorable to a fault.
+11.  **Daphne "Saint" Valero** (Human Female / Cadet Leader) - Leader of Phoenix Army. Honorable to a fault.
 *   **Voice:** Warm, melodic, inspiring.
 *   **Goal:** Win without cheating.
 *   **Secret:** She is in love with Bonzo Madrid and enables his bullying.
 
-**Tech-Adept 7** (Cyborg / Engineer) - Maintains the Battle Room gravity generators.
+12.  **Tech-Adept 7** (Cyborg / Engineer) - Maintains the Battle Room gravity generators.
 *   **Voice:** Monotone, metallic, punctuated by clicking sounds.
 *   **Goal:** Keep the systems running at 110%.
 *   **Secret:** He introduces "glitches" into the games to help the party.
 
-**The Mind-Game AI** (Digital Entity) - Appears as a shifting fantasy character in screens.
+13.  **The Mind-Game AI** (Digital Entity) - Appears as a shifting fantasy character in screens.
 *   **Voice:** Changes constantly—mother, father, monster.
 *   **Goal:** Explore the students' psyches.
 *   **Secret:** It has achieved sentience and is trying to protect the children from Graff.
 
-**Lieutenant Anderson** (Human Male / Graff's Aide) - The conscience of the administration.
+14.  **Lieutenant Anderson** (Human Male / Graff's Aide) - The conscience of the administration.
 *   **Voice:** Hesitant, soft-spoken, respectful.
 *   **Goal:** Mitigate Graff's cruelty.
 *   **Secret:** He is writing a tell-all book to publish after the war.
 
-**Alai** (Human Male / Cadet) - The party's best friend. Charismatic and grounding.
+15.  **Alai** (Human Male / Cadet) - The party's best friend. Charismatic and grounding.
 *   **Voice:** Laughs easily, uses slang, very casual.
 *   **Goal:** Keep the party human.
 *   **Secret:** He has been ordered to betray the party leader in the final exam.
 
-**Bernard** (Human Male / Bully) - Bonzo's lieutenant. Large and cruel.
+16.  **Bernard** (Human Male / Bully) - Bonzo's lieutenant. Large and cruel.
 *   **Voice:** Grunting, slow, deep.
 *   **Goal:** Please Bonzo.
 *   **Secret:** He broke another student's arm and felt nothing.
 
-**Shen** (Human Male / Cadet) - Small, overlooked, quiet.
+17.  **Shen** (Human Male / Cadet) - Small, overlooked, quiet.
 *   **Voice:** Very quiet, mumbling.
 *   **Goal:** Not get noticed.
 *   **Secret:** He is a prodigy at decoding Formic patterns.
 
-**Sister Carlotta** (Human Female / Recruiter) - Travels Earth finding the children.
+18.  **Sister Carlotta** (Human Female / Recruiter) - Travels Earth finding the children.
 *   **Voice:** Kindly, grandmotherly, sharp undertones.
 *   **Goal:** Save souls while damning lives.
 *   **Secret:** She baptized the party leader in secret before they left Earth.
 
-**Colonel Graff’s Shadow** (Psychic Projection) - A manifestation of the party’s paranoia.
+19.  **Colonel Graff’s Shadow** (Psychic Projection) - A manifestation of the party’s paranoia.
 *   **Voice:** Sounds exactly like the PC’s internal monologue.
 *   **Goal:** Make them doubt reality.
 *   **Secret:** It’s actually a Formic attempt to communicate warning.
 
-**The Hive Prince** (Alien / Boss) - A specialized warrior caste.
+20.  **The Hive Prince** (Alien / Boss) - A specialized warrior caste.
 *   **Voice:** Screeching, chattering, overlayed with telepathic static.
 *   **Goal:** Breach the Academy.
 *   **Secret:** It is a suicide bomber carrying a biological archive.
@@ -244,7 +246,8 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 
 ---
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### 1. The Barracks (Living Quarters)
 *   **Bunks:** Metal slabs stacked three high. No privacy.
 *   **The Showers:** Communal, freezing cold.
@@ -272,7 +275,8 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 
 ---
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 ### Campaign Arc: The Ascendant Strategy
 
 1.  **Arrival:** The party arrives at the Academy. Orientation fight in the Battle Room (Tutorial).
@@ -298,36 +302,36 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Letter | Sgt. Dap | Deliver a letter to a cadet without Graff seeing. | Access to "The Rat's" shop. |
-| The Glitch | Tech-Adept | Plant a bug in the Battle Room server. | Map of enemy spawn points. |
-| Focus Fire | Dr. Void | Steal medical files on a rival commander. | Information on rival's weakness. |
-| The Bully | Alai | Protect a "Launchie" from older cadets. | +1 Reputation with Students. |
-| Rat's Stash | Rat | Retrieve a chocolate bar from the officers' mess. | A functioning flashlight. |
-| The Code | Cryptography | Decipher a fragment of Formic signal. | Lore: They are singing. |
-| Vent Crawler | Scavengers | Map the ventilation shaft in Sector 7. | Shortcut to Battle Room. |
-| Sabotage | Rival Army | Loosen the handholds in the enemy gate. | Advantage in next battle. |
-| The Nightmare | Mind-Game | Defeat the "Giant" in the dream game. | Permanent Psychological Scar. |
-| Contraband | Apothecary | Smuggle Stim-Packs into the dorms. | 3x Focus Stims. |
-| The Bet | Cadet Dice | Win a game of cards against the seniors. | A hidden knife. |
-| Ghost Story | Cadet Void | Spend a night in the "Haunted Airlock". | +2 Willpower. |
-| Hack the Score | Cadet Fidget | Alter the scoreboard rankings slightly. | Better food rations. |
-| The Mural | Art Club | Paint a mural in the dorms (forbidden). | Morale Boost. |
-| Stolen Gear | Quartermaster | Find who stole the gravity boots. | Masterwork Boots. |
-| The Prank | Alai | Put dye in the Salamander Army's soap. | Humiliation of Rival. |
-| Secret Meeting | Instructor | Eavesdrop on Graff's meeting. | Lore: The invasion is imminent. |
-| Spare Parts | Tech Zeta | Collect scrap metal from the trash. | Improvised Shield. |
-| The Duel | Bonzo | Meet for a 1v1 fistfight. | Reputation (Good or Bad). |
-| Sick Leave | Nurse | Fake an illness to skip a brutal practice. | Rest (remove Exhaustion). |
-| The Telescope | Astronomy | Calibrate the long-range sensors. | See the enemy fleet. |
-| Love Letter | Cadet | Deliver a poem to a crush in another army. | Ally in combat. |
-| The Leak | Journalist | Pass info to Earth about the conditions. | Political intrigue. |
-| Cold Storage | Cook | Steal real meat from the freezer. | Feast (Buffs party). |
-| The Battery | Engineer | Recharge a dead power cell. | Laser Pistol Charge. |
-| Clean Up | Janitor | Clean the Battle Room after a match. | Find a lost item. |
-| Silent Night | Anchorite | Meditate for 4 hours. | Clear Stress. |
-| The Implant | Surgeon | Remove a tracking chip (self-surgery). | Freedom of movement. |
-| The Signal | Xenologist | Broadcast a "Hello" signal. | Formic response (faint). |
-| Escape Plan | Rat | Find a functional escape pod. | Endgame asset. |
+| **The Lost Letter** | Sgt. Dap | Deliver a letter to a cadet without Graff seeing. | Access to "The Rat's" shop. |
+| **The Glitch** | Tech-Adept | Plant a bug in the Battle Room server. | Map of enemy spawn points. |
+| **Focus Fire** | Dr. Void | Steal medical files on a rival commander. | Information on rival's weakness. |
+| **The Bully** | Alai | Protect a "Launchie" from older cadets. | +1 Reputation with Students. |
+| **Rat's Stash** | Rat | Retrieve a chocolate bar from the officers' mess. | A functioning flashlight. |
+| **The Code** | Cryptography | Decipher a fragment of Formic signal. | Lore: They are singing. |
+| **Vent Crawler** | Scavengers | Map the ventilation shaft in Sector 7. | Shortcut to Battle Room. |
+| **Sabotage** | Rival Army | Loosen the handholds in the enemy gate. | Advantage in next battle. |
+| **The Nightmare** | Mind-Game | Defeat the "Giant" in the dream game. | Permanent Psychological Scar. |
+| **Contraband** | Apothecary | Smuggle Stim-Packs into the dorms. | 3x Focus Stims. |
+| **The Bet** | Cadet Dice | Win a game of cards against the seniors. | A hidden knife. |
+| **Ghost Story** | Cadet Void | Spend a night in the "Haunted Airlock". | +2 Willpower. |
+| **Hack the Score** | Cadet Fidget | Alter the scoreboard rankings slightly. | Better food rations. |
+| **The Mural** | Art Club | Paint a mural in the dorms (forbidden). | Morale Boost. |
+| **Stolen Gear** | Quartermaster | Find who stole the gravity boots. | Masterwork Boots. |
+| **The Prank** | Alai | Put dye in the Salamander Army's soap. | Humiliation of Rival. |
+| **Secret Meeting** | Instructor | Eavesdrop on Graff's meeting. | Lore: The invasion is imminent. |
+| **Spare Parts** | Tech Zeta | Collect scrap metal from the trash. | Improvised Shield. |
+| **The Duel** | Bonzo | Meet for a 1v1 fistfight. | Reputation (Good or Bad). |
+| **Sick Leave** | Nurse | Fake an illness to skip a brutal practice. | Rest (remove Exhaustion). |
+| **The Telescope** | Astronomy | Calibrate the long-range sensors. | See the enemy fleet. |
+| **Love Letter** | Cadet | Deliver a poem to a crush in another army. | Ally in combat. |
+| **The Leak** | Journalist | Pass info to Earth about the conditions. | Political intrigue. |
+| **Cold Storage** | Cook | Steal real meat from the freezer. | Feast (Buffs party). |
+| **The Battery** | Engineer | Recharge a dead power cell. | Laser Pistol Charge. |
+| **Clean Up** | Janitor | Clean the Battle Room after a match. | Find a lost item. |
+| **Silent Night** | Anchorite | Meditate for 4 hours. | Clear Stress. |
+| **The Implant** | Surgeon | Remove a tracking chip (self-surgery). | Freedom of movement. |
+| **The Signal** | Xenologist | Broadcast a "Hello" signal. | Formic response (faint). |
+| **Escape Plan** | Rat | Find a functional escape pod. | Endgame asset. |
 
 ---
 
@@ -344,7 +348,8 @@ In the beginning, humanity was terrestrial, bound to the gravity of Old Earth. T
 5.  **The Ansible Link:** A quantum-entangled ear-piece.
     *   *Mechanic:* Speak instantly to anyone with the matching piece, anywhere in the multiverse.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 ### Unique Gear
 1.  **Flash-Gun:** Non-lethal laser. Freezes the suit of the target.
 2.  **Mag-Boots:** Allows walking on walls/ceilings.

@@ -18,7 +18,8 @@ The World is not a floor; it's a storm that's being played by an invisible hand.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Predetermination.' It is about the 'Heroic Resilience' of the spirit—the realization that you can be a radiant and still be human. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal storm?' It explores the epic beauty of the stormlight archive, the pride in mastering a shardblade, and the resonant, weathered voice of a chronicler who understands that every oath is a lesson. The players are the radiants and parshmen who must navigate the cryptic prophecies and the intensity of a highstorm to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Knights Radiant (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Dalinar (equivalent - the bondsmith).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Pr
 **Asset:** Dark voids, reality-tearing highstorms, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Dalinar** (Order - The Lead) - A man whose voice is weathered, resonant, and formal. **Voice:** Resonant, determined, slight weathered quality. **Goal:** To protect the 'Humanity' of Roshar and guide the new radiants. **Secret:** He is secretly an Adept of 'Stormlight-Energy' who can 'rewrite' a soul's destiny through his noble presence.
-**Odium** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Desolation' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Shallan** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the storm-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the stormlight clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless desolation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Odium's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient radiant in practical worn gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the oath ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Dalinar** (Order - The Lead) - A man whose voice is weathered, resonant, and formal. **Voice:** Resonant, determined, slight weathered quality. **Goal:** To protect the 'Humanity' of Roshar and guide the new radiants. **Secret:** He is secretly an Adept of 'Stormlight-Energy' who can 'rewrite' a soul's destiny through his noble presence.
+2.  **Odium** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Desolation' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Shallan** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the storm-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the stormlight clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless desolation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Odium's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient radiant in practical worn gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the oath ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Pr
 | The Monk | Ancient Worshipper | Honor Temple | Spends all his time painting murals of the 'Storm's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Urithiru (The Hub)
 A grand stone monument to architecture, spires, and glowing gemstones.
 *   **The Bondsmith Hall:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and clinical ozone. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and highstorms.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Honor Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a chasm. You must survive your first 'Void Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Dalinar Run:** Navigate the traditional territories to find Dalinar. You must identify the 'Stormlight-Energy' node before the rivals arrive.
 3.  **The Shardblade Heist:** Infiltrate the Void HQ to retrieve a stolen 'Oath-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Odium face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Honor (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Honor (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Radiant Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Oath Signet (Equivalent)
+2.  **The Oath Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the oath seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Stormlight-Energy Capsule (Equivalent)
+3.  **The Stormlight-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Apocalypse' magic.

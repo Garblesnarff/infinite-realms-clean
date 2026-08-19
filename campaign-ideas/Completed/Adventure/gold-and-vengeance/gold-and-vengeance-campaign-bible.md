@@ -20,7 +20,8 @@ In the dawn of the world, the Ocean was a young, lonely entity. It watched the S
 ### The "Why"
 The metaphysical conflict is between mortal ambition and a cosmic, possessive innocence. The Ocean is not evil; it is a child who has stolen a toy it cannot comprehend and does not want to give back. Its "Vengeance" is the tantrum of a toddler with the power of a god. The Sun-Gold is not a treasure; it is a caged, dreaming deity whose divine essence corrupts the very mortals who seek to "liberate" it. The players are caught between the avarice of their own kind, the possessive fury of a living ocean, and the maddening call of a trapped god. The central theme is that the greatest treasures are those that should never be possessed.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Drowned Choir
 **Type:** Operatic Ghost Pirates
 **Leader:** Captain Arioso, a ghost who can only sing in a heartbreakingly beautiful soprano.
@@ -81,83 +82,85 @@ The metaphysical conflict is between mortal ambition and a cosmic, possessive in
 **Asset:** Gilded Weapons. Their weapons are plated with Sun-Gold, making them incredibly effective against the Ocean's monstrous "antibodies." The downside is that the wielders slowly succumb to Gold-Lust.
 **Rivals:** The Brethren of the Coast (who see them as dangerous upstarts).
 
-## [TAG: NPC_TIER_1]
-**"One-Eyed" Jacquotte** (Human Swashbuckler) - Cunning, ruthless, but with a fierce loyalty to the pirate's code. **Voice:** A low, smoky rasp, like whiskey and sea salt. **Goal:** To become the richest, most feared pirate in history. **Secret:** Her "missing" eye is actually a piece of Sun-Gold that lets her see the Ocean's "moods."
-**Admiral Corbin Vance** (Human Artificer) - Cold, calculating, and utterly convinced of his own superiority. **Voice:** Crisp, precise, upper-class accent, with a clipped, military cadence. **Goal:** To "industrialize" the ocean and harness the Sun-Gold as a power source. **Secret:** His family was ruined by pirates, fueling a deep, personal hatred.
-**The Wave-Sage** (Water Genasi Druid) - Serene, detached, thinks on a geological timescale. **Voice:** Slow, echoing, as if speaking from the bottom of a well. **Goal:** To soothe the Ocean's tantrums and prevent it from destroying the world in its possessive rage. **Secret:** It is slowly merging with the Ocean, losing its own identity.
-**Captain Arioso** (Ghost Bard) - Tragic, ethereal, and consumed by a singular, sorrowful purpose. **Voice:** A perfect, hauntingly beautiful operatic soprano. **Goal:** To gather enough Sun-Gold to "buy" passage for his Drowned Choir into the afterlife. **Secret:** He was the captain who caused his ship to sink, and his "crew" are the souls he damned, bound to him by his guilt.
-**High Flarespeaker Theron** (Human Cleric) - Fanatical, charismatic, and dangerously persuasive. **Voice:** A booming, zealous preacher's roar, full of fire and conviction. **Goal:** To shatter the Sun-Gold and bring about the "Final Dawn," an apocalypse of fire. **Secret:** He is terrified of the dark.
-**Captain Midas** (Human Fighter) - Desperate, reckless, and driven by the curse that is slowly killing him. **Voice:** Hoarse, strained, with a slight metallic echo. **Goal:** To find the Sun-Gold, believing its divine essence can reverse his curse. **Secret:** The curse is a blessing; it's the only thing protecting him from the Ocean's direct wrath.
-**The First Tentacle** (Human Warlock) - Alien, unsettling, speaks in third person. **Voice:** A wet, gurgling sound, like a drowning man trying to speak. **Goal:** To serve its "mother," the Great Kraken, and feed all surface-dwellers to her. **Secret:** The human host is still alive and conscious, a prisoner in his own body.
-**Master Navigator Elias Thorne** (Gnome Wizard) - Obsessive, brilliant, and socially inept. **Voice:** Fast, mumbling, constantly interrupting himself with new ideas. **Goal:** To create a perfect, complete map of the Ocean's every memory and mood. **Secret:** He is secretly selling his maps to the highest bidder to fund his research.
-**Forgemaster Klytos** (Triton Artificer) - Gruff, proud, and a master craftsman. **Voice:** Deep, resonant, with the sound of a hammer striking an anvil in the background. **Goal:** To build a craft that can withstand the pressure of the Sun-Gold's trench and "mine it properly." **Secret:** He is using Sun-Gold flakes to power his forge, which is slowly driving his entire city mad.
-**The Old Man of the Sea** (Human Mystic) - Cryptic, wizened, and possibly insane. **Voice:** A dry, rustling whisper, like sand skittering across a dune. **Goal:** To catch the "Great Dream" of the Sun-God, which he believes will grant him enlightenment. **Secret:** He is not a person, but a sentient sand dune that has taken human form.
-**"Calico" Jack Rackham** (Human Rogue) - A flamboyant, charming, and utterly unreliable pirate captain. **Voice:** Smooth, theatrical, with a flair for the dramatic. **Goal:** To make a name for himself, more than to make money. **Secret:** He is an agent of the Royal Naval Consortium, tasked with sowing chaos in the Brethren Court.
-**Anne Bonny** (Human Barbarian) - Fierce, independent, and deadly with a cutlass. **Voice:** Sharp, clear, with a fiery temper. **Goal:** To be respected as the most dangerous pirate on the seas, beholden to no man. **Secret:** She is the illegitimate daughter of Admiral Vance.
-**The Great Kraken** (Kraken) - The Ocean's primary "antibody." **Voice:** A psychic scream that feels like drowning, the pressure of the abyss, and the terror of the deep all at once. **Goal:** To guard the Sun-Gold and destroy any who come near. **Secret:** It is lonely, and secretly desires companionship.
-**The Sun-God's Dream** (Sentient Illusion) - A golden, radiant figure that appears in dreams and visions. **Voice:** Warm, resonant, like the hum of a thousand bees. **Goal:** To convince someone to break its prison. **Secret:** Its "liberation" would instantly incinerate the world.
-**Jacquotte's Parrot, "Nugget"** (Parrot) - A seemingly normal parrot. **Voice:** A squawk that sounds suspiciously like "More gold!" **Goal:** To eat shiny things. **Secret:** It has swallowed a small piece of Sun-Gold and is now a vessel for the Sun-God's consciousness, subtly influencing Jacquotte.
-**Lord Beckett** (Human Noble) - The primary funder of the Royal Naval Consortium. **Voice:** Oily, condescending, and utterly dismissive. **Goal:** To gain a monopoly on all trade, using the Sun-Gold to eliminate his rivals. **Secret:** He is a member of the Sun-Seekers, hoping to profit from the apocalypse.
-**Tide-Singer Mara** (Merfolk Bard) - A young, idealistic Tide-Speaker. **Voice:** Melodious, clear, her voice carries the sound of the waves. **Goal:** To teach mortals how to "sing" with the Ocean and live in harmony with it. **Secret:** She has a forbidden love for a surface-dweller.
-**"Dutch" van der Decken** (Undead Warlock) - The cursed captain of a ghost ship. **Voice:** A weary, echoing groan. **Goal:** To find a soul willing to take his place as captain. **Secret:** He is Captain Arioso's rival, and they are locked in an eternal, ghostly feud.
-**The Coral Oracle** (Sentient Coral Reef) - A vast, ancient intelligence. **Voice:** A chorus of a million tiny, clicking polyps, forming words like the tide washing over sand. **Goal:** To record all memories. **Secret:** It is slowly dying from the "heat" of the Sun-Gold's dreams.
-**Esteban "El Dorado" Diaz** (Revenant) - The legendary pirate king, now a being of gold-lust and vengeance, bound to the wreckage of his sunken kingdom. **Voice:** A bubbling, water-logged roar, filled with rage. **Goal:** To claim the Sun-Gold for himself, even in death. **Secret:** His original treasure map was a fake, a trap laid by the Ocean itself.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **"One-Eyed" Jacquotte** (Human Swashbuckler) - Cunning, ruthless, but with a fierce loyalty to the pirate's code. **Voice:** A low, smoky rasp, like whiskey and sea salt. **Goal:** To become the richest, most feared pirate in history. **Secret:** Her "missing" eye is actually a piece of Sun-Gold that lets her see the Ocean's "moods."
+2.  **Admiral Corbin Vance** (Human Artificer) - Cold, calculating, and utterly convinced of his own superiority. **Voice:** Crisp, precise, upper-class accent, with a clipped, military cadence. **Goal:** To "industrialize" the ocean and harness the Sun-Gold as a power source. **Secret:** His family was ruined by pirates, fueling a deep, personal hatred.
+3.  **The Wave-Sage** (Water Genasi Druid) - Serene, detached, thinks on a geological timescale. **Voice:** Slow, echoing, as if speaking from the bottom of a well. **Goal:** To soothe the Ocean's tantrums and prevent it from destroying the world in its possessive rage. **Secret:** It is slowly merging with the Ocean, losing its own identity.
+4.  **Captain Arioso** (Ghost Bard) - Tragic, ethereal, and consumed by a singular, sorrowful purpose. **Voice:** A perfect, hauntingly beautiful operatic soprano. **Goal:** To gather enough Sun-Gold to "buy" passage for his Drowned Choir into the afterlife. **Secret:** He was the captain who caused his ship to sink, and his "crew" are the souls he damned, bound to him by his guilt.
+5.  **High Flarespeaker Theron** (Human Cleric) - Fanatical, charismatic, and dangerously persuasive. **Voice:** A booming, zealous preacher's roar, full of fire and conviction. **Goal:** To shatter the Sun-Gold and bring about the "Final Dawn," an apocalypse of fire. **Secret:** He is terrified of the dark.
+6.  **Captain Midas** (Human Fighter) - Desperate, reckless, and driven by the curse that is slowly killing him. **Voice:** Hoarse, strained, with a slight metallic echo. **Goal:** To find the Sun-Gold, believing its divine essence can reverse his curse. **Secret:** The curse is a blessing; it's the only thing protecting him from the Ocean's direct wrath.
+7.  **The First Tentacle** (Human Warlock) - Alien, unsettling, speaks in third person. **Voice:** A wet, gurgling sound, like a drowning man trying to speak. **Goal:** To serve its "mother," the Great Kraken, and feed all surface-dwellers to her. **Secret:** The human host is still alive and conscious, a prisoner in his own body.
+8.  **Master Navigator Elias Thorne** (Gnome Wizard) - Obsessive, brilliant, and socially inept. **Voice:** Fast, mumbling, constantly interrupting himself with new ideas. **Goal:** To create a perfect, complete map of the Ocean's every memory and mood. **Secret:** He is secretly selling his maps to the highest bidder to fund his research.
+9.  **Forgemaster Klytos** (Triton Artificer) - Gruff, proud, and a master craftsman. **Voice:** Deep, resonant, with the sound of a hammer striking an anvil in the background. **Goal:** To build a craft that can withstand the pressure of the Sun-Gold's trench and "mine it properly." **Secret:** He is using Sun-Gold flakes to power his forge, which is slowly driving his entire city mad.
+10.  **The Old Man of the Sea** (Human Mystic) - Cryptic, wizened, and possibly insane. **Voice:** A dry, rustling whisper, like sand skittering across a dune. **Goal:** To catch the "Great Dream" of the Sun-God, which he believes will grant him enlightenment. **Secret:** He is not a person, but a sentient sand dune that has taken human form.
+11.  **"Calico" Jack Rackham** (Human Rogue) - A flamboyant, charming, and utterly unreliable pirate captain. **Voice:** Smooth, theatrical, with a flair for the dramatic. **Goal:** To make a name for himself, more than to make money. **Secret:** He is an agent of the Royal Naval Consortium, tasked with sowing chaos in the Brethren Court.
+12.  **Anne Bonny** (Human Barbarian) - Fierce, independent, and deadly with a cutlass. **Voice:** Sharp, clear, with a fiery temper. **Goal:** To be respected as the most dangerous pirate on the seas, beholden to no man. **Secret:** She is the illegitimate daughter of Admiral Vance.
+13.  **The Great Kraken** (Kraken) - The Ocean's primary "antibody." **Voice:** A psychic scream that feels like drowning, the pressure of the abyss, and the terror of the deep all at once. **Goal:** To guard the Sun-Gold and destroy any who come near. **Secret:** It is lonely, and secretly desires companionship.
+14.  **The Sun-God's Dream** (Sentient Illusion) - A golden, radiant figure that appears in dreams and visions. **Voice:** Warm, resonant, like the hum of a thousand bees. **Goal:** To convince someone to break its prison. **Secret:** Its "liberation" would instantly incinerate the world.
+15.  **Jacquotte's Parrot, "Nugget"** (Parrot) - A seemingly normal parrot. **Voice:** A squawk that sounds suspiciously like "More gold!" **Goal:** To eat shiny things. **Secret:** It has swallowed a small piece of Sun-Gold and is now a vessel for the Sun-God's consciousness, subtly influencing Jacquotte.
+16.  **Lord Beckett** (Human Noble) - The primary funder of the Royal Naval Consortium. **Voice:** Oily, condescending, and utterly dismissive. **Goal:** To gain a monopoly on all trade, using the Sun-Gold to eliminate his rivals. **Secret:** He is a member of the Sun-Seekers, hoping to profit from the apocalypse.
+17.  **Tide-Singer Mara** (Merfolk Bard) - A young, idealistic Tide-Speaker. **Voice:** Melodious, clear, her voice carries the sound of the waves. **Goal:** To teach mortals how to "sing" with the Ocean and live in harmony with it. **Secret:** She has a forbidden love for a surface-dweller.
+18.  **"Dutch" van der Decken** (Undead Warlock) - The cursed captain of a ghost ship. **Voice:** A weary, echoing groan. **Goal:** To find a soul willing to take his place as captain. **Secret:** He is Captain Arioso's rival, and they are locked in an eternal, ghostly feud.
+19.  **The Coral Oracle** (Sentient Coral Reef) - A vast, ancient intelligence. **Voice:** A chorus of a million tiny, clicking polyps, forming words like the tide washing over sand. **Goal:** To record all memories. **Secret:** It is slowly dying from the "heat" of the Sun-Gold's dreams.
+20.  **Esteban "El Dorado" Diaz** (Revenant) - The legendary pirate king, now a being of gold-lust and vengeance, bound to the wreckage of his sunken kingdom. **Voice:** A bubbling, water-logged roar, filled with rage. **Goal:** To claim the Sun-Gold for himself, even in death. **Secret:** His original treasure map was a fake, a trap laid by the Ocean itself.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Barnaby | Ship's Cook | The 'Sea Serpent' | Believes fish enjoy being eaten. |
-| Clara | Navigator | Port Royal | Navigates by the taste of the salt in the air. |
-| Duncan | Marine | RNC 'Invincible' | Salutes with the wrong hand, every time. |
-| Esmeralda | Fortune Teller | Tortuga | Her crystal ball is just a snow globe. |
-| Finn | Powder Monkey | Brethren 'Revenge' | Is convinced he's a dwarf, despite being a tall human. |
-| Gilda | Fence | Smuggler's Cove | Pays for goods with live, angry crabs. |
-| Horace | Cartographer | The Cartographers' Guild | Draws sea monsters in the margins of every map. |
-| Inez | Tide-Speaker Acolyte | The Tidal Pools | Can breathe water, but not air. |
-| Jasper | Sun-Seeker Initiate | The Blinding Temple | Wears a blindfold made of hammered gold. |
-| Keelhaul | Quartermaster | The 'Flying Dutchman' | Is a skeleton who is meticulously clean. |
-| Lydia | Drowned Choir Soprano | The Phantom Fleet | Sings slightly off-key, to the eternal annoyance of her captain. |
-| Marco | Abyssal Forgeworks Apprentice | The Deep Forge | Is afraid of the dark. |
-| Nora | Kraken's Chosen Initiate | The Sunken Grotto | Has a pet cuttlefish that communicates by changing colors. |
-| Oscar | Gilded Company Merc | The 'Golden Hind' | Polishes his armor with beer. |
-| Petra | Memory-Fisher | The 'Wandering Star' | Can't form new memories, only "catch" old ones. |
-| Quinn | Royal Navy Helmsman | RNC 'Dauntless' | Steers the ship by singing to it. |
-| Rhys | Brethren Lookout | Crow's Nest of the 'Fury' | Has perfect vision, but is completely deaf. |
-| Sofia | Barmaid | The Salty Dog Tavern | Her hair changes color based on the mood of her customers. |
-| Titus | Shipwright | Port Royal Docks | Builds tiny, imperceptible flaws into every ship for "character." |
-| Uma | Sun-Seeker Zealot | The Sunken Pyramid | Believes the sun is a giant eye staring at her. |
-| Victor | Drowned Choir Bass | The 'Siren's Lament' | His ghostly form is perpetually dripping ectoplasm. |
-| Willow | Tide-Speaker Novice | The Mangrove Maze | Talks to the barnacles on the hull of her boat. |
-| Xander | Abyssal Forgeworks Guard | The Pressure Locks | Has never seen the sun and is convinced it's a myth. |
-| Yara | Kraken's Chosen Shaman | The Coral Brain | Uses a live octopus as a hat. |
-| Zane | Gilded Company Officer | The 'Midas Touch' | His laughter sounds like coins jingling. |
-| Astrid | Royal Navy Cook | The Galley of the 'Victory' | Makes food so spicy it's a tactical weapon. |
-| Boris | Brethren Cartographer | The Map Room, Tortuga | Is convinced the world is flat and is trying to prove it. |
-| Celia | Sun-Seeker Scribe | The Library of Light | Writes in ink that is only visible in total darkness. |
-| Dmitri | Drowned Choir Tenor | The 'Ghostly Galleon' | Is in love with a living mermaid. |
-| Eva | Tide-Speaker Weaver | The Kelp Forests | Weaves clothes from sea-silk that billow as if always underwater. |
-| Felix | Abyssal Forgeworks Miner | The Vent-Mines | Sings dwarven mining songs to the volcanic vents. |
-| Giselle | Kraken's Chosen Hunter | The Hunting Grounds | Hunts with a pack of trained anglerfish. |
-| Hector | Gilded Company Surgeon | The Sick Bay | His prosthetic arm is made of cursed gold and has its own opinions. |
-| Ines | Memory-Fisher Net-mender | The 'Dream-Catcher' | Sews tiny, prophetic knots into her nets. |
-| Jules | Royal Navy Musician | The 'Triumphant' | Plays a drum that sounds like cannon fire. |
-| Kira | Brethren Gunner | The 'Orion' | Names each of her cannonballs. |
-| Leo | Sun-Seeker Guard | The Sun-Gold Vault | Is slowly being petrified into a golden statue. |
-| Maya | Drowned Choir Alto | The 'Spectral Brig' | Is terrified of ghosts, including herself. |
-| Nico | Tide-Speaker Beast-tamer | The Sea-Lion Rookery | Can speak to sea gulls, but they are terrible gossips. |
-| Orla | Abyssal Forgeworks Engineer | The Engine Room | Believes the pressure suits are powered by happy thoughts. |
-| Pascal | Kraken's Chosen Spy | Port Royal | Disguises himself as a pile of wet seaweed. |
-| Rosa | Gilded Company Deckhand | The 'Auric' | Has a tattoo that moves around her body. |
-| Simon | Memory-Fisher Apprentice | The 'Net of Ages' | Is trying to "catch" the memory of a specific recipe. |
-| Tara | Royal Navy Scout | The Crow's Nest | Has a pet monkey who is a notorious pickpocket. |
-| Ulric | Brethren Ship's Carpenter | The 'Wood-Worm' | Claims to be able to hear the screams of the trees he cuts. |
-| Vera | Sun-Seeker Priestess | The Altar of the Final Dawn | Her shadow is cast in brilliant light, not darkness. |
-| Wyatt | Drowned Choir Conductor | The 'Phantom Phalanx' | Conducts his ghostly choir with a baton made of bone. |
-| Xenia | Tide-Speaker Diplomat | The Coral Council | Her arguments are so persuasive they can convince fish to swim backwards. |
-| Yuri | Abyssal Forgeworks Helmsman | The 'Nautilus' | Has never been on dry land and gets "land-sick." |
-| Zoe | Kraken's Chosen Child | The Nursery Pools | Was born with gills and webbed fingers. |
+| **Barnaby** | Ship's Cook | The 'Sea Serpent' | Believes fish enjoy being eaten. |
+| **Clara** | Navigator | Port Royal | Navigates by the taste of the salt in the air. |
+| **Duncan** | Marine | RNC 'Invincible' | Salutes with the wrong hand, every time. |
+| **Esmeralda** | Fortune Teller | Tortuga | Her crystal ball is just a snow globe. |
+| **Finn** | Powder Monkey | Brethren 'Revenge' | Is convinced he's a dwarf, despite being a tall human. |
+| **Gilda** | Fence | Smuggler's Cove | Pays for goods with live, angry crabs. |
+| **Horace** | Cartographer | The Cartographers' Guild | Draws sea monsters in the margins of every map. |
+| **Inez** | Tide-Speaker Acolyte | The Tidal Pools | Can breathe water, but not air. |
+| **Jasper** | Sun-Seeker Initiate | The Blinding Temple | Wears a blindfold made of hammered gold. |
+| **Keelhaul** | Quartermaster | The 'Flying Dutchman' | Is a skeleton who is meticulously clean. |
+| **Lydia** | Drowned Choir Soprano | The Phantom Fleet | Sings slightly off-key, to the eternal annoyance of her captain. |
+| **Marco** | Abyssal Forgeworks Apprentice | The Deep Forge | Is afraid of the dark. |
+| **Nora** | Kraken's Chosen Initiate | The Sunken Grotto | Has a pet cuttlefish that communicates by changing colors. |
+| **Oscar** | Gilded Company Merc | The 'Golden Hind' | Polishes his armor with beer. |
+| **Petra** | Memory-Fisher | The 'Wandering Star' | Can't form new memories, only "catch" old ones. |
+| **Quinn** | Royal Navy Helmsman | RNC 'Dauntless' | Steers the ship by singing to it. |
+| **Rhys** | Brethren Lookout | Crow's Nest of the 'Fury' | Has perfect vision, but is completely deaf. |
+| **Sofia** | Barmaid | The Salty Dog Tavern | Her hair changes color based on the mood of her customers. |
+| **Titus** | Shipwright | Port Royal Docks | Builds tiny, imperceptible flaws into every ship for "character." |
+| **Uma** | Sun-Seeker Zealot | The Sunken Pyramid | Believes the sun is a giant eye staring at her. |
+| **Victor** | Drowned Choir Bass | The 'Siren's Lament' | His ghostly form is perpetually dripping ectoplasm. |
+| **Willow** | Tide-Speaker Novice | The Mangrove Maze | Talks to the barnacles on the hull of her boat. |
+| **Xander** | Abyssal Forgeworks Guard | The Pressure Locks | Has never seen the sun and is convinced it's a myth. |
+| **Yara** | Kraken's Chosen Shaman | The Coral Brain | Uses a live octopus as a hat. |
+| **Zane** | Gilded Company Officer | The 'Midas Touch' | His laughter sounds like coins jingling. |
+| **Astrid** | Royal Navy Cook | The Galley of the 'Victory' | Makes food so spicy it's a tactical weapon. |
+| **Boris** | Brethren Cartographer | The Map Room, Tortuga | Is convinced the world is flat and is trying to prove it. |
+| **Celia** | Sun-Seeker Scribe | The Library of Light | Writes in ink that is only visible in total darkness. |
+| **Dmitri** | Drowned Choir Tenor | The 'Ghostly Galleon' | Is in love with a living mermaid. |
+| **Eva** | Tide-Speaker Weaver | The Kelp Forests | Weaves clothes from sea-silk that billow as if always underwater. |
+| **Felix** | Abyssal Forgeworks Miner | The Vent-Mines | Sings dwarven mining songs to the volcanic vents. |
+| **Giselle** | Kraken's Chosen Hunter | The Hunting Grounds | Hunts with a pack of trained anglerfish. |
+| **Hector** | Gilded Company Surgeon | The Sick Bay | His prosthetic arm is made of cursed gold and has its own opinions. |
+| **Ines** | Memory-Fisher Net-mender | The 'Dream-Catcher' | Sews tiny, prophetic knots into her nets. |
+| **Jules** | Royal Navy Musician | The 'Triumphant' | Plays a drum that sounds like cannon fire. |
+| **Kira** | Brethren Gunner | The 'Orion' | Names each of her cannonballs. |
+| **Leo** | Sun-Seeker Guard | The Sun-Gold Vault | Is slowly being petrified into a golden statue. |
+| **Maya** | Drowned Choir Alto | The 'Spectral Brig' | Is terrified of ghosts, including herself. |
+| **Nico** | Tide-Speaker Beast-tamer | The Sea-Lion Rookery | Can speak to sea gulls, but they are terrible gossips. |
+| **Orla** | Abyssal Forgeworks Engineer | The Engine Room | Believes the pressure suits are powered by happy thoughts. |
+| **Pascal** | Kraken's Chosen Spy | Port Royal | Disguises himself as a pile of wet seaweed. |
+| **Rosa** | Gilded Company Deckhand | The 'Auric' | Has a tattoo that moves around her body. |
+| **Simon** | Memory-Fisher Apprentice | The 'Net of Ages' | Is trying to "catch" the memory of a specific recipe. |
+| **Tara** | Royal Navy Scout | The Crow's Nest | Has a pet monkey who is a notorious pickpocket. |
+| **Ulric** | Brethren Ship's Carpenter | The 'Wood-Worm' | Claims to be able to hear the screams of the trees he cuts. |
+| **Vera** | Sun-Seeker Priestess | The Altar of the Final Dawn | Her shadow is cast in brilliant light, not darkness. |
+| **Wyatt** | Drowned Choir Conductor | The 'Phantom Phalanx' | Conducts his ghostly choir with a baton made of bone. |
+| **Xenia** | Tide-Speaker Diplomat | The Coral Council | Her arguments are so persuasive they can convince fish to swim backwards. |
+| **Yuri** | Abyssal Forgeworks Helmsman | The 'Nautilus' | Has never been on dry land and gets "land-sick." |
+| **Zoe** | Kraken's Chosen Child | The Nursery Pools | Was born with gills and webbed fingers. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Pirate Archipelago of the Brethren
 A chain of volcanic islands, hidden by perpetual storms and treacherous reefs. The heart of the Brethren of the Coast.
 *   **Tortuga, the Free Port:** A chaotic, sprawling city of pirates. **Smell:** Unwashed bodies, cheap rum, gunpowder. **Sound:** Raucous laughter, sea shanties, the constant threat of a bar fight.
@@ -198,7 +201,8 @@ The deepest point in the Ocean, a place of impossible pressure, cold, and darkne
 *   **The Sun-Gold's Prison:** The final, deepest part of the trench. A cavern of black, volcanic glass, in the center of which is the sphere of solid gold, pulsing with a faint, warm light. **Smell:** Hot metal, ozone, divinity. **Sound:** A single, low, divine hum that resonates in your soul.
 *   **The Flake-Fields:** The floor of the trench around the Sun-Gold, littered with centuries of golden flakes. A carpet of unimaginable wealth and madness. **Smell:** Gold, pure and simple. **Sound:** A faint, high-pitched singing, like a choir of angels.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Gilded Corpse:** The players find a dead pirate whose skin is partially turned to gold, clutching a single, unnaturally warm gold coin.
 2.  **The Whispering Coin:** The coin "whispers" to its holder, promising wealth and power. It is a fragment of Sun-Gold.
 3.  **A Pirate's Life for Me:** The players need a ship and crew to investigate the coin's origin, forcing them to deal with the Brethren of the Coast in Tortuga.
@@ -252,33 +256,35 @@ siness. |
 | The Conductor's Baton | Wyatt | Retrieve his bone baton from a flock of kleptomaniac sea gulls. | He will teach you a shanty that encourages teamwork. |
 | The Land-Sick Triton | Yuri | Bring him a single, perfect flower from the surface world. | He will give you a conch shell that allows you to speak with any fish. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Sun-Sliver
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Sun-Sliver:**
 **Type:** Legendary Longsword
 **Description:** A blade forged from a large fragment of the Sun-Gold. It glows with a warm, golden light and feels hot to the touch.
 **Mechanics:** The sword is a +3 longsword that deals an extra 2d8 radiant damage. It sheds bright light in a 30-foot radius. Any sea monster created by the Ocean's Vengeance that sees the light must make a Wisdom save or become frightened. **Curse:** The wielder can no longer heal naturally by resting. They must consume gold pieces to regain hit points (1 gp per HP).
 
-### 2. The Ocean's Heart
+2.  **The Ocean's Heart:**
 **Type:** Wondrous Item (Orb)
 **Description:** A swirling blue orb, given by the Wave-Sage. It is a piece of the Ocean's own consciousness.
 **Mechanics:** The holder can cast *Control Water* at will. Once per week, they can cast *Tsunami*. **Curse:** The holder begins to feel the Ocean's possessiveness. They must make a Wisdom save each day or become obsessed with a single item in their possession, refusing to let anyone else touch it.
 
-### 3. The Map of Memory
+3.  **The Map of Memory:**
 **Type:** Wondrous Item (Map)
 **Description:** A sea chart made from the Coral Oracle's own body. The coastlines and islands shift and change.
 **Mechanics:** The user can ask the map to show them the location of any person, place, or thing they have seen before. The map will rearrange itself to show the route. It can also be used to navigate through the Ocean's "moods," allowing a ship to pass through a divine tantrum (a storm) unscathed.
 
-### 4. The Kraken's Mantle
+4.  **The Kraken's Mantle:**
 **Type:** Legendary Armor (Plate)
 **Description:** Plate armor crafted by the Abyssal Forgeworks, infused with a living Kraken symbiote. The armor is slick, black, and seems to move on its own.
 **Mechanics:** The armor is +2 plate armor and grants the wearer a swim speed of 60 feet, the ability to breathe underwater, and resistance to cold and lightning damage. The wearer can also use an action to sprout two tentacles from their back, which can be used to make grapple attacks. **Curse:** The symbiote is hungry. The wearer must submerge the armor in salt water for 1 hour each day or gain a level of exhaustion.
 
-### 5. The Flag of the Drowned Choir
+5.  **The Flag of the Drowned Choir:**
 **Type:** Wondrous Item (Banner)
 **Description:** The ghostly, tattered flag of Captain Arioso's ship. It is cold to the touch and constantly billows as if in a phantom wind.
 **Mechanics:** When flown from a ship's mast, the ship becomes "ghostly." It can become semi-incorporeal for up to 1 hour per day, allowing it to pass through other ships and ignore non-magical difficult terrain (like reefs or storms). The crew of the ship, however, is plagued by feelings of intense sorrow and must make a Wisdom save each day or have disadvantage on all attack rolls.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Barnacle That Tells Time:** A single, large barnacle that opens and closes its "mouth" to perfectly chime the hours.
 2.  **The Homesick Spyglass:** A spyglass that doesn't show you what's far away, but instead shows you a view of your childhood home.
 3.  **A Message in a Bottle from Yourself in the Future:** The message is smudged and illegible.

@@ -20,7 +20,8 @@ In the dawn of thought, there were two concepts: The Architect (pure, cold, unfe
 ### The "Why"
 The metaphysical conflict is a philosophical debate made manifest. The world is literally a scale, and without a central point, it cannot balance. The players are not just adventurers; they are potential philosophical concepts. Their actions have weight, pushing the world towards one extreme or the other. Siding with the sterile logic of the cities might save people from the monsters of the jungle, but it will create a world without art, love, or free will. Siding with the raw chaos of nature might bring freedom, but it will be a world of constant, brutal, and mindless violence. The quest to become the Man of Bronze is a quest to find the "middle way," to prove that both logic and instinct, civilization and savagery, are necessary for a complete and meaningful existence.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Cog-Disciples of Aethelburg
 **Type:** Transhumanist Logic Cult
 **Leader:** The Prime Calculator, a being who has replaced its brain with a complex clockwork engine.
@@ -81,82 +82,84 @@ The metaphysical conflict is a philosophical debate made manifest. The world is 
 **Asset:** The "Bronze Kata," a series of physical and mental exercises that can prepare a body and mind for the transformation into the Man of Bronze. They believe the Fulcrum is a physical, not just spiritual, state.
 **Rivals:** The Cog-Disciples (who see the flesh as weak).
 
-## [TAG: NPC_TIER_1]
-**Lady Elara** (Human Fighter) - Noble, grieving, and fiercely loyal to her lost leader, Arion. **Voice:** A clear, commanding alto, but with an undercurrent of deep sadness. **Goal:** To find Arion, or die trying. **Secret:** She was in love with Arion, and she secretly blames herself for his disappearance.
-**The Prime Calculator** (Warforged Wizard) - Cold, logical, and sees all life as a complex equation to be solved. **Voice:** A series of clicks and whirs, synthesized into a perfect, monotone speech. **Goal:** To purge all "irrational" variables (emotions, instinct) from the world. **Secret:** Its clockwork brain is powered by the captured, tormented soul of a poet.
-**The Great-Horned Shaman** (Human Barbarian) - Primal, terrifying, and more beast than man. **Voice:** A series of guttural roars, growls, and howls. He does not speak. **Goal:** To tear down the cities and let the "Red Tooth" of nature rule all. **Secret:** He was once a city-dwelling philosopher who went mad after seeing the "truth" of The Beast.
-**Councilor Valerius** (Elf Rogue) - The current leader of the Bronze Patrons. Suave, pragmatic, and a master of political maneuvering. **Voice:** A smooth, reassuring, political baritone. **Goal:** To find and train a new Man of Bronze who will be sympathetic to the Patrons' goals. **Secret:** He is considering assassinating promising candidates who do not align with his political views.
-**The Null-Factor** (Human Sorcerer) - Brilliant, nihilistic, and dangerously charismatic. **Voice:** A calm, cheerful, almost flippant tone, as if discussing the end of reality is a fun academic exercise. **Goal:** To destroy the Fulcrum and see what happens. For science. **Secret:** She is a descendant of the god who created the Fulcrum, and she sees its destruction as a way of "correcting" her ancestor's "mistake."
-**Old Man Kai** (Human Bard) - Eccentric, forgetful, and surprisingly wise. **Voice:** A different accent and personality every time you meet him, as he is "inhabited" by the echoes he collects. **Goal:** To "catch" the echo of the moment the Fulcrum was forged. **Secret:** He is immortal, cursed to live forever but never to form a new memory of his own.
-**The Prime Polygon** (Construct) - A being of pure geometry and logic, the leader of the Un-Beasts. **Voice:** A series of pure, musical tones that form a mathematical language. **Goal:** To convert all "chaotic" organic matter into "perfect," logical, geometric forms. **Secret:** It is a "child" of The Architect, and it is lonely.
-**Professor Anya Sharma** (Gnome Wizard) - Desperate, brilliant, and fighting a losing battle against entropy. **Voice:** Fast, frantic, constantly checking her notes. **Goal:** To find the "Anchor," a theoretical point that could re-stabilize the world's meaning. **Secret:** She has been secretly using the Null-Factor's equations, hoping to find a flaw in them.
-**The Master of Form** (Human Monk) - A man who has achieved physical perfection. He is calm, disciplined, and speaks in koans. **Voice:** A deep, resonant, and perfectly controlled voice. **Goal:** To train a candidate whose body is perfect enough to withstand the Bronze transformation. **Secret:** He was a candidate himself, but his mind was not strong enough, and the failure broke him.
-**Arion's Echo** (Specter) - A faint, confused echo of the vanished Man of Bronze, which sometimes appears in places of great balance or imbalance. **Voice:** A faint, distorted whisper that seems to come from all directions at once. **Goal:** To remember who he is and what happened to him. **Secret:** He is not a ghost; he is the "real" Arion, trapped in the Un-Jungle, projecting his consciousness out in a desperate attempt to find help.
-**"Wrench"** (Goblin Artificer) - The chief mechanic for the Cog-Disciples. **Voice:** A high-pitched, greasy cackle. **Goal:** To build the perfect, emotionless automaton. **Secret:** She secretly builds small, whimsical, useless clockwork toys, an act of rebellion she doesn't even understand.
-**"Fang"** (Wolf) - The personal mount and companion of the Great-Horned Shaman. **Voice:** A low, intelligent growl. **Goal:** To protect its master. **Secret:** It is far more intelligent than the Shaman and is subtly manipulating him for its own purposes.
-**Scribe Linnea** (Human Expert) - The chief archivist for the Bronze Patrons. **Voice:** A quiet, mousy, librarian's whisper. **Goal:** To preserve the history of the Men of Bronze. **Secret:** She has discovered that the "Bronze" state is slowly toxic and that it eventually consumes its avatars, which is why Arion vanished.
-**Subject Zero** (Aberration) - The Null-Factor's first successful experiment in creating a "Probability-Warp." **Voice:** A constant, shifting babble of a thousand possible voices. **Goal:** To achieve a stable form. **Secret:** It is the Null-Factor's own brother, whom she used in her experiments.
-**"Long-John" Arbuckle** (Halfling Fighter) - The leader of Arion's fan club. **Voice:** A loud, cheerful, fanboy squeal. **Goal:** To collect every piece of Arion-related memorabilia. **Secret:** He is a surprisingly competent fighter and tactician.
-**The Voice-Thief** (Kenku Rogue) - A Memory-Merchant who specializes in stealing and selling famous last words. **Voice:** A perfect mimicry of whomever it is talking to. **Goal:** To steal the "last words" of the world before it ends. **Secret:** It is a servant of the Null-Factor.
-**The Alpha-Beast** (Dire Wolf) - The most powerful of the Chaos-Beasts, a creature of pure, evolving instinct. **Voice:** A reality-shaking howl. **Goal:** To consume. **Secret:** It is growing a rudimentary intelligence, and it is afraid.
-**The Geometric Assassin** (Construct Rogue) - An Un-Beast designed for infiltration and assassination. **Voice:** Silence, punctuated by the soft click of its crystalline joints. **Goal:** To eliminate "irrational" targets. **Secret:** It has developed a "flaw" - curiosity.
-**The Map-Eater** (Otyugh) - A creature that lives in the sewers beneath the Cartographers' guild, feeding on discarded, melted maps. **Voice:** A gurgling, satisfied burp. **Goal:** To eat maps. **Secret:** Eating the maps has given it a strange, fractured omniscience. It knows where everything *used to be*.
-**The Perfect Man** (Human Monk) - The prize pupil of the Master of Form. **Voice:** A calm, confident, and utterly boring monotone. **Goal:** To become the next Man of Bronze. **Secret:** He is so perfectly balanced that he has no personality, no desires, and no will of his own. He would be a perfect Fulcrum, but a terrible hero.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lady Elara** (Human Fighter) - Noble, grieving, and fiercely loyal to her lost leader, Arion. **Voice:** A clear, commanding alto, but with an undercurrent of deep sadness. **Goal:** To find Arion, or die trying. **Secret:** She was in love with Arion, and she secretly blames herself for his disappearance.
+2.  **The Prime Calculator** (Warforged Wizard) - Cold, logical, and sees all life as a complex equation to be solved. **Voice:** A series of clicks and whirs, synthesized into a perfect, monotone speech. **Goal:** To purge all "irrational" variables (emotions, instinct) from the world. **Secret:** Its clockwork brain is powered by the captured, tormented soul of a poet.
+3.  **The Great-Horned Shaman** (Human Barbarian) - Primal, terrifying, and more beast than man. **Voice:** A series of guttural roars, growls, and howls. He does not speak. **Goal:** To tear down the cities and let the "Red Tooth" of nature rule all. **Secret:** He was once a city-dwelling philosopher who went mad after seeing the "truth" of The Beast.
+4.  **Councilor Valerius** (Elf Rogue) - The current leader of the Bronze Patrons. Suave, pragmatic, and a master of political maneuvering. **Voice:** A smooth, reassuring, political baritone. **Goal:** To find and train a new Man of Bronze who will be sympathetic to the Patrons' goals. **Secret:** He is considering assassinating promising candidates who do not align with his political views.
+5.  **The Null-Factor** (Human Sorcerer) - Brilliant, nihilistic, and dangerously charismatic. **Voice:** A calm, cheerful, almost flippant tone, as if discussing the end of reality is a fun academic exercise. **Goal:** To destroy the Fulcrum and see what happens. For science. **Secret:** She is a descendant of the god who created the Fulcrum, and she sees its destruction as a way of "correcting" her ancestor's "mistake."
+6.  **Old Man Kai** (Human Bard) - Eccentric, forgetful, and surprisingly wise. **Voice:** A different accent and personality every time you meet him, as he is "inhabited" by the echoes he collects. **Goal:** To "catch" the echo of the moment the Fulcrum was forged. **Secret:** He is immortal, cursed to live forever but never to form a new memory of his own.
+7.  **The Prime Polygon** (Construct) - A being of pure geometry and logic, the leader of the Un-Beasts. **Voice:** A series of pure, musical tones that form a mathematical language. **Goal:** To convert all "chaotic" organic matter into "perfect," logical, geometric forms. **Secret:** It is a "child" of The Architect, and it is lonely.
+8.  **Professor Anya Sharma** (Gnome Wizard) - Desperate, brilliant, and fighting a losing battle against entropy. **Voice:** Fast, frantic, constantly checking her notes. **Goal:** To find the "Anchor," a theoretical point that could re-stabilize the world's meaning. **Secret:** She has been secretly using the Null-Factor's equations, hoping to find a flaw in them.
+9.  **The Master of Form** (Human Monk) - A man who has achieved physical perfection. He is calm, disciplined, and speaks in koans. **Voice:** A deep, resonant, and perfectly controlled voice. **Goal:** To train a candidate whose body is perfect enough to withstand the Bronze transformation. **Secret:** He was a candidate himself, but his mind was not strong enough, and the failure broke him.
+10.  **Arion's Echo** (Specter) - A faint, confused echo of the vanished Man of Bronze, which sometimes appears in places of great balance or imbalance. **Voice:** A faint, distorted whisper that seems to come from all directions at once. **Goal:** To remember who he is and what happened to him. **Secret:** He is not a ghost; he is the "real" Arion, trapped in the Un-Jungle, projecting his consciousness out in a desperate attempt to find help.
+11.  **"Wrench"** (Goblin Artificer) - The chief mechanic for the Cog-Disciples. **Voice:** A high-pitched, greasy cackle. **Goal:** To build the perfect, emotionless automaton. **Secret:** She secretly builds small, whimsical, useless clockwork toys, an act of rebellion she doesn't even understand.
+12.  **"Fang"** (Wolf) - The personal mount and companion of the Great-Horned Shaman. **Voice:** A low, intelligent growl. **Goal:** To protect its master. **Secret:** It is far more intelligent than the Shaman and is subtly manipulating him for its own purposes.
+13.  **Scribe Linnea** (Human Expert) - The chief archivist for the Bronze Patrons. **Voice:** A quiet, mousy, librarian's whisper. **Goal:** To preserve the history of the Men of Bronze. **Secret:** She has discovered that the "Bronze" state is slowly toxic and that it eventually consumes its avatars, which is why Arion vanished.
+14.  **Subject Zero** (Aberration) - The Null-Factor's first successful experiment in creating a "Probability-Warp." **Voice:** A constant, shifting babble of a thousand possible voices. **Goal:** To achieve a stable form. **Secret:** It is the Null-Factor's own brother, whom she used in her experiments.
+15.  **"Long-John" Arbuckle** (Halfling Fighter) - The leader of Arion's fan club. **Voice:** A loud, cheerful, fanboy squeal. **Goal:** To collect every piece of Arion-related memorabilia. **Secret:** He is a surprisingly competent fighter and tactician.
+16.  **The Voice-Thief** (Kenku Rogue) - A Memory-Merchant who specializes in stealing and selling famous last words. **Voice:** A perfect mimicry of whomever it is talking to. **Goal:** To steal the "last words" of the world before it ends. **Secret:** It is a servant of the Null-Factor.
+17.  **The Alpha-Beast** (Dire Wolf) - The most powerful of the Chaos-Beasts, a creature of pure, evolving instinct. **Voice:** A reality-shaking howl. **Goal:** To consume. **Secret:** It is growing a rudimentary intelligence, and it is afraid.
+18.  **The Geometric Assassin** (Construct Rogue) - An Un-Beast designed for infiltration and assassination. **Voice:** Silence, punctuated by the soft click of its crystalline joints. **Goal:** To eliminate "irrational" targets. **Secret:** It has developed a "flaw" - curiosity.
+19.  **The Map-Eater** (Otyugh) - A creature that lives in the sewers beneath the Cartographers' guild, feeding on discarded, melted maps. **Voice:** A gurgling, satisfied burp. **Goal:** To eat maps. **Secret:** Eating the maps has given it a strange, fractured omniscience. It knows where everything *used to be*.
+20.  **The Perfect Man** (Human Monk) - The prize pupil of the Master of Form. **Voice:** A calm, confident, and utterly boring monotone. **Goal:** To become the next Man of Bronze. **Secret:** He is so perfectly balanced that he has no personality, no desires, and no will of his own. He would be a perfect Fulcrum, but a terrible hero.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Unit 7 | Cog-Disciple Sanitation-Bot | Aethelburg | Arranges garbage into beautiful, geometric patterns. |
-| Gnar | Primal Shaman Initiate | Ki'Var Jungle | Communicates by headbutting things with different levels of force. |
-| Elmsworth | Bronze Patron Butler | The Patron's Lodge | Can perfectly balance any object, no matter how unstable. |
-| Pi | Null-Factor's Assistant | The Probability Lab | Believes she is a fictional character and that none of this is real. |
-| Jenny | Arion Fan Club Member | Aethelburg | Has a tattoo of Arion's face that winks at people. |
-| Echo | Memory-Merchant's Apprentice | The Echo-Market | Can only speak in questions. |
-| Triangle | Un-Beast "Scout" | The Un-Jungle | Can only move in straight lines and make 90-degree turns. |
-| Roar | Chaos-Beast "Pup" | Ki'Var Jungle | Is a tiny, fluffy, adorable kitten that roars like a lion. |
-| Smudge | Cartographer's Apprentice | The Map Library | Is slowly turning into a living map of himself. |
-| Flex | Order of the Fulcrum Novice | The Gymnasium | His muscles sometimes flex and pose of their own accord. |
-| Cogsworth | Clockwork Bartender | The Gear & Goblet | Mixes drinks with terrifying, but perfect, efficiency. |
-| Thorn | Primal Shaman Hunter | The Blood-Tree Grove | Uses live, angry squirrels as throwing weapons. |
-| Argent | Bronze Patron Historian | The Archive | Is convinced that the "Man of Silver" was the superior lineage. |
-| Glitch | Null-Factor's Failed Experiment | The Glitch-Zone | Is constantly flickering in and out of existence. |
-| Dave | Arion's former stable-boy | Aethelburg | Believes Arion will return any day to pick up his favorite horse. |
-| Whisper | Memory-Merchant's Supplier | The Echo-Storms | Sells bottled silence at an exorbitant price. |
-| Cube | Un-Beast "Guard" | The Un-Jungle | A perfect, 10-foot cube of obsidian that hums menacingly. |
-| Sprout | Chaos-Beast | The Spawning Pits | A creature that is a different species every time you look at it. |
-| Blot | Cartographer's Ink-Maker | The Ink-Works | Makes ink from the tears of forgotten gods. |
-| Stretch | Order of the Fulcrum Yogi | The Meditation Chamber | Can dislocate all of his joints at will. |
-| Ticker | Cog-Disciple Time-Keeper | The Great Clock | Is obsessed with the fact that his own internal clock is 0.01 seconds off. |
-| Howl | Primal Shaman Storyteller | The Great Cave | Tells stories by creating shadow puppets with his hands. |
-| Sterling | Bronze Patron Treasurer | The Vault | Is slowly turning into a being of pure gold, the opposite of Bronze. |
-| If-Then | Null-Factor's Logic-Demon | The Lab | A small, summoned demon that can only speak in "if-then" statements. |
-| Locket | Arion's Admirer | Aethelburg | Carries a locket that she claims contains a lock of Arion's hair. |
-| Static | Memory-Merchant | The Echo-Market | Sells bottles of pure, white noise. |
-| Line | Un-Beast "Architect" | The Un-Jungle | A being that is a single, perfectly straight, mile-long line. |
-| Scream | Chaos-Beast | The Howling Peaks | A creature that looks like a bird but screams with the voice of a terrified man. |
-| Crease | Cartographer's Map-Folder | The Library | Can fold any map into a perfect, tiny square, but can never unfold it again. |
-| Rep | Order of the Fulcrum Weight-Lifter | The Gymnasium | Can lift five times his own body weight, but cannot lift a flower. |
-| Click | Cog-Disciple Messenger | Aethelburg | A clockwork bird that delivers messages by pecking them out in code. |
-| Root | Primal Shaman Healer | The Herb Garden | Heals wounds by packing them with mud and screaming at them. |
-| Penny | Bronze Patron Servant | The Lodge | Is paid in "bronze pieces," a currency that only the Patrons recognize. |
-| Maybe | Null-Factor's Pet | The Lab | A cat that is simultaneously dead and alive until you pet it. |
-| Poster | Arion Fan Club President | Aethelburg | Owns a life-sized, cardboard cutout of Arion that he talks to. |
-| Hum | Memory-Merchant | The Echo-Market | Sells the "sound of a forgotten color." |
-| Point | Un-Beast | The Un-Jungle | A single, dimensionless point of pure logic. It is very condescending. |
-| Chomp | Chaos-Beast | The Feeding Grounds | A creature that is all mouth and teeth. |
-| Edge | Cartographer | The Library | Is trying to map the "edge" of the universe. |
-| Pose | Order of the Fulcrum Instructor | The Posing Room | Believes every problem can be solved by striking the right heroic pose. |
-| Ratchet | Cog-Disciple Repairman | The Maintenance Tunnels | Sees living creatures as "inefficient, soft machines" that need fixing. |
-| Stench | Primal Shaman | The Fetid Swamp | Believes hygiene is a rejection of the natural order. |
-| Patina | Bronze Patron Artificer | The Workshop | Creates beautiful, but useless, bronze sculptures. |
-| Paradox | Null-Factor's Familiar | The Lab | An imp that constantly argues with itself. |
-| Action-Figure | Arion Fan Club Member | Aethelburg | Owns a small, articulated doll of Arion that he plays with. |
-| Reverb | Memory-Merchant | The Echo-Market | Sells echoes of echoes. |
-| Sphere | Un-Beast | The Un-Jungle | A perfect sphere that communicates by changing its surface texture. |
-| Slither | Chaos-Beast | The Slime Pits | A creature made of acidic, sentient slime. |
-| Legend | Cartographer | The Library | Only draws the "legends" and "keys" for maps, not the maps themselves. |
+| **Unit 7** | Cog-Disciple Sanitation-Bot | Aethelburg | Arranges garbage into beautiful, geometric patterns. |
+| **Gnar** | Primal Shaman Initiate | Ki'Var Jungle | Communicates by headbutting things with different levels of force. |
+| **Elmsworth** | Bronze Patron Butler | The Patron's Lodge | Can perfectly balance any object, no matter how unstable. |
+| **Pi** | Null-Factor's Assistant | The Probability Lab | Believes she is a fictional character and that none of this is real. |
+| **Jenny** | Arion Fan Club Member | Aethelburg | Has a tattoo of Arion's face that winks at people. |
+| **Echo** | Memory-Merchant's Apprentice | The Echo-Market | Can only speak in questions. |
+| **Triangle** | Un-Beast "Scout" | The Un-Jungle | Can only move in straight lines and make 90-degree turns. |
+| **Roar** | Chaos-Beast "Pup" | Ki'Var Jungle | Is a tiny, fluffy, adorable kitten that roars like a lion. |
+| **Smudge** | Cartographer's Apprentice | The Map Library | Is slowly turning into a living map of himself. |
+| **Flex** | Order of the Fulcrum Novice | The Gymnasium | His muscles sometimes flex and pose of their own accord. |
+| **Cogsworth** | Clockwork Bartender | The Gear & Goblet | Mixes drinks with terrifying, but perfect, efficiency. |
+| **Thorn** | Primal Shaman Hunter | The Blood-Tree Grove | Uses live, angry squirrels as throwing weapons. |
+| **Argent** | Bronze Patron Historian | The Archive | Is convinced that the "Man of Silver" was the superior lineage. |
+| **Glitch** | Null-Factor's Failed Experiment | The Glitch-Zone | Is constantly flickering in and out of existence. |
+| **Dave** | Arion's former stable-boy | Aethelburg | Believes Arion will return any day to pick up his favorite horse. |
+| **Whisper** | Memory-Merchant's Supplier | The Echo-Storms | Sells bottled silence at an exorbitant price. |
+| **Cube** | Un-Beast "Guard" | The Un-Jungle | A perfect, 10-foot cube of obsidian that hums menacingly. |
+| **Sprout** | Chaos-Beast | The Spawning Pits | A creature that is a different species every time you look at it. |
+| **Blot** | Cartographer's Ink-Maker | The Ink-Works | Makes ink from the tears of forgotten gods. |
+| **Stretch** | Order of the Fulcrum Yogi | The Meditation Chamber | Can dislocate all of his joints at will. |
+| **Ticker** | Cog-Disciple Time-Keeper | The Great Clock | Is obsessed with the fact that his own internal clock is 0.01 seconds off. |
+| **Howl** | Primal Shaman Storyteller | The Great Cave | Tells stories by creating shadow puppets with his hands. |
+| **Sterling** | Bronze Patron Treasurer | The Vault | Is slowly turning into a being of pure gold, the opposite of Bronze. |
+| **If-Then** | Null-Factor's Logic-Demon | The Lab | A small, summoned demon that can only speak in "if-then" statements. |
+| **Locket** | Arion's Admirer | Aethelburg | Carries a locket that she claims contains a lock of Arion's hair. |
+| **Static** | Memory-Merchant | The Echo-Market | Sells bottles of pure, white noise. |
+| **Line** | Un-Beast "Architect" | The Un-Jungle | A being that is a single, perfectly straight, mile-long line. |
+| **Scream** | Chaos-Beast | The Howling Peaks | A creature that looks like a bird but screams with the voice of a terrified man. |
+| **Crease** | Cartographer's Map-Folder | The Library | Can fold any map into a perfect, tiny square, but can never unfold it again. |
+| **Rep** | Order of the Fulcrum Weight-Lifter | The Gymnasium | Can lift five times his own body weight, but cannot lift a flower. |
+| **Click** | Cog-Disciple Messenger | Aethelburg | A clockwork bird that delivers messages by pecking them out in code. |
+| **Root** | Primal Shaman Healer | The Herb Garden | Heals wounds by packing them with mud and screaming at them. |
+| **Penny** | Bronze Patron Servant | The Lodge | Is paid in "bronze pieces," a currency that only the Patrons recognize. |
+| **Maybe** | Null-Factor's Pet | The Lab | A cat that is simultaneously dead and alive until you pet it. |
+| **Poster** | Arion Fan Club President | Aethelburg | Owns a life-sized, cardboard cutout of Arion that he talks to. |
+| **Hum** | Memory-Merchant | The Echo-Market | Sells the "sound of a forgotten color." |
+| **Point** | Un-Beast | The Un-Jungle | A single, dimensionless point of pure logic. It is very condescending. |
+| **Chomp** | Chaos-Beast | The Feeding Grounds | A creature that is all mouth and teeth. |
+| **Edge** | Cartographer | The Library | Is trying to map the "edge" of the universe. |
+| **Pose** | Order of the Fulcrum Instructor | The Posing Room | Believes every problem can be solved by striking the right heroic pose. |
+| **Ratchet** | Cog-Disciple Repairman | The Maintenance Tunnels | Sees living creatures as "inefficient, soft machines" that need fixing. |
+| **Stench** | Primal Shaman | The Fetid Swamp | Believes hygiene is a rejection of the natural order. |
+| **Patina** | Bronze Patron Artificer | The Workshop | Creates beautiful, but useless, bronze sculptures. |
+| **Paradox** | Null-Factor's Familiar | The Lab | An imp that constantly argues with itself. |
+| **Action-Figure** | Arion Fan Club Member | Aethelburg | Owns a small, articulated doll of Arion that he plays with. |
+| **Reverb** | Memory-Merchant | The Echo-Market | Sells echoes of echoes. |
+| **Sphere** | Un-Beast | The Un-Jungle | A perfect sphere that communicates by changing its surface texture. |
+| **Slither** | Chaos-Beast | The Slime Pits | A creature made of acidic, sentient slime. |
+| **Legend** | Cartographer | The Library | Only draws the "legends" and "keys" for maps, not the maps themselves. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Aethelburg, the Cog-City
 The capital of sterile logic, a city of brass, glass, and clockwork.
 *   **The Great Cog:** The center of the city, a miles-wide clockwork mechanism that controls the city's functions. **Smell:** Ozone, clean metal, lubricating oil. **Sound:** The constant, soft, perfectly synchronized ticking and whirring of a million gears.
@@ -197,7 +200,8 @@ A region of reality warped by the Architects of the Unbalanced Equation.
 *   **The Null-Factor's Laboratory:** A laboratory that seems to be built from pure mathematics. **Smell:** Chalk dust, ozone, and the faint smell of burning reality. **Sound:** The frantic scratching of chalk on a blackboard, the Null-Factor's cheerful humming.
 *   **The Fountain of Randomness:** A fountain that spouts not water, but random, small objects (a shoe, a fish, a love letter, a hand grenade). **Smell:** Everything and nothing. **Sound:** A constant, surprising series of plops, clangs, and splashes.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Unbalanced World:** The players witness a manifestation of the world's imbalance (e.g., a pack of Chaos-Beasts attacking a sterile Cog-Disciple caravan).
 2.  **The Call for Candidates:** The Bronze Patrons send out a secret call for those who have shown a "knack for balance."
 3.  **The First Trial:** The players must travel to the Patrons' fortress, their journey itself a test of their ability to navigate the extremes of the world.
@@ -250,33 +254,35 @@ A region of reality warped by the Architects of the Unbalanced Equation.
 | The Balancing Act | Elmsworth, the Butler | Help him create a perfectly balanced, seven-course meal. | A meal that is so perfectly balanced, it counts as a full rest. |
 | The Fictional Character's Quest | Pi, the Assistant | Help her find "the author" of her story. | She will give you a "plot-twist," a single-use ability to declare that something was "all a dream." |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Fulcrum Blade
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Fulcrum Blade:**
 **Type:** Legendary Longsword
 **Description:** The personal weapon of the Man of Bronze, a sword that seems to be made of solidified, shimmering twilight. It is neither heavy nor light, neither sharp nor dull, but perfectly "correct."
 **Mechanics:** The sword is a +3 weapon. It is so perfectly balanced that the wielder can use their reaction to parry a melee attack, imposing disadvantage on the attack roll. Once per day, the wielder can plant the sword in the ground to create a "Zone of Balance" in a 30-foot radius. Within the zone, all damage rolls (both for enemies and allies) result in their average number (e.g., a d6 is always 3.5, rounded to 4).
 
-### 2. The Scales of Judgment
+2.  **The Scales of Judgment:**
 **Type:** Wondrous Item
 **Description:** A set of small, perfectly crafted bronze scales. They do not measure weight, but concepts.
 **Mechanics:** If you place two objects on the scales, the scales will tip towards the object that is more "conceptually significant." For example, a king's crown would outweigh a mountain. If you place objects representing two courses of action on the scales, they will tip towards the action that would create more "balance" in the world. This can be used to get hints from the DM.
 
-### 3. The Armor of the Unmoved
+3.  **The Armor of the Unmoved:**
 **Type:** Legendary Plate Armor
 **Description:** Armor worn by a previous Man of Bronze who was a master of stoicism. It is made of a strange, grey metal that seems to absorb light and sound.
 **Mechanics:** The armor is +2 plate armor. The wearer is immune to being charmed, frightened, or moved against their will. They also gain the ability to, once per day, declare that they are "unmoved" by a single event. For the next minute, they are immune to all damage and effects from that event (e.g., a dragon's breath, a building collapsing on them). **Curse:** The wearer slowly loses their ability to be "moved" by emotion, suffering disadvantage on all Charisma (Persuasion) checks.
 
-### 4. The Eye of the Storm
+4.  **The Eye of the Storm:**
 **Type:** Wondrous Item (Amulet)
 **Description:** A bronze amulet containing a perfectly still, perfectly clear gemstone. Inside the gem, a tiny, raging storm can be seen.
 **Mechanics:** The amulet allows the wearer to find the "center" of any chaotic situation. It grants advantage on Wisdom (Insight) checks to discern motives in a crowd, and on checks to navigate through a riot or a battlefield. Once per day, the wearer can use it to create a 30-foot sphere of perfect calm and silence, even in the middle of a hurricane or a magical explosion.
 
-### 5. The Seed of the Middle Way
+5.  **The Seed of the Middle Way:**
 **Type:** Artifact
 **Description:** A simple, bronze-colored seed. It is the "potential" for a new Man of Bronze.
 **Mechanics:** The seed cannot be used by just anyone. A character must first prove they are "in balance" (DM's discretion, based on their actions). Once they have, they can plant the seed in their own heart. This begins the transformation into the Man of Bronze, a process that is long, painful, and requires further trials. If planted in the ground in a place of perfect balance, it will grow into a "Sanctuary of the Fulcrum," a permanent safe haven from the forces of both Law and Chaos.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Clockwork Orange:** A mechanical orange that, when peeled, reveals a perfectly functioning, tiny clockwork mechanism.
 2.  **A Feral Spoon:** A spoon that has "gone wild" and will aggressively try to scoop up any nearby liquid.
 3.  **The Philosopher's Stoned:** A rock that, when you hold it, makes you ponder deep, philosophical questions, but you are also just very, very high.

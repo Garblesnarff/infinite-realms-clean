@@ -18,7 +18,8 @@ The World didn't run out of water; it ran out of 'Accord.' In the beginning, the
 ### The 'Why'
 The central conflict is the struggle for 'Humanity' in a world of 'Brutal Pragmatism.' It is about the 'Wasteland Beauty' of the human spirit—the realization that finding hope in the desolation is the ultimate form of rebellion. The 'Why' is the question: 'Who killed the world, and how much blood are you willing to spill to find a way back to the Green?' It explores the improvised magnificence of the War Rig, the visceral horror of the suicide attack, and the gritty, survival-hardened voice of a man who keeps fighting even when there's nothing left to win. The players are the road warriors and rebels who must navigate the convoy tactics and boarding actions to find a resolution that honors the memory of the Green Place.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Citadel Elite (The Sovereigns)
 **Type:** Theocratic/Totalitarian Warlord Syndicate
 **Leader:** Immortan Joe (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Humanity' in a world of 'Brutal Pragma
 **Asset:** High-mobility motorcycles, knowledge of the narrow canyons, and a total disregard for 'Road Honor.'
 **Rivals:** Both Citadels.
 
-## [TAG: NPC_TIER_1]
-**Imperator Furiosa** (Rebel - The Leader) - A woman in a dark leather vest with a mechanical arm. **Voice:** Gritty, survival-hardened, and commanding. **Goal:** To rescue the 'Breeders' and find the Green Place. **Secret:** She is a high-level Adept of 'Fuel-Energy' who can 'heal' a vehicle's engine through her sheer will.
-**Immortan Joe** (Elite - The Villain) - A man in a translucent plastic chest plate with a terrifying breathing mask. **Voice:** Booming, theatrical, and narcissistic. **Goal:** To maintain his bloodline and rule the Wasteland through the control of water. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Oil Wars.
-**Nux** (War Boy - The Catalyst) - A young man with white war paint and chrome-sprayed lips. **Voice:** Manic, high-pitched, and filled with a 'Witness Me!' energy. **Goal:** To die a glorious death and enter Valhalla. **Secret:** He has realized that 'Valhalla' is a lie told by Joe to keep the War Boys in chains.
-**The Keeper of Seeds** (Independent - The Witness) - An old woman in rags who carries a bag of ancient seeds. **Voice:** Soft, melodic, and filled with a tragic hope. **Goal:** To find a place where the seeds can grow and restore the Green Place. **Secret:** She is the only person who can 'hear' the original Song of the Earth through the engine roars.
-**The Max (Ghost)** (Independent - The Lead) - A lone survivor in a weathered Interceptor. **Voice:** Gruff, weary, and terse. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He has discovered a 'Vulnerability' in the Citadel's water-delivery system that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Imperator Furiosa** (Rebel - The Leader) - A woman in a dark leather vest with a mechanical arm. **Voice:** Gritty, survival-hardened, and commanding. **Goal:** To rescue the 'Breeders' and find the Green Place. **Secret:** She is a high-level Adept of 'Fuel-Energy' who can 'heal' a vehicle's engine through her sheer will.
+2.  **Immortan Joe** (Elite - The Villain) - A man in a translucent plastic chest plate with a terrifying breathing mask. **Voice:** Booming, theatrical, and narcissistic. **Goal:** To maintain his bloodline and rule the Wasteland through the control of water. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Oil Wars.
+3.  **Nux** (War Boy - The Catalyst) - A young man with white war paint and chrome-sprayed lips. **Voice:** Manic, high-pitched, and filled with a 'Witness Me!' energy. **Goal:** To die a glorious death and enter Valhalla. **Secret:** He has realized that 'Valhalla' is a lie told by Joe to keep the War Boys in chains.
+4.  **The Keeper of Seeds** (Independent - The Witness) - An old woman in rags who carries a bag of ancient seeds. **Voice:** Soft, melodic, and filled with a tragic hope. **Goal:** To find a place where the seeds can grow and restore the Green Place. **Secret:** She is the only person who can 'hear' the original Song of the Earth through the engine roars.
+5.  **The Max (Ghost)** (Independent - The Lead) - A lone survivor in a weathered Interceptor. **Voice:** Gruff, weary, and terse. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He has discovered a 'Vulnerability' in the Citadel's water-delivery system that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Humanity' in a world of 'Brutal Pragma
 | The Monk | Ancient Worshipper | Engine Altar | Spends all his time painting murals of the 'Road's Beginning.' |
 | The Clerk | Citadel Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Citadel (The Hub)
 A vertical fortress of white stone, falling water, and green gardens.
 *   **The War Room:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ozone, machine oil, and coffee. **Sound:** The rhythmic hum of engines and water cascading.
@@ -89,7 +92,8 @@ A high-contrast nightmare of brown dust clouds and electrical discharges.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** Where the 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Capture:** Wake up in a Citadel cell. You must escape a 'War Boy Ambush' using only your improvised bone-cleaver (equivalent).
 2.  **The War Rig Breakout:** Join Furiosa in a high-stakes escape. You must identify the 'Fuel-Energy' node before the Warlord's fleet arrives.
 3.  **The Dust Storm Run:** Navigate the towers of brown dust. You must use your 'Seismic Sensing' (inverted) to lose the pursuing War Boys.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Bloodletting at the Citadel:** Face Immortan Joe and his fleet face-to-face in a final, public duel. The truth is revealed—will you wear the crown or restore the Green?
 7.  **The Final Coronation:** Face the Warlord face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Road
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Road:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Car.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Witness Me!' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Citadel Master Key
+2.  **The Citadel Master Key:**
 **Type:** Artifact (Focus)
 **Description:** A small, silver key that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Unlock' any magically or physically sealed door in the Citadel. Once per day, the user can 'Silence' a War Boy's chant.
 
-### 3. The Seed of the Green Place
+3.  **The Seed of the Green Place:**
 **Type:** Wondrous Item
 **Description:** A simple, glowing seed that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

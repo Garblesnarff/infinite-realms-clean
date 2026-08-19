@@ -18,7 +18,8 @@ The World is not a floor; it's a carpet that's being vacuumed by an invisible ha
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Overwhelming Noise.' It is about the 'Human Resilience' of the spirit—the realization that you can be small and still be a hero. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternalkurs (equivalent)?' It explores the forced-perspective beauty of the miniature survival, the pride in mastering a button shield, and the bass-boosted, resonant voice of a giant who understands that every second is a gift. The players are the motes and guardians who must navigate the domestic oppressions and the intensity of a giant encounter to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Small Community (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** The High Guardian (equivalent).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Overwhelm
 **Asset:** Reality-tearing footsteps, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Emmie** (Order - The Lead) - A giant child whose voice is loud, innocent, and possessive. **Voice:** Child's voice but LOUD, innocent but thoughtless cruelty, genuine affection. **Goal:** To protect the 'Humanity' of her 'toys' and guide the new motes. **Secret:** She is secretly an Adept of 'Scale-Energy' who can 'rewrite' a soul's destiny through her playful possession.
-**The Web-Master** (Shadow - The Villain) - A being that looks and sounds like a logical scholar (reimagined). **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all biological talent into a single 'Global Web' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The High Guardian** (Independent - The Catalyst) - A mote whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the scale-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the amplified noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless survival-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the giant's geometry that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical miniature gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the shrink ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Emmie** (Order - The Lead) - A giant child whose voice is loud, innocent, and possessive. **Voice:** Child's voice but LOUD, innocent but thoughtless cruelty, genuine affection. **Goal:** To protect the 'Humanity' of her 'toys' and guide the new motes. **Secret:** She is secretly an Adept of 'Scale-Energy' who can 'rewrite' a soul's destiny through her playful possession.
+2.  **The Web-Master** (Shadow - The Villain) - A being that looks and sounds like a logical scholar (reimagined). **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all biological talent into a single 'Global Web' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The High Guardian** (Independent - The Catalyst) - A mote whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the scale-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the amplified noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless survival-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the giant's geometry that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical miniature gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the shrink ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Overwhelm
 | The Monk | Ancient Worshipper | Scale Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Archetypa (The Hub)
 **Type:** Hub
 **Description:** A massive, high-contrast monument to architecture, scale, and household energy.
@@ -90,7 +93,8 @@ A dark, reality-distorting monument to body horror and macro-existence.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Spider Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Guardian Run:** Navigate the traditional territories to find The High Guardian. You must identify the 'Scale-Energy' node before the rivals arrive.
 3.  **The Button Heist:** Infiltrate the Web-Master's HQ to retrieve a stolen 'Scale-Focus.' You must bypass the guards.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Giants face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Small (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Small (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Miniature Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Button Signet (Equivalent)
+2.  **The Button Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the button seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Scale-Energy Capsule (Equivalent)
+3.  **The Scale-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Logical' magic.

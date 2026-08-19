@@ -20,7 +20,8 @@ The Earth is a living organism, a colossal, dormant being whose consciousness op
 ### The "Why"
 The metaphysical conflict is a horrifying inversion of the classic monster story. It is a tale of cosmic body-horror, where humanity is the disease. The horror comes not from the monster's malice, but from its utter lack of it. It is simply a biological process, and the players are on the wrong side of it. The goal is not victory, which is impossible, but survival. Can the players escape a city that is being systematically cleansed by a force of nature? Can they find a way to communicate with a being whose thoughts are the size of continents? Or can they, perhaps, find a way to prove that humanity is not a parasite, but a symbiont, by finding a way to "heal" the irritation that summoned the creature in the first place?
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The U.S. Military
 **Type:** Overwhelmed Governmental Force
 **Leader:** General Marcus Brody, commander of the local military response.
@@ -81,83 +82,85 @@ The metaphysical conflict is a horrifying inversion of the classic monster story
 **Asset:** A shared, fractured consciousness. They cannot speak, but they can communicate telepathically with each other, and they sometimes receive "echoes" of the Cloverfield creature's own thoughts and feelings.
 **Rivals:** Loud noises.
 
-## [TAG: NPC_TIER_1]
-**"Clover"** (The Creature) - A confused, terrified, and impossibly large baby. **Voice:** A series of mournful, earth-shaking roars that are not attacks, but cries of pain and confusion. **Goal:** To find its "mother" (the deep ocean trench) and to make the "itching" (the city) stop. **Secret:** It is a juvenile. An adult T-cell would be the size of a continent.
-**General Marcus Brody** (Human Fighter) - A career soldier facing an impossible situation. **Voice:** A weary, gravelly, and stressed-out military bark. **Goal:** To minimize civilian casualties and contain the threat. **Secret:** He has already authorized the Hammer-Down protocol and is simply trying to evacuate as many people as possible before the bomb drops.
-**The Voice of the Mother** (Human Druid) - The leader of the Gea-Mancers. **Voice:** A calm, serene, and utterly insane whisper. **Goal:** To help the "Great Mother Gaia" cleanse herself of the "humanity-plague." **Secret:** She was a former Tagruato biologist who was fired for her radical environmental views.
-**"Sarge"** (Human Fighter) - The leader of a small group of Remnant survivors. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To get his small group of civilians out of the city alive. **Secret:** He has been bitten by one of the parasites and is hiding the infection from his group.
-**The Tagruato Executive** (Human Rogue) - A corporate operative on the ground. **Voice:** A slick, corporate, and utterly amoral voice. **Goal:** To retrieve a sample of the creature's tissue or one of its parasites, at any cost. **Secret:** He was responsible for the drilling that awakened the creature.
-**"Croc"** (Human Ranger) - The leader of the Parasite-Hunters. **Voice:** A low, Australian-accented, and dangerously cheerful growl. **Goal:** To hunt the "ultimate game." **Secret:** He is not doing it for sport; his family was killed by a parasite, and he is on a mission of pure revenge.
-**The Station-Master** (Human Expert) - The leader of the Subway-Dwellers. **Voice:** A loud, booming, and echoing subway-announcer's voice. **Goal:** To protect his "passengers" and keep the "trains running on time" (his metaphor for survival). **Secret:** He has sealed off a section of the tunnels where a group of his people were killed by parasites, and he refuses to admit they are lost.
-**"Ruin"** (Human Barbarian) - The leader of the Fifth Horseman looters. **Voice:** A charismatic, laughing, and nihilistic voice. **Goal:** To throw the biggest "end-of-the-world" party in history. **Secret:** He is a former philosophy professor who has decided that existence is meaningless.
-**Dr. Aris Thorne** (Human Wizard) - The cold, pragmatic leader of the CDC Cleaners. **Voice:** A cold, clinical, and emotionless voice. **Goal:** To contain the biological fallout and study the new life forms. **Secret:** He sees this not as a tragedy, but as the scientific opportunity of a lifetime.
-**"Ozymandias"** (Human Rogue) - The leader of the Broadcast-Truthers. **Voice:** A distorted, synthesized, and paranoid voice. **Goal:** To expose the "truth" that the government and Tagruato are hiding. **Secret:** He is a 16-year-old kid in his parents' basement in New Jersey.
-**The Silent Child** (Human Psion) - A member of the Silent Choir. A young girl who was struck dumb by the creature's psychic scream. **Voice:** Silence. She communicates through hauntingly accurate drawings. **Goal:** To draw what the "big, sad monster" is feeling. **Secret:** She has a direct, one-way psychic link to Clover and feels all of its pain and confusion.
-**The Cameraman** (Human Commoner) - A man who is obsessively filming everything with his phone. **Voice:** A frantic, breathless, and terrified voice, always punctuated by the shaky-cam view. **Goal:** To document everything, to make sure someone knows what happened. **Secret:** He is not a reporter or a filmmaker; he is just a normal guy who was at a party when it all started.
-**The Parasite-Bitten Man** (Human) - A man who was bitten by one of the parasites and is about to "explode." **Voice:** A pained, groaning, and terrified voice. **Goal:** To find his family before he dies. **Secret:** He knows he is a walking time-bomb and is trying to get away from other people.
-**The Helicopter Pilot** (Human Expert) - A military pilot trying to evacuate survivors. **Voice:** A calm, professional, and stressed-out voice over a radio. **Goal:** To make one last run into the hot-zone. **Secret:** She is disobeying direct orders to do so.
-**The Bridge-Warden** (Human Fighter) - A police officer holding the last bridge out of Manhattan. **Voice:** A tired, but determined, shout. **Goal:** To hold the bridge until the last possible second. **Secret:** His family is on the other side of the bridge, and he can't go to them.
-**The Gea-Mancer Saboteur** (Human Druid) - A member of the Gea-Mancers trying to sabotage the evacuation. **Voice:** A soft, gentle, and utterly fanatical voice. **Goal:** To "return the children of men to the mother's embrace." **Secret:** She is the sister of one of the military leaders.
-**The Corporate "Cleaner"** (Human Rogue) - A Tagruato agent sent to "erase" all evidence of the company's involvement. **Voice:** A cold, quiet, and menacing whisper. **Goal:** To kill any survivor who knows the name "Tagruato." **Secret:** He enjoys his job.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **"Clover"** (The Creature) - A confused, terrified, and impossibly large baby. **Voice:** A series of mournful, earth-shaking roars that are not attacks, but cries of pain and confusion. **Goal:** To find its "mother" (the deep ocean trench) and to make the "itching" (the city) stop. **Secret:** It is a juvenile. An adult T-cell would be the size of a continent.
+2.  **General Marcus Brody** (Human Fighter) - A career soldier facing an impossible situation. **Voice:** A weary, gravelly, and stressed-out military bark. **Goal:** To minimize civilian casualties and contain the threat. **Secret:** He has already authorized the Hammer-Down protocol and is simply trying to evacuate as many people as possible before the bomb drops.
+3.  **The Voice of the Mother** (Human Druid) - The leader of the Gea-Mancers. **Voice:** A calm, serene, and utterly insane whisper. **Goal:** To help the "Great Mother Gaia" cleanse herself of the "humanity-plague." **Secret:** She was a former Tagruato biologist who was fired for her radical environmental views.
+4.  **"Sarge"** (Human Fighter) - The leader of a small group of Remnant survivors. **Voice:** A gruff, no-nonsense, but deeply caring voice. **Goal:** To get his small group of civilians out of the city alive. **Secret:** He has been bitten by one of the parasites and is hiding the infection from his group.
+5.  **The Tagruato Executive** (Human Rogue) - A corporate operative on the ground. **Voice:** A slick, corporate, and utterly amoral voice. **Goal:** To retrieve a sample of the creature's tissue or one of its parasites, at any cost. **Secret:** He was responsible for the drilling that awakened the creature.
+6.  **"Croc"** (Human Ranger) - The leader of the Parasite-Hunters. **Voice:** A low, Australian-accented, and dangerously cheerful growl. **Goal:** To hunt the "ultimate game." **Secret:** He is not doing it for sport; his family was killed by a parasite, and he is on a mission of pure revenge.
+7.  **The Station-Master** (Human Expert) - The leader of the Subway-Dwellers. **Voice:** A loud, booming, and echoing subway-announcer's voice. **Goal:** To protect his "passengers" and keep the "trains running on time" (his metaphor for survival). **Secret:** He has sealed off a section of the tunnels where a group of his people were killed by parasites, and he refuses to admit they are lost.
+8.  **"Ruin"** (Human Barbarian) - The leader of the Fifth Horseman looters. **Voice:** A charismatic, laughing, and nihilistic voice. **Goal:** To throw the biggest "end-of-the-world" party in history. **Secret:** He is a former philosophy professor who has decided that existence is meaningless.
+9.  **Dr. Aris Thorne** (Human Wizard) - The cold, pragmatic leader of the CDC Cleaners. **Voice:** A cold, clinical, and emotionless voice. **Goal:** To contain the biological fallout and study the new life forms. **Secret:** He sees this not as a tragedy, but as the scientific opportunity of a lifetime.
+10.  **"Ozymandias"** (Human Rogue) - The leader of the Broadcast-Truthers. **Voice:** A distorted, synthesized, and paranoid voice. **Goal:** To expose the "truth" that the government and Tagruato are hiding. **Secret:** He is a 16-year-old kid in his parents' basement in New Jersey.
+11.  **The Silent Child** (Human Psion) - A member of the Silent Choir. A young girl who was struck dumb by the creature's psychic scream. **Voice:** Silence. She communicates through hauntingly accurate drawings. **Goal:** To draw what the "big, sad monster" is feeling. **Secret:** She has a direct, one-way psychic link to Clover and feels all of its pain and confusion.
+12.  **The Cameraman** (Human Commoner) - A man who is obsessively filming everything with his phone. **Voice:** A frantic, breathless, and terrified voice, always punctuated by the shaky-cam view. **Goal:** To document everything, to make sure someone knows what happened. **Secret:** He is not a reporter or a filmmaker; he is just a normal guy who was at a party when it all started.
+13.  **The Parasite-Bitten Man** (Human) - A man who was bitten by one of the parasites and is about to "explode." **Voice:** A pained, groaning, and terrified voice. **Goal:** To find his family before he dies. **Secret:** He knows he is a walking time-bomb and is trying to get away from other people.
+14.  **The Helicopter Pilot** (Human Expert) - A military pilot trying to evacuate survivors. **Voice:** A calm, professional, and stressed-out voice over a radio. **Goal:** To make one last run into the hot-zone. **Secret:** She is disobeying direct orders to do so.
+15.  **The Bridge-Warden** (Human Fighter) - A police officer holding the last bridge out of Manhattan. **Voice:** A tired, but determined, shout. **Goal:** To hold the bridge until the last possible second. **Secret:** His family is on the other side of the bridge, and he can't go to them.
+16.  **The Gea-Mancer Saboteur** (Human Druid) - A member of the Gea-Mancers trying to sabotage the evacuation. **Voice:** A soft, gentle, and utterly fanatical voice. **Goal:** To "return the children of men to the mother's embrace." **Secret:** She is the sister of one of the military leaders.
+17.  **The Corporate "Cleaner"** (Human Rogue) - A Tagruato agent sent to "erase" all evidence of the company's involvement. **Voice:** A cold, quiet, and menacing whisper. **Goal:** To kill any survivor who knows the name "Tagruato." **Secret:** He enjoys his job.
 **The Last Loote**r (Human Rogue) - A member of the Fifth Horseman who is having second thoughts. **Voice:** A nervous, stuttering voice. **Goal:** To get out of the city with his loot. **Secret:** The "loot" is a case of baby formula for his infant child.
-**The Scientist Who Knows** (Human Expert) - A former Tagruato scientist who tried to warn them. **Voice:** A frantic, desperate, and guilt-ridden voice. **Goal:** To find a way to "soothe" the creature. **Secret:** He has a prototype "sonic lure" that might be able to draw the creature away from the city.
-**The Man on the Roof** (Human Commoner) - A man who has decided to just sit on his roof and watch the world end. **Voice:** A calm, resigned, and strangely peaceful voice. **Goal:** To get a good view. **Secret:** He has a powerful sniper rifle, and he is waiting for the "perfect shot," though he doesn't know what it is yet.
+18.  **The Scientist Who Knows** (Human Expert) - A former Tagruato scientist who tried to warn them. **Voice:** A frantic, desperate, and guilt-ridden voice. **Goal:** To find a way to "soothe" the creature. **Secret:** He has a prototype "sonic lure" that might be able to draw the creature away from the city.
+19.  **The Man on the Roof** (Human Commoner) - A man who has decided to just sit on his roof and watch the world end. **Voice:** A calm, resigned, and strangely peaceful voice. **Goal:** To get a good view. **Secret:** He has a powerful sniper rifle, and he is waiting for the "perfect shot," though he doesn't know what it is yet.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Beth | Survivor | A ruined apartment | Is having a "going away" party for her friend who is leaving the city. |
-| Hud | Survivor | A ruined electronics store | Is obsessively filming everything. |
-| Marlena | Survivor | A subway station | Has been bitten by a parasite and is trying to hide it. |
-| Rob | Survivor | A bridge | Is trying to get back into the city to save someone. |
-| Lily | Survivor | A triage center | Is looking for her daughter. |
-| Jason | Survivor | A department store | Is the "brother" of the girl Lily is looking for. |
-| Col. Graff | Military Officer | A command post | Is chewing on an unlit cigar and muttering about "containment." |
-| Hawkins | Soldier | A Humvee | Is on his first day on the job. |
-| "Trip" | Looter | A liquor store | Is trying to find a specific, vintage bottle of scotch. |
-| "Ash" | Gea-Mancer | A rooftop garden | Is talking to her plants, trying to get them to "join the cause." |
-| "Doc" | Remnant Medic | A makeshift clinic | Is a veterinarian, not a medical doctor. |
-| "Hammer" | Soldier | A barricade | Is armed with a comically oversized sledgehammer. |
-| The Hot Dog Vendor | Civilian | A street corner | Is still at his post, selling hot dogs to soldiers and survivors. |
-| The Tourist | Civilian | Times Square | Is trying to get a good selfie with the monster in the background. |
-| The Rat-King | A swarm of rats | The sewers | A sentient swarm of rats that has declared itself king of the underworld. |
-| The Pigeon-Man | Civilian | A rooftop | A homeless man who seems to be able to command the city's pigeons. |
-| "Echo" | Silent Choir member | A library | Can only communicate by arranging books into meaningful sentences. |
-| "Glitch" | Truther | A server farm | Is trying to "data-mine" the monster's roars for meaning. |
-| Dr. Tanaka | Tagruato Scientist | A secret lab | Is the one who first discovered the creature on sonar. |
-| The Doorman | Civilian | A fancy apartment building | Is still at his post, refusing to let anyone in who isn't a resident. |
-| The Zookeeper | Civilian | Central Park Zoo | Is trying to "liberate" the animals before they are killed. |
-| The Broadway Star | Civilian | A theatre | Is putting on one last, defiant performance on a ruined stage. |
-| The Wall Street Broker | Civilian | Wall Street | Is having a complete mental breakdown over the loss of his portfolio. |
-| The Subway Preacher | Civilian | A subway car | Is preaching that the monster is a sign of the biblical apocalypse. |
-| The Conspiracy Nut | Civilian | A street corner | Is shouting that the monster is a government hologram. |
-| The Dog-Walker | Civilian | A park | Is trying to find the 20 dogs she was walking when the attack started. |
-| The Chess-Master | Civilian | A park | Is playing a game of chess against himself, completely oblivious to the chaos. |
-| The Bridge-Painter | Civilian | The Brooklyn Bridge | Is a painter who was working on the bridge and is now trapped. |
-| The Sewer-Gator | An urban legend | The sewers | A giant alligator that is now fighting the parasites for territory. |
-| The Bodega Cat | A cat | A corner store | A very fat, very calm cat, sitting on a counter, judging everyone. |
-| The Taxi-Driver | Civilian | A taxi | Is refusing to take anyone anywhere without the meter running. |
-| The Food-Critic | Civilian | A ruined restaurant | Is writing a scathing review of the "apocalypse dining scene." |
-| The Street-Artist | Civilian | A wall | Is creating a massive, beautiful mural of the monster. |
-| The Yoga-Instructor | Civilian | A yoga studio | Is leading a class in "apocalypse-flow" yoga. |
-| The Mall-Cop | Civilian | A shopping mall | Is taking his job of protecting the mall very, very seriously. |
-| The Librarian | Civilian | The Public Library | Is trying to re-shelve all the books that have fallen off the shelves. |
-| The Museum Curator | Civilian | The Natural History Museum | Is trying to protect the exhibits from looters. |
-| The Ferry-Captain | Civilian | A ferry | Is making one last, dangerous run to Staten Island. |
-| The Hot-Dog-Eating Champion | Civilian | Coney Island | Is trying to set a new world record, despite the circumstances. |
-| The Marathon-Runner | Civilian | The streets | Is still trying to finish the NYC marathon. |
-| The Bird-Watcher | Civilian | Central Park | Is thrilled at the chance to spot a "new" species (the parasites). |
-| The Street-Musician | Civilian | A subway station | Is playing a sad, beautiful song on his violin. |
-| The Sanitation-Worker | Civilian | A garbage truck | Is still trying to complete his route. |
-| The Power-Broker | Civilian | A penthouse apartment | Is on the phone, trying to figure out how to profit from this. |
-| The Doomsday-Prepper | Civilian | A fortified basement | Is smugly enjoying the apocalypse he has been preparing for his whole life. |
-| The Lost Child | Civilian | A toy store | A small child, separated from their parents, now playing with the toys. |
-| The Off-Duty Cop | Civilian | A donut shop | An out-of-uniform cop who is now the de-facto leader of a small group. |
-| The ER-Doctor | Civilian | A hospital | Has been working for 48 hours straight without sleep. |
-| The Fire-Fighter | Civilian | A fire station | Is trying to put out a fire that was caused by a crashing F-18. |
-| The Old Couple | Civilians | A brownstone | An old couple, sitting on their stoop, watching the end of the world as if it were a parade. |
+| **Beth** | Survivor | A ruined apartment | Is having a "going away" party for her friend who is leaving the city. |
+| **Hud** | Survivor | A ruined electronics store | Is obsessively filming everything. |
+| **Marlena** | Survivor | A subway station | Has been bitten by a parasite and is trying to hide it. |
+| **Rob** | Survivor | A bridge | Is trying to get back into the city to save someone. |
+| **Lily** | Survivor | A triage center | Is looking for her daughter. |
+| **Jason** | Survivor | A department store | Is the "brother" of the girl Lily is looking for. |
+| **Col. Graff** | Military Officer | A command post | Is chewing on an unlit cigar and muttering about "containment." |
+| **Hawkins** | Soldier | A Humvee | Is on his first day on the job. |
+| **"Trip"** | Looter | A liquor store | Is trying to find a specific, vintage bottle of scotch. |
+| **"Ash"** | Gea-Mancer | A rooftop garden | Is talking to her plants, trying to get them to "join the cause." |
+| **"Doc"** | Remnant Medic | A makeshift clinic | Is a veterinarian, not a medical doctor. |
+| **"Hammer"** | Soldier | A barricade | Is armed with a comically oversized sledgehammer. |
+| **The Hot Dog Vendor** | Civilian | A street corner | Is still at his post, selling hot dogs to soldiers and survivors. |
+| **The Tourist** | Civilian | Times Square | Is trying to get a good selfie with the monster in the background. |
+| **The Rat-King** | A swarm of rats | The sewers | A sentient swarm of rats that has declared itself king of the underworld. |
+| **The Pigeon-Man** | Civilian | A rooftop | A homeless man who seems to be able to command the city's pigeons. |
+| **"Echo"** | Silent Choir member | A library | Can only communicate by arranging books into meaningful sentences. |
+| **"Glitch"** | Truther | A server farm | Is trying to "data-mine" the monster's roars for meaning. |
+| **Dr. Tanaka** | Tagruato Scientist | A secret lab | Is the one who first discovered the creature on sonar. |
+| **The Doorman** | Civilian | A fancy apartment building | Is still at his post, refusing to let anyone in who isn't a resident. |
+| **The Zookeeper** | Civilian | Central Park Zoo | Is trying to "liberate" the animals before they are killed. |
+| **The Broadway Star** | Civilian | A theatre | Is putting on one last, defiant performance on a ruined stage. |
+| **The Wall Street Broker** | Civilian | Wall Street | Is having a complete mental breakdown over the loss of his portfolio. |
+| **The Subway Preacher** | Civilian | A subway car | Is preaching that the monster is a sign of the biblical apocalypse. |
+| **The Conspiracy Nut** | Civilian | A street corner | Is shouting that the monster is a government hologram. |
+| **The Dog-Walker** | Civilian | A park | Is trying to find the 20 dogs she was walking when the attack started. |
+| **The Chess-Master** | Civilian | A park | Is playing a game of chess against himself, completely oblivious to the chaos. |
+| **The Bridge-Painter** | Civilian | The Brooklyn Bridge | Is a painter who was working on the bridge and is now trapped. |
+| **The Sewer-Gator** | An urban legend | The sewers | A giant alligator that is now fighting the parasites for territory. |
+| **The Bodega Cat** | A cat | A corner store | A very fat, very calm cat, sitting on a counter, judging everyone. |
+| **The Taxi-Driver** | Civilian | A taxi | Is refusing to take anyone anywhere without the meter running. |
+| **The Food-Critic** | Civilian | A ruined restaurant | Is writing a scathing review of the "apocalypse dining scene." |
+| **The Street-Artist** | Civilian | A wall | Is creating a massive, beautiful mural of the monster. |
+| **The Yoga-Instructor** | Civilian | A yoga studio | Is leading a class in "apocalypse-flow" yoga. |
+| **The Mall-Cop** | Civilian | A shopping mall | Is taking his job of protecting the mall very, very seriously. |
+| **The Librarian** | Civilian | The Public Library | Is trying to re-shelve all the books that have fallen off the shelves. |
+| **The Museum Curator** | Civilian | The Natural History Museum | Is trying to protect the exhibits from looters. |
+| **The Ferry-Captain** | Civilian | A ferry | Is making one last, dangerous run to Staten Island. |
+| **The Hot-Dog-Eating Champion** | Civilian | Coney Island | Is trying to set a new world record, despite the circumstances. |
+| **The Marathon-Runner** | Civilian | The streets | Is still trying to finish the NYC marathon. |
+| **The Bird-Watcher** | Civilian | Central Park | Is thrilled at the chance to spot a "new" species (the parasites). |
+| **The Street-Musician** | Civilian | A subway station | Is playing a sad, beautiful song on his violin. |
+| **The Sanitation-Worker** | Civilian | A garbage truck | Is still trying to complete his route. |
+| **The Power-Broker** | Civilian | A penthouse apartment | Is on the phone, trying to figure out how to profit from this. |
+| **The Doomsday-Prepper** | Civilian | A fortified basement | Is smugly enjoying the apocalypse he has been preparing for his whole life. |
+| **The Lost Child** | Civilian | A toy store | A small child, separated from their parents, now playing with the toys. |
+| **The Off-Duty Cop** | Civilian | A donut shop | An out-of-uniform cop who is now the de-facto leader of a small group. |
+| **The ER-Doctor** | Civilian | A hospital | Has been working for 48 hours straight without sleep. |
+| **The Fire-Fighter** | Civilian | A fire station | Is trying to put out a fire that was caused by a crashing F-18. |
+| **The Old Couple** | Civilians | A brownstone | An old couple, sitting on their stoop, watching the end of the world as if it were a parade. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Ground Zero (Midtown Manhattan)
 The area where Clover first emerged and where the destruction is most concentrated.
 *   **The Fallen Skyscraper:** A skyscraper that has been knocked over, forming a "bridge" to other buildings. **Smell:** Concrete dust, burning wires, and the faint, alien scent of the creature. **Sound:** The groan of stressed metal, the whisper of the wind through broken windows.
@@ -191,7 +194,8 @@ The area of the city that has been designated for tactical nuclear cleansing. Th
 *   **The Empty City:** The streets within the zone are eerily empty, save for the dead and the monsters. **Smell:** Dust, and death. **Sound:** An unnatural silence, broken by the roar of the creature.
 *   **Ground Zero:** The intended target of the Hammer-Down strike, Times Square. **Smell:** The scent of a million forgotten lives. **Sound:** The wind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Party's Over:** The players are at a party in a Manhattan apartment when the "attack" begins.
 2.  **The Streets of Chaos:** The players must make their way through the chaotic, debris-filled streets, witnessing the first appearance of the creature.
 3.  **The Parasite's Kiss:** The players have their first encounter with the smaller, far more aggressive parasites in a narrow alleyway.
@@ -244,33 +248,35 @@ The area of the city that has been designated for tactical nuclear cleansing. Th
 | The Final Prayer | A priest | Escort him to St. Patrick's Cathedral so he can say one last prayer. | A sense of peace. |
 | The Scientist's Regret | The Tagruato Scientist | Help him get to a radio so he can broadcast a warning and an apology. | The knowledge that you helped a man find redemption before he died. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Hammer-Down Briefcase
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Hammer-Down Briefcase:**
 **Type:** Artifact
 **Description:** A black, military briefcase, chained to the wrist of a high-ranking officer. It contains the launch codes for the Hammer-Down nuclear strike.
 **Mechanics:** The briefcase is a plot device. It cannot be opened by any means. Its presence signifies the "ticking clock" of the campaign. If the players can somehow get it away from the military, they can delay the strike, but not prevent it.
 
-### 2. Clover's Tooth
+2.  **Clover's Tooth:**
 **Type:** Wondrous Item
 **Description:** A single, house-sized tooth, broken off from the main creature during a military strike. It hums with a strange, biological energy.
 **Mechanics:** The tooth is not a weapon, but a "key." It resonates with the creature's biology. A character holding a piece of it can get a vague, psychic sense of the main creature's emotional state (pain, confusion, fear). It is also the only thing that can open a "path" to the planet's own consciousness, if brought to a place of great natural power.
 
-### 3. The Parasite's Heart
+3.  **The Parasite's Heart:**
 **Type:** Wondrous Item
 **Description:** The glowing, pulsating heart of one of the spider-like parasites. It continues to beat long after the creature is dead.
 **Mechanics:** The heart is a biological battery. It can be used to power any electronic device for 24 hours. **Curse:** The heart also acts as a beacon, attracting other parasites to its location.
 
-### 4. The Silent Scream (In a Bottle)
+4.  **The Silent Scream (In a Bottle):**
 **Type:** Artifact
 **Description:** A strange, swirling, grey mist in a bottle, captured by a Glitch-Hunter during the Hammer-Down event.
 **Mechanics:** The bottle can be opened once. When opened, it does not release a sound, but a 300-foot-radius "scream" of pure, psychic pain. All creatures in the area (including the user) must make a high DC Wisdom save or be stunned for 1d4 rounds and take 10d10 psychic damage. It is a weapon of last resort.
 
-### 5. The Tagruato Hard-Drive
+5.  **The Tagruato Hard-Drive:**
 **Type:** Wondrous Item
 **Description:** A heavily-encrypted hard-drive containing all of Tagruato's research on the creature, and their culpability in waking it.
 **Mechanics:** This is a pure plot device. If the players can decrypt it (a massive undertaking), they will have the "truth" of the entire incident. They can use this to expose Tagruato, or to bargain with the military, or to try and understand the creature.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A "Slusho!" T-Shirt:** A t-shirt for a popular, Japanese soft-drink, a subsidiary of Tagruato.
 2.  **A Half-Eaten Bag of "Party Mix":** The snack food of choice for rooftop parties.
 3.  **A Digital Camera with One Photo Left:** A camera with a single, blurry, terrifying photo of the creature's eye.

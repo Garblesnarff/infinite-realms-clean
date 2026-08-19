@@ -18,7 +18,8 @@ The stars are not silent; they are singing the names of kings. In the beginning,
 ### The 'Why'
 The central conflict is the struggle between 'Honor' and 'Corruption.' It is about the 'Mythic Sci-Fi Realism' of being a hero in a world of epic grandeur. The 'Why' is the question: 'Is a legend defined by the power of the machine or the soul of the pilot?' It explores the fusion of medieval heraldry and futuristic materials, the weight of a divine destiny, and the awe of vast cosmic landscapes. The players are the newly awakened Knights of the Round Table, the pilots who must prove their worthiness to wield the power of the Aethel and restore the cosmic balance.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Round Table (The Restorers)
 **Type:** Feudal Cosmic Order
 **Leader:** The Reborn King (Tier 1 NPC - unknown).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Honor' and 'Corruption.' It is abo
 **Asset:** Heavily modified, one-of-a-kind Armigers and a complete lack of political ties.
 **Rivals:** The Duchy of Avalon.
 
-## [TAG: NPC_TIER_1]
-**The Narrator/The Reborn King** (Unknown - Leader/Voice) - A deep, resonant voice that echoes through the Aethel. **Voice:** Regal, theatrical, and measured. **Goal:** To guide the new knights and restore the Round Table. **Secret:** He is not a physical being yet, but an Aethel-echo of Arthur himself.
-**Duchess Guinevere** (Avalon - Political Boss) - The ruler of the most powerful duchy. **Voice:** Authoritative, sophisticated, and cold. **Goal:** To rule Aethelgard through Avalon's strength and tradition. **Secret:** She was once a pilot but lost her Armiger to the Morgana Anomaly.
-**Merlin** (Grail Seeker - Expert/AI) - An ancient intelligence that has lived for eons. **Voice:** Wise, glitchy, and multi-tonal. **Goal:** To find the Grail and stabilize the Aethel for the new King. **Secret:** He is actually the original designer of the Armigers and feels responsible for Arthur's fall.
-**Sir Lancelot (Reborn)** (Round Table - Star Pilot) - The first of the new knights to awaken. **Voice:** Determined, resolute, and filled with a tragic grace. **Goal:** To protect the King and destroy the Morgana Shadow. **Secret:** He suffers from constant visions of his past life's betrayal.
-**Morgana (Anomaly)** (Morgana - Antagonist/Spirit) - The manifest shadow within the Aethel. **Voice:** A whispering, distorted chorus of a thousand voices. **Goal:** To consume the Grail and turn the universe into a silent, lightless void. **Secret:** She was once the 'High Priestess' of the Aethel before the Grail's corruption.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Narrator/The Reborn King** (Unknown - Leader/Voice) - A deep, resonant voice that echoes through the Aethel. **Voice:** Regal, theatrical, and measured. **Goal:** To guide the new knights and restore the Round Table. **Secret:** He is not a physical being yet, but an Aethel-echo of Arthur himself.
+2.  **Duchess Guinevere** (Avalon - Political Boss) - The ruler of the most powerful duchy. **Voice:** Authoritative, sophisticated, and cold. **Goal:** To rule Aethelgard through Avalon's strength and tradition. **Secret:** She was once a pilot but lost her Armiger to the Morgana Anomaly.
+3.  **Merlin** (Grail Seeker - Expert/AI) - An ancient intelligence that has lived for eons. **Voice:** Wise, glitchy, and multi-tonal. **Goal:** To find the Grail and stabilize the Aethel for the new King. **Secret:** He is actually the original designer of the Armigers and feels responsible for Arthur's fall.
+4.  **Sir Lancelot (Reborn)** (Round Table - Star Pilot) - The first of the new knights to awaken. **Voice:** Determined, resolute, and filled with a tragic grace. **Goal:** To protect the King and destroy the Morgana Shadow. **Secret:** He suffers from constant visions of his past life's betrayal.
+5.  **Morgana (Anomaly)** (Morgana - Antagonist/Spirit) - The manifest shadow within the Aethel. **Voice:** A whispering, distorted chorus of a thousand voices. **Goal:** To consume the Grail and turn the universe into a silent, lightless void. **Secret:** She was once the 'High Priestess' of the Aethel before the Grail's corruption.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Honor' and 'Corruption.' It is abo
 | The Page | UEF Cadet (Equivalent) | Training Base | Obsessed with becoming a 'Legendary Knight.' |
 | 'Iron-Gut' | Avalon Miner | Gas Giant Clouds | Can survive the pressure of a gas giant without a suit for 1 minute. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Camelot Prime
 A colossal, neo-gothic space fortress orbiting a purple gas giant.
 *   **The Hall of the Round Table:** A vast, circular chamber with a holographic table showing the status of the entire galaxy. **Visual:** Golden light reflecting off white marble. **Sound:** The deep, resonant echo of ancient prophecies.
@@ -89,7 +92,8 @@ A dark, reality-distorting sector where the Aethel has turned black.
 A derelict, ancient library drifting in an asteroid field.
 *   **The Chamber of Records:** A clinical, white space filled with holographic books. **Visual:** Cosmic dust particles catching the light of a distant star.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Awakening:** Your spirit awakens in an ancient, derelict Armiger. You must defend your home moon from a Morgana-corrupted raid.
 2.  **The Journey to Camelot:** Travel to the legendary space fortress to prove your worth to Merlin and the newly formed Round Table.
 3.  **The Avalon Standoff:** Infiltrate an Avalon mining moon to retrieve a Grail Fragment. You must navigate the political tensions between the Duchess and the King.
@@ -98,18 +102,19 @@ A derelict, ancient library drifting in an asteroid field.
 6.  **The Grail Vision:** You enter the center of the galaxy to find the source of the Aethel. You must choose between your own legend and the needs of the universe.
 7.  **The Final Coronation:** The final confrontation with Morgana at the heart of the Grail. Restore the Aethel and take your place at the Round Table.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Excalibur Armiger
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Excalibur Armiger:**
 **Type:** Legendary Mech
 **Description:** A city-sized Armiger made of living, golden light and ancient white marble.
 **Mechanics:** Grants the user +5 to all attack rolls and makes them immune to the 'Morgana Rot.' Its primary weapon, the 'Light of Arthur,' deals 20d10 radiant damage in a 100ft line.
 
-### 2. The Grail Fragment
+2.  **The Grail Fragment:**
 **Type:** Artifact Focus
 **Description:** A small, glowing emerald that contains a sliver of the original Grail.
 **Mechanics:** Grants the user the ability to 'Heal' an Armiger's systems by 50 HP as a bonus action.
 
-### 3. The Round Table Signet
+3.  **The Round Table Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, gold ring with the crest of the Round Table.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks with any resident of Aethelgard.

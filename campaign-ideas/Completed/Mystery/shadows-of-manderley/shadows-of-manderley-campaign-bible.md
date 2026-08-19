@@ -18,7 +18,8 @@ Manderley isn't a house; it's a memory made of stone and heavy curtains. It is a
 ### The 'Why'
 The central conflict is the struggle for 'Identity' in the face of an impossible ideal. It is about the 'Psychological Horror' of the atmospheric dread—the realization that perfection is just a mask for decay. The 'Why' is the question: 'Can you truly love someone if you are living in their shadow?' It explores the oppressive grandeur of the Gothic manor, the dangerous beauty of the Cornwall cliffs, and the obsessive devotion of Mrs. Danvers. The players are the Second Wife and her few allies who must navigate the past to find a freedom that can only be bought through destruction.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Devotees of Rebecca (The Loyalists)
 **Type:** Cult-like/Obsessive Household Staff
 **Leader:** Mrs. Danvers (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Identity' in the face of an impossible
 **Asset:** Growing confidence, a fresh perspective, and the hope of a future without Manderley.
 **Rivals:** Mrs. Danvers, The Ghost of Rebecca.
 
-## [TAG: NPC_TIER_1]
-**The Second Mrs. de Winter** (Independent - The Outsider) - A young, plain woman in gray pastels. **Voice:** Initially self-doubting, evolving to confident and determined. **Goal:** To make Maxim happy and find her own place at Manderley. **Secret:** She is starting to see Rebecca's 'Shadow' moving in the mirrors when Maxim isn't looking.
-**Maxim de Winter** (de Winter - Haunted Leader) - A dark, brooding man in expensive suits. **Voice:** Controlled, British upper-class, occasionally breaking into rage. **Goal:** To keep the truth of Rebecca's death buried forever. **Secret:** He hated Rebecca more than anyone and is the one who sank her boat.
-**Mrs. Danvers** (Devotees - The Gatekeeper) - A severe woman in a black dress who appears silently. **Voice:** Cold, quiet, and passive-aggressive. **Goal:** To preserve Manderley as a shrine to Rebecca and destroy the new wife. **Secret:** She is gender-ambiguous and was obsessively, romantically devoted to Rebecca.
-**Jack Favell** (Coastal - Charming Villain) - A handsome, dissolute man with a cruel smile. **Voice:** Charming, arrogant, and manipulative. **Goal:** To blackmail Maxim and find out what really happened the night Rebecca died. **Secret:** He was Rebecca's lover and knows she was already dying before the boat sank.
-**The Ghost of Rebecca** (Unknown - The Shadow) - The impossibly beautiful woman in the paintings. **Voice:** None (described as witty and charming). **Goal:** To remain the only Mrs. de Winter. **Secret:** She was 'Uncanny Valley' perfect because she had no soul—only ambition and a desire for control.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Second Mrs. de Winter** (Independent - The Outsider) - A young, plain woman in gray pastels. **Voice:** Initially self-doubting, evolving to confident and determined. **Goal:** To make Maxim happy and find her own place at Manderley. **Secret:** She is starting to see Rebecca's 'Shadow' moving in the mirrors when Maxim isn't looking.
+2.  **Maxim de Winter** (de Winter - Haunted Leader) - A dark, brooding man in expensive suits. **Voice:** Controlled, British upper-class, occasionally breaking into rage. **Goal:** To keep the truth of Rebecca's death buried forever. **Secret:** He hated Rebecca more than anyone and is the one who sank her boat.
+3.  **Mrs. Danvers** (Devotees - The Gatekeeper) - A severe woman in a black dress who appears silently. **Voice:** Cold, quiet, and passive-aggressive. **Goal:** To preserve Manderley as a shrine to Rebecca and destroy the new wife. **Secret:** She is gender-ambiguous and was obsessively, romantically devoted to Rebecca.
+4.  **Jack Favell** (Coastal - Charming Villain) - A handsome, dissolute man with a cruel smile. **Voice:** Charming, arrogant, and manipulative. **Goal:** To blackmail Maxim and find out what really happened the night Rebecca died. **Secret:** He was Rebecca's lover and knows she was already dying before the boat sank.
+5.  **The Ghost of Rebecca** (Unknown - The Shadow) - The impossibly beautiful woman in the paintings. **Voice:** None (described as witty and charming). **Goal:** To remain the only Mrs. de Winter. **Secret:** She was 'Uncanny Valley' perfect because she had no soul—only ambition and a desire for control.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Identity' in the face of an impossible
 | 'Flash' | Press Photographer | Costumed Ball | His flashbulbs create 1-second 'Gothic Stills' of the horror. |
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can identify a body by the salt content of the lungs. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Manderley (Gothic Revival Mansion)
 A beautiful but oppressive monument to 1930s elegance and decay.
 *   **The Hall:** A vast, dark-wood chamber with heavy curtains and the 'Monogrammed' essence of Rebecca. **Smell:** Incense, old wood, and wet stone. **Sound:** The rhythmic ticking of a massive clock.
@@ -89,7 +92,8 @@ A dark, silent place where the sea gave up its dead.
 A site of 'Costumed Horror' and desaturated pastels.
 *   **The Dance Floor:** A place where the Second Wife's confidence was shattered. **Visual:** A single, broken mirror showing Rebecca's face instead of hers.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Arrival at Manderley:** Enter the estate for the first time. Navigate your first dinner under the silent judgment of Mrs. Danvers and Frith.
 2.  **The Monogram Mystery:** Find three items hidden in the house that shouldn't be there (e.g., a diary fragment, a locked drawer).
 3.  **The Cove's Secret:** Follow Maxim to the cliffs at night. Discover the location of the boathouse and hear the 'Voice of the Sea' for the first time.
@@ -98,18 +102,19 @@ A site of 'Costumed Horror' and desaturated pastels.
 6.  **Maxim's Confession:** Maxim tells you the truth about the night Rebecca died. You must decide whether to support his 'Justifiable Homicide' or flee Manderley.
 7.  **The Final Fire:** Mrs. Danvers has set Manderley ablaze. You must escape the burning manor while rescuing Maxim and destroying the 'Shadow of Rebecca' forever.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Rebecca's Blue Azalea Perfume
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Rebecca's Blue Azalea Perfume:**
 **Type:** Wondrous Item (Focus)
 **Description:** A small, elegant vial of a scent that is both beautiful and menacing.
 **Mechanics:** Grants the user the ability to 'Charm' anyone who remembers Rebecca. The target will obey a simple command as if it came from the Lady herself.
 
-### 2. The Manderley Signet
+2.  **The Manderley Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A heavy, gold ring with the de Winter crest and a hidden 'R.'
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks inside the estate. Once per day, the wearer can 'Silence' Mrs. Danvers for 1 minute.
 
-### 3. The Boathouse Key
+3.  **The Boathouse Key:**
 **Type:** Artifact (Gatestone)
 **Description:** A rusted, salt-stained key that opens the most secret door in Cornwall.
 **Mechanics:** Allows the user to enter any magically or physically sealed room in Manderley. Once per day, the user can summon a 30ft 'Fog Wall' that blinds all enemies.

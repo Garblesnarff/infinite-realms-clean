@@ -18,7 +18,8 @@ The World is not a floor; it's a mountain that's waiting to be descended. In the
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Corporate Performance.' It is about the 'Found Family' of the human spirit—the realization that your greatest weapon is your bike, not your reputation. The 'Why' is the question: 'Can the mountain remember what it was before it was drilled, or is the future a zero-sum game of glass and steel?' It explores the realistic texture of the weathered stone, the visceral horror of the snapped frame, and the deep, weathered voice of a man who has seen too many legends vanish into the shadows. The players are the riders and artists who must navigate the crew politics and the intensity of a high-speed chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Mountain Watchers (The Order)
 **Type:** Indigenous/Hierarchical Spiritual Brotherhood
 **Leader:** Elder Kahale (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Corporate
 **Asset:** Ancient bones, deep bass frequencies, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Elder Kahale** (Watcher - The Leader) - A man in traditional wooden gear with a deep, Pacific Islander accent. **Voice:** Deep, weathered, ancestral wisdom. **Goal:** To protect the mountain's memory and guide the new riders. **Secret:** He is secretly an Adept of 'Speed-Energy' who can 'persuade' a trail to extend infinitely through his presence.
-**Dr. Victoria Summit** (Summit - The Villain) - A woman in a sterile business suit with polished corporate speech. **Voice:** Corporate smooth, charasmatic, hiding possession. **Goal:** To monetize the mountain and eliminate the 'Variable' vibes. **Secret:** She is already part-Apocalypse, having consumed the 'First Note' of the drilling incident.
-**Crash (Ghost Rider)** (Independent - The Enigma) - A figure whose voice is mostly silent, occasional wind-like whispers. **Voice:** Melancholic, wise, and resigned. **Goal:** To witness the end of the song and record the final silence. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the descent ritual.
-**Maria "Airtime" Santos** (Speed Demon - The Catalyst) - A woman in vibrant, graffiti-stained silks (equivalent) with Michelle Rodriguez toughness. **Voice:** Energetic, infectious enthusiasm, joyful in defying death. **Goal:** To turn the entire mountain into a permanent 'Eternal Gallery.' **Secret:** she is the only person who can 'hear' the original Song of the World through the tire noise.
-**Axel Petrov** (Speed Demon - The Rival) - A young man in high-end gear with Dolph Lundgren's intensity. **Voice:** Russian-accented, young, and cocky. **Goal:** To dominate the mountain's leaderboards and win the 'Concrete Colosseum' (equivalent). **Secret:** He has discovered a 'Vulnerability' in the Summit's tracking system that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Elder Kahale** (Watcher - The Leader) - A man in traditional wooden gear with a deep, Pacific Islander accent. **Voice:** Deep, weathered, ancestral wisdom. **Goal:** To protect the mountain's memory and guide the new riders. **Secret:** He is secretly an Adept of 'Speed-Energy' who can 'persuade' a trail to extend infinitely through his presence.
+2.  **Dr. Victoria Summit** (Summit - The Villain) - A woman in a sterile business suit with polished corporate speech. **Voice:** Corporate smooth, charasmatic, hiding possession. **Goal:** To monetize the mountain and eliminate the 'Variable' vibes. **Secret:** She is already part-Apocalypse, having consumed the 'First Note' of the drilling incident.
+3.  **Crash (Ghost Rider)** (Independent - The Enigma) - A figure whose voice is mostly silent, occasional wind-like whispers. **Voice:** Melancholic, wise, and resigned. **Goal:** To witness the end of the song and record the final silence. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the descent ritual.
+4.  **Maria "Airtime" Santos** (Speed Demon - The Catalyst) - A woman in vibrant, graffiti-stained silks (equivalent) with Michelle Rodriguez toughness. **Voice:** Energetic, infectious enthusiasm, joyful in defying death. **Goal:** To turn the entire mountain into a permanent 'Eternal Gallery.' **Secret:** she is the only person who can 'hear' the original Song of the World through the tire noise.
+5.  **Axel Petrov** (Speed Demon - The Rival) - A young man in high-end gear with Dolph Lundgren's intensity. **Voice:** Russian-accented, young, and cocky. **Goal:** To dominate the mountain's leaderboards and win the 'Concrete Colosseum' (equivalent). **Secret:** He has discovered a 'Vulnerability' in the Summit's tracking system that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Corporate
 | The Monk | Ancient Worshipper | Stone Altar | Spends all his time painting murals of the 'Descent's Beginning.' |
 | The Clerk | City Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Kahale Village (The Hub)
 A traditional wooden monument to ancient carvings and modern repair facilities.
 *   **The Main Bay:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Pine wood, machine oil, and coffee. **Sound:** The rhythmic 'clank-clank' of a bike lift.
@@ -89,7 +92,8 @@ A pristine corporate monument to glass towers, marble, and steel.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Pulsing Core:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Run:** Wake up in Kahale Village. You must survive your first 'Summit Ambush' using only your bike and your 'Spiritual intuition.'
 2.  **The Blood Run Squelch:** Navigate the Skull Run to find the Ghost Rider. You must identify the 'Respiration Seed' (equivalent) before the surge.
 3.  **The Speed Demon Infiltration:** Infiltrate the Axel camp to find evidence of their 'Reverse-Rebirth' plan. You must bypass his guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The mountain's central crystal has begun its final 'Reset.' You must defend the Spires while the self-destruct activates.
 7.  **The Final Bloodletting at the Source:** Face the Titan Dreamer face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Descent
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Descent:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Bike.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Speed-Energy Capsule
+3.  **The Speed-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Titan' magic.

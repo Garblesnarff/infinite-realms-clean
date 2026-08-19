@@ -18,7 +18,8 @@ The World is not a floor; it's a machine that's being played by an angry god. In
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Predetermined Cycles.' It is about the 'Heroic Resilience' of the human spirit—the realization that you can defy god for the sake of your free will. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single iteration in a 10,000-year recording?' It explores the operatic beauty of the gnostic mecha, the pride in mastering a biomechanical warrior, and the deep, resonant voice of a narrator who understands that every second is a gift. The players are the pilots and seekers who must navigate the psychological horror and the intensity of a mecha combat to find a truth that stays solid in the change.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Gear Pilots (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Fei (equivalent - the martial artist).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 **Asset:** Reality-tearing cruciform ships, black-purple voids, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Emperor Cain** (Shadow - The Villain) - A man whose voice is deep, resonant, and millennia-old. **Voice:** Resonant, philosophical, carrying the weight of witness. **Goal:** To maintain the 'Eternal Cycle' and prevent the rebirth of Deus. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Fei** (Order - The Lead) - A martial artist whose voice is intense, determined, and haunted. **Voice:** Martial artist, dark hair, intense eyes, multiple past lives. **Goal:** To find his true identity and stop the Deus-shifts. **Secret:** He is secretly an Adept of 'Gnostic-Energy' who can 'rewrite' a soul's destiny through his mecha combat.
-**Elly** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the Solarian-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the Gear clatter.
-**Citan (The Mentor)** (Independent - The Mentor) - A man whose body is a map of countless Gear-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Solaris's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient pilot in practical anime gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Gear ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Emperor Cain** (Shadow - The Villain) - A man whose voice is deep, resonant, and millennia-old. **Voice:** Resonant, philosophical, carrying the weight of witness. **Goal:** To maintain the 'Eternal Cycle' and prevent the rebirth of Deus. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+2.  **Fei** (Order - The Lead) - A martial artist whose voice is intense, determined, and haunted. **Voice:** Martial artist, dark hair, intense eyes, multiple past lives. **Goal:** To find his true identity and stop the Deus-shifts. **Secret:** He is secretly an Adept of 'Gnostic-Energy' who can 'rewrite' a soul's destiny through his mecha combat.
+3.  **Elly** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the Solarian-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the Gear clatter.
+4.  **Citan (The Mentor)** (Independent - The Mentor) - A man whose body is a map of countless Gear-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Solaris's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient pilot in practical anime gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Gear ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Predeterm
 | The Monk | Ancient Worshipper | Gnostic Temple | Spends all his time painting murals of the 'Cycle's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Solaris (The Hub)
 A grand sky-city monument to crystalline architecture and gnostic light.
 *   **The Cathedral:** A site of 'Refined Formality' and harsh divine rituals. **Smell:** Incense, vanilla, and clinical ozone. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and organic flesh machinery.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Cycle Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a surface village. You must survive your first 'Gear Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Fei Run:** Navigate the traditional territories to find Fei. You must identify the 'Gnostic-Energy' node before the rivals arrive.
 3.  **The Gear Heist:** Infiltrate the Solarian HQ to retrieve a stolen 'Gear-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Deus face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Cycle (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Cycle (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Gnostic Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Gear Signet (Equivalent)
+2.  **The Gear Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the gear seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Gnostic-Energy Capsule (Equivalent)
+3.  **The Gnostic-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Divine' magic.

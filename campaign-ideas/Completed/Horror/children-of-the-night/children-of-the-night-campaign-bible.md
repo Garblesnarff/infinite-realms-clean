@@ -18,7 +18,8 @@ The Soul is not a spark; it's a cup that must be filled. In the heart of Victori
 ### The 'Why'
 The central conflict is the struggle between 'Eternal Refinement' and 'Primal Hunger.' It is about the 'Seductive Horror' of being a predator—the realization that immortality requires the sacrifice of your own soul. The 'Why' is the question: 'Can evil be truly aristocratic, or is it just a monster in a top hat?' It explores the rich, dramatic contrast of the Chiaroscuro lighting, the tragedy of the 'Too-Pale' beauty, and the weight of a divine impartial judgment. The players are the vampires and hunters who must navigate the subtext of a Victorian parlor and the intensity of a foggy graveyard to find a resolution that satisfies both their 'Life-Blood' and their honor.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Dracula Bloodline (The Children)
 **Type:** Elite/Seductive Vampire Dynasty
 **Leader:** Count Dracula (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Eternal Refinement' and 'Primal Hu
 **Asset:** Youthful beauty, a fresh perspective on the curse, and a refusal to bow to the Count.
 **Rivals:** Count Dracula.
 
-## [TAG: NPC_TIER_1]
-**Count Dracula** (Vampire - The Leader) - A tall, pale man in black with touches of red. **Voice:** Deep, aristocratic, and seductive. **Goal:** To establish a permanent vampire hegemony in London and find a worthy bride. **Secret:** He is secretly an Adept of 'Ichor' who can 'rewrite' a victim's memory through a single bite.
-**Professor Van Helsing** (Hunter - The Expert) - A man of iron faith and practical military fashion. **Voice:** Dutch-accented, authoritative, and filled with a religious passion. **Goal:** To destroy Dracula and save the souls of his victims. **Secret:** He is already part-vampire, having been 'nipped' by a fledgling years ago.
-**Mina Harker** (Independent - The Link) - A woman of Victorian propriety and increasing psychic confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect her husband Jonathan and stop the Count. **Secret:** She is the only person who can 'hear' Dracula's thoughts during the night.
-**Renfield** (Independent - The Thrall) - A man who eats flies and birds to absorb their 'life-force.' **Voice:** Frantic, high-pitched, and obsessive. **Goal:** To serve his Master and receive the gift of immortality. **Secret:** He has discovered a 'Vulnerability' in Dracula's mental control that he's too terrified to use.
-**Lucy Westenra (Reborn)** (Vampire - The New Guard) - A beautiful debutante turned into a predatory monster. **Voice:** Soft, musical, and increasingly cold. **Goal:** To feed her hunger and find her own place in the night. **Secret:** She was the first vampire to 'Sync' with the London fog, allowing her to become mist.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Count Dracula** (Vampire - The Leader) - A tall, pale man in black with touches of red. **Voice:** Deep, aristocratic, and seductive. **Goal:** To establish a permanent vampire hegemony in London and find a worthy bride. **Secret:** He is secretly an Adept of 'Ichor' who can 'rewrite' a victim's memory through a single bite.
+2.  **Professor Van Helsing** (Hunter - The Expert) - A man of iron faith and practical military fashion. **Voice:** Dutch-accented, authoritative, and filled with a religious passion. **Goal:** To destroy Dracula and save the souls of his victims. **Secret:** He is already part-vampire, having been 'nipped' by a fledgling years ago.
+3.  **Mina Harker** (Independent - The Link) - A woman of Victorian propriety and increasing psychic confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect her husband Jonathan and stop the Count. **Secret:** She is the only person who can 'hear' Dracula's thoughts during the night.
+4.  **Renfield** (Independent - The Thrall) - A man who eats flies and birds to absorb their 'life-force.' **Voice:** Frantic, high-pitched, and obsessive. **Goal:** To serve his Master and receive the gift of immortality. **Secret:** He has discovered a 'Vulnerability' in Dracula's mental control that he's too terrified to use.
+5.  **Lucy Westenra (Reborn)** (Vampire - The New Guard) - A beautiful debutante turned into a predatory monster. **Voice:** Soft, musical, and increasingly cold. **Goal:** To feed her hunger and find her own place in the night. **Secret:** She was the first vampire to 'Sync' with the London fog, allowing her to become mist.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Eternal Refinement' and 'Primal Hu
 | The Scribe | Order Admin | The Vault | Only communicates through a rhythmic 'Ink-Scratch' on parchment. |
 | The Monk | Ancient Worshipper | Castle Library | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Castle Dracula (Carpathian Mountains)
 An impossible architecture of stone arches, coffins, and ancient evil.
 *   **The Crypt:** A place of pure white bone and velvet black shadows. **Smell:** Decay, old incense, and cold stone. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -89,7 +92,8 @@ A site of 'Seductive Horror' and desaturated pastels.
 A site of 'Tense Investigations' and breathtaking vistas.
 *   **The Demeter Wreck:** A place where the 'Count's Foothold' was first established. **Visual:** Blue-white light reflecting off the rain and broken wood.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Arrival in London:** Secure Dracula's first coffin at the Carfax Estate. You must avoid the local police while maintaining your 'Aristocratic Cool.'
 2.  **The Lucy Seduction:** Flashback to the Westenra garden. You must turn Lucy into a 'Vampire' without alerting her hunter suitors.
 3.  **The Van Helsing Gambit:** The Professor has arrived. You must identify his 'Biological Weapon' (garlic/stakes) and sabotage his lab at the asylum.
@@ -98,18 +102,19 @@ A site of 'Tense Investigations' and breathtaking vistas.
 6.  **The Siege of the Crypt:** The hunters have found your master coffin. You must defend the crypt while the self-destruct (sunrise) activates.
 7.  **The Final Bloodletting:** Face Van Helsing and Mina Harker face-to-face in a final, religious standoff at Castle Dracula. The truth is revealed—will you fill the cup or die for the spark?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Dracula
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Dracula:**
 **Type:** Legendary Weapon
 **Description:** A simple, black rapier that seems to hum with the energy of the first Count.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Ichor Strike' (once per combat, deals 10d10 necrotic damage).
 
-### 2. The Van Helsing Medallion
+2.  **The Van Helsing Medallion:**
 **Type:** Artifact (Shield)
 **Description:** A heavy, gold medallion with a glowing religious sigil.
 **Mechanics:** Grants the wearer the ability to 'Stabilize' any religious or biological situation. Once per day, the wearer can 'Silence' a vampire's speech for 1 round.
 
-### 3. The Ichor Cup
+3.  **The Ichor Cup:**
 **Type:** Wondrous Item (Focus)
 **Description:** A simple, silver cup that contains a single, dried drop of the original Alpha blood.
 **Mechanics:** Grants the user the ability to 'Heal' a vampire's essence by 50 HP. Once per day, the user can create a 30ft 'Fog Wall' that blinds all enemies.

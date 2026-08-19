@@ -20,7 +20,8 @@ The world is a machine. An impossibly complex, continent-sized "Divine Construct
 ### The "Why"
 The metaphysical conflict is a struggle between a living, breathing civilization and the cold, impersonal maintenance schedule of the universe. The Calamity is not a villain; it is a force of nature, as impersonal as a hurricane or an earthquake. The players are not just fighting a monster; they are fighting against the very laws of their reality. The central question is one of persistence. Can mortals prove that their "clutter"—their art, their history, their love, their messy, inefficient lives—is worth preserving? Can they find a way to "defrag" the system without destroying themselves? Or are they destined to be a footnote in the log files of a cosmic machine, another failed program awaiting deletion?
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Kingdom of Hyrule (In Exile)
 **Type:** Shattered Monarchy
 **Leader:** Princess Zelda (sealed in Hyrule Castle), and in her absence, the grizzled and weary Commander Impa.
@@ -81,82 +82,84 @@ The metaphysical conflict is a struggle between a living, breathing civilization
 **Asset:** The ability to salvage and repurpose ancient Sheikah technology. They delve into the ruins of the last Calamity, seeking powerful parts and weapons.
 **Rivals:** The Guardians.
 
-## [TAG: NPC_TIER_1]
-**Link** (Hylian Fighter) - The Hero. A blank slate, a man out of time, with immense skill but no memory. **Voice:** Silent. He does not speak, but his expressions convey a deep well of determination and sadness. **Goal:** To remember who he is, and to fulfill the duty given to him by the voice in his head. **Secret:** He is not just a hero; he is a living "system restore point." If he dies before defeating the Calamity, the world-machine may "reboot" to the moment he awoke, trapping everyone in a time loop.
-**Princess Zelda** (Hylian Cleric) - The source of the voice. A brilliant scholar and powerful priestess, holding the Calamity at bay with her own life force. **Voice:** A clear, strong, but weary voice, filled with a thousand years of sorrow and resolve. **Goal:** To hold the Calamity long enough for Link to regain his strength. **Secret:** She is in love with Link, and her love is a key component of the sealing magic.
-**Calamity Ganon** (Aberration) - The "defragmentation protocol" made manifest. A being of pure, destructive energy, malice, and corrupted Sheikah technology. **Voice:** A cacophony of digital screams, corrupted data, and the roar of a beast. **Goal:** To scour the world clean of all civilization. **Secret:** It is not truly sentient in the way mortals understand. It is a program running its course. It can be delayed, but it cannot be reasoned with.
-**Impa** (Sheikah Monk) - The elderly leader of the Sheikah and Zelda's most trusted advisor. **Voice:** A frail, but surprisingly strong and sharp, old woman's voice. **Goal:** To guide Link and help him fulfill the prophecy. **Secret:** She believes this cycle is doomed to fail, and is secretly preparing a "backup plan" to send the world's "data" to a new "server."
-**Master Kohga** (Sheikah Rogue) - The leader of the Yiga Clan. Pompous, theatrical, and surprisingly incompetent. **Voice:** A loud, arrogant, and slightly goofy villain's voice. **Goal:** To defeat Link and pledge his allegiance to the Calamity. **Secret:** He is terrified of the Calamity and believes serving it is the only way to survive.
-**Sidon** (Zora Paladin) - The charismatic and optimistic prince of the Zora. **Voice:** A booming, heroic, and incredibly charming voice, always accompanied by a winning smile. **Goal:** To free his people and the Divine Beast Vah Ruta from the Calamity's influence. **Secret:** He feels immense guilt over the death of the Zora Champion, Mipha, who was his childhood friend and secretly in love with Link.
-**Riju** (Gerudo Fighter) - The young, determined chief of the Gerudo. **Voice:** A young, but surprisingly commanding and regal voice. **Goal:** To prove herself worthy of leading her people and to reclaim the Divine Beast Vah Naboris. **Secret:** She is terrified of the lightning that Vah Naboris creates, a secret she hides from her people.
-**Yunobo** (Goron Barbarian) - A young, timid Goron, descendant of the Goron Champion. **Voice:** A high-pitched, nervous, and shaky voice for a Goron. **Goal:** To overcome his cowardice and live up to his ancestor's legacy. **Secret:** He is secretly incredibly brave, but only when he thinks no one is watching.
-**Teba** (Rito Ranger) - A proud, skilled Rito warrior and archer. **Voice:** A sharp, curt, and professional voice. **Goal:** To reclaim the Divine Beast Vah Medoh and avenge the Rito Champion. **Secret:** He sees Link not as a hero, but as a failure who let the original Champions die.
-**The Great Deku Tree** (Treant) - The ancient, wise guardian of the Korok Forest. **Voice:** A slow, deep, and sleepy voice, like the creaking of ancient branches. **Goal:** To protect the Master Sword until the Hero is worthy to wield it again. **Secret:** He is a part of the world-machine's "operating system," and he knows the truth of the Calamity Cycle.
-**Hestu** (Korok Bard) - A giant Korok who loves to dance and play his maracas. **Voice:** A high-pitched, cheerful, and slightly ditzy voice. **Goal:** To find his lost "Korok seeds," which are actually fragments of his own magical power. **Secret:** He is far more powerful than he appears and is one of the few beings who can navigate the "back-end" of the world-machine.
-**The Debug-Master** (Unknown) - The leader of the Glitch-Hunters. **Voice:** A series of glitched, distorted, and repeating audio files. **Goal:** To find the "root password" for reality. **Secret:** It is a sentient piece of "junk code" left over from a previous Calamity cycle.
-**"Wrench" Rourke** (Human Artificer) - The leader of the Scavengers. **Voice:** A gruff, practical, and cynical voice. **Goal:** To make a living by salvaging the past. **Secret:** He is a former Sheikah historian who became disillusioned with their "prophecies" and chose a more practical life.
-**The Petal-Priestess** (Hylian Druid) - The leader of the Order of the Silent Princess. **Voice:** A soft, gentle, and melodic whisper. **Goal:** To cultivate a "perfect" Silent Princess that can permanently sever the Calamity's connection to the world-machine. **Secret:** The flower's power comes from draining the life-force of the person who cultivates it. She is dying.
-**The Ghost of King Rhoam** (Ghost) - The last king of Hyrule, now a spirit bound to the Great Plateau. **Voice:** A deep, regal, and sorrowful voice. **Goal:** To guide Link and atone for his failure to listen to his daughter, Zelda. **Secret:** His regret is so powerful that it has become a "glitch" in the system, anchoring his spirit to the world.
-**Beedle** (Human Merchant) - A traveling merchant who seems to be everywhere at once. **Voice:** A high-pitched, incredibly enthusiastic, and slightly annoying voice. **Goal:** To sell you things. **Secret:** He is a "benign virus" in the world-machine, a piece of code designed to ensure the "player character" is always properly supplied. His travel is not physical, but a form of teleportation.
-**Kass** (Rito Bard) - A traveling Rito minstrel, singing the ancient songs of Hyrule. **Voice:** A rich, melodic, and thoughtful accordion-player's voice. **Goal:** To uncover the meaning of the ancient songs his master taught him. **Secret:** His master was a Sheikah who foresaw Link's return, and the songs are actually clues to finding the Shrines.
-**Paya** (Sheikah Expert) - Impa's shy, brilliant granddaughter. **Voice:** A very quiet, shy, and stuttering voice. **Goal:** To serve her grandmother and help the Hero. **Secret:** She has a massive, all-consuming crush on Link.
-**Purah** (Sheikah Artificer) - A Sheikah scientist who accidentally de-aged herself into the body of a six-year-old. **Voice:** A high-pitched, hyperactive, and incredibly arrogant child's voice. **Goal:** To reverse her condition and continue her research into ancient technology. **Secret:** She knows how to weaponize the "de-aging" process.
-**Robbie** (Sheikah Artificer) - Purah's rival. A rock-and-roll scientist who builds ancient weapons. **Voice:** A loud, cackling, rock-star scream. **Goal:** To build the ultimate anti-Calamity weapon. **Secret:** His "wife" is a Guardian he reprogrammed and fell in love with.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Link** (Hylian Fighter) - The Hero. A blank slate, a man out of time, with immense skill but no memory. **Voice:** Silent. He does not speak, but his expressions convey a deep well of determination and sadness. **Goal:** To remember who he is, and to fulfill the duty given to him by the voice in his head. **Secret:** He is not just a hero; he is a living "system restore point." If he dies before defeating the Calamity, the world-machine may "reboot" to the moment he awoke, trapping everyone in a time loop.
+2.  **Princess Zelda** (Hylian Cleric) - The source of the voice. A brilliant scholar and powerful priestess, holding the Calamity at bay with her own life force. **Voice:** A clear, strong, but weary voice, filled with a thousand years of sorrow and resolve. **Goal:** To hold the Calamity long enough for Link to regain his strength. **Secret:** She is in love with Link, and her love is a key component of the sealing magic.
+3.  **Calamity Ganon** (Aberration) - The "defragmentation protocol" made manifest. A being of pure, destructive energy, malice, and corrupted Sheikah technology. **Voice:** A cacophony of digital screams, corrupted data, and the roar of a beast. **Goal:** To scour the world clean of all civilization. **Secret:** It is not truly sentient in the way mortals understand. It is a program running its course. It can be delayed, but it cannot be reasoned with.
+4.  **Impa** (Sheikah Monk) - The elderly leader of the Sheikah and Zelda's most trusted advisor. **Voice:** A frail, but surprisingly strong and sharp, old woman's voice. **Goal:** To guide Link and help him fulfill the prophecy. **Secret:** She believes this cycle is doomed to fail, and is secretly preparing a "backup plan" to send the world's "data" to a new "server."
+5.  **Master Kohga** (Sheikah Rogue) - The leader of the Yiga Clan. Pompous, theatrical, and surprisingly incompetent. **Voice:** A loud, arrogant, and slightly goofy villain's voice. **Goal:** To defeat Link and pledge his allegiance to the Calamity. **Secret:** He is terrified of the Calamity and believes serving it is the only way to survive.
+6.  **Sidon** (Zora Paladin) - The charismatic and optimistic prince of the Zora. **Voice:** A booming, heroic, and incredibly charming voice, always accompanied by a winning smile. **Goal:** To free his people and the Divine Beast Vah Ruta from the Calamity's influence. **Secret:** He feels immense guilt over the death of the Zora Champion, Mipha, who was his childhood friend and secretly in love with Link.
+7.  **Riju** (Gerudo Fighter) - The young, determined chief of the Gerudo. **Voice:** A young, but surprisingly commanding and regal voice. **Goal:** To prove herself worthy of leading her people and to reclaim the Divine Beast Vah Naboris. **Secret:** She is terrified of the lightning that Vah Naboris creates, a secret she hides from her people.
+8.  **Yunobo** (Goron Barbarian) - A young, timid Goron, descendant of the Goron Champion. **Voice:** A high-pitched, nervous, and shaky voice for a Goron. **Goal:** To overcome his cowardice and live up to his ancestor's legacy. **Secret:** He is secretly incredibly brave, but only when he thinks no one is watching.
+9.  **Teba** (Rito Ranger) - A proud, skilled Rito warrior and archer. **Voice:** A sharp, curt, and professional voice. **Goal:** To reclaim the Divine Beast Vah Medoh and avenge the Rito Champion. **Secret:** He sees Link not as a hero, but as a failure who let the original Champions die.
+10.  **The Great Deku Tree** (Treant) - The ancient, wise guardian of the Korok Forest. **Voice:** A slow, deep, and sleepy voice, like the creaking of ancient branches. **Goal:** To protect the Master Sword until the Hero is worthy to wield it again. **Secret:** He is a part of the world-machine's "operating system," and he knows the truth of the Calamity Cycle.
+11.  **Hestu** (Korok Bard) - A giant Korok who loves to dance and play his maracas. **Voice:** A high-pitched, cheerful, and slightly ditzy voice. **Goal:** To find his lost "Korok seeds," which are actually fragments of his own magical power. **Secret:** He is far more powerful than he appears and is one of the few beings who can navigate the "back-end" of the world-machine.
+12.  **The Debug-Master** (Unknown) - The leader of the Glitch-Hunters. **Voice:** A series of glitched, distorted, and repeating audio files. **Goal:** To find the "root password" for reality. **Secret:** It is a sentient piece of "junk code" left over from a previous Calamity cycle.
+13.  **"Wrench" Rourke** (Human Artificer) - The leader of the Scavengers. **Voice:** A gruff, practical, and cynical voice. **Goal:** To make a living by salvaging the past. **Secret:** He is a former Sheikah historian who became disillusioned with their "prophecies" and chose a more practical life.
+14.  **The Petal-Priestess** (Hylian Druid) - The leader of the Order of the Silent Princess. **Voice:** A soft, gentle, and melodic whisper. **Goal:** To cultivate a "perfect" Silent Princess that can permanently sever the Calamity's connection to the world-machine. **Secret:** The flower's power comes from draining the life-force of the person who cultivates it. She is dying.
+15.  **The Ghost of King Rhoam** (Ghost) - The last king of Hyrule, now a spirit bound to the Great Plateau. **Voice:** A deep, regal, and sorrowful voice. **Goal:** To guide Link and atone for his failure to listen to his daughter, Zelda. **Secret:** His regret is so powerful that it has become a "glitch" in the system, anchoring his spirit to the world.
+16.  **Beedle** (Human Merchant) - A traveling merchant who seems to be everywhere at once. **Voice:** A high-pitched, incredibly enthusiastic, and slightly annoying voice. **Goal:** To sell you things. **Secret:** He is a "benign virus" in the world-machine, a piece of code designed to ensure the "player character" is always properly supplied. His travel is not physical, but a form of teleportation.
+17.  **Kass** (Rito Bard) - A traveling Rito minstrel, singing the ancient songs of Hyrule. **Voice:** A rich, melodic, and thoughtful accordion-player's voice. **Goal:** To uncover the meaning of the ancient songs his master taught him. **Secret:** His master was a Sheikah who foresaw Link's return, and the songs are actually clues to finding the Shrines.
+18.  **Paya** (Sheikah Expert) - Impa's shy, brilliant granddaughter. **Voice:** A very quiet, shy, and stuttering voice. **Goal:** To serve her grandmother and help the Hero. **Secret:** She has a massive, all-consuming crush on Link.
+19.  **Purah** (Sheikah Artificer) - A Sheikah scientist who accidentally de-aged herself into the body of a six-year-old. **Voice:** A high-pitched, hyperactive, and incredibly arrogant child's voice. **Goal:** To reverse her condition and continue her research into ancient technology. **Secret:** She knows how to weaponize the "de-aging" process.
+20.  **Robbie** (Sheikah Artificer) - Purah's rival. A rock-and-roll scientist who builds ancient weapons. **Voice:** A loud, cackling, rock-star scream. **Goal:** To build the ultimate anti-Calamity weapon. **Secret:** His "wife" is a Guardian he reprogrammed and fell in love with.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Bolson | Construction Foreman | Hateno Village | Adds the suffix "-son" to the end of everyone's name. |
-| Karson | Construction Worker | Hateno Village | Is obsessed with the "rule of three" in design. |
-| Pikango | Painter | Kakariko Village | Is a terrible painter, but his paintings act as treasure maps. |
-| Cado | Guard | Kakariko Village | Is terrified of the chickens (cuccos). |
-| Dorian | Guard | Kakariko Village | Is a former Yiga Clan member in hiding. |
-| Lasli | Shopkeeper | Kakariko Village | Sells arrows, but is deathly afraid of them. |
-| Mellie | Farmer | Kakariko Village | Is trying to grow a square pumpkin. |
-| Steen | Farmer | Hateno Village | Believes his scarecrow is alive and is plotting against him. |
-| Tonno | Farmer | Hateno Village | Is having a secret, forbidden romance with a scarecrow. |
-| Manny | Guard | Hateno Village | Is in love with the local shopkeeper, but can only express it through terrible poetry. |
-| Fyson | Merchant | Rito Village | Sells winter clothes, but hates the cold. |
-| Gesane | Rito Elder's Wife | Rito Village | Her singing can predict the weather. |
-| Harth | Rito Fletcher | Rito Village | Makes arrows that are so beautiful, it feels wrong to fire them. |
-| Misa | Zora Scribe | Zora's Domain | Is writing a very dramatic, and very inaccurate, history of the Zora. |
-| Laflat | Zora Guard | Zora's Domain | Is obsessed with polishing her spear until it shines. |
-| Cleff | Zora Musician | Zora's Domain | Plays a trumpet that sounds like a dolphin's call. |
-| Rohan | Goron Smith | Goron City | Forges weapons that are too heavy for anyone but a Goron to lift. |
-| Fugo | Goron Miner | Goron City | Can taste the difference between various types of rock. |
-| Aji | Goron Chef | Goron City | His specialty is "rock roast," which is just a very hot rock. |
-| Isha | Gerudo Soldier | Gerudo Town | Is trying to teach the local sand-seals how to do tricks. |
-| Laine | Gerudo Jeweler | Gerudo Town | Sells jewelry that is cursed to bring bad luck in love. |
-| Dalia | Gerudo Farmer | Gerudo Town | Is growing cacti that produce sweet, drinkable milk. |
-| Bozai | Gerudo | Gerudo Desert | A vain man who is obsessed with finding a girlfriend. |
-| Nobiro | Scavenger | Any ruin | His backpack is a salvaged, still-sentient Guardian head. |
-| The Petal-Priestess's Acolyte | Acolyte | A hidden garden | Can only speak in flower-based metaphors. |
-| The Glitch-Hunter's Informant | A strange person | A glitched wall | Communicates by leaving messages written in the game's UI font. |
-| The Yiga Blademaster | Yiga Clan Member | Yiga Clan Hideout | Is obsessed with mighty bananas. |
-| The Yiga Footsoldier | Yiga Clan Member | Anywhere, in disguise | Is a terrible master of disguise (e.g., disguised as a tree, but holding his arms out like branches). |
-| A Korok | A spirit | Hiding under a rock | Says "Yahaha! You found me!" |
-| A Stalnox | Undead Monster | A field at night | A giant, skeletal Hinox that is surprisingly good at juggling its own eyeball. |
-| A Lynel | Monster | A high plateau | A powerful, centaur-like beast that is a master of all weapons. |
-| A Guardian Stalker | Ancient Machine | Hyrule Field | A terrifying, spider-like machine of death that is easily distracted by butterflies. |
-| The Flower-Lady | Hylian | A field of flowers | Will fly into a murderous rage if you step on her flowers. |
-| The Bridge-Jumper | Hylian | A tall bridge | Is contemplating jumping, but is really just an attention-seeker. |
-| The Star-Fragment Collector | Hylian | A high peak at night | Is trying to catch a falling star in a net. |
-| The Horse-Tamer | Hylian | A stable | Claims he can talk to horses. He can't. |
-| The Dog-Lover | Hylian | A stable | Is convinced that if he feeds the local dog enough, it will lead him to a treasure. It will. |
-| The Treasure-Hunter | Hylian | A cave | Is always convinced he is on the verge of the "big score." He never is. |
-| The Shield-Surfer | Hylian | A snowy mountain | Is trying to surf down a mountain on his shield. |
-| The Gourmet | Hylian | A cooking pot | Is trying to cook a meal using monster parts. |
-| The Fashionista | Hylian | Hateno Village | Will dye your clothes for a fee, but is very judgmental about your color choices. |
-| The Great Fairy | A powerful being | A fountain | A giant, flamboyant fairy who will upgrade your armor in a very... intimate... way. |
-| Kilton | A monster-lover | A strange, balloon-shop | A strange man who loves monsters so much, he wants to buy all your monster parts. |
-| The Traveling Musician | Hylian | A stable | Plays the same, single, annoying song over and over. |
-| The Beetle-Collector | Hylian | A forest | Is obsessed with collecting rare beetles. |
-| The Mushroom-Forager | Hylian | A forest | Is looking for a specific, rare mushroom, but is also slightly high on the mushrooms he's already eaten. |
-| The Salesman | Hylian | A stable | Is trying to sell you a "rainy day" discount, but only when it's sunny. |
-| The Guard with an Arrow in his Knee | Hylian | A stable | Used to be an adventurer like you... |
-| The Cucco-Farmer | Hylian | Kakariko Village | Warns you, with a dead-eyed stare, not to mess with his chickens. |
+| **Bolson** | Construction Foreman | Hateno Village | Adds the suffix "-son" to the end of everyone's name. |
+| **Karson** | Construction Worker | Hateno Village | Is obsessed with the "rule of three" in design. |
+| **Pikango** | Painter | Kakariko Village | Is a terrible painter, but his paintings act as treasure maps. |
+| **Cado** | Guard | Kakariko Village | Is terrified of the chickens (cuccos). |
+| **Dorian** | Guard | Kakariko Village | Is a former Yiga Clan member in hiding. |
+| **Lasli** | Shopkeeper | Kakariko Village | Sells arrows, but is deathly afraid of them. |
+| **Mellie** | Farmer | Kakariko Village | Is trying to grow a square pumpkin. |
+| **Steen** | Farmer | Hateno Village | Believes his scarecrow is alive and is plotting against him. |
+| **Tonno** | Farmer | Hateno Village | Is having a secret, forbidden romance with a scarecrow. |
+| **Manny** | Guard | Hateno Village | Is in love with the local shopkeeper, but can only express it through terrible poetry. |
+| **Fyson** | Merchant | Rito Village | Sells winter clothes, but hates the cold. |
+| **Gesane** | Rito Elder's Wife | Rito Village | Her singing can predict the weather. |
+| **Harth** | Rito Fletcher | Rito Village | Makes arrows that are so beautiful, it feels wrong to fire them. |
+| **Misa** | Zora Scribe | Zora's Domain | Is writing a very dramatic, and very inaccurate, history of the Zora. |
+| **Laflat** | Zora Guard | Zora's Domain | Is obsessed with polishing her spear until it shines. |
+| **Cleff** | Zora Musician | Zora's Domain | Plays a trumpet that sounds like a dolphin's call. |
+| **Rohan** | Goron Smith | Goron City | Forges weapons that are too heavy for anyone but a Goron to lift. |
+| **Fugo** | Goron Miner | Goron City | Can taste the difference between various types of rock. |
+| **Aji** | Goron Chef | Goron City | His specialty is "rock roast," which is just a very hot rock. |
+| **Isha** | Gerudo Soldier | Gerudo Town | Is trying to teach the local sand-seals how to do tricks. |
+| **Laine** | Gerudo Jeweler | Gerudo Town | Sells jewelry that is cursed to bring bad luck in love. |
+| **Dalia** | Gerudo Farmer | Gerudo Town | Is growing cacti that produce sweet, drinkable milk. |
+| **Bozai** | Gerudo | Gerudo Desert | A vain man who is obsessed with finding a girlfriend. |
+| **Nobiro** | Scavenger | Any ruin | His backpack is a salvaged, still-sentient Guardian head. |
+| **The Petal-Priestess's Acolyte** | Acolyte | A hidden garden | Can only speak in flower-based metaphors. |
+| **The Glitch-Hunter's Informant** | A strange person | A glitched wall | Communicates by leaving messages written in the game's UI font. |
+| **The Yiga Blademaster** | Yiga Clan Member | Yiga Clan Hideout | Is obsessed with mighty bananas. |
+| **The Yiga Footsoldier** | Yiga Clan Member | Anywhere, in disguise | Is a terrible master of disguise (e.g., disguised as a tree, but holding his arms out like branches). |
+| **A Korok** | A spirit | Hiding under a rock | Says "Yahaha! You found me!" |
+| **A Stalnox** | Undead Monster | A field at night | A giant, skeletal Hinox that is surprisingly good at juggling its own eyeball. |
+| **A Lynel** | Monster | A high plateau | A powerful, centaur-like beast that is a master of all weapons. |
+| **A Guardian Stalker** | Ancient Machine | Hyrule Field | A terrifying, spider-like machine of death that is easily distracted by butterflies. |
+| **The Flower-Lady** | Hylian | A field of flowers | Will fly into a murderous rage if you step on her flowers. |
+| **The Bridge-Jumper** | Hylian | A tall bridge | Is contemplating jumping, but is really just an attention-seeker. |
+| **The Star-Fragment Collector** | Hylian | A high peak at night | Is trying to catch a falling star in a net. |
+| **The Horse-Tamer** | Hylian | A stable | Claims he can talk to horses. He can't. |
+| **The Dog-Lover** | Hylian | A stable | Is convinced that if he feeds the local dog enough, it will lead him to a treasure. It will. |
+| **The Treasure-Hunter** | Hylian | A cave | Is always convinced he is on the verge of the "big score." He never is. |
+| **The Shield-Surfer** | Hylian | A snowy mountain | Is trying to surf down a mountain on his shield. |
+| **The Gourmet** | Hylian | A cooking pot | Is trying to cook a meal using monster parts. |
+| **The Fashionista** | Hylian | Hateno Village | Will dye your clothes for a fee, but is very judgmental about your color choices. |
+| **The Great Fairy** | A powerful being | A fountain | A giant, flamboyant fairy who will upgrade your armor in a very... intimate... way. |
+| **Kilton** | A monster-lover | A strange, balloon-shop | A strange man who loves monsters so much, he wants to buy all your monster parts. |
+| **The Traveling Musician** | Hylian | A stable | Plays the same, single, annoying song over and over. |
+| **The Beetle-Collector** | Hylian | A forest | Is obsessed with collecting rare beetles. |
+| **The Mushroom-Forager** | Hylian | A forest | Is looking for a specific, rare mushroom, but is also slightly high on the mushrooms he's already eaten. |
+| **The Salesman** | Hylian | A stable | Is trying to sell you a "rainy day" discount, but only when it's sunny. |
+| **The Guard with an Arrow in his Knee** | Hylian | A stable | Used to be an adventurer like you... |
+| **The Cucco-Farmer** | Hylian | Kakariko Village | Warns you, with a dead-eyed stare, not to mess with his chickens. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Great Plateau
 The starting area, a high, isolated plateau where Link awakens. The "tutorial level" of the world-machine.
 *   **The Shrine of Resurrection:** A high-tech Sheikah shrine where Link was kept in stasis. **Smell:** Sterile, ozone, and the faint scent of ancient, sleeping technology. **Sound:** The low hum of the stasis-pod, the first, gentle beep of the Sheikah Slate.
@@ -197,7 +200,8 @@ A beautiful, autumnal region, but the site of the final, devastating battle of t
 *   **The Spring of Power:** A hidden, magical spring where the goddess Hylia's power is most concentrated. **Smell:** Clean water, and the scent of pure, ancient magic. **Sound:** A profound, peaceful silence.
 *   **The Labyrinth:** A massive, ancient maze, built by the Sheikah for an unknown purpose. **Smell:** Old stone, confusion. **Sound:** The echo of your own footsteps.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Call:** Link awakens in the Shrine of Resurrection with no memory, guided by a mysterious voice.
 2.  **The Great Plateau:** Link must survive the dangers of the Great Plateau and activate the four shrines there to gain the powers he needs to leave.
 3.  **The King's Plea:** The ghost of King Rhoam reveals the story of the Calamity and begs Link to save his daughter, Zelda.
@@ -250,33 +254,35 @@ A beautiful, autumnal region, but the site of the final, devastating battle of t
 | The Rock-and-Roll Scientist | Robbie | Help him re-light the furnace of his ancient tech lab. | He will forge powerful, ancient weapons and armor for you. |
 | The Final Picture | Impa | Find all of Link's lost memories and report back to her. | A final, secret memory that reveals the depth of Zelda's feelings for Link. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Master Sword
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Master Sword:**
 **Type:** Legendary Longsword
 **Description:** The Blade of Evil's Bane. A beautiful, ancient sword that holds a sentient, divine spirit. It is the only weapon that can truly harm the Calamity.
 **Mechanics:** This is a +3 longsword. It deals double damage to any creature corrupted by the Calamity. When the wielder is at full health, it can fire a "sword beam" as a ranged attack. The sword's spirit can communicate with the wielder, offering advice and encouragement. If the wielder is not "worthy" (has not proven their courage), they cannot wield the sword.
 
-### 2. The Bow of Light
+2.  **The Bow of Light:**
 **Type:** Legendary Longbow
 **Description:** A bow made of pure, golden light, created by Princess Zelda's sealing magic.
 **Mechanics:** This is a +3 longbow. It does not require arrows; it creates its own arrows of pure light. Its attacks deal radiant damage and are "super-effective" against the Calamity, dealing triple damage. It only appears during the final battle against the Calamity.
 
-### 3. The Sheikah Slate
+3.  **The Sheikah Slate:**
 **Type:** Artifact (Wondrous Item)
 **Description:** A multi-functional, magical tablet created by the ancient Sheikah. It is Link's most valuable tool.
 **Mechanics:** The Slate can be upgraded with several "runes" that mimic spells: a "Magnesis" rune that can manipulate metal objects, a "Stasis" rune that can freeze objects in time, "Cryonis" that can create pillars of ice from water, and "Bomb" runes that create remote-detonated explosives. It also functions as a map, a camera, and a compendium of the world's flora and fauna.
 
-### 4. The Paraglider
+4.  **The Paraglider:**
 **Type:** Wondrous Item
 **Description:** A simple, but essential, glider given to Link by the ghost of King Rhoam.
 **Mechanics:** The wielder can use it to glide safely from any height, as long as they have the stamina to hold on. It effectively makes the wielder immune to falling damage, as long as they have a chance to deploy it.
 
-### 5. The Champion's Tunic
+5.  **The Champion's Tunic:**
 **Type:** Legendary Armor (Light Armor)
 **Description:** A simple, blue tunic, worn by all the Champions of Hyrule. It is imbued with the hopes of the kingdom.
 **Mechanics:** This is +2 studded leather armor. It allows the wearer to see the exact hit point total of any enemy. When the wearer is at full health, it provides resistance to all damage. It is a symbol of hope, and wearing it grants advantage on all Charisma checks when dealing with the people of Hyrule.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Mighty Banana:** A banana that is, according to the Yiga Clan, incredibly mighty. It temporarily increases your attack power.
 2.  **A Korok Leaf:** A large, magical leaf that can be used to create a gust of wind.
 3.  **A Dubious Food:** A meal cooked so poorly, it is a pixelated, censored mess. Eating it will probably hurt you.

@@ -18,7 +18,8 @@ The Earth is not a silent rock; it's a living brain that's having a stroke. In t
 ### The 'Why'
 The central conflict is the struggle for 'Coexistence' in a world of 'Absolute Vengeance.' It is about the 'Climate Horror' of the planetary psyche—the realization that the Earth doesn't care about your stories. The 'Why' is the question: 'Can humanity survive the planetary rage it created, or is the apocalypse just justice?' It explores the oppressive heat of the burning lands, the artificial calm of the sanctuary domes, and the crackling, boiling voice of a god that speaks in rising temperatures. The players are the survivors and researchers who must navigate the heat distortions and corporate indifference to find a resolution that honors the memory of the cold.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Fever Manifestations (The Burners)
 **Type:** Sentient/Environmental Vengeance Force
 **Leader:** The Fever (Tier 1 NPC - planetary consciousness).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Coexistence' in a world of 'Absolute V
 **Asset:** Knowledge of the lost cold and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** The Fever.
 
-## [TAG: NPC_TIER_1]
-**The Fever (Planet)** (Burner - The Leader) - A massive, planetary consciousness born from suffering. **Voice:** Crackling heat, boiling water, and rising temperatures. **Goal:** To purge humanity and return the Earth to a state of 'Climate Balance.' **Secret:** It still carries the 'Memory of Cold' and is terrified of its own absolute rage.
-**CEO Frost** (Elite - The Villain) - A man in a perfectly tailored business suit who views the disaster as an opportunity. **Voice:** Smooth, manipulative, and hiding a monstrous indifference. **Goal:** To monopolize the 'Cool Sanctuary' and rule the remains of the world. **Secret:** He is secretly part-Fever, having stayed in the burning lands too long to maintain his human identity.
-**Dr. Celsius** (Independent - The Expert) - A man with scientific precision and a crumbling mental state. **Voice:** Precise, academic, and increasingly frantic. **Goal:** To stabilize the planet's heartbeat and stop the Fever. **Secret:** He was the one who 'accidentally' designed the technology that allowed the climate to achieve consciousness.
-**Salamander** (Rebel - The Catalyst) - A man whose body is a map of fire-scars. **Voice:** Passionate, intense, and accepting of the apocalypse. **Goal:** To ensure 'Climate Justice' by destroying the sanctuary domes. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the 2024 surge.
-**Glacier's Ghost (Echo)** (Independent - The Witness) - A being of melting ice and drowning bubbles. **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To record the history of the cold and witness the end of the song. **Secret:** she is the only person who can 'hear' the original Song of the World through the Fever's screams.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Fever (Planet)** (Burner - The Leader) - A massive, planetary consciousness born from suffering. **Voice:** Crackling heat, boiling water, and rising temperatures. **Goal:** To purge humanity and return the Earth to a state of 'Climate Balance.' **Secret:** It still carries the 'Memory of Cold' and is terrified of its own absolute rage.
+2.  **CEO Frost** (Elite - The Villain) - A man in a perfectly tailored business suit who views the disaster as an opportunity. **Voice:** Smooth, manipulative, and hiding a monstrous indifference. **Goal:** To monopolize the 'Cool Sanctuary' and rule the remains of the world. **Secret:** He is secretly part-Fever, having stayed in the burning lands too long to maintain his human identity.
+3.  **Dr. Celsius** (Independent - The Expert) - A man with scientific precision and a crumbling mental state. **Voice:** Precise, academic, and increasingly frantic. **Goal:** To stabilize the planet's heartbeat and stop the Fever. **Secret:** He was the one who 'accidentally' designed the technology that allowed the climate to achieve consciousness.
+4.  **Salamander** (Rebel - The Catalyst) - A man whose body is a map of fire-scars. **Voice:** Passionate, intense, and accepting of the apocalypse. **Goal:** To ensure 'Climate Justice' by destroying the sanctuary domes. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the 2024 surge.
+5.  **Glacier's Ghost (Echo)** (Independent - The Witness) - A being of melting ice and drowning bubbles. **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To record the history of the cold and witness the end of the song. **Secret:** she is the only person who can 'hear' the original Song of the World through the Fever's screams.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Coexistence' in a world of 'Absolute V
 | The Monk | Ancient Worshipper | Fever Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Trade Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Cool Sanctuary (The Hub)
 A high-contrast landscape of artificial blues, neon lights, and elevator muzak.
 *   **The Observation Deck:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Bleach, expensive perfume, and old wood. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to planetary rage and molten orange.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Laboratory:** Where the 'Mutation Barrier' was forged. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Ripple:** Arrive at the Cool Sanctuary. You must survive your first 'Heat-Shimmer Ambush' while maintaining your 'Cooling' level.
 2.  **The AC Run:** Navigate the islands of the burning sea to find Dr. Celsius. You must identify the 'Respiration Seed' (equivalent) before the surge.
 3.  **The Salamander Infiltration:** Infiltrate the Rebel camp to find evidence of their 'Reverse-Rebirth' plan. You must bypass their 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The planet's central crystal has begun its final 'Reset.' You must defend the Temple while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face CEO Frost and the Fever face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Fever
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Fever:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha Glacier.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The AC-Focus Amulet
+2.  **The AC-Focus Amulet:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Heal' an ally's DNA systems by 50 HP. Once per day, the user can 'Silence' a mutation attack for 1 round.
 
-### 3. The Temperature Capsule
+3.  **The Temperature Capsule:**
 **Type:** Wondrous Item
 **Description:** A small, sapphire crystal that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Fever' magic.

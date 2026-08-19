@@ -127,56 +127,56 @@ The struggle is not Good vs. Evil, but **Shadow vs. Clarity**. The Ekumen repres
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Haxes | Baker | Erhenrang | Kneads dough with feet. |
-| Mals | Guard | Royal Gate | Whistles only during executions. |
-| Pye | Scribe | Archives | Writes in invisible ink unless heated. |
-| Tor | Beggar | Market | Claims to own the moon. |
-| Sef | Hunter | North Gate | Wears a necklace of their own teeth. |
-| Vug | Merchant | Docks | Sells bottled silence. |
-| Kye | Dancer | Tavern | Dances without moving feet. |
-| Lomm | Smith | Forge | Talks to the metal, and waits for a reply. |
-| Bross | Farmer | Outskirts | Grows black moss in shape of faces. |
-| Yim | Courier | Road | Runs on all fours for speed. |
-| Jek | Doctor | Clinic | Diagnoses by tasting earwax. |
-| Nuu | Priest | Temple | Prays by screaming into a jar. |
-| Gann | Tailor | Shop | Sews with hair instead of thread. |
-| Riss | Sailor | Ice-Ship | Afraid of water, loves ice. |
-| Dox | Gambler | Den | Bets fingers instead of coin. |
-| Fell | Cook | Palace | Cooks only white food. |
-| Zube | Cleaner | Inn | Licks stains to identify them. |
-| Quo | Musician | Square | Plays a flute made of bone. |
-| Vix | Thief | Alley | Steals only left shoes. |
-| Jamm | Brewer | Cellar | Ferments ale in a coffin. |
-| Kiph | Mason | Wall | Carves insults into hidden bricks. |
-| Lul | Nurse | Hospital | Hums lullabies that cause nightmares. |
-| Mope | Miner | Deep Shaft | Eats coal for snacks. |
-| Nax | Guide | Glacier | Navigates by smell of snow. |
-| Ogg | Butcher | Stall | Apologizes to the meat. |
-| Pill | Alchemist| Lab | Skin is stained permanently blue. |
-| Qat | Spy | Shadow | Wears a mask of their own face. |
-| Rumm | Driver | Convoy | Only turns left. |
-| Siss | Weaver | Loom | Weaves maps of places that don't exist. |
-| Tadd | Fisher | Ice-Hole | Fishes for drowned ghosts. |
-| Ubb | Lawyer | Court | Argues in rhyme. |
-| Vott | Banker | Vault | Counts coin by weight, not value. |
-| Wazz | Carpenter| Workshop | Builds furniture that bites. |
-| Xyl | Poet | Cafe | Recites poems backward. |
-| Yatt | Grocer | Stand | Sells fruits that scream when peeled. |
-| Zozz | Cobbler | Street | Makes shoes for cats. |
-| Axl | Porter | Dock | Carries 3x body weight, faints if touched. |
-| Bimm | Florist | Greenhouse | Grows flowers that smell like rot. |
-| Cagg | Jailer | Dungeon | Reads bedtime stories to prisoners. |
-| Dimm | Lamplighter| Street | Afraid of the dark. |
-| Ebb | Tanner | Yard | Tans skin of unknown origin. |
-| Fogg | Glazier | Shop | Makes mirrors that show no reflection. |
-| Guss | Peddler | Cart | Sells jars of "Royal Breath". |
-| Humm | Monk | Monastery | Has taken a vow of loudness. |
-| Igg | Cartographer| Tower | Maps the changing clouds. |
-| Jott | Slaver | Black Market | Chains are made of woven hair. |
-| Kukk | Barber | Shop | Shaves heads to read skull bumps. |
-| Lamm | Toymaker | Shop | Makes dolls that age. |
-| Moon | Astronomer| Observatory | Blind, but sees stars. |
-| Nill | Nihilist | Sewer | Believes the world ended yesterday. |
+| **Haxes** | Baker | Erhenrang | Kneads dough with feet. |
+| **Mals** | Guard | Royal Gate | Whistles only during executions. |
+| **Pye** | Scribe | Archives | Writes in invisible ink unless heated. |
+| **Tor** | Beggar | Market | Claims to own the moon. |
+| **Sef** | Hunter | North Gate | Wears a necklace of their own teeth. |
+| **Vug** | Merchant | Docks | Sells bottled silence. |
+| **Kye** | Dancer | Tavern | Dances without moving feet. |
+| **Lomm** | Smith | Forge | Talks to the metal, and waits for a reply. |
+| **Bross** | Farmer | Outskirts | Grows black moss in shape of faces. |
+| **Yim** | Courier | Road | Runs on all fours for speed. |
+| **Jek** | Doctor | Clinic | Diagnoses by tasting earwax. |
+| **Nuu** | Priest | Temple | Prays by screaming into a jar. |
+| **Gann** | Tailor | Shop | Sews with hair instead of thread. |
+| **Riss** | Sailor | Ice-Ship | Afraid of water, loves ice. |
+| **Dox** | Gambler | Den | Bets fingers instead of coin. |
+| **Fell** | Cook | Palace | Cooks only white food. |
+| **Zube** | Cleaner | Inn | Licks stains to identify them. |
+| **Quo** | Musician | Square | Plays a flute made of bone. |
+| **Vix** | Thief | Alley | Steals only left shoes. |
+| **Jamm** | Brewer | Cellar | Ferments ale in a coffin. |
+| **Kiph** | Mason | Wall | Carves insults into hidden bricks. |
+| **Lul** | Nurse | Hospital | Hums lullabies that cause nightmares. |
+| **Mope** | Miner | Deep Shaft | Eats coal for snacks. |
+| **Nax** | Guide | Glacier | Navigates by smell of snow. |
+| **Ogg** | Butcher | Stall | Apologizes to the meat. |
+| **Pill** | Alchemist| Lab | Skin is stained permanently blue. |
+| **Qat** | Spy | Shadow | Wears a mask of their own face. |
+| **Rumm** | Driver | Convoy | Only turns left. |
+| **Siss** | Weaver | Loom | Weaves maps of places that don't exist. |
+| **Tadd** | Fisher | Ice-Hole | Fishes for drowned ghosts. |
+| **Ubb** | Lawyer | Court | Argues in rhyme. |
+| **Vott** | Banker | Vault | Counts coin by weight, not value. |
+| **Wazz** | Carpenter| Workshop | Builds furniture that bites. |
+| **Xyl** | Poet | Cafe | Recites poems backward. |
+| **Yatt** | Grocer | Stand | Sells fruits that scream when peeled. |
+| **Zozz** | Cobbler | Street | Makes shoes for cats. |
+| **Axl** | Porter | Dock | Carries 3x body weight, faints if touched. |
+| **Bimm** | Florist | Greenhouse | Grows flowers that smell like rot. |
+| **Cagg** | Jailer | Dungeon | Reads bedtime stories to prisoners. |
+| **Dimm** | Lamplighter| Street | Afraid of the dark. |
+| **Ebb** | Tanner | Yard | Tans skin of unknown origin. |
+| **Fogg** | Glazier | Shop | Makes mirrors that show no reflection. |
+| **Guss** | Peddler | Cart | Sells jars of "Royal Breath". |
+| **Humm** | Monk | Monastery | Has taken a vow of loudness. |
+| **Igg** | Cartographer| Tower | Maps the changing clouds. |
+| **Jott** | Slaver | Black Market | Chains are made of woven hair. |
+| **Kukk** | Barber | Shop | Shaves heads to read skull bumps. |
+| **Lamm** | Toymaker | Shop | Makes dolls that age. |
+| **Moon** | Astronomer| Observatory | Blind, but sees stars. |
+| **Nill** | Nihilist | Sewer | Believes the world ended yesterday. |
 
 ---
 
@@ -234,36 +234,36 @@ The struggle is not Good vs. Evil, but **Shadow vs. Clarity**. The Ekumen repres
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Scroll | Librarian | Find a pre-ice text in the ruins. | Access to Forbidden History. |
-| The Frozen Heart | Doctor | Deliver a transplant organ across the city before it thaws. | Favor of the Medical Guild. |
-| The Silent Witness | Mute Beggar | Witness a murder and testify using charades. | Thieves' Cant proficiency. |
-| The Kemmering Duel | Noble | Fight a duel as a champion for a pregnant noble. | Fine Karhidish Sword. |
-| The Mad Prophet | Foreteller | Retrieve "Black Ice" from a cave. | A prophecy of the player's death. |
-| The Smuggler's Run | Goss | Drive a truck through a blizzard blockade. | Reputation with Smugglers. |
-| The Broken Hearth | Innkeeper | Fix the heating unit (tech check). | Free lodging for life. |
-| The Spy in the Wall | Sarf Defector | Plant a bug in the Commensal's office. | Orgoreyn Papers. |
-| The Weeping Spoon | Chef Gax | Taste test a soup (Con save). | Poison Resistance. |
-| The Ice Sculpture | Yin | Pose for a sculpture for 4 hours (Endurance). | A small ice statue of self. |
-| The Missing Finger | Gambler | Win back a severed finger in a card game. | The finger (Luck charm). |
-| The Ghost Ship | Sailor | Investigate a ship trapped in the ice. | Ancient Tech. |
-| The Lover's Letter | Ashe | Deliver a letter to an exiled lover. | Shifgrethor Boost. |
-| The Shadow Trap | Hunter | Catch a Pesk-bird alive. | Warm Fur Cloak. |
-| The Cold Case | Guard | Solve a murder where the body shattered. | Gold Ingot. |
-| The Void Stone | Miner | Carry a radioactive stone to the temple. | Mutation (Darkvision). |
-| The Silent Song | Musician | Record the sound of the wind in a specific canyon. | Bardic Inspiration Instrument. |
-| The Double Agent | Diplomat | Expose a spy in the court. | Royal Signet Ring. |
-| The Hungry God | Priest | Feed a rare beast in the temple basement. | Blessing of Light. |
-| The Invisible Ink | Scribe | Decode a letter written in lemon juice and sweat. | Intel on Tibe. |
-| The Frozen Lake | Fisher | Retrieve a locket from the bottom of a frozen lake. | Ring of Warmth. |
-| The Beast of the Pass | Guide | Kill a Snow-Worm blocking the road. | Dragonbone Dagger. |
-| The Clockwork Toy | Toymaker | Fix a mechanical bird. | Clockwork Scout. |
-| The Stolen Shadow | Mystic | Retrieve a "shadow" (soul fragment) from a jar. | +1 Wisdom. |
-| The Endless Night | Astronomer | Calibrate the telescope during a storm. | Star Map. |
-| The White Flower | Florist | Find a flower that grows only on dead bodies. | Potions of Healing. |
-| The Echo Chamber | Architect | Map the acoustics of a cave. | Sonic Grenade. |
-| The Third Gender | Radical | Smuggle hormones to a safe house. | Disguise Kit. |
-| The King's Tooth | Dentist | Steal a tooth from the royal trash. | DNA sample (Clone plot). |
-| The Last Word | Dying Man | Deliver his final insult to his brother. | A heavy bag of gold. |
+| **The Lost Scroll** | Librarian | Find a pre-ice text in the ruins. | Access to Forbidden History. |
+| **The Frozen Heart** | Doctor | Deliver a transplant organ across the city before it thaws. | Favor of the Medical Guild. |
+| **The Silent Witness** | Mute Beggar | Witness a murder and testify using charades. | Thieves' Cant proficiency. |
+| **The Kemmering Duel** | Noble | Fight a duel as a champion for a pregnant noble. | Fine Karhidish Sword. |
+| **The Mad Prophet** | Foreteller | Retrieve "Black Ice" from a cave. | A prophecy of the player's death. |
+| **The Smuggler's Run** | Goss | Drive a truck through a blizzard blockade. | Reputation with Smugglers. |
+| **The Broken Hearth** | Innkeeper | Fix the heating unit (tech check). | Free lodging for life. |
+| **The Spy in the Wall** | Sarf Defector | Plant a bug in the Commensal's office. | Orgoreyn Papers. |
+| **The Weeping Spoon** | Chef Gax | Taste test a soup (Con save). | Poison Resistance. |
+| **The Ice Sculpture** | Yin | Pose for a sculpture for 4 hours (Endurance). | A small ice statue of self. |
+| **The Missing Finger** | Gambler | Win back a severed finger in a card game. | The finger (Luck charm). |
+| **The Ghost Ship** | Sailor | Investigate a ship trapped in the ice. | Ancient Tech. |
+| **The Lover's Letter** | Ashe | Deliver a letter to an exiled lover. | Shifgrethor Boost. |
+| **The Shadow Trap** | Hunter | Catch a Pesk-bird alive. | Warm Fur Cloak. |
+| **The Cold Case** | Guard | Solve a murder where the body shattered. | Gold Ingot. |
+| **The Void Stone** | Miner | Carry a radioactive stone to the temple. | Mutation (Darkvision). |
+| **The Silent Song** | Musician | Record the sound of the wind in a specific canyon. | Bardic Inspiration Instrument. |
+| **The Double Agent** | Diplomat | Expose a spy in the court. | Royal Signet Ring. |
+| **The Hungry God** | Priest | Feed a rare beast in the temple basement. | Blessing of Light. |
+| **The Invisible Ink** | Scribe | Decode a letter written in lemon juice and sweat. | Intel on Tibe. |
+| **The Frozen Lake** | Fisher | Retrieve a locket from the bottom of a frozen lake. | Ring of Warmth. |
+| **The Beast of the Pass** | Guide | Kill a Snow-Worm blocking the road. | Dragonbone Dagger. |
+| **The Clockwork Toy** | Toymaker | Fix a mechanical bird. | Clockwork Scout. |
+| **The Stolen Shadow** | Mystic | Retrieve a "shadow" (soul fragment) from a jar. | +1 Wisdom. |
+| **The Endless Night** | Astronomer | Calibrate the telescope during a storm. | Star Map. |
+| **The White Flower** | Florist | Find a flower that grows only on dead bodies. | Potions of Healing. |
+| **The Echo Chamber** | Architect | Map the acoustics of a cave. | Sonic Grenade. |
+| **The Third Gender** | Radical | Smuggle hormones to a safe house. | Disguise Kit. |
+| **The King's Tooth** | Dentist | Steal a tooth from the royal trash. | DNA sample (Clone plot). |
+| **The Last Word** | Dying Man | Deliver his final insult to his brother. | A heavy bag of gold. |
 
 ---
 

@@ -18,7 +18,8 @@ The Soul is not a monolith; it's a collection of data points that can be rewritt
 ### The 'Why'
 The central conflict is the struggle for 'Self-Ownership' in a world that has turned you into a tool. It is about the 'Psychological Horror' of having an unreliable perspective—the realization that the person you were might be worse than the system that erased you. The 'Why' is the question: 'Is it better to be a blank slate with a future or a broken man with a past?' It explores the kinetic realism of the chase, the visual fragmentation of the identity crisis, and the disturbing familiarity of 'The Architect.' The players are the Ciphers and their few allies who must piece together their own souls before Agent Thorn pieces them together in a body bag.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Protocol Remnants (The Designers)
 **Type:** Rogue Intelligence Agency/Research Branch
 **Leader:** The Architect (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Self-Ownership' in a world that has tu
 **Asset:** Professional tactical gear, no digital footprint, and a total focus on the kill.
 **Rivals:** Everyone (targets of the system).
 
-## [TAG: NPC_TIER_1]
-**The Cipher** (Independent - The Seeker) - A gender-neutral, uncertain being seeking validation. **Voice:** Soft, questioning, and anxious. **Goal:** To find their 'True Identity' and a place to belong. **Secret:** They were the Architect's 'Favorite' and possess a memory fragment that can deactivate the Protocol.
-**The Handler (flashback)** (Protocol - Warm Manipulator) - A warm, mentor figure from your memories. **Voice:** Deep, reassuring, and fatherly. **Goal:** To guide you back into the Protocol's control. **Secret:** They are the one who triggered the 'Burning Room' incident to test your survival instincts.
-**Doctor Mendoza** (Independent - Clinical Healer) - A doctor with a compassionate bedside manner. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the Ciphers' minds and expose the Architect's crimes. **Secret:** She was the Architect's wife and lost her own memories to the Protocol.
-**Agent Thorn** (NIS - Professional Killer) - A man whose face is mostly hidden by tactical gear. **Voice:** Professional, emotionless, and direct. **Goal:** To eliminate the 'Cipher Anomaly' and secure the Protocol files. **Secret:** He is a 'Perfected' Cipher who has embraced his lack of identity as a form of divinity.
-**The Architect** (Protocol - The Mirror) - A being that looks and sounds eerily like the player character. **Voice:** Familiar but wrong, with an inverted version of the player's theme. **Goal:** To complete the 'Final Reconstruction' and merge all Ciphers into a single hive-mind. **Secret:** He is the player's biological twin, the only one who wasn't erased.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Cipher** (Independent - The Seeker) - A gender-neutral, uncertain being seeking validation. **Voice:** Soft, questioning, and anxious. **Goal:** To find their 'True Identity' and a place to belong. **Secret:** They were the Architect's 'Favorite' and possess a memory fragment that can deactivate the Protocol.
+2.  **The Handler (flashback)** (Protocol - Warm Manipulator) - A warm, mentor figure from your memories. **Voice:** Deep, reassuring, and fatherly. **Goal:** To guide you back into the Protocol's control. **Secret:** They are the one who triggered the 'Burning Room' incident to test your survival instincts.
+3.  **Doctor Mendoza** (Independent - Clinical Healer) - A doctor with a compassionate bedside manner. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the Ciphers' minds and expose the Architect's crimes. **Secret:** She was the Architect's wife and lost her own memories to the Protocol.
+4.  **Agent Thorn** (NIS - Professional Killer) - A man whose face is mostly hidden by tactical gear. **Voice:** Professional, emotionless, and direct. **Goal:** To eliminate the 'Cipher Anomaly' and secure the Protocol files. **Secret:** He is a 'Perfected' Cipher who has embraced his lack of identity as a form of divinity.
+5.  **The Architect** (Protocol - The Mirror) - A being that looks and sounds eerily like the player character. **Voice:** Familiar but wrong, with an inverted version of the player's theme. **Goal:** To complete the 'Final Reconstruction' and merge all Ciphers into a single hive-mind. **Secret:** He is the player's biological twin, the only one who wasn't erased.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Self-Ownership' in a world that has tu
 | The Oracle | Adept | Dreamlike Void | Can 'see' the floating pieces of a memory reconstruction. |
 | 'Static' | Handler Spy | Anywhere | Flickers in and out of your vision when you're under high stress. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Burning Room (Opening)
 A disoriented, fragmented hotel room filled with smoke and fire.
 *   **The Mirror:** A place of 'Identity Crisis' and reality distortion. **Visual:** Your own face looking back, but slightly off-kilter. **Sound:** The rhythmic crackle of the fire and a distant siren.
@@ -89,7 +92,8 @@ A dreamlike void where pieces of the past float like glass.
 A high-tech, clinical bunker where the maze was designed.
 *   **The Observation Deck:** A room filled with Architect-designed monitors showing your own life. **Visual:** Inverted colors and split screens. **Sound:** A pulsing electronic bass fighting with classical strings.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Wake-Up Call:** Escape the 'Burning Room' before the NIS hit squad arrives. You must use your 'Inherent Skills' (Fighter/Expert) to survive.
 2.  **The First Fragment:** A mundane object (e.g., a hotel key, a photo) triggers a memory of your 'Past Self.' You must play through the flashback to find a key.
 3.  **The Market Chase:** Navigate a Bourne-style chase through a crowded urban market. You must change your disguise three times to lose Agent Thorn.
@@ -98,18 +102,19 @@ A high-tech, clinical bunker where the maze was designed.
 6.  **The Memory Reconstruction:** Enter the 'Void' to assemble the pieces of your true identity. You must face the 'Past Self' who doesn't want to be remembered.
 7.  **The Mirror Confrontation:** Face the Architect in his sanctum. The truth is revealed—are you the original, or the copy designed to replace him?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Architect's Key
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Architect's Key:**
 **Type:** Artifact Focus
 **Description:** A small, crystalline device that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Lock' their own mind, making them immune to the effects of the Protocol or any mental manipulation for 1 hour.
 
-### 2. The Cipher's Disguise Kit
+2.  **The Cipher's Disguise Kit:**
 **Type:** Wondrous Item
 **Description:** A collection of fabrics and tools that seem to shift their appearance based on the wearer's environment.
 **Mechanics:** Grants the wearer +10 to all Stealth and Deception checks. Once per day, the wearer can become 'Truly Invisible' to anyone who hasn't already seen their true face.
 
-### 3. The Memory Fragment
+3.  **The Memory Fragment:**
 **Type:** Wondrous Item
 **Description:** A glowing, ethereal shard of a past experience.
 **Mechanics:** When 'Consumed,' the fragment grants the user one permanent feat or skill from their 'Past Self' (e.g., *Sharpshooter*, *Expert Linguist*).

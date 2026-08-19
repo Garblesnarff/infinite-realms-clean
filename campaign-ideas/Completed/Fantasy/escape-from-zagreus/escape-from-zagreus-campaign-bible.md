@@ -18,7 +18,8 @@ The World is not a floor; it's a dungeon that's being played by an angry father.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Authority.' It is about the 'Rebellious Idealism' of the human spirit—the realization that you can defy even death for the sake of your family. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single run in an eternal dungeon?' It explores the painted beauty of the Greek mythology, the pride in mastering an infernal weapon, and the determined, charismatic voice of a narrator who understands that every death is a lesson. The players are the princes and shades who must navigate the quick-witted banter and the intensity of a divine boon to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The House of Hades (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** Hades (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Au
 **Asset:** Reality-tearing static, black-purple voids, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with godly energy.
 
-## [TAG: NPC_TIER_1]
-**Hades** (Shadow - The Villain) - A man whose voice is deep, authoritative, and measured. **Voice:** Divine authority, cold menace, underlying current of grief. **Goal:** To maintain the 'Underworld Order' and prevent the prince from escaping. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Zagreus** (Order - The Lead) - A man whose voice is determined, charismatic, and rebellious. **Voice:** Charismatic, divine authority, quick-witted in combat banter. **Goal:** To reach the 'Surface' and find the truth about his family. **Secret:** He is secretly an Adept of 'Godly-Energy' who can 'rewrite' a soul's destiny through his defiant actions.
-**Zeus** (Independent - The Catalyst) - A man whose voice is booming, arrogant, and resonant. **Voice:** Olympian energy, modern, and witty banter. **Goal:** To bring the prince to Olympus and stop the underworld shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the godly static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless dungeon-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Hades's sigil that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient prince in practical painted armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the escape ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Hades** (Shadow - The Villain) - A man whose voice is deep, authoritative, and measured. **Voice:** Divine authority, cold menace, underlying current of grief. **Goal:** To maintain the 'Underworld Order' and prevent the prince from escaping. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+2.  **Zagreus** (Order - The Lead) - A man whose voice is determined, charismatic, and rebellious. **Voice:** Charismatic, divine authority, quick-witted in combat banter. **Goal:** To reach the 'Surface' and find the truth about his family. **Secret:** He is secretly an Adept of 'Godly-Energy' who can 'rewrite' a soul's destiny through his defiant actions.
+3.  **Zeus** (Independent - The Catalyst) - A man whose voice is booming, arrogant, and resonant. **Voice:** Olympian energy, modern, and witty banter. **Goal:** To bring the prince to Olympus and stop the underworld shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the godly static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless dungeon-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Hades's sigil that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient prince in practical painted armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the escape ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine Au
 | The Monk | Ancient Worshipper | Stygian Temple | Spends all his time painting murals of the 'Escape's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The House of Hades (The Order)
 **Type:** Hub
 **Description:** A grand underworld monument to painted art and divine authority.
@@ -90,7 +93,8 @@ A dark, reality-distorting monument to body horror and Olympian light.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Escape Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in your bedroom. You must survive your first 'Hades Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Zagreus Run:** Navigate the traditional territories to find Zagreus. You must identify the 'Godly-Energy' node before the rivals arrive.
 3.  **The Boon Heist:** Infiltrate the Olympian HQ to retrieve a stolen 'Divine-Focus.' You must bypass the guards.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Hades face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Death (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Death (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Divine Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Boon Signet (Equivalent)
+2.  **The Boon Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the boon seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Godly-Energy Capsule (Equivalent)
+3.  **The Godly-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Divine' magic.

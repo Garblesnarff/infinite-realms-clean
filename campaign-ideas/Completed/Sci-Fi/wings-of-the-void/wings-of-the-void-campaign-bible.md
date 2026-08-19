@@ -125,56 +125,56 @@ The conflict is not Good vs. Evil; it is **Stasis vs. Flow**. The Material Plane
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Bilbo Baggins-ish | Shopkeeper | Edgewick | Sells only left-handed gloves. |
-| Clank | Blacksmith | The Nest | Hammers to the beat of his own heart. |
-| Windy Miller | Baker | Cloudfall | Kneads dough using wind gusts. |
-| Stare-y Mary | Lookout | Rim Watch | Doesn't blink. Ever. |
-| The Defenestrator | Bouncer | The Drop Bar | Throws people out through windows only. |
-| Puddle | Janitor | Council HQ | Mops up liquid shadows. |
-| Twitch | Pilot | Hangar 4 | Flies with eyes closed. |
-| Scribbles | Scribe | Library | Eats parchment when nervous. |
-| Brick | Guard | Gate 7 | Thinks he is a wall. |
-| Feather | Dancer | The Void Club | Weighs negative pounds. |
-| Soup | Cook | The Nest | Cooks only cold soup. |
-| Rust | Mechanic | Lower Rim | Talks to bolts. |
-| Shine | Polisher | Council | Only polishes shoes. |
-| Goggles | Vendor | Market | Wears 5 pairs of goggles. |
-| Sniff | Tracker | Wilds | Smells fear (literally lemon scent). |
-| Echo 2 | Mimic | Void | Is a chest that acts like a person. |
-| Drift | Beggar | Street | Floats 1 inch off ground. |
-| Plank | Carpenter | Shipyard | Only uses wood from shipwrecks. |
-| Knot | Sailor | Airship | Can't untie knots. |
-| Bolt | Runner | Courier | Runs backwards. |
-| Screech | Bat-keeper | Caves | Hangs upside down to sleep. |
-| Mumble | Mage | Tower | Spells are just mumbling. |
-| Spark | Electrician | Grid | Glows in the dark. |
-| Shade | Assassin | Shadows | Is 2D. |
-| Glint | Jeweler | Market | Eats diamonds. |
-| Fuzz | Tailor | Shop | Made entirely of lint. |
-| Drool | Pet | Kennel | Is a dog with wings. |
-| Click | Clockmaker | Time shop | Ticks constantly. |
-| Boom | Demolition | Quarry | Whispers before exploding. |
-| Crash | Test Dummy | Lab | Indestructible. |
-| Zoom | Racer | Track | Too fast to see. |
-| Plop | Fisher | Cloud Lake | Fishes for birds. |
-| Hiss | Alchemist | Potions | Snakes for hair. |
-| Grunt | Laborer | Docks | Only says "Grunt". |
-| Whistle | Signal | Post | Whistles signals. |
-| Hum | Monk | Temple | Hums a constant C#. |
-| Zip | Zipper repair | Shop | Obsessed with zippers. |
-| Flap | Tent repair | Camp | Is a tent. |
-| Gust | Fan repair | AC unit | Blows air constantly. |
-| Void-Bob | Tourist | Void | Is a tourist from hell. |
-| Null | Accountant | Bank | Erases numbers. |
-| Void-Alice | Waitress | Diner | Serves nothing. |
-| Shadow-Dan | Spy | Alley | Is a shadow. |
-| Light-Liz | Priest | Church | Is a hologram. |
-| Heavy-Hank | Lifter | Gym | Gravity is 2x on him. |
-| Float-Faye | Dancer | Stage | Gravity is 0.5x on her. |
-| Time-Tom | Historian | Museum | Remembers the future. |
-| Space-Sam | Cartographer | Map room | Maps changing rooms. |
-| Life-Lily | Healer | Hospital | Heals with insults. |
-| Death-Dave | Mortician | Morgue | High fives corpses. |
+| **Bilbo Baggins-ish** | Shopkeeper | Edgewick | Sells only left-handed gloves. |
+| **Clank** | Blacksmith | The Nest | Hammers to the beat of his own heart. |
+| **Windy Miller** | Baker | Cloudfall | Kneads dough using wind gusts. |
+| **Stare-y Mary** | Lookout | Rim Watch | Doesn't blink. Ever. |
+| **The Defenestrator** | Bouncer | The Drop Bar | Throws people out through windows only. |
+| **Puddle** | Janitor | Council HQ | Mops up liquid shadows. |
+| **Twitch** | Pilot | Hangar 4 | Flies with eyes closed. |
+| **Scribbles** | Scribe | Library | Eats parchment when nervous. |
+| **Brick** | Guard | Gate 7 | Thinks he is a wall. |
+| **Feather** | Dancer | The Void Club | Weighs negative pounds. |
+| **Soup** | Cook | The Nest | Cooks only cold soup. |
+| **Rust** | Mechanic | Lower Rim | Talks to bolts. |
+| **Shine** | Polisher | Council | Only polishes shoes. |
+| **Goggles** | Vendor | Market | Wears 5 pairs of goggles. |
+| **Sniff** | Tracker | Wilds | Smells fear (literally lemon scent). |
+| **Echo 2** | Mimic | Void | Is a chest that acts like a person. |
+| **Drift** | Beggar | Street | Floats 1 inch off ground. |
+| **Plank** | Carpenter | Shipyard | Only uses wood from shipwrecks. |
+| **Knot** | Sailor | Airship | Can't untie knots. |
+| **Bolt** | Runner | Courier | Runs backwards. |
+| **Screech** | Bat-keeper | Caves | Hangs upside down to sleep. |
+| **Mumble** | Mage | Tower | Spells are just mumbling. |
+| **Spark** | Electrician | Grid | Glows in the dark. |
+| **Shade** | Assassin | Shadows | Is 2D. |
+| **Glint** | Jeweler | Market | Eats diamonds. |
+| **Fuzz** | Tailor | Shop | Made entirely of lint. |
+| **Drool** | Pet | Kennel | Is a dog with wings. |
+| **Click** | Clockmaker | Time shop | Ticks constantly. |
+| **Boom** | Demolition | Quarry | Whispers before exploding. |
+| **Crash** | Test Dummy | Lab | Indestructible. |
+| **Zoom** | Racer | Track | Too fast to see. |
+| **Plop** | Fisher | Cloud Lake | Fishes for birds. |
+| **Hiss** | Alchemist | Potions | Snakes for hair. |
+| **Grunt** | Laborer | Docks | Only says "Grunt". |
+| **Whistle** | Signal | Post | Whistles signals. |
+| **Hum** | Monk | Temple | Hums a constant C#. |
+| **Zip** | Zipper repair | Shop | Obsessed with zippers. |
+| **Flap** | Tent repair | Camp | Is a tent. |
+| **Gust** | Fan repair | AC unit | Blows air constantly. |
+| **Void-Bob** | Tourist | Void | Is a tourist from hell. |
+| **Null** | Accountant | Bank | Erases numbers. |
+| **Void-Alice** | Waitress | Diner | Serves nothing. |
+| **Shadow-Dan** | Spy | Alley | Is a shadow. |
+| **Light-Liz** | Priest | Church | Is a hologram. |
+| **Heavy-Hank** | Lifter | Gym | Gravity is 2x on him. |
+| **Float-Faye** | Dancer | Stage | Gravity is 0.5x on her. |
+| **Time-Tom** | Historian | Museum | Remembers the future. |
+| **Space-Sam** | Cartographer | Map room | Maps changing rooms. |
+| **Life-Lily** | Healer | Hospital | Heals with insults. |
+| **Death-Dave** | Mortician | Morgue | High fives corpses. |
 
 ---
 
@@ -252,36 +252,36 @@ The conflict is not Good vs. Evil; it is **Stasis vs. Flow**. The Material Plane
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Left Shoe | Bilbo-ish | Find the Duke's missing left shoe in the Abyss. | The Right Shoe. |
-| Bottled Scream | Aria | Capture a scream in a bottle at terminal velocity. | Sonic Grenade. |
-| The Heavy Feather | Dr. Vertigo | Find a feather that weighs 100lbs. | Gravity Boots. |
-| Cloud Fishing | Capt. Harpoon | Catch a "Sky-Shark". | Shark Tooth Dagger. |
-| The Silent Note | Doppler Choir | Record total silence in the Echo Chamber. | Mute Button. |
-| Lost Lunch | Windy Miller | Retrieve a sandwich dropped 3 years ago (stasis). | Aged Cheese. |
-| Map the Unmappable | Prof. Plummet | Map a cloud that changes shape every 5s. | Self-drawing Map. |
-| The Crying Stone | Brother Granite | Make a rock cry. | Emotional Rock. |
-| Void Pet | Echo | Babysit a Void Jellyfish. | Sticky Hands. |
-| The Backward Jump | Groundhog | Jump feet first (harder than it sounds). | Reverse Thrusters. |
-| Taste the Rainbow | Mistress Vane | Eat a cloud of every color. | Prism Skin. |
-| The Rusty Winch | Gearhead | Fix a winch while hanging from it. | Grappling Hook. |
-| Shadow Boxing | Shadow-Dan | Fight your own shadow in the Twilight Zone. | Shadow Cloak. |
-| The Lost Sneeze | Sneezy | Find a sneeze trapped in a bubble. | Health Potion. |
-| Time Flies | Time-Tom | Catch a clock falling at Mach 1. | Haste Potion. |
-| The Invisible Ink | Scribbles | Find ink that only shows up in the Void. | Invisible Scroll. |
-| The Heavy Thought | Phil O'Sophy | Find a physical manifestation of a "heavy thought". | Helmet of Intellect. |
-| Vertical Farming | Farmer Joe | Plant a seed on a falling rock. | Magic Beans. |
-| The Singing Sword | Bard | Retrieve a sword that hums in B-flat. | Singing Sword. |
-| The Cold Soup | Soup | Warm up the soup using atmospheric friction. | Thermos of Heat. |
-| The Lost Vowel | Librarian | Find the letter "E" missing from a spellbook. | Scroll of Spllng. |
-| The Angry Cloud | Weatherman | Apologize to a thunderstorm. | Lightning Rod. |
-| The Floating Gold | Banker | Retrieve a coin bag from a thermal. | 1000 GP. |
-| The Ghost Ship | Old Salt | Board a ship that is falling forever. | Ghostly Cutlass. |
-| The Mirror Twin | Reflection | High five your reflection in the Mirror Mists. | Mirror Shield. |
-| The Sad Clown | Chuckles | Make a void entity laugh. | Clown Nose. |
-| The Broken Compass | Navigator | Fix a compass that points "In". | Void Compass. |
-| The Wet Fire | Alchemist | Find fire that burns underwater (in rain). | Alchemist Fire. |
-| The Solid Smoke | Smoker | Catch a ring of smoke. | Smoke Bomb. |
-| The Final Breath | Dying Man | Deliver a last breath to the bottom. | Soul Gem. |
+| **The Left Shoe** | Bilbo-ish | Find the Duke's missing left shoe in the Abyss. | The Right Shoe. |
+| **Bottled Scream** | Aria | Capture a scream in a bottle at terminal velocity. | Sonic Grenade. |
+| **The Heavy Feather** | Dr. Vertigo | Find a feather that weighs 100lbs. | Gravity Boots. |
+| **Cloud Fishing** | Capt. Harpoon | Catch a "Sky-Shark". | Shark Tooth Dagger. |
+| **The Silent Note** | Doppler Choir | Record total silence in the Echo Chamber. | Mute Button. |
+| **Lost Lunch** | Windy Miller | Retrieve a sandwich dropped 3 years ago (stasis). | Aged Cheese. |
+| **Map the Unmappable** | Prof. Plummet | Map a cloud that changes shape every 5s. | Self-drawing Map. |
+| **The Crying Stone** | Brother Granite | Make a rock cry. | Emotional Rock. |
+| **Void Pet** | Echo | Babysit a Void Jellyfish. | Sticky Hands. |
+| **The Backward Jump** | Groundhog | Jump feet first (harder than it sounds). | Reverse Thrusters. |
+| **Taste the Rainbow** | Mistress Vane | Eat a cloud of every color. | Prism Skin. |
+| **The Rusty Winch** | Gearhead | Fix a winch while hanging from it. | Grappling Hook. |
+| **Shadow Boxing** | Shadow-Dan | Fight your own shadow in the Twilight Zone. | Shadow Cloak. |
+| **The Lost Sneeze** | Sneezy | Find a sneeze trapped in a bubble. | Health Potion. |
+| **Time Flies** | Time-Tom | Catch a clock falling at Mach 1. | Haste Potion. |
+| **The Invisible Ink** | Scribbles | Find ink that only shows up in the Void. | Invisible Scroll. |
+| **The Heavy Thought** | Phil O'Sophy | Find a physical manifestation of a "heavy thought". | Helmet of Intellect. |
+| **Vertical Farming** | Farmer Joe | Plant a seed on a falling rock. | Magic Beans. |
+| **The Singing Sword** | Bard | Retrieve a sword that hums in B-flat. | Singing Sword. |
+| **The Cold Soup** | Soup | Warm up the soup using atmospheric friction. | Thermos of Heat. |
+| **The Lost Vowel** | Librarian | Find the letter "E" missing from a spellbook. | Scroll of Spllng. |
+| **The Angry Cloud** | Weatherman | Apologize to a thunderstorm. | Lightning Rod. |
+| **The Floating Gold** | Banker | Retrieve a coin bag from a thermal. | 1000 GP. |
+| **The Ghost Ship** | Old Salt | Board a ship that is falling forever. | Ghostly Cutlass. |
+| **The Mirror Twin** | Reflection | High five your reflection in the Mirror Mists. | Mirror Shield. |
+| **The Sad Clown** | Chuckles | Make a void entity laugh. | Clown Nose. |
+| **The Broken Compass** | Navigator | Fix a compass that points "In". | Void Compass. |
+| **The Wet Fire** | Alchemist | Find fire that burns underwater (in rain). | Alchemist Fire. |
+| **The Solid Smoke** | Smoker | Catch a ring of smoke. | Smoke Bomb. |
+| **The Final Breath** | Dying Man | Deliver a last breath to the bottom. | Soul Gem. |
 
 ---
 

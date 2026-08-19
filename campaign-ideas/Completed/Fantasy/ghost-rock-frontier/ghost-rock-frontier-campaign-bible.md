@@ -18,7 +18,8 @@ The World is not a floor; it's a poker table that's being played by a demon gamb
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Industrial Horror.' It is about the 'Human Resilience' of the spirit—the realization that you can have a mechanical limb and still have a human heart. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single chip in an eternal game?' It explores the dusty beauty of the Western frontier, the pride in mastering a brass device, and the world-weary, resonant voice of a storyteller who understands that every hand is a gift. The players are the gunslingers and scientists who must navigate the mad science and the intensity of a shamanic ritual to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Texas Rangers (The Order)
 **Type:** Martial/Bureaucratic Defense Brotherhood
 **Leader:** Captain Stone (equivalent - the harrowed).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 **Asset:** Reality-tearing purple voids, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with souls.
 
-## [TAG: NPC_TIER_1]
-**Stone** (Order - The Lead) - A man whose voice is world-weary, gravelly, and resonant. **Voice:** Western bravado, horror-struck whispers, dark humor. **Goal:** To protect the 'Humanity' of the frontier and guide the new gunfighters. **Secret:** He is secretly an Adept of 'Manitou-Energy' who can 'rewrite' a soul's destiny through his campfire stories.
-**Dr. Hellstromme** (Shadow - The Villain) - A being whose voice is smooth, persuasive, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To complete the 'Final Reconstruction' and merge all reality into a single, steam-powered hive-mind. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Raven** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the Ghost-Rock-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the steam clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless frontier-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Hellstromme's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient gunfighter in practical dusty gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Ghost-Rock ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Stone** (Order - The Lead) - A man whose voice is world-weary, gravelly, and resonant. **Voice:** Western bravado, horror-struck whispers, dark humor. **Goal:** To protect the 'Humanity' of the frontier and guide the new gunfighters. **Secret:** He is secretly an Adept of 'Manitou-Energy' who can 'rewrite' a soul's destiny through his campfire stories.
+2.  **Dr. Hellstromme** (Shadow - The Villain) - A being whose voice is smooth, persuasive, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To complete the 'Final Reconstruction' and merge all reality into a single, steam-powered hive-mind. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Raven** (Independent - The Catalyst) - A woman whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost sister and stop the Ghost-Rock-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the steam clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless frontier-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Hellstromme's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient gunfighter in practical dusty gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Ghost-Rock ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 | The Monk | Ancient Worshipper | Manitou Temple | Spends all his time painting murals of the 'Quake's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Gomorra (The Hub)
 A grand stone monument to Victorian architecture and western expansion.
 *   **The Main Street:** A site of 'Refined Formality' and harsh martial rituals. **Smell:** Vanilla, old stone, and coal smoke. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and mad science.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Frontier Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in Gomorra. You must survive your first 'Walking Dead Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Stone Run:** Navigate the traditional territories to find Stone. You must identify the 'Ghost-Energy' node before the rivals arrive.
 3.  **The Manitou Heist:** Infiltrate the Hellstromme HQ to retrieve a stolen 'Steam-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Dr. Hellstromme face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Gun (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Gun (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Spirit Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Poker Signet (Equivalent)
+2.  **The Poker Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the poker seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Manitou-Energy Capsule (Equivalent)
+3.  **The Manitou-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Steam' magic.

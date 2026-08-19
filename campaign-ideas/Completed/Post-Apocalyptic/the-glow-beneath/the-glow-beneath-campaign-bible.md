@@ -18,7 +18,8 @@ The World is not a floor; it's a lung that's slowly breathing light. In the deep
 ### The 'Why'
 The central conflict is the struggle between 'Technological Progress' and 'Ecological Communion.' It is about the 'Sublime Mystery' of the human spirit—the realization that we are all just pulses of light in a vast, intelligent darkness. The 'Why' is the question: 'Will you kill the god who provides your light to save your civilization, or will you sacrifice your city to heal the world?' It explores the weightless beauty of the underwater cathedral, the visceral horror of the Wound's silence, and the dreamy, synesthetic voice of a being that speaks in colors and sensations. The players are the divers and Lumens who must navigate the gurgling chambers and pressure-cooker politics to find a truth that stays bright in the dark.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Tideloch Council (The Harvesters)
 **Type:** High-Society/Industrial Bureaucracy
 **Leader:** Seraph Delmare (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Technological Progress' and 'Ecolo
 **Asset:** Living constellations, light-language, and the ability to synchronize the entire ocean's pulse.
 **Rivals:** The Wound (the weapon).
 
-## [TAG: NPC_TIER_1]
-**Seraph Delmare** (Council - Authoritative Leader) - A woman in practical diving gear with brass fixtures. **Voice:** Professional, authoritative, and exhausted. **Goal:** To keep Tideloch's 50,000 souls alive through the harvest. **Secret:** She is secretly researching a 'Synthetic Light' to end the harvest, but she's running out of time.
-**Captain Senna Voidcaller** (Rebel - The Villain) - A woman in rough, desaturated rags with an intense gaze. **Voice:** Intense, passionate, and angry. **Goal:** To destroy the harvesters and restore Luminara's health, even if it means drowning the city. **Secret:** She is already part-Wound, having stayed in the dead water too long to maintain her sanity.
-**Lyss (Lumen Sage)** (Lumen - The Enigma) - A being with translucent skin and glowing organs visible underneath. **Voice:** Dreamy, synesthetic, and musical. **Goal:** To guide the player into communion with Luminara and preserve the 'Dream Reef.' **Secret:** she is a direct descendant of the first diver who synchronized with the light.
-**Kaito Brightwater** (Independent - The Mentor) - A man whose gregariousness hides a deep grief. **Voice:** Gregarious, salesmen-like, but with a voice that cracks when discussing the past. **Goal:** To redeem himself for his years of 'Taking' from the Deep. **Secret:** He was the one who 'accidentally' designed the weapon that created the Wound.
-**Luminara (Echo)** (Ocean - Mythic Leader) - The manifest consciousness of the oceanic light. **Voice:** Pure emotion and sensation, layered with thousands of voices. **Goal:** To be remembered and to heal the fracture in its being. **Secret:** Luminara isn't just an organism; it's the 'Archive' of every soul that has ever died in the Deep.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Seraph Delmare** (Council - Authoritative Leader) - A woman in practical diving gear with brass fixtures. **Voice:** Professional, authoritative, and exhausted. **Goal:** To keep Tideloch's 50,000 souls alive through the harvest. **Secret:** She is secretly researching a 'Synthetic Light' to end the harvest, but she's running out of time.
+2.  **Captain Senna Voidcaller** (Rebel - The Villain) - A woman in rough, desaturated rags with an intense gaze. **Voice:** Intense, passionate, and angry. **Goal:** To destroy the harvesters and restore Luminara's health, even if it means drowning the city. **Secret:** She is already part-Wound, having stayed in the dead water too long to maintain her sanity.
+3.  **Lyss (Lumen Sage)** (Lumen - The Enigma) - A being with translucent skin and glowing organs visible underneath. **Voice:** Dreamy, synesthetic, and musical. **Goal:** To guide the player into communion with Luminara and preserve the 'Dream Reef.' **Secret:** she is a direct descendant of the first diver who synchronized with the light.
+4.  **Kaito Brightwater** (Independent - The Mentor) - A man whose gregariousness hides a deep grief. **Voice:** Gregarious, salesmen-like, but with a voice that cracks when discussing the past. **Goal:** To redeem himself for his years of 'Taking' from the Deep. **Secret:** He was the one who 'accidentally' designed the weapon that created the Wound.
+5.  **Luminara (Echo)** (Ocean - Mythic Leader) - The manifest consciousness of the oceanic light. **Voice:** Pure emotion and sensation, layered with thousands of voices. **Goal:** To be remembered and to heal the fracture in its being. **Secret:** Luminara isn't just an organism; it's the 'Archive' of every soul that has ever died in the Deep.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Technological Progress' and 'Ecolo
 | The Monk | Ancient Worshipper | Dream Reef | Spends all his time painting murals of the 'Light's Beginning.' |
 | The Clerk | Council Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Tideloch City (The Hub)
 A Victorian-meets-underwater monument to civilization and living light.
 *   **The Harbor Docks:** A site of 'Refined Formality' and harbor sounds. **Smell:** Brine, expensive coffee, and machine oil. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -90,7 +93,8 @@ An organic, Art Nouveau monument to symmetry and stained-glass effects.
 A site of 'Crushing Silence' and absence as presence.
 *   **The Center:** Where the 'Industrial Weapon' is embedded. **Visual:** A single harsh spotlight in the center of the absolute black. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Descent:** Arrive in the Deep. You must survive your first 'Harvest Encounter' while maintaining your 'Oxygen' level.
 2.  **The Garden run:** Navigate the kelp forests to find Kaito. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The Voidcaller Infiltration:** Infiltrate Senna's camp to find evidence of her 'Reverse-Rebirth' plan. You must bypass her 'Watching Eye' security.
@@ -99,18 +103,19 @@ A site of 'Crushing Silence' and absence as presence.
 6.  **The Final Reset:** Luminara has begun its final 'Reset.' You must defend the Dream Reef while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face Senna and the Council face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Light
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Light:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha Whale.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Lumen-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Symbiot Mask
+2.  **The Symbiot Mask:**
 **Type:** Artifact (Focus)
 **Description:** A glass and brass helmet that hums with the key of the first Communiant.
 **Mechanics:** Grants the user the ability to 'Communicate' with Luminara. Once per day, the user can 'Silence' a target's sensory input for 1 hour.
 
-### 3. The Lumen-Energy Capsule
+3.  **The Lumen-Energy Capsule:**
 **Type:** Wondrous Item
 **Description:** A small, sapphire crystal that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Wound' magic.

@@ -19,7 +19,8 @@ The World is not a floor; it's a door that's being held open by a skeleton. In t
 ### The 'Why'
 The central conflict is the struggle between 'Self-Preservation' and 'Universal Renewal.' It is about the 'Melancholic Beauty' of the human spirit—the realization that everything elegant will eventually rot, and that's okay. The 'Why' is the question: 'Can you fulfill your dharma when it requires sacrificing your own immortality?' It explores the gray twilight textures of the wastes, the visceral horror of the frozen perfection, and the gentle, final voice of a being who knows that wisdom is found in every word. The players are the revenants and seekers who must navigate the gurgling chambers and pressure-cooker politics to find a resolution that honors the memory of the Architects.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Cycle Guardians (The Order)
 **Type:** Theocratic/Spiritual Defense Order
 **Leader:** Lord Terminus (Tier 1 NPC).
@@ -50,12 +51,13 @@ The central conflict is the struggle between 'Self-Preservation' and 'Universal 
 **Asset:** Stagnant greens, frozen blues, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with souls.
 
-## [TAG: NPC_TIER_1]
-**Lord Terminus** (Order - The Leader) - An elegant skeleton in flowing robes with kind but final expression. **Voice:** Kind death, gentle but final, wise and accepting. **Goal:** To restore the Cycle and find a worthy successor to the Wastes. **Secret:** He is secretly an Adept of 'Rebirth-Energy' who can 'persuade' a soul to return to its home through his gentle speeches.
-**The Eternal** (Disruptor - The Villain) - A man of frozen perfection who appears as a normal person but has 'No Shadow.' **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To stop the Cycle and rule the world through 'Immortal Emptiness.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Angel of Judgment** (Order - The Expert) - A being of divine authority and fair evaluation. **Voice:** Strong, clear, and perfectly proportioned. **Goal:** To evaluate the souls of the deceased and ensure a fair judgment. **Secret:** she is the only person who can 'hear' the original Song of the World through the trumpet's blast.
-**The First Dead** (Independent - The Mentor) - An ancient soul who has lived in the Wastes since the beginning. **Voice:** Soft, melodic, and filled with ultimate peace. **Goal:** To guide new souls to the Transformation Pools and find a 'Safe Moment.' **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the rebirth ritual.
-**The Revenant King (Shadow)** (Lost - The Catalyst) - A being of stagnant greens and slipping sanity. **Voice:** Desperate, unhinged, and echoed. **Goal:** To reclaim his own throne and rule through 'Frozen Blues.' **Secret:** He has discovered a 'Vulnerability' in the Eternal's armor that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lord Terminus** (Order - The Leader) - An elegant skeleton in flowing robes with kind but final expression. **Voice:** Kind death, gentle but final, wise and accepting. **Goal:** To restore the Cycle and find a worthy successor to the Wastes. **Secret:** He is secretly an Adept of 'Rebirth-Energy' who can 'persuade' a soul to return to its home through his gentle speeches.
+2.  **The Eternal** (Disruptor - The Villain) - A man of frozen perfection who appears as a normal person but has 'No Shadow.' **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To stop the Cycle and rule the world through 'Immortal Emptiness.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Angel of Judgment** (Order - The Expert) - A being of divine authority and fair evaluation. **Voice:** Strong, clear, and perfectly proportioned. **Goal:** To evaluate the souls of the deceased and ensure a fair judgment. **Secret:** she is the only person who can 'hear' the original Song of the World through the trumpet's blast.
+4.  **The First Dead** (Independent - The Mentor) - An ancient soul who has lived in the Wastes since the beginning. **Voice:** Soft, melodic, and filled with ultimate peace. **Goal:** To guide new souls to the Transformation Pools and find a 'Safe Moment.' **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the rebirth ritual.
+5.  **The Revenant King (Shadow)** (Lost - The Catalyst) - A being of stagnant greens and slipping sanity. **Voice:** Desperate, unhinged, and echoed. **Goal:** To reclaim his own throne and rule through 'Frozen Blues.' **Secret:** He has discovered a 'Vulnerability' in the Eternal's armor that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the struggle between 'Self-Preservation' and 'Universal 
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Cycle's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Gray Wastes (The Hub)
 A high-contrast landscape of gray twilight, mossy greens, and black stone (reimagined).
 *   **The Main Bay:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ash, stale whiskey, and old wood. **Sound:** The rhythmic 'creak-creak' of elevated walkways.
@@ -90,7 +93,8 @@ A monumental fortress of frozen blues, stagnant greens, and preserved quiet.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** Where the 'Truth-Seeds' were first received. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the Gray Wastes. You must escape an 'Eternal Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Bloom run:** Navigate the traditional territories to find the Messenger. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The Cartel Infiltration:** Infiltrate the Eternal Syndicate's garden to find evidence of their 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Rebirth
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Rebirth:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Strike of Duty' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Rebirth-Energy Capsule
+3.  **The Rebirth-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Wound' magic.

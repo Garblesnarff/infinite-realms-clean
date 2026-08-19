@@ -121,56 +121,56 @@ The universe of this campaign operates on "Shonen Physics"—the belief that wil
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Old Man Huddle | Janitor | Equipment Room | Sweeps the floor in tactical "Blitz" formations. |
-| Kenji "Spikes" | Cobbler | Downtown Shop | Refuses to fix shoes unless you beat him at arm wrestling. |
-| Nurse Joyful | School Nurse | Infirmary | Uses sports tape for *everything*, including broken hearts. |
-| Mr. Whistle | Referee | Zebra HQ | Blows a whistle instead of using punctuation. |
-| Mama Kurita | Baker | Kurita Bakery | Bakes bread in the shape of offensive linemen. |
-| "Specs" Tanaka | Scout | Bleachers | His glasses are actually high-tech binoculars glued to his face. |
-| Cheer-Robo | Mascot | Sidelines | A student in a suit who refuses to break character, even in the bathroom. |
-| The Principal | Victim | Admin Office | Has a visible nervous tic whenever he hears the word "Devil." |
-| "Gridiron" Gary | Broadcaster | TV Booth | Narrates his own lunch ("He's going for the sandwich!"). |
-| Silent Bob | Lineman | Bench | Communicates entirely through eyebrow semaphores. |
-| Tofu-Boy | Rookie | Locker Room | So fragile he bruises if you look at him too hard. |
-| The Ex-Sumo | Opponent | Taiyo High | Tries to throw salt on the field before every snap. |
-| Math-Club Prez | Analyst | Library | Calculates trajectories of passes using an abacus in real-time. |
-| The Goth Kicker | Kicker | Roof | Only kicks well when listening to funeral dirges. |
-| Lunch Lady Doris | Supplier | Cafeteria | Serves "Touchdown Stew" that glows faintly green. |
-| The Ticket Scalper | Merchant | Stadium Gate | Sells tickets to games that happened 10 years ago. |
-| Fan #1 (Facepaint) | Superfan | Front Row | Has painted his face so many times the skin is permanently red. |
-| The Band Leader | Bard | Stands | Conducts the brass band using a quarterback baton. |
-| Waterboy Willy | Hydration | Sidelines | Believes water is a holy sacrament; blesses every cup. |
-| The Turf Druid | Groundskeeper| Field | Talks to the grass; claims the 50-yard line is depressed. |
-| "Slippery" Pete | Oil Salesman | Black Market | Sells illegal grease for jerseys (gives +5 evasion). |
-| The Zen Ref | Referee | Dojo | Meditates during plays; calls penalties based on karma. |
-| Paperboy | Intel Source | Street | Throws newspapers with the velocity of a bullet pass. |
-| The Stalking Scout | Spy | Bushes | Wears a ghillie suit made of pom-poms. |
-| Helmet-Head | Veteran | Hospital | Has not removed his helmet since 1998. |
-| The Statistician | Nerd | Computer Lab | Can predict the weather based on a QB's knee pain. |
-| "Iron" Chef | Cook | Dorms | Cooks steak using a flamethrower. |
-| The Mascot Hunter | Rival Student | Enemy School | Collects the heads of rival mascot costumes. |
-| Dr. Steroid (Fake) | Alchemist | Alley | Sells "Muscle Juice" (it's just beet juice and caffeine). |
-| The Haiku Player | Receiver | Poetry Club | Announces plays only in 5-7-5 syllable structure. |
-| The Pigeon Lord | Homeless | Park | Controls a flock of pigeons that spy on practice. |
-| Retro Ray | Coach | Old Folks Home | Still calls plays from the 1920s ("The Flying Wedge!"). |
-| The Weeping LB | Linebacker | Locker Room | Cries profusely before, during, and after hitting people. |
-| "Brick" Wall | Bouncer | Club | A former lineman who literally stands like a statue. |
-| The Autograph Kid | Fan | Tunnel | Has a binder of autographs, including the janitor's. |
-| Camera-Man Ken | Media | Endzone | Will risk death for the perfect low-angle shot. |
-| The Occultist | Manager | Basement | Tries to summon demons to aid the defensive line. |
-| The Yoga Mom | Booster | Stands | flexible enough to cheer with her feet behind her head. |
-| "Sticky" Fingers | Thief | Locker Room | Steals only left socks. |
-| The Banner Artist | Student | Art Room | Paints banners that insult opponents with subtle metaphors. |
-| The Gong Ringer | Fan | Stands | Rings a massive gong every time a yard is gained. |
-| Professor Physics | Teacher | Class 3-B | Uses football impacts to teach conservation of momentum. |
-| The Gum Chewer | Coach | Ojo Sideline | Chews gum so loudly it interferes with radio headsets. |
-| "No-Sleeves" | Player | Gym | Ripped the sleeves off his uniform to show guns. |
-| The Conductor | Bus Driver | Bus | Drives the team bus like he's running a two-minute drill. |
-| The Laundry Witch | Staff | Laundry | Can remove grass stains by shouting at them. |
-| "Lucky" Penny | Mascot | Deimon High | A student dressed as a giant penny; brings dubious luck. |
-| The Shadow Boxer | Reserve | Corner | Fights imaginary opponents and loses. |
-| Tape-Man | Medic | Field | Wrapped entirely in sports tape like a mummy. |
-| The Ghost of '88 | Spirit | Trophy Case | A ghost that haunts the trophy case, moaning about a fumble. |
+| **Old Man Huddle** | Janitor | Equipment Room | Sweeps the floor in tactical "Blitz" formations. |
+| **Kenji "Spikes"** | Cobbler | Downtown Shop | Refuses to fix shoes unless you beat him at arm wrestling. |
+| **Nurse Joyful** | School Nurse | Infirmary | Uses sports tape for *everything*, including broken hearts. |
+| **Mr. Whistle** | Referee | Zebra HQ | Blows a whistle instead of using punctuation. |
+| **Mama Kurita** | Baker | Kurita Bakery | Bakes bread in the shape of offensive linemen. |
+| **"Specs" Tanaka** | Scout | Bleachers | His glasses are actually high-tech binoculars glued to his face. |
+| **Cheer-Robo** | Mascot | Sidelines | A student in a suit who refuses to break character, even in the bathroom. |
+| **The Principal** | Victim | Admin Office | Has a visible nervous tic whenever he hears the word "Devil." |
+| **"Gridiron" Gary** | Broadcaster | TV Booth | Narrates his own lunch ("He's going for the sandwich!"). |
+| **Silent Bob** | Lineman | Bench | Communicates entirely through eyebrow semaphores. |
+| **Tofu-Boy** | Rookie | Locker Room | So fragile he bruises if you look at him too hard. |
+| **The Ex-Sumo** | Opponent | Taiyo High | Tries to throw salt on the field before every snap. |
+| **Math-Club Prez** | Analyst | Library | Calculates trajectories of passes using an abacus in real-time. |
+| **The Goth Kicker** | Kicker | Roof | Only kicks well when listening to funeral dirges. |
+| **Lunch Lady Doris** | Supplier | Cafeteria | Serves "Touchdown Stew" that glows faintly green. |
+| **The Ticket Scalper** | Merchant | Stadium Gate | Sells tickets to games that happened 10 years ago. |
+| **Fan #1 (Facepaint)** | Superfan | Front Row | Has painted his face so many times the skin is permanently red. |
+| **The Band Leader** | Bard | Stands | Conducts the brass band using a quarterback baton. |
+| **Waterboy Willy** | Hydration | Sidelines | Believes water is a holy sacrament; blesses every cup. |
+| **The Turf Druid** | Groundskeeper| Field | Talks to the grass; claims the 50-yard line is depressed. |
+| **"Slippery" Pete** | Oil Salesman | Black Market | Sells illegal grease for jerseys (gives +5 evasion). |
+| **The Zen Ref** | Referee | Dojo | Meditates during plays; calls penalties based on karma. |
+| **Paperboy** | Intel Source | Street | Throws newspapers with the velocity of a bullet pass. |
+| **The Stalking Scout** | Spy | Bushes | Wears a ghillie suit made of pom-poms. |
+| **Helmet-Head** | Veteran | Hospital | Has not removed his helmet since 1998. |
+| **The Statistician** | Nerd | Computer Lab | Can predict the weather based on a QB's knee pain. |
+| **"Iron" Chef** | Cook | Dorms | Cooks steak using a flamethrower. |
+| **The Mascot Hunter** | Rival Student | Enemy School | Collects the heads of rival mascot costumes. |
+| **Dr. Steroid (Fake)** | Alchemist | Alley | Sells "Muscle Juice" (it's just beet juice and caffeine). |
+| **The Haiku Player** | Receiver | Poetry Club | Announces plays only in 5-7-5 syllable structure. |
+| **The Pigeon Lord** | Homeless | Park | Controls a flock of pigeons that spy on practice. |
+| **Retro Ray** | Coach | Old Folks Home | Still calls plays from the 1920s ("The Flying Wedge!"). |
+| **The Weeping LB** | Linebacker | Locker Room | Cries profusely before, during, and after hitting people. |
+| **"Brick" Wall** | Bouncer | Club | A former lineman who literally stands like a statue. |
+| **The Autograph Kid** | Fan | Tunnel | Has a binder of autographs, including the janitor's. |
+| **Camera-Man Ken** | Media | Endzone | Will risk death for the perfect low-angle shot. |
+| **The Occultist** | Manager | Basement | Tries to summon demons to aid the defensive line. |
+| **The Yoga Mom** | Booster | Stands | flexible enough to cheer with her feet behind her head. |
+| **"Sticky" Fingers** | Thief | Locker Room | Steals only left socks. |
+| **The Banner Artist** | Student | Art Room | Paints banners that insult opponents with subtle metaphors. |
+| **The Gong Ringer** | Fan | Stands | Rings a massive gong every time a yard is gained. |
+| **Professor Physics** | Teacher | Class 3-B | Uses football impacts to teach conservation of momentum. |
+| **The Gum Chewer** | Coach | Ojo Sideline | Chews gum so loudly it interferes with radio headsets. |
+| **"No-Sleeves"** | Player | Gym | Ripped the sleeves off his uniform to show guns. |
+| **The Conductor** | Bus Driver | Bus | Drives the team bus like he's running a two-minute drill. |
+| **The Laundry Witch** | Staff | Laundry | Can remove grass stains by shouting at them. |
+| **"Lucky" Penny** | Mascot | Deimon High | A student dressed as a giant penny; brings dubious luck. |
+| **The Shadow Boxer** | Reserve | Corner | Fights imaginary opponents and loses. |
+| **Tape-Man** | Medic | Field | Wrapped entirely in sports tape like a mummy. |
+| **The Ghost of '88** | Spirit | Trophy Case | A ghost that haunts the trophy case, moaning about a fumble. |
 
 ---
 

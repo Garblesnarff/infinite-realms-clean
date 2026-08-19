@@ -217,56 +217,56 @@ The Universe runs on **Theos-Dynamics**. Gods require mortal *Awe* (worship/terr
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Alexios | Guard | Athens | Believes he is a chicken when the sun sets. |
-| Myra | Baker | Sparta | Kneads dough with brass knuckles. |
-| Cleo | Priestess | Delphi | Allergic to incense; wears a gas mask. |
-| Xander | Fisher | Aegean | Hooks catch birds, never fish. |
-| Phobos | Beggar | Thebes | Is actually the God of Fear on a lunch break. |
-| Lyra | Bard | Corinth | Plays a lyre with no strings (mime bard). |
-| Barnabus | Merchant | Argos | Sells "Invisible Cloaks" (they are just empty hangers). |
-| Helen | Ghost | Asphodel | Complains about the humidity. |
-| Stompos | Cyclops | Forge | Needs reading glasses for fine detail work. |
-| Thalia | Muse | Olympus | Has writer's block; asks players for ideas. |
-| Gallus | Soldier | Sparta | Refuses to wear armor; paints himself red instead. |
-| Eudora | Nymph | River Styx | Made of acid; dissolves anything she hugs. |
-| Nikos | Thief | Athens | Steals only left shoes. |
-| Pythia IV | Oracle | Delphi | Predicts the past instead of the future. |
-| Brontes | Smith | Volcano | Terrified of fire. |
-| Diona | Noble | Thebes | Wears live snakes as jewelry. |
-| Echo | Spirit | Woods | Can only repeat insults. |
-| Gryphon | Beast | Mountains | Thinks it is a lap cat. |
-| Silas | Sailor | Port | Has a wooden leg made of coral that grows. |
-| Medea | Alchemist | Exile | Cooks potions that taste like childhood memories. |
-| Orestes | Judge | Underworld | Flips a coin that lands on its edge. |
-| Kallisto | Hunter | Forest | Is a bear half the week. |
-| Damon | Scholar | Library | Eats scroll parchment to absorb knowledge. |
-| Pythias | Friend | Library | Follows Damon everywhere, taking notes. |
-| Iolaus | Sidekick | Tavern | Retired hero support; has severe back pain. |
-| Gorgos | Statue | Temple | A statue that moves when you blink. |
-| Hylas | Water-boy | Spring | Can hold his breath for three days. |
-| Midas | King | Palace | Wears gloves; accidentally turned his cat to gold. |
-| Zeno | Philosopher | Stoop | Walks halfway to everywhere, never arrives. |
-| Diogenes | Cynic | Barrel | Barks at gods. |
-| Nestor | Elder | Council | Tells stories that last 6 hours (Time skip mechanic). |
-| Ajax | Brute | Arena | Uses a gravestone as a shield. |
-| Penelope | Weaver | Ithaca | Unravels players' clothes with her eyes. |
-| Telemachus | Prince | Ithaca | Has impostor syndrome. |
-| Argus | Watchman | Garden | Has 100 eyes, 99 need glasses. |
-| Cadmus | Founder | Thebes | Turns into a snake when stressed. |
-| Harmonia | Wife | Thebes | Skin glows green near magic. |
-| Adonis | Model | Garden | So beautiful that mirrors shatter. |
-| Hyacinth | Gardener | Field | Ducks whenever a frisbee is thrown. |
-| Phaeton | Driver | Chariot | Drive it like he stole it (he did). |
-| Sisyphus | Pusher | Tartarus | Uses the boulder as a bowling ball. |
-| Tantalus | Starver | Tartarus | Chews invisible gum. |
-| Ixion | Spinner | Tartarus | Gets distinct motion sickness. |
-| Lachesis | Fate | Loom | Uses a tablet instead of thread. |
-| Atropos | Fate | Loom | Uses rusty garden shears. |
-| Clotho | Fate | Loom | Spins thread from steel wool. |
-| Pan | Satyr | Woods | Panic attacks induce actual magical Panic. |
-| Ganymede | Cupbearer | Olympus | Spills drinks on purpose to annoy Zeus. |
-| Hestia | Goddess | Hearth | Is literally a sentient fireplace. |
-| Typhon | Monster | Under mountain | Snores cause earthquakes. |
+| **Alexios** | Guard | Athens | Believes he is a chicken when the sun sets. |
+| **Myra** | Baker | Sparta | Kneads dough with brass knuckles. |
+| **Cleo** | Priestess | Delphi | Allergic to incense; wears a gas mask. |
+| **Xander** | Fisher | Aegean | Hooks catch birds, never fish. |
+| **Phobos** | Beggar | Thebes | Is actually the God of Fear on a lunch break. |
+| **Lyra** | Bard | Corinth | Plays a lyre with no strings (mime bard). |
+| **Barnabus** | Merchant | Argos | Sells "Invisible Cloaks" (they are just empty hangers). |
+| **Helen** | Ghost | Asphodel | Complains about the humidity. |
+| **Stompos** | Cyclops | Forge | Needs reading glasses for fine detail work. |
+| **Thalia** | Muse | Olympus | Has writer's block; asks players for ideas. |
+| **Gallus** | Soldier | Sparta | Refuses to wear armor; paints himself red instead. |
+| **Eudora** | Nymph | River Styx | Made of acid; dissolves anything she hugs. |
+| **Nikos** | Thief | Athens | Steals only left shoes. |
+| **Pythia IV** | Oracle | Delphi | Predicts the past instead of the future. |
+| **Brontes** | Smith | Volcano | Terrified of fire. |
+| **Diona** | Noble | Thebes | Wears live snakes as jewelry. |
+| **Echo** | Spirit | Woods | Can only repeat insults. |
+| **Gryphon** | Beast | Mountains | Thinks it is a lap cat. |
+| **Silas** | Sailor | Port | Has a wooden leg made of coral that grows. |
+| **Medea** | Alchemist | Exile | Cooks potions that taste like childhood memories. |
+| **Orestes** | Judge | Underworld | Flips a coin that lands on its edge. |
+| **Kallisto** | Hunter | Forest | Is a bear half the week. |
+| **Damon** | Scholar | Library | Eats scroll parchment to absorb knowledge. |
+| **Pythias** | Friend | Library | Follows Damon everywhere, taking notes. |
+| **Iolaus** | Sidekick | Tavern | Retired hero support; has severe back pain. |
+| **Gorgos** | Statue | Temple | A statue that moves when you blink. |
+| **Hylas** | Water-boy | Spring | Can hold his breath for three days. |
+| **Midas** | King | Palace | Wears gloves; accidentally turned his cat to gold. |
+| **Zeno** | Philosopher | Stoop | Walks halfway to everywhere, never arrives. |
+| **Diogenes** | Cynic | Barrel | Barks at gods. |
+| **Nestor** | Elder | Council | Tells stories that last 6 hours (Time skip mechanic). |
+| **Ajax** | Brute | Arena | Uses a gravestone as a shield. |
+| **Penelope** | Weaver | Ithaca | Unravels players' clothes with her eyes. |
+| **Telemachus** | Prince | Ithaca | Has impostor syndrome. |
+| **Argus** | Watchman | Garden | Has 100 eyes, 99 need glasses. |
+| **Cadmus** | Founder | Thebes | Turns into a snake when stressed. |
+| **Harmonia** | Wife | Thebes | Skin glows green near magic. |
+| **Adonis** | Model | Garden | So beautiful that mirrors shatter. |
+| **Hyacinth** | Gardener | Field | Ducks whenever a frisbee is thrown. |
+| **Phaeton** | Driver | Chariot | Drive it like he stole it (he did). |
+| **Sisyphus** | Pusher | Tartarus | Uses the boulder as a bowling ball. |
+| **Tantalus** | Starver | Tartarus | Chews invisible gum. |
+| **Ixion** | Spinner | Tartarus | Gets distinct motion sickness. |
+| **Lachesis** | Fate | Loom | Uses a tablet instead of thread. |
+| **Atropos** | Fate | Loom | Uses rusty garden shears. |
+| **Clotho** | Fate | Loom | Spins thread from steel wool. |
+| **Pan** | Satyr | Woods | Panic attacks induce actual magical Panic. |
+| **Ganymede** | Cupbearer | Olympus | Spills drinks on purpose to annoy Zeus. |
+| **Hestia** | Goddess | Hearth | Is literally a sentient fireplace. |
+| **Typhon** | Monster | Under mountain | Snores cause earthquakes. |
 
 ---
 

@@ -18,7 +18,8 @@ The World is not a floor; it's a dance floor that's being played by an invisible
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Endless Archetypes.' It is about the 'Human Resilience' of the spirit—the realization that completion always has a cost. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single unit in an eternal dance?' It explores the grand beauty of the tarot realms, the pride in mastering an essence, and the cosmic, resonant voice of a dancer who understands that every second is a gift. The players are the seekers and pathfinders who must navigate the reality-breaks and the intensity of an essence integration to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Path Guardians (The Order)
 **Type:** Theocratic/Martial Arts Defense Brotherhood
 **Leader:** The Pathfinder (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless A
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The World Dancer** (Order - The Lead) - A being whose voice is cosmic, lonely, and universal. **Voice:** Universal truths, lonely undertone, dancing eternally. **Goal:** To protect the 'Archetypal Balance' and guide the new pathfinders. **Secret:** She is secretly an Adept of 'Completion-Energy' who can 'rewrite' a soul's destiny through her eternal waltz.
-**The Almost-Completed** (Shadow - The Villain) - A being that looks and sounds like a wise but incomplete version of the player. **Voice:** Wise, calculated, chosen incompleteness. **Goal:** To stop the dance and rule through 'Infinite Fragmentation.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Pathfinder** (Independent - The Catalyst) - A mysterious guide whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the archetype-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the cosmic static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless journey-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the World's wreath that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical archetypal-neutral gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the path ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The World Dancer** (Order - The Lead) - A being whose voice is cosmic, lonely, and universal. **Voice:** Universal truths, lonely undertone, dancing eternally. **Goal:** To protect the 'Archetypal Balance' and guide the new pathfinders. **Secret:** She is secretly an Adept of 'Completion-Energy' who can 'rewrite' a soul's destiny through her eternal waltz.
+2.  **The Almost-Completed** (Shadow - The Villain) - A being that looks and sounds like a wise but incomplete version of the player. **Voice:** Wise, calculated, chosen incompleteness. **Goal:** To stop the dance and rule through 'Infinite Fragmentation.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Pathfinder** (Independent - The Catalyst) - A mysterious guide whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the archetype-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the cosmic static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless journey-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the World's wreath that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical archetypal-neutral gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the path ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless A
 | The Monk | Ancient Worshipper | Path Temple | Spends all his time painting murals of the 'Dance's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Archetypa (The Hub)
 **Type:** Hub
 **Description:** A massive, high-contrast monument to architecture, paths, and archetypal energy.
@@ -90,7 +93,8 @@ A dark, reality-distorting monument to body horror and wreaths.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Guard Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Pathfinder Run:** Navigate the traditional territories to find the Pathfinder. You must identify the 'Completion-Energy' node before the rivals arrive.
 3.  **The Essence Heist:** Infiltrate the Almost-Completed's HQ to retrieve a stolen 'Essence-Focus.' You must bypass the guards.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Almost-Completed face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Completion (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Completion (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Unified Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Essence Signet (Equivalent)
+2.  **The Essence Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the essence seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Completion-Energy Capsule (Equivalent)
+3.  **The Completion-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Fragmentation' magic.

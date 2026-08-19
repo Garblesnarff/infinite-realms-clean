@@ -18,7 +18,8 @@ The Sky didn't fall; it shattered. In the heart of the 21st century, the 'Grand 
 ### The 'Why'
 The central conflict is the struggle for 'Redemption' in a world of 'Permanent Loss.' It is about the 'Resilient Beauty' of the human spirit—the realization that destruction and renewal exist side by side. The 'Why' is the question: 'Can humanity rebuild a world that is fundamentally broken, or are we just the last traces of an extinct species?' It explores the gritty realism of the weathered wood, the tragic elegance of the corrupted landscape, and the warm, weathered strength of a survivor sharing stories around a campfire. The players are the survivors and researchers who must navigate the mutated wilderness and ruined cities to find a truth that justifies the struggle for survival.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The New Haven Settlement (The Builders)
 **Type:** Cooperative/Hopeful Human Colony
 **Leader:** Settlement Elder (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Redemption' in a world of 'Permanent L
 **Asset:** Knowledge of the deepest ruins and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**The Elder (Sarah)** (New Haven - Visionary Leader) - A woman in reinforced leather with a gentle strength. **Voice:** Warm, weathered, and filled with a hard-won hope. **Goal:** To preserve the settlement and find a permanent mutation barrier. **Secret:** She is secretly an Adept of 'Star-Energy' who can 'heal' a corrupted landscape through her presence.
-**Warlord Rust** (Scavenger - The Villain) - A man in a patchwork of military gear and leather. **Voice:** Gruff, analytical, and increasingly cold. **Goal:** To monopolize the Starlight Fragments and rule the ruins through fear. **Secret:** He was the one who 'accidentally' destroyed the first Hopeful Settlement during a heist.
-**Dr. Mendoza (Ghost)** (Independent - Clinical Healer) - A doctor with a compassionate bedside manner and high-tech (scavenged) goggles. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the survivors' DNA and find a 'Biological Cure' for the Starfall. **Secret:** She is secretly working for a shadow-syndicate that wants to harvest the 'Mutation-Energy.'
-**The Survivor (Marcus)** (New Haven - Elite Scavenger) - A man in armor crafted from ruined concrete and leather. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect the settlement's children and find his own place in the story. **Secret:** He is already part-Corrupted, having been 'touched' by a fragment years ago.
-**The First Mutant (Echo)** (Corrupted - Mythic Leader) - A being of ancient light and segmented crystal. **Voice:** None (subsonic melodic pulses). **Goal:** To reclaim the Earth for the 'Star-Children' and witness the final reset. **Secret:** The mutants are not monsters; they are the 'New Accord' of the planet.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Elder (Sarah)** (New Haven - Visionary Leader) - A woman in reinforced leather with a gentle strength. **Voice:** Warm, weathered, and filled with a hard-won hope. **Goal:** To preserve the settlement and find a permanent mutation barrier. **Secret:** She is secretly an Adept of 'Star-Energy' who can 'heal' a corrupted landscape through her presence.
+2.  **Warlord Rust** (Scavenger - The Villain) - A man in a patchwork of military gear and leather. **Voice:** Gruff, analytical, and increasingly cold. **Goal:** To monopolize the Starlight Fragments and rule the ruins through fear. **Secret:** He was the one who 'accidentally' destroyed the first Hopeful Settlement during a heist.
+3.  **Dr. Mendoza (Ghost)** (Independent - Clinical Healer) - A doctor with a compassionate bedside manner and high-tech (scavenged) goggles. **Voice:** Clinical but warm, providing a 'Safe Moment' atmosphere. **Goal:** To repair the survivors' DNA and find a 'Biological Cure' for the Starfall. **Secret:** She is secretly working for a shadow-syndicate that wants to harvest the 'Mutation-Energy.'
+4.  **The Survivor (Marcus)** (New Haven - Elite Scavenger) - A man in armor crafted from ruined concrete and leather. **Voice:** Natural, hesitant, and damaged. **Goal:** To protect the settlement's children and find his own place in the story. **Secret:** He is already part-Corrupted, having been 'touched' by a fragment years ago.
+5.  **The First Mutant (Echo)** (Corrupted - Mythic Leader) - A being of ancient light and segmented crystal. **Voice:** None (subsonic melodic pulses). **Goal:** To reclaim the Earth for the 'Star-Children' and witness the final reset. **Secret:** The mutants are not monsters; they are the 'New Accord' of the planet.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Redemption' in a world of 'Permanent L
 | The Monk | Ancient Worshipper | Star-Seed Temple | Spends all his time painting murals of the 'Sky's Beginning.' |
 | The Clerk | Settlement Admin | Headquarters | Only communicates through a rhythmic 'Order of Progress' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### New Haven Settlement (The Hub)
 A small, hopeful monument to resourcefulness and community gardens.
 *   **The Main Square:** A site of 'Resilient Beauty' and warm amber light. **Smell:** Pine wood, charcoal smoke, and wet leather. **Sound:** The rhythmic 'hammer-thump' of rebuilding.
@@ -89,7 +92,8 @@ A gray and stone-stone monument to imperial arrogance and gold trim.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Laboratory:** Where the 'Mutation Barrier' was forged. **Visual:** A single, broken mirror on the wall. **Sound:** The rhythmic hum of generators.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a ruined office. You must escape a 'Mutation Ambush' using only your improvised bone-cleaver (equivalent).
 2.  **The New Haven Run:** Navigate the ruined city to find the Elder. You must identify the 'Respiration Seed' (Star-Seed) before the surge.
 3.  **The Scavenger Infiltration:** Infiltrate the Scavenger HQ to find evidence of the 'Reverse-Rebirth' plan. You must bypass Warlord Rust's guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The settlement's central crystal has begun its final 'Reset.' You must defend the Temple while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the First Mutant face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the skin or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Rebirth
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Rebirth:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the crystalline growth of the original Alpha Star.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Elder's Medallion
+2.  **The Elder's Medallion:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire crystal that hums with the key of the first Survivor.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's DNA systems by 50 HP. Once per day, the user can 'Silence' a mutation attack for 1 round.
 
-### 3. The Star-Seed Compass
+3.  **The Star-Seed Compass:**
 **Type:** Wondrous Item
 **Description:** A pair of high-tech goggles that allow the wearer to see the world in pure Star-Energy.
 **Mechanics:** Grants the user advantage on all Wisdom (Perception) and Intelligence (Investigation) checks. Allows the wearer to see the 'True Aspect' of any Shadow.

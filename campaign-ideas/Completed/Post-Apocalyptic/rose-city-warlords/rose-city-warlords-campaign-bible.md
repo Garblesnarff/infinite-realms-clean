@@ -18,7 +18,8 @@ Portland didn't die; it just became fabulous. In the heart of the 21st century, 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absurd Stereotypes.' It is about the 'Stylish Apocalypse' of the human spirit—the realization that being yourself is the ultimate form of warfare. The 'Why' is the question: 'Can you unite a city of narcissists to save the fabulous mistake they've become?' It explores the vibrant colors of the Rose City, the visceral horror of the artisanal axe, and the manic, sarcastic voice of a renegade radio DJ who keeps the vibes high while the world burns. The players are the Warlords and Drones who must navigate the subculture politics and the intensity of a drone chase to find a truth that stays fabulous in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Handlebar Host (The Hipsters)
 **Type:** Elite/Ironic Martial Arts Clan
 **Leader:** General Mustache (A man of vintage shirts and absolute confidence).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absurd St
 **Asset:** Knowledge of the city's mundane secrets and a refusal to participate in the 'Vibe-War.'
 **Rivals:** None (they are the audience).
 
-## [TAG: NPC_TIER_1]
-**General Mustache** (Hipster - The Leader) - A man in a vintage flannel with a perfectly waxed handlebar mustache. **Voice:** Sarcastic, energetic, and manic. **Goal:** To turn Portland into a permanent 'Hipster Paradise' and defeat the Agency. **Secret:** He is secretly an Adept of 'Vibe-Energy' who can 'disarm' an opponent with a single condescending remark.
-**High Priestess Bean** (Barista - The Prophet) - A woman in a black apron who always smells of roasted beans. **Voice:** Whispered, rhythmic, and caffeinated. **Goal:** To standardize the city's productivity and find the 'Perfect Roast.' **Secret:** she is the only person who can 'hear' the original Song of the Device through the espresso machine's steam.
-**Peloton** (Cyclist - The Warrior) - A man in tight lycra with a mirror-tinted helmet. **Voice:** Clear, confident, and aerodynamic. **Goal:** To dominate the city's bridges and win the 'Tour de Portland.' **Secret:** He has discovered a 'Vulnerability' in the Agency's drone signals that he can only access while traveling at 30 mph.
-**Director Vane** (Agency - The Inquisitor) - A man in a sterile gray suit with a reflective face shield. **Voice:** Cold, professional, and mechanical. **Goal:** To erase the 'Portland Mistake' and secure the Device files. **Secret:** He secretly loves the 'Flamboyant-Energy' and is trying to harvest it for his own private gala.
-**The DJ (Echo)** (Independent - The Narrator) - A renegade radio DJ broadcasting from a hidden bunker. **Voice:** Young, energetic, and slightly raspy. **Goal:** To chronicle the city's fabulous survival and keep the vibes high. **Secret:** He is a direct descendant of the first Architect and his 'Pirate Radio' is the only thing keeping the quarantine field from collapsing.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **General Mustache** (Hipster - The Leader) - A man in a vintage flannel with a perfectly waxed handlebar mustache. **Voice:** Sarcastic, energetic, and manic. **Goal:** To turn Portland into a permanent 'Hipster Paradise' and defeat the Agency. **Secret:** He is secretly an Adept of 'Vibe-Energy' who can 'disarm' an opponent with a single condescending remark.
+2.  **High Priestess Bean** (Barista - The Prophet) - A woman in a black apron who always smells of roasted beans. **Voice:** Whispered, rhythmic, and caffeinated. **Goal:** To standardize the city's productivity and find the 'Perfect Roast.' **Secret:** she is the only person who can 'hear' the original Song of the Device through the espresso machine's steam.
+3.  **Peloton** (Cyclist - The Warrior) - A man in tight lycra with a mirror-tinted helmet. **Voice:** Clear, confident, and aerodynamic. **Goal:** To dominate the city's bridges and win the 'Tour de Portland.' **Secret:** He has discovered a 'Vulnerability' in the Agency's drone signals that he can only access while traveling at 30 mph.
+4.  **Director Vane** (Agency - The Inquisitor) - A man in a sterile gray suit with a reflective face shield. **Voice:** Cold, professional, and mechanical. **Goal:** To erase the 'Portland Mistake' and secure the Device files. **Secret:** He secretly loves the 'Flamboyant-Energy' and is trying to harvest it for his own private gala.
+5.  **The DJ (Echo)** (Independent - The Narrator) - A renegade radio DJ broadcasting from a hidden bunker. **Voice:** Young, energetic, and slightly raspy. **Goal:** To chronicle the city's fabulous survival and keep the vibes high. **Secret:** He is a direct descendant of the first Architect and his 'Pirate Radio' is the only thing keeping the quarantine field from collapsing.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absurd St
 | The Monk | Ancient Worshipper | Voodoo Doughnut | Spends all his time painting murals of the 'Device's Beginning.' |
 | The Clerk | Agency Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Burnside Bridge (The Hub)
 A high-contrast landscape of vibrant graffiti and industrial grays.
 *   **The Hub:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Coffee, charcoal smoke, and wet wool. **Sound:** The rhythmic 'roar-roar' of salvaged drones.
@@ -88,7 +91,8 @@ A royal gold and deep brown monument to luxury and small-batch roasting.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Observation Deck:** Where the 'Grand Erasure' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Vibe Arrival:** Arrive in Portland. You must survive your first 'Vibe-Check' against a Handlebar Host patrol using only your ironic detachment.
 2.  **The Coffee Heist:** Infiltrate the Caffeine Cult to retrieve a stolen 'Perfect Roast.' You must bypass High Priestess Bean and her sleep-deprived guards.
 3.  **The Bridge-War Defense:** The Agency has launched its first drone strike. You must defend the Burnside Bridge using salvaged bike-parts and your 'Vibe-Energy.'
@@ -97,18 +101,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Bloodletting at the Source:** Face the Agency face-to-face in a final, reality-bending standoff at the central bunker. The truth is revealed—will you build the stars or reclaim the mud?
 7.  **The Final Coronation:** Face the Warlord face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Artisanal Axe
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Artisanal Axe:**
 **Type:** Legendary Weapon
 **Description:** A hand-forged, double-headed axe with a subtle draconic pattern.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Vibe-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Espresso Portafilter
+2.  **The Espresso Portafilter:**
 **Type:** Artifact (Focus)
 **Description:** A small, silver handle that hums with the key of the first Barista.
 **Mechanics:** Grants the user the ability to 'Sync' with any mechanical or magical device. Once per day, the user can 'Silence' a target's productivity for 1 hour.
 
-### 3. The Vintage Record
+3.  **The Vintage Record:**
 **Type:** Wondrous Item
 **Description:** A rare, blue-vinyl record that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

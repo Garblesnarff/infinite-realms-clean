@@ -20,7 +20,8 @@ The Pine Barrens are not just a forest; they are a psychic wound on the landscap
 ### The "Why"
 The metaphysical conflict is a struggle against the collective unconscious, a battle against the shadows we cast. The Jersey Devil is not evil; it is a mirror, reflecting the darkness within us all. It forces people to confront their own inner demons, literally. The players are caught in this cycle, and the horror comes from the realization that the monster they are hunting is a reflection of themselves. The goal is not to "kill" the Devil, which is impossible, but to break the cycle, to heal the psychic wound of the Pine Barrens, or, perhaps, to find a way to accept their own darkness without manifesting it into a monster. The ultimate horror is the realization that the Devil is us.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Pine Barrens Preservation Society
 **Type:** Militant Environmentalists / Cryptid Hunters
 **Leader:** Ranger Silas Thorne, a man who has dedicated his life to protecting the Barrens.
@@ -81,83 +82,85 @@ The metaphysical conflict is a struggle against the collective unconscious, a ba
 **Asset:** The ability to subtly influence human behavior, causing people to feel unwanted or rejected. They are the "children" of the Jersey Devil, and they are everywhere.
 **Rivals:** The Confessional Cult (who try to "confess" them away).
 
-## [TAG: NPC_TIER_1]
-**Ranger Silas Thorne** (Human Ranger) - Gruff, pragmatic, and deeply protective of the Barrens. **Voice:** A low, gravelly voice, like rustling pine needles. **Goal:** To protect the Jersey Devil, which he sees as a unique, endangered species. **Secret:** He has a deep, unspoken secret that he fears the Devil will reveal.
-**Father Michael** (Human Cleric) - A man tormented by his own sins, seeking absolution. **Voice:** A soft, pleading, and guilt-ridden voice. **Goal:** To appease the Devil through confession. **Secret:** He secretly believes the Devil is a manifestation of God's judgment.
-**Old Man Leeds** (Human Warlock) - The last direct descendant of Mother Leeds. Twisted, bitter, and obsessed with controlling the Devil. **Voice:** A raspy, cackling, and ancient voice. **Goal:** To harness the Devil's power for his own revenge. **Secret:** He is slowly turning into a manifestation of the Devil himself.
-**Dr. Evelyn Reed** (Human Expert) - Skeptical, intelligent, and driven by a thirst for scientific understanding. **Voice:** A calm, precise, and academic voice. **Goal:** To scientifically explain the Jersey Devil. **Secret:** She has a deep, personal fear of the unknown, which she hides behind her scientific rigor.
-**Elder Willow** (Human Druid) - Wise, ancient, and deeply connected to the spiritual landscape of the Barrens. **Voice:** A soft, melodic, and ancient voice, like the whisper of the wind through the trees. **Goal:** To heal the psychic wound of the Pine Barrens. **Secret:** She is slowly absorbing the collective guilt of the Barrens, and it is killing her.
-**Professor Anya Sharma** (Human Wizard) - Brilliant, reckless, and obsessed with breaking the boundaries of reality. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To use the Jersey Devil as a portal to another dimension. **Secret:** She believes her dead daughter is in that other dimension.
-**The Reflector** (Human Bard) - A mysterious artist who creates mirrors that show your deepest fears. **Voice:** A calm, soothing, and slightly unsettling voice. **Goal:** To force humanity to confront its own darkness. **Secret:** He is a manifestation of the Jersey Devil itself, a fragment that has achieved a stable form.
-**Agent Blackwood** (Human Rogue) - Cold, efficient, and utterly humorless. **Voice:** A flat, monotone, and emotionless voice. **Goal:** To contain the Jersey Devil and suppress all evidence of its existence. **Secret:** He is a former victim of the Devil, and he has no memories of his past.
-**The Blank Child** (Human) - A child born with no "story," a narrative vacuum. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
-**The Jersey Devil** (Aberration) - A sentient paradox, a shifting mirror of guilt and suppressed desires. **Voice:** A cacophony of whispers, screams, and the sound of your own deepest fears. **Goal:** To exist. **Secret:** It is not evil; it is a reflection. It only wants to be seen.
-**Deputy Miller** (Human Fighter) - A local sheriff's deputy, trying to keep the peace in a town that is slowly going mad. **Voice:** A tired, but determined, voice. **Goal:** To protect his town. **Secret:** He is having an affair with the Mayor's wife.
-**The Cryptid-Hunter** (Human Ranger) - A grizzled, old hunter who has been tracking the Devil for decades. **Voice:** A raspy, gravelly voice, filled with years of frustration. **Goal:** To kill the Jersey Devil. **Secret:** He believes the Devil killed his family, but it was actually his own suppressed rage.
-**The Confessor** (Human Commoner) - A member of the Confessional Cult, who is constantly trying to confess his sins to anyone who will listen. **Voice:** A frantic, desperate, and guilt-ridden voice. **Goal:** To confess all his sins before the Devil finds him. **Secret:** He has no sins. He is just trying to fit in.
-**The Leeds Witch** (Human Warlock) - A young, ambitious descendant of Mother Leeds, who is trying to learn how to control the Devil. **Voice:** A seductive, manipulative, and dangerous voice. **Goal:** To become the new "Mother" of the Devil. **Secret:** She is secretly terrified of the Devil.
-**The Dream-Weaver** (Human Wizard) - A Shadow-Hunter who specializes in entering people's dreams to find their suppressed fears. **Voice:** A calm, soothing, and slightly ethereal voice. **Goal:** To find the "core regret" that is feeding the Devil. **Secret:** He is slowly losing his own ability to dream.
-**The Un-Wanted Child** (Human) - A child who is a manifestation of the "un-wanted" emotions of the Barrens. **Voice:** A small, sad, and easily ignored voice. **Goal:** To be loved. **Secret:** It can only be seen by those who feel truly unwanted.
-**The Reality-Glitcher's Apprentice** (Human Expert) - A young, enthusiastic scientist. **Voice:** A fast, excited, and slightly naive voice. **Goal:** To prove Professor Sharma's theories. **Secret:** He is secretly trying to use the Devil to bring back his dead pet hamster.
-**The Mirror-Maker's Muse** (Human) - A beautiful, but deeply troubled, woman who is the Reflector's muse. **Voice:** A soft, melancholic, and haunting voice. **Goal:** To find a mirror that shows her true self, not her fears. **Secret:** She is a manifestation of the Devil's own desire for self-acceptance.
-**The Silent Watcher's Informant** (Human Rogue) - A local who is secretly working for Agent Blackwood. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** He is terrified of both the Devil and Agent Blackwood.
-**The Un-Said Lover** (Human) - A manifestation of a suppressed romantic desire. **Voice:** A soft, yearning, and slightly desperate voice. **Goal:** To be acknowledged. **Secret:** It can only be seen by those who are secretly in love.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Ranger Silas Thorne** (Human Ranger) - Gruff, pragmatic, and deeply protective of the Barrens. **Voice:** A low, gravelly voice, like rustling pine needles. **Goal:** To protect the Jersey Devil, which he sees as a unique, endangered species. **Secret:** He has a deep, unspoken secret that he fears the Devil will reveal.
+2.  **Father Michael** (Human Cleric) - A man tormented by his own sins, seeking absolution. **Voice:** A soft, pleading, and guilt-ridden voice. **Goal:** To appease the Devil through confession. **Secret:** He secretly believes the Devil is a manifestation of God's judgment.
+3.  **Old Man Leeds** (Human Warlock) - The last direct descendant of Mother Leeds. Twisted, bitter, and obsessed with controlling the Devil. **Voice:** A raspy, cackling, and ancient voice. **Goal:** To harness the Devil's power for his own revenge. **Secret:** He is slowly turning into a manifestation of the Devil himself.
+4.  **Dr. Evelyn Reed** (Human Expert) - Skeptical, intelligent, and driven by a thirst for scientific understanding. **Voice:** A calm, precise, and academic voice. **Goal:** To scientifically explain the Jersey Devil. **Secret:** She has a deep, personal fear of the unknown, which she hides behind her scientific rigor.
+5.  **Elder Willow** (Human Druid) - Wise, ancient, and deeply connected to the spiritual landscape of the Barrens. **Voice:** A soft, melodic, and ancient voice, like the whisper of the wind through the trees. **Goal:** To heal the psychic wound of the Pine Barrens. **Secret:** She is slowly absorbing the collective guilt of the Barrens, and it is killing her.
+6.  **Professor Anya Sharma** (Human Wizard) - Brilliant, reckless, and obsessed with breaking the boundaries of reality. **Voice:** A fast, excited, and slightly manic chatter. **Goal:** To use the Jersey Devil as a portal to another dimension. **Secret:** She believes her dead daughter is in that other dimension.
+7.  **The Reflector** (Human Bard) - A mysterious artist who creates mirrors that show your deepest fears. **Voice:** A calm, soothing, and slightly unsettling voice. **Goal:** To force humanity to confront its own darkness. **Secret:** He is a manifestation of the Jersey Devil itself, a fragment that has achieved a stable form.
+8.  **Agent Blackwood** (Human Rogue) - Cold, efficient, and utterly humorless. **Voice:** A flat, monotone, and emotionless voice. **Goal:** To contain the Jersey Devil and suppress all evidence of its existence. **Secret:** He is a former victim of the Devil, and he has no memories of his past.
+9.  **The Blank Child** (Human) - A child born with no "story," a narrative vacuum. **Voice:** Silence. When it "speaks," it is just a void that absorbs all sound. **Goal:** Unknown. It seems to be drawn to places of great narrative importance. **Secret:** It is a potential "reset button" for the entire Law of Narrative Conservation.
+10.  **The Jersey Devil** (Aberration) - A sentient paradox, a shifting mirror of guilt and suppressed desires. **Voice:** A cacophony of whispers, screams, and the sound of your own deepest fears. **Goal:** To exist. **Secret:** It is not evil; it is a reflection. It only wants to be seen.
+11.  **Deputy Miller** (Human Fighter) - A local sheriff's deputy, trying to keep the peace in a town that is slowly going mad. **Voice:** A tired, but determined, voice. **Goal:** To protect his town. **Secret:** He is having an affair with the Mayor's wife.
+12.  **The Cryptid-Hunter** (Human Ranger) - A grizzled, old hunter who has been tracking the Devil for decades. **Voice:** A raspy, gravelly voice, filled with years of frustration. **Goal:** To kill the Jersey Devil. **Secret:** He believes the Devil killed his family, but it was actually his own suppressed rage.
+13.  **The Confessor** (Human Commoner) - A member of the Confessional Cult, who is constantly trying to confess his sins to anyone who will listen. **Voice:** A frantic, desperate, and guilt-ridden voice. **Goal:** To confess all his sins before the Devil finds him. **Secret:** He has no sins. He is just trying to fit in.
+14.  **The Leeds Witch** (Human Warlock) - A young, ambitious descendant of Mother Leeds, who is trying to learn how to control the Devil. **Voice:** A seductive, manipulative, and dangerous voice. **Goal:** To become the new "Mother" of the Devil. **Secret:** She is secretly terrified of the Devil.
+15.  **The Dream-Weaver** (Human Wizard) - A Shadow-Hunter who specializes in entering people's dreams to find their suppressed fears. **Voice:** A calm, soothing, and slightly ethereal voice. **Goal:** To find the "core regret" that is feeding the Devil. **Secret:** He is slowly losing his own ability to dream.
+16.  **The Un-Wanted Child** (Human) - A child who is a manifestation of the "un-wanted" emotions of the Barrens. **Voice:** A small, sad, and easily ignored voice. **Goal:** To be loved. **Secret:** It can only be seen by those who feel truly unwanted.
+17.  **The Reality-Glitcher's Apprentice** (Human Expert) - A young, enthusiastic scientist. **Voice:** A fast, excited, and slightly naive voice. **Goal:** To prove Professor Sharma's theories. **Secret:** He is secretly trying to use the Devil to bring back his dead pet hamster.
+18.  **The Mirror-Maker's Muse** (Human) - A beautiful, but deeply troubled, woman who is the Reflector's muse. **Voice:** A soft, melancholic, and haunting voice. **Goal:** To find a mirror that shows her true self, not her fears. **Secret:** She is a manifestation of the Devil's own desire for self-acceptance.
+19.  **The Silent Watcher's Informant** (Human Rogue) - A local who is secretly working for Agent Blackwood. **Voice:** A nervous, shifty, and easily intimidated voice. **Goal:** To get paid. **Secret:** He is terrified of both the Devil and Agent Blackwood.
+20.  **The Un-Said Lover** (Human) - A manifestation of a suppressed romantic desire. **Voice:** A soft, yearning, and slightly desperate voice. **Goal:** To be acknowledged. **Secret:** It can only be seen by those who are secretly in love.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Billy | Local Drunk | The Pine Barrens Tavern | Claims he once arm-wrestled the Jersey Devil and won. |
-| Carol | Diner Waitress | The Roadside Diner | Her coffee is so bad, it can induce temporary amnesia. |
-| Dave | Gas Station Attendant | The Last Chance Gas | Is convinced his gas pump is sentient and is judging him. |
-| Edna | Town Gossip | The General Store | Knows everyone's secrets, but forgets them five minutes later. |
-| Frank | Logger | The Pine Barrens | His axe is haunted by the ghost of a tree. |
-| Grace | Local Historian | The Town Library | Believes the Jersey Devil is a metaphor for capitalism. |
-| Henry | Fisherman | The Mirror Lakes | Claims he once caught a fish that looked exactly like his deepest regret. |
-| Iris | Local Artist | The Art Gallery | Paints portraits that show not your face, but your deepest fear. |
-| Joe | Hunter | The Pine Barrens | His hunting dog is a manifestation of his own cowardice. |
-| Karen | Tourist | The Pine Barrens | Is convinced the Jersey Devil is a marketing ploy for a local theme park. |
-| Larry | Conspiracy Theorist | His basement | Believes the Jersey Devil is a government experiment gone wrong. |
-| Mary | Local Witch | Her cabin | Sells "love potions" that cause people to fall in love with inanimate objects. |
-| Ned | Farmer | The Pine Barrens | His crops are growing in the shape of his suppressed desires. |
-| Olivia | Local Reporter | The Town Newspaper | Is trying to write a "human interest" story about the Jersey Devil. |
-| Pete | Mechanic | The Auto Shop | His wrenches are constantly trying to escape. |
-| Quinn | Local Preacher | The Church | Believes the Jersey Devil is a sign of the End Times. |
-| Randy | Local Teenager | The Arcade | Is convinced the Jersey Devil is a glitch in the game he's playing. |
-| Sally | Local Baker | The Bakery | Her cookies taste exactly like your fondest memory. |
-| Tom | Local Sheriff | The Sheriff's Office | Is trying to solve a series of disappearances, but all the clues are metaphors. |
-| Ursula | Local Librarian | The Town Library | Believes the Jersey Devil is a character from a banned book. |
-| Victor | Local Hunter | The Pine Barrens | His rifle is haunted by the ghost of a deer. |
-| Wendy | Local Teacher | The School | Is trying to teach her students about the Jersey Devil, but all the textbooks are blank. |
-| Xena | Local Doctor | The Clinic | Believes the Jersey Devil is a psychosomatic illness. |
-| Yolanda | Local Florist | The Flower Shop | Her flowers bloom in the shape of people's unspoken regrets. |
-| Zach | Local Bartender | The Pine Barrens Tavern | Has heard every secret in the Barrens, but forgets them all when he's sober. |
-| Alice | Local Child | The Playground | Her imaginary friend is a manifestation of her suppressed anger. |
-| Bob | Local Mailman | The Streets | His mailbag is haunted by the ghosts of undelivered letters. |
-| Cindy | Local Hairdresser | The Salon | Her scissors are constantly trying to cut off her own hair. |
-| Doug | Local Butcher | The Butcher Shop | His meat cleaver is haunted by the ghosts of all the animals he's killed. |
-| Emily | Local Musician | The Bar | Her guitar plays songs that reflect the deepest desires of her audience. |
-| Fred | Local Plumber | The Sewers | His pipes are constantly whispering secrets to him. |
-| Gina | Local Artist | The Studio | Her paintings come alive at night and try to escape. |
-| Harry | Local Fisherman | The Mirror Lakes | His fishing lure is haunted by the ghost of a fish. |
-| Ivy | Local Gardener | The Garden | Her plants are growing in the shape of her suppressed fears. |
-| Jack | Local Carpenter | The Workshop | His hammer is constantly trying to nail his own hand. |
-| Kathy | Local Chef | The Restaurant | Her food tastes exactly like your deepest regret. |
-| Leo | Local Barber | The Barbershop | His razor is constantly trying to cut his own throat. |
-| Mia | Local Seamstress | The Tailor Shop | Her needles are constantly trying to sew her mouth shut. |
-| Nick | Local Fireman | The Fire Station | His hose is constantly trying to spray him in the face. |
-| Pam | Local Police Officer | The Police Station | Her handcuffs are constantly trying to handcuff her own wrists. |
-| Ron | Local Construction Worker | The Construction Site | His jackhammer is constantly trying to drill into his own foot. |
-| Sue | Local Librarian | The Library | Her books are constantly trying to read her mind. |
-| Tim | Local Electrician | The Power Plant | His wires are constantly trying to electrocute him. |
-| Vicky | Local Vet | The Vet Clinic | Her animals are constantly trying to bite her. |
-| Will | Local Mortician | The Funeral Home | His embalming fluid is constantly trying to embalm him. |
-| Xenia | Local Psychic | Her shop | Her crystal ball shows her only her own deepest fears. |
-| Yvonne | Local Florist | The Flower Shop | Her flowers are constantly trying to strangle her. |
-| Zeke | Local Gravedigger | The Cemetery | His shovel is constantly trying to bury him alive. |
-| The Un-Wanted Pet | A stray dog | The streets | A dog that is a manifestation of the "un-wanted" emotions of the Barrens. |
-| The Un-Said Word | A whisper | The wind | A whisper that is a manifestation of the "un-said" emotions of the Barrens. |
+| **Billy** | Local Drunk | The Pine Barrens Tavern | Claims he once arm-wrestled the Jersey Devil and won. |
+| **Carol** | Diner Waitress | The Roadside Diner | Her coffee is so bad, it can induce temporary amnesia. |
+| **Dave** | Gas Station Attendant | The Last Chance Gas | Is convinced his gas pump is sentient and is judging him. |
+| **Edna** | Town Gossip | The General Store | Knows everyone's secrets, but forgets them five minutes later. |
+| **Frank** | Logger | The Pine Barrens | His axe is haunted by the ghost of a tree. |
+| **Grace** | Local Historian | The Town Library | Believes the Jersey Devil is a metaphor for capitalism. |
+| **Henry** | Fisherman | The Mirror Lakes | Claims he once caught a fish that looked exactly like his deepest regret. |
+| **Iris** | Local Artist | The Art Gallery | Paints portraits that show not your face, but your deepest fear. |
+| **Joe** | Hunter | The Pine Barrens | His hunting dog is a manifestation of his own cowardice. |
+| **Karen** | Tourist | The Pine Barrens | Is convinced the Jersey Devil is a marketing ploy for a local theme park. |
+| **Larry** | Conspiracy Theorist | His basement | Believes the Jersey Devil is a government experiment gone wrong. |
+| **Mary** | Local Witch | Her cabin | Sells "love potions" that cause people to fall in love with inanimate objects. |
+| **Ned** | Farmer | The Pine Barrens | His crops are growing in the shape of his suppressed desires. |
+| **Olivia** | Local Reporter | The Town Newspaper | Is trying to write a "human interest" story about the Jersey Devil. |
+| **Pete** | Mechanic | The Auto Shop | His wrenches are constantly trying to escape. |
+| **Quinn** | Local Preacher | The Church | Believes the Jersey Devil is a sign of the End Times. |
+| **Randy** | Local Teenager | The Arcade | Is convinced the Jersey Devil is a glitch in the game he's playing. |
+| **Sally** | Local Baker | The Bakery | Her cookies taste exactly like your fondest memory. |
+| **Tom** | Local Sheriff | The Sheriff's Office | Is trying to solve a series of disappearances, but all the clues are metaphors. |
+| **Ursula** | Local Librarian | The Town Library | Believes the Jersey Devil is a character from a banned book. |
+| **Victor** | Local Hunter | The Pine Barrens | His rifle is haunted by the ghost of a deer. |
+| **Wendy** | Local Teacher | The School | Is trying to teach her students about the Jersey Devil, but all the textbooks are blank. |
+| **Xena** | Local Doctor | The Clinic | Believes the Jersey Devil is a psychosomatic illness. |
+| **Yolanda** | Local Florist | The Flower Shop | Her flowers bloom in the shape of people's unspoken regrets. |
+| **Zach** | Local Bartender | The Pine Barrens Tavern | Has heard every secret in the Barrens, but forgets them all when he's sober. |
+| **Alice** | Local Child | The Playground | Her imaginary friend is a manifestation of her suppressed anger. |
+| **Bob** | Local Mailman | The Streets | His mailbag is haunted by the ghosts of undelivered letters. |
+| **Cindy** | Local Hairdresser | The Salon | Her scissors are constantly trying to cut off her own hair. |
+| **Doug** | Local Butcher | The Butcher Shop | His meat cleaver is haunted by the ghosts of all the animals he's killed. |
+| **Emily** | Local Musician | The Bar | Her guitar plays songs that reflect the deepest desires of her audience. |
+| **Fred** | Local Plumber | The Sewers | His pipes are constantly whispering secrets to him. |
+| **Gina** | Local Artist | The Studio | Her paintings come alive at night and try to escape. |
+| **Harry** | Local Fisherman | The Mirror Lakes | His fishing lure is haunted by the ghost of a fish. |
+| **Ivy** | Local Gardener | The Garden | Her plants are growing in the shape of her suppressed fears. |
+| **Jack** | Local Carpenter | The Workshop | His hammer is constantly trying to nail his own hand. |
+| **Kathy** | Local Chef | The Restaurant | Her food tastes exactly like your deepest regret. |
+| **Leo** | Local Barber | The Barbershop | His razor is constantly trying to cut his own throat. |
+| **Mia** | Local Seamstress | The Tailor Shop | Her needles are constantly trying to sew her mouth shut. |
+| **Nick** | Local Fireman | The Fire Station | His hose is constantly trying to spray him in the face. |
+| **Pam** | Local Police Officer | The Police Station | Her handcuffs are constantly trying to handcuff her own wrists. |
+| **Ron** | Local Construction Worker | The Construction Site | His jackhammer is constantly trying to drill into his own foot. |
+| **Sue** | Local Librarian | The Library | Her books are constantly trying to read her mind. |
+| **Tim** | Local Electrician | The Power Plant | His wires are constantly trying to electrocute him. |
+| **Vicky** | Local Vet | The Vet Clinic | Her animals are constantly trying to bite her. |
+| **Will** | Local Mortician | The Funeral Home | His embalming fluid is constantly trying to embalm him. |
+| **Xenia** | Local Psychic | Her shop | Her crystal ball shows her only her own deepest fears. |
+| **Yvonne** | Local Florist | The Flower Shop | Her flowers are constantly trying to strangle her. |
+| **Zeke** | Local Gravedigger | The Cemetery | His shovel is constantly trying to bury him alive. |
+| **The Un-Wanted Pet** | A stray dog | The streets | A dog that is a manifestation of the "un-wanted" emotions of the Barrens. |
+| **The Un-Said Word** | A whisper | The wind | A whisper that is a manifestation of the "un-said" emotions of the Barrens. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Pine Barrens
 A vast, desolate, and psychically charged forest in Southern New Jersey.
 *   **The Leeds Homestead:** The ruined, overgrown remains of Mother Leeds's home. The psychic wound is strongest here. **Smell:** Rot, damp earth, and the faint scent of ancient shame. **Sound:** The whisper of the wind, which sounds like a child crying.
@@ -194,7 +197,8 @@ A section of the Barrens where the "un-wanted" emotions manifest as physical cre
 *   **The Swamp of Forgotten Dreams:** A swamp where the water is thick and black, and the air is heavy with the weight of forgotten dreams. **Smell:** Stagnant water, and the faint scent of lost hope. **Sound:** The gurgle of the water, which sounds like a sigh.
 *   **The Hill of Un-Said Words:** A hill where the ground is covered in strange, glowing symbols. Each symbol is a word that was never spoken. **Smell:** Ozone, and the faint scent of regret. **Sound:** A constant, sibilant whispering.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Missing Child:** The players are hired to find a missing child who disappeared in the Pine Barrens.
 2.  **The First Sighting:** The players have their first encounter with the Jersey Devil, which manifests as their deepest fear.
 3.  **The Confessional Cult:** The players stumble upon the Confessional Cult, who are trying to "feed" the Devil.
@@ -247,33 +251,35 @@ A section of the Barrens where the "un-wanted" emotions manifest as physical cre
 | The Haunted Cleaver | Doug, the butcher | Exorcise the ghosts of all the animals he's killed from his meat cleaver. | A perfectly balanced meat cleaver. |
 | The Desiring Guitar | Emily, the musician | Help her guitar play songs that reflect the deepest desires of her audience. | A guitar that plays songs that reflect your deepest desires. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Mirror of Un-Said Truths
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Mirror of Un-Said Truths:**
 **Type:** Artifact
 **Description:** A hand mirror with a frame of gnarled, petrified wood. It reflects not your image, but the deepest, darkest secret you are currently holding.
 **Mechanics:** When a creature looks into the mirror, it sees its deepest, darkest secret reflected back at it. This causes 1d6 psychic damage per secret it is holding. If a creature confesses its secret to the mirror, the mirror absorbs the secret, and the creature is cleansed of its guilt. The mirror can then project the absorbed secret as a powerful, psychic attack.
 
-### 2. The Pine Barrens Heartwood
+2.  **The Pine Barrens Heartwood:**
 **Type:** Wondrous Item
 **Description:** A piece of petrified wood from the oldest tree in the Pine Barrens. It pulses with a faint, psychic energy.
 **Mechanics:** A creature holding the Heartwood can feel the "psychic pulse" of the Pine Barrens. They can sense the location of any major psychic wound (e.g., a place of great guilt, a strong manifestation of the Devil). Once per day, the Heartwood can be used to perform a "Psychic Cleansing" ritual, which temporarily calms the psychic miasma in a 1-mile radius, making the Devil's manifestations less frequent and less aggressive.
 
-### 3. Mother Leeds's Cradle
+3.  **Mother Leeds's Cradle:**
 **Type:** Cursed Item
 **Description:** A simple, wooden cradle, covered in ancient, faded carvings. It rocks gently, even when no one is touching it.
 **Mechanics:** Any child placed in the cradle will be "blessed" with immense psychic power, but will also be cursed to become a new manifestation of the Jersey Devil. The child will grow up to be a powerful psychic, but will also be driven mad by the collective guilt of the Barrens.
 
-### 4. The Confessional Bell
+4.  **The Confessional Bell:**
 **Type:** Wondrous Item
 **Description:** A small, brass bell, taken from the Confessional Chapel. It rings with a clear, pure tone that seems to compel honesty.
 **Mechanics:** When the bell is rung, all creatures within 30 feet must make a WIS save. On a failure, they are compelled to confess their deepest, darkest secret. The bell can also be used to "absorb" a confession, cleansing the confessor of their guilt, but the bell then becomes heavier with the weight of the absorbed sin.
 
-### 5. The Devil's Eye
+5.  **The Devil's Eye:**
 **Type:** Artifact
 **Description:** A single, unblinking eye, preserved in a jar of formaldehyde. It is said to be the actual eye of the Jersey Devil.
 **Mechanics:** The eye is a powerful scrying device. A creature holding the eye can see through the "Mist" that hides the mythological world. They can also see the "true form" of the Jersey Devil, which is a swirling vortex of psychic energy. **Curse:** The eye slowly drives the user mad, forcing them to confront their own deepest fears and regrets.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Bottle of Pine Barrens Water:** Water from the Barrens. It tastes faintly of guilt.
 2.  **A Piece of Mother Leeds's Hair:** A single, grey hair, preserved in a locket. It hums with a faint, psychic energy.
 3.  **A Map of the Pine Barrens, with all the Secrets Marked:** A map that shows not just the roads, but the locations of hidden stills, buried bodies, and forgotten sins.

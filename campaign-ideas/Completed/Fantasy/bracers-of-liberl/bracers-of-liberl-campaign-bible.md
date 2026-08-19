@@ -20,7 +20,8 @@ The world of Zemuria is a living, feeling entity. Its lifeblood is not magma, bu
 ### The "Why"
 The metaphysical conflict is a battle between Utility and Beauty, Progress and Passion. The Orbal Revolution is not an evil, but a "solution" that has created a far greater problem. The world is dying not from a plague or a war, but from apathy. The players, as Bracers, are uniquely positioned to deal with this. Their job is to help people, but how can you help a world that is forgetting how to feel? The central conflict is not about defeating a dark lord, but about finding a way to re-ignite the world's soul. Can they find a "new," sustainable way to use Orbal energy? Can they convince the world to give up its modern conveniences to save its own heart? Or will they be forced to fight the ultimate enemy: a creeping, comfortable, and utterly soul-crushing ennui?
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Bracer Guild
 **Type:** Non-Governmental Peacekeeping Organization
 **Leader:** The Guildmaster, a rotating position. Currently, Cassius Bright.
@@ -81,83 +82,85 @@ The metaphysical conflict is a battle between Utility and Beauty, Progress and P
 **Asset:** They are immune to emotional manipulation and fear. They wander out of the Hollow Zones, spreading their "apathy" like a plague.
 **Rivals:** None. They have no desires or goals.
 
-## [TAG: NPC_TIER_1]
-**Estelle Bright** (Human Fighter) - A young, energetic, and slightly naive new Bracer. **Voice:** Bright, cheerful, and full of boundless optimism. **Goal:** To become a senior Bracer, just like her famous father. **Secret:** She has a natural, powerful, and completely untrained connection to the planet's emotional resonance, which is why she is so vibrant in a fading world.
-**Joshua Bright** (Human Rogue) - Estelle's adopted brother. Calm, quiet, and preternaturally observant. **Voice:** A quiet, calm, and almost monotone voice, but with a deep, hidden warmth. **Goal:** To protect Estelle, at all costs. **Secret:** He is a former assassin from Ouroboros, and they want him back.
-**Cassius Bright** (Human Monk) - The Guildmaster of Liberl and a legendary hero of the Hundred Days War. **Voice:** A warm, fatherly, and slightly weary baritone. **Goal:** To maintain peace and protect his children. **Secret:** He knows far more about the "fading" and Ouroboros than he lets on, and he is secretly preparing for a world-ending crisis.
-**Professor Russell** (Gnome Artificer) - The brilliant, eccentric head of the Zeiss Central Factory. **Voice:** A fast, excited, and slightly mad scientist's chatter. **Goal:** To solve every problem with more technology. **Secret:** He feels immense guilt over the unforeseen consequences of the Orbal Revolution and is secretly trying to find a technological "fix."
-**The Iron Chancellor** (Human Mastermind) - The leader of the Erebonian Empire. A political genius and a ruthless patriot. **Voice:** A cold, precise, and utterly confident tenor. **Goal:** The complete and total domination of the continent by the Erebonian Empire. **Secret:** He is using a forbidden Orbal device to suppress his own emotions, believing it makes him a more effective leader.
-**The Maestro** (Elf Bard) - The charismatic, but dangerously fanatical, leader of the Chromatic Cantors. **Voice:** A booming, theatrical, and passionate voice, always on the verge of song. **Goal:** To perform his "Symphony of Colors," which he believes will save the world, even if it kills everyone who hears it. **Secret:** His music is powered by a pact with a "Hollow" of pure, chaotic emotion.
-**Father Kevin Graham** (Human Cleric) - A traveling priest of the Septian Church. Friendly, lazy, and loves to joke around. **Voice:** A laid-back, friendly, and slightly sarcastic drawl. **Goal:** To "observe" the strange phenomena in Liberl for the Church. **Secret:** He is not a priest, but a "Gralsritter," one of the Church's elite, secret knights, tasked with hunting heretics and recovering dangerous artifacts.
-**Loewe, the Bladelord** (Human Fighter) - An Enforcer for Ouroboros. A master swordsman, honorable and deadly. **Voice:** A calm, deep, and sad voice. **Goal:** To fulfill the Grandmaster's plan, which he believes will ultimately save humanity from itself. **Secret:** He was once a hero of a small village that was destroyed by political corruption, leading to his nihilistic worldview.
-**Tita Russell** (Gnome Artificer) - Professor Russell's young, genius granddaughter. **Voice:** A shy, quiet, and sweet voice. **Goal:** To build machines that help people. **Secret:** She has unknowingly created a fully sentient AI in her favorite Orbal-powered Gatling gun.
-**Zin Vathek** (Human Monk) - A senior Bracer from the Calvard Republic. A giant of a man, jovial and loves a good drink. **Voice:** A deep, booming, and hearty laugh. **Goal:** To eat, drink, and be merry, and to punch anyone who tries to stop him. **Secret:** He is a master of a secret martial art that allows him to directly manipulate his own emotional energy, making him immune to the "fading."
-**Agate Crosner** (Human Fighter) - A young, angry, and abrasive senior Bracer. **Voice:** A harsh, gravelly, and impatient bark. **Goal:** To become strong enough to protect everyone he cares about. **Secret:** His anger is a mask for his grief over his younger sister, who was killed by monsters.
-**Olivier Lenheim** (Human Bard) - A flamboyant, eccentric, and ridiculously charming traveling musician. **Voice:** A theatrical, flowery, and over-the-top tenor. **Goal:** To find "true beauty" and to woo every pretty girl he meets. **Secret:** He is actually Olivert Reise Arnor, the crown prince of the Erebonian Empire, traveling incognito.
-**The Grandmaster** (Unknown) - The unseen leader of Ouroboros. **Voice:** A telepathic voice that is a perfect copy of your own, but it is calm, confident, and knows all your secrets. **Goal:** To observe and guide humanity's "evolution" by forcing it through world-ending crises. **Secret:** Its identity is the campaign's greatest mystery.
-**The Master Painter** (Elf Expert) - The leader of the Artists' Collective. **Voice:** A quiet, sad, and gentle voice. **Goal:** To preserve the memory of the "true colors" of the world. **Secret:** She has created a single, perfect painting that contains the last "true" blue in the world, and she would die to protect it.
-**A Hollow-Walker** (Human Commoner) - A survivor from a Hollow Zone. **Voice:** A flat, empty, and emotionless monotone. **Goal:** None. **Secret:** None. It is a blank slate.
-**General Morgan** (Human Fighter) - The stern, by-the-book leader of the Royal Army. **Voice:** A gruff, military bark. **Goal:** To protect Liberl from all foreign threats, including the Erebonian Empire and, if necessary, the Bracer Guild. **Secret:** He secretly resents Cassius Bright for being the "hero" of the war, while he was the one handling the logistics.
-**Mayor Dalmore** (Human Rogue) - The corrupt, greedy mayor of a port town. **Voice:** An oily, sycophantic, and untrustworthy voice. **Goal:** To make as much money as possible. **Secret:** He is on the payroll of the Erebonian Intelligence Division.
-**Scherazard Harvey** (Human Swashbuckler) - A senior Bracer known as the "Silver Streak." **Voice:** A sultry, teasing, and confident alto. **Goal:** To live a life of freedom and excitement. **Secret:** She is deeply in debt to a casino in the Calvard Republic.
-**The Red Constellation Jaeger** (Human Fighter) - A member of the infamous Red Constellation mercenary corps. **Voice:** A cold, professional, and bored voice. **Goal:** To complete his contract. **Secret:** He finds his job utterly boring and secretly wishes he could be a baker.
-**The Blue-Haired Boy** (Unknown) - A mysterious, blue-haired boy who appears and disappears at will, often giving cryptic advice. **Voice:** A quiet, child-like, and sad voice. **Goal:** Unknown. **Secret:** He is a personification of the planet's fading soul, a "ghost" of its former self.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Estelle Bright** (Human Fighter) - A young, energetic, and slightly naive new Bracer. **Voice:** Bright, cheerful, and full of boundless optimism. **Goal:** To become a senior Bracer, just like her famous father. **Secret:** She has a natural, powerful, and completely untrained connection to the planet's emotional resonance, which is why she is so vibrant in a fading world.
+2.  **Joshua Bright** (Human Rogue) - Estelle's adopted brother. Calm, quiet, and preternaturally observant. **Voice:** A quiet, calm, and almost monotone voice, but with a deep, hidden warmth. **Goal:** To protect Estelle, at all costs. **Secret:** He is a former assassin from Ouroboros, and they want him back.
+3.  **Cassius Bright** (Human Monk) - The Guildmaster of Liberl and a legendary hero of the Hundred Days War. **Voice:** A warm, fatherly, and slightly weary baritone. **Goal:** To maintain peace and protect his children. **Secret:** He knows far more about the "fading" and Ouroboros than he lets on, and he is secretly preparing for a world-ending crisis.
+4.  **Professor Russell** (Gnome Artificer) - The brilliant, eccentric head of the Zeiss Central Factory. **Voice:** A fast, excited, and slightly mad scientist's chatter. **Goal:** To solve every problem with more technology. **Secret:** He feels immense guilt over the unforeseen consequences of the Orbal Revolution and is secretly trying to find a technological "fix."
+5.  **The Iron Chancellor** (Human Mastermind) - The leader of the Erebonian Empire. A political genius and a ruthless patriot. **Voice:** A cold, precise, and utterly confident tenor. **Goal:** The complete and total domination of the continent by the Erebonian Empire. **Secret:** He is using a forbidden Orbal device to suppress his own emotions, believing it makes him a more effective leader.
+6.  **The Maestro** (Elf Bard) - The charismatic, but dangerously fanatical, leader of the Chromatic Cantors. **Voice:** A booming, theatrical, and passionate voice, always on the verge of song. **Goal:** To perform his "Symphony of Colors," which he believes will save the world, even if it kills everyone who hears it. **Secret:** His music is powered by a pact with a "Hollow" of pure, chaotic emotion.
+7.  **Father Kevin Graham** (Human Cleric) - A traveling priest of the Septian Church. Friendly, lazy, and loves to joke around. **Voice:** A laid-back, friendly, and slightly sarcastic drawl. **Goal:** To "observe" the strange phenomena in Liberl for the Church. **Secret:** He is not a priest, but a "Gralsritter," one of the Church's elite, secret knights, tasked with hunting heretics and recovering dangerous artifacts.
+8.  **Loewe, the Bladelord** (Human Fighter) - An Enforcer for Ouroboros. A master swordsman, honorable and deadly. **Voice:** A calm, deep, and sad voice. **Goal:** To fulfill the Grandmaster's plan, which he believes will ultimately save humanity from itself. **Secret:** He was once a hero of a small village that was destroyed by political corruption, leading to his nihilistic worldview.
+9.  **Tita Russell** (Gnome Artificer) - Professor Russell's young, genius granddaughter. **Voice:** A shy, quiet, and sweet voice. **Goal:** To build machines that help people. **Secret:** She has unknowingly created a fully sentient AI in her favorite Orbal-powered Gatling gun.
+10.  **Zin Vathek** (Human Monk) - A senior Bracer from the Calvard Republic. A giant of a man, jovial and loves a good drink. **Voice:** A deep, booming, and hearty laugh. **Goal:** To eat, drink, and be merry, and to punch anyone who tries to stop him. **Secret:** He is a master of a secret martial art that allows him to directly manipulate his own emotional energy, making him immune to the "fading."
+11.  **Agate Crosner** (Human Fighter) - A young, angry, and abrasive senior Bracer. **Voice:** A harsh, gravelly, and impatient bark. **Goal:** To become strong enough to protect everyone he cares about. **Secret:** His anger is a mask for his grief over his younger sister, who was killed by monsters.
+12.  **Olivier Lenheim** (Human Bard) - A flamboyant, eccentric, and ridiculously charming traveling musician. **Voice:** A theatrical, flowery, and over-the-top tenor. **Goal:** To find "true beauty" and to woo every pretty girl he meets. **Secret:** He is actually Olivert Reise Arnor, the crown prince of the Erebonian Empire, traveling incognito.
+13.  **The Grandmaster** (Unknown) - The unseen leader of Ouroboros. **Voice:** A telepathic voice that is a perfect copy of your own, but it is calm, confident, and knows all your secrets. **Goal:** To observe and guide humanity's "evolution" by forcing it through world-ending crises. **Secret:** Its identity is the campaign's greatest mystery.
+14.  **The Master Painter** (Elf Expert) - The leader of the Artists' Collective. **Voice:** A quiet, sad, and gentle voice. **Goal:** To preserve the memory of the "true colors" of the world. **Secret:** She has created a single, perfect painting that contains the last "true" blue in the world, and she would die to protect it.
+15.  **A Hollow-Walker** (Human Commoner) - A survivor from a Hollow Zone. **Voice:** A flat, empty, and emotionless monotone. **Goal:** None. **Secret:** None. It is a blank slate.
+16.  **General Morgan** (Human Fighter) - The stern, by-the-book leader of the Royal Army. **Voice:** A gruff, military bark. **Goal:** To protect Liberl from all foreign threats, including the Erebonian Empire and, if necessary, the Bracer Guild. **Secret:** He secretly resents Cassius Bright for being the "hero" of the war, while he was the one handling the logistics.
+17.  **Mayor Dalmore** (Human Rogue) - The corrupt, greedy mayor of a port town. **Voice:** An oily, sycophantic, and untrustworthy voice. **Goal:** To make as much money as possible. **Secret:** He is on the payroll of the Erebonian Intelligence Division.
+18.  **Scherazard Harvey** (Human Swashbuckler) - A senior Bracer known as the "Silver Streak." **Voice:** A sultry, teasing, and confident alto. **Goal:** To live a life of freedom and excitement. **Secret:** She is deeply in debt to a casino in the Calvard Republic.
+19.  **The Red Constellation Jaeger** (Human Fighter) - A member of the infamous Red Constellation mercenary corps. **Voice:** A cold, professional, and bored voice. **Goal:** To complete his contract. **Secret:** He finds his job utterly boring and secretly wishes he could be a baker.
+20.  **The Blue-Haired Boy** (Unknown) - A mysterious, blue-haired boy who appears and disappears at will, often giving cryptic advice. **Voice:** A quiet, child-like, and sad voice. **Goal:** Unknown. **Secret:** He is a personification of the planet's fading soul, a "ghost" of its former self.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Anton | Bracer-in-Training | Rolent Bracer Guild | Is writing a romance novel about senior Bracers. |
-| Lita | Shopkeeper | Bose Market | Her prices change based on how interesting your story is. |
-| Carlos | Fisherman | Ruan | Claims to have once caught a "fish of pure sadness." |
-| Dorothy | Reporter | Liberl News Service | Is a terrible photographer, but her photos sometimes show the future. |
-| Eddy | Factory Worker | Zeiss Central Factory | Is convinced the machines are whispering to him. They are. |
-| Father Divine | Priest | Grancel Cathedral | His sermons are so boring they can put monsters to sleep. |
-| Gus | Airship Mechanic | The 'Arseille' | Pats the airship and calls it a "good girl." |
-| Hanna | Farmer | A farm outside Rolent | Her vegetables have no taste, but are incredibly beautiful. |
-| Ida | Hotel Proprietor | Hotel in Ruan | Is a former opera diva and communicates only by singing. |
-| Jimmy | Street Urchin | Grancel | Is a chess prodigy who uses sewer rats as his pieces. |
-| Kurt | Jaeger (Zephyr) | The Mercenary Guild | Is a master of disguise who only ever disguises himself as a potted plant. |
-| Lila | Noblewoman | Ruan | Is so apathetic she has to hire someone to tell her how to feel. |
-| Marco | Artist | Ruan Artists' Collective | Is trying to paint the "color of Tuesday." |
-| Nial | Reporter | Liberl News Service | Is a notorious gossip, but all his information is 100% accurate. |
-| Orvid | Professor | Jenis Royal Academy | Is trying to alchemically create "the perfect joke." |
-| Pat | Bracer-in-Training | Grancel Bracer Guild | Is a pacifist who is trying to become a Bracer by only using non-lethal techniques. |
-| Quentin | Royal Army Soldier | Leiston Fortress | His Orbal rifle is sentient and in love with Tita's Gatling gun. |
-| Rita | Airship Attendant | Any airship | Is a master of origami and leaves tiny paper animals everywhere. |
-| Simon | Ouroboros Enforcer | A dark alley | Is a terrifyingly powerful mage who is also a five-year-old child. |
-| Tio | Hollow-Walker | A Hollow Zone | Is obsessed with collecting perfectly smooth, grey stones. |
-| Uli | Chromatic Cantor | A hidden studio | Is trying to compose a "brown note" that will make the entire city lose control of their bowels. |
-| Vesta | Septian Church Nun | The Grancel Chapel | Believes the Goddess is communicating with her through the patterns in spilled tea. |
-| Wally | Fisherman | Rolent | Is trying to catch a legendary "singing trout." |
-| Xeno | ZCF Researcher | Zeiss | Is building a robot that can feel love. |
-| Yuna | Bracer Receptionist | Any Bracer Guild | Is so efficient she can process your paperwork before you've filled it out. |
-| Zola | Jaeger (Red Constellation) | A battlefield | Fights with a giant, rocket-powered hammer. |
-| Armand | Nobleman | Grancel | Is trying to create a new fashion trend: wearing live birds as hats. |
-| Becky | Bracer-in-Training | Zeiss Bracer Guild | Is more interested in the technology than the job. |
-| Ciel | Musician | Ruan | Plays a violin that makes plants grow faster. |
-| Danton | Old Soldier | Rolent | Is constantly re-enacting his "glory days" from the Hundred Days War. |
-| Elma | Librarian | Grancel Royal Library | The books in her section rearrange themselves by how sad their endings are. |
-| Faye | Bracer-in-Training | Ruan Bracer Guild | Is a terrible swordswoman, but is impossibly, unbelievably lucky. |
-| George | ZCF Salesman | Any city | Can sell anyone anything, including selling air conditioners in the middle of winter. |
-| Helga | Jaeger Commander | A mercenary camp | Is a giant of a woman who arm-wrestles for contracts. |
-| Illya | Ouroboros Assassin | Anywhere | A sweet old lady who kills her targets with poisoned cookies. |
-| Jean | Royal Army Quartermaster | Haken Gate | Is obsessed with inventory and will stop a battle to count cannonballs. |
-| Kloe | Student | Jenis Royal Academy | A kind, gentle girl who is always followed by a large, white bird. |
-| Lauda | Artist's Apprentice | Ruan | Is trying to mix a pigment that is invisible. |
-| Mina | Maid | A nobleman's estate | Is a former Jaeger who is hiding out from her old corps. |
-| Noah | Street Performer | Grancel | Is a juggler who can juggle anything, including water and fire. |
-| Oscar | Actor | Grand Theatre | Is a terrible actor, but the audience loves him. |
-| Penny | Merchant | Bose Market | Sells "emotional spices" that make food taste happy or sad. |
-| Ray | Photographer | Anywhere | Is trying to capture a photograph of a ghost. |
-| Stella | Star Gazer | A high tower | Believes the future is written in the stars, but she can't read. |
-| Troy | Ouroboros Enforcer | A dark alley | A man who fights with a weaponized, razor-sharp yo-yo. |
-| Una | Farmer's Wife | A farm | Her pies are so good they can heal minor wounds. |
-| Vincent | Butler | A nobleman's estate | Is so discreet, people often forget he is in the room. |
-| Wendy | Waitress | A cafe | Can perfectly balance a tray of full glasses on her head while running. |
-| York | Old Professor | Jenis Royal Academy | Is writing a book proving that the world is actually flat. |
-| Zax | Jaeger | A tavern | Is looking for a worthy opponent to fight... in a children's card game. |
+| **Anton** | Bracer-in-Training | Rolent Bracer Guild | Is writing a romance novel about senior Bracers. |
+| **Lita** | Shopkeeper | Bose Market | Her prices change based on how interesting your story is. |
+| **Carlos** | Fisherman | Ruan | Claims to have once caught a "fish of pure sadness." |
+| **Dorothy** | Reporter | Liberl News Service | Is a terrible photographer, but her photos sometimes show the future. |
+| **Eddy** | Factory Worker | Zeiss Central Factory | Is convinced the machines are whispering to him. They are. |
+| **Father Divine** | Priest | Grancel Cathedral | His sermons are so boring they can put monsters to sleep. |
+| **Gus** | Airship Mechanic | The 'Arseille' | Pats the airship and calls it a "good girl." |
+| **Hanna** | Farmer | A farm outside Rolent | Her vegetables have no taste, but are incredibly beautiful. |
+| **Ida** | Hotel Proprietor | Hotel in Ruan | Is a former opera diva and communicates only by singing. |
+| **Jimmy** | Street Urchin | Grancel | Is a chess prodigy who uses sewer rats as his pieces. |
+| **Kurt** | Jaeger (Zephyr) | The Mercenary Guild | Is a master of disguise who only ever disguises himself as a potted plant. |
+| **Lila** | Noblewoman | Ruan | Is so apathetic she has to hire someone to tell her how to feel. |
+| **Marco** | Artist | Ruan Artists' Collective | Is trying to paint the "color of Tuesday." |
+| **Nial** | Reporter | Liberl News Service | Is a notorious gossip, but all his information is 100% accurate. |
+| **Orvid** | Professor | Jenis Royal Academy | Is trying to alchemically create "the perfect joke." |
+| **Pat** | Bracer-in-Training | Grancel Bracer Guild | Is a pacifist who is trying to become a Bracer by only using non-lethal techniques. |
+| **Quentin** | Royal Army Soldier | Leiston Fortress | His Orbal rifle is sentient and in love with Tita's Gatling gun. |
+| **Rita** | Airship Attendant | Any airship | Is a master of origami and leaves tiny paper animals everywhere. |
+| **Simon** | Ouroboros Enforcer | A dark alley | Is a terrifyingly powerful mage who is also a five-year-old child. |
+| **Tio** | Hollow-Walker | A Hollow Zone | Is obsessed with collecting perfectly smooth, grey stones. |
+| **Uli** | Chromatic Cantor | A hidden studio | Is trying to compose a "brown note" that will make the entire city lose control of their bowels. |
+| **Vesta** | Septian Church Nun | The Grancel Chapel | Believes the Goddess is communicating with her through the patterns in spilled tea. |
+| **Wally** | Fisherman | Rolent | Is trying to catch a legendary "singing trout." |
+| **Xeno** | ZCF Researcher | Zeiss | Is building a robot that can feel love. |
+| **Yuna** | Bracer Receptionist | Any Bracer Guild | Is so efficient she can process your paperwork before you've filled it out. |
+| **Zola** | Jaeger (Red Constellation) | A battlefield | Fights with a giant, rocket-powered hammer. |
+| **Armand** | Nobleman | Grancel | Is trying to create a new fashion trend: wearing live birds as hats. |
+| **Becky** | Bracer-in-Training | Zeiss Bracer Guild | Is more interested in the technology than the job. |
+| **Ciel** | Musician | Ruan | Plays a violin that makes plants grow faster. |
+| **Danton** | Old Soldier | Rolent | Is constantly re-enacting his "glory days" from the Hundred Days War. |
+| **Elma** | Librarian | Grancel Royal Library | The books in her section rearrange themselves by how sad their endings are. |
+| **Faye** | Bracer-in-Training | Ruan Bracer Guild | Is a terrible swordswoman, but is impossibly, unbelievably lucky. |
+| **George** | ZCF Salesman | Any city | Can sell anyone anything, including selling air conditioners in the middle of winter. |
+| **Helga** | Jaeger Commander | A mercenary camp | Is a giant of a woman who arm-wrestles for contracts. |
+| **Illya** | Ouroboros Assassin | Anywhere | A sweet old lady who kills her targets with poisoned cookies. |
+| **Jean** | Royal Army Quartermaster | Haken Gate | Is obsessed with inventory and will stop a battle to count cannonballs. |
+| **Kloe** | Student | Jenis Royal Academy | A kind, gentle girl who is always followed by a large, white bird. |
+| **Lauda** | Artist's Apprentice | Ruan | Is trying to mix a pigment that is invisible. |
+| **Mina** | Maid | A nobleman's estate | Is a former Jaeger who is hiding out from her old corps. |
+| **Noah** | Street Performer | Grancel | Is a juggler who can juggle anything, including water and fire. |
+| **Oscar** | Actor | Grand Theatre | Is a terrible actor, but the audience loves him. |
+| **Penny** | Merchant | Bose Market | Sells "emotional spices" that make food taste happy or sad. |
+| **Ray** | Photographer | Anywhere | Is trying to capture a photograph of a ghost. |
+| **Stella** | Star Gazer | A high tower | Believes the future is written in the stars, but she can't read. |
+| **Troy** | Ouroboros Enforcer | A dark alley | A man who fights with a weaponized, razor-sharp yo-yo. |
+| **Una** | Farmer's Wife | A farm | Her pies are so good they can heal minor wounds. |
+| **Vincent** | Butler | A nobleman's estate | Is so discreet, people often forget he is in the room. |
+| **Wendy** | Waitress | A cafe | Can perfectly balance a tray of full glasses on her head while running. |
+| **York** | Old Professor | Jenis Royal Academy | Is writing a book proving that the world is actually flat. |
+| **Zax** | Jaeger | A tavern | Is looking for a worthy opponent to fight... in a children's card game. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Kingdom of Liberl
 A small, prosperous, and fiercely independent nation, known for its beauty and its advanced technology.
 *   **Rolent, the Vibrant Town:** A small, peaceful town surrounded by bright green fields and vibrant flower gardens. One of the last places where the colors feel "real." **Smell:** Flowers, fresh-cut grass, and baking bread. **Sound:** The chirping of birds, the laughter of children, the gentle hum of the local Orbal generator.
@@ -188,7 +191,8 @@ Places that exist outside of normal space and time, the hidden bases of the secr
 *   **The Phantasma:** A "ghost" airship, the mobile headquarters of Ouroboros. It can travel between dimensions. **Smell:** Ozone, and a faint, alien scent you can't identify. **Sound:** A low, almost sub-sonic hum.
 *   **The Liber Ark:** A massive, ancient space station, the ultimate goal of the Grandmaster's plan. **Smell:** Sterile, recycled air and ancient technology. **Sound:** The hum of energies beyond mortal comprehension.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **A Bracer's Life for Me:** The players take their final Bracer exam, a simple mission to exterminate some monsters outside Rolent.
 2.  **The Disappearing Mayor:** The mayor of Rolent disappears. The players investigate, uncovering a simple kidnapping plot that leads them to the local branch of the Erebonian intelligence service.
 3.  **The Black Market of Bose:** The trail leads the players to the city of Bose, where they must infiltrate the black market to find a stolen Orbal device.
@@ -241,33 +245,35 @@ Places that exist outside of normal space and time, the hidden bases of the secr
 | The Silent Treatment | A jilted lover | Help him get his girlfriend, a Hollow-Walker, to talk to him again. | The Hollow-Walker will say a single, emotionless word to him. |
 | The Color-Thief's Trail | The Master Painter | Help her track the "Color-Thief" by following the trail of fading colors. | A single tube of "true blue" paint. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Bracers of Liberl
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Bracers of Liberl:**
 **Type:** Wondrous Item
 **Description:** A pair of simple, bronze bracers, the symbol of a Senior Bracer. They are said to contain the will of the founder of the Bracer Guild.
 **Mechanics:** The bracers grant the wearer advantage on all checks made to "protect" a civilian from harm. Once per day, the wearer can use the "Bracer's Vow," declaring a single person or location as being under their protection. For the next 24 hours, the wearer always knows the direction and distance to that person or place, and can suffer no harm from them (or from within that location).
 
-### 2. Epstein's Final Equation
+2.  **Epstein's Final Equation:**
 **Type:** Artifact (Scroll)
 **Description:** A single, complex, and beautiful equation, written on a scroll of strange, metallic paper. It is Professor Epstein's final, unpublished work.
 **Mechanics:** A creature who can understand the equation (requiring a very high INT check) can use it to "re-tune" the Orbal network. This can be used to either shut it down completely, overload it, or, if combined with other components, shift it to a new, sustainable form of energy use. It is, in effect, the "source code" for the world's magic and technology.
 
-### 3. The Symphony of Colors
+3.  **The Symphony of Colors:**
 **Type:** Wondrous Item (Musical Score)
 **Description:** The Maestro's masterpiece, a symphony so complex and emotionally powerful that the notes themselves seem to glow with color.
 **Mechanics:** If the symphony is performed correctly (requiring a series of high DC Performance checks), it overloads the Orbal field in a 10-mile radius. All Orbal technology ceases to function, and all creatures in the radius are flooded with pure, raw emotion, causing them to act on their deepest feelings for 1 hour. It is a weapon of mass emotional chaos.
 
-### 4. The Gralsritter's Oathbow
+4.  **The Gralsritter's Oathbow:**
 **Type:** Legendary Longbow
 **Description:** A beautiful, ancient longbow, passed down through the ranks of the Septian Church's holy knights. It does not fire arrows, but bolts of pure faith.
 **Mechanics:** This is a +3 longbow. It does not require ammunition. Its attacks deal radiant damage instead of piercing. The wielder can use their Wisdom modifier for attack and damage rolls. As an action, they can fire a "Hallow-Seeking Arrow." This arrow will travel any distance and through any barrier to strike the nearest "Hollow" or creature of pure negative emotion.
 
-### 5. The Grandmaster's Gameboard
+5.  **The Grandmaster's Gameboard:**
 **Type:** Artifact
 **Description:** A beautiful, ornate gameboard for a game that no one recognizes. It has pieces representing all the major players in the world: The Bracers, the Empire, the Church, Ouroboros.
 **Mechanics:** This is a direct link to the Grandmaster of Ouroboros. By moving a piece on the board, the user can "suggest" a course of action to that faction. There is a chance (determined by the DM) that the faction will follow the suggestion, as the Grandmaster incorporates it into her plan. **Curse:** Every time the board is used, the user's own "piece" becomes more entangled in the Grandmaster's game, making it more likely that they will be targeted by Ouroboros in the future.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Self-Solving Crossword Puzzle:** A newspaper crossword puzzle that fills itself in with the correct answers as you read the clues.
 2.  **The Apathetic's Tea-Cup:** A teacup that makes any beverage taste like lukewarm, slightly disappointing water.
 3.  **A Gear That Turns in the Wrong Direction:** A single, brass gear that, when placed in any machine, will stubbornly turn counter-clockwise, regardless of the gears around it.

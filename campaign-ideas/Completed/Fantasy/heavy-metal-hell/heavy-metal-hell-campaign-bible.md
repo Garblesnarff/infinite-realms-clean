@@ -18,7 +18,8 @@ The World is not a floor; it's a giant speaker that's being played at maximum vo
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Constant Noise.' It is about the 'Human Resilience' of the spirit—the realization that you need the silence to appreciate the riff. The 'Why' is the question: 'Can you remain human when the universe itself is trying to turn you into a white-hot spark in an eternal bird (equivalent)?' It explores the brutal beauty of the heavy metal, the pride in mastering a power chord, and the powerful, band-frontman voice of a demon lord who understands that every beat is a prayer. The players are the roadies and lords who must navigate the reality-breaks and the intensity of a musical drop to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Riff Guardians (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Lord Valorious (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Constant 
 **Asset:** Dark voids, reality-tearing reverse-metal, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Lord Valorious** (Order - The Lead) - A man whose voice is soaring, heroic, and operatic. **Voice:** Bruce Dickinson energy, soaring, heroic, dramatic. **Goal:** To protect the 'Power Metal' legacy and guide the new roadies. **Secret:** He is secretly an Adept of 'Metal-Energy' who can 'rewrite' a soul's destiny through his anthemic songs.
-**Lord Metallicus** (Shadow - The Villain) - A being whose voice starts powerful then becomes distorted and distant. **Voice:** James Hetfield meets The Nothing, distortion, cosmic horror. **Goal:** To consolidate all musical talent into a single 'Global Silence' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Raven Darkheart** (Independent - The Catalyst) - A woman whose voice is operatic but with an edge. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the silence-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the metal clatter.
-**Ozzy the Eternal** (Independent - The Mentor) - A man whose body is a map of countless concert-scars. **Voice:** Mumbling prophet, incomprehensible then suddenly clear. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Metallicus's reversed-logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient roadie in practical leather and spikes gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the riff ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lord Valorious** (Order - The Lead) - A man whose voice is soaring, heroic, and operatic. **Voice:** Bruce Dickinson energy, soaring, heroic, dramatic. **Goal:** To protect the 'Power Metal' legacy and guide the new roadies. **Secret:** He is secretly an Adept of 'Metal-Energy' who can 'rewrite' a soul's destiny through his anthemic songs.
+2.  **Lord Metallicus** (Shadow - The Villain) - A being whose voice starts powerful then becomes distorted and distant. **Voice:** James Hetfield meets The Nothing, distortion, cosmic horror. **Goal:** To consolidate all musical talent into a single 'Global Silence' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Raven Darkheart** (Independent - The Catalyst) - A woman whose voice is operatic but with an edge. **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the silence-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the metal clatter.
+4.  **Ozzy the Eternal** (Independent - The Mentor) - A man whose body is a map of countless concert-scars. **Voice:** Mumbling prophet, incomprehensible then suddenly clear. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Metallicus's reversed-logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient roadie in practical leather and spikes gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the riff ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Constant 
 | The Monk | Ancient Worshipper | Metal Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Infernum Rex (The Hub)
 A grand stone monument to architecture, speakers, and red firelight.
 *   **The Eternal Stage:** A site of 'Refined Formality' and harsh musical rituals. **Smell:** Sulfur, vanilla, and old paper. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and reversal.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Song Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a mosh pit. You must survive your first 'Silence Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **Lord Valorious Run:** Navigate the traditional territories to find Valorious. You must identify the 'Metal-Energy' node before the rivals arrive.
 3.  **The Riff Heist:** Infiltrate the Silence HQ to retrieve a stolen 'Riff-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Metallicus face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Riff (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Riff (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Sound Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Solo Signet (Equivalent)
+2.  **The Solo Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the solo seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Metal-Energy Capsule (Equivalent)
+3.  **The Metal-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Silence' magic.

@@ -18,7 +18,8 @@ The Earth didn't fall to aliens; it fell to its own reflections. Long ago, the '
 ### The 'Why'
 The central conflict is the struggle for 'Connection' in a world of absolute isolation. It is about the horror of the 'A.T. Field'—the fact that we can never truly know another person. The 'Why' is the question: 'Is it better to live in pain as individuals or to find peace by losing our identity in the whole?' It explores the biomechanical nightmare of the Evas and the geometrically impossible beauty of the Angels. The players are the pilots and NERV staff who must balance their duty to save humanity with the weight of their own psychological trauma.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### NERV (The Defenders)
 **Type:** Secret Biomechanical Research/Military Organization
 **Leader:** Commander Gendo Ikari (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Connection' in a world of absolute iso
 **Asset:** Conventional weapons (ineffective against Angels) and a refusal to believe in the 'Eva myth.'
 **Rivals:** NERV.
 
-## [TAG: NPC_TIER_1]
-**Commander Gendo Ikari** (NERV - Cold Leader) - A man who has traded his humanity for a goal. **Voice:** Soft-spoken, emotionless, and manipulative. **Goal:** To reunite with his dead wife through the Third Impact. **Secret:** He hates his own son because Shinji reminds him of the humanity he lost.
-**Misato Katsuragi** (NERV - Operations Director) - The maternal but broken leader of the pilots. **Voice:** Forced cheerfulness over a deep, alcohol-fueled depression. **Goal:** To destroy the Angels and avenge her father. **Secret:** She was the only survivor of the Second Impact and carries the scars on her soul.
-**Rei Ayanami** (Pilot - Silent Enigma) - The pilot of EVA Unit-00. **Voice:** Monotone, emotionless, and clinical. **Goal:** To fulfill her purpose, whatever that may be. **Secret:** She is a clone of Gendo's wife, created from the DNA of Lilith.
-**Asuka Langley Soryu** (Pilot - Aggressive Prodigy) - The pilot of EVA Unit-02. **Voice:** Loud, arrogant, and German-accented. **Goal:** To be the best pilot and prove her worth to her dead mother. **Secret:** She is terrified of being alone and uses her aggression as an A.T. Field.
-**Kaworu Nagisa** (Angel/Independent - Alien Kindness) - The final Angel in human form. **Voice:** Gentle, unsettlingly kind, and alien. **Goal:** To understand the human heart and decide the fate of the world. **Secret:** He loves humanity and will allow himself to be killed to save them.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Commander Gendo Ikari** (NERV - Cold Leader) - A man who has traded his humanity for a goal. **Voice:** Soft-spoken, emotionless, and manipulative. **Goal:** To reunite with his dead wife through the Third Impact. **Secret:** He hates his own son because Shinji reminds him of the humanity he lost.
+2.  **Misato Katsuragi** (NERV - Operations Director) - The maternal but broken leader of the pilots. **Voice:** Forced cheerfulness over a deep, alcohol-fueled depression. **Goal:** To destroy the Angels and avenge her father. **Secret:** She was the only survivor of the Second Impact and carries the scars on her soul.
+3.  **Rei Ayanami** (Pilot - Silent Enigma) - The pilot of EVA Unit-00. **Voice:** Monotone, emotionless, and clinical. **Goal:** To fulfill her purpose, whatever that may be. **Secret:** She is a clone of Gendo's wife, created from the DNA of Lilith.
+4.  **Asuka Langley Soryu** (Pilot - Aggressive Prodigy) - The pilot of EVA Unit-02. **Voice:** Loud, arrogant, and German-accented. **Goal:** To be the best pilot and prove her worth to her dead mother. **Secret:** She is terrified of being alone and uses her aggression as an A.T. Field.
+5.  **Kaworu Nagisa** (Angel/Independent - Alien Kindness) - The final Angel in human form. **Voice:** Gentle, unsettlingly kind, and alien. **Goal:** To understand the human heart and decide the fate of the world. **Secret:** He loves humanity and will allow himself to be killed to save them.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Connection' in a world of absolute iso
 | The Eva Mechanic | Support | Hangar | Believes the Evas are 'Gods' and prays to them before repairs. |
 | The LCL Collector | Cultist | Lower Levels | Smells like orange juice and wet clay. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### NERV Headquarters (Tokyo-3)
 A brutalist, antiseptic fortress built deep beneath the city.
 *   **Central Dogma:** A cavernous underground space where the giant white Lilith is crucified. **Smell:** Clinical green and stagnant orange fluid. **Sound:** The deep, rhythmic thrum of the Earth.
@@ -90,7 +93,8 @@ A city designed to retract into the ground during Angel attacks.
 The deepest, most secret part of NERV where reality begins to distort.
 *   **The Moon of Lilith:** A giant, white, organic sphere. **Feeling:** An overwhelming sense of 'Not-Belonging.'
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Synchrony:** Board EVA Unit-01 for the first time. Survive the neural pain of the 'First Activation' and defeat the Angel Sachiel.
 2.  **The Geometric Horror:** Ramiel, the Fifth Angel, has arrived—a giant blue octahedron. You must calculate its firing pattern and fire a long-range positron cannon with perfect timing.
 3.  **The Psychological Break:** During a sync test, your Eva goes 'Berserk.' You must navigate a symbolic nightmare of red and black imagery to regain control.
@@ -99,18 +103,19 @@ The deepest, most secret part of NERV where reality begins to distort.
 6.  **The Descent into Dogma:** Travel to the lowest level of NERV to stop Gendo from merging with Lilith.
 7.  **The Instrumentality Choice:** The Third Impact has begun. Everyone is dissolving into orange fluid. You must decide whether to return to the sea of souls or remain an individual in pain.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Spear of Longinus
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Spear of Longinus:**
 **Type:** Artifact (Weapon)
 **Description:** A giant, red, double-pronged spear made of an unknown alien material.
 **Mechanics:** Can penetrate any A.T. Field and deals 10d10 radiant damage. If it hits an Angel, the Angel's physics-defying geometry is permanently frozen.
 
-### 2. The Pilot's Neural Link
+2.  **The Pilot's Neural Link:**
 **Type:** Wondrous Item (Implant)
 **Description:** A series of metal plugs that fit into the back of the neck.
 **Mechanics:** Grants the user the ability to 'sync' with any biomechanical construct, granting them advantage on all DEX checks and +2 to AC.
 
-### 3. Gendo's Glasses
+3.  **Gendo's Glasses:**
 **Type:** Wondrous Item
 **Description:** A pair of tinted glasses that hide the wearer's eyes and reflect the light in an intimidating way.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks and makes them immune to being charmed.

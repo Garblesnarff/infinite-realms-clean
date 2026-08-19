@@ -123,56 +123,56 @@ The Hellmouth is not just a door; it is a metaphysical magnet. Reality is thinne
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Mr. Trick | Vampire Hitman | The Bronze | Wears a pristine white suit, hates dirt. |
-| Harmony Kendall | Vampire Cheerleader | Sunnydale High | Thinks vampires are just a lifestyle choice. |
-| Willy the Snitch | Bar Owner | Willy's Place | constantly wipes the same spot on the bar. |
-| Larry Blaisdell | Jock/Bully | Locker Room | Secretly knits grandmotherly sweaters. |
-| Amy Madison | Witch/Rat | Science Lab | Literally turns into a rat when stressed. |
-| Officer Hingle | Police Officer | Patrol Car | Convinced demons are just "gangs on PCP." |
-| "Deadboy" Dave | Zombie Student | Cafeteria | Keeps trying to eat glue, thinks it's brains. |
-| Miss Calendar | Teacher/Technopagan | Computer Lab | Smells faintly of burning sage and ozone. |
-| Sid | Ventriloquist Dummy | Drama Dept | Is a cursed demon hunter trapped in wood. |
-| D'Hoffryn | Demon Lord | Arashmaharr | Very polite, runs vengeance like a corporation. |
-| Chantarelle | Cultist | Vampire Club | Changes her name every week (Lily, Anne). |
-| Percy West | Jock | Library | Can only read if someone yells at him. |
-| Tucker Wells | Nerd/Summoner | Basement | Training Hellhounds to play fetch. |
-| Andrew Wells | Nerd/Villain | Trio HQ | Narrates his life like a documentary. |
-| The Annointed One | Child Vampire | The Master's Lair | Is actually 60, hates being offered candy. |
-| Kathy Newman | College Roommate | Dorms | Clips toenails incessantly (is a demon). |
-| Sunday | Vampire Leader | College Campus | Obsessed with nihilistic philosophy. |
-| Veruca | Werewolf Singer | The Bronze | Sings only in growls. |
-| Rack | Warlock Dealer | Back Alley | Addicted to strawberry milkshakes. |
-| Doc | Demon Doctor | Shadylake | Has a tail he uses to hold scalpels. |
-| Halfrek | Vengeance Demon | Guidance Office | Specializes in "Bad Parenting" wishes. |
-| Sweet | Musical Demon | The Bronze Stage | Tap dances when thinking. |
-| Gnarl | Skin-Eating Demon | Caves | Speaks in rhyming couplets. |
-| Caleb | Preacher/Vessel | Wine Cellar | Misquotes the bible to justify murder. |
-| Kennedy | Potential Slayer | Training Room | Extremely rich, tries to bribe vampires. |
-| Amanda | Potential Slayer | Swing Set | Uses a field hockey stick as a weapon. |
-| Chao-Ahn | Potential Slayer | Kitchen | Speaks no English, thinks flashcards are magic. |
-| Rona | Potential Slayer | Basement | extremely claustrophobic. |
-| Vi | Potential Slayer | Bedroom | wears colorful hats to hide fear. |
-| Wood | Principal/Hunter | Office | Polishes a stake while disciplining students. |
-| Holden Webster | Vampire Psych Major | Cemetery | Psychoanalyzes you while fighting. |
-| Cassie Newton | Student/Oracle | Hallway | Knows exactly when she will die. |
-| Moloch | Internet Demon | Computer | types in all caps constantly. |
-| Ted | Robot Stepdad | Kitchen | Glitches when someone mentions "organic." |
-| Norman Pfister | Bug Man | Sales Office | Head rotates 180 degrees when excited. |
-| Marcie Ross | Invisible Girl | Ceiling | writes "LOOK AT ME" on walls in blood. |
-| Balthazar | Fat Demon | Warehouse | Needs a bathtub of water to survive. |
-| The Judge | Blue Demon | Mall | Can burn people by looking at them (rarely works). |
-| Kakistos | Ancient Vampire | Port | Hands are cloven hooves. |
-| Gachnar | Fear Demon | Dollhouse | Is actually 3 inches tall. |
-| Adam | Bio-Monster | Initiative Lab | Has a floppy disk drive in his chest. |
-| Maggie Walsh | Scientist | University | Sleeps with eyes open. |
-| Riley Finn | Soldier | Frat House | allergic to aspirin. |
-| Forrest Gates | Soldier | Jeep | hates Buffy for no reason. |
-| Graham Miller | Soldier | Canteen | Makes excellent guacamole. |
-| Glory's Minions | Scabby Demons | Glory's Penthouse | Constantly scratching themselves. |
-| Ben | Hospital Intern | ER | Blacks out when Glory takes over. |
-| Olaf | Troll God | The Bronze | Obsessed with babies (eating them). |
-| Parker Abrams | Toxic Boyfriend | Frat Party | Is not a demon, just a jerk. |
-| Hank Summers | Absent Dad | Phone | Always "in a meeting." |
+| **Mr. Trick** | Vampire Hitman | The Bronze | Wears a pristine white suit, hates dirt. |
+| **Harmony Kendall** | Vampire Cheerleader | Sunnydale High | Thinks vampires are just a lifestyle choice. |
+| **Willy the Snitch** | Bar Owner | Willy's Place | constantly wipes the same spot on the bar. |
+| **Larry Blaisdell** | Jock/Bully | Locker Room | Secretly knits grandmotherly sweaters. |
+| **Amy Madison** | Witch/Rat | Science Lab | Literally turns into a rat when stressed. |
+| **Officer Hingle** | Police Officer | Patrol Car | Convinced demons are just "gangs on PCP." |
+| **"Deadboy" Dave** | Zombie Student | Cafeteria | Keeps trying to eat glue, thinks it's brains. |
+| **Miss Calendar** | Teacher/Technopagan | Computer Lab | Smells faintly of burning sage and ozone. |
+| **Sid** | Ventriloquist Dummy | Drama Dept | Is a cursed demon hunter trapped in wood. |
+| **D'Hoffryn** | Demon Lord | Arashmaharr | Very polite, runs vengeance like a corporation. |
+| **Chantarelle** | Cultist | Vampire Club | Changes her name every week (Lily, Anne). |
+| **Percy West** | Jock | Library | Can only read if someone yells at him. |
+| **Tucker Wells** | Nerd/Summoner | Basement | Training Hellhounds to play fetch. |
+| **Andrew Wells** | Nerd/Villain | Trio HQ | Narrates his life like a documentary. |
+| **The Annointed One** | Child Vampire | The Master's Lair | Is actually 60, hates being offered candy. |
+| **Kathy Newman** | College Roommate | Dorms | Clips toenails incessantly (is a demon). |
+| **Sunday** | Vampire Leader | College Campus | Obsessed with nihilistic philosophy. |
+| **Veruca** | Werewolf Singer | The Bronze | Sings only in growls. |
+| **Rack** | Warlock Dealer | Back Alley | Addicted to strawberry milkshakes. |
+| **Doc** | Demon Doctor | Shadylake | Has a tail he uses to hold scalpels. |
+| **Halfrek** | Vengeance Demon | Guidance Office | Specializes in "Bad Parenting" wishes. |
+| **Sweet** | Musical Demon | The Bronze Stage | Tap dances when thinking. |
+| **Gnarl** | Skin-Eating Demon | Caves | Speaks in rhyming couplets. |
+| **Caleb** | Preacher/Vessel | Wine Cellar | Misquotes the bible to justify murder. |
+| **Kennedy** | Potential Slayer | Training Room | Extremely rich, tries to bribe vampires. |
+| **Amanda** | Potential Slayer | Swing Set | Uses a field hockey stick as a weapon. |
+| **Chao-Ahn** | Potential Slayer | Kitchen | Speaks no English, thinks flashcards are magic. |
+| **Rona** | Potential Slayer | Basement | extremely claustrophobic. |
+| **Vi** | Potential Slayer | Bedroom | wears colorful hats to hide fear. |
+| **Wood** | Principal/Hunter | Office | Polishes a stake while disciplining students. |
+| **Holden Webster** | Vampire Psych Major | Cemetery | Psychoanalyzes you while fighting. |
+| **Cassie Newton** | Student/Oracle | Hallway | Knows exactly when she will die. |
+| **Moloch** | Internet Demon | Computer | types in all caps constantly. |
+| **Ted** | Robot Stepdad | Kitchen | Glitches when someone mentions "organic." |
+| **Norman Pfister** | Bug Man | Sales Office | Head rotates 180 degrees when excited. |
+| **Marcie Ross** | Invisible Girl | Ceiling | writes "LOOK AT ME" on walls in blood. |
+| **Balthazar** | Fat Demon | Warehouse | Needs a bathtub of water to survive. |
+| **The Judge** | Blue Demon | Mall | Can burn people by looking at them (rarely works). |
+| **Kakistos** | Ancient Vampire | Port | Hands are cloven hooves. |
+| **Gachnar** | Fear Demon | Dollhouse | Is actually 3 inches tall. |
+| **Adam** | Bio-Monster | Initiative Lab | Has a floppy disk drive in his chest. |
+| **Maggie Walsh** | Scientist | University | Sleeps with eyes open. |
+| **Riley Finn** | Soldier | Frat House | allergic to aspirin. |
+| **Forrest Gates** | Soldier | Jeep | hates Buffy for no reason. |
+| **Graham Miller** | Soldier | Canteen | Makes excellent guacamole. |
+| **Glory's Minions** | Scabby Demons | Glory's Penthouse | Constantly scratching themselves. |
+| **Ben** | Hospital Intern | ER | Blacks out when Glory takes over. |
+| **Olaf** | Troll God | The Bronze | Obsessed with babies (eating them). |
+| **Parker Abrams** | Toxic Boyfriend | Frat Party | Is not a demon, just a jerk. |
+| **Hank Summers** | Absent Dad | Phone | Always "in a meeting." |
 
 ---
 

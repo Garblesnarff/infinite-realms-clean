@@ -18,7 +18,8 @@ The World is not a floor; it's a lung that's breathing through the crust. In the
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Stasis.' It is about the 'Primordial Resilience' of the human spirit—the realization that you are part of a living system. The 'Why' is the question: 'Can you remain human when the very ground beneath you is trying to speak its own name through fire and ice?' It explores the visceral beauty of the Icelandic geothermal features, the pride in maintaining the balance, and the deep, rumbling voice of a planet that sounds like its own breath. The players are the shepherds and speakers who must navigate the stone-groans and the intensity of a volcanic eruption to find a truth that stays solid in the heat.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Magma Shepherds (The Order)
 **Type:** Theocratic/Environmental Defense Brotherhood
 **Leader:** Grandmother Hekla (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing geysers, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Grandmother Hekla** (Order - The Lead) - An ancient woman whose voice is raspy from steam inhalation. **Voice:** Ancient, slow, and speaks like stone. **Goal:** To protect the 'Earth's Breath' and guide the new shepherds. **Secret:** She is secretly an Adept of 'Geothermal-Energy' who can 'rewrite' a soul's destiny through her steam-patterns.
-**Frost-That-Hungers** (Shadow - The Villain) - A being that looks like a man made of absolute cold. **Voice:** Whisper of absolute cold, desperate and lonely. **Goal:** To stop the Earth's breath and rule the world through 'Absolute Stasis.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Earthheart** (Independent - The Catalyst) - Multiple voices of erupting earth in perfect unison. **Voice:** Deep earth rumbling, building intensity with depth. **Goal:** To maintain the planetary temperature and find a worthy successor. **Secret:** she is the only person who can 'hear' the original Song of the World through the stone groans.
-**The Magma Shepherd (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless heat-scars. **Voice:** Crackling fire voice, protective and world-weary. **Goal:** To protect the 'Safe Zones' and find a worthy student. **Secret:** He has discovered a 'Vulnerability' in the frost's armor that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient shepherd in singed leather armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the eruption ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Grandmother Hekla** (Order - The Lead) - An ancient woman whose voice is raspy from steam inhalation. **Voice:** Ancient, slow, and speaks like stone. **Goal:** To protect the 'Earth's Breath' and guide the new shepherds. **Secret:** She is secretly an Adept of 'Geothermal-Energy' who can 'rewrite' a soul's destiny through her steam-patterns.
+2.  **Frost-That-Hungers** (Shadow - The Villain) - A being that looks like a man made of absolute cold. **Voice:** Whisper of absolute cold, desperate and lonely. **Goal:** To stop the Earth's breath and rule the world through 'Absolute Stasis.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Earthheart** (Independent - The Catalyst) - Multiple voices of erupting earth in perfect unison. **Voice:** Deep earth rumbling, building intensity with depth. **Goal:** To maintain the planetary temperature and find a worthy successor. **Secret:** she is the only person who can 'hear' the original Song of the World through the stone groans.
+4.  **The Magma Shepherd (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless heat-scars. **Voice:** Crackling fire voice, protective and world-weary. **Goal:** To protect the 'Safe Zones' and find a worthy student. **Secret:** He has discovered a 'Vulnerability' in the frost's armor that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient shepherd in singed leather armor. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the eruption ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Magma Temple | Spends all his time painting murals of the 'Breath's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Magma Chamber (The Hub)
 A grand subterranean monument to architectural grandeur and planetary fire.
 *   **The Heart-Seat:** A site of 'Refined Formality' and harsh geothermal rituals. **Smell:** Sulfur, vanilla, and old wood. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to absolute stasis and frozen stone.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Geothermal Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a geothermal vent. You must survive your first 'Frost Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Hekla Run:** Navigate the traditional territories to find Grandmother Hekla. You must identify the 'Earth-Energy' node before the rivals arrive.
 3.  **The Steam Heist:** Infiltrate the Frost Citadel to retrieve a stolen 'Magma-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Frost-That-Hungers face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Magma (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Magma (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Eruption Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Earthheart Signet (Equivalent)
+2.  **The Earthheart Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the earth seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Geothermal-Energy Capsule (Equivalent)
+3.  **The Geothermal-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Frost' magic.

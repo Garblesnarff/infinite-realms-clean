@@ -18,7 +18,8 @@ The World is not a floor; it's a gash that's being stitched by an invisible heal
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Divine Indifference.' It is about the 'Human Resilience' of the spirit—the realization that mortals matter precisely because they persist. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kursi in an eternal book (equivalent)?' It explores the beautiful realism of the dark fantasy, the pride in mastering a moranth munition, and the weathered, resonant voice of an annalist who understands that every second is a gift. The players are the soldiers and annalists who must navigate the military oppressions and the intensity of a convergence fight to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Bridgeburner Squad (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Whiskeyjack (equivalent - the commander).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine In
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Whiskeyjack** (Order - The Lead) - A man whose voice is weathered, world-weary, and resonant. **Voice:** Veteran soldier, clipped military cadence, dark humor. **Goal:** To protect the 'Humanity' of his squad and guide the new soldiers. **Secret:** He is secretly an Adept of 'Warren-Energy' who can 'rewrite' a soul's destiny through his tactical orders.
-**Anomander Rake** (Shadow - The Villain) - A being whose voice is calm, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Order' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Tavore Paran** (Independent - The Catalyst) - A being whose voice is cold, sharp, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the convergent-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the munition clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless squad-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Rake's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Warren ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Whiskeyjack** (Order - The Lead) - A man whose voice is weathered, world-weary, and resonant. **Voice:** Veteran soldier, clipped military cadence, dark humor. **Goal:** To protect the 'Humanity' of his squad and guide the new soldiers. **Secret:** He is secretly an Adept of 'Warren-Energy' who can 'rewrite' a soul's destiny through his tactical orders.
+2.  **Anomander Rake** (Shadow - The Villain) - A being whose voice is calm, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Order' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Tavore Paran** (Independent - The Catalyst) - A being whose voice is cold, sharp, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the convergent-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the munition clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless squad-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Rake's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Warren ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Divine In
 | The Monk | Ancient Worshipper | Warren Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Pale (The Hub)
 A grand stone monument to architecture, military, and candlelight.
 *   **The War Room:** A site of 'Refined Formality' and harsh narrative rituals. **Smell:** Vanilla, old stone, and expensive ink. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and distribution.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Persistence Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Andii Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Whiskeyjack Run:** Navigate the traditional territories to find Whiskeyjack. You must identify the 'Warren-Energy' node before the rivals arrive.
 3.  **The Munition Heist:** Infiltrate the Andii HQ to retrieve a stolen 'Warren-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Anomander Rake face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Choice (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Choice (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Sacred Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Munition Signet (Equivalent)
+2.  **The Munition Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the munition seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Warren-Energy Capsule (Equivalent)
+3.  **The Warren-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Industrial' magic.

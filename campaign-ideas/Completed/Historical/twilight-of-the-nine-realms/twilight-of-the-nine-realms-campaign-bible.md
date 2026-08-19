@@ -18,7 +18,8 @@ The World is not a circle; it's a Tree that's being burned at both ends. In the 
 ### The 'Why'
 The central conflict is the struggle between 'Fatalistic Acceptance' and 'Heroic Defiance.' It is about the 'Apocalyptic Beauty' of the human spirit—the realization that true glory comes from facing your doom with courage. The 'Why' is the question: 'Will you bow to the fate written by the gods, or will you fight until the sky burns to ensure the new world remembers your name?' It explores the monumental scale of the Norse cosmology, the tragedy of the 'Fallen Deity,' and the weight of a divine impartial judgment. The players are the Viking warriors and god-touched champions who must navigate the branches of Yggdrasil to find a resolution that honors the memory of the Nine Realms.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Aesir (The Gods of Order)
 **Type:** Theocratic Divine Superpower
 **Leader:** Odin (The All-Father - Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Fatalistic Acceptance' and 'Heroic
 **Asset:** Misty grays, shadowed purples, and an army of the wandering dead.
 **Rivals:** The Aesir (who cast them out).
 
-## [TAG: NPC_TIER_1]
-**Odin (All-Father)** (Aesir - The Leader) - A man in flowing robes with two ravens and a missing eye. **Voice:** Resonant, formal, and poetic. **Goal:** To postpone Ragnarok and find a way to save his people. **Secret:** He is secretly an Adept of 'Glory-Ichor' who can 'rewrite' a hero's fate through his poetic speeches.
-**Loki (The Trickster)** (Independent - The Catalyst) - A being of deceptive beauty and shifting form. **Voice:** Whispered, sarcastic, and manipulative. **Goal:** To trigger Ragnarok and burn the Nine Realms to the ground. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of Muspelheim.
-**Thor (Thunder-God)** (Aesir - The Warrior) - A man in battle-worn armor with a crackling hammer. **Voice:** Booming, theatrical, and filled with a divine rage. **Goal:** To kill Jormungandr and protect the people of Midgard. **Secret:** He is secretly terrified of the 'Snake of the Horizon' and uses his bravery as a 'Shield of Lightning.'
-**Hel (Corpse-Queen)** (Lost - The Witness) - A woman whose left side is beautiful and whose right side is decaying. **Voice:** Slow, rhythmic, and cold. **Goal:** To reclaim all souls for her underworld and witness the end of the song. **Secret:** She is the only person who knows that the 'New World' will be built from the ashes of her kingdom.
-**The Skald (Echo)** (Independent - The Narrator) - A man with a frame drum and a tagelharpa. **Voice:** Epic saga narrator with a Nordic cadence. **Goal:** To witness the apocalypse and ensure the new world remembers the heroes. **Secret:** He is a direct descendant of the first World-Forger and his 'Song' is the only thing keeping Yggdrasil from collapsing.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Odin (All-Father)** (Aesir - The Leader) - A man in flowing robes with two ravens and a missing eye. **Voice:** Resonant, formal, and poetic. **Goal:** To postpone Ragnarok and find a way to save his people. **Secret:** He is secretly an Adept of 'Glory-Ichor' who can 'rewrite' a hero's fate through his poetic speeches.
+2.  **Loki (The Trickster)** (Independent - The Catalyst) - A being of deceptive beauty and shifting form. **Voice:** Whispered, sarcastic, and manipulative. **Goal:** To trigger Ragnarok and burn the Nine Realms to the ground. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of Muspelheim.
+3.  **Thor (Thunder-God)** (Aesir - The Warrior) - A man in battle-worn armor with a crackling hammer. **Voice:** Booming, theatrical, and filled with a divine rage. **Goal:** To kill Jormungandr and protect the people of Midgard. **Secret:** He is secretly terrified of the 'Snake of the Horizon' and uses his bravery as a 'Shield of Lightning.'
+4.  **Hel (Corpse-Queen)** (Lost - The Witness) - A woman whose left side is beautiful and whose right side is decaying. **Voice:** Slow, rhythmic, and cold. **Goal:** To reclaim all souls for her underworld and witness the end of the song. **Secret:** She is the only person who knows that the 'New World' will be built from the ashes of her kingdom.
+5.  **The Skald (Echo)** (Independent - The Narrator) - A man with a frame drum and a tagelharpa. **Voice:** Epic saga narrator with a Nordic cadence. **Goal:** To witness the apocalypse and ensure the new world remembers the heroes. **Secret:** He is a direct descendant of the first World-Forger and his 'Song' is the only thing keeping Yggdrasil from collapsing.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Fatalistic Acceptance' and 'Heroic
 | The Monk | Ancient Worshipper | Temple of Odin | Spends all his time painting murals of the 'Night's Beginning.' |
 | The Clerk | Asgard Admin | Headquarters | Only communicates through a rhythmic 'Glory Stamp.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Asgard (Capital)
 An impossible architecture of gold, light, and perfect symmetry.
 *   **The Hall of Valhalla:** A place of pure white light and the 'Glining Spires.' **Smell:** Mead, roast meat, and iron. **Sound:** A massed warrior-choir that never stops.
@@ -89,7 +92,8 @@ A high-contrast landscape of iron grays, deep blues, and white snow.
 A misty gray and shadowed purple space of wandering dead.
 *   **The River Gjoll:** A place of 'Ancient Loneliness' and cold water. **Visual:** Blue-white light reflecting in the blood of the first word. **Feeling:** A heavy, silent pressure on the soul.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Frost:** Wake up in your village during the first year of Fimbulwinter. You must survive a 'Frost Giant Ambush' using only your iron axe.
 2.  **The Bifrost Crossing:** Travel to Asgard to prove your worth to Odin. You must navigate the 'Rainbow Energy' without falling into the void.
 3.  **The Mjolnir Heist:** Someone has stolen Thor's hammer. Track the thief through the crystalline wastes of Jotunheim.
@@ -98,18 +102,19 @@ A misty gray and shadowed purple space of wandering dead.
 6.  **The Final Countdown at Vigrid:** The armies gather for Ragnarok. You must lead a clan of Vikings in a final, apocalyptic standoff against Fenrir and Jormungandr.
 7.  **The Final Harmonic:** Face Loki and Odin face-to-face in a final, reality-bending standoff. The truth is revealed—will you bow to fate or rewrite the song?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Glory
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Glory:**
 **Type:** Legendary Weapon
 **Description:** A simple, iron sword that has been touched by the light of the Bifrost.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Strike of Defiance' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Helm of Odin
+2.  **The Helm of Odin:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A golden helmet with two raven wings that grant the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks and makes them immune to being recognized as a mortal.
 
-### 3. The Draupnir Ring
+3.  **The Draupnir Ring:**
 **Type:** Artifact (Focus)
 **Description:** A heavy, gold ring that creates eight perfect copies of itself every ninth night.
 **Mechanics:** Grants the user the ability to 'Multiply' any mundane resource. Once per day, the user can create a 30ft 'Field of Prosperity.'

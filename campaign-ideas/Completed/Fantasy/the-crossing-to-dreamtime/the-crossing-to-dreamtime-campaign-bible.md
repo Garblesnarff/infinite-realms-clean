@@ -18,7 +18,8 @@ The World is not a floor; it's a song that's being sung by an invisible breath. 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Endless Disguises.' It is about the 'Human Resilience' of the spirit—the realization that you need the choice to appreciate the destiny. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal book?' It explores the beautiful mysticism of the Aboriginal tradition, the pride in mastering a ritual, and the multiple, resonant voice of a storyteller who understands that every second is a gift. The players are the seekers and elders who must navigate the celestial politics and the intensity of a vision quest to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Song Guardians (The Order)
 **Type:** Martial/Sacred Defense Brotherhood
 **Leader:** The High Elder (equivalent).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless D
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The High Elder** (Order - The Lead) - A being whose voice is rhythmic, repetitive, and wise. **Voice:** Storyteller by the fire, measured pacing, rhythmic words. **Goal:** To protect the 'Spirit Balance' and guide the new seekers. **Secret:** He is secretly an Adept of 'Ancestral-Energy' who can 'rewrite' a soul's destiny through his campfire stories.
-**The Devourer** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all spiritual talent into a single 'Global Colony' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Rainbow Serpent** (Independent - The Catalyst) - A being whose voice is energetic, mischievous, and theatrical. **Voice:** Scraggy trickster (equivalent), noble figure later, playful delivery. **Goal:** To teach through laughter and confusion, stopping the order-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the spirit clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless vision-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Ancestors' presence that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the song ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The High Elder** (Order - The Lead) - A being whose voice is rhythmic, repetitive, and wise. **Voice:** Storyteller by the fire, measured pacing, rhythmic words. **Goal:** To protect the 'Spirit Balance' and guide the new seekers. **Secret:** He is secretly an Adept of 'Ancestral-Energy' who can 'rewrite' a soul's destiny through his campfire stories.
+2.  **The Devourer** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all spiritual talent into a single 'Global Colony' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Rainbow Serpent** (Independent - The Catalyst) - A being whose voice is energetic, mischievous, and theatrical. **Voice:** Scraggy trickster (equivalent), noble figure later, playful delivery. **Goal:** To teach through laughter and confusion, stopping the order-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the spirit clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless vision-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Ancestors' presence that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the song ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Endless D
 | The Monk | Ancient Worshipper | Song Temple | Spends all his time painting murals of the 'Verse's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Sacred Mountain (The Hub)
 A grand stone monument to architecture, petroglyphs, and ritual.
 *   **The Council Circle:** A site of 'Refined Formality' and harsh cellular rituals. **Smell:** Vanilla, old stone, and sage. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and dreamlike architecture.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Spirit Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Shadow Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Elder Run:** Navigate the traditional territories to find The High Elder. You must identify the 'Ancestral-Energy' node before the rivals arrive.
 3.  **The Ritual Heist:** Infiltrate the Shadow HQ to retrieve a stolen 'Ritual-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Ancestors face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Balance (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Balance (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Divine Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Ochre Signet (Equivalent)
+2.  **The Ochre Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the ochre seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Ancestral-Energy Capsule (Equivalent)
+3.  **The Ancestral-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Shadow' magic.

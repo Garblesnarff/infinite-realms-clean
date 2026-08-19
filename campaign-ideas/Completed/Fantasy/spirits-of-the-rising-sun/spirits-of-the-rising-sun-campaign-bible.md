@@ -18,7 +18,8 @@ The World is not a floor; it's a mirror that's being polished by an invisible ha
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Duty.' It is about the 'Human Resilience' of the spirit—the realization that you need the sadness of the things to appreciate the beauty of the life. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal scroll?' It explores the beautiful mysticism of the Japanese tradition, the pride in mastering a sacred dance, and the elegant, resonant voice of a narrator who understands that every moment is a prayer. The players are the mortals and guides who must navigate the feudal politics and the intensity of a yokai battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Shinto Guardians (The Order)
 **Type:** Martial/Sacred Defense Brotherhood
 **Leader:** Amaterasu (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Amaterasu** (Order - The Lead) - A woman of divine white and gold whose voice is elegant and measured. **Voice:** Formal, respectful of spirits and duty, aware of transience. **Goal:** To protect the 'Wa Balance' and guide the new mortals. **Secret:** She is secretly an Adept of 'Harmony-Energy' who can 'rewrite' a soul's destiny through her sacred dances.
-**Susanoo** (Shadow - The Villain) - A being of storm-tossed garments whose voice is arrogant and measured. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To consolidate all biological talent into a single 'Global Storm' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Tsukuyomi** (Independent - The Catalyst) - A being of lunar silver whose voice is measured, thoughtful, and scholarly. **Voice:** Lunar silver, measured and thoughtful. **Goal:** To find the 'destination' and stop the chaos-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the island noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless feudal-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Wa's scale that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the rising sun ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Amaterasu** (Order - The Lead) - A woman of divine white and gold whose voice is elegant and measured. **Voice:** Formal, respectful of spirits and duty, aware of transience. **Goal:** To protect the 'Wa Balance' and guide the new mortals. **Secret:** She is secretly an Adept of 'Harmony-Energy' who can 'rewrite' a soul's destiny through her sacred dances.
+2.  **Susanoo** (Shadow - The Villain) - A being of storm-tossed garments whose voice is arrogant and measured. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To consolidate all biological talent into a single 'Global Storm' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Tsukuyomi** (Independent - The Catalyst) - A being of lunar silver whose voice is measured, thoughtful, and scholarly. **Voice:** Lunar silver, measured and thoughtful. **Goal:** To find the 'destination' and stop the chaos-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the island noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless feudal-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Wa's scale that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the rising sun ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Flow Temple | Spends all his time painting murals of the 'Shine's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Takamagahara (The Hub)
 A grand aquatic monument to architecture, palaces, and divine light.
 *   **The Solar Throne:** A site of 'Refined Formality' and harsh cellular rituals. **Smell:** Vanilla, old stone, and cherry blossoms. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and underground darkness.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Harmony Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Yokai Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Amaterasu Run:** Navigate the traditional territories to find Amaterasu. You must identify the 'Harmony-Energy' node before the rivals arrive.
 3.  **The Gate Heist:** Infiltrate the Yomi HQ to retrieve a stolen 'Torii-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Susanoo face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Wa (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Wa (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Sacred Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mirror Signet (Equivalent)
+2.  **The Mirror Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mirror seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Harmony-Energy Capsule (Equivalent)
+3.  **The Harmony-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Chaos' magic.

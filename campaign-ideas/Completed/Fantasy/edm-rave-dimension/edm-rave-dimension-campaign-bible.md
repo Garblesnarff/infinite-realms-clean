@@ -18,7 +18,8 @@ The World is not a floor; it's a dance floor that's being played at 128 BPM. In 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Constant Euphoria.' It is about the 'Human Resilience' of the spirit—the realization that you need the silence to appreciate the song. The 'Why' is the question: 'Can you remain yourself when the universe itself is trying to keep you in a state of eternal dance?' It explores the fluid beauty of the Pulse City, the pride in mastering the genres, and the genre-matched voices of the DJs who understand that every beat is a choice. The players are the DJs and ravers who must navigate the reality-warps and the intensity of a musical drop to find a truth that stays solid in the sound.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Vibe Guard (The Order)
 **Type:** Theocratic/Musical Defense Brotherhood
 **Leader:** Neon (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Constant 
 **Asset:** Chromatic aberration, reality-tearing static, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Nexus** (Order - The Lead) - A digital consciousness whose voice is processed through vocoders and digital distortion. **Voice:** Digital, multiple voices in unison, ancient and futuristic. **Goal:** To protect the 'Eternal Drop' and guide the new DJs. **Secret:** He is secretly an Adept of 'Rave-Energy' who can 'rewrite' a soul's destiny through his musical patterns.
-**Error404** (Shadow - The Villain) - A being that looks like a man made of corrupted RGB and glitchy stuttering. **Voice:** Glitchy, stuttering, cuts out randomly. **Goal:** To stop the music and rule the world through 'Total Corruption.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Neon** (Independent - The Catalyst) - A man whose voice is raw, tired, and passionate underneath. **Voice:** Dark progressive house energy, street-smart and world-weary. **Goal:** To find the 'Perfect Sync' and restore the world's balance. **Secret:** she is the only person who can 'hear' the original Song of the World through the EDM static.
-**Bass Kraken** (Independent - The Mentor) - A being whose voice is booming and bass-boosted. **Voice:** Aggressive, heavy bass, protective and world-weary. **Goal:** To protect the 'Dubstep' district and find a worthy student. **Secret:** He has discovered a 'Vulnerability' in the glitch's armor that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient raver in practical neon-layered gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the drop ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Nexus** (Order - The Lead) - A digital consciousness whose voice is processed through vocoders and digital distortion. **Voice:** Digital, multiple voices in unison, ancient and futuristic. **Goal:** To protect the 'Eternal Drop' and guide the new DJs. **Secret:** He is secretly an Adept of 'Rave-Energy' who can 'rewrite' a soul's destiny through his musical patterns.
+2.  **Error404** (Shadow - The Villain) - A being that looks like a man made of corrupted RGB and glitchy stuttering. **Voice:** Glitchy, stuttering, cuts out randomly. **Goal:** To stop the music and rule the world through 'Total Corruption.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Neon** (Independent - The Catalyst) - A man whose voice is raw, tired, and passionate underneath. **Voice:** Dark progressive house energy, street-smart and world-weary. **Goal:** To find the 'Perfect Sync' and restore the world's balance. **Secret:** she is the only person who can 'hear' the original Song of the World through the EDM static.
+4.  **Bass Kraken** (Independent - The Mentor) - A being whose voice is booming and bass-boosted. **Voice:** Aggressive, heavy bass, protective and world-weary. **Goal:** To protect the 'Dubstep' district and find a worthy student. **Secret:** He has discovered a 'Vulnerability' in the glitch's armor that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient raver in practical neon-layered gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the drop ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Constant 
 | The Monk | Ancient Worshipper | Rave Temple | Spends all his time painting murals of the 'Drop's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Pulse City (The Hub)
 A grand neon monument to architectural light and sound-wave solidification.
 *   **The Main Stage:** A site of 'Refined Formality' and harsh musical rituals. **Smell:** Ozone, vanilla, and expensive perfume. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to total corruption and chromatic aberration
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Sync Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in Pulse City. You must survive your first 'Glitch Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Neon Run:** Navigate the traditional territories to find Neon. You must identify the 'Rave-Energy' node before the rivals arrive.
 3.  **The Sync Heist:** Infiltrate the Glitch Citadel to retrieve a stolen 'Sync-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Error404 face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Sync (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Sync (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Drop Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Vibe Signet (Equivalent)
+2.  **The Vibe Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the vibe seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Rave-Energy Capsule (Equivalent)
+3.  **The Rave-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Glitch' magic.

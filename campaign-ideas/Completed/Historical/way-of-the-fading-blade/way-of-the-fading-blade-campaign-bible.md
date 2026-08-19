@@ -344,36 +344,36 @@ The burning of coal releases "Dead Air," which displaces "Living Breath" (Ki). I
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Weeping Sword | Blacksmith | Find a sword that cries at night. | Blade of Mercy (Non-lethal +2) |
-| The Lost Photograph | Graham | Retrieve a camera from a tengu. | Spirit Photography Skill |
-| The Tea Ceremony | Lady Taka | Perfect the ceremony (3 successes). | Calm Mind (Feat) |
-| The Traitor within | Ujio | Find the spy in the village. | Ujio's Trust |
-| The Steam Demon | Villager | Destroy a rogue tractor. | Scrap Metal |
-| The Silent Bell | Monk | Ring the bell that makes no sound. | Invisibility Cloak |
-| The Emperor's Cat | Chamberlain | Catch the royal feline without touching it. | Imperial Favor |
-| The Broken Geisha | Madam Yuki | Retrieve her contract from the Yakuza. | Poison Fan |
-| The Foreign Letters | Capt. Algren | Deliver letters to the port. | Western Rifle |
-| The Ghost of the Track | Foreman | Exorcise the tunnel spirit. | Rail Pass |
-| The Origami Birds | Child | Fold 1,000 cranes in one night. | Wish (Minor) |
-| The Drunken Master | Old Man | Buy him sake until he passes out. | Martial Arts Move |
-| The Cherry Tree | Gardener | Cure the sick sacred tree. | Cherry Blossom Amulet |
-| The Duel at Dawn | Ronin | Survive 3 rounds. | Katana Mastery |
-| The Merchant's Debt | Omura | Intimidate a shopkeeper. | Gold (Dishonorable) |
-| The Kabuki Mask | Actor | Steal the mask from the rival theater. | Disguise Kit |
-| The Unexploded Shell | Soldier | Disarm a dud artillery shell. | Explosives |
-| The Ancestor's Shrine | Spirit | Rebuild the shrine. | Spirit Blessing |
-| The Poisoned Rice | Farmer | Investigate the water source. | Antidote Recipe |
-| The Love Letter | Teenager | Deliver a haiku to a crush. | Charisma Buff |
-| The Blind Archer | Master | Hit a target blindfolded. | Zen Archery |
-| The Western Suit | Tailor | Model a suit for the tailor. | Fancy Suit (+Social) |
-| The Runaway Train | Engineer | Stop the train before the cliff. | Engineer Goggles |
-| The Shadow Puppet | Child | Defeat the shadow puppet that came to life. | Shadow Dagger |
-| The Burning Library | Scribe | Save 5 scrolls. | Lore Knowledge |
-| The Cursed Mirror | Geisha | Don't look in the mirror for 24 hours. | True Sight |
-| The Golden Carp | Fisher | Catch the legendary fish. | Luck +1 |
-| The Silent Flute | Musician | Fix the broken flute. | Bardic Inspiration |
-| The Rice Tax | Peasant | Hide the rice from the tax collector. | Peasant Loyalty |
-| The Final Haiku | Dying Samurai | Write his death poem. | Honor +5 |
+| **The Weeping Sword** | Blacksmith | Find a sword that cries at night. | Blade of Mercy (Non-lethal +2) |
+| **The Lost Photograph** | Graham | Retrieve a camera from a tengu. | Spirit Photography Skill |
+| **The Tea Ceremony** | Lady Taka | Perfect the ceremony (3 successes). | Calm Mind (Feat) |
+| **The Traitor within** | Ujio | Find the spy in the village. | Ujio's Trust |
+| **The Steam Demon** | Villager | Destroy a rogue tractor. | Scrap Metal |
+| **The Silent Bell** | Monk | Ring the bell that makes no sound. | Invisibility Cloak |
+| **The Emperor's Cat** | Chamberlain | Catch the royal feline without touching it. | Imperial Favor |
+| **The Broken Geisha** | Madam Yuki | Retrieve her contract from the Yakuza. | Poison Fan |
+| **The Foreign Letters** | Capt. Algren | Deliver letters to the port. | Western Rifle |
+| **The Ghost of the Track** | Foreman | Exorcise the tunnel spirit. | Rail Pass |
+| **The Origami Birds** | Child | Fold 1,000 cranes in one night. | Wish (Minor) |
+| **The Drunken Master** | Old Man | Buy him sake until he passes out. | Martial Arts Move |
+| **The Cherry Tree** | Gardener | Cure the sick sacred tree. | Cherry Blossom Amulet |
+| **The Duel at Dawn** | Ronin | Survive 3 rounds. | Katana Mastery |
+| **The Merchant's Debt** | Omura | Intimidate a shopkeeper. | Gold (Dishonorable) |
+| **The Kabuki Mask** | Actor | Steal the mask from the rival theater. | Disguise Kit |
+| **The Unexploded Shell** | Soldier | Disarm a dud artillery shell. | Explosives |
+| **The Ancestor's Shrine** | Spirit | Rebuild the shrine. | Spirit Blessing |
+| **The Poisoned Rice** | Farmer | Investigate the water source. | Antidote Recipe |
+| **The Love Letter** | Teenager | Deliver a haiku to a crush. | Charisma Buff |
+| **The Blind Archer** | Master | Hit a target blindfolded. | Zen Archery |
+| **The Western Suit** | Tailor | Model a suit for the tailor. | Fancy Suit (+Social) |
+| **The Runaway Train** | Engineer | Stop the train before the cliff. | Engineer Goggles |
+| **The Shadow Puppet** | Child | Defeat the shadow puppet that came to life. | Shadow Dagger |
+| **The Burning Library** | Scribe | Save 5 scrolls. | Lore Knowledge |
+| **The Cursed Mirror** | Geisha | Don't look in the mirror for 24 hours. | True Sight |
+| **The Golden Carp** | Fisher | Catch the legendary fish. | Luck +1 |
+| **The Silent Flute** | Musician | Fix the broken flute. | Bardic Inspiration |
+| **The Rice Tax** | Peasant | Hide the rice from the tax collector. | Peasant Loyalty |
+| **The Final Haiku** | Dying Samurai | Write his death poem. | Honor +5 |
 
 ---
 

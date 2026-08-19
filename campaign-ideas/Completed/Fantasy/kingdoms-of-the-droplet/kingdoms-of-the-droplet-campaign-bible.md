@@ -18,7 +18,8 @@ The World is not a floor; it's a droplet that's being played by an invisible cur
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Industrial Decay.' It is about the 'Human Resilience' of the spirit—the realization that you need the purity of the water to appreciate the complexity of the cell. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal machine (equivalent)?' It explores the translucent beauty of the microscopic world, the pride in mastering a current, and the aquatic, resonant voice of a narrator who understands that every second is a gift. The players are the paramecia and amoebas who must navigate the chemical clouds and the intensity of a cellular division to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Ciliary Order (The Order)
 **Type:** Martial/Diplomatic Defense Brotherhood
 **Leader:** Governor Cilia (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Governor Cilia** (Order - The Lead) - A being whose voice is professional, diplomatic, and coordinated. **Voice:** Female, diplomatic, coordinated percussion. **Goal:** To protect the 'Humanity' of the droplet and guide the new microorganisms. **Secret:** She is secretly an Adept of 'Aquatic-Energy' who can 'rewrite' a soul's destiny through her ciliary patterns.
-**Emperor Pseudopod** (Shadow - The Villain) - A being whose voice is shifting, commanding, and fluid. **Voice:** Shifting vocal quality, masculine, commanding but fluid. **Goal:** To consolidate all biological talent into a single 'Global Colony' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Scholar Wheel** (Independent - The Catalyst) - A rotifer whose voice is measured, thoughtful, and scholarly. **Voice:** Elderly professor, measured and thoughtful. **Goal:** To find the 'One True Source' and stop the pollution-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the aquatic noise.
-**Captain Tardig** (Independent - The Mentor) - A tardigrade whose body is a map of countless current-scars. **Voice:** Gruff mercenary, Scottish accent, tough but loyal. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the pollution's chemistry that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical aquatic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the droplet ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Governor Cilia** (Order - The Lead) - A being whose voice is professional, diplomatic, and coordinated. **Voice:** Female, diplomatic, coordinated percussion. **Goal:** To protect the 'Humanity' of the droplet and guide the new microorganisms. **Secret:** She is secretly an Adept of 'Aquatic-Energy' who can 'rewrite' a soul's destiny through her ciliary patterns.
+2.  **Emperor Pseudopod** (Shadow - The Villain) - A being whose voice is shifting, commanding, and fluid. **Voice:** Shifting vocal quality, masculine, commanding but fluid. **Goal:** To consolidate all biological talent into a single 'Global Colony' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Scholar Wheel** (Independent - The Catalyst) - A rotifer whose voice is measured, thoughtful, and scholarly. **Voice:** Elderly professor, measured and thoughtful. **Goal:** To find the 'One True Source' and stop the pollution-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the aquatic noise.
+4.  **Captain Tardig** (Independent - The Mentor) - A tardigrade whose body is a map of countless current-scars. **Voice:** Gruff mercenary, Scottish accent, tough but loyal. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the pollution's chemistry that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient researcher in practical aquatic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the droplet ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Industria
 | The Monk | Ancient Worshipper | Flow Temple | Spends all his time painting murals of the 'Ripple's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Kingdoms of the Droplet (The Hub)
 A grand aquatic monument to architecture, currents, and translucent beauty.
 *   **The High Hall:** A site of 'Refined Formality' and harsh cellular rituals. **Smell:** Vanilla, old stone, and fresh water. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to chemical clouds and dead cells.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Flow Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a droplet. You must survive your first 'Pollution Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Cilia Run:** Navigate the traditional territories to find Governor Cilia. You must identify the 'Aquatic-Energy' node before the rivals arrive.
 3.  **The Current Heist:** Infiltrate the Pollution HQ to retrieve a stolen 'Current-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Emperor Pseudopod face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Flow (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Flow (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Aquatic Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Current Signet (Equivalent)
+2.  **The Current Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the current seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Aquatic-Energy Capsule (Equivalent)
+3.  **The Aquatic-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Chemical' magic.

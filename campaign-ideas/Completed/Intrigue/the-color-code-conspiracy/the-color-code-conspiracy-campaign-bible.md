@@ -18,7 +18,8 @@ The Soul is not a person; it's a frequency. In the world of high-stakes crime, t
 ### The 'Why'
 The central conflict is the struggle for 'Self-Preservation' in a world of 'Mutual Destruction.' It is about the 'Claustrophobic Paranoia' of being trapped with armed strangers who may be your killers. The 'Why' is the question: 'Who is the rat, and how much blood are you willing to spill to find them?' It explores the aggressive lines of violent tension, the tragedy of the 'Blood-Soaked Consequence,' and the dark humor of professional criminals who know they're probably going to die. The players are the color-coded criminals who must navigate the lethal geometry of the standoff to survive the night.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Color-Coded Syndicate (The Strangers)
 **Type:** Elite/Anonymous Criminal Cell
 **Leader:** The Architect (Unseen).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Self-Preservation' in a world of 'Mutu
 **Asset:** Access to industrial tools, illegal medicine, and a professional distance.
 **Rivals:** None (officially).
 
-## [TAG: NPC_TIER_1]
-**Ruby** (Criminal - Smooth Leader) - A man in a ruby-red suit with a calculated criminal cool. **Voice:** Smooth, controlled, and darkly humorous. **Goal:** To restore order and find the rat before everyone dies. **Secret:** He is already dying of a gunshot wound and is using his 'Cool' to hide the pain.
-**Emerald** (Criminal - Explosive Thug) - A man in an emerald-green tie with a hair-trigger temper. **Voice:** Sharp, aggressive, and profane. **Goal:** To kill everyone in the room until the rat is found. **Secret:** He was the one who 'accidentally' killed the civilian during the heist.
-**Sapphire** (Criminal - Intellectual Expert) - A man in a sapphire-blue vest who sees the room as a puzzle. **Voice:** Precise, clinical, and increasingly paranoid. **Goal:** To calculate the probability of survival and find the most logical escape route. **Secret:** He has evidence that the 'Rat' is actually the Architect himself.
-**Gold** (Criminal - Desperate Rookie) - A man in a gold-trimmed suit who is way over his head. **Voice:** High-pitched, frantic, and filled with a 'Fake' bravado. **Goal:** To stay alive and get his share of the loot. **Secret:** He is the police officer's son, a fact he is desperately trying to hide.
-**Crimson** (Criminal - Professional Killer) - A man in a crimson-stained shirt who doesn't talk much. **Voice:** Gruff, economical, and professional. **Goal:** To finish the job and eliminate all witnesses. **Secret:** He is a 'Perfected' operative who doesn't care who the rat is—everyone is a target.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Ruby** (Criminal - Smooth Leader) - A man in a ruby-red suit with a calculated criminal cool. **Voice:** Smooth, controlled, and darkly humorous. **Goal:** To restore order and find the rat before everyone dies. **Secret:** He is already dying of a gunshot wound and is using his 'Cool' to hide the pain.
+2.  **Emerald** (Criminal - Explosive Thug) - A man in an emerald-green tie with a hair-trigger temper. **Voice:** Sharp, aggressive, and profane. **Goal:** To kill everyone in the room until the rat is found. **Secret:** He was the one who 'accidentally' killed the civilian during the heist.
+3.  **Sapphire** (Criminal - Intellectual Expert) - A man in a sapphire-blue vest who sees the room as a puzzle. **Voice:** Precise, clinical, and increasingly paranoid. **Goal:** To calculate the probability of survival and find the most logical escape route. **Secret:** He has evidence that the 'Rat' is actually the Architect himself.
+4.  **Gold** (Criminal - Desperate Rookie) - A man in a gold-trimmed suit who is way over his head. **Voice:** High-pitched, frantic, and filled with a 'Fake' bravado. **Goal:** To stay alive and get his share of the loot. **Secret:** He is the police officer's son, a fact he is desperately trying to hide.
+5.  **Crimson** (Criminal - Professional Killer) - A man in a crimson-stained shirt who doesn't talk much. **Voice:** Gruff, economical, and professional. **Goal:** To finish the job and eliminate all witnesses. **Secret:** He is a 'Perfected' operative who doesn't care who the rat is—everyone is a target.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Self-Preservation' in a world of 'Mutu
 | The Oracle | Adept | Dreamlike Flashback | Can 'see' the fragmented, violent moments of the ambush. |
 | 'Static' | Rat Spy | Anywhere | Flickers in and out of your vision when the tension is highest. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Warehouse Safehouse
 A claustrophobic, industrial monument to violent paranoia and cramped proximity.
 *   **The Main Bay:** A site of 'Lethal Geometry' and harsh overhead lighting. **Smell:** Diesel, stale sweat, and wet copper. **Sound:** The rhythmic drip of blood and the click of weapons being cocked.
@@ -88,7 +91,8 @@ A site of 'Sudden Violence' and police sirens.
 A high-contrast landscape of blue-and-red flashing lights and heavy shadows.
 *   **The Barricade:** Where the 'Law' is waiting for the frequency to die. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Aftermath:** Arrive at the warehouse blood-soaked and paranoid. You must participate in the 'First Standoff' and decide who to aim your weapon at.
 2.  **The Cop's Testimony:** Interrogate the captured police officer. You must use your 'Criminal Cool' to find out how they knew the heist was happening.
 3.  **The Evidence Heist:** Someone has attempted to burn the 'Alias Files' in the warehouse furnace. You must rescue the fragments before they become ash.
@@ -97,18 +101,19 @@ A high-contrast landscape of blue-and-red flashing lights and heavy shadows.
 6.  **The Siege Defense:** The police have begun their assault. You must defend the loading bay while your own reality is skipping frames.
 7.  **The Final Bloodletting:** Face the 'Rat' face-to-face in the center of the warehouse. The truth is revealed through 'Explosive Rage' and mutual respect as the frequency finally stops.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Ruby-Red Suit
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Ruby-Red Suit:**
 **Type:** Wondrous Item (Armor)
 **Description:** A perfectly tailored, ruby-red business suit that seems to absorb blood.
 **Mechanics:** Grants the wearer +5 to all Charisma (Intimidation and Deception) checks. Once per day, the wearer can 'Freeze' a standoff for 1 round, allowing them to take a free action.
 
-### 2. The Sapphire Encryption Radio
+2.  **The Sapphire Encryption Radio:**
 **Type:** Wondrous Item
 **Description:** A small, high-tech radio that hums with the key of the Syndicate.
 **Mechanics:** Grants the user the ability to 'See' the frequency of any communication in the room. Once per day, the user can 'Silence' an enemy's communication for 1 hour.
 
-### 3. Gold's Panic Button
+3.  **Gold's Panic Button:**
 **Type:** Artifact (Focus)
 **Description:** A small, golden device that triggers a 'Saturated Flash' of reality.
 **Mechanics:** Grants the user the ability to 'Teleport' up to 30 feet once per day. When triggered, all enemies within 10 feet must succeed on a DC 15 Wisdom save or be blinded for 1 round.

@@ -122,56 +122,56 @@ The conflict is between **Narrative Continuity (The Weave)** and **Egoist Solips
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Gribble | Rat-Catcher | Nelwyn Village | Speaks to rats as if they are royalty. |
-| Odo | Baker | Nelwyn Village | Kneads dough with his feet (sanitary magic). |
-| Kian | Guard | Crossroads | Cannot turn left due to superstition. |
-| Elara | Barmaid | The Slaughtered Lamb | Her reflection moves 3 seconds late. |
-| Brother Oaf | Monk | Roadside Shrine | Worships a turnip he believes is a god. |
-| Sylas | Merchant | Wagon Train | Sells "invisible clothes" (he is naked). |
-| Vark | Bandit | The Wilds | Writes bad poetry on his victims' foreheads. |
-| Meegosh | Farmer | Nelwyn Village | Sneezes when near lies. |
-| Tallow | Chandler | Tir Asleen | Made entirely of wax, melting slowly. |
-| Hoggle | Guide | Fairy Woods | Obsessed with collecting shiny beetles. |
-| Ulg | Troll | Mountain Pass | Thinks he is a delicate butterfly. |
-| Zephyr | Sky-Sailor | Vane | Has clouds instead of hair. |
-| Grig | Miner | Deep Mines | Eats rocks to taste the ore quality. |
-| Lyla | Herbalist | Forest Edge | Plants grow from her footprints. |
-| Crunk | Bouncer | Tavern | Is actually three gnomes in a trench coat. |
-| Yarrow | Beggar | City Gates | Can smell upcoming rain 3 days away. |
-| Fen | Fisher | River | Catches fish that whisper secrets. |
-| Gorn | Orc | Badlands | Pacifist who knits sweaters for wolves. |
-| Hess | Scribe | Library | Ink bleeds from his fingertips. |
-| Jinx | Thief | Capital | Steals only left shoes. |
-| Pult | Catapult Operator | Siege Line | Names every rock he throws. |
-| Vera | Seamstress | Royal Court | Stitches silence into loud clothes. |
-| Dorm | Sleeper | Dream Plane | Hasn't woken up in 40 years; projects astral form. |
-| Kix | Courier | Highway | Runs so fast his clothes catch fire. |
-| Mott | Stablehand | Inn | Horses speak human to him; he hates it. |
-| Zook | Alchemist | Basement | Skin turns blue when he lies. |
-| Brin | Bard | Square | Lute has no strings, plays via telekinesis. |
-| Yenta | Gossip | Market | Her whispers echo 100 feet away. |
-| Flogg | Executioner | Dungeon | Apologizes profusely before chopping. |
-| Lim | Acrobat | Circus | Gravity affects him at 50% strength. |
-| Nott | Goblin | Ruins | Believes he is the King of Dirt. |
-| Sallow | Undertaker | Graveyard | Measures people for coffins while they live. |
-| Risp | Spy | Shadows | Has no face, just smooth skin. |
-| Tul | Cook | Army Camp | Seasons food with gunpowder. |
-| Vex | Warlock | Tower | Patron is a sentient math equation. |
-| Hiss | Serpent-Man | Swamp | Sheds skin when embarrassed. |
-| Crag | Golem | Gate | Wants to learn to dance. |
-| Miri | Child | Street | Her shadow moves independently. |
-| Bop | Jester | Court | Jokes cause physical pain to listeners. |
-| Quin | Fletcher | Shop | Arrows always curve slightly left. |
-| Zant | Sorcerer | Spire | Casts spells by sneezing. |
-| Dell | Farmer | Fields | Grows square pumpkins only. |
-| Runt | Dog | Alley | Can speak one word: "Doom." |
-| Tess | Weaver | Loom | Weaves future events into rugs. |
-| Glim | Lantern | Street | A living lantern (construct). |
-| Pox | Leper | Sewers | His diseases cure other diseases. |
-| Urk | Brute | Guardhouse | Afraid of anything yellow. |
-| Sal | Sailor | Docks | Has gills he hides with a scarf. |
-| Noon | Watchman | Tower | Blind, but sees heat signatures. |
-| Xar | Hermit | Cave | Is actually a polymorphed dragon, unaware. |
+| **Gribble** | Rat-Catcher | Nelwyn Village | Speaks to rats as if they are royalty. |
+| **Odo** | Baker | Nelwyn Village | Kneads dough with his feet (sanitary magic). |
+| **Kian** | Guard | Crossroads | Cannot turn left due to superstition. |
+| **Elara** | Barmaid | The Slaughtered Lamb | Her reflection moves 3 seconds late. |
+| **Brother Oaf** | Monk | Roadside Shrine | Worships a turnip he believes is a god. |
+| **Sylas** | Merchant | Wagon Train | Sells "invisible clothes" (he is naked). |
+| **Vark** | Bandit | The Wilds | Writes bad poetry on his victims' foreheads. |
+| **Meegosh** | Farmer | Nelwyn Village | Sneezes when near lies. |
+| **Tallow** | Chandler | Tir Asleen | Made entirely of wax, melting slowly. |
+| **Hoggle** | Guide | Fairy Woods | Obsessed with collecting shiny beetles. |
+| **Ulg** | Troll | Mountain Pass | Thinks he is a delicate butterfly. |
+| **Zephyr** | Sky-Sailor | Vane | Has clouds instead of hair. |
+| **Grig** | Miner | Deep Mines | Eats rocks to taste the ore quality. |
+| **Lyla** | Herbalist | Forest Edge | Plants grow from her footprints. |
+| **Crunk** | Bouncer | Tavern | Is actually three gnomes in a trench coat. |
+| **Yarrow** | Beggar | City Gates | Can smell upcoming rain 3 days away. |
+| **Fen** | Fisher | River | Catches fish that whisper secrets. |
+| **Gorn** | Orc | Badlands | Pacifist who knits sweaters for wolves. |
+| **Hess** | Scribe | Library | Ink bleeds from his fingertips. |
+| **Jinx** | Thief | Capital | Steals only left shoes. |
+| **Pult** | Catapult Operator | Siege Line | Names every rock he throws. |
+| **Vera** | Seamstress | Royal Court | Stitches silence into loud clothes. |
+| **Dorm** | Sleeper | Dream Plane | Hasn't woken up in 40 years; projects astral form. |
+| **Kix** | Courier | Highway | Runs so fast his clothes catch fire. |
+| **Mott** | Stablehand | Inn | Horses speak human to him; he hates it. |
+| **Zook** | Alchemist | Basement | Skin turns blue when he lies. |
+| **Brin** | Bard | Square | Lute has no strings, plays via telekinesis. |
+| **Yenta** | Gossip | Market | Her whispers echo 100 feet away. |
+| **Flogg** | Executioner | Dungeon | Apologizes profusely before chopping. |
+| **Lim** | Acrobat | Circus | Gravity affects him at 50% strength. |
+| **Nott** | Goblin | Ruins | Believes he is the King of Dirt. |
+| **Sallow** | Undertaker | Graveyard | Measures people for coffins while they live. |
+| **Risp** | Spy | Shadows | Has no face, just smooth skin. |
+| **Tul** | Cook | Army Camp | Seasons food with gunpowder. |
+| **Vex** | Warlock | Tower | Patron is a sentient math equation. |
+| **Hiss** | Serpent-Man | Swamp | Sheds skin when embarrassed. |
+| **Crag** | Golem | Gate | Wants to learn to dance. |
+| **Miri** | Child | Street | Her shadow moves independently. |
+| **Bop** | Jester | Court | Jokes cause physical pain to listeners. |
+| **Quin** | Fletcher | Shop | Arrows always curve slightly left. |
+| **Zant** | Sorcerer | Spire | Casts spells by sneezing. |
+| **Dell** | Farmer | Fields | Grows square pumpkins only. |
+| **Runt** | Dog | Alley | Can speak one word: "Doom." |
+| **Tess** | Weaver | Loom | Weaves future events into rugs. |
+| **Glim** | Lantern | Street | A living lantern (construct). |
+| **Pox** | Leper | Sewers | His diseases cure other diseases. |
+| **Urk** | Brute | Guardhouse | Afraid of anything yellow. |
+| **Sal** | Sailor | Docks | Has gills he hides with a scarf. |
+| **Noon** | Watchman | Tower | Blind, but sees heat signatures. |
+| **Xar** | Hermit | Cave | Is actually a polymorphed dragon, unaware. |
 
 ---
 

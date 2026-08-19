@@ -18,7 +18,8 @@ The World is not a floor; it's a zodiac that's being played by twelve siblings. 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Certainty.' It is about the 'Human Resilience' of the spirit—the realization that you need the other to appreciate the self. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal machine (equivalent)?' It explores the sweeping beauty of the twelve territories, the pride in mastering a negotiation, and the passionate, resonant voice of a narrator who understands that every second is a gift. The players are the walkers and mediators who must navigate the political thrillers and the intensity of a military campaign to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The House-Walkers (The Order)
 **Type:** Martial/Diplomatic Defense Brotherhood
 **Leader:** The High Mediator (equivalent).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The High Mediator** (Order - The Lead) - A man whose voice is weary, authoritative, and resonant. **Voice:** Weary mediator, carrying cosmic burden, multiple languages in unison. **Goal:** To protect the 'Truth of Peace' and guide the new walkers. **Secret:** He is secretly an Adept of 'Zodiac-Energy' who can 'rewrite' a soul's destiny through his diplomatic speeches.
-**The Lord of the Tenth** (Shadow - The Villain) - A being whose voice is hierarchical, arrogant, and measured. **Voice:** Towering figure, status magic, underlying current of greed. **Goal:** To consolidate all twelve territories into a single 'Global Hierarchy' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Storyteller** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the zodiac-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the ideological noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless political-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Thirteenth House's seal that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical zodiac-neutral gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Zodiac ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The High Mediator** (Order - The Lead) - A man whose voice is weary, authoritative, and resonant. **Voice:** Weary mediator, carrying cosmic burden, multiple languages in unison. **Goal:** To protect the 'Truth of Peace' and guide the new walkers. **Secret:** He is secretly an Adept of 'Zodiac-Energy' who can 'rewrite' a soul's destiny through his diplomatic speeches.
+2.  **The Lord of the Tenth** (Shadow - The Villain) - A being whose voice is hierarchical, arrogant, and measured. **Voice:** Towering figure, status magic, underlying current of greed. **Goal:** To consolidate all twelve territories into a single 'Global Hierarchy' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Storyteller** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find her lost partner and stop the zodiac-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the ideological noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless political-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Thirteenth House's seal that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical zodiac-neutral gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Zodiac ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Zodiac Temple | Spends all his time painting murals of the 'Thought's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Thirteenth Ruins (The Hub)
 **Type:** Hub
 **Description:** A massive, high-contrast monument to architecture, ruins, and zodiac energy.
@@ -90,7 +93,8 @@ A dark, reality-distorting monument to body horror and devastation.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Ideology Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first ' Purist Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Walker Run:** Navigate the traditional territories to find the Walker. You must identify the 'Zodiac-Energy' node before the rivals arrive.
 3.  **The Status Heist:** Infiltrate the Tenth Tower to retrieve a stolen 'Status-Focus.' You must bypass the guards.
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Lord of the Tenth face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Status (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Status (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Zodiac Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Status Signet (Equivalent)
+2.  **The Status Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the status seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Zodiac-Energy Capsule (Equivalent)
+3.  **The Zodiac-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Ideological' magic.

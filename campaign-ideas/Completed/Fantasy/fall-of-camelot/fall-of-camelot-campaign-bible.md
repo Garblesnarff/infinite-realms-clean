@@ -18,7 +18,8 @@ The World is not a floor; it's a dream that's being played by a king. In the hea
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Impossible Ideals.' It is about the 'Heroic Resilience' of the human spirit—the realization that beauty is doomed by its own perfection. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single illumination in an eternal manuscript?' It explores the romantic beauty of the medieval romance, the pride in mastering a code of honor, and the noble, formal voice of a chronicler who understands that every attempt is a gift. The players are the knights and chroniclers who must navigate the tragic grandeur and the intensity of a grail quest to find a truth that stays solid in the fall.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Round Table (The Order)
 **Type:** Martial/Noble Defense Brotherhood
 **Leader:** King Arthur (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Impossibl
 **Asset:** Green flames, reality-tearing discordant modes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with honor.
 
-## [TAG: NPC_TIER_1]
-**King Arthur** (Order - The Lead) - A man whose voice is formal, chivalric, and noble. **Voice:** Chronicler, formal, aware of glory and tragedy. **Goal:** To protect the 'Dream of Camelot' and guide the new knights. **Secret:** He is secretly an Adept of 'Chivalric-Energy' who can 'rewrite' a soul's destiny through his noble speeches.
-**Mordred** (Shadow - The Villain) - A being whose voice is noble but with a subtle wrongness. **Voice:** Twisted smile, dark colors, underlying current of resentment. **Goal:** To destroy the Round Table and rule through 'Chaos and Despair.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Morgan le Fay** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart (reimagined). **Voice:** Discordant medieval modes, haunting vocals, street-smart edge. **Goal:** To restore the ancient traditions and stop the chivalric-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the knightly noise.
-**Lancelot** (Independent - The Mentor) - A man whose body is a map of countless tournament-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Arthur's sigil that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient squire in practical medieval gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the grail ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **King Arthur** (Order - The Lead) - A man whose voice is formal, chivalric, and noble. **Voice:** Chronicler, formal, aware of glory and tragedy. **Goal:** To protect the 'Dream of Camelot' and guide the new knights. **Secret:** He is secretly an Adept of 'Chivalric-Energy' who can 'rewrite' a soul's destiny through his noble speeches.
+2.  **Mordred** (Shadow - The Villain) - A being whose voice is noble but with a subtle wrongness. **Voice:** Twisted smile, dark colors, underlying current of resentment. **Goal:** To destroy the Round Table and rule through 'Chaos and Despair.' **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Morgan le Fay** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart (reimagined). **Voice:** Discordant medieval modes, haunting vocals, street-smart edge. **Goal:** To restore the ancient traditions and stop the chivalric-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the knightly noise.
+4.  **Lancelot** (Independent - The Mentor) - A man whose body is a map of countless tournament-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Arthur's sigil that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient squire in practical medieval gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the grail ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Impossibl
 | The Monk | Ancient Worshipper | Grail Temple | Spends all his time painting murals of the 'Dream's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Camelot (The Hub)
 A grand stone monument to Gothic architecture and medieval perfection.
 *   **The Round Table Hall:** A site of 'Refined Formality' and harsh chivalric rituals. **Smell:** Vanilla, old stone, and rich tapestries. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to mists and eternal spring.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Chivalry Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up at the Round Table. You must survive your first 'Mordred Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Arthur Run:** Navigate the traditional territories to find King Arthur. You must identify the 'Chivalric-Energy' node before the rivals arrive.
 3.  **The Grail Heist:** Infiltrate the Morgan HQ to retrieve a stolen 'Grail-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Mordred and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Honor (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Honor (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Chivalric Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Grail Signet (Equivalent)
+2.  **The Grail Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the grail seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Chivalric-Energy Capsule (Equivalent)
+3.  **The Chivalric-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Chaos' magic.

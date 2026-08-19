@@ -18,7 +18,8 @@ The Law isn't a hammer; it's a polite, persistent itch. In the sun-drenched, gol
 ### The 'Why'
 The central conflict is the struggle between 'Working-Class Intuition' and 'Upper-Class Arrogance.' It is about the 'Polite Destruction' of the ego—the realization that being the smartest person in the room doesn't make you the best. The 'Why' is the question: 'Can justice be served through persistence and character rather than spectacle and power?' It explores the warm colors of an LA sunset, the tension of a building investigation, and the mutual respect found between a master detective and a worthy adversary. The players are the Lieutenant's assistants and observers who must help him piece together the 'minor' details that break the perfect lie.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The LAPD Arcane Division (The Persistent)
 **Type:** Law Enforcement (Working-Class)
 **Leader:** The Lieutenant (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Working-Class Intuition' and 'Uppe
 **Asset:** Infinite wisdom, 'Funny Sayings,' and a connection to every hobby and profession in LA.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**The Lieutenant (Columbo)** (LAPD - Master Detective) - A rumpled man in a beige raincoat with an unlit cigar. **Voice:** Working-class, rambling, and self-deprecating. **Goal:** To solve the murder through persistence and 'minor' questions. **Secret:** He is a high-level Adept of Intuition who can 'feel' the dissonance of a lie.
-**The Author (Ken)** (Elite - The Killer) - A wealthy mage-author who has committed the perfect crime. **Voice:** Cultured, condescending, and increasingly concerned. **Goal:** To maintain his high-society reputation and outwit the Lieutenant. **Secret:** He left a single, mundane clue (a library slip) that contradicts his magical alibi.
-**The Lieutenant's Partner (Dog)** (LAPD - Support) - A basset hound that sits in the back of the car. **Voice:** None (mournful looks). **Goal:** To provide emotional support and look cute. **Secret:** The dog is actually a 'Familiar of Insight' that only the Lieutenant can understand.
-**The Valet (Arthur)** (Elite - Complicit Assistant) - A man who has seen too much and been paid to forget. **Voice:** Precise, formal, and terrified. **Goal:** To stay out of jail and keep his job. **Secret:** He is the only one who knows the Lieutenant is actually a genius.
-**Mrs. Columbo (The Voice)** (Independent - Omniscient) - The unseen wife. **Voice:** None (quoted by the Lieutenant). **Goal:** To provide the key insight for every case. **Secret:** She might actually be an Architect of Order who chose to live a mundane life.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Lieutenant (Columbo)** (LAPD - Master Detective) - A rumpled man in a beige raincoat with an unlit cigar. **Voice:** Working-class, rambling, and self-deprecating. **Goal:** To solve the murder through persistence and 'minor' questions. **Secret:** He is a high-level Adept of Intuition who can 'feel' the dissonance of a lie.
+2.  **The Author (Ken)** (Elite - The Killer) - A wealthy mage-author who has committed the perfect crime. **Voice:** Cultured, condescending, and increasingly concerned. **Goal:** To maintain his high-society reputation and outwit the Lieutenant. **Secret:** He left a single, mundane clue (a library slip) that contradicts his magical alibi.
+3.  **The Lieutenant's Partner (Dog)** (LAPD - Support) - A basset hound that sits in the back of the car. **Voice:** None (mournful looks). **Goal:** To provide emotional support and look cute. **Secret:** The dog is actually a 'Familiar of Insight' that only the Lieutenant can understand.
+4.  **The Valet (Arthur)** (Elite - Complicit Assistant) - A man who has seen too much and been paid to forget. **Voice:** Precise, formal, and terrified. **Goal:** To stay out of jail and keep his job. **Secret:** He is the only one who knows the Lieutenant is actually a genius.
+5.  **Mrs. Columbo (The Voice)** (Independent - Omniscient) - The unseen wife. **Voice:** None (quoted by the Lieutenant). **Goal:** To provide the key insight for every case. **Secret:** She might actually be an Architect of Order who chose to live a mundane life.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Working-Class Intuition' and 'Uppe
 | The Pilot | Private Pilot | Private Airstrip | Can see the 'Real' flight path from 10,000 feet. |
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing his wife's lasagna recipe. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Author's Villa (Bel Air)
 A monument to wealthy gold and magical arrogance.
 *   **The Study:** A room filled with leather-bound books and a magically sealed safe. **Smell:** Cigar smoke, old paper, and a faint hint of 'Justice Blue' ozone. **Sound:** The rhythmic ticking of a gold clock.
@@ -90,7 +93,8 @@ A grim, institutional fortress of bureaucracy and justice blue.
 A site of 'Tense Investigations' and breathtaking vistas.
 *   **The Overlook:** A sharp hairpin turn where the suspect first realized they were caught. **Visual:** The city lights looking like a field of fallen gold.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Perfect Murder:** Witness the perfectly executed murder of a mage-author. Your first task is to arrive at the scene and meet the rumpled Lieutenant.
 2.  **The Minor Question:** The suspect has an airtight alibi. You must find one mundane item (e.g., a piece of cheese, a library slip) that doesn't fit the 'Perfect Story.'
 3.  **The Wife's Wisdom:** The Lieutenant quotes his wife. You must investigate a seemingly unrelated hobby (e.g., cooking, dog-breeding) to find a breakthrough clue.
@@ -99,18 +103,19 @@ A site of 'Tense Investigations' and breathtaking vistas.
 6.  **The Reconstruction:** Help the Lieutenant stage a 'False Recreation' of the crime. The goal is to force the suspect to reveal a detail only the killer would know.
 7.  **Just One More Thing:** The final confrontation in the suspect's study. The truth is revealed through 'Polite Destruction' and mutual respect as the arrest is made.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Lieutenant's Raincoat
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Lieutenant's Raincoat:**
 **Type:** Wondrous Item (Armor)
 **Description:** A rumpled, beige raincoat that seems to absorb all forms of intimidation.
 **Mechanics:** Grants the wearer immunity to being frightened or charmed by anyone with a higher social standing. Once per day, the wearer can 'Fade' into the background, becoming invisible to Elites.
 
-### 2. The Unlit Cigar
+2.  **The Unlit Cigar:**
 **Type:** Wondrous Item (Focus)
 **Description:** A chewed-on, unlit cigar that hums with the power of persistence.
 **Mechanics:** Grants the user the ability to ask a 'Minor Question' that forces a target to succeed on a DC 18 Wisdom save or reveal one contradiction in their previous statement.
 
-### 3. The basset Hound of Insight
+3.  **The basset Hound of Insight:**
 **Type:** Wondrous Item (Familiar)
 **Description:** A mournful-looking dog that understands the world better than its owners.
 **Mechanics:** Grants the owner advantage on all Wisdom (Insight) and Intelligence (Investigation) checks. The dog can 'Bark' once per day to reveal the location of a hidden evidence item.

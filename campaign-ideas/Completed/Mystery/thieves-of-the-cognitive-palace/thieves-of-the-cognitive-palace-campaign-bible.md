@@ -123,56 +123,56 @@ The conflict exists because **Apathy is Gravity.** The central antagonist, Yalda
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Kenji | Student | Shujin Academy | Only walks on floor tiles of a specific color. |
-| Mika | Model | Shibuya Underground | Speaks in third person, but refers to herself as "The Brand." |
-| Old Man Jenkins | Janitor | Leblanc Café | Sweeps dust into patterns that predict the weather. |
-| Officer Kurosawa | Policeman | Station Square | Hums the Mario Bros theme while arresting people. |
-| Shadow Salaryman | Enemy | Mementos | Attacks by throwing business cards that explode. |
-| Shadow Housewife | Enemy | Kamoshida's Palace | Screams creates a debuff called "Guilt Trip." |
-| Lala-chan | Bar Owner | Shinjuku | Served drinks to a ghost once and didn't notice. |
-| Newspaper Club Girl | Student | School | Writes headlines about events that haven't happened yet. |
-| The Beef Bowl Guy | Server | Beef Bowl Shop | Can guess your order by the sound of your footsteps. |
-| Homeless Man | Informant | Underground Mall | Wears a tin foil hat that actually blocks psychic scans. |
-| Arcade Gamer | King | Shibuya Arcade | Plays with his feet; hands are always in pockets. |
-| Flower Shop Girl | Clerk | Underground Mall | Waters plants with energy drinks. |
-| Library Ghost | Rumor | School Library | Is actually just a very pale student who moves silently. |
-| Gym Teacher | Staff | School | Does squats while lecturing students. |
-| Vice Principal | Staff | School | Toupee spins when he lies. |
-| Creepy Fanboy | Stalker | Ann's Location | Takes photos with the lens cap on. |
-| Subway Announcer | Voice | Station | Voice cracks only when announcing delays. |
-| Convenience Clerk | Worker | 777 Store | Barcodes on his arm that he scans for lunch. |
-| Jazz Singer | Performer | Jazz Club | Lyrics are just random numbers but sound soulful. |
-| Foreign Barker | Tout | Central Street | Speaks perfect Japanese but pretends not to. |
-| Lottery Woman | Vendor | Station Square | Winks with the wrong eye. |
-| Bathhouse Owner | Owner | Yongen-Jaya | Water temperature matches his anger level. |
-| Laundromat Lady | Customer | Yongen-Jaya | Washes the same shirt every day for 3 years. |
-| Cat Lady | Local | Backstreets | Her cats are all named after dictators. |
-| Shady Commodities | Vendor | Laptop | Wears sunglasses even on the Zoom call. |
-| Second-hand Shop | Owner | Yongen-Jaya | Tries to buy the clothes the players are wearing. |
-| Burger Challenger | Eater | Big Bang Burger | Eats wrappers and all. |
-| Fishing Pond Guy | Hobbyist | Ichigaya | Fishes without a hook; catches fish by pure will. |
-| Maid Cafe Maid | Server | Akihabara | Breaks character to discuss philosophy. |
-| Otaku King | NPC | Akihabara | Wears 15 distinct anime pins. |
-| Shadow Dog | Enemy | Mementos | Barks in Morse code. |
-| Shadow Nurse | Enemy | Hospital Palace | Heals you, but it deals damage instead. |
-| Shadow Politician | Enemy | Diet Building | Steals your turn by filibustering. |
-| Shadow Cop | Enemy | Station | Fines you for "Existing without a permit." |
-| Crossword Guy | Student | Cafe | Asks for words that don't exist. |
-| TV Shopper | Host | TV | Hands reach out of the screen to demonstrate products. |
-| Weather Girl | Reporter | TV | Umbrella is always inside out. |
-| Biology Teacher | Staff | School | Uses students as metaphors for cell division. |
-| History Teacher | Staff | School | Wears a samurai helmet on Tuesdays. |
-| English Teacher | Staff | School | Speaks English with a heavy French accent. |
-| Art Snob | Patron | Museum | Licks paintings to "taste the texture." |
-| Investment Banker | Shadow | Bank Palace | Floats on a cloud of receipts. |
-| Security Guard | Shadow | Casino Palace | Head is a security camera. |
-| Robot Worker | Shadow | Spaceport | Leaks oil that smells like lavender. |
-| Cultist | NPC | Street Corner | Hands out blank pamphlets. |
-| Street Musician | Bard | Station | Plays a guitar with no strings (it works). |
-| Taxi Driver | Driver | Road | Drives entirely using mirrors. |
-| Politician's Aide | NPC | Diet Building | Bleeds ink instead of blood. |
-| Cafe Regular | Patron | Leblanc | Has never actually ordered a drink. |
-| The Glitch | Anomaly | Mementos | A pixelated man who sells corrupted items. |
+| **Kenji** | Student | Shujin Academy | Only walks on floor tiles of a specific color. |
+| **Mika** | Model | Shibuya Underground | Speaks in third person, but refers to herself as "The Brand." |
+| **Old Man Jenkins** | Janitor | Leblanc Café | Sweeps dust into patterns that predict the weather. |
+| **Officer Kurosawa** | Policeman | Station Square | Hums the Mario Bros theme while arresting people. |
+| **Shadow Salaryman** | Enemy | Mementos | Attacks by throwing business cards that explode. |
+| **Shadow Housewife** | Enemy | Kamoshida's Palace | Screams creates a debuff called "Guilt Trip." |
+| **Lala-chan** | Bar Owner | Shinjuku | Served drinks to a ghost once and didn't notice. |
+| **Newspaper Club Girl** | Student | School | Writes headlines about events that haven't happened yet. |
+| **The Beef Bowl Guy** | Server | Beef Bowl Shop | Can guess your order by the sound of your footsteps. |
+| **Homeless Man** | Informant | Underground Mall | Wears a tin foil hat that actually blocks psychic scans. |
+| **Arcade Gamer** | King | Shibuya Arcade | Plays with his feet; hands are always in pockets. |
+| **Flower Shop Girl** | Clerk | Underground Mall | Waters plants with energy drinks. |
+| **Library Ghost** | Rumor | School Library | Is actually just a very pale student who moves silently. |
+| **Gym Teacher** | Staff | School | Does squats while lecturing students. |
+| **Vice Principal** | Staff | School | Toupee spins when he lies. |
+| **Creepy Fanboy** | Stalker | Ann's Location | Takes photos with the lens cap on. |
+| **Subway Announcer** | Voice | Station | Voice cracks only when announcing delays. |
+| **Convenience Clerk** | Worker | 777 Store | Barcodes on his arm that he scans for lunch. |
+| **Jazz Singer** | Performer | Jazz Club | Lyrics are just random numbers but sound soulful. |
+| **Foreign Barker** | Tout | Central Street | Speaks perfect Japanese but pretends not to. |
+| **Lottery Woman** | Vendor | Station Square | Winks with the wrong eye. |
+| **Bathhouse Owner** | Owner | Yongen-Jaya | Water temperature matches his anger level. |
+| **Laundromat Lady** | Customer | Yongen-Jaya | Washes the same shirt every day for 3 years. |
+| **Cat Lady** | Local | Backstreets | Her cats are all named after dictators. |
+| **Shady Commodities** | Vendor | Laptop | Wears sunglasses even on the Zoom call. |
+| **Second-hand Shop** | Owner | Yongen-Jaya | Tries to buy the clothes the players are wearing. |
+| **Burger Challenger** | Eater | Big Bang Burger | Eats wrappers and all. |
+| **Fishing Pond Guy** | Hobbyist | Ichigaya | Fishes without a hook; catches fish by pure will. |
+| **Maid Cafe Maid** | Server | Akihabara | Breaks character to discuss philosophy. |
+| **Otaku King** | NPC | Akihabara | Wears 15 distinct anime pins. |
+| **Shadow Dog** | Enemy | Mementos | Barks in Morse code. |
+| **Shadow Nurse** | Enemy | Hospital Palace | Heals you, but it deals damage instead. |
+| **Shadow Politician** | Enemy | Diet Building | Steals your turn by filibustering. |
+| **Shadow Cop** | Enemy | Station | Fines you for "Existing without a permit." |
+| **Crossword Guy** | Student | Cafe | Asks for words that don't exist. |
+| **TV Shopper** | Host | TV | Hands reach out of the screen to demonstrate products. |
+| **Weather Girl** | Reporter | TV | Umbrella is always inside out. |
+| **Biology Teacher** | Staff | School | Uses students as metaphors for cell division. |
+| **History Teacher** | Staff | School | Wears a samurai helmet on Tuesdays. |
+| **English Teacher** | Staff | School | Speaks English with a heavy French accent. |
+| **Art Snob** | Patron | Museum | Licks paintings to "taste the texture." |
+| **Investment Banker** | Shadow | Bank Palace | Floats on a cloud of receipts. |
+| **Security Guard** | Shadow | Casino Palace | Head is a security camera. |
+| **Robot Worker** | Shadow | Spaceport | Leaks oil that smells like lavender. |
+| **Cultist** | NPC | Street Corner | Hands out blank pamphlets. |
+| **Street Musician** | Bard | Station | Plays a guitar with no strings (it works). |
+| **Taxi Driver** | Driver | Road | Drives entirely using mirrors. |
+| **Politician's Aide** | NPC | Diet Building | Bleeds ink instead of blood. |
+| **Cafe Regular** | Patron | Leblanc | Has never actually ordered a drink. |
+| **The Glitch** | Anomaly | Mementos | A pixelated man who sells corrupted items. |
 
 ---
 

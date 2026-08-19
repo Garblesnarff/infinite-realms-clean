@@ -18,7 +18,8 @@ The World is not a floor; it's a torus that's being played by an invisible lady.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Choice.' It is about the 'Philosophical Resilience' of the human spirit—the realization that belief shapes reality. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single rebus in an eternal script?' It explores the surreal beauty of the ring-city, the pride in mastering a planar cant, and the philosophical, resonant voice of a narrator who understands that every thought is a prayer. The players are the cutters and factols who must navigate the impossible geometry and the intensity of a portal shift to find a truth that stays solid in the change.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Harmonium (The Order)
 **Type:** Martial/Totalitarian Strategy Brotherhood
 **Leader:** Factol Sarin (equivalent).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Razor-sharp shadows, reality-tearing portals, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Factol Skall** (Order - The Lead) - A man whose voice is philosophical, resonant, and calm. **Voice:** Sage wisdom, dark mystery, sardonic humor. **Goal:** To protect the 'Truth of Death' and guide the new cutters. **Secret:** He is secretly an Adept of 'Planar-Energy' who can 'rewrite' a soul's destiny through his riddles.
-**The Lady of Pain** (Shadow - The Villain) - A towering figure in bladed dress with a crown of blades. **Voice:** Absolute silence, punctuated by razor-sharp echoes. **Goal:** To maintain the 'Sigil Balance' and prevent any god from entering the city. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Factol Erin** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To experience every reality and stop the worldline shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the planar static.
-**The Dabus (Proxy)** (Independent - The Mentor) - A floating humanoid who speaks in visual rebuses. **Voice:** Pictographic warnings, rhythmic humming. **Goal:** To maintain the impossible architecture and guide the architects. **Secret:** He has discovered a 'Vulnerability' in the Lady's shadow that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient cutter in practical planar gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the portal ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Factol Skall** (Order - The Lead) - A man whose voice is philosophical, resonant, and calm. **Voice:** Sage wisdom, dark mystery, sardonic humor. **Goal:** To protect the 'Truth of Death' and guide the new cutters. **Secret:** He is secretly an Adept of 'Planar-Energy' who can 'rewrite' a soul's destiny through his riddles.
+2.  **The Lady of Pain** (Shadow - The Villain) - A towering figure in bladed dress with a crown of blades. **Voice:** Absolute silence, punctuated by razor-sharp echoes. **Goal:** To maintain the 'Sigil Balance' and prevent any god from entering the city. **Secret:** She is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Factol Erin** (Independent - The Catalyst) - A woman whose voice is vibrant, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To experience every reality and stop the worldline shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the planar static.
+4.  **The Dabus (Proxy)** (Independent - The Mentor) - A floating humanoid who speaks in visual rebuses. **Voice:** Pictographic warnings, rhythmic humming. **Goal:** To maintain the impossible architecture and guide the architects. **Secret:** He has discovered a 'Vulnerability' in the Lady's shadow that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient cutter in practical planar gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the portal ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Planar Temple | Spends all his time painting murals of the 'Ring's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Hive (The Hub)
 A crumbling slums monument to architectural chaos and random portals.
 *   **The Mortuary:** A site of 'Refined Formality' and harsh funeral rituals. **Smell:** Ash, vanilla, and old paper. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and celestial light.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Planar Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in the Hive. You must survive your first 'Xaositect Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Skall Run:** Navigate the traditional territories to find Factol Skall. You must identify the 'Planar-Energy' node before the rivals arrive.
 3.  **The Rebus Heist:** Infiltrate the Hall of Records to retrieve a stolen 'Rebus-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Lady of Pain face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Cant (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Cant (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Planar Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Rebus Signet (Equivalent)
+2.  **The Rebus Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the rebus seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Planar-Energy Capsule (Equivalent)
+3.  **The Planar-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Belief' magic.

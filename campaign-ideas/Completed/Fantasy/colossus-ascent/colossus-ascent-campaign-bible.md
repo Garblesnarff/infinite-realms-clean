@@ -18,7 +18,8 @@ The World is not a floor; it's a graveyard of walking mountains. In the heart of
 ### The 'Why'
 The central conflict is the struggle between 'Personal Sacrifice' and 'Universal Consequence.' It is about the 'Melancholic Beauty' of the human spirit—the realization that your greatest act of love is also your greatest act of destruction. The 'Why' is the question: 'Is the life of one person worth the extinction of the last living gods?' It explores the epic scale of the massive architecture, the visceral horror of the sigil energy burst, and the dual-voice of a god that speaks in archaic formal language. The players are the Marked Ones and divine scouts who must navigate the landscape-bodies and moral guilt to find a resolution that honors the memory of the giants.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Marked Ones (The Heroes)
 **Type:** Elite/Survivalist Found Family Units
 **Leader:** Wander (Equivalent - The Reluctant Hero).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Personal Sacrifice' and 'Universal
 **Asset:** Knowledge of the giants' memories, soft blue-white light, and a connection to the world's original purpose.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Dormin** (Shadow - The Leader) - Dual voices (male/female) speaking simultaneously. **Voice:** Ancient, patient, and manipulative. **Goal:** To be reunited and rule the world through the player character. **Secret:** He is secretly an Adept of 'Shadow-Ichor' who can 'rewrite' a hero's fate through his archaic speeches.
-**Emon Kasra** (Independent - The Failed One) - A man half-consumed by shadow with an unstable voice. **Voice:** Desperate, unhinged, and echoed. **Goal:** To stop the player and reclaim his own Brand. **Secret:** He was the player's biological ancestor, the one who first performed the ritual.
-**The Watcher** (Independent - The Mentor) - A gender-neutral, ageless figure in monk robes. **Voice:** Philosophical, sad, and knowing. **Goal:** To witness the end of the song and record the final silence. **Secret:** she is the only person who can 'hear' the original Song of the World through the shadow whispers.
-**Echo (Colossus Spirit)** (Independent - The Link) - A translucent figure made of soft blue-white light. **Voice:** Multiple voices harmonized, musical, and peaceful. **Goal:** To preserve the giants' memories and find a worthy successor. **Secret:** She is the manifest consciousness of the first Colossus, Valus.
-**The Valus (Guardian)** (Colossus equivalent - Shifting form) - A minotaur-like Colossus with mossy fur and confused eyes. **Voice:** None (mournful bellows and clicks). **Goal:** To protect the 'Reality-Anchor' hidden in its hide. **Secret:** The Colossi are not monsters; they are the 'New Accord' of the Forbidden Lands.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Dormin** (Shadow - The Leader) - Dual voices (male/female) speaking simultaneously. **Voice:** Ancient, patient, and manipulative. **Goal:** To be reunited and rule the world through the player character. **Secret:** He is secretly an Adept of 'Shadow-Ichor' who can 'rewrite' a hero's fate through his archaic speeches.
+2.  **Emon Kasra** (Independent - The Failed One) - A man half-consumed by shadow with an unstable voice. **Voice:** Desperate, unhinged, and echoed. **Goal:** To stop the player and reclaim his own Brand. **Secret:** He was the player's biological ancestor, the one who first performed the ritual.
+3.  **The Watcher** (Independent - The Mentor) - A gender-neutral, ageless figure in monk robes. **Voice:** Philosophical, sad, and knowing. **Goal:** To witness the end of the song and record the final silence. **Secret:** she is the only person who can 'hear' the original Song of the World through the shadow whispers.
+4.  **Echo (Colossus Spirit)** (Independent - The Link) - A translucent figure made of soft blue-white light. **Voice:** Multiple voices harmonized, musical, and peaceful. **Goal:** To preserve the giants' memories and find a worthy successor. **Secret:** She is the manifest consciousness of the first Colossus, Valus.
+5.  **The Valus (Guardian)** (Colossus equivalent - Shifting form) - A minotaur-like Colossus with mossy fur and confused eyes. **Voice:** None (mournful bellows and clicks). **Goal:** To protect the 'Reality-Anchor' hidden in its hide. **Secret:** The Colossi are not monsters; they are the 'New Accord' of the Forbidden Lands.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Personal Sacrifice' and 'Universal
 | The Guard | Seal Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Colossus Altar | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Forbidden Lands (The Battlefield)
 A vast, open landscape of desaturated browns, grays, and mossy greens.
 *   **The Ancient Ruins:** A site of 'Ethereal Realism' and harsh afternoon sunlight. **Smell:** Ancient dust, moss, and wet stone. **Sound:** The constant 'gurgle-gurgle' of ancient aqueducts.
@@ -89,7 +92,8 @@ A place where reality is shimmering and visibility is near zero.
 A site of 'Crushing Darkness' and bioluminescent patterns.
 *   **The Sunken Temple:** Where the 'Shadow-Ichor' is most concentrated. **Visual:** A single harsh spotlight in the center of the dark. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Ascent:** Arrive at the Forbidden Lands. You must survive your first 'Valus Ambush' using only your stolen sword.
 2.  **The Sigil Run:** Navigate the mossy hide of a quadruped Colossus to find the glowing sigil. You must strike it before the shadow-energy peaks.
 3.  **The Temple Heist:** Infiltrate the Watcher's library to find evidence of the 'Reverse-Sealing' plan. You must bypass the 'Shadow-Guard.'
@@ -98,18 +102,19 @@ A site of 'Crushing Darkness' and bioluminescent patterns.
 6.  **The Final Reset:** The final guardian has begun its atmospheric 'Reset.' You must defend the Spires while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face Dormin face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Seal
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Seal:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Sigil Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Brand of Resilience
+2.  **The Brand of Resilience:**
 **Type:** Wondrous Item (Implant)
 **Description:** A glowing, geometric tattoo that pulses with the light of the sun.
 **Mechanics:** Grants the wearer +5 to AC and resistance to all non-magical weapon damage. Once per day, the wearer can 'Freeze' a shadow-tendril.
 
-### 3. The Shadow-Ichor Capsule
+3.  **The Shadow-Ichor Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Shadow' magic.

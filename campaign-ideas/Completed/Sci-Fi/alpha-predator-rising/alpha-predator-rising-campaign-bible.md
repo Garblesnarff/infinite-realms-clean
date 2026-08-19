@@ -18,7 +18,8 @@ The Earth is not ours; we are merely the fleas on the back of a sleeping giant. 
 ### The 'Why'
 The central conflict is the struggle for 'Balance' in a world that has outgrown its creators. It is about the 'Mythic Realism' of standing before a god—the awe, the terror, and the realization that humans are not the focus of the universe. The 'Why' is the question: 'Can humanity find a way to coexist with the Titans, or are we just collateral damage in their war?' It explores the symbiosis between Godzilla and Mothra, the alien wrongness of Ghidorah, and the ancient history hidden in the Hollow Earth. The players are Monarch agents and survivors who must navigate the footsteps of giants to ensure that *someone* is left to tell the story.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### Monarch (The Observers)
 **Type:** International Scientific/Military Organization
 **Leader:** Dr. Serizawa and Admiral Stenz.
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Balance' in a world that has outgrown 
 **Asset:** Knowledge of Titan patterns and the ability to live in harmony with the superspecies.
 **Rivals:** None (they are survivors).
 
-## [TAG: NPC_TIER_1]
-**Dr. Ishiro Serizawa** (Monarch - Visionary Leader) - A man who views Titans with religious reverence. **Voice:** Soft-spoken, Japanese-accented, and filled with wisdom. **Goal:** To prove that Godzilla is the key to Earth's survival. **Secret:** He is willing to sacrifice his life to 'wake' Godzilla when the world needs him most.
-**Madison Russell** (Independent - Titan Empath) - A young girl with an unnatural connection to the superspecies. **Voice:** Mature, gentle, and protective. **Goal:** To stop the war and communicate with the Alphas. **Secret:** She has learned the submission and command frequencies of the Orca device through whistling.
-**Mark Russell** (Monarch - Gruff Specialist) - A man who lost everything to the Titans and now hunts them. **Voice:** Gruff, angry, and military-toned. **Goal:** To protect his daughter and find a way to kill the Alphas. **Secret:** His rage masks a deep-seated fear that the Titans are the only things that truly matter.
-**Dr. Emma Russell** (Ecoterra - Rational Extremist) - A mother who decided to save the world by destroying civilization. **Voice:** Logical, evangelical, and filled with absolute conviction. **Goal:** To wake the Titans and restore the natural order. **Secret:** She blames humanity's greed for her son's death in San Francisco.
-**Admiral Stenz** (Military - Pragmatic Commander) - The man who must make the impossible choices. **Voice:** Authoritative, disciplined, and weary. **Goal:** To minimize human casualties in a war of gods. **Secret:** He respects Godzilla's power more than he's allowed to admit in official reports.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Dr. Ishiro Serizawa** (Monarch - Visionary Leader) - A man who views Titans with religious reverence. **Voice:** Soft-spoken, Japanese-accented, and filled with wisdom. **Goal:** To prove that Godzilla is the key to Earth's survival. **Secret:** He is willing to sacrifice his life to 'wake' Godzilla when the world needs him most.
+2.  **Madison Russell** (Independent - Titan Empath) - A young girl with an unnatural connection to the superspecies. **Voice:** Mature, gentle, and protective. **Goal:** To stop the war and communicate with the Alphas. **Secret:** She has learned the submission and command frequencies of the Orca device through whistling.
+3.  **Mark Russell** (Monarch - Gruff Specialist) - A man who lost everything to the Titans and now hunts them. **Voice:** Gruff, angry, and military-toned. **Goal:** To protect his daughter and find a way to kill the Alphas. **Secret:** His rage masks a deep-seated fear that the Titans are the only things that truly matter.
+4.  **Dr. Emma Russell** (Ecoterra - Rational Extremist) - A mother who decided to save the world by destroying civilization. **Voice:** Logical, evangelical, and filled with absolute conviction. **Goal:** To wake the Titans and restore the natural order. **Secret:** She blames humanity's greed for her son's death in San Francisco.
+5.  **Admiral Stenz** (Military - Pragmatic Commander) - The man who must make the impossible choices. **Voice:** Authoritative, disciplined, and weary. **Goal:** To minimize human casualties in a war of gods. **Secret:** He respects Godzilla's power more than he's allowed to admit in official reports.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Balance' in a world that has outgrown 
 | The Guard | Ecoterra Enforcer | Antarctic Base | Believes he will be 'rewarded' by the Titans after the apocalypse. |
 | The Monk | Ancient Worshipper | Hollow Earth | Spends all his time painting murals of the 'King of the Monsters.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The USS Argo
 A massive, high-tech flying carrier that serves as Monarch's mobile command center.
 *   **The Bridge:** A clinical, high-stakes room with views of the Titans from above. **Smell:** Ozone and recycled air. **Sound:** The rhythmic hum of engines and satellite pings.
@@ -89,7 +92,8 @@ A frozen Monarch facility built over the 'Zero' anomaly (Ghidorah).
 An ancient worship site where Mothra's egg is kept.
 *   **The Cocoon Room:** A humid, bioluminescent chamber behind a massive waterfall. **Smell:** Exotic flowers and wet stone. **Sound:** The musical, harmonic chirp of the larvae.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Communication:** Madison Russell is alone with the Orca device. You must protect her as she plays a submission frequency to turn Godzilla away from a city.
 2.  **The Awakening:** Emma Russell triggers the explosives in Antarctica. You must escape Outpost 32 as Ghidorah emerges and creates a global storm.
 3.  **Mothra's Birth:** Defend the Waterfall Temple from an Apex hit squad. Witness Mothra's emergence as an adult and her divine flight to aid Godzilla.
@@ -98,18 +102,19 @@ An ancient worship site where Mothra's egg is kept.
 6.  **The Burning King:** Godzilla is losing to Ghidorah. You must deliver a nuclear 'boost' to Godzilla's lair while avoiding Ghidorah's gravity beams.
 7.  **King of the Monsters:** The final standoff in Boston. A four-way Titan battle. Witness Mothra's sacrifice and Godzilla's 'Burning' form as he destroys the false king.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Orca Device
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Orca Device:**
 **Type:** Wondrous Item (Focus)
 **Description:** A specialized bioacoustic device that can synthesize Titan frequencies.
 **Mechanics:** Grants the user the ability to 'communicate' with a Titan. The Titan will not attack the user for 1 minute (DC 18 Wisdom save for the Titan).
 
-### 2. The Alpha's Scale
+2.  **The Alpha's Scale:**
 **Type:** Wondrous Item (Shield)
 **Description:** A charcoal-gray scale from Godzilla, still warm with radiation.
 **Mechanics:** Grants the wearer resistance to all forms of energy damage (Radiation, Fire, Lightning).
 
-### 3. Ghidorah's Severed Head (Fragment)
+3.  **Ghidorah's Severed Head (Fragment):**
 **Type:** Artifact (Cursed)
 **Description:** A golden, alien skull that still crackles with violet lightning.
 **Mechanics:** Can be used to cast *Chain Lightning* once per day. **Curse:** The user begins to hear the 'Three-Part Disharmony' and suffers disadvantage on Wisdom saves.

@@ -49,12 +49,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Pure Prob
 **Asset:** Black territory pieces, reality-tearing dice, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The Game Master** (Order - The Lead) - An omniscient narrator voice that speaks in game terminology. **Voice:** Authoritative, rhythmic, and perfectly enunciated. **Goal:** To ensure the 'Eternal Game' continues and find a worthy victor. **Secret:** He is secretly an Adept of 'Risk-Energy' who can 'rewrite' a soul's destiny through his phase announcements.
-**The Dice Prophet** (Independent - The Catalyst) - A man of nervous mathematics who speaks in probabilities. **Voice:** Fast, melodic, and filled with a tragic wonder. **Goal:** To calculate the 'Final Result' and guide the champions. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**General Red** (Disruptor - The Rival) - A man in 1950s military attire with a fierce determination. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** Total Domination of the world map. **Secret:** He is secretly a 'Clone' grown by the Game Master to serve as the perfect antagonist.
-**Admiral Blue** (Independent - The Mentor) - A woman whose voice is calm, patient, and naval-like. **Voice:** Strong, clear, and filled with divine passion. **Goal:** To protect the 'Global Balance' and find a safe harbor. **Secret:** she is the only person who can 'hear' the original Song of the World through the dice-clatter.
-**Commander Green** (Independent - The Lead) - A resilient commander in weathered fatigues. **Voice:** Natural, hesitant, and damaged. **Goal:** To stay alive and outrun the 'Capture.' **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the recruitment ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Game Master** (Order - The Lead) - An omniscient narrator voice that speaks in game terminology. **Voice:** Authoritative, rhythmic, and perfectly enunciated. **Goal:** To ensure the 'Eternal Game' continues and find a worthy victor. **Secret:** He is secretly an Adept of 'Risk-Energy' who can 'rewrite' a soul's destiny through his phase announcements.
+2.  **The Dice Prophet** (Independent - The Catalyst) - A man of nervous mathematics who speaks in probabilities. **Voice:** Fast, melodic, and filled with a tragic wonder. **Goal:** To calculate the 'Final Result' and guide the champions. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **General Red** (Disruptor - The Rival) - A man in 1950s military attire with a fierce determination. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** Total Domination of the world map. **Secret:** He is secretly a 'Clone' grown by the Game Master to serve as the perfect antagonist.
+4.  **Admiral Blue** (Independent - The Mentor) - A woman whose voice is calm, patient, and naval-like. **Voice:** Strong, clear, and filled with divine passion. **Goal:** To protect the 'Global Balance' and find a safe harbor. **Secret:** she is the only person who can 'hear' the original Song of the World through the dice-clatter.
+5.  **Commander Green** (Independent - The Lead) - A resilient commander in weathered fatigues. **Voice:** Natural, hesitant, and damaged. **Goal:** To stay alive and outrun the 'Capture.' **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the recruitment ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +71,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Pure Prob
 | The Monk | Ancient Worshipper | Dice Temple | Spends all his time painting murals of the 'Game's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The War Room (The Hub)
 A massive, high-contrast monument to maps, strategy, and glowing territory overlays.
 *   **The War Table:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Ozone, charcoal smoke, and old paper. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +91,8 @@ A dark, reality-distorting monument to probability and ivory cubes.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Probability Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Deployment:** Wake up in a starting territory. You must survive your first 'Dice Ambush' while maintaining your 'Deployment' status.
 2.  **The Strategy Run:** Navigate the traditional territories to find the Dice Prophet. You must identify the 'Strategic-Energy' node before the rivals arrive.
 3.  **The Card Heist:** Infiltrate the Red Legion HQ to retrieve a stolen 'Reinforcement-Focus.' You must bypass the guards.
@@ -98,18 +101,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Game Master and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Probability (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Probability (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Determined Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Dice Signet (Equivalent)
+2.  **The Dice Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the dice seal.
 **Mechanics:** Grants the holder absolute authority in the strategic world. Once per day, the user can 'Reroll' a critical outcome.
 
-### 3. The Strategic-Energy Capsule (Equivalent)
+3.  **The Strategic-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Probability' magic.

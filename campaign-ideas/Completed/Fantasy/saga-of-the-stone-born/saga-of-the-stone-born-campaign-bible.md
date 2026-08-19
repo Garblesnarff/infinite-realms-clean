@@ -18,7 +18,8 @@ The World is not a floor; it's a glacier that's being played by an ancient frost
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Brutality.' It is about the 'Human Resilience' of the spirit—the realization that you need the darkness to appreciate the light. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal kurs (equivalent)?' It explores the raw beauty of the ice age survival, the pride in mastering a functional weapon, and the deep, resonant voice of a hunter who understands that every cent is a gift. The players are the hunters and elders who must navigate the domestic oppressions and the intensity of a giant encounter to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Stone-Born Hunters (The Order)
 **Type:** Martial/Sacred Defense Brotherhood
 **Leader:** Kratos (equivalent - the stone-born hunter).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Kratos** (Order - The Lead) - A stone-born hunter whose voice is deep, warm, and resonant. **Voice:** Resonant, stoic endurance, grim determination. **Goal:** To protect the 'Humanity' of his tribe and guide the new hunters. **Secret:** He is secretly an Adept of 'Elemental-Energy' who can 'rewrite' a soul's destiny through his swordplay lessons.
-**Stagnatio** (Shadow - The Villain) - A being whose voice is calm, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Atreus** (Independent - The Catalyst) - A survivor whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the stagnant-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the glacier noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Stagnatio's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical sports gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the stone ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Kratos** (Order - The Lead) - A stone-born hunter whose voice is deep, warm, and resonant. **Voice:** Resonant, stoic endurance, grim determination. **Goal:** To protect the 'Humanity' of his tribe and guide the new hunters. **Secret:** He is secretly an Adept of 'Elemental-Energy' who can 'rewrite' a soul's destiny through his swordplay lessons.
+2.  **Stagnatio** (Shadow - The Villain) - A being whose voice is calm, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Atreus** (Independent - The Catalyst) - A survivor whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the stagnant-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the glacier noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A researcher whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Stagnatio's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical sports gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the stone ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Flow Temple | Spends all his time painting murals of the 'Ripple's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Midgard (The Hub)
 A grand aquatic monument to architecture, glaciers, and mythic realism.
 *   **The Family Courtyard:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and fresh snow. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and information overload.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a chasm. You must survive your first 'Stagnant Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Kratos Run:** Navigate the traditional territories to find Kratos. You must identify the 'Elemental-Energy' node before the rivals arrive.
 3.  **The Spear Heist:** Infiltrate the Stagnant's HQ to retrieve a stolen 'Spear-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Stagnatio face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Resilience (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Resilience (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Elemental Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Current Signet (Equivalent)
+2.  **The Current Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the current seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Elemental-Energy Capsule (Equivalent)
+3.  **The Elemental-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Stagnation' magic.

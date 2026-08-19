@@ -18,7 +18,8 @@ Central City wasn't built; it was spawned. It is a concrete labyrinth where the 
 ### The 'Why'
 The central conflict is the struggle for the city's identity. Is Central City a lost cause, a monument to human corruption, or is it a place worth saving? The 'Why' is the question of why anyone bothers to be good in a city that rewards the wicked. It explores the blurred line between justice and vengeance, and the weight of wearing a mask in a world where everyone is hiding behind a facade of respectability. The players are the few who still believe in the city, or at least, the few who hate the alternative more.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Central City Police Department (CCPD)
 **Type:** Law Enforcement (Corrupt)
 **Leader:** Commissioner Dolan (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for the city's identity. Is Central City a 
 **Asset:** Knowledge of the city's secret history and the ability to disappear into the cemetery's gothic labyrinth.
 **Rivals:** None (they are too small to care about).
 
-## [TAG: NPC_TIER_1]
-**The Spirit** (Vigilante - Fighter/Detective) - Masked hero in a blue suit and red tie. **Voice:** Hard-boiled, cynical but deeply moral. **Goal:** To protect Central City from the shadows. **Secret:** He is technically legally dead, and his base of operations is a tomb in Wildwood Cemetery.
-**Ellen Dolan** (Independent - Journalist/Socialite) - Daughter of the Commissioner. **Voice:** Smart, practical, and fearless. **Goal:** To expose the city's corruption through her writing. **Secret:** She knows the Spirit's true identity and is his most trusted ally.
-**Commissioner Dolan** (Law Enforcement - Veteran Detective) - A man tired of the city's filth. **Voice:** Gruff, weary, and prone to coughing fits from too many cheap cigars. **Goal:** To clean up the CCPD, even if it kills him. **Secret:** He secretly leaves files for the Spirit on his desk, knowing they'll be 'stolen.'
-**Femme Fatale (P'Gell)** (Criminal - Socialite/Infiltrator) - Dangerous, beautiful, and utterly ruthless. **Voice:** Seductive, intelligent, and wary. **Goal:** To manipulate the city's power players for her own gain. **Secret:** She actually loves the Spirit, but her ambition is stronger than her heart.
-**'Elegant' Eddie** (Criminal - Mob Boss) - A man who never gets his hands dirty. **Voice:** Soft, cultured, and terrifyingly polite. **Goal:** To become the 'shadow mayor' of Central City. **Secret:** He has a crippling phobia of the rain, which is why he's rarely seen outside.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Spirit** (Vigilante - Fighter/Detective) - Masked hero in a blue suit and red tie. **Voice:** Hard-boiled, cynical but deeply moral. **Goal:** To protect Central City from the shadows. **Secret:** He is technically legally dead, and his base of operations is a tomb in Wildwood Cemetery.
+2.  **Ellen Dolan** (Independent - Journalist/Socialite) - Daughter of the Commissioner. **Voice:** Smart, practical, and fearless. **Goal:** To expose the city's corruption through her writing. **Secret:** She knows the Spirit's true identity and is his most trusted ally.
+3.  **Commissioner Dolan** (Law Enforcement - Veteran Detective) - A man tired of the city's filth. **Voice:** Gruff, weary, and prone to coughing fits from too many cheap cigars. **Goal:** To clean up the CCPD, even if it kills him. **Secret:** He secretly leaves files for the Spirit on his desk, knowing they'll be 'stolen.'
+4.  **Femme Fatale (P'Gell)** (Criminal - Socialite/Infiltrator) - Dangerous, beautiful, and utterly ruthless. **Voice:** Seductive, intelligent, and wary. **Goal:** To manipulate the city's power players for her own gain. **Secret:** She actually loves the Spirit, but her ambition is stronger than her heart.
+5.  **'Elegant' Eddie** (Criminal - Mob Boss) - A man who never gets his hands dirty. **Voice:** Soft, cultured, and terrifyingly polite. **Goal:** To become the 'shadow mayor' of Central City. **Secret:** He has a crippling phobia of the rain, which is why he's rarely seen outside.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for the city's identity. Is Central City a 
 | 'The Shadow' | Assassin | Rooftops | Never speaks; only leaves a single black feather. |
 | 'Gentleman' Jim | Smuggler | Warehouse District | Always tips his hat before he shoots. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Wildwood Cemetery
 A gothic, atmospheric labyrinth of crumbling mausoleums and weeping statues.
 *   **The Spirit's Tomb:** A hidden base of operations beneath a family crypt. **Smell:** Damp earth and old stone. **Sound:** The constant drip of water.
@@ -90,7 +93,8 @@ A smoky, high-end club where the city's elite and its criminals mingle.
 The soaring, art deco heights where the Spirit and his rivals play a deadly game of cat and mouse.
 *   **The Elevated Train Tracks:** A dangerous, high-speed path through the city's heart. **Sound:** The rhythmic roar of the train.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **A Night in the Rain:** Investigate a series of murders in Wildwood Cemetery. Discover a clue that points to a new criminal syndicate.
 2.  **The Commissioner's Dilemma:** Dolan is being blackmailed by 'Elegant' Eddie. The Spirit must retrieve the evidence before the Commissioner is forced to resign.
 3.  **The Femme Fatale's Gambit:** P'Gell 'asks' for the Spirit's help in escaping a hit squad sent by a rival boss. Is it a trap, or is she actually in danger?
@@ -99,18 +103,19 @@ The soaring, art deco heights where the Spirit and his rivals play a deadly game
 6.  **The Mayor's Mask:** Expose the corruption at City Hall during a high-society masquerade ball.
 7.  **The Final Confrontation:** 'Elegant' Eddie and 'Iron' Mike have formed an uneasy alliance to take down the Spirit once and for all. The battle culminates on the rain-slicked rooftops during the storm of the century.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Spirit's Mask
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Spirit's Mask:**
 **Type:** Wondrous Item
 **Description:** A simple, blue domino mask that seems to meld with the wearer's face.
 **Mechanics:** Grants advantage on Stealth checks and makes the wearer immune to being recognized by anyone who doesn't already know their true identity.
 
-### 2. Dolan's Lucky Cigar Case
+2.  **Dolan's Lucky Cigar Case:**
 **Type:** Wondrous Item
 **Description:** A rumpled, silver case that has seen better days.
 **Mechanics:** Once per day, the wearer can re-roll a failed Charisma (Persuasion or Intimidation) check.
 
-### 3. P'Gell's Perfume
+3.  **P'Gell's Perfume:**
 **Type:** Wondrous Item
 **Description:** A small, elegant vial of a scent that is both dangerous and alluring.
 **Mechanics:** The wearer can use an action to release the scent. All creatures within 10 feet must succeed on a DC 15 Wisdom save or be charmed for 1 minute.

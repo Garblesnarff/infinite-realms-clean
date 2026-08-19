@@ -18,7 +18,8 @@ The World is not a circle; it's a four-part harmony that's being played by a tho
 ### The 'Why'
 The central conflict is the struggle between 'Technological Equality' and 'Spiritual Privilege.' It is about the 'Martial Arts Fluidity' of the human soul—the realization that being yourself is the ultimate form of magic. The 'Why' is the question: 'Can logic and technology coexist with a world of spiritual wonder, or is the future a zero-sum game?' It explores the geometric precision of the mecha-suit, the visceral horror of power loss, and the manic, entrepreneurial voice of a man who views the spirit world as a market. The players are the benders and equalists who must navigate the subculture politics and the intensity of a spirit-world entry to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The United Republic (The Order)
 **Type:** Theocratic Strategic Alliance/Hegemony
 **Leader:** Tenzin (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Technological Equality' and 'Spiri
 **Asset:** Dark purple energy, reality-tearing tendrils, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Avatar Korra** (Hero - The Lead) - A woman in elemental blues with a determined expression and martial arts grace. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To restore the elemental balance and find her own worth. **Secret:** She is secretly an Adept of 'Spirit-Energy' who can 'persuade' a spirit to return to its home through her dance steps.
-**Amon** (Equalist - The Villain) - A man in a simple white mask with a calm revolutionary rhetoric. **Voice:** Whispered, slow, and terrifyingly reasonable. **Goal:** To 'Equalize' the city and eliminate the Bender's privilege. **Secret:** He is secretly a high-level Waterbender who uses 'Ichor' magic to rewrite a person's chi.
-**Kuvira** (Earth Empire - The Inquisitor) - A woman in military precision gear with an authoritarian stance. **Voice:** Clear, confident, and aerodynamic. **Goal:** To unify the world through efficiency and the elimination of all variable threats. **Secret:** She was the first Bender to 'Sync' with the Platinum armor, allowing her to become shadow (equivalent).
-**Varrick** (Independent - The Catalyst) - A man in a vintage flannel (equivalent) who smells of roasted beans (equivalent). **Voice:** Manic, entrepreneurial, and fast-paced. **Goal:** To monetize the spirit world and create the 'Perfect Product.' **Secret:** He is a direct descendant of the first Architect and his 'Mecha-Technology' is the only thing keeping the city's power grid from collapsing.
-**Tenzin** (Republic - The Mentor) - A man in air nomad robes with J.K. Simmons' patient wisdom. **Voice:** Authoritative, measured, and British (equivalent). **Goal:** To preserve the ancient traditions and guide the new airbenders. **Secret:** He suffers from constant bouts of 'Modern Frustration' when his intellectual limits are pushed.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Avatar Korra** (Hero - The Lead) - A woman in elemental blues with a determined expression and martial arts grace. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To restore the elemental balance and find her own worth. **Secret:** She is secretly an Adept of 'Spirit-Energy' who can 'persuade' a spirit to return to its home through her dance steps.
+2.  **Amon** (Equalist - The Villain) - A man in a simple white mask with a calm revolutionary rhetoric. **Voice:** Whispered, slow, and terrifyingly reasonable. **Goal:** To 'Equalize' the city and eliminate the Bender's privilege. **Secret:** He is secretly a high-level Waterbender who uses 'Ichor' magic to rewrite a person's chi.
+3.  **Kuvira** (Earth Empire - The Inquisitor) - A woman in military precision gear with an authoritarian stance. **Voice:** Clear, confident, and aerodynamic. **Goal:** To unify the world through efficiency and the elimination of all variable threats. **Secret:** She was the first Bender to 'Sync' with the Platinum armor, allowing her to become shadow (equivalent).
+4.  **Varrick** (Independent - The Catalyst) - A man in a vintage flannel (equivalent) who smells of roasted beans (equivalent). **Voice:** Manic, entrepreneurial, and fast-paced. **Goal:** To monetize the spirit world and create the 'Perfect Product.' **Secret:** He is a direct descendant of the first Architect and his 'Mecha-Technology' is the only thing keeping the city's power grid from collapsing.
+5.  **Tenzin** (Republic - The Mentor) - A man in air nomad robes with J.K. Simmons' patient wisdom. **Voice:** Authoritative, measured, and British (equivalent). **Goal:** To preserve the ancient traditions and guide the new airbenders. **Secret:** He suffers from constant bouts of 'Modern Frustration' when his intellectual limits are pushed.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Technological Equality' and 'Spiri
 | The Pilot | Chaser | Luxury Airship equivalent | Can fly through a reality-glitch without getting a drop of blood on his dhoti. |
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while describing the perfect 'Chi-Block' impact. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Republic City (The Hub)
 An Art Deco masterpiece of Jazz Age gold and industrial gray.
 *   **The Pro-Bending Arena:** A site of 'Savage Spectacle' and harsh neon lighting. **Smell:** Ozone, machine oil, and expensive cologne. **Sound:** The rhythmic 'roar-roar' of 50,000 voices.
@@ -89,7 +92,8 @@ A militaristic, sharp-angled monument to hunter's grace and platinum armor.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** Where the 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Bending:** Wake up in Republic City. You must survive an 'Equalist Ambush' using only your martial arts intuition.
 2.  **The Pro-Bending Match:** Win your first official match in the arena. You must identify the 'Spirit-Energy' node before the rivals arrive.
 3.  **The Mecha Heist:** Infiltrate a Future Industries lab to retrieve a stolen 'Engine-Focus.' You must bypass Asami's security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Bloodletting at the Source:** Face Amon and the Equalists face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 7.  **The Final Coronation:** Face the Warlord face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Balance
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Balance:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Strike of Duty' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Spirit-Energy Capsule
+3.  **The Spirit-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Spirit' magic.

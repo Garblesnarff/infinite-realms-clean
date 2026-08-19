@@ -18,7 +18,8 @@ The World is not a floor; it's a script that's being rewritten by an invisible h
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Theatrical Performance.' It is about the 'Romantic Idealism' of the human spirit—the realization that being yourself is the ultimate form of magic. The 'Why' is the question: 'Can you remain human when the world itself is trying to delete your soul for being green?' It explores the elegant linework of the shoujo manga (equivalent), the visceral horror of the animal silencing, and the fierce, determined voice of a narrator who understands that fairy tales teach real lessons. The players are the villainesses and heroes who must navigate the subculture politics and the intensity of a choice-box entry to find a truth that stays fabulous in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Shiz Rebels (The Heroes)
 **Type:** Elite/Self-Aware High School Group
 **Leader:** Elphaba (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Theatrica
 **Asset:** Reality-warping smut (equivalent), twisted geometry, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with a voice.
 
-## [TAG: NPC_TIER_1]
-**Elphaba** (Hero - The Lead) - A green-skinned woman in black witch attire with a determined expression. **Voice:** Fierce, determined, and vulnerable. **Goal:** To stop the animal silencing and find her own place in the story. **Secret:** She is secretly an Adept of 'Sparkle-Energy' who can 'persuade' a mountain to fly through her dance steps (equivalent).
-**The Wizard** (Disruptor - The Villain) - A man in carnival ringmaster attire with a deceptive barker charm. **Voice:** Charming, smooth, then screaming; theatrical and narcissistic. **Goal:** To rule Oz through efficiency and the elimination of all variable threats. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Glinda the Good** (Survivor - The Anchor) - A woman of pink and white perfection with an elaborate gown and crown. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To protect her family and find a man she can actually respect (equivalent). **Secret:** she is the only person who can 'hear' the original Song of the World through the Wizard's smoke.
-**Dr. Dillamond** (Independent - The Mentor) - A talking goat who speaks with academic intellectualism. **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To preserve the ancient traditions and guide the new students. **Secret:** He has discovered a 'Vulnerability' in the Wizard's mechanical magic that he's too professional to share.
-**Madame Morrible** (Order - The Expert) - A woman in scholarly robes with a smooth, charismatic baritone (equivalent). **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To maintain the narrative structure and complete the 'Final Reconstruction.' **Secret:** She was the player character's biological twin (equivalent), the one who first परफॉर्म the cursed ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Elphaba** (Hero - The Lead) - A green-skinned woman in black witch attire with a determined expression. **Voice:** Fierce, determined, and vulnerable. **Goal:** To stop the animal silencing and find her own place in the story. **Secret:** She is secretly an Adept of 'Sparkle-Energy' who can 'persuade' a mountain to fly through her dance steps (equivalent).
+2.  **The Wizard** (Disruptor - The Villain) - A man in carnival ringmaster attire with a deceptive barker charm. **Voice:** Charming, smooth, then screaming; theatrical and narcissistic. **Goal:** To rule Oz through efficiency and the elimination of all variable threats. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Glinda the Good** (Survivor - The Anchor) - A woman of pink and white perfection with an elaborate gown and crown. **Voice:** Seductive, intelligent, and controlled charm. **Goal:** To protect her family and find a man she can actually respect (equivalent). **Secret:** she is the only person who can 'hear' the original Song of the World through the Wizard's smoke.
+4.  **Dr. Dillamond** (Independent - The Mentor) - A talking goat who speaks with academic intellectualism. **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To preserve the ancient traditions and guide the new students. **Secret:** He has discovered a 'Vulnerability' in the Wizard's mechanical magic that he's too professional to share.
+5.  **Madame Morrible** (Order - The Expert) - A woman in scholarly robes with a smooth, charismatic baritone (equivalent). **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To maintain the narrative structure and complete the 'Final Reconstruction.' **Secret:** She was the player character's biological twin (equivalent), the one who first परफॉर्म the cursed ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Theatrica
 | The Guard | Wizard Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Emerald Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Shiz Academy (The Hub)
 A grand European-inspired monument to architectural grandeur and high magic.
 *   **The Main Hall:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Vanilla, old wood, and expensive perfume. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and sterile horror.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Gothic Refuge:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Ingestion:** Wake up in a Shiz cell. You must survive your first 'Wizard Ambush' while maintaining your 'Sanity' level.
 2.  **The Bloom run:** Navigate the traditional territories to find Glinda. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The School Heist:** Infiltrate the Shiz Library to retrieve a stolen 'Script-Focus.' You must bypass Megumi's (equivalent) shadows.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Wizard face-to-face in a final, reality-bending standoff at the top of the spires. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Choice (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Choice (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A simple, jade-green sword that seems to hum with the energy of the first Master.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Cursed-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Relationship Capsule (Equivalent)
+3.  **The Relationship Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Death Flag' magic.

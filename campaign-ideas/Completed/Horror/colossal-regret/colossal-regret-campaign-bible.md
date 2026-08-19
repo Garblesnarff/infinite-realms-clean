@@ -18,7 +18,8 @@ The Soul is not an island; it's a broadcast. In the mundane, washed-out streets 
 ### The 'Why'
 The central conflict is the struggle for 'Accountability' in a world of 'Collateral Damage.' It is about the 'Dual Reality' of the human psyche—the realization that your smallest choices have world-shaking consequences. The 'Why' is the question: 'Can you forgive yourself for the destruction you didn't mean to cause?' It explores the washed-out colors of mundane life, the vibrant horror of the massive scale, and the sudden volume increase of city destruction. The players are the broken people and their supporters who must navigate the therapy breakthroughs and the kaiju battles to find a resolution that honors the victims.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Support Group (The Fractured)
 **Type:** Secret/Intimate Support Group for Manifestors
 **Leader:** Dr. Martinez (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Accountability' in a world of 'Collate
 **Asset:** Moral weight, grief-based truth, and a connection to the 'Accountability' frequency.
 **Rivals:** The Support Group.
 
-## [TAG: NPC_TIER_1]
-**The Protagonist (Gloria)** (Support Group - The Addict) - A woman in an inappropriate dress who is trying to stay sober. **Voice:** Natural, hesitant, and damaged. **Goal:** To stop the destruction in Seoul and find her own worth. **Secret:** Her kaiju is 'Gaunt and Desperate' because it reflects her own addiction yellow.
-**Oscar** (Independent - The Manipulator) - A charming man who owns a bar. **Voice:** Charming, then controlling; gaslighting audible in tone shifts. **Goal:** To control the other manifestors and use their power for his own ego. **Secret:** He loves the 'Collateral Damage' he causes because it makes him feel significant.
-**Dr. Martinez** (Support Group - The Healer) - A woman of professional warmth and non-judgmental tone. **Voice:** Safe, comforting, and compassionate. **Goal:** To provide a 'Healing Crescendo' for the group and stop the manifestations. **Secret:** She is secretly researching the 'Regret-Energy' to find a way to harvest it for her own grief.
-**Agent Kowalski** (NIS - The Inquisitor) - A man of cold efficiency and institutional gray. **Voice:** Mechanical, authoritative, and direct. **Goal:** To contain the manifestors and secure the 'Regret' files. **Secret:** He has a hidden 'Regret' of his own that hasn't manifest... yet.
-**The Victim's Mother (Echo)** (Victim - The Witness) - A woman whose daughter was killed by a kaiju. **Voice:** Grieving, raging, and emotionally resonant. **Goal:** To force the manifestors to accept responsibility. **Secret:** She already knows the identity of one of the group members.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Protagonist (Gloria)** (Support Group - The Addict) - A woman in an inappropriate dress who is trying to stay sober. **Voice:** Natural, hesitant, and damaged. **Goal:** To stop the destruction in Seoul and find her own worth. **Secret:** Her kaiju is 'Gaunt and Desperate' because it reflects her own addiction yellow.
+2.  **Oscar** (Independent - The Manipulator) - A charming man who owns a bar. **Voice:** Charming, then controlling; gaslighting audible in tone shifts. **Goal:** To control the other manifestors and use their power for his own ego. **Secret:** He loves the 'Collateral Damage' he causes because it makes him feel significant.
+3.  **Dr. Martinez** (Support Group - The Healer) - A woman of professional warmth and non-judgmental tone. **Voice:** Safe, comforting, and compassionate. **Goal:** To provide a 'Healing Crescendo' for the group and stop the manifestations. **Secret:** She is secretly researching the 'Regret-Energy' to find a way to harvest it for her own grief.
+4.  **Agent Kowalski** (NIS - The Inquisitor) - A man of cold efficiency and institutional gray. **Voice:** Mechanical, authoritative, and direct. **Goal:** To contain the manifestors and secure the 'Regret' files. **Secret:** He has a hidden 'Regret' of his own that hasn't manifest... yet.
+5.  **The Victim's Mother (Echo)** (Victim - The Witness) - A woman whose daughter was killed by a kaiju. **Voice:** Grieving, raging, and emotionally resonant. **Goal:** To force the manifestors to accept responsibility. **Secret:** She already knows the identity of one of the group members.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Accountability' in a world of 'Collate
 | The Monk | Ancient Worshipper | Seoul Temple | Spends all his time painting murals of the 'Spirit of Regret.' |
 | The Clerk | Support Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Support Center (Sanctuary)
 A small, institutional green room in a church basement.
 *   **The Circle:** A place of 'Fractured Truth' and warm amber light. **Smell:** Stale coffee, floor wax, and old wood. **Sound:** The rhythmic tapping of a nervous foot.
@@ -89,7 +92,8 @@ A warm, inviting sanctuary that hides a cold, controlling interior.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The interrogation Room:** Where 'Accountability' is adjusted through pain. **Visual:** A single harsh spotlight in the center of the dark. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Recognition:** Watch the news from Seoul. You must survive your first 'Psychological Break' and realize that the monster's movements perfectly mirror your own drunken stumbling.
 2.  **The Controlled Test:** Trigger a small anger in a private room. You must confirm the 'Connection' to Seoul without being caught by the NIS.
 3.  **The Support Group Meet:** Join the five broken people in the church basement. You must share your 'Deepest Regret' to unlock your kaiju's unique ability.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Siege of the Senses:** You are captured by Agent Kowalski. You must survive the 'Re-education' process in the containment cell while maintaining your own internal melody.
 7.  **The Final Bloodletting at the Source:** Face Oscar and his 'Abuse' kaiju face-to-face in a final, reality-bending standoff in Seoul. The truth is revealed—will you wear the skin or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Support Group Token
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Support Group Token:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver coin with the Support Group seal.
 **Mechanics:** Grants the holder absolute confidence in social situations. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 2. Oscar's Bar Key
+2.  **Oscar's Bar Key:**
 **Type:** Wondrous Item (Gatestone)
 **Description:** A heavy, gold key that opens any door in Oscar's estate.
 **Mechanics:** Allows the user to bypass any electronic surveillance or lock and grants advantage on Stealth checks inside high-society locations.
 
-### 3. The Regret-Energy Capsule
+3.  **The Regret-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of your own identity.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Regret' magic.

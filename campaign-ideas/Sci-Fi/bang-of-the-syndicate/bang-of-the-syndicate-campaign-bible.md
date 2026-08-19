@@ -121,27 +121,27 @@ The central conflict is **Stagnation vs. Entropy**.
 
 | Name | Role | Location | Quirk |
 | :--- | :--- | :--- | :--- |
-| Old Man Jobim | Scrapper | Mars | Whistles the same 4 notes constantly. |
-| Katerina | Bartender | The Blue Note | Cleans glasses that are already clean. |
-| Officer Bob | ISSP Cop | Patrol | Always eating a donut (cliché aware). |
-| "Three-Finger" | Gambler | Casino | Flips a coin but never catches it. |
-| Sally the Rat | Informant | Sewers | Sneezes when she lies. |
-| Doohan | Mechanic | Spaceport | Talks to ships as if they are women. |
-| Miles | Jazz Musician | Street | Plays sax with his back to the crowd. |
-| Granny Wen | Noodle Vendor | Street | Slaps customers who don't finish broth. |
-| "Tick-Tock" | Bomb Maker | Basement | Constantly checks his watch. |
-| Silva | Bouncer | Club | Only speaks in sign language. |
-| Rico | Pickpocket | Market | Wears a bell that somehow doesn't ring. |
-| Mei | Hacker | Net Cafe | Types with her toes (no arms). |
-| Father Dan | Priest | Chapel | Smells strongly of cheap gin. |
-| "Spud" | Junkie | Alley | Scratches invisible bugs on his neck. |
-| Lola | Dancer | Club | Has a cybernetic leg that glows. |
-| Captain Haddock | Pilot | Dock | Wears an eye patch on the wrong eye. |
-| Vinny | Loan Shark | Office | Sharpens a pencil with a knife while talking. |
-| "Ghost" | Sniper | Roof | Never blinks during conversation. |
-| Marla | Waitress | Diner | Chews on a toothpick nervously. |
-| Big Earl | Trucker | Highway | Has a pet lizard on his shoulder. |
-| ... | ... | ... | ... |
+| **Old Man Jobim** | Scrapper | Mars | Whistles the same 4 notes constantly. |
+| **Katerina** | Bartender | The Blue Note | Cleans glasses that are already clean. |
+| **Officer Bob** | ISSP Cop | Patrol | Always eating a donut (cliché aware). |
+| **"Three-Finger"** | Gambler | Casino | Flips a coin but never catches it. |
+| **Sally the Rat** | Informant | Sewers | Sneezes when she lies. |
+| **Doohan** | Mechanic | Spaceport | Talks to ships as if they are women. |
+| **Miles** | Jazz Musician | Street | Plays sax with his back to the crowd. |
+| **Granny Wen** | Noodle Vendor | Street | Slaps customers who don't finish broth. |
+| **"Tick-Tock"** | Bomb Maker | Basement | Constantly checks his watch. |
+| **Silva** | Bouncer | Club | Only speaks in sign language. |
+| **Rico** | Pickpocket | Market | Wears a bell that somehow doesn't ring. |
+| **Mei** | Hacker | Net Cafe | Types with her toes (no arms). |
+| **Father Dan** | Priest | Chapel | Smells strongly of cheap gin. |
+| **"Spud"** | Junkie | Alley | Scratches invisible bugs on his neck. |
+| **Lola** | Dancer | Club | Has a cybernetic leg that glows. |
+| **Captain Haddock** | Pilot | Dock | Wears an eye patch on the wrong eye. |
+| **Vinny** | Loan Shark | Office | Sharpens a pencil with a knife while talking. |
+| **"Ghost"** | Sniper | Roof | Never blinks during conversation. |
+| **Marla** | Waitress | Diner | Chews on a toothpick nervously. |
+| **Big Earl** | Trucker | Highway | Has a pet lizard on his shoulder. |
+| **...** | ... | ... | ... |
 *(Table truncated for brevity, assume 30 more entries following this pattern)*
 
 ---

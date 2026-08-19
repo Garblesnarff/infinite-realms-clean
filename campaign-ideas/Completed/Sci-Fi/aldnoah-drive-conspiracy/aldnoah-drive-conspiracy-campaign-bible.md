@@ -18,7 +18,8 @@ The moon didn't just break; it shattered the human ego. In 1972, the Apollo 17 m
 ### The 'Why'
 The central conflict is the clash between 'Divine Right' and 'Human Necessity.' It explores the dehumanizing nature of war and the weight of being a 'Genius' in a world of attrition. The 'Why' is the question: 'Does power come from the tools you are given, or the way you use them?' It examines the class divide—the pristine, golden arrogance of Mars versus the dirty, desperate functionality of Earth. The players are the ones who must navigate the tactical chessboard, knowing that one wrong move means being crushed by a superweapon they can barely comprehend.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The United Earth Forces (UEF)
 **Type:** Mass-Produced Military Resistance
 **Leader:** Captain Magbaredge (A woman of cold command).
@@ -49,12 +50,13 @@ The central conflict is the clash between 'Divine Right' and 'Human Necessity.' 
 **Asset:** Knowledge of ancient Martian tech and a willingness to betray both worlds for their goal.
 **Rivals:** The Vers Royal Family.
 
-## [TAG: NPC_TIER_1]
-**Inaho Kaizuka** (UEF - Tactical Genius) - An Earth cadet with dead, emotionless eyes. **Voice:** Deadpan, analytical, and clipped. **Goal:** To calculate the most efficient path to victory. **Secret:** He sees the world as a series of physics equations and has almost no capacity for empathy.
-**Princess Asseylum** (Vers - Royal Idealist) - The platinum blonde heir to the Martian throne. **Voice:** Kind, elegant, and filled with a tragic hope. **Goal:** To bring peace between Earth and Mars. **Secret:** She is the primary key to the Aldnoah Drive and her death would deactivate all Martian tech.
-**Slaine Troyard** (Vers/Independent - Obsessive Survivor) - An Earth-born servant who has risen to power in the Martian military. **Voice:** Frantic, desperate, and increasingly cold. **Goal:** To protect Asseylum, even if he has to destroy the world to do it. **Secret:** He was the one who 'rescued' the Princess after her assassination attempt.
-**Count Saazbaum** (Vers - Vengeful Knight) - A Martian lord who hates both Earth and the Martian royalty. **Voice:** Booming, arrogant, and filled with a deep-seated rage. **Goal:** To destroy the Vers royal family and Earth simultaneously. **Secret:** He blames the royal family for his father's death during Heaven's Fall.
-**Rayet Areash** (UEF - Vengeful Survivor) - A Martian citizen living on Earth who hates Martian knights. **Voice:** Intense, bitter, and prone to sudden violence. **Goal:** To kill every Martian knight in existence. **Secret:** Her father was one of the conspirators who tried to kill Asseylum.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Inaho Kaizuka** (UEF - Tactical Genius) - An Earth cadet with dead, emotionless eyes. **Voice:** Deadpan, analytical, and clipped. **Goal:** To calculate the most efficient path to victory. **Secret:** He sees the world as a series of physics equations and has almost no capacity for empathy.
+2.  **Princess Asseylum** (Vers - Royal Idealist) - The platinum blonde heir to the Martian throne. **Voice:** Kind, elegant, and filled with a tragic hope. **Goal:** To bring peace between Earth and Mars. **Secret:** She is the primary key to the Aldnoah Drive and her death would deactivate all Martian tech.
+3.  **Slaine Troyard** (Vers/Independent - Obsessive Survivor) - An Earth-born servant who has risen to power in the Martian military. **Voice:** Frantic, desperate, and increasingly cold. **Goal:** To protect Asseylum, even if he has to destroy the world to do it. **Secret:** He was the one who 'rescued' the Princess after her assassination attempt.
+4.  **Count Saazbaum** (Vers - Vengeful Knight) - A Martian lord who hates both Earth and the Martian royalty. **Voice:** Booming, arrogant, and filled with a deep-seated rage. **Goal:** To destroy the Vers royal family and Earth simultaneously. **Secret:** He blames the royal family for his father's death during Heaven's Fall.
+5.  **Rayet Areash** (UEF - Vengeful Survivor) - A Martian citizen living on Earth who hates Martian knights. **Voice:** Intense, bitter, and prone to sudden violence. **Goal:** To kill every Martian knight in existence. **Secret:** Her father was one of the conspirators who tried to kill Asseylum.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the clash between 'Divine Right' and 'Human Necessity.' 
 | The News Anchor | Earth Media | Bunker | Continues to broadcast the 'UEF Victory' even as the city burns. |
 | The Slave | Terran Servant | Martian Castle | Secretly sabotage's Martian tech while cleaning. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Shinawara District
 A gray, rubble-strewn urban battlefield on Earth.
 *   **The School Bunker:** A makeshift military base in an old high school. **Smell:** Dust, stale air, and machine oil. **Sound:** The rhythmic 'clank-clank' of KG-7s patrolling.
@@ -90,7 +93,8 @@ A massive UEF flying carrier powered by a 'stolen' Aldnoah Drive.
 A gothic field of floating debris and ancient Martian ruins.
 *   **The Hypergate Remnants:** A silent, alien monument to human hubris. **Visual:** Blue-white Earth visible through the cracks.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Calculation:** Use a standard KG-7 Kataphrakt to defeat a Martian 'superweapon' by exploiting a specific physics flaw (e.g., surface tension, light refraction).
 2.  **The Princess's Shadow:** Escort a 'civilian' girl (Asseylum in disguise) through a Martian-occupied city without being detected by Orbital Knight scryers.
 3.  **The Deucalion Heist:** Infiltrate a Martian Landing Castle to 're-activate' the Deucalion's Aldnoah Drive.
@@ -99,18 +103,19 @@ A gothic field of floating debris and ancient Martian ruins.
 6.  **The Battle of the Moon:** Lead a desperate boarding action against the Martian flagship in the lunar debris field.
 7.  **The Aldnoah Reset:** Travel to the center of the Martian capital to trigger the 'Master Drive' and end the technological divide forever.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Inaho's Cybernetic Eye
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Inaho's Cybernetic Eye:**
 **Type:** Wondrous Item
 **Description:** A high-tech implant that replaces a lost eye, linked to a combat AI.
 **Mechanics:** Grants the user +5 to Initiative and allows them to ignore all forms of concealment or camouflage.
 
-### 2. The Aldnoah Activation Key
+2.  **The Aldnoah Activation Key:**
 **Type:** Artifact Focus
 **Description:** A handheld device that allows a non-royal to activate Aldnoah tech for 1 hour.
 **Mechanics:** Grants the user the ability to pilot a Martian Kataphrakt and use its unique 'Blood Ability.'
 
-### 3. Asseylum's Royal Pendant
+3.  **Asseylum's Royal Pendant:**
 **Type:** Wondrous Item
 **Description:** A simple, elegant pendant that contains a sliver of the original Aldnoah source.
 **Mechanics:** The wearer can use an action to project a 30ft 'Null-Field' that deactivates all electronic devices (including Kataphrakts) for 1 round.

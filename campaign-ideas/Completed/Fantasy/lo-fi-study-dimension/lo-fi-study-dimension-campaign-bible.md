@@ -18,7 +18,8 @@ The World is not a floor; it's a desk that's being studied by an invisible schol
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'High-Stakes Adventure.' It is about the 'Human Resilience' of the spirit—the realization that you need the peace to appreciate the storm. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal book?' It explores the cozy beauty of the lofi study dimension, the pride in mastering a notebook, and the gentle, resonant voice of a curator who understands that every second is a gift. The players are the students and curators who must navigate the impossible architectures and the intensity of an information overload to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Library Curators (The Order)
 **Type:** Scientific/Bureaucratic Defense Brotherhood
 **Leader:** Lofi (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'High-Stak
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with knowledge.
 
-## [TAG: NPC_TIER_1]
-**Lofi** (Order - The Lead) - A being whose voice is soft, gentle, and soothing. **Voice:** ASMR quality, gentle, multiple voices in unison. **Goal:** To protect the 'Library Balance' and guide the new students. **Secret:** She is secretly an Adept of 'Cozy-Energy' who can 'rewrite' a soul's destiny through her study beats.
-**The Eraser** (Shadow - The Villain) - A being that looks and sounds like a logical scholar. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Curator of Science** (Independent - The Catalyst) - A being whose voice is clear, precise, and patient. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the knowledge-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the library static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless study-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Eraser's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical cardigan gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Lofi ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lofi** (Order - The Lead) - A being whose voice is soft, gentle, and soothing. **Voice:** ASMR quality, gentle, multiple voices in unison. **Goal:** To protect the 'Library Balance' and guide the new students. **Secret:** She is secretly an Adept of 'Cozy-Energy' who can 'rewrite' a soul's destiny through her study beats.
+2.  **The Eraser** (Shadow - The Villain) - A being that looks and sounds like a logical scholar. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under its control. **Secret:** It is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Curator of Science** (Independent - The Catalyst) - A being whose voice is clear, precise, and patient. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the knowledge-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the library static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless study-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Eraser's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical cardigan gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Lofi ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'High-Stak
 | The Monk | Ancient Worshipper | Calm Temple | Spends all his time painting murals of the 'Beat's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Eternal Library (The Hub)
 A grand stone monument to architecture, libraries, and cozy academia.
 *   **The Reading Nook:** A site of 'Refined Formality' and harsh study rituals. **Smell:** Vanilla, old stone, and fresh tea. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and empty books.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a reading nook. You must survive your first 'Eraser Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Lofi Run:** Navigate the traditional territories to find Lofi. You must identify the 'Cozy-Energy' node before the rivals arrive.
 3.  **The Notebook Heist:** Infiltrate the Eraser HQ to retrieve a stolen 'Calm-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face The Eraser face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Calm (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Calm (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Cozy Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Notebook Signet (Equivalent)
+2.  **The Notebook Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the notebook seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Cozy-Energy Capsule (Equivalent)
+3.  **The Cozy-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Logical' magic.

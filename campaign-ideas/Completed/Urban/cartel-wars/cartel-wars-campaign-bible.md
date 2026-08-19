@@ -18,7 +18,8 @@ The Land of Coffee and Gold was once a paradise, a place where the mountains tou
 ### The 'Why'
 The central conflict is the corrupting nature of power and the illusion of morality in a world of absolute greed. It is a battle between three versions of 'Order': the brutal populism of Pablo, the cold-blooded capitalism of Cali, and the cynical interventionism of the DEA. The players are the ones caught in the middle—agents who have lost their way, sicarios who have found their conscience, or civilians just trying to survive. The 'Why' is the question: 'How much blood are you willing to step over to get what you want?' It explores the beauty of the landscape versus the horror of the violence and the tragedy of a nation being torn apart by its own success.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Medellín Cartel (The Kings of Chaos)
 **Type:** Populist Criminal Empire
 **Leader:** Pablo (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the corrupting nature of power and the illusion of moral
 **Asset:** Secrecy and a brutal focus on destroying everything Pablo loves.
 **Rivals:** The Medellín Cartel.
 
-## [TAG: NPC_TIER_1]
-**Pablo** (Criminal - Charismatic Leader) - The Patron of Medellín. **Voice:** Charming, terrifying, and deeply manipulative. **Goal:** To be recognized as the legitimate leader of his people. **Secret:** He is terrified of extradition and will destroy the entire country to prevent it.
-**Agent Murphy** (DEA - Cynical Investigator) - The American outsider. **Voice:** Increasingly hardened and world-weary. **Goal:** To capture Pablo and go home with his soul intact. **Secret:** He has begun to use the same brutal methods as the people he's hunting.
-**Gilberto Rodriguez** (Criminal - Corporate Boss) - The leader of Cali. **Voice:** Businesslike, cold, and calculated. **Goal:** To turn the drug trade into a legitimate global corporation. **Secret:** He views Pablo as an 'embarrassment' to the profession.
-**Colonel Carrillo** (Law Enforcement - Brutal Soldier) - The only honest man in the police. **Voice:** Intense, disciplined, and utterly without mercy. **Goal:** To kill every sicario in the country. **Secret:** He knows he will never survive this war and has accepted his own death.
-**Teresa** (Independent - Family Matriarch) - Pablo's wife. **Voice:** Soft, devoted, and blind to the horror. **Goal:** To keep her family safe and together. **Secret:** She knows exactly where the bodies are buried but chooses to see only the gold.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Pablo** (Criminal - Charismatic Leader) - The Patron of Medellín. **Voice:** Charming, terrifying, and deeply manipulative. **Goal:** To be recognized as the legitimate leader of his people. **Secret:** He is terrified of extradition and will destroy the entire country to prevent it.
+2.  **Agent Murphy** (DEA - Cynical Investigator) - The American outsider. **Voice:** Increasingly hardened and world-weary. **Goal:** To capture Pablo and go home with his soul intact. **Secret:** He has begun to use the same brutal methods as the people he's hunting.
+3.  **Gilberto Rodriguez** (Criminal - Corporate Boss) - The leader of Cali. **Voice:** Businesslike, cold, and calculated. **Goal:** To turn the drug trade into a legitimate global corporation. **Secret:** He views Pablo as an 'embarrassment' to the profession.
+4.  **Colonel Carrillo** (Law Enforcement - Brutal Soldier) - The only honest man in the police. **Voice:** Intense, disciplined, and utterly without mercy. **Goal:** To kill every sicario in the country. **Secret:** He knows he will never survive this war and has accepted his own death.
+5.  **Teresa** (Independent - Family Matriarch) - Pablo's wife. **Voice:** Soft, devoted, and blind to the horror. **Goal:** To keep her family safe and together. **Secret:** She knows exactly where the bodies are buried but chooses to see only the gold.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the corrupting nature of power and the illusion of moral
 | Gustauo | Pablo's Cousin | La Catedral | The 'brains' behind the brawn; always calculating the margin. |
 | The Pilot | Smuggler | Remote Airstrip | Claims he can fly a plane through a keyhole if there's enough cocaine on board. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Medellín Slums
 A colorful, overcrowded labyrinth of brick houses and loyalty.
 *   **The Barrio Pablo Escobar:** A housing project built by the Patron. **Smell:** Charcoal smoke and hope. **Sound:** Children playing and the constant buzz of radios.
@@ -90,7 +93,8 @@ A monument to corporate criminal luxury.
 A grand, art deco symbol of the law that became a tomb.
 *   **The Great Hall:** Site of the final standoff during the siege. **Visual:** Bullet holes in the marble and the smell of cordite and old paper.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **Silver or Lead:** Your first day on the job. You are approached by a Medellín sicario with a bribe. Do you take the silver or risk the lead?
 2.  **The Jungle Heist:** Infiltrate a Medellín jungle lab to retrieve a ledger of political bribes. The lab is guarded by 'Popeye.'
 3.  **A Night in Cali:** Attend a Cali Social Club gala undercover. You must identify the 'Gentlemen's' connection to the Ministry of Justice.
@@ -99,18 +103,19 @@ A grand, art deco symbol of the law that became a tomb.
 6.  **The Los Pepes Gamble:** You are approached by a mysterious group offering to help you kill Pablo. Do you join the vigilantes or maintain your 'DEA' principles?
 7.  **The Rooftop Finale:** The final hunt for Pablo in Medellín. A chaotic, three-way battle between the DEA, the National Police, and the Cartel remnants on the rain-slicked rooftops.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Pablo's Golden Luger
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Pablo's Golden Luger:**
 **Type:** Wondrous Item (Pistol)
 **Description:** A custom-made, gold-plated pistol with 'El Patron' engraved on the handle.
 **Mechanics:** Grants the user advantage on Charisma (Intimidation) checks and deals an extra 2d6 'Legendary' damage to any government official.
 
-### 2. The Cali Wiretap
+2.  **The Cali Wiretap:**
 **Type:** Wondrous Item
 **Description:** A suitcase-sized device that can intercept any radio or telephone signal in the city.
 **Mechanics:** Once per day, the user can ask the DM a question about a target's current location or their most recent conversation.
 
-### 3. Carrillo's Beret
+3.  **Carrillo's Beret:**
 **Type:** Wondrous Item
 **Description:** A blood-stained green beret that represents the incorruptible will of the National Police.
 **Mechanics:** Makes the wearer immune to being charmed or frightened and grants a +2 bonus to AC in urban environments.

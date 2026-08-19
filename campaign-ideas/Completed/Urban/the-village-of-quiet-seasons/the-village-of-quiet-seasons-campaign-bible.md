@@ -135,56 +135,56 @@ Asagao Village acts as a metaphysical "lung" for the region. The conflict is not
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Hideo | Rice Inspector | Fields | Carries a magnifying glass everywhere. |
-| Yumi | Baker | Store | Breads always shaped like frogs. |
-| Takeshi | Fisher | River | Uses gummy bears as bait. |
-| Mrs. Ota | Librarian | Community Center | Whispers even when outside. |
-| Gorou | Taxi Driver | Station | Drives in reverse for luck. |
-| Saki | Florist | Greenhouse | Talks to flowers, claims they talk back. |
-| Daiki | Roofer | Roofs | Afraid of heights, closes eyes. |
-| Emi | Nurse | Clinic | Prescribes "hot milk" for everything. |
-| Jiro | Woodcutter | Forest | Only cuts trees that "volunteer." |
-| Mochi | Cat | Wall | Walks on two legs when no one looks. |
-| Hana | Weaver | Loom | Weaves moonlight into fabric. |
-| Saburo | Pickle Maker | Cellar | Smells permanently of vinegar. |
-| Yuki | Snow Shoveler | Winter | Wears shorts in December. |
-| Ren | Kite Flyer | Hill | Kites are shaped like math equations. |
-| Momo | Peach Farmer | Orchard | Allergic to peaches. |
-| Kenta | Bug Catcher | Woods | Releases bugs after naming them. |
-| Aoi | Cloud Gazer | Roof | Draws maps of the sky. |
-| Shin | Stone Skipper | River | Can skip a stone 20 times. |
-| Mai | Tea Server | Porch | Pours tea from 3 feet high. |
-| Ryo | Bike Fixer | Shed | Uses bubblegum as adhesive. |
-| Tomo | Scarecrow Maker | Fields | Scarecrows look like celebrities. |
-| Yoko | Singer | Bathhouse | Only sings opera in the tub. |
-| Ken | Runner | Roads | Runs backwards for "balance." |
-| Mio | Painter | Easel | Paints only in shades of blue. |
-| Tetsu | Train Fan | Station | Mimics train sounds perfectly. |
-| Nana | Knitter | Bench | Knits sweaters for trees. |
-| Hiro | Astronomer | Night | Owns a telescope made of bamboo. |
-| Kazu | Poet | Under Tree | Writes haiku on leaves. |
-| Rin | Bell Ringer | Temple | Rings bell with head (accidentally). |
-| Sora | Pilot (Retired) | Porch | Wears aviator goggles always. |
-| Uta | Whistler | Bridge | Whistles bird calls to confuse birds. |
-| Gen | Go Player | Park | Plays against himself and loses. |
-| Mari | Pottery | Kiln | Pots are always slightly crooked. |
-| Nori | Seaweed Seller | Cart | Claims seaweed is mermaid hair. |
-| Fumi | Letter Writer | Desk | Writes letters to the moon. |
-| Goro | Gatekeeper | School | Salutes squirrels. |
-| Hina | Doll Maker | Shop | Dolls look like the buyers. |
-| Ichi | Counter | Road | Counts every car (3 per day). |
-| Jun | Juggler | Festival | Juggles tofu (messy). |
-| Kiki | Delivery | Broom | Pretends to fly on broom. |
-| Lulu | Foreigner | Homestay | Speaks perfect dialect, zero standard. |
-| Miki | Fortune Teller | Tent | Uses hamster movement to divine. |
-| Nao | Carpenter | Ladder | Hammers to the beat of songs. |
-| Oki | Fisher | Boat | Afraid of water, stays on dock. |
-| Pako | Alpaca | Farm | Spits in heart shapes. |
-| Q-chan | Robot Toy | Store | Only says "Good Morning" at night. |
-| Roku | Monk | Temple | Breakdances during meditation. |
-| Shiro | Dog | Shrine | Guards a specific pebble. |
-| Tama | Cat | Roof | Wears a red bowtie. |
-| Umi | Swimmer | River | Swims with a straw snorkel. |
+| **Hideo** | Rice Inspector | Fields | Carries a magnifying glass everywhere. |
+| **Yumi** | Baker | Store | Breads always shaped like frogs. |
+| **Takeshi** | Fisher | River | Uses gummy bears as bait. |
+| **Mrs. Ota** | Librarian | Community Center | Whispers even when outside. |
+| **Gorou** | Taxi Driver | Station | Drives in reverse for luck. |
+| **Saki** | Florist | Greenhouse | Talks to flowers, claims they talk back. |
+| **Daiki** | Roofer | Roofs | Afraid of heights, closes eyes. |
+| **Emi** | Nurse | Clinic | Prescribes "hot milk" for everything. |
+| **Jiro** | Woodcutter | Forest | Only cuts trees that "volunteer." |
+| **Mochi** | Cat | Wall | Walks on two legs when no one looks. |
+| **Hana** | Weaver | Loom | Weaves moonlight into fabric. |
+| **Saburo** | Pickle Maker | Cellar | Smells permanently of vinegar. |
+| **Yuki** | Snow Shoveler | Winter | Wears shorts in December. |
+| **Ren** | Kite Flyer | Hill | Kites are shaped like math equations. |
+| **Momo** | Peach Farmer | Orchard | Allergic to peaches. |
+| **Kenta** | Bug Catcher | Woods | Releases bugs after naming them. |
+| **Aoi** | Cloud Gazer | Roof | Draws maps of the sky. |
+| **Shin** | Stone Skipper | River | Can skip a stone 20 times. |
+| **Mai** | Tea Server | Porch | Pours tea from 3 feet high. |
+| **Ryo** | Bike Fixer | Shed | Uses bubblegum as adhesive. |
+| **Tomo** | Scarecrow Maker | Fields | Scarecrows look like celebrities. |
+| **Yoko** | Singer | Bathhouse | Only sings opera in the tub. |
+| **Ken** | Runner | Roads | Runs backwards for "balance." |
+| **Mio** | Painter | Easel | Paints only in shades of blue. |
+| **Tetsu** | Train Fan | Station | Mimics train sounds perfectly. |
+| **Nana** | Knitter | Bench | Knits sweaters for trees. |
+| **Hiro** | Astronomer | Night | Owns a telescope made of bamboo. |
+| **Kazu** | Poet | Under Tree | Writes haiku on leaves. |
+| **Rin** | Bell Ringer | Temple | Rings bell with head (accidentally). |
+| **Sora** | Pilot (Retired) | Porch | Wears aviator goggles always. |
+| **Uta** | Whistler | Bridge | Whistles bird calls to confuse birds. |
+| **Gen** | Go Player | Park | Plays against himself and loses. |
+| **Mari** | Pottery | Kiln | Pots are always slightly crooked. |
+| **Nori** | Seaweed Seller | Cart | Claims seaweed is mermaid hair. |
+| **Fumi** | Letter Writer | Desk | Writes letters to the moon. |
+| **Goro** | Gatekeeper | School | Salutes squirrels. |
+| **Hina** | Doll Maker | Shop | Dolls look like the buyers. |
+| **Ichi** | Counter | Road | Counts every car (3 per day). |
+| **Jun** | Juggler | Festival | Juggles tofu (messy). |
+| **Kiki** | Delivery | Broom | Pretends to fly on broom. |
+| **Lulu** | Foreigner | Homestay | Speaks perfect dialect, zero standard. |
+| **Miki** | Fortune Teller | Tent | Uses hamster movement to divine. |
+| **Nao** | Carpenter | Ladder | Hammers to the beat of songs. |
+| **Oki** | Fisher | Boat | Afraid of water, stays on dock. |
+| **Pako** | Alpaca | Farm | Spits in heart shapes. |
+| **Q-chan** | Robot Toy | Store | Only says "Good Morning" at night. |
+| **Roku** | Monk | Temple | Breakdances during meditation. |
+| **Shiro** | Dog | Shrine | Guards a specific pebble. |
+| **Tama** | Cat | Roof | Wears a red bowtie. |
+| **Umi** | Swimmer | River | Swims with a straw snorkel. |
 
 ---
 

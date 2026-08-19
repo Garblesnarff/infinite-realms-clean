@@ -18,7 +18,8 @@ The World is not a floor; it's a floating island that's being played by an invis
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Authoritarian Threat.' It is about the 'Human Resilience' of the spirit—the realization that you can have power and still be human. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single курса in an eternal book?' It explores the beautiful wonder of the Studio Ghibli inspired world, the pride in mastering a floating island, and the young, resonant voice of a visionary who understands that every second is a gift. The players are the pilots and visionaries who must navigate the industrial oppressions and the intensity of a sky battle to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Sky Pilots (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Dola (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Authorita
 **Asset:** Dark voids, reality-tearing destruction spells, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Sheeta** (Order - The Lead) - A woman whose voice is young, soprano, and gentle but with a steel core. **Voice:** Gentle soprano, core of steel, whispers secrets. **Goal:** To protect the 'Humanity' of the sky and guide the new visionaries. **Secret:** She is secretly an Adept of 'Aether-Energy' who can 'rewrite' a soul's destiny through her ancient pendants.
-**Colonel Muska** (Shadow - The Villain) - A being whose voice is smooth, baritone, and menancing. **Voice:** Smooth baritone, cultured menace, poetric violence. **Goal:** To consolidate all global aether into a single 'Global Spire' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Dola** (Independent - The Catalyst) - A being whose voice is gruff, alto, and maternal. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the aether-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the airship clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless sky-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Muska's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical steampunk gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the aether ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Sheeta** (Order - The Lead) - A woman whose voice is young, soprano, and gentle but with a steel core. **Voice:** Gentle soprano, core of steel, whispers secrets. **Goal:** To protect the 'Humanity' of the sky and guide the new visionaries. **Secret:** She is secretly an Adept of 'Aether-Energy' who can 'rewrite' a soul's destiny through her ancient pendants.
+2.  **Colonel Muska** (Shadow - The Villain) - A being whose voice is smooth, baritone, and menancing. **Voice:** Smooth baritone, cultured menace, poetric violence. **Goal:** To consolidate all global aether into a single 'Global Spire' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Dola** (Independent - The Catalyst) - A being whose voice is gruff, alto, and maternal. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the aether-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the airship clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless sky-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Muska's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical steampunk gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the aether ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Authorita
 | The Monk | Ancient Worshipper | Aether Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Laputa (The Hub)
 A grand sky monument to architecture, gardens, and ancient aether.
 *   **The Crystal Room:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and expensive paper. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and military grey.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Flight Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Goliath Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Sheeta Run:** Navigate the traditional territories to find Sheeta. You must identify the 'Aether-Energy' node before the rivals arrive.
 3.  **The Pendent Heist:** Infiltrate the Goliath HQ to retrieve a stolen 'Aether-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Colonel Muska face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Flight (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Flight (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Aether Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Pendent Signet (Equivalent)
+2.  **The Pendent Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the pendent seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Aether-Energy Capsule (Equivalent)
+3.  **The Aether-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Military' magic.

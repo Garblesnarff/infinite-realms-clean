@@ -129,28 +129,28 @@ The realms are rotting because the cycle of life and death has been arrested by 
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Stig the Unwashed | Bandit | Midgard Woods | Believes water burns skin. |
-| Olgra One-Eye | Merchant | River Pass | Trades only in buttons. |
-| Ylva of the Ash | Survivor | Wildwoods | Her shadow moves independently. |
-| Bjorn the Heavy | Draugr | Ruins | Apologizes before attacking. |
-| Skald the Mute | Bard | Lake of Nine | Mimes epic sagas perfectly. |
-| Hrim | Ice Troll | Mountain Base | Wears a massive necklace of shields. |
-| Elara | Light Elf | Alfheim | Glows purple instead of white (defect). |
-| Vekk | Dark Elf | Alfheim | Afraid of the dark. |
-| Uru | Reaver | Shores of Nine | Has a wooden leg made of a broom. |
-| Krum | Ogre | Foothills | Carries a pet rock named "Tiny." |
-| Svala | Spirit | Helheim | Asks everyone if they’ve seen her cat. |
-| Torstein | Corpse | Helheim | Complains about the cold eternally. |
-| Runa | Witch | Sanctuary | Brews potions that taste like regret. |
-| Grimli | Dwarf | Mines | Hammer is a frozen fish. |
-| Durg | Wulver | Cliffs | Howls in perfect major thirds. |
-| Aesir Scout 4 | Soldier | Watchtower | Helmet is on backward. |
-| Myrk | Revenant | Swamp | Teleports only 2 inches to the left. |
-| Gullveig’s Bones | Spirit | Lake | Screams whenever someone says "Gold." |
-| Fafnir’s Guard | Reaver | Storage | Polishes coins until they vanish. |
-| Hrothgar | Traveller | Road | Armor is welded to his skin. |
-| ... | ... | ... | ... |
-| (Fill to 50) | ... | ... | ... |
+| **Stig the Unwashed** | Bandit | Midgard Woods | Believes water burns skin. |
+| **Olgra One-Eye** | Merchant | River Pass | Trades only in buttons. |
+| **Ylva of the Ash** | Survivor | Wildwoods | Her shadow moves independently. |
+| **Bjorn the Heavy** | Draugr | Ruins | Apologizes before attacking. |
+| **Skald the Mute** | Bard | Lake of Nine | Mimes epic sagas perfectly. |
+| **Hrim** | Ice Troll | Mountain Base | Wears a massive necklace of shields. |
+| **Elara** | Light Elf | Alfheim | Glows purple instead of white (defect). |
+| **Vekk** | Dark Elf | Alfheim | Afraid of the dark. |
+| **Uru** | Reaver | Shores of Nine | Has a wooden leg made of a broom. |
+| **Krum** | Ogre | Foothills | Carries a pet rock named "Tiny." |
+| **Svala** | Spirit | Helheim | Asks everyone if they’ve seen her cat. |
+| **Torstein** | Corpse | Helheim | Complains about the cold eternally. |
+| **Runa** | Witch | Sanctuary | Brews potions that taste like regret. |
+| **Grimli** | Dwarf | Mines | Hammer is a frozen fish. |
+| **Durg** | Wulver | Cliffs | Howls in perfect major thirds. |
+| **Aesir Scout 4** | Soldier | Watchtower | Helmet is on backward. |
+| **Myrk** | Revenant | Swamp | Teleports only 2 inches to the left. |
+| **Gullveig’s Bones** | Spirit | Lake | Screams whenever someone says "Gold." |
+| **Fafnir’s Guard** | Reaver | Storage | Polishes coins until they vanish. |
+| **Hrothgar** | Traveller | Road | Armor is welded to his skin. |
+| **...** | ... | ... | ... |
+| **(Fill to 50)** | ... | ... | ... |
 | **Gris the Pig** | Livestock | Freya's House | Oinks in Morse Code. |
 | **The Stone Face** | Terrain | Mountain | Sneezes rockslides occasionally. |
 | **Old Man Hawthorn**| Tree | Witch's Woods | Grabs ankles of liars. |

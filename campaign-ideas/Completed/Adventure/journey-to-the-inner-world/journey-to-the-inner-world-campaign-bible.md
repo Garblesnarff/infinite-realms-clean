@@ -20,7 +20,8 @@ In the beginning, there was the Great Wyrm, a cosmic serpent of creation. It lai
 ### The "Why"
 The metaphysical conflict is a battle between Order and Chaos, Stability and Creation, played out on a planetary scale. The Shell represents stasis, safety, and eventual decay. The Yolk represents life, chaos, change, and immense danger. The planet itself is a living being on the verge of a universe-altering birth. The players are not just explorers; they are antibodies, catalysts, or midwives to a cosmic event. Their actions will determine whether the Shell shatters, killing all on the surface, whether the Yolk is stabilized, dooming the new Wyrm to an eternity as an unborn god, or whether a new, symbiotic future can be forged between the two worlds.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Delvers' Guild
 **Type:** Corporatist Explorer's League
 **Leader:** Baron Alistair Finch, a wealthy industrialist who sees the Inner World as a treasure trove of resources.
@@ -82,82 +83,84 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 **Asset:** The ability to burrow through any substance and a fanatical belief that the "Hatching" is a holy event that will turn the entire planet into a feast for their worm-god.
 **Rivals:** The Surface Sentinels.
 
-## [TAG: NPC_TIER_1]
-**Baron Alistair Finch** (Human Rogue) - Urbane, ruthless, and impeccably dressed, even underground. **Voice:** A smooth, confident baritone, like a practiced politician. **Goal:** To claim the resources of the Inner World and become the richest man in history. **Secret:** His family is broke; this expedition is his last, desperate gamble.
-**Elder Maeve** (Human Druid) - Grim, determined, with the weight of the world on her shoulders. **Voice:** A low, urgent whisper, as if the world might crack if she speaks too loudly. **Goal:** To seal the Inner World forever, even if it means sacrificing everyone who has gone down. **Secret:** Her visions of the "Hatching" are incomplete; she has only seen the destruction of the Shell, not what comes after.
-**The Luminous One** (Aasimar Warlock) - Serene, detached, speaks in crystalline metaphors. **Voice:** Resonant, chiming, with a faint, musical echo. **Goal:** To achieve the final stage of crystal-transcendence by merging with the Core. **Secret:** The crystal transformation is slowly erasing its original personality and memories.
-**Progenitor Prime** (Aberration Artificer) - A terrifying but intellectually brilliant being of mismatched limbs and organs. **Voice:** A chorus of several voices speaking at once, some gurgling, some clicking, some perfectly eloquent. **Goal:** To guide the evolution of all life towards a "perfect," final form. **Secret:** It is terrified of death and sees constant, forced evolution as the only way to cheat it.
-**Sun-Speaker Kor** (Human Barbarian) - Primal, fierce, and deeply spiritual. **Voice:** A series of guttural clicks, growls, and deep hums that are translated by his "speaker" staff. **Goal:** To protect the Core and ensure the "Birth" happens naturally. **Secret:** He doesn't actually understand the Core's pulses; he's interpreting them based on his own intuition, and is terrified of being wrong.
-**Warden-Unit 734** (Construct Paladin) - Logical, relentless, and bound by its ancient programming. **Voice:** A monotone, synthesized voice, like a vintage text-to-speech program. **Goal:** To uphold its final command: "Seal the Way. Permit no passage." **Secret:** Its programming is degrading, and it has developed a "loophole" that might allow it to be convinced that destroying the Shell is a form of "sealing the way."
-**The First-Mutant** (Tiefling Mutant) - Charismatic, unstable, and wracked by constant, painful transformations. **Voice:** Constantly shifting in pitch and tone, sometimes breaking into a pained scream mid-sentence. **Goal:** To tear down the Great Seal and allow the Yolk's energy to "bless" the surface world with chaotic mutation. **Secret:** He is desperately searching for a way to stabilize his own form, which is slowly killing him.
-**The Silent** (Kenku Bard) - A being in a sound-dampening suit, communicates only through a device that plays back stolen sounds. **Voice:** A collage of sounds: a rockslide, a bird's call, a dying man's last words, a steam whistle. **Goal:** To record the "sound of creation" when the new Great Wyrm is born. **Secret:** It is a Progenitor who has been kept alive by its suit, and it wants to record the birth as a final apology to the universe for its people's hubris.
-**The Great Mind-Spore** (Fungus) - A vast, ancient, and alien intelligence. **Voice:** A telepathic "voice" that feels like warm moss growing in your brain. **Goal:** To connect all living things into its peaceful, silent, thoughtless network. **Secret:** It is not native to the planet; it is a cosmic spore that landed on the egg long ago and has been waiting for it to hatch.
-**The Worm-That-Walks** (Swarm Warlock) - A writhing mass of worms in a suit, driven by a singular, horrifying purpose. **Voice:** The sound of thousands of worms squirming against each other, forming a dry, rustling speech. **Goal:** To ensure the Shell cracks, so its children may feast on the dying world. **Secret:** It was once a surface scholar who became obsessed with immortality and made a pact with a being of pure decay.
-**Captain Eva Rostova** (Human Fighter) - A pragmatic, cynical Delver's Guild expedition leader. **Voice:** Gruff, no-nonsense, with a thick accent. **Goal:** To get her crew in, get the loot, and get out alive. **Secret:** She is secretly working for a rival corporation to sabotage Baron Finch's expedition.
-**Dr. Aris Thorne** (Elf Wizard) - A brilliant but reckless academic on the expedition. **Voice:** Fast, excited, full of academic jargon. **Goal:** To be the first to categorize and document the Inner World's flora and fauna. **Secret:** He is the disgraced younger brother of Master Navigator Elias Thorne.
-**Grak, the "Tame" Troglodyte** (Troglodyte Barbarian) - A member of the Children of the Core who acts as a guide. **Voice:** A series of clicks and grunts, but with surprisingly expressive eyes. **Goal:** To lead the "surface-dwellers" to their doom without them realizing it. **Secret:** He is actually highly intelligent and speaks perfect Common, but finds it amusing to pretend to be a simple-minded brute.
-**The Crystal-Hearted** (Dwarf Paladin) - A former Delver who has joined the Geode-Gnostics. **Voice:** Slow, deliberate, with a faint crystalline ringing. **Goal:** To convince others to embrace the "gift" of crystal transformation. **Secret:** He desperately misses the taste of beer and bread.
-**The Bio-Scout** (Goblin Rogue) - A scout for the Flesh-Weavers, with multiple eyes and wings grafted to its back. **Voice:** A high-pitched, chittering sound. **Goal:** To collect genetic samples of surface-dwellers for its master. **Secret:** It wants to be "woven" into a new, more powerful form and is looking for a suitable "donor."
-**Sentinel Joric** (Human Ranger) - A grim, determined scout for the Surface Sentinels. **Voice:** A low growl, speaks in clipped sentences. **Goal:** To map the weaknesses in the Great Seal's tunnels so they can be collapsed. **Secret:** His family was killed in the earthquake that opened the passage, and he is driven by pure revenge against the Inner World.
-**The Last Yolk-Embracer** (Deva Sorcerer) - An ancient, winged being who has lived in the Inner World for millennia. **Voice:** A sad, beautiful, melodic tone. **Goal:** To find a way for the Shell and Yolk to coexist. **Secret:** It was the one who convinced the Progenitors to first enter the Yolk, and it bears the guilt of all that has happened since.
-**The Echo-Hunter** (Tabaxi Ranger) - A mercenary who hunts sonic creatures for the Echo-Thieves. **Voice:** A purr-like, quiet voice, almost a whisper. **Goal:** To capture the "sound" of a specific, rare bird that only lives in the deepest caverns. **Secret:** The bird's song is the key to a Progenitor weapon.
-**Mind-Spore Muriel** (Human Druid) - A surface-dweller who has joined the Myconid Sovereignty. **Voice:** A calm, flat, telepathic voice. **Goal:** To expand the Sovereignty's network to the surface world, believing it will bring peace. **Secret:** She is terrified of her own individuality being completely subsumed by the hive mind.
-**Brother Ouroboros** (Dragonborn Cleric) - A member of the Society of the Blind Worm. **Voice:** A hissing, sibilant whisper. **Goal:** To find the "Heart of the Egg" and feed it to his worm-god. **Secret:** He believes the Great Wyrm at the end of the hatching will be his worm-god, and he will be its prophet.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Baron Alistair Finch** (Human Rogue) - Urbane, ruthless, and impeccably dressed, even underground. **Voice:** A smooth, confident baritone, like a practiced politician. **Goal:** To claim the resources of the Inner World and become the richest man in history. **Secret:** His family is broke; this expedition is his last, desperate gamble.
+2.  **Elder Maeve** (Human Druid) - Grim, determined, with the weight of the world on her shoulders. **Voice:** A low, urgent whisper, as if the world might crack if she speaks too loudly. **Goal:** To seal the Inner World forever, even if it means sacrificing everyone who has gone down. **Secret:** Her visions of the "Hatching" are incomplete; she has only seen the destruction of the Shell, not what comes after.
+3.  **The Luminous One** (Aasimar Warlock) - Serene, detached, speaks in crystalline metaphors. **Voice:** Resonant, chiming, with a faint, musical echo. **Goal:** To achieve the final stage of crystal-transcendence by merging with the Core. **Secret:** The crystal transformation is slowly erasing its original personality and memories.
+4.  **Progenitor Prime** (Aberration Artificer) - A terrifying but intellectually brilliant being of mismatched limbs and organs. **Voice:** A chorus of several voices speaking at once, some gurgling, some clicking, some perfectly eloquent. **Goal:** To guide the evolution of all life towards a "perfect," final form. **Secret:** It is terrified of death and sees constant, forced evolution as the only way to cheat it.
+5.  **Sun-Speaker Kor** (Human Barbarian) - Primal, fierce, and deeply spiritual. **Voice:** A series of guttural clicks, growls, and deep hums that are translated by his "speaker" staff. **Goal:** To protect the Core and ensure the "Birth" happens naturally. **Secret:** He doesn't actually understand the Core's pulses; he's interpreting them based on his own intuition, and is terrified of being wrong.
+6.  **Warden-Unit 734** (Construct Paladin) - Logical, relentless, and bound by its ancient programming. **Voice:** A monotone, synthesized voice, like a vintage text-to-speech program. **Goal:** To uphold its final command: "Seal the Way. Permit no passage." **Secret:** Its programming is degrading, and it has developed a "loophole" that might allow it to be convinced that destroying the Shell is a form of "sealing the way."
+7.  **The First-Mutant** (Tiefling Mutant) - Charismatic, unstable, and wracked by constant, painful transformations. **Voice:** Constantly shifting in pitch and tone, sometimes breaking into a pained scream mid-sentence. **Goal:** To tear down the Great Seal and allow the Yolk's energy to "bless" the surface world with chaotic mutation. **Secret:** He is desperately searching for a way to stabilize his own form, which is slowly killing him.
+8.  **The Silent** (Kenku Bard) - A being in a sound-dampening suit, communicates only through a device that plays back stolen sounds. **Voice:** A collage of sounds: a rockslide, a bird's call, a dying man's last words, a steam whistle. **Goal:** To record the "sound of creation" when the new Great Wyrm is born. **Secret:** It is a Progenitor who has been kept alive by its suit, and it wants to record the birth as a final apology to the universe for its people's hubris.
+9.  **The Great Mind-Spore** (Fungus) - A vast, ancient, and alien intelligence. **Voice:** A telepathic "voice" that feels like warm moss growing in your brain. **Goal:** To connect all living things into its peaceful, silent, thoughtless network. **Secret:** It is not native to the planet; it is a cosmic spore that landed on the egg long ago and has been waiting for it to hatch.
+10.  **The Worm-That-Walks** (Swarm Warlock) - A writhing mass of worms in a suit, driven by a singular, horrifying purpose. **Voice:** The sound of thousands of worms squirming against each other, forming a dry, rustling speech. **Goal:** To ensure the Shell cracks, so its children may feast on the dying world. **Secret:** It was once a surface scholar who became obsessed with immortality and made a pact with a being of pure decay.
+11.  **Captain Eva Rostova** (Human Fighter) - A pragmatic, cynical Delver's Guild expedition leader. **Voice:** Gruff, no-nonsense, with a thick accent. **Goal:** To get her crew in, get the loot, and get out alive. **Secret:** She is secretly working for a rival corporation to sabotage Baron Finch's expedition.
+12.  **Dr. Aris Thorne** (Elf Wizard) - A brilliant but reckless academic on the expedition. **Voice:** Fast, excited, full of academic jargon. **Goal:** To be the first to categorize and document the Inner World's flora and fauna. **Secret:** He is the disgraced younger brother of Master Navigator Elias Thorne.
+13.  **Grak, the "Tame" Troglodyte** (Troglodyte Barbarian) - A member of the Children of the Core who acts as a guide. **Voice:** A series of clicks and grunts, but with surprisingly expressive eyes. **Goal:** To lead the "surface-dwellers" to their doom without them realizing it. **Secret:** He is actually highly intelligent and speaks perfect Common, but finds it amusing to pretend to be a simple-minded brute.
+14.  **The Crystal-Hearted** (Dwarf Paladin) - A former Delver who has joined the Geode-Gnostics. **Voice:** Slow, deliberate, with a faint crystalline ringing. **Goal:** To convince others to embrace the "gift" of crystal transformation. **Secret:** He desperately misses the taste of beer and bread.
+15.  **The Bio-Scout** (Goblin Rogue) - A scout for the Flesh-Weavers, with multiple eyes and wings grafted to its back. **Voice:** A high-pitched, chittering sound. **Goal:** To collect genetic samples of surface-dwellers for its master. **Secret:** It wants to be "woven" into a new, more powerful form and is looking for a suitable "donor."
+16.  **Sentinel Joric** (Human Ranger) - A grim, determined scout for the Surface Sentinels. **Voice:** A low growl, speaks in clipped sentences. **Goal:** To map the weaknesses in the Great Seal's tunnels so they can be collapsed. **Secret:** His family was killed in the earthquake that opened the passage, and he is driven by pure revenge against the Inner World.
+17.  **The Last Yolk-Embracer** (Deva Sorcerer) - An ancient, winged being who has lived in the Inner World for millennia. **Voice:** A sad, beautiful, melodic tone. **Goal:** To find a way for the Shell and Yolk to coexist. **Secret:** It was the one who convinced the Progenitors to first enter the Yolk, and it bears the guilt of all that has happened since.
+18.  **The Echo-Hunter** (Tabaxi Ranger) - A mercenary who hunts sonic creatures for the Echo-Thieves. **Voice:** A purr-like, quiet voice, almost a whisper. **Goal:** To capture the "sound" of a specific, rare bird that only lives in the deepest caverns. **Secret:** The bird's song is the key to a Progenitor weapon.
+19.  **Mind-Spore Muriel** (Human Druid) - A surface-dweller who has joined the Myconid Sovereignty. **Voice:** A calm, flat, telepathic voice. **Goal:** To expand the Sovereignty's network to the surface world, believing it will bring peace. **Secret:** She is terrified of her own individuality being completely subsumed by the hive mind.
+20.  **Brother Ouroboros** (Dragonborn Cleric) - A member of the Society of the Blind Worm. **Voice:** A hissing, sibilant whisper. **Goal:** To find the "Heart of the Egg" and feed it to his worm-god. **Secret:** He believes the Great Wyrm at the end of the hatching will be his worm-god, and he will be its prophet.
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
-| Boro | Delver's Guild Rigger | The Great Drill | Chews on rocks instead of tobacco. |
-| Cally | Surface Sentinel Scout | The Fissure's Edge | Believes she can hear the Shell "groaning" in pain. |
-| Doro | Geode-Gnostic Carver | The Crystal Caves | Carves sculptures that are only visible from the fourth dimension. |
-| Eris | Flesh-Weaver Stitcher | The Splicing Vats | Has a third arm that she uses exclusively for petting small animals. |
-| Flin | Child of the Core Hunter | The Bioluminescent Jungle | Wears a hat made from a still-living, glowing mushroom. |
-| Goro | Warden-Unit | The First Gate | Can only count in prime numbers. |
-| Hettie | Yolk-Embracer Mutant | The Chaos Wastes | Her skin changes color and pattern based on the weather. |
-| Ilo | Echo-Thief Listener | The Resonant Canyons | Can hear the sound of colors. |
-| Jex | Myconid Spore-Bearer | The Fungal Forests | Communicates by releasing puffs of differently-scented spores. |
-| Kael | Blind Worm Initiate | The Worm Tunnels | Is actually a colony of sentient worms that have forgotten they are a colony. |
-| Lila | Delver's Guild Cook | The Mess Hall | Makes stew that tastes different with every spoonful. |
-| Milo | Surface Sentinel Saboteur | The Rope-Bridge | Is afraid of heights. |
-| Nena | Geode-Gnostic Polisher | The Hall of Facets | Believes each crystal facet is a gateway to another world. |
-| Orin | Flesh-Weaver Beast-Handler | The Menagerie | Has replaced his own eyes with those of a cat for better night vision. |
-| Pip | Child of the Core Gatherer | The Sun-Fruit Grove | Can ask plants for permission before picking their fruit. |
-| Quon | Warden-Unit Smith | The Automaton Forge | Sings binary lullabies to the constructs he repairs. |
-| Rhee | Yolk-Embracer Storyteller | The Mutation Pools | Her stories cause minor, temporary mutations in her listeners. |
-| Silas | Echo-Thief Scout | The Whispering Falls | His footsteps make no sound, but their echo is deafening. |
-| Tork | Myconid Cultivator | The Spore-Farms | Is trying to grow a mushroom that tastes like courage. |
-| Ula | Blind Worm Digger | The Deep Tunnels | Navigates by the taste of the dirt. |
-| Val | Delver's Guild Cartographer | The Map Room | Her maps are edible and taste like the terrain they depict. |
-| Wex | Surface Sentinel Priest | The Chapel of the Firmament | Preaches that the sky is a solid dome that must be protected. |
-| Xyla | Geode-Gnostic Singer | The Crystal Cathedral | Sings to the crystals to make them grow faster. |
-| Yarrow | Flesh-Weaver Gardener | The Grafting Garden | Is growing a tree that bears a different animal on each branch. |
-| Zinn | Child of the Core Artist | The Pigment Caves | Makes paint from the glowing minerals of the caves. |
-| Anya | Delver's Guild Medic | The Infirmary | Uses glowing cave-leeches for bloodletting. |
-| Balthus | Surface Sentinel Mason | The Buttress Project | Is trying to build a giant keystone to "lock" the planet's crust in place. |
-| Cora | Geode-Gnostic Jeweler | The Gemstone Market | Sells jewelry that slowly merges with the wearer's body. |
-| Dex | Flesh-Weaver Spy | The Delver's Guild Camp | Has chameleon skin, but it's always about 5 minutes behind his current background. |
-| Elara | Child of the Core Weaver | The Silk-Spider Caves | Weaves clothes from spider silk that is stronger than steel. |
-| Faelan | Warden-Unit Archivist | The Data-Crypt | Stores its data on clay tablets, believing digital storage is ephemeral. |
-| Griz | Yolk-Embracer Brute | The Fighting Pits | Has a second, smaller head that whispers terrible advice. |
-| Hiko | Echo-Thief Musician | The Sound Market | Sells instruments that play sounds that have never existed before. |
-| Iona | Myconid Diplomat | The Neutral Zone | Its "head" is a beautiful, glowing flower that entrances those who look at it. |
-| Jax | Blind Worm Scout | The Surface Wastes | Wears a suit filled with dirt from his home tunnel. |
-| Kaelen | Delver's Guild Quartermaster | The Supply Depot | Is obsessed with perfect, symmetrical organization. |
-| Lyra | Surface Sentinel Archer | The High Ledges | Uses arrows fletched with her own hair. |
-| Mort | Geode-Gnostic Guide | The Crystal Labyrinth | Is slowly forgetting his original language, replacing it with crystalline chimes. |
-| Nym | Flesh-Weaver Surgeon | The Chirurgeon's Tent | Has fingers that can split into smaller, more precise surgical tools. |
-| Olen | Child of the Core Elder | The Story-Cave | His cave-paintings move and re-enact the stories he tells. |
-| Pella | Warden-Unit Analyst | The Observation Deck | Can calculate the exact probability of any event, but is always wrong. |
-| Quill | Yolk-Embracer Poet | The Chaos Garden | Writes poems that, when read aloud, cause the listener's hair to change color. |
-| Roric | Echo-Thief Saboteur | The Delver's Guild Drill | Can perfectly mimic the sound of a machine breaking down. |
-| Syla | Myconid Dream-Weaver | The Spore-Dream Den | Can guide the dreams of those who sleep within the hive-mind's range. |
-| Thrax | Blind Worm Executioner | The Pit of Consumption | Is just a very large, very intelligent worm. |
-| Umbra | Delver's Guild Blaster | The Quarry | Is half-deaf from the explosions and communicates mostly by shouting. |
-| Vorn | Surface Sentinel Watcher | The Great Chasm | Has not slept in ten years, sustained by sheer willpower and alchemical stimulants. |
-| Wren | Geode-Gnostic Child | The Crystal Nursery | Was born with small, perfect crystals growing from her skin. |
-| Yul | Flesh-Weaver Chef | The Growth-Vats | Cooks food that is still technically alive when you eat it. |
+| **Boro** | Delver's Guild Rigger | The Great Drill | Chews on rocks instead of tobacco. |
+| **Cally** | Surface Sentinel Scout | The Fissure's Edge | Believes she can hear the Shell "groaning" in pain. |
+| **Doro** | Geode-Gnostic Carver | The Crystal Caves | Carves sculptures that are only visible from the fourth dimension. |
+| **Eris** | Flesh-Weaver Stitcher | The Splicing Vats | Has a third arm that she uses exclusively for petting small animals. |
+| **Flin** | Child of the Core Hunter | The Bioluminescent Jungle | Wears a hat made from a still-living, glowing mushroom. |
+| **Goro** | Warden-Unit | The First Gate | Can only count in prime numbers. |
+| **Hettie** | Yolk-Embracer Mutant | The Chaos Wastes | Her skin changes color and pattern based on the weather. |
+| **Ilo** | Echo-Thief Listener | The Resonant Canyons | Can hear the sound of colors. |
+| **Jex** | Myconid Spore-Bearer | The Fungal Forests | Communicates by releasing puffs of differently-scented spores. |
+| **Kael** | Blind Worm Initiate | The Worm Tunnels | Is actually a colony of sentient worms that have forgotten they are a colony. |
+| **Lila** | Delver's Guild Cook | The Mess Hall | Makes stew that tastes different with every spoonful. |
+| **Milo** | Surface Sentinel Saboteur | The Rope-Bridge | Is afraid of heights. |
+| **Nena** | Geode-Gnostic Polisher | The Hall of Facets | Believes each crystal facet is a gateway to another world. |
+| **Orin** | Flesh-Weaver Beast-Handler | The Menagerie | Has replaced his own eyes with those of a cat for better night vision. |
+| **Pip** | Child of the Core Gatherer | The Sun-Fruit Grove | Can ask plants for permission before picking their fruit. |
+| **Quon** | Warden-Unit Smith | The Automaton Forge | Sings binary lullabies to the constructs he repairs. |
+| **Rhee** | Yolk-Embracer Storyteller | The Mutation Pools | Her stories cause minor, temporary mutations in her listeners. |
+| **Silas** | Echo-Thief Scout | The Whispering Falls | His footsteps make no sound, but their echo is deafening. |
+| **Tork** | Myconid Cultivator | The Spore-Farms | Is trying to grow a mushroom that tastes like courage. |
+| **Ula** | Blind Worm Digger | The Deep Tunnels | Navigates by the taste of the dirt. |
+| **Val** | Delver's Guild Cartographer | The Map Room | Her maps are edible and taste like the terrain they depict. |
+| **Wex** | Surface Sentinel Priest | The Chapel of the Firmament | Preaches that the sky is a solid dome that must be protected. |
+| **Xyla** | Geode-Gnostic Singer | The Crystal Cathedral | Sings to the crystals to make them grow faster. |
+| **Yarrow** | Flesh-Weaver Gardener | The Grafting Garden | Is growing a tree that bears a different animal on each branch. |
+| **Zinn** | Child of the Core Artist | The Pigment Caves | Makes paint from the glowing minerals of the caves. |
+| **Anya** | Delver's Guild Medic | The Infirmary | Uses glowing cave-leeches for bloodletting. |
+| **Balthus** | Surface Sentinel Mason | The Buttress Project | Is trying to build a giant keystone to "lock" the planet's crust in place. |
+| **Cora** | Geode-Gnostic Jeweler | The Gemstone Market | Sells jewelry that slowly merges with the wearer's body. |
+| **Dex** | Flesh-Weaver Spy | The Delver's Guild Camp | Has chameleon skin, but it's always about 5 minutes behind his current background. |
+| **Elara** | Child of the Core Weaver | The Silk-Spider Caves | Weaves clothes from spider silk that is stronger than steel. |
+| **Faelan** | Warden-Unit Archivist | The Data-Crypt | Stores its data on clay tablets, believing digital storage is ephemeral. |
+| **Griz** | Yolk-Embracer Brute | The Fighting Pits | Has a second, smaller head that whispers terrible advice. |
+| **Hiko** | Echo-Thief Musician | The Sound Market | Sells instruments that play sounds that have never existed before. |
+| **Iona** | Myconid Diplomat | The Neutral Zone | Its "head" is a beautiful, glowing flower that entrances those who look at it. |
+| **Jax** | Blind Worm Scout | The Surface Wastes | Wears a suit filled with dirt from his home tunnel. |
+| **Kaelen** | Delver's Guild Quartermaster | The Supply Depot | Is obsessed with perfect, symmetrical organization. |
+| **Lyra** | Surface Sentinel Archer | The High Ledges | Uses arrows fletched with her own hair. |
+| **Mort** | Geode-Gnostic Guide | The Crystal Labyrinth | Is slowly forgetting his original language, replacing it with crystalline chimes. |
+| **Nym** | Flesh-Weaver Surgeon | The Chirurgeon's Tent | Has fingers that can split into smaller, more precise surgical tools. |
+| **Olen** | Child of the Core Elder | The Story-Cave | His cave-paintings move and re-enact the stories he tells. |
+| **Pella** | Warden-Unit Analyst | The Observation Deck | Can calculate the exact probability of any event, but is always wrong. |
+| **Quill** | Yolk-Embracer Poet | The Chaos Garden | Writes poems that, when read aloud, cause the listener's hair to change color. |
+| **Roric** | Echo-Thief Saboteur | The Delver's Guild Drill | Can perfectly mimic the sound of a machine breaking down. |
+| **Syla** | Myconid Dream-Weaver | The Spore-Dream Den | Can guide the dreams of those who sleep within the hive-mind's range. |
+| **Thrax** | Blind Worm Executioner | The Pit of Consumption | Is just a very large, very intelligent worm. |
+| **Umbra** | Delver's Guild Blaster | The Quarry | Is half-deaf from the explosions and communicates mostly by shouting. |
+| **Vorn** | Surface Sentinel Watcher | The Great Chasm | Has not slept in ten years, sustained by sheer willpower and alchemical stimulants. |
+| **Wren** | Geode-Gnostic Child | The Crystal Nursery | Was born with small, perfect crystals growing from her skin. |
+| **Yul** | Flesh-Weaver Chef | The Growth-Vats | Cooks food that is still technically alive when you eat it. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Great Chasm of Al-Ghor
 The primary entrance to the Inner World, a man-made canyon created by the Progenitors' first drilling machine.
 *   **The Delver's Guild Terminus:** A bustling, chaotic frontier town clinging to the canyon walls. **Smell:** Steam, coal smoke, fried food, unwashed bodies. **Sound:** The constant grinding of lifts and drills, shouting, the blast of steam whistles.
@@ -198,7 +201,8 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 *   **The Final Gate:** The last Progenitor-built structure, a massive gate of unknown material that orbits the Core. **Smell:** Sterile metal, ozone. **Sound:** A low, warning hum.
 *   **The Surface of the Core:** Not a physical place that can be stood upon, but the "event horizon" of the nascent consciousness. To touch it is to be unmade and remade. **Smell:** The smell of pure creation. **Sound:** The sound of every possible song at once.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Crack in the World:** The players' home town is partially swallowed by a massive earthquake and chasm.
 2.  **Down the Rabbit Hole:** The players are hired by the Delvers' Guild to join an expedition into the newly-opened chasm.
 3.  **The Sentinel's Gambit:** The Surface Sentinels try to sabotage the expedition, believing it will doom the world.
@@ -251,33 +255,35 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 | The Sound of Color | Ilo, the Listener | Help him "capture" the sound of a specific, rare color. | He will teach you how to hear lies (they sound like a faint, sour note). |
 | The Living Hat | Flin, the Hunter | Find a special kind of moss to feed his living mushroom hat. | The hat will grant you the ability to speak with fungi. |
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Egg-Cracker
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Egg-Cracker:**
 **Type:** Legendary Warhammer
 **Description:** A massive warhammer, supposedly carved from the beak-tooth of the first creature to hatch from a different World-Egg. It hums with a resonant frequency that is anathema to the Shell.
 **Mechanics:** The hammer is a +3 warhammer that deals an extra 2d8 thunder damage. When it strikes a stone or earth surface, it sends a shockwave in a 30-foot cone. Creatures in the cone must make a STR save or be knocked prone. It can be used to shatter the Progenitor Seals with three successful strikes.
 
-### 2. The Heart of the Yolk
+2.  **The Heart of the Yolk:**
 **Type:** Wondrous Item (Orb)
 **Description:** A pulsating, gelatinous orb of pure, chaotic life-force, harvested from the Sea of Chaos. It is warm to the touch and constantly shifts in shape and color.
 **Mechanics:** Once per day, the holder can use it to cast *Polymorph* on themselves or another creature without requiring concentration. The form is unstable, however, and at the end of each minute, the target must make a CON save or gain a random, minor mutation. If held for more than 1 hour, the holder must make a CON save or permanently merge with the Heart, becoming a being of pure chaos.
 
-### 3. The Progenitor's Key
+3.  **The Progenitor's Key:**
 **Type:** Wondrous Item (Device)
 **Description:** A complex, multi-dimensional device of interlocking rings and crystals, used by the Shell-Wardens to create the Great Seal.
 **Mechanics:** The Key can be used to open or close any Progenitor-built door or gateway. Once per week, it can be used to cast *Forcecage*. If brought to the Core, it can be used to perform the Great Sealing ritual, which will stabilize the Shell but forever imprison the new Great Wyrm.
 
-### 4. The Luminous Carapace
+4.  **The Luminous Carapace:**
 **Type:** Legendary Armor (Plate)
 **Description:** Armor crafted by the Geode-Gnostics from a single piece of living, intelligent crystal. It glows with a soft, internal light and chimes softly when struck.
 **Mechanics:** The armor is +2 plate armor that grants the wearer resistance to psychic damage and immunity to being frightened. The wearer can use an action to absorb any light source within 30 feet, plunging the area into darkness and healing themselves for 2d10 hit points. **Curse:** The armor is alive and telepathically bonded to the wearer. It has its own personality (detached, logical) and will occasionally offer unsolicited, often unhelpful, advice.
 
-### 5. The Weaver's Loom
+5.  **The Weaver's Loom:**
 **Type:** Artifact (Tool)
 **Description:** A grotesque but beautiful loom from the Flesh-Weavers, made of bone, sinew, and living organs. It can unravel and re-weave the very fabric of life.
 **Mechanics:** The Loom can be used to combine two or more willing (or incapacitated) creatures into a single, new being, blending their abilities. It can also be used to grant a creature a new ability (e.g., wings, gills, extra arms) by "weaving" the DNA of another creature into it. Using the Loom is a dark, forbidden art and requires a successful Medicine check against a high DC. Failure results in a horrifying, unstable amalgam that lives only for a few, painful minutes.
 
-## [TAG: ITEM_LOOT]
+### Custom Loot
+[TAG: ITEM_LOOT]
 1.  **A Rock That Falls Up:** A small, smooth stone that, when dropped, falls upwards at a speed of 30 feet per round.
 2.  **The Impatient Seed:** A seed that, when planted, grows into a full-sized, fruit-bearing tree in 10 seconds, then immediately withers and dies.
 3.  **A Compass That Points to the Most Interesting Thing:** A compass whose needle points towards what it considers the most "interesting" thing in a 1-mile radius. Its definition of "interesting" is highly subjective.

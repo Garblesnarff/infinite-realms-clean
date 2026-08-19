@@ -18,7 +18,8 @@ The World is not a floor; it's a bathhouse that's being cleaned by an invisible 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Choice.' It is about the 'Human Resilience' of the spirit—the realization that magic is real if you're with your friends. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kursi in an eternal book?' It explores the beautiful wonder of the spirit world, the pride in mastering a hospitality feat, and the gentle, resonant voice of a narrator who understands that every second is a gift. The players are the visitors and workers who must navigate the celestial politics and the intensity of a spirit train sequence to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Bathhouse Workers (The Order)
 **Type:** Martial/Sacred Defense Brotherhood
 **Leader:** Yubaba (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Yubaba** (Order - The Lead) - A woman whose voice is bombastic and slightly grotesque. **Voice:** Large head, gaudy jewelry, commanding presence. **Goal:** To protect the 'Bathhouse Balance' and guide the new workers. **Secret:** She is secretly an Adept of 'Spirit-Energy' who can 'rewrite' a soul's destiny through her magical contracts.
-**No-Face** (Shadow - The Villain) - A being whose voice is unsettling and minimal. **Voice:** Black silhouette, white mask, minimal piano melody. **Goal:** To consolidate all global greed into a single 'Perfect Vacuum' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Haku** (Independent - The Catalyst) - A boy whose voice is flowing and wise. **Voice:** Boy as boy, dragon as dragon, flowing strings and flute. **Goal:** To find the 'destination' and stop the contract-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the bathhouse noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Yubaba's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Wash ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Yubaba** (Order - The Lead) - A woman whose voice is bombastic and slightly grotesque. **Voice:** Large head, gaudy jewelry, commanding presence. **Goal:** To protect the 'Bathhouse Balance' and guide the new workers. **Secret:** She is secretly an Adept of 'Spirit-Energy' who can 'rewrite' a soul's destiny through her magical contracts.
+2.  **No-Face** (Shadow - The Villain) - A being whose voice is unsettling and minimal. **Voice:** Black silhouette, white mask, minimal piano melody. **Goal:** To consolidate all global greed into a single 'Perfect Vacuum' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Haku** (Independent - The Catalyst) - A boy whose voice is flowing and wise. **Voice:** Boy as boy, dragon as dragon, flowing strings and flute. **Goal:** To find the 'destination' and stop the contract-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the bathhouse noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Yubaba's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Wash ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Wash Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Bathhouse (The Hub)
 A grand wooden monument to architecture, baths, and lantern light.
 *   **The Reading Room:** A site of 'Refined Formality' and harsh cellular rituals. **Smell:** Vanilla, old wood, and expensive tea. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and contracts.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Yubaba Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Haku Run:** Navigate the traditional territories to find Haku. You must identify the 'Spirit-Energy' node before the rivals arrive.
 3.  **The Token Heist:** Infiltrate the Yubaba HQ to retrieve a stolen 'Token-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Yubaba face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Balance (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Balance (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Sacred Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Token Signet (Equivalent)
+2.  **The Token Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the token seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Spirit-Energy Capsule (Equivalent)
+3.  **The Spirit-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Industrial' magic.

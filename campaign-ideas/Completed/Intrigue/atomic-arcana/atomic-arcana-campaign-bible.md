@@ -18,7 +18,8 @@ The World is a brick wall that's about to be torn down. In the twilight of the C
 ### The 'Why'
 The central conflict is the struggle for 'Personal Truth' in a world of 'Institutional Deception.' It is about the 'Grutal Realism' of being a spy—the realization that winning hurts, and losing is permanent. The 'Why' is the question: 'Who can you trust when even your own mind is an unreliable narrator?' It explores the cold, hard desperation of the stairwell fight, the vulnerability of the ice bath interrogation, and the historic chaos of the Wall falling. The players are the operatives who must navigate the neon brutalism to find a truth that hasn't been redacted by the Fallout.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The SIS (The British Bureau)
 **Type:** Professional Intelligence Agency
 **Leader:** C (A man of cold, extracting truth).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Personal Truth' in a world of 'Institu
 **Asset:** Genuine warmth, innocence in a cynical world, and a connection to the 'Ice Bath' humanity.
 **Rivals:** Everyone (targets of the system).
 
-## [TAG: NPC_TIER_1]
-**Lorraine** (SIS - Professional Cool) - A British agent with a professional cool hiding deep damage. **Voice:** British-accented, noir-toned, and measured. **Goal:** To retrieve The List and survive the mission. **Secret:** She is a high-level Adept of 'Fallout' who can 'rewrite' her own memory to survive interrogation.
-**Percival** (SIS/Rebel - Charming Sociopath) - An agent who has gone native in West Berlin. **Voice:** Gone-native accent shift, charming, and unpredictable. **Goal:** To control the Berlin underworld and trade The List for his own profit. **Secret:** He was the one who murdered Lorraine's partner to trigger the current chaos.
-**Delphine** (Independent - French Warmth) - A French operative with genuine warmth and innocence. **Voice:** French-accented, soft, and emotionally resonant. **Goal:** To find a way out of the spy life and protect Lorraine. **Secret:** She has already seen the contents of The List and knows that Lorraine is on it.
-**Spyglass** (Stasi - Terrified Bureaucrat) - A man who is not hero material and knows too much. **Voice:** Terrified, German-accented, and fast-paced. **Goal:** To trade his technical knowledge for asylum in the West. **Secret:** He is the one who designed the 'Containment Field' within the Wall.
-**The Interrogator** (KGB - Cold Professional) - A man of cold, extracting truth. **Voice:** Cold, professional, and mechanical. **Goal:** To extract the location of The List through the 'Ice Bath' protocol. **Secret:** He secretly respects Lorraine's ability to withstand pain and views their sessions as a form of art.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Lorraine** (SIS - Professional Cool) - A British agent with a professional cool hiding deep damage. **Voice:** British-accented, noir-toned, and measured. **Goal:** To retrieve The List and survive the mission. **Secret:** She is a high-level Adept of 'Fallout' who can 'rewrite' her own memory to survive interrogation.
+2.  **Percival** (SIS/Rebel - Charming Sociopath) - An agent who has gone native in West Berlin. **Voice:** Gone-native accent shift, charming, and unpredictable. **Goal:** To control the Berlin underworld and trade The List for his own profit. **Secret:** He was the one who murdered Lorraine's partner to trigger the current chaos.
+3.  **Delphine** (Independent - French Warmth) - A French operative with genuine warmth and innocence. **Voice:** French-accented, soft, and emotionally resonant. **Goal:** To find a way out of the spy life and protect Lorraine. **Secret:** She has already seen the contents of The List and knows that Lorraine is on it.
+4.  **Spyglass** (Stasi - Terrified Bureaucrat) - A man who is not hero material and knows too much. **Voice:** Terrified, German-accented, and fast-paced. **Goal:** To trade his technical knowledge for asylum in the West. **Secret:** He is the one who designed the 'Containment Field' within the Wall.
+5.  **The Interrogator** (KGB - Cold Professional) - A man of cold, extracting truth. **Voice:** Cold, professional, and mechanical. **Goal:** To extract the location of The List through the 'Ice Bath' protocol. **Secret:** He secretly respects Lorraine's ability to withstand pain and views their sessions as a form of art.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Personal Truth' in a world of 'Institu
 | The Oracle | Adept | Rain-Slicked Alley | Can 'see' the glowing neon reflections of the truth. |
 | 'Static' | Stasi Spy | Anywhere | Flickers in and out of the light when the Wall is almost ready to fall. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### East Berlin (Soviet Gray)
 A cold, hard, and unforgiving landscape of concrete despair and propaganda red.
 *   **The Stasi HQ:** A labyrinth of gray corridors and windowless offices. **Smell:** Stale cigarettes, concrete dust, and machine oil. **Sound:** The rhythmic hum of fluorescent lights.
@@ -89,7 +92,8 @@ A monumental concrete symbol of division and Arcane energy.
 A clinical, white space where 'The Truth' is extracted through interrogation.
 *   **The Ice Bath:** A site of 'Physical Trauma' and vulnerability. **Visual:** A single harsh spotlight in the center of the dark.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Cold Arrival:** Arrive in Berlin. You must survive your first 'Stairwell Fight' against three KGB assassins using only your environment.
 2.  **The List Heist:** Infiltrate the Stasi HQ to retrieve the Arcane operative microfilm. You must bypass the 'Spyglass' and his watching eye.
 3.  **The Blue Room Seduction:** Meet Delphine in a West Berlin club. You must use your 'Professional Cool' to find out what she knows about Percival.
@@ -98,18 +102,19 @@ A clinical, white space where 'The Truth' is extracted through interrogation.
 6.  **The Fall of the Wall:** The Containment Field is failing. You must lead an escape through the Death Strip as the crowd tears down the concrete.
 7.  **The Final Debrief:** A face-to-face confrontation with C in the SIS facility. The truth is revealed through 'Flashback' evidence and mutual respect as the mission ends.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Lorraine's Lighter
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Lorraine's Lighter:**
 **Type:** Wondrous Item (Focus)
 **Description:** A simple, silver lighter that hums with the key of the SIS.
 **Mechanics:** Grants the user the ability to 'See' the truth behind any lie told in the room. Once per day, the user can 'Silence' a target for 1 minute.
 
-### 2. The List (Microfilm)
+2.  **The List (Microfilm):**
 **Type:** Artifact (Tome)
 **Description:** A single, tiny piece of film containing the names of every Arcane operative.
 **Mechanics:** Grants the holder advantage on all Intelligence (History) and Wisdom (Insight) checks. **Curse:** The holder is hunted by every faction in Berlin.
 
-### 3. The Ice Bath Amulet
+3.  **The Ice Bath Amulet:**
 **Type:** Wondrous Item
 **Description:** A small, frozen jewel that pulses with the power of the fallout.
 **Mechanics:** Grants the wearer resistance to all forms of cold and psychic damage. Once per day, the wearer can 'Stabilize' their own mental state for 1 hour.

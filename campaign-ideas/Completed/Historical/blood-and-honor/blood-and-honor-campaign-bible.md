@@ -18,7 +18,8 @@ Rome was not built on marble; it was built on blood and the 'Grand Ambition' of 
 ### The 'Why'
 The central conflict is the struggle between 'Personal Honor' and 'Systemic Corruption.' It is about the 'Tragic Nobility' of the human spirit—the realization that what we do in life echoes in eternity. The 'Why' is the question: 'Can justice be achieved in a world that is only entertained by your destruction?' It explores the epic scale of the massive architecture, the visceral horror of the blood in the sand, and the weary but powerful voice of a man who has lost everything except his honor. The players are the gladiators, senators, and survivors who must navigate the subtext of a palace plot and the intensity of a chariot race to find a resolution that satisfies both their 'Glory' and their conscience.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Legion of the Lost (The Gladiators)
 **Type:** Elite/Survivalist Arena Combatants
 **Leader:** Maximus (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Personal Honor' and 'Systemic Corr
 **Asset:** Infinite gold, 'Glory-Energy' manipulation, and a theatrical command of the crowd.
 **Rivals:** The Legion of the Lost.
 
-## [TAG: NPC_TIER_1]
-**Maximus Decimus Meridius** (Gladiator - Fallen Leader) - A man who has lost everything except his honor. **Voice:** Weary, powerful, and choosing each word carefully. **Goal:** To avenge his family and restore the Republic. **Secret:** He is secretly an Adept of 'Glory-Energy' who can 'echo' his past commands through the sand.
-**Emperor Commodus** (Order - The Villain) - A man in golden armor with an increasingly unhinged expression. **Voice:** Smooth, then screaming; theatrical and narcissistic. **Goal:** To be loved by the crowd more than his father was. **Secret:** He killed his own father, Marcus Aurelius, to prevent the return of the Republic.
-**Senator Gracchus** (Senate - The Strategist) - A man in a white toga with purple stripes. **Voice:** Wise, calculated, and whispered. **Goal:** To use Maximus to overthrow Commodus and restore the Senate's power. **Secret:** He is secretly funding Proximo's school to build a 'Slave Army.'
-**Lucilla** (Independent - The Link) - Commodus's sister and Maximus's former lover. **Voice:** Sophisticated, intelligent, and filled with a haunted dread. **Goal:** To protect her son and save Rome from her brother's madness. **Secret:** she is the one who 'accidentally' left the secret message for the general in the Senate catacombs.
-**Proximo** (Independent - The Mentor) - A man who was once a gladiator and is now a business owner. **Voice:** Gruff, cynical, and authoritative. **Goal:** To make enough gold to retire and leave the 'Blood Business.' **Secret:** He still carries the 'Wooden Sword' of his own freedom and views Maximus as his only legacy.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Maximus Decimus Meridius** (Gladiator - Fallen Leader) - A man who has lost everything except his honor. **Voice:** Weary, powerful, and choosing each word carefully. **Goal:** To avenge his family and restore the Republic. **Secret:** He is secretly an Adept of 'Glory-Energy' who can 'echo' his past commands through the sand.
+2.  **Emperor Commodus** (Order - The Villain) - A man in golden armor with an increasingly unhinged expression. **Voice:** Smooth, then screaming; theatrical and narcissistic. **Goal:** To be loved by the crowd more than his father was. **Secret:** He killed his own father, Marcus Aurelius, to prevent the return of the Republic.
+3.  **Senator Gracchus** (Senate - The Strategist) - A man in a white toga with purple stripes. **Voice:** Wise, calculated, and whispered. **Goal:** To use Maximus to overthrow Commodus and restore the Senate's power. **Secret:** He is secretly funding Proximo's school to build a 'Slave Army.'
+4.  **Lucilla** (Independent - The Link) - Commodus's sister and Maximus's former lover. **Voice:** Sophisticated, intelligent, and filled with a haunted dread. **Goal:** To protect her son and save Rome from her brother's madness. **Secret:** she is the one who 'accidentally' left the secret message for the general in the Senate catacombs.
+5.  **Proximo** (Independent - The Mentor) - A man who was once a gladiator and is now a business owner. **Voice:** Gruff, cynical, and authoritative. **Goal:** To make enough gold to retire and leave the 'Blood Business.' **Secret:** He still carries the 'Wooden Sword' of his own freedom and views Maximus as his only legacy.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Personal Honor' and 'Systemic Corr
 | The Monk | Ancient Worshipper | Temple of Mars | Spends all his time painting murals of the 'Spirit of Rome.' |
 | The Clerk | Senate Admin | Headquarters | Only communicates through a rhythmic 'Order of Progress' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Grand Colosseum (The Battlefield)
 A massive, four-level amphitheater of white marble and golden sand.
 *   **The Arena Floor:** A site of 'Savage Spectacle' and harsh afternoon sunlight. **Smell:** Blood, stale sweat, and sun-bleached stone. **Sound:** The rhythmic 'roar-roar' of 50,000 voices.
@@ -89,7 +92,8 @@ A white marble and gold trim monument to imperial majesty and whispered plots.
 A dark, paper-cluttered building where the 'Truth' is buried in shadows.
 *   **The Meeting Room:** Where the 'Republic Restoration' was first spoken. **Visual:** A single oil lamp in the center of the dark. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The General's Fall:** Experience the betrayal in the Teutoburg Forest. You must escape the executioners and find your way back to your family's villa.
 2.  **The First Strike:** Arrive at Proximo's school as a new slave. You must win your first 'Pits Battle' while maintaining your 'Honor Level.'
 3.  **The Senate Infiltration:** Infiltrate the Imperial Palace catacombs to find Senator Gracchus. You must bypass the Imperial Guard patrols.
@@ -98,18 +102,19 @@ A dark, paper-cluttered building where the 'Truth' is buried in shadows.
 6.  **The Siege of the Senses:** You are captured by Commodus. You must survive the 'Psychological Interrogation' in the palace while maintaining your own internal melody.
 7.  **The Final Bloodletting:** Face Commodus face-to-face in a final, public duel in the Colosseum. The truth is revealed—will you wear the crown or restore the Republic?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the General
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the General:**
 **Type:** Legendary Gladius
 **Description:** A simple, iron short sword that seems to hum with the energy of the first Legion.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Echo of Command' strike (once per combat, deals 10d10 radiant damage).
 
-### 2. The Emperor's Laurel
+2.  **The Emperor's Laurel:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A golden laurel wreath that grants the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Persuasion and Intimidation) checks and makes them immune to being recognized as a slave.
 
-### 3. The Wooden Sword of Freedom
+3.  **The Wooden Sword of Freedom:**
 **Type:** Artifact (Focus)
 **Description:** A simple, wooden gladius given to gladiators who have earned their freedom.
 **Mechanics:** Grants the user the ability to 'Authorize' any action, making it immune to political obstacles for 1 hour. Once per day, the user can create a 30ft 'Sanctuary Field.'

@@ -18,7 +18,8 @@ The World is not a floor; it's a wound that's leaking negative emotion. In the h
 ### The 'Why'
 The central conflict is the struggle between 'Individual Identity' and 'Cursed Predestination.' It is about the 'Existential Dread' of the human spirit—the realization that 'Everyone's going to die eventually, but we protect people anyway.' The 'Why' is the question: 'Can you remain human when you are simultaneously the monster that wants to delete the world?' It explores the sharp geometry of the cityscapes, the visceral horror of the splitting skin, and the darkly humorous voice of a god that speaks in negative emotions. The players are the sorcerers and vessels who must navigate the subculture politics and the intensity of a domain expansion to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Tokyo Sorcerer School (The Order)
 **Type:** Theocratic Martial Arts Academy
 **Leader:** Satoru Gojo (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Individual Identity' and 'Cursed P
 **Asset:** Black-purple voids, reality-tearing tendrils, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Satoru Gojo** (Order - The Leader) - A man in a dark blue uniform with a blindfold and a refined, weary expression. **Voice:** Authoritative, measured, and supemely confident. **Goal:** To turn his students into 'Legendary Sorcerers' and defeat the Sorcerer King. **Secret:** He is secretly an Adept of 'Negative-Energy' who can 'see' the infinite Japanese garden through his blindfold.
-**Mahito** (Disruptor - The Villain) - A being who appears as a patchwork human with multiple eyes. **Voice:** Whispered, slow, and terrifyingly reasonable. **Goal:** To reclaim the 'Surface Souls' for the cursed network and witness the final silence. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Sukuna awakening.
-**Itadori Yuji** (Survivor - The Lead) - A high school student in a red hoodie with determined eyes. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To consume all twenty fingers and die a 'Natural Death' while saving people. **Secret:** she is the only person who can 'hear' the original Song of the World through the cursed clashing.
-**The Sorcerer King (Sukuna)** (Cursed - The Mastermind) - A man in a simple white mask (equivalent) with black tattoo patterns. **Voice:** Darkly humorous, casual, and intense. **Goal:** To be released from his vessel and rule the world through 'Absolute Choice.' **Secret:** He is the player character's biological twin (equivalent), the one who first परफॉर्म the cursed ritual.
-**The Mentor (Nanami)** (Order - The Expert) - A man in a tan business suit with a technical vocabulary. **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To maintain the 'Order of Progress' and get his overtime pay. **Secret:** He has discovered a 'Vulnerability' in the Special Grade's domain that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Satoru Gojo** (Order - The Leader) - A man in a dark blue uniform with a blindfold and a refined, weary expression. **Voice:** Authoritative, measured, and supemely confident. **Goal:** To turn his students into 'Legendary Sorcerers' and defeat the Sorcerer King. **Secret:** He is secretly an Adept of 'Negative-Energy' who can 'see' the infinite Japanese garden through his blindfold.
+2.  **Mahito** (Disruptor - The Villain) - A being who appears as a patchwork human with multiple eyes. **Voice:** Whispered, slow, and terrifyingly reasonable. **Goal:** To reclaim the 'Surface Souls' for the cursed network and witness the final silence. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Sukuna awakening.
+3.  **Itadori Yuji** (Survivor - The Lead) - A high school student in a red hoodie with determined eyes. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To consume all twenty fingers and die a 'Natural Death' while saving people. **Secret:** she is the only person who can 'hear' the original Song of the World through the cursed clashing.
+4.  **The Sorcerer King (Sukuna)** (Cursed - The Mastermind) - A man in a simple white mask (equivalent) with black tattoo patterns. **Voice:** Darkly humorous, casual, and intense. **Goal:** To be released from his vessel and rule the world through 'Absolute Choice.' **Secret:** He is the player character's biological twin (equivalent), the one who first परफॉर्म the cursed ritual.
+5.  **The Mentor (Nanami)** (Order - The Expert) - A man in a tan business suit with a technical vocabulary. **Voice:** Precise, intellectual, and slightly nasal. **Goal:** To maintain the 'Order of Progress' and get his overtime pay. **Secret:** He has discovered a 'Vulnerability' in the Special Grade's domain that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Individual Identity' and 'Cursed P
 | The Guard | Higher-Up Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Cursed Temple | Spends all his time painting murals of the 'Wound's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Tokyo Jujutsu High (The Hub)
 A gothic, institutional monument to cursed knowledge and old stone.
 *   **The Main Hall:** A site of 'Refined Formality' and harsh artificial lighting. **Smell:** Incense, old stone, and machine oil. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and non-euclidean geometry.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Altar of Bones:** Where the 'Final Choice' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The Ingestion:** Wake up in a Shibuya cell. You must survive your first 'Cursed Spirit Ambush' while maintaining your 'Sanity' level.
 2.  **The Finger run:** Navigate the traditional territories to find Satoru Gojo. You must identify the 'Cursed-Energy' node before the rivals arrive.
 3.  **The School Heist:** Infiltrate the Tokyo Sorcerer School to retrieve a stolen 'Cursed-Tool.' You must bypass Megumi's shadows.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Sorcerer King face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Sorcerer
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Sorcerer:**
 **Type:** Legendary Weapon
 **Description:** A simple, black katana that seems to hum with the energy of the first Master.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Cursed-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet (Equivalent)
+2.  **The Mandala Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Cursed-Energy Capsule
+3.  **The Cursed-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Domain' magic.

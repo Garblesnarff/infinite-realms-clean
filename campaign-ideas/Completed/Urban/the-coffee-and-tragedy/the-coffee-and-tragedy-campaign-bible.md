@@ -209,56 +209,56 @@ The conflict exists because the laws of physics in this world are allergic to "P
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Sato | Student | Kamii Univ. | Smells like bleach when lying. |
-| Tanaka | Cop | Ward 20 | Whistles nursery rhymes while arresting people. |
-| Dr. Yui | Surgeon | General Hospital | Hands are always ice cold (0 degrees). |
-| Kenta | Ghoul | Back Alley | Eats only left hands. |
-| Mio | Waitress | Café | Has a pet rock she talks to seriously. |
-| Old Man Jin | Homeless | Park | Claims the pigeons are CCG drones. |
-| Yuki | CCG Rookie | HQ | Carries a lucky rabbit's foot (actual rabbit foot). |
-| "Teeth" | Thug | Ward 14 | Replaces own teeth with jagged metal. |
-| Mari | Librarian | Ward 20 | Bleeds ink from nose when stressed. |
-| Kenji | Salaryman | Train Station | Walks perfectly backward. |
-| Sister Rose | Nun | Church | Prays to a "God of Hunger." |
-| "Slick" | Fixer | Sewers | Skin is constantly secreting oil. |
-| Haru | Florist | Ward 20 | Waters plants with blood (secretly). |
-| Ren | Gamer | Arcade | Plays with feet; hands are broken. |
-| "Echo" | Informant | Phone Booth | Speaks only in movie quotes. |
-| Mai | Nurse | Hospital | Collects patient's hair in a locket. |
-| Taro | Butcher | Market | Is a vegetarian Ghoul (starving). |
-| Shin | Driver | Taxi | Never blinks. Ever. |
-| Yumi | Artist | Gallery | Paints with mixture of oil and tears. |
-| "Click" | Stalker | Rooftops | Joints click audibly at 100 meters. |
-| Hideo | Janitor | School | Mops in perfect geometric spirals. |
-| Rina | Idol | TV Station | Voice creates mild static on radios. |
-| "Boxer" | Brawler | Underground | Wears a helmet made of a skull. |
-| Jiro | Cook | Ramen Shop | Broth tastes like nostalgia (magic?). |
-| Emi | Student | High School | Shadow lags 2 seconds behind her. |
-| "Gills" | Mutant | Docks | Has functional gills on neck (Ghoul mutation). |
-| Koji | Architect | Ward 4 | Buildings he designs always hum. |
-| Yoko | Tailor | Boutique | Uses veins instead of thread. |
-| "Rust" | Scavenger | Junkyard | Tetanus makes him stronger. |
-| Aya | Child | Orphanage | Eyes glow when she sneezes. |
-| Ben | Tourist | Hotel | Taking photos of invisible things. |
-| "Shade" | Assassin | Shadows | Can flatten body to 2D. |
-| Mika | Baker | Bakery | Bread screams when sliced (hallucination). |
-| Ryu | Yakuza | Club | Tattoo moves across his body. |
-| "Silence" | Mime | Street | Creates invisible walls that are real. |
-| Hana | Florist | Park | Flowers die when she touches them. |
-| Gen | Monk | Temple | Levitates 1 inch when asleep. |
-| "Spike" | Punk | Alley | Hair is hard as needles. |
-| Nori | Fisher | River | Catches fish with human faces. |
-| "Glitch" | Hacker | Net Café | Digital avatar bleeds. |
-| Saki | Teacher | School | Chalk dust orbits her head. |
-| "Brick" | Guard | Prison | Skin feels like sandpaper. |
-| Yuto | Courier | Bike | Always arrives exactly at 3:33 PM. |
-| "Viper" | Dealer | Club | Tongue is forked (surgically). |
-| Chiyo | Granny | Bench | Knits infinite scarves. |
-| "Moth" | Addict | Underpass | Attracted to bright lights physically. |
-| Roku | Bartender | Bar | Ice cubes never melt in his drinks. |
-| "Drip" | Plumber | Sewers | Constantly wet, creates puddles. |
-| Asuka | Clerk | Store | Barcode scanner beeps when pointed at her. |
-| "End" | Prophet | Corner | Predicting the apocalypse in binary. |
+| **Sato** | Student | Kamii Univ. | Smells like bleach when lying. |
+| **Tanaka** | Cop | Ward 20 | Whistles nursery rhymes while arresting people. |
+| **Dr. Yui** | Surgeon | General Hospital | Hands are always ice cold (0 degrees). |
+| **Kenta** | Ghoul | Back Alley | Eats only left hands. |
+| **Mio** | Waitress | Café | Has a pet rock she talks to seriously. |
+| **Old Man Jin** | Homeless | Park | Claims the pigeons are CCG drones. |
+| **Yuki** | CCG Rookie | HQ | Carries a lucky rabbit's foot (actual rabbit foot). |
+| **"Teeth"** | Thug | Ward 14 | Replaces own teeth with jagged metal. |
+| **Mari** | Librarian | Ward 20 | Bleeds ink from nose when stressed. |
+| **Kenji** | Salaryman | Train Station | Walks perfectly backward. |
+| **Sister Rose** | Nun | Church | Prays to a "God of Hunger." |
+| **"Slick"** | Fixer | Sewers | Skin is constantly secreting oil. |
+| **Haru** | Florist | Ward 20 | Waters plants with blood (secretly). |
+| **Ren** | Gamer | Arcade | Plays with feet; hands are broken. |
+| **"Echo"** | Informant | Phone Booth | Speaks only in movie quotes. |
+| **Mai** | Nurse | Hospital | Collects patient's hair in a locket. |
+| **Taro** | Butcher | Market | Is a vegetarian Ghoul (starving). |
+| **Shin** | Driver | Taxi | Never blinks. Ever. |
+| **Yumi** | Artist | Gallery | Paints with mixture of oil and tears. |
+| **"Click"** | Stalker | Rooftops | Joints click audibly at 100 meters. |
+| **Hideo** | Janitor | School | Mops in perfect geometric spirals. |
+| **Rina** | Idol | TV Station | Voice creates mild static on radios. |
+| **"Boxer"** | Brawler | Underground | Wears a helmet made of a skull. |
+| **Jiro** | Cook | Ramen Shop | Broth tastes like nostalgia (magic?). |
+| **Emi** | Student | High School | Shadow lags 2 seconds behind her. |
+| **"Gills"** | Mutant | Docks | Has functional gills on neck (Ghoul mutation). |
+| **Koji** | Architect | Ward 4 | Buildings he designs always hum. |
+| **Yoko** | Tailor | Boutique | Uses veins instead of thread. |
+| **"Rust"** | Scavenger | Junkyard | Tetanus makes him stronger. |
+| **Aya** | Child | Orphanage | Eyes glow when she sneezes. |
+| **Ben** | Tourist | Hotel | Taking photos of invisible things. |
+| **"Shade"** | Assassin | Shadows | Can flatten body to 2D. |
+| **Mika** | Baker | Bakery | Bread screams when sliced (hallucination). |
+| **Ryu** | Yakuza | Club | Tattoo moves across his body. |
+| **"Silence"** | Mime | Street | Creates invisible walls that are real. |
+| **Hana** | Florist | Park | Flowers die when she touches them. |
+| **Gen** | Monk | Temple | Levitates 1 inch when asleep. |
+| **"Spike"** | Punk | Alley | Hair is hard as needles. |
+| **Nori** | Fisher | River | Catches fish with human faces. |
+| **"Glitch"** | Hacker | Net Café | Digital avatar bleeds. |
+| **Saki** | Teacher | School | Chalk dust orbits her head. |
+| **"Brick"** | Guard | Prison | Skin feels like sandpaper. |
+| **Yuto** | Courier | Bike | Always arrives exactly at 3:33 PM. |
+| **"Viper"** | Dealer | Club | Tongue is forked (surgically). |
+| **Chiyo** | Granny | Bench | Knits infinite scarves. |
+| **"Moth"** | Addict | Underpass | Attracted to bright lights physically. |
+| **Roku** | Bartender | Bar | Ice cubes never melt in his drinks. |
+| **"Drip"** | Plumber | Sewers | Constantly wet, creates puddles. |
+| **Asuka** | Clerk | Store | Barcode scanner beeps when pointed at her. |
+| **"End"** | Prophet | Corner | Predicting the apocalypse in binary. |
 
 ---
 
@@ -327,36 +327,36 @@ The conflict exists because the laws of physics in this world are allergic to "P
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost beans | Yoshimura | Retrieve a sack of premium coffee from a gang zone. | +Reputation (Anteiku) |
-| The Broken Mask | Uta | Find rare "elastic bone" material. | Custom Mask Upgrade |
-| The Stalker | Touka | Scare a human stalker without killing them. | Combat Technique |
-| The Gourmet's Dish | Tsukiyama | Steal a specific handkerchief from a CCG officer. | Rare Cash |
-| The Lost Finger | Yomo | Find a detached finger before the police do. | +Stealth XP |
-| Rabbit's Foot | Hinami | Buy her a specific keychain from a human shop. | Morale Boost |
-| The Glitch | Signal Zero | Plant a virus in a CCG camera. | Heat Reduction |
-| The Midnight Run | 5AM Joggers | Outrun the joggers in a rooftop chase. | Stamina Up |
-| The Porcelain Skin | Kintsugi | Steal ceramic plates from a lab. | Armor Upgrade |
-| The Silent Note | Madame Aria | Deliver a letter to a deaf musician. | Audio Decoy Item |
-| Bad Meat | Nishiki | Investigate ghouls getting sick from bad meat. | Poison Resistance |
-| The Snitch | The Manager | Silence an informant (non-lethal). | +Sanity |
-| The Bookworm | Kaneki | Find a first edition of "The Black Goat's Egg". | +Intelligence |
-| The Lost Quinque | Black Market | Steal a briefcase from a drunk investigator. | High Value Loot |
-| The Clean Plate | Mr. Empty | Let him eat your pinky toe. | Massive Cash |
-| The Sewer King | Slick | Clear out a blockage of bones in the sewer. | Shortcut Map |
-| The Artist's Muse | Yumi | Pose for a painting while using Kagune. | Portrait (Vanity) |
-| The Cat Rescue | Akira Mado | Save a stray cat from a high ledge. | CCG Favor (Secret) |
-| The Broken Quinque | Juuzou | Find his lost stitching needle. | He won't kill you once. |
-| The Architect | Bureau | Map a collapsed tunnel. | Safehouse Access |
-| The Operatic Aria | Madame Aria | Record the scream of a Dove. | Sonic Grenade |
-| The Vending Machine | Repairman | Fix a blood-dispensing machine. | Free Rations |
-| The Dead Drop | Info Broker | Deliver a package without opening it (it's a head). | Intel |
-| The Graffiti War | Uta | Tag a CCG van with ghoul symbols. | Street Cred |
-| The Rainy Day | Touka | Share an umbrella with a human without attacking. | +Humanity |
-| The Doctor's Pet | Dr. Kanou | Capture a live rat (giant mutation). | Biology Lore |
-| The Red Flower | Haru | Plant a flower on a fresh grave. | Spiritual Peace |
-| The Heavy Box | Old Man Jin | Carry a box of "secrets" across town. | It's just rocks (Wisdom). |
-| The Broken Clock | Yuto | Deliver a watch that runs backwards. | Time-slow ability (temp). |
-| The Final Cup | The Barista | Brew the perfect cup of coffee. | Full Heal. |
+| **The Lost beans** | Yoshimura | Retrieve a sack of premium coffee from a gang zone. | +Reputation (Anteiku) |
+| **The Broken Mask** | Uta | Find rare "elastic bone" material. | Custom Mask Upgrade |
+| **The Stalker** | Touka | Scare a human stalker without killing them. | Combat Technique |
+| **The Gourmet's Dish** | Tsukiyama | Steal a specific handkerchief from a CCG officer. | Rare Cash |
+| **The Lost Finger** | Yomo | Find a detached finger before the police do. | +Stealth XP |
+| **Rabbit's Foot** | Hinami | Buy her a specific keychain from a human shop. | Morale Boost |
+| **The Glitch** | Signal Zero | Plant a virus in a CCG camera. | Heat Reduction |
+| **The Midnight Run** | 5AM Joggers | Outrun the joggers in a rooftop chase. | Stamina Up |
+| **The Porcelain Skin** | Kintsugi | Steal ceramic plates from a lab. | Armor Upgrade |
+| **The Silent Note** | Madame Aria | Deliver a letter to a deaf musician. | Audio Decoy Item |
+| **Bad Meat** | Nishiki | Investigate ghouls getting sick from bad meat. | Poison Resistance |
+| **The Snitch** | The Manager | Silence an informant (non-lethal). | +Sanity |
+| **The Bookworm** | Kaneki | Find a first edition of "The Black Goat's Egg". | +Intelligence |
+| **The Lost Quinque** | Black Market | Steal a briefcase from a drunk investigator. | High Value Loot |
+| **The Clean Plate** | Mr. Empty | Let him eat your pinky toe. | Massive Cash |
+| **The Sewer King** | Slick | Clear out a blockage of bones in the sewer. | Shortcut Map |
+| **The Artist's Muse** | Yumi | Pose for a painting while using Kagune. | Portrait (Vanity) |
+| **The Cat Rescue** | Akira Mado | Save a stray cat from a high ledge. | CCG Favor (Secret) |
+| **The Broken Quinque** | Juuzou | Find his lost stitching needle. | He won't kill you once. |
+| **The Architect** | Bureau | Map a collapsed tunnel. | Safehouse Access |
+| **The Operatic Aria** | Madame Aria | Record the scream of a Dove. | Sonic Grenade |
+| **The Vending Machine** | Repairman | Fix a blood-dispensing machine. | Free Rations |
+| **The Dead Drop** | Info Broker | Deliver a package without opening it (it's a head). | Intel |
+| **The Graffiti War** | Uta | Tag a CCG van with ghoul symbols. | Street Cred |
+| **The Rainy Day** | Touka | Share an umbrella with a human without attacking. | +Humanity |
+| **The Doctor's Pet** | Dr. Kanou | Capture a live rat (giant mutation). | Biology Lore |
+| **The Red Flower** | Haru | Plant a flower on a fresh grave. | Spiritual Peace |
+| **The Heavy Box** | Old Man Jin | Carry a box of "secrets" across town. | It's just rocks (Wisdom). |
+| **The Broken Clock** | Yuto | Deliver a watch that runs backwards. | Time-slow ability (temp). |
+| **The Final Cup** | The Barista | Brew the perfect cup of coffee. | Full Heal. |
 
 ---
 

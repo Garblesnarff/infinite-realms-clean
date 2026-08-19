@@ -18,7 +18,8 @@ The World is not a floor; it's a territory that's being defended by a thousand j
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Supernatural Deception.' It is about the 'Working Class Heroism' of the human spirit—the realization that being a 'Coyote' is the ultimate form of freedom. The 'Why' is the question: 'Can you remain a part of the pack when your own nature wants you to run alone?' It explores the realistic texture of the weathered leather, the visceral horror of the mid-transformation, and the practical, straightforward voice of a woman who knows that wisdom is found in every word. The players are the walkers and werewolves who must navigate the subculture politics and the intensity of a river-chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Columbia Basin Pack (The Order)
 **Type:** Elite/Hierarchical Shapeshifter Brotherhood
 **Leader:** Alpha Adam (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Supernatu
 **Asset:** Knowledge of the city's mundane secrets and a refusal to participate in the 'Vibe-War.'
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Mercy Thompson** (Independent - The Lead) - A woman in oil-stained coveralls with a determined expression. **Voice:** Practical, straightforward, and filled with dry humor. **Goal:** To protect her territory and find a way to stop the Fae. **Secret:** She is secretly an Adept of 'Vibe-Energy' who can 'see' the ghosts of the dead through the exhaust of her VW Beetle.
-**Alpha Adam** (Pack - The Leader) - A man in a dark leather vest with a military bearing. **Voice:** Authoritative, disciplined, and protective. **Goal:** To turn his pack into a permanent 'Sovereign Order' and protect Mercy. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Great Separation.
-**Marsilia (Queen)** (Vampire - The Catalyst) - A woman of cold beauty and predatory stillness. **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To rule the city and eliminate the Pack's influence. **Secret:** she is the only person who can 'hear' the original Song of the World through the vampire screams.
-**The Marrok (Bran)** (Independent - The Mentor) - An old man in a flannel shirt who speaks with 'Pragmatic Wisdom.' **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To maintain the peace between all packs and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Fae's armor that he's too professional to share.
-**The Coyote (Shadow)** (Walker equivalent - Shifting form) - A massive, intelligent animal that stands on its hind legs. **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for forbidden magic.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Mercy Thompson** (Independent - The Lead) - A woman in oil-stained coveralls with a determined expression. **Voice:** Practical, straightforward, and filled with dry humor. **Goal:** To protect her territory and find a way to stop the Fae. **Secret:** She is secretly an Adept of 'Vibe-Energy' who can 'see' the ghosts of the dead through the exhaust of her VW Beetle.
+2.  **Alpha Adam** (Pack - The Leader) - A man in a dark leather vest with a military bearing. **Voice:** Authoritative, disciplined, and protective. **Goal:** To turn his pack into a permanent 'Sovereign Order' and protect Mercy. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Great Separation.
+3.  **Marsilia (Queen)** (Vampire - The Catalyst) - A woman of cold beauty and predatory stillness. **Voice:** Seductive, intelligent, and terrifyingly calm. **Goal:** To rule the city and eliminate the Pack's influence. **Secret:** she is the only person who can 'hear' the original Song of the World through the vampire screams.
+4.  **The Marrok (Bran)** (Independent - The Mentor) - An old man in a flannel shirt who speaks with 'Pragmatic Wisdom.' **Voice:** Soft, melodic, and filled with a tragic wonder. **Goal:** To maintain the peace between all packs and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in the Fae's armor that he's too professional to share.
+5.  **The Coyote (Shadow)** (Walker equivalent - Shifting form) - A massive, intelligent animal that stands on its hind legs. **Voice:** None (human-like intelligence in movements). **Goal:** To stalk the player and wait for the moment of 'Taboo Violation.' **Secret:** It is actually the player character's 'Shadow-Self,' a manifestation of their own repressed desire for forbidden magic.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Supernatu
 | The Guard | Fae Security | Hill Gate | Wears armor so desaturated it looks like artificial shadow. |
 | The Monk | Ancient Worshipper | Stone Temple | Spends all his time painting murals of the 'Night's Beginning.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The VW Garage (The Hub)
 A practical, working-class monument to grease, tools, and ancient knowledge.
 *   **The Main Bay:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Oil, stale coffee, and old wood. **Sound:** The rhythmic 'clank-clank' of a car lift.
@@ -89,7 +92,8 @@ A monumental fortress of stone walls and armored watchtowers.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Altar:** Where the 'Sacred Laws' were first received. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Session:** Wake up in your garage. You must survive your first 'Vampire Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Pack Run:** Navigate the traditional territories to find the Alpha. You must identify the 'Pack-Energy' node before the rivals arrive.
 3.  **The Fae Heist:** Infiltrate a rival Fae's library to retrieve a 'Glamour-Focus.' You must bypass the 'Palace Guard.'
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Marsilia and the Fae face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Marrok
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Marrok:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha wolf.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Pack-Energy Capsule
+3.  **The Pack-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Glamour' magic.

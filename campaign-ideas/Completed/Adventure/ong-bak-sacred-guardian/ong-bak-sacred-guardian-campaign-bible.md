@@ -217,36 +217,36 @@ The conflict is between **Satja (Truth/Promise)** and **Maya (Illusion/Materiali
 
 | Quest Name | Giver | Objective | Reward |
 | :--- | :--- | :--- | :--- |
-| The Lost Mongkon | Old Master | Retrieve a headband from a pawn shop. | +1 to Willpower saves. |
-| Pad Thai Justice | Wan | Beat up thugs extorting her stall. | Free food for campaign. |
-| The Tuk-Tuk Turbo | Speedy Noi | Steal a nitro tank from a garage. | Fast Travel unlock. |
-| Temple Run | Monk | Chase a monkey that stole an amulet. | "Lucky Monkey" Charm. |
-| The Fake Buddha | Tourist | Prove a street vendor is selling fakes. | 500 Baht. |
-| Neon Repair | Volt | Fix a junction box in enemy territory. | Access to blackout ability. |
-| The Debt Collector | Sin | Intimidate a debtor (non-lethal). | Criminal Reputation up. |
-| Find the Dog | Tiny | Rescue a soi dog from a chef. | Dog Companion. |
-| The Drunken Master | Barfly | Out-drink the champion. | "Iron Stomach" Trait. |
-| Courier Run | Shadow | Deliver a package without touching ground. | Parkour Boots. |
-| The Snitch | Police Sgt | Plant evidence on a rival gang. | Police heat reduction. |
-| Ring Ringer | Promoter | Throw a fight in the 3rd round. | Large cash sum (Dishonor). |
-| The Medicine Man | Herbalist | Find a rare "Ghost Flower" in the sewer. | Full Heal Potions. |
-| Car Smash | Bonus Round | Destroy a sedan in 2 minutes. | Strength Training XP. |
-| The Whispering Wall | Medium | Listen to a wall for 1 hour. | Intel on Komtuan. |
-| Tattoo Retrieval | Aek | Retrieve a stolen tattoo gun. | Magic Tattoo (AC +1). |
-| The River Race | Boatman | Win a long-tail boat race. | River Fast Travel. |
-| Cockfight Rescue | PETA | Liberate prize roosters. | Good Karma. |
-| The Silent Disco | DJ | Secure the club for a quiet party. | Sonic Resistance. |
-| Grandma's Recipe | Chef | Steal the chili paste recipe from rival. | Spicy Bomb Item. |
-| The Broken Leg | Hospital | Escort a doctor to a gang hideout. | Free Healing Service. |
-| Sword Polishing | Toshiro | Find a whetstone in the market. | Sword Upgrade. |
-| The Golden Tooth | Dentist | Punch a tooth out of "Big Smile" Bob. | Gold loot. |
-| Sewer Gator | Sanitation | Kill the alligator in the pipes. | Gator Skin Vest. |
-| Rooftop Snipers | Bodyguard | Clear the roofs before the boss arrives. | Sniper Scope. |
-| The Missing Finger | Yakuza | Find a severed finger in the trash. | Yakuza Favor. |
-| Elephant Walk | Mahout | Guide a lost elephant out of traffic. | Elephant summon (1 use). |
-| Ghost Busting | Shaman | Spend a night in the haunted gym. | Spirit Sight. |
-| Muay Boran Tape | Collector | Find a VHS tape of an old fight. | New Move Unlocked. |
-| The Final Meal | Condemned | Deliver last meal to prison. | Prison Map. |
+| **The Lost Mongkon** | Old Master | Retrieve a headband from a pawn shop. | +1 to Willpower saves. |
+| **Pad Thai Justice** | Wan | Beat up thugs extorting her stall. | Free food for campaign. |
+| **The Tuk-Tuk Turbo** | Speedy Noi | Steal a nitro tank from a garage. | Fast Travel unlock. |
+| **Temple Run** | Monk | Chase a monkey that stole an amulet. | "Lucky Monkey" Charm. |
+| **The Fake Buddha** | Tourist | Prove a street vendor is selling fakes. | 500 Baht. |
+| **Neon Repair** | Volt | Fix a junction box in enemy territory. | Access to blackout ability. |
+| **The Debt Collector** | Sin | Intimidate a debtor (non-lethal). | Criminal Reputation up. |
+| **Find the Dog** | Tiny | Rescue a soi dog from a chef. | Dog Companion. |
+| **The Drunken Master** | Barfly | Out-drink the champion. | "Iron Stomach" Trait. |
+| **Courier Run** | Shadow | Deliver a package without touching ground. | Parkour Boots. |
+| **The Snitch** | Police Sgt | Plant evidence on a rival gang. | Police heat reduction. |
+| **Ring Ringer** | Promoter | Throw a fight in the 3rd round. | Large cash sum (Dishonor). |
+| **The Medicine Man** | Herbalist | Find a rare "Ghost Flower" in the sewer. | Full Heal Potions. |
+| **Car Smash** | Bonus Round | Destroy a sedan in 2 minutes. | Strength Training XP. |
+| **The Whispering Wall** | Medium | Listen to a wall for 1 hour. | Intel on Komtuan. |
+| **Tattoo Retrieval** | Aek | Retrieve a stolen tattoo gun. | Magic Tattoo (AC +1). |
+| **The River Race** | Boatman | Win a long-tail boat race. | River Fast Travel. |
+| **Cockfight Rescue** | PETA | Liberate prize roosters. | Good Karma. |
+| **The Silent Disco** | DJ | Secure the club for a quiet party. | Sonic Resistance. |
+| **Grandma's Recipe** | Chef | Steal the chili paste recipe from rival. | Spicy Bomb Item. |
+| **The Broken Leg** | Hospital | Escort a doctor to a gang hideout. | Free Healing Service. |
+| **Sword Polishing** | Toshiro | Find a whetstone in the market. | Sword Upgrade. |
+| **The Golden Tooth** | Dentist | Punch a tooth out of "Big Smile" Bob. | Gold loot. |
+| **Sewer Gator** | Sanitation | Kill the alligator in the pipes. | Gator Skin Vest. |
+| **Rooftop Snipers** | Bodyguard | Clear the roofs before the boss arrives. | Sniper Scope. |
+| **The Missing Finger** | Yakuza | Find a severed finger in the trash. | Yakuza Favor. |
+| **Elephant Walk** | Mahout | Guide a lost elephant out of traffic. | Elephant summon (1 use). |
+| **Ghost Busting** | Shaman | Spend a night in the haunted gym. | Spirit Sight. |
+| **Muay Boran Tape** | Collector | Find a VHS tape of an old fight. | New Move Unlocked. |
+| **The Final Meal** | Condemned | Deliver last meal to prison. | Prison Map. |
 
 ---
 

@@ -18,7 +18,8 @@ The World is not a floor; it's an anvil that's being hammered by an invisible sm
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Brutality.' It is about the 'Human Resilience' of the spirit—the realization that strength is earned through suffering. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal kurs (equivalent)?' It explores the raw beauty of the sword and sorcery, the pride in mastering a functional weapon, and the primal, resonant voice of a narrator who understands that every cent is a gift. The players are the barbarians and chroniclers who must navigate the industrial oppressions and the intensity of a serpent ritual to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Hyborian Barbarians (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Conan (equivalent - the barbarian).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Thulsa Doom** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Charismatic evil, piercing eyes, long black hair. **Goal:** To consolidate all global will into a single 'Global Cult' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Conan** (Order - The Lead) - A barbarian whose voice is primal, philosophical, and resonant. **Voice:** Primal, matter-of-fact about violence, contemplative about meaning. **Goal:** To protect the 'Humanity' of the frontier and guide the new barbarians. **Secret:** He is secretly an Adept of 'Will-Energy' who can 'rewrite' a soul's destiny through his sword strikes.
-**The Princess** (Independent - The Catalyst) - A being whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the will-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the anvil clatter.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Doom's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical fur-leather gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the steel ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Thulsa Doom** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Charismatic evil, piercing eyes, long black hair. **Goal:** To consolidate all global will into a single 'Global Cult' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+2.  **Conan** (Order - The Lead) - A barbarian whose voice is primal, philosophical, and resonant. **Voice:** Primal, matter-of-fact about violence, contemplative about meaning. **Goal:** To protect the 'Humanity' of the frontier and guide the new barbarians. **Secret:** He is secretly an Adept of 'Will-Energy' who can 'rewrite' a soul's destiny through his sword strikes.
+3.  **The Princess** (Independent - The Catalyst) - A being whose voice is sharp, quick, and street-smart (reimagined). **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'Singularity' and stop the will-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the anvil clatter.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Doom's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical fur-leather gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the steel ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Anvil Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Wheel of Pain (The Hub)
 A grand stone monument to architecture, slavery, and strength.
 *   **The Hub Table:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and sweat. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and sacrificial altars.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up at the Wheel of Pain. You must survive your first 'Cult Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Barbarian Run:** Navigate the traditional territories to find Conan. You must identify the 'Will-Energy' node before the rivals arrive.
 3.  **The Steel Heist:** Infiltrate the Serpent HQ to retrieve a stolen 'Steel-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Thulsa Doom face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Will (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Will (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Steel Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Anvil Signet (Equivalent)
+2.  **The Anvil Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the anvil seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Will-Energy Capsule (Equivalent)
+3.  **The Will-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Serpent' magic.

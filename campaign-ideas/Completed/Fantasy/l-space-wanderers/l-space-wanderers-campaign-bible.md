@@ -18,7 +18,8 @@ The World is not a floor; it's a shelf that's being played by an invisible reade
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Certainty.' It is about the 'Human Resilience' of the spirit—the realization that you need the mystery to appreciate the knowledge. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single course in an eternal book?' It explores the warm beauty of the library fantasy, the pride in mastering a living book, and the nuanced, resonant voice of a librarian who understands that every 'Ook' is a prayer. The players are the wanderers and librarians who must navigate the impossible geometries and the intensity of an information overload to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Library Guardians (The Order)
 **Type:** Scientific/Bureaucratic Defense Brotherhood
 **Leader:** The Librarian (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Reality-tearing plot holes, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings with knowledge.
 
-## [TAG: NPC_TIER_1]
-**The Librarian** (Order - The Lead) - A being whose voice consists entirely of nuanced 'Ooks.' **Voice:** Nuanced 'Ook', carrying infinite thoughts through tone. **Goal:** To protect the 'L-Space Balance' and guide the new wanderers. **Secret:** He is secretly an Adept of 'L-Energy' who can 'rewrite' a soul's destiny through his perfectly timed primate sounds.
-**Erasure** (Shadow - The Villain) - A being whose voice is calm, reasonable, and logical. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Sophia the Omniscient** (Independent - The Catalyst) - A being whose voice consists of multiple overlapping voices. **Voice:** Overlapping voices, all knowledge simultaneously, maddening. **Goal:** To find the 'Singularity' and stop the knowledge-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the library static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless plot-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Erasure's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical academic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the L-Space ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Librarian** (Order - The Lead) - A being whose voice consists entirely of nuanced 'Ooks.' **Voice:** Nuanced 'Ook', carrying infinite thoughts through tone. **Goal:** To protect the 'L-Space Balance' and guide the new wanderers. **Secret:** He is secretly an Adept of 'L-Energy' who can 'rewrite' a soul's destiny through his perfectly timed primate sounds.
+2.  **Erasure** (Shadow - The Villain) - A being whose voice is calm, reasonable, and logical. **Voice:** Terrifyingly logical, calm but cold ambition. **Goal:** To consolidate all global knowledge into a single 'Perfect Vacuum' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Sophia the Omniscient** (Independent - The Catalyst) - A being whose voice consists of multiple overlapping voices. **Voice:** Overlapping voices, all knowledge simultaneously, maddening. **Goal:** To find the 'Singularity' and stop the knowledge-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the library static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless plot-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Erasure's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical academic gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the L-Space ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Word Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Unseen University (The Hub)
 A grand stone monument to architecture, libraries, and magical academia.
 *   **The Reading Room:** A site of 'Refined Formality' and harsh narrative rituals. **Smell:** Vanilla, old stone, and leather. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and information overload.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Erasure Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Librarian Run:** Navigate the traditional territories to find The Librarian. You must identify the 'L-Energy' node before the rivals arrive.
 3.  **The Manuscript Heist:** Infiltrate the Erasure HQ to retrieve a stolen 'L-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Erasure face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Word (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Word (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Knowledge Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The L-Space Signet (Equivalent)
+2.  **The L-Space Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the L-space seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The L-Energy Capsule (Equivalent)
+3.  **The L-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Logical' magic.

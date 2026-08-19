@@ -18,7 +18,8 @@ The World is not a planet; it's a gut. Long ago, the 'Beast'—a colossal, biome
 ### The 'Why'
 The central conflict is the struggle for 'Survival' in a world that is actively trying to consume you. It is about the 'Visceral Organics' of the human condition—the realization that we are all just biological matter in the eyes of the universe. The 'Why' is the question: 'Can humanity survive the decay of its own world?' It explores the grotesque detail of the biological dungeon, the claustrophobic confinement of the living tunnels, and the suffocating darkness of a malevolent, decaying god. The players are the Survivors and adventurers who must navigate the gurgling chambers and acidic seas to find a freedom that might not even exist.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Ingested (The Survivors)
 **Type:** Displaced/Survivalist Human Communities
 **Leader:** Elder Gut-Wrench (A man who has lived in the intestines for fifty years).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Survival' in a world that is actively 
 **Asset:** Access to the 'Cranial Records' and knowledge of the Beast's original purpose.
 **Rivals:** None (everyone needs their medical help).
 
-## [TAG: NPC_TIER_1]
-**The Adventurer (Scorn)** (Independent - The Lead) - A human covered in glistening slime and bone-armor. **Voice:** Whispered, gurgling, and gender-neutral. **Goal:** To escape the Beast and find the 'Surface.' **Secret:** He is secretly a 'Clone' grown by the Beast's own reproductive system to serve as a new pilot.
-**Elder Gut-Wrench** (Ingested - The Leader) - A man whose skin has turned the color of raw muscle. **Voice:** Gruff, wet, and punctuated by squelching pauses. **Goal:** To preserve his community and find a way to stop the Great Decay. **Secret:** He has discovered a 'Map of the Heart' that shows a secret exit.
-**Dr. Bile** (Independent - Anatomical Expert) - A being of translucent green fluid in a glass suit. **Voice:** Slow, deliberate, and echoing. **Goal:** To study the impact of the Blight on the Beast's anatomy. **Secret:** He believes the Beast isn't decaying—it's 'Rebirthing.'
-**The Queen Leech** (Parasite - The Villain) - A massive, amorphous blob of flesh with a hundred eyes. **Voice:** A high-pitched, screeching harmony of a thousand voices. **Goal:** To consume the Beast's heart and become the new god of the gut. **Secret:** She was once a human Survivor who was 'Perfected' by the Blight.
-**The Fungal Mind (Anomaly)** (Blight - The Mastermind) - The manifest consciousness of the decay. **Voice:** A whispering, distorted chorus of a thousand spores. **Goal:** To reset the Beast and turn the entire world into a silent, fleshy garden. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Adventurer (Scorn)** (Independent - The Lead) - A human covered in glistening slime and bone-armor. **Voice:** Whispered, gurgling, and gender-neutral. **Goal:** To escape the Beast and find the 'Surface.' **Secret:** He is secretly a 'Clone' grown by the Beast's own reproductive system to serve as a new pilot.
+2.  **Elder Gut-Wrench** (Ingested - The Leader) - A man whose skin has turned the color of raw muscle. **Voice:** Gruff, wet, and punctuated by squelching pauses. **Goal:** To preserve his community and find a way to stop the Great Decay. **Secret:** He has discovered a 'Map of the Heart' that shows a secret exit.
+3.  **Dr. Bile** (Independent - Anatomical Expert) - A being of translucent green fluid in a glass suit. **Voice:** Slow, deliberate, and echoing. **Goal:** To study the impact of the Blight on the Beast's anatomy. **Secret:** He believes the Beast isn't decaying—it's 'Rebirthing.'
+4.  **The Queen Leech** (Parasite - The Villain) - A massive, amorphous blob of flesh with a hundred eyes. **Voice:** A high-pitched, screeching harmony of a thousand voices. **Goal:** To consume the Beast's heart and become the new god of the gut. **Secret:** She was once a human Survivor who was 'Perfected' by the Blight.
+5.  **The Fungal Mind (Anomaly)** (Blight - The Mastermind) - The manifest consciousness of the decay. **Voice:** A whispering, distorted chorus of a thousand spores. **Goal:** To reset the Beast and turn the entire world into a silent, fleshy garden. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Survival' in a world that is actively 
 | The Monk | Ancient Worshipper | Heart Altar | Spends all his time painting murals of the 'Beast's Beginning.' |
 | The Clerk | Gut Admin | Headquarters | Only communicates through a rhythmic 'Gut-Punch' stamp. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Stomach Sea (Ingested HQ)
 A cavernous, humid space filled with a churning, acidic sea.
 *   **The Squelch Flats:** A site of 'Visceral Organics' and half-digested wreckage. **Smell:** Bile, charcoal smoke, and wet leather. **Sound:** The constant 'gurgle-gurgle' of digestive fluids.
@@ -89,7 +92,8 @@ A royal gold and deep red monument to circulation and primal energy.
 A clinical, white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** A place where 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a narrow, wet tunnel. You must escape a 'Parasite Ambush' using only your improvised bone-cleaver.
 2.  **The Stomach Run:** Navigate the islands of the acidic sea to find Elder Gut-Wrench. You must identify the 'Respiration Seed' before the tide rises.
 3.  **The Blight Infiltration:** Infiltrate the Fungal Mind's garden to find evidence of the 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -98,18 +102,19 @@ A clinical, white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Bone-Cleaver of Scorn
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Bone-Cleaver of Scorn:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the femur of the original Alpha Beast.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Visceral Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Bile-Focus Amulet
+2.  **The Bile-Focus Amulet:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the Beast's immune system.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's biological systems by 50 HP. Once per day, the user can 'Silence' a parasite attack for 1 round.
 
-### 3. The Queen's Chitin Mask
+3.  **The Queen's Chitin Mask:**
 **Type:** Wondrous Item (Helmet)
 **Description:** A mask made of multi-limbed chitin that seems to grant the wearer absolute confidence.
 **Mechanics:** Grants the wearer advantage on all Charisma (Deception and Intimidation) checks. **Curse:** The user begins to see the world in 'Fleshy Pinks' and loses all capacity for empathy.

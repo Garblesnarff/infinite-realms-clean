@@ -18,7 +18,8 @@ The World is not a floor; it's a mountain that's being shredded by an invisible 
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Corporate Greed.' It is about the 'Human Resilience' of the spirit—the realization that you need the respect of the mountain to appreciate the life of the shred. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kurs in an eternal game?' It explores the joyful beauty of the extreme sports, the pride in mastering a perfect run, and the wind-whispered, resonant voice of a winter spirit who understands that every second is a gift. The players are the riders and shredders who must navigate the industrial oppressions and the intensity of a sacred descent to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Backcountry Riders (The Order)
 **Type:** Martial/Heroic Defense Brotherhood
 **Leader:** Ryker (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Corporate
 **Asset:** Reality-tearing wind whispers, dark shadows, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Elder Hana** (Order - The Lead) - A woman whose voice is cryptic, gentle, and wise. **Voice:** Japanese elderly woman, cryptic wisdom, gentle but firm. **Goal:** To protect the 'Winter Balance' and guide the new riders. **Secret:** She is secretly an Adept of 'Powder-Energy' who can 'rewrite' a soul's destiny through her storytellings.
-**Director Frost** (Shadow - The Villain) - A being whose voice is cold, British, and efficient. **Voice:** Cold British corporate, hiding pain beneath efficiency. **Goal:** To consolidate all global winter into a single 'Global Resort' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**Yuki-Onna** (Independent - The Catalyst) - A being whose voice consists of multiple layered female voices. **Voice:** Wind-like, alien and beautiful, layered. **Goal:** To find the 'Singularity' and stop the season-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the blizzard static.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shred-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Frost's accounting that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical sports gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the shred ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Elder Hana** (Order - The Lead) - A woman whose voice is cryptic, gentle, and wise. **Voice:** Japanese elderly woman, cryptic wisdom, gentle but firm. **Goal:** To protect the 'Winter Balance' and guide the new riders. **Secret:** She is secretly an Adept of 'Powder-Energy' who can 'rewrite' a soul's destiny through her storytellings.
+2.  **Director Frost** (Shadow - The Villain) - A being whose voice is cold, British, and efficient. **Voice:** Cold British corporate, hiding pain beneath efficiency. **Goal:** To consolidate all global winter into a single 'Global Resort' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **Yuki-Onna** (Independent - The Catalyst) - A being whose voice consists of multiple layered female voices. **Voice:** Wind-like, alien and beautiful, layered. **Goal:** To find the 'Singularity' and stop the season-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the blizzard static.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless shred-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Frost's accounting that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical sports gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the shred ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Corporate
 | The Monk | Ancient Worshipper | Shred Temple | Spends all his time painting murals of the 'Run's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Mount Fuji (The Hub)
 A grand stone monument to architecture, peaks, and warm firelight.
 *   **The Hana Lodge:** A site of 'Refined Formality' and harsh tactical rituals. **Smell:** Vanilla, old stone, and woodsmoke. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and artificial snow.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Winter Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a resort cell. You must survive your first 'Corporate Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Hana Run:** Navigate the traditional territories to find Elder Hana. You must identify the 'Powder-Energy' node before the rivals arrive.
 3.  **The Board Heist:** Infiltrate the Corporate HQ to retrieve a stolen 'Shred-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Yuki-Onna face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Shred (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Shred (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Powder Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Snowflake Signet (Equivalent)
+2.  **The Snowflake Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the snowflake seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Powder-Energy Capsule (Equivalent)
+3.  **The Powder-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Chemical' magic.

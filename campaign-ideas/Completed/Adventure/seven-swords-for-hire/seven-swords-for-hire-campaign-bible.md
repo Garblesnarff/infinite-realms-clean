@@ -195,56 +195,56 @@ In San Perdido, **"Grit"** is a tangible force. When a man survives a mortal wou
 
 | Name | Role | Location | Quirk (Low Probability) |
 | :--- | :--- | :--- | :--- |
-| Old Man Tooth | Blacksmith | Smithy | Hammers to the rhythm of his own heartbeat. |
-| Maria "Three-Fingers" | Cook | Cantina | Spits in every 10th drink for luck. |
-| Little Juan | Orphan | Plaza | Mimics the reload sounds of guns perfectly. |
-| "Silent" Sam | Stablehand | Stables | Communicates only through horse whinnies. |
-| Widow Greene | Seamstress | Cottage | Sews names of the dead into hemlines. |
-| Doctor Bones | Medic | Clinic | Uses tequila as anesthesia and antiseptic. |
-| Crazy Legs | Dancer | Saloon | Legs move independently of torso music. |
-| One-Eyed Jack | Gambler | Saloon | Replaces glass eye with a d20. |
-| Sister Silence | Nun | Church | Hums "Camptown Races" during prayer. |
-| Diego | Farmer | Field | Talks to corn; claims corn talks back. |
-| Esperanza | Midwife | Clinic | Carries a shotgun while delivering babies. |
-| "Rat" | Beggar | Alley | Trains rats to steal gold teeth. |
-| Felipe | Carpenter | Shop | Builds coffins in advance for specific people. |
-| Isabella | Barmaid | Cantina | Can identify a man by his boot-step. |
-| Jorge | Drunk | Street | Believes the moon is a skull. |
-| Mateo | Pig Farmer | Mud Pen | Sleeps with the pigs for warmth. |
-| Clara | Teacher | School | Uses wanted posters as reading material. |
-| "Spittoon" | Janitor | Saloon | Drinks the spittoon contents on bets. |
-| Rico | Scout | Roof | Never blinks. Ever. |
-| Abuela Coco | Grandmother | Porch | Throws stale tortillas like shurikens. |
-| Pepe | Goat Herder | Hills | His goat is the reincarnation of his wife. |
-| "Dusty" | Water Seller | Well | Sells "Holy Water" (it's just spit). |
-| Marco | Musician | Plaza | Plays guitar with a knife. |
-| Lupe | Laundress | River | Washes clothes in vinegar and blood. |
-| Sancho | Fat Farmer | Field | Can eat a whole raw pumpkin in one bite. |
-| "The Chin" | Brawler | Alley | Has a chin made of metal. |
-| Rosa | Flower Girl | Plaza | Flowers wilt when she touches them. |
-| Miguel | Gravedigger | Cemetery | Measures everyone he meets for a hole. |
-| "Slick" | Card Sharp | Saloon | Cards are marked with invisible ink. |
-| Anita | Weaver | Home | Weaves maps into ponchos. |
-| Pedro | Stonemason | Wall | Carves gargoyles that look like the PCs. |
-| "Giggles" | Bandit spy | Cell | Laughs when in pain. |
-| Father Thomas | Monk | Church | Levitates 1 inch when praying. |
-| "Whiskey" | Dog | Street | A dog that only barks at sinners. |
-| El Gato | Cat Hoarder | Shack | Covered in 40 cats. |
-| Soldier Boy | Veteran | Bench | Salutes birds. |
-| "Iron" Mike | Miner | Mine | Eats coal. |
-| Sal | Barber | Shop | Uses aCutthroat razor with trembling hands. |
-| Consuela | Fortune Teller | Tent | Reads the future in vomit. |
-| Pablo | Artist | Plaza | Paints only in shades of red. |
-| "Needles" | Accupuncturist | Clinic | Uses cactus spines. |
-| Big Mama | Baker | Bakery | Kneads dough with brass knuckles. |
-| "Snake" | Charmer | Market | Snakes are actually painted ropes. |
-| Julio | Watchman | Tower | Is legally blind but has great hearing. |
-| Esme | Child | Well | Collects bullet casings as dolls. |
-| "Red" | Tanner | Tannery | Skin is permanently stained red. |
-| Hugo | Butcher | Shop | Talks to the meat tenderly. |
-| "Lefty" | Gunsmith | Shop | Has two right hands. |
-| Zorro (Fake) | Actor | Stage | Wears a mask, trips over cape. |
-| The Stranger | Drifter | Edge | Has no reflection. |
+| **Old Man Tooth** | Blacksmith | Smithy | Hammers to the rhythm of his own heartbeat. |
+| **Maria "Three-Fingers"** | Cook | Cantina | Spits in every 10th drink for luck. |
+| **Little Juan** | Orphan | Plaza | Mimics the reload sounds of guns perfectly. |
+| **"Silent" Sam** | Stablehand | Stables | Communicates only through horse whinnies. |
+| **Widow Greene** | Seamstress | Cottage | Sews names of the dead into hemlines. |
+| **Doctor Bones** | Medic | Clinic | Uses tequila as anesthesia and antiseptic. |
+| **Crazy Legs** | Dancer | Saloon | Legs move independently of torso music. |
+| **One-Eyed Jack** | Gambler | Saloon | Replaces glass eye with a d20. |
+| **Sister Silence** | Nun | Church | Hums "Camptown Races" during prayer. |
+| **Diego** | Farmer | Field | Talks to corn; claims corn talks back. |
+| **Esperanza** | Midwife | Clinic | Carries a shotgun while delivering babies. |
+| **"Rat"** | Beggar | Alley | Trains rats to steal gold teeth. |
+| **Felipe** | Carpenter | Shop | Builds coffins in advance for specific people. |
+| **Isabella** | Barmaid | Cantina | Can identify a man by his boot-step. |
+| **Jorge** | Drunk | Street | Believes the moon is a skull. |
+| **Mateo** | Pig Farmer | Mud Pen | Sleeps with the pigs for warmth. |
+| **Clara** | Teacher | School | Uses wanted posters as reading material. |
+| **"Spittoon"** | Janitor | Saloon | Drinks the spittoon contents on bets. |
+| **Rico** | Scout | Roof | Never blinks. Ever. |
+| **Abuela Coco** | Grandmother | Porch | Throws stale tortillas like shurikens. |
+| **Pepe** | Goat Herder | Hills | His goat is the reincarnation of his wife. |
+| **"Dusty"** | Water Seller | Well | Sells "Holy Water" (it's just spit). |
+| **Marco** | Musician | Plaza | Plays guitar with a knife. |
+| **Lupe** | Laundress | River | Washes clothes in vinegar and blood. |
+| **Sancho** | Fat Farmer | Field | Can eat a whole raw pumpkin in one bite. |
+| **"The Chin"** | Brawler | Alley | Has a chin made of metal. |
+| **Rosa** | Flower Girl | Plaza | Flowers wilt when she touches them. |
+| **Miguel** | Gravedigger | Cemetery | Measures everyone he meets for a hole. |
+| **"Slick"** | Card Sharp | Saloon | Cards are marked with invisible ink. |
+| **Anita** | Weaver | Home | Weaves maps into ponchos. |
+| **Pedro** | Stonemason | Wall | Carves gargoyles that look like the PCs. |
+| **"Giggles"** | Bandit spy | Cell | Laughs when in pain. |
+| **Father Thomas** | Monk | Church | Levitates 1 inch when praying. |
+| **"Whiskey"** | Dog | Street | A dog that only barks at sinners. |
+| **El Gato** | Cat Hoarder | Shack | Covered in 40 cats. |
+| **Soldier Boy** | Veteran | Bench | Salutes birds. |
+| **"Iron" Mike** | Miner | Mine | Eats coal. |
+| **Sal** | Barber | Shop | Uses aCutthroat razor with trembling hands. |
+| **Consuela** | Fortune Teller | Tent | Reads the future in vomit. |
+| **Pablo** | Artist | Plaza | Paints only in shades of red. |
+| **"Needles"** | Accupuncturist | Clinic | Uses cactus spines. |
+| **Big Mama** | Baker | Bakery | Kneads dough with brass knuckles. |
+| **"Snake"** | Charmer | Market | Snakes are actually painted ropes. |
+| **Julio** | Watchman | Tower | Is legally blind but has great hearing. |
+| **Esme** | Child | Well | Collects bullet casings as dolls. |
+| **"Red"** | Tanner | Tannery | Skin is permanently stained red. |
+| **Hugo** | Butcher | Shop | Talks to the meat tenderly. |
+| **"Lefty"** | Gunsmith | Shop | Has two right hands. |
+| **Zorro (Fake)** | Actor | Stage | Wears a mask, trips over cape. |
+| **The Stranger** | Drifter | Edge | Has no reflection. |
 
 ---
 

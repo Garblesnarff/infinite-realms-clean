@@ -170,7 +170,7 @@ In the era before stars, the **Photoners** sought to solve the "Entropy Problem"
 | **Xera** | Pilot | Hangar | Names her ships after her ex-boyfriends. |
 | **Io** | Braver Mentor | Lobby | Stares uncomfortably long without blinking. |
 | **Lisa** | Ranger Mentor | Range | Giggles uncontrollably when holding a gun. |
-| ... | ... | ... | (Table continues to 50) |
+| **...** | ... | ... | (Table continues to 50) |
 
 ---
 

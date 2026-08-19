@@ -18,7 +18,8 @@ The World is a tapestry that's being unraveled by the darkness. Long ago, the 'F
 ### The 'Why'
 The central conflict is the struggle for 'Dignity' in a world of 'Permanent Doom.' It is about the 'Somber Journey' of the human spirit—the realization that true glory comes from dying well and ensuring your story is told. The 'Why' is the question: 'Who will remember the saga when the last narrator is gone?' It explores the hand-painted textures of the frozen wastes, the visceral horror of the stone body, and the archaic, Norse-influenced voice of a leader who must make impossible choices every day. The players are the caravan leaders and warriors who must navigate the supply wagons and Dredge ambushes to find a resolution that honors the memory of the fallen.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Last Caravan (The Survivors)
 **Type:** Cooperative/Diverse Human-Varl Exodus
 **Leader:** Rook (Equivalent - The Leader).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Dignity' in a world of 'Permanent Doom
 **Asset:** Black void, purple-red corruption, and the ability to unravel reality.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Rook** (Survivor - The Lead) - A man in fur cloaks with a weathered face and a bow. **Voice:** Measured, fatalistic, and carrying the weight of leadership. **Goal:** To get his caravan to Arberrang and ensure his daughter's survival. **Secret:** He is secretly an Adept of 'Saga-Energy' who can 'heal' a refugee's spirit through his storytelling.
-**Bellower** (Dredge - The Villain) - A massive stone warrior covered in glowing red runes. **Voice:** None (subsonic stone-grinding noises). **Goal:** To reclaim the 'Surface Souls' for the void and witness the final silence. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
-**Iver** (Varl - The Expert) - A nine-foot giant with massive curved horns and a heavy axe. **Voice:** Gruff, slow, and wood-toned. **Goal:** To protect his human allies and find a worthy death in battle. **Secret:** He was once a Dredge commander who was 'Perfected' by the light of the first sun.
-**Juno** (Independent - The Enigma) - A woman whose eyes glow with a soft, pale light. **Voice:** Whispered, musical, and synesthetic. **Goal:** To stop the unraveling of the tapestry and stabilize the sun. **Secret:** she is the only person who can 'hear' the original Song of the World through the darkness.
-**The Serpent (Anomaly)** (Darkness - The Mastermind) - The manifest consciousness of the black void. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Rook** (Survivor - The Lead) - A man in fur cloaks with a weathered face and a bow. **Voice:** Measured, fatalistic, and carrying the weight of leadership. **Goal:** To get his caravan to Arberrang and ensure his daughter's survival. **Secret:** He is secretly an Adept of 'Saga-Energy' who can 'heal' a refugee's spirit through his storytelling.
+2.  **Bellower** (Dredge - The Villain) - A massive stone warrior covered in glowing red runes. **Voice:** None (subsonic stone-grinding noises). **Goal:** To reclaim the 'Surface Souls' for the void and witness the final silence. **Secret:** He is already part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
+3.  **Iver** (Varl - The Expert) - A nine-foot giant with massive curved horns and a heavy axe. **Voice:** Gruff, slow, and wood-toned. **Goal:** To protect his human allies and find a worthy death in battle. **Secret:** He was once a Dredge commander who was 'Perfected' by the light of the first sun.
+4.  **Juno** (Independent - The Enigma) - A woman whose eyes glow with a soft, pale light. **Voice:** Whispered, musical, and synesthetic. **Goal:** To stop the unraveling of the tapestry and stabilize the sun. **Secret:** she is the only person who can 'hear' the original Song of the World through the darkness.
+5.  **The Serpent (Anomaly)** (Darkness - The Mastermind) - The manifest consciousness of the black void. **Voice:** A whispering, distorted chorus of a thousand drips. **Goal:** To reset the universe and return it to a state of absolute silence. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Dignity' in a world of 'Permanent Doom
 | The newsie | Street Kid | Urban Market | Can name every caravan district by the sound of its supply wagon creak. |
 | The Guard | Arberrang Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Arberrang (The Hub)
 The last great city of massive wooden walls and crowded refugees.
 *   **The War Room:** A site of 'Grand Strategy' and era-appropriate lighting. **Smell:** Mead, stale whiskey, and old wood. **Sound:** The rhythmic scratching of a silver quill.
@@ -89,7 +92,8 @@ A high-contrast nightmare of black voids and purple-red corruption.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Memory Vault:** Where the 'Truth-Seeds' are assembly from pieces of the past. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Exodus:** Wake up in a falling village. You must escape a 'Dredge Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Godstone Run:** Navigate the frozen wastes to find Juno. You must identify the 'Respiration Seed' (equivalent) before the darkness arrives.
 3.  **The Bellower Heist:** Infiltrate a Dredge camp to retrieve a stolen 'Rune-Focus.' You must bypass the boss's 'Watching Eye' security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face the Serpent and the Shadow face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the armor or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Saga
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Saga:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the iron shard of the original Alpha Sun.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Resilient Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Sun-Key Card
+2.  **The Sun-Key Card:**
 **Type:** Artifact (Focus)
 **Description:** A small, sapphire card that hums with the key of the first Storyteller.
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Darkness' magic.
 
-### 3. The Seed of the Green Place
+3.  **The Seed of the Green Place:**
 **Type:** Wondrous Item
 **Description:** A simple, glowing seed that pulses with the light of the sun.
 **Mechanics:** Grants the user the ability to 'Heal' an ally's spirit by 50 HP. Once per day, the user can create a 30ft 'Sanctuary Field.'

@@ -18,7 +18,8 @@ The World is not a floor; it's an ocean that's being sailed by a thousand ghosts
 ### The 'Why'
 The central conflict is the struggle between 'Personal Freedom' and 'Imperial Regulation.' It is about the 'Roguish Wisdom' of the human spirit—the realization that 'The only rules that really matter are these: what a man can do and what a man can't do.' The 'Why' is the question: 'Can you remain honorable in a world where the law is written by the corrupt?' It explores the vibrant colors of the Caribbean days, the visceral horror of the skeletal form, and the roguish, slightly drunk voice of a cunning survivor who talks his way through everything. The players are the pirates, sailors, and cursed souls who must navigate the ship maneuvers and boarding actions to find a resolution that honors the memory of the sea.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Pearl's Crew (The Liberators)
 **Type:** Elite/Swashbuckling Pirate Brotherhood
 **Leader:** Captain Jack Sparrow (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle between 'Personal Freedom' and 'Imperial Re
 **Asset:** Knowledge of the desert of ships and a willingness to perform 'Impossible Tasks' for a price.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Captain Jack Sparrow** (Pirate - The Lead) - A man in a weathered leather coat with beads in his dreadlocks. **Voice:** Roguish, slightly drunk-sounding, and circular. **Goal:** To reclaim the Black Pearl and outrun his debt to Davy Jones. **Secret:** He is a high-level Adept of 'Roguish Wisdom' who can 'persuade' a target's memory to switch sides through his incoherent rambling.
-**Davy Jones** (Dutchman - The Villain) - A man whose face is overtaken by tentacles and crab claws. **Voice:** Deep, groaning, and filled with a tragic authority. **Goal:** To reclaim all souls for his Locker and witness the final silence. **Secret:** He still carries the 'Memory of Love' (Calypso) in his literal wooden chest and is terrified of its return.
-**Elizabeth Swann** (Independent - The Catalyst) - A woman of modern propriety and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect her family and find a man she can actually respect. **Secret:** she is the only person who can 'hear' the original Song of the World through the sea's screams.
-**Tia Dalma (Calypso)** (Independent - The Mentor) - A woman whose human form hides a massive storm-goddess. **Voice:** Whispered, musical, and synesthetic. **Goal:** To be released from her human bonds and restore the 'Oceanic Balance.' **Secret:** she was the one who 'accidentally' designed the original Aztec Curse to test humanity's greed.
-**Barbossa (Shadow)** (Pirate equivalent - Shifting form) - A man in a tri-corner hat with a skeletal form visible in moonlight. **Voice:** Gruff, authoritative, and theatrical. **Goal:** To lift the curse and feel the sun on his skin again. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the mutiny ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Captain Jack Sparrow** (Pirate - The Lead) - A man in a weathered leather coat with beads in his dreadlocks. **Voice:** Roguish, slightly drunk-sounding, and circular. **Goal:** To reclaim the Black Pearl and outrun his debt to Davy Jones. **Secret:** He is a high-level Adept of 'Roguish Wisdom' who can 'persuade' a target's memory to switch sides through his incoherent rambling.
+2.  **Davy Jones** (Dutchman - The Villain) - A man whose face is overtaken by tentacles and crab claws. **Voice:** Deep, groaning, and filled with a tragic authority. **Goal:** To reclaim all souls for his Locker and witness the final silence. **Secret:** He still carries the 'Memory of Love' (Calypso) in his literal wooden chest and is terrified of its return.
+3.  **Elizabeth Swann** (Independent - The Catalyst) - A woman of modern propriety and increasing practical confidence. **Voice:** Sincere, precise, and emotionally resonant. **Goal:** To protect her family and find a man she can actually respect. **Secret:** she is the only person who can 'hear' the original Song of the World through the sea's screams.
+4.  **Tia Dalma (Calypso)** (Independent - The Mentor) - A woman whose human form hides a massive storm-goddess. **Voice:** Whispered, musical, and synesthetic. **Goal:** To be released from her human bonds and restore the 'Oceanic Balance.' **Secret:** she was the one who 'accidentally' designed the original Aztec Curse to test humanity's greed.
+5.  **Barbossa (Shadow)** (Pirate equivalent - Shifting form) - A man in a tri-corner hat with a skeletal form visible in moonlight. **Voice:** Gruff, authoritative, and theatrical. **Goal:** To lift the curse and feel the sun on his skin again. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the mutiny ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle between 'Personal Freedom' and 'Imperial Re
 | The newsie | Street Kid | Urban Market | Can name every Caribbean district by the sound of its water-lapping. |
 | The Guard | Company Security | Main Gate | Wears a tie that is 1 inch too long; claims it's a 'Sovereign Fashion.' |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Port Royal (The Hub)
 A high-contrast landscape of Caribbean colonial architecture and massive Company forts.
 *   **The Governor's Mansion:** A site of 'Refined Formality' and harbor sounds. **Smell:** Brine, expensive coffee, and old wood. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to cursed treasure and skull-shaped rocks.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Desert of Ships:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the sand. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Mark:** Wake up in a Port Royal cell. You must escape a 'Company Ambush' using only your survival knife and your 'Roguish intuition.'
 2.  **The Pearl run:** Navigate the traditional territories to find Captain Jack. You must identify the 'Aztec Gold' node before the rivals arrive.
 3.  **The Dutchman Infiltration:** Infiltrate Davy Jones' ship to retrieve a stolen 'Heart-Focus.' You must bypass the sea-creature guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The sea's central crystal (maelstrom) has begun its final 'Reset.' You must defend the Pearl while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face Davy Jones and the Company face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Jack Sparrow
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Jack Sparrow:**
 **Type:** Legendary Cutlass
 **Description:** A simple, weathered sword that seems to hum with the energy of the first Pirate.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Roguish Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Compass of Desire
+2.  **The Compass of Desire:**
 **Type:** Artifact (Focus)
 **Description:** A brass compass that doesn't point north; it points toward the person's deepest desire.
 **Mechanics:** Grants the user the ability to 'See' the location of any hidden item or person. Once per day, the user can 'Silence' a target's memory for 1 hour.
 
-### 3. The Aztec Gold Coin
+3.  **The Aztec Gold Coin:**
 **Type:** Wondrous Item (Cursed)
 **Description:** A single, gold coin with skull motifs that hums with the key of the first Storyteller.
 **Mechanics:** Grants the user the ability to 'Stabilize' their own form, becoming immune to physical damage in moonlight. **Curse:** The user loses all capacity for pleasure or feeling.

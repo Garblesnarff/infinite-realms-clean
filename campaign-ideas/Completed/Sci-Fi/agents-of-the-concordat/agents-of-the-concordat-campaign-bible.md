@@ -17,7 +17,8 @@ The Universe isn't a chaotic accident; it's a masterpiece that's still being pai
 ### The 'Why'
 The central conflict is the struggle between 'Inclusion' and 'Stability.' It is about the optimism of exploration versus the terror of the unknown. The 'Why' is the question: 'Is every life worth saving, even if it threatens the harmony of the whole?' It explores the beauty of the alien bizarre—worlds that shouldn't exist and species that defy logic. The players are the Agents of the Concordat, the diplomats and explorers who must decide the fate of entire civilizations while navigating a reality that is literally falling apart around them.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Concordat (The Curators)
 **Type:** Interstellar Diplomatic Alliance
 **Leader:** High Chancellor Elara (A being of translucent blue energy).
@@ -48,12 +49,13 @@ The central conflict is the struggle between 'Inclusion' and 'Stability.' It is 
 **Asset:** Unique biological or technological abilities that defy Concordat logic.
 **Rivals:** The Purists.
 
-## [TAG: NPC_TIER_1]
-**Captain Aurelius** (Human - Leader/Diplomat) - The captain of the *Intrepid*. **Voice:** Inspiring, authoritative, and filled with exploration optimism. **Goal:** To complete the Convergence and prove the Purists wrong. **Secret:** He is secretly infected by a Probability Storm, and his physical form is slowly shifting.
-**Science Officer Zephyr** (Alien - Expert/Rationalist) - A being from a crystal world with prismatic skin. **Voice:** Rhythmic, tinkling, and clinical. **Goal:** To decode the Architect records and stop the storms. **Secret:** He believes the Architects didn't vanish—they became the Probability Storms.
-**Diplomat Luma** (Alien - Empath/Healer) - A soft, bioluminescent creature with multiple limbs. **Voice:** Whispered, soothing, and emotionally resonant. **Goal:** To ensure every new species feels 'seen' by the Concordat. **Secret:** She can sense the 'Last Thoughts' of civilizations erased by the storms.
-**Inquisitor Vane** (Human - Antagonist/Order) - The leader of the Purists. **Voice:** Sterile, cold, and frighteningly logical. **Goal:** To save the universe by pruning the 'weeds' of the Convergence. **Secret:** He was once Captain Aurelius's mentor and views his former student's optimism as a weakness.
-**The Harmonizer** (Alien - Cult Leader) - A being whose body is a living musical instrument. **Voice:** A chorus of harmonies that shouldn't work but do. **Goal:** To trigger the Convergence immediately, regardless of the cost. **Secret:** The Harmonizer is actually an Architect construct designed to reset the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Captain Aurelius** (Human - Leader/Diplomat) - The captain of the *Intrepid*. **Voice:** Inspiring, authoritative, and filled with exploration optimism. **Goal:** To complete the Convergence and prove the Purists wrong. **Secret:** He is secretly infected by a Probability Storm, and his physical form is slowly shifting.
+2.  **Science Officer Zephyr** (Alien - Expert/Rationalist) - A being from a crystal world with prismatic skin. **Voice:** Rhythmic, tinkling, and clinical. **Goal:** To decode the Architect records and stop the storms. **Secret:** He believes the Architects didn't vanish—they became the Probability Storms.
+3.  **Diplomat Luma** (Alien - Empath/Healer) - A soft, bioluminescent creature with multiple limbs. **Voice:** Whispered, soothing, and emotionally resonant. **Goal:** To ensure every new species feels 'seen' by the Concordat. **Secret:** She can sense the 'Last Thoughts' of civilizations erased by the storms.
+4.  **Inquisitor Vane** (Human - Antagonist/Order) - The leader of the Purists. **Voice:** Sterile, cold, and frighteningly logical. **Goal:** To save the universe by pruning the 'weeds' of the Convergence. **Secret:** He was once Captain Aurelius's mentor and views his former student's optimism as a weakness.
+5.  **The Harmonizer** (Alien - Cult Leader) - A being whose body is a living musical instrument. **Voice:** A chorus of harmonies that shouldn't work but do. **Goal:** To trigger the Convergence immediately, regardless of the cost. **Secret:** The Harmonizer is actually an Architect construct designed to reset the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -69,7 +71,8 @@ The central conflict is the struggle between 'Inclusion' and 'Stability.' It is 
 | The Oracle | Probability Expert | The Intrepid | Can see 5 seconds into the future, but only for mundane things (like spilled coffee). |
 | 'Clank' | Ancient Robot | Architect Ruin | Thinks he's still cleaning the Architects' kitchen. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Intrepid
 A retro-futuristic masterpiece of sleek curves and art deco elegance.
 *   **The Bridge:** A grand, circular room with golden railings and holographic displays. **Smell:** Ozone and expensive tea. **Sound:** The rhythmic hum of the Architect-drive.
@@ -89,7 +92,8 @@ A planet made entirely of prismatic minerals and light.
 A deep-blue water sphere with floating cities and bioluminescent reefs.
 *   **The Abyss City:** A city anchored to the seafloor, protected by a bubble of air. **Smell:** Brine and ancient kelp. **Sound:** The deep, rhythmic thrum of the ocean.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **First Contact:** Travel to a new world and establish communication with a bizarre species that communicates through scent.
 2.  **The Probability Storm:** Navigate the *Intrepid* through a reality-bending storm to rescue a stranded diplomatic team.
 3.  **The Archive Breach:** Someone has stolen a key data crystal from the Stellar Archives. Track the thief to a Purist stronghold.
@@ -98,18 +102,19 @@ A deep-blue water sphere with floating cities and bioluminescent reefs.
 6.  **The Convergence Vision:** All minds on the *Intrepid* are suddenly connected. You must navigate this shared consciousness to find a hidden traitor.
 7.  **The Final Harmonic:** Travel to the center of the universe to trigger the Convergence and stop the Reverse-Convergence from resetting reality.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Architect's Key
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Architect's Key:**
 **Type:** Artifact Focus
 **Description:** A handheld geometric shape that shifts its form every few seconds.
 **Mechanics:** Grants the user the ability to 'stabilize' a 30ft area of reality, making them immune to the effects of Probability Storms.
 
-### 2. The Intrepid's Navigator
+2.  **The Intrepid's Navigator:**
 **Type:** Wondrous Item (Implant)
 **Description:** A small, golden device that fits behind the ear, linked to the ship's AI.
 **Mechanics:** Grants the user advantage on all Intelligence (History) and Wisdom (Insight) checks related to alien species.
 
-### 3. The Prismatic Shield
+3.  **The Prismatic Shield:**
 **Type:** Wondrous Item
 **Description:** A shield made of a single, perfectly clear crystal from Krystallos.
 **Mechanics:** Can be used to reflect any energy-based attack back at the attacker (DC 15 DEX save).

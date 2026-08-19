@@ -18,7 +18,8 @@ The World is not run by kings; it's run by spreadsheets. In the aftermath of the
 ### The 'Why'
 The central conflict is the struggle for 'Clarity' in a world of 'Institutional Noise.' It is about the 'Procedural Realism' of being an analyst—the realization that your greatest weapon is your mind, not a gun. The 'Why' is the question: 'Can you save the world from behind a computer screen when the system itself is trying to stop you?' It explores the tense minimalism of the deadline, the visual representation of an investigation, and the tragic intelligence of a villain who could have been a hero. The players are the Bureau analysts who must navigate the documents and the bureaucracy to find a truth that hasn't been redacted yet.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Shadow Bureau (The Bullpen)
 **Type:** Elite/Decentralized Intelligence Analysis Cell
 **Leader:** James Greer (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Clarity' in a world of 'Institutional 
 **Asset:** Multiple monitors, blue-green tech lighting, and the ability to track any digital footprint.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Jack Ryan** (Bureau - The Everyman) - An earnest, analytical man in business casual. **Voice:** Analytical, earnest, and Midwestern. **Goal:** To solve the case and do the right thing, regardless of the cost. **Secret:** He is a high-level Adept of 'The Connection' who can 'see' the threads of a pattern before they are fully formed.
-**James Greer** (Bureau - The Mentor) - An experienced leader with sardonic wisdom. **Voice:** Deep, authoritative, and John Krasinski-warm. **Goal:** To protect his analysts and ensure the truth is heard by the people who matter. **Secret:** He was the one who 'leaked' the first file to Jack to test his integrity.
-**Cathy Mueller** (Independent - The Anchor) - A brilliant doctor and relationship anchor. **Voice:** Compassionate, grounding, and direct. **Goal:** To keep Jack's feet on the ground and remind him of the people behind the data. **Secret:** She is secretly researching the biological impact of the 'Shadow Bureau Protocols' on the analysts' minds.
-**Suleiman** (Terrorist - Tragic Villain) - An intelligent, articulate man who views himself as a liberator. **Voice:** Intelligent, tragic, and articulate. **Goal:** To destroy the global financial system that he believes has failed his people. **Secret:** He was once a top student at an Ivy League university before a personal tragedy broke his faith in the system.
-**The Tech Specialist (Han)** (Bureau - Support) - A man who lives in the blue-green glow of the surveillance center. **Voice:** Fast-paced, technical, and perpetually sleep-deprived. **Goal:** To provide real-time support and find the 'Digital Ghost.' **Secret:** He has discovered a back-door into the Bureaucratic Committee's private server.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Jack Ryan** (Bureau - The Everyman) - An earnest, analytical man in business casual. **Voice:** Analytical, earnest, and Midwestern. **Goal:** To solve the case and do the right thing, regardless of the cost. **Secret:** He is a high-level Adept of 'The Connection' who can 'see' the threads of a pattern before they are fully formed.
+2.  **James Greer** (Bureau - The Mentor) - An experienced leader with sardonic wisdom. **Voice:** Deep, authoritative, and John Krasinski-warm. **Goal:** To protect his analysts and ensure the truth is heard by the people who matter. **Secret:** He was the one who 'leaked' the first file to Jack to test his integrity.
+3.  **Cathy Mueller** (Independent - The Anchor) - A brilliant doctor and relationship anchor. **Voice:** Compassionate, grounding, and direct. **Goal:** To keep Jack's feet on the ground and remind him of the people behind the data. **Secret:** She is secretly researching the biological impact of the 'Shadow Bureau Protocols' on the analysts' minds.
+4.  **Suleiman** (Terrorist - Tragic Villain) - An intelligent, articulate man who views himself as a liberator. **Voice:** Intelligent, tragic, and articulate. **Goal:** To destroy the global financial system that he believes has failed his people. **Secret:** He was once a top student at an Ivy League university before a personal tragedy broke his faith in the system.
+5.  **The Tech Specialist (Han)** (Bureau - Support) - A man who lives in the blue-green glow of the surveillance center. **Voice:** Fast-paced, technical, and perpetually sleep-deprived. **Goal:** To provide real-time support and find the 'Digital Ghost.' **Secret:** He has discovered a back-door into the Bureaucratic Committee's private server.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Clarity' in a world of 'Institutional 
 | The Oracle | Adept | Map Wall | Can 'see' the interweaving strings of the investigation. |
 | 'Static' | Suleiman's Spy | Anywhere | Flickers in and out of the light when the connection is almost made. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Bullpen (Bureau HQ)
 An unglamorous office space of beiges, fluorescent whites, and neutral tones.
 *   **Jack's Cubicle:** A monument to 'Cluttered Analysis.' **Smell:** Stale coffee and old paper. **Sound:** The rhythmic tapping of a keyboard.
@@ -88,7 +91,8 @@ A high-tech room with multiple monitors and blue-green tech lighting.
 A warm, intimate space that feels remote and dangerous.
 *   **The Study:** A room filled with financial records and classical books. **Smell:** Cedar wood and expensive ink. **Sound:** A single heartbeat sound design.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Connection:** Arrive at the Bullpen. You must identify a suspicious pattern in a series of shell company transactions using the 'Analysis Theme.'
 2.  **The Map Wall Heist:** Someone has stolen a key photograph from your investigation wall. Track the thief through the Surveillance Center.
 3.  **The Briefing Gauntlet:** Present your findings to the Bureaucratic Committee. You must use your 'Analytical Conviction' to overcome their political obstacles.
@@ -97,18 +101,19 @@ A warm, intimate space that feels remote and dangerous.
 6.  **The Suleiman Reveal:** Follow the financial trail to a target location. Discover the tragic truth of Suleiman's origin.
 7.  **The Final Protocol:** Face Suleiman face-to-face in a final, reality-bending standoff. The truth is revealed through 'Document Heavy' evidence and mutual respect as the arrest is made.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Jack's Analysis Lens
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Jack's Analysis Lens:**
 **Type:** Wondrous Item (Implant)
 **Description:** A specialized eye implant that allows the analyst to see the world in pure data.
 **Mechanics:** Grants the user +5 to all Intelligence (Investigation) and Wisdom (Insight) checks. Once per day, the user can 'See' the connection between two unrelated items.
 
-### 2. The Greer Files
+2.  **The Greer Files:**
 **Type:** Artifact (Tome)
 **Description:** A thick, case file manila folder containing the Bureau's most secret protocols.
 **Mechanics:** Grants the user the ability to 'Authorize' any action, making it immune to political obstacles for 1 hour.
 
-### 3. Suleiman's Ledger
+3.  **Suleiman's Ledger:**
 **Type:** Wondrous Item
 **Description:** A perfectly preserved financial record of every shell company in the net.
 **Mechanics:** Grants the user the ability to 'Track' any financial or digital movement within 10 miles. Once per day, the user can 'Freeze' an enemy's assets for 1 hour.

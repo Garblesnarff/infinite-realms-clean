@@ -18,7 +18,8 @@ The World is not a floor; it's a stage that's being played by an invisible hand.
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Absolute Choice.' It is about the 'Human Resilience' of the spirit—the realization that magic is real if you're clever enough to see it. The 'Why' is the question: 'Can you remain human when the universe itself views your life as a single kursi in an eternal book?' It explores the beautiful wonder of the magical spectacle, the pride in mastering a theatrical feat, and the confident, resonant voice of a narrator who understands that every second is a gift. The players are the performers and members who must navigate the global conspiracies and the intensity of a single-take heist to find a truth that stays solid in the win.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Eye Collective (The Order)
 **Type:** Martial/Sacred Defense Brotherhood
 **Leader:** The Eye (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 **Asset:** Dark voids, reality-tearing plot holes, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**The Eye** (Order - The Lead) - A being whose voice is theatrical, confident, and resonant. **Voice:** Stage magician timing, dramatic flair, building anticipation. **Goal:** To protect the 'Theatrical Balance' and guide the new performers. **Secret:** He is secretly an Adept of 'Arcane-Energy' who can 'rewrite' a soul's destiny through his perfectly timed reveals.
-**Arthur Tressler** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Distribution' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
-**The Illusionist** (Independent - The Catalyst) - A being whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the syndicate-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the theater noise.
-**The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Arthur's logic that he's too professional to share.
-**The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Eye ritual.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **The Eye** (Order - The Lead) - A being whose voice is theatrical, confident, and resonant. **Voice:** Stage magician timing, dramatic flair, building anticipation. **Goal:** To protect the 'Theatrical Balance' and guide the new performers. **Secret:** He is secretly an Adept of 'Arcane-Energy' who can 'rewrite' a soul's destiny through his perfectly timed reveals.
+2.  **Arthur Tressler** (Shadow - The Villain) - A being whose voice is smooth, hierarchical, and measured. **Voice:** Beautiful but hollow, hiding a deep-seated terror. **Goal:** To consolidate all global talent into a single 'Global Distribution' under his control. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Note' of the original Silicon surge.
+3.  **The Illusionist** (Independent - The Catalyst) - A being whose voice is sharp, quick, and street-smart. **Voice:** Urban, modern, and witty banter. **Goal:** To find the 'destination' and stop the syndicate-shifts. **Secret:** she is the only person who can 'hear' the original Song of the World through the theater noise.
+4.  **The Mentor (Ghost)** (Independent - The Mentor) - A man whose body is a map of countless operation-scars. **Voice:** Precise, intellectual, and slightly world-weary. **Goal:** To maintain the peace between all factions and find a 'Safe Moment.' **Secret:** He has discovered a 'Vulnerability' in Arthur's logic that he's too professional to share.
+5.  **The Rookie (Ghost)** (Independent - The Lead) - A resilient student in practical regional gear. **Voice:** Natural, hesitant, and damaged. **Goal:** To find his true identity and a place to belong. **Secret:** He was the player character's biological twin (equivalent), the one who first परफॉर्म the Eye ritual.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Absolute 
 | The Monk | Ancient Worshipper | Stage Temple | Spends all his time painting murals of the 'Draft's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Grand Theater (The Hub)
 A grand urban monument to architecture, stages, and candlelight.
 *   **The Reading Room:** A site of 'Refined Formality' and harsh cellular rituals. **Smell:** Vanilla, old paper, and expensive ink. **Sound:** The rhythmic 'bong-bong' of a distant siren.
@@ -89,7 +92,8 @@ A dark, reality-distorting monument to body horror and distribution.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Journey Tree:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a shift zone. You must survive your first 'Syndicate Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Eye Run:** Navigate the traditional territories to find The Eye. You must identify the 'Arcane-Energy' node before the rivals arrive.
 3.  **The Illusion Heist:** Infiltrate the Syndicate HQ to retrieve a stolen 'Eye-Focus.' You must bypass the guards.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find the leader's secret vault.
 7.  **The Final Bloodletting at the Source:** Face Arthur Tressler face-to-face in a final, reality-bending standoff. The truth is revealed—will you wear the crown or save the soul?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Choice (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Choice (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Theatrical Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Eye Signet (Equivalent)
+2.  **The Eye Signet (Equivalent):**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the eye seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Arcane-Energy Capsule (Equivalent)
+3.  **The Arcane-Energy Capsule (Equivalent):**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Industrial' magic.

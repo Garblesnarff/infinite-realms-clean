@@ -18,7 +18,8 @@ The World isn't ending; it's just being recalled for a defect. We are the consum
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of absolute performance. It is about the 'Masculine Crisis' of the late 20th century—the realization that being a 'Man' has been replaced by being a 'Consumer.' The 'Why' is the question: 'How much of your life are you willing to burn to find out who you really are?' It explores the underground brutality of bare-knuckle fighting, the psychological fracture of the split personality, and the terrifying freedom found in losing everything. The players are the Space Monkeys and Drones who must decide whether to follow Tyler's destructive liberation or find a third path among the pieces.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### Project Mayhem (The Space Monkeys)
 **Type:** Anarchist Underground Cult
 **Leader:** Tyler Durden (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of absolute p
 **Asset:** Authentic suffering and a connection to the 'Jack's' body parts emotions.
 **Rivals:** None.
 
-## [TAG: NPC_TIER_1]
-**Tyler Durden** (Project Mayhem - The Leader) - A man in a red leather jacket and red sunglasses. **Voice:** Confident, manic, and philosophical. **Goal:** To destroy the current world-order and return humanity to a state of primal survival. **Secret:** He is a psychological projection of the Narrator's repressed desire for power and freedom.
-**The Narrator** (Independent - The Fractured) - A pale, exhausted man with dark circles under his eyes. **Voice:** Dissociative, deadpan, and fractured. **Goal:** To understand what is happening to his life and stop Tyler's plans. **Secret:** He is the primary 'Architect' of Project Mayhem, though he doesn't remember doing it.
-**Marla Singer** (Independent - The Catalyst) - A woman in a dark dress with messy hair and a cigarette. **Voice:** Sarcastic, chaotic, and world-weary. **Goal:** To survive her own self-destruction and find someone who actually cares. **Secret:** She knows the truth about Tyler and the Narrator but finds the reality 'interesting' enough to stay.
-**The Big Bob** (Fight Club - The Heart) - A former bodybuilder with 'bitch tits' and a gentle soul. **Voice:** Soft, emotional, and maternal. **Goal:** To find a place where he can finally cry and be held. **Secret:** He was the first person to join Fight Club because he had nothing left to lose.
-**Angel Face** (Project Mayhem - The Enforcer) - A young, beautiful man who is destroyed by the Narrator during a fight. **Voice:** Initially arrogant, then silent/broken. **Goal:** To prove his worthiness to Tyler. **Secret:** He views the Narrator as his only rival for Tyler's affection.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Tyler Durden** (Project Mayhem - The Leader) - A man in a red leather jacket and red sunglasses. **Voice:** Confident, manic, and philosophical. **Goal:** To destroy the current world-order and return humanity to a state of primal survival. **Secret:** He is a psychological projection of the Narrator's repressed desire for power and freedom.
+2.  **The Narrator** (Independent - The Fractured) - A pale, exhausted man with dark circles under his eyes. **Voice:** Dissociative, deadpan, and fractured. **Goal:** To understand what is happening to his life and stop Tyler's plans. **Secret:** He is the primary 'Architect' of Project Mayhem, though he doesn't remember doing it.
+3.  **Marla Singer** (Independent - The Catalyst) - A woman in a dark dress with messy hair and a cigarette. **Voice:** Sarcastic, chaotic, and world-weary. **Goal:** To survive her own self-destruction and find someone who actually cares. **Secret:** She knows the truth about Tyler and the Narrator but finds the reality 'interesting' enough to stay.
+4.  **The Big Bob** (Fight Club - The Heart) - A former bodybuilder with 'bitch tits' and a gentle soul. **Voice:** Soft, emotional, and maternal. **Goal:** To find a place where he can finally cry and be held. **Secret:** He was the first person to join Fight Club because he had nothing left to lose.
+5.  **Angel Face** (Project Mayhem - The Enforcer) - A young, beautiful man who is destroyed by the Narrator during a fight. **Voice:** Initially arrogant, then silent/broken. **Goal:** To prove his worthiness to Tyler. **Secret:** He views the Narrator as his only rival for Tyler's affection.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of absolute p
 | The Pilot | Chaser | High-Speed Highway | Can fly through a reality-glitch without spilling his coffee. |
 | 'Iron-Gut' | Medical Examiner | City Morgue | Can perform an autopsy while reciting the rules of Fight Club. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Paper Street House
 A dilapidated Victorian mansion in extreme disrepair, with no electricity and a squatter aesthetic.
 *   **The Basement:** A dark, humid arena where men stand in a circle around a single bare bulb. **Smell:** Sweat, blood, and homemade soap. **Sound:** The rhythmic 'thud-thump' of bare-knuckle fighting.
@@ -89,7 +92,8 @@ A grimy, low-ceilinged basement bar where it all started.
 The soaring, art deco heights of the global financial system.
 *   **The Rooftop:** A site of 'Final Countdown' and explosive orange. **Visual:** The city lights looking like a field of fallen stars. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Fight:** Meet Tyler Durden in a parking lot. You must hit him as hard as you can to prove you're still alive.
 2.  **The Paper Street Move:** Your corporate life has been destroyed. You must scavenge for food and supplies in the Victorian mansion while avoiding Tyler's 'Assignments.'
 3.  **The Guerrilla Action:** Participate in a nighttime operation to deface a corporate billboard. You must use stencils and spray paint without being caught by the 'Drones.'
@@ -98,18 +102,19 @@ The soaring, art deco heights of the global financial system.
 6.  **The Memory Leak:** Clocks are jumping forward and you're in unexplained locations. You must piece together your 'Lost Time' to find Tyler's secret vault.
 7.  **Operation Ground Zero:** The final countdown. You must infiltrate the Credit Card Towers to stop the bombs, or join Tyler in watching the world burn.
 
-## [TAG: ITEM_LEGENDARY]
-### 1. Tyler's Red Leather Jacket
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **Tyler's Red Leather Jacket:**
 **Type:** Wondrous Item (Armor)
 **Description:** A vintage, red leather jacket that grants the wearer absolute confidence.
 **Mechanics:** Grants the wearer +5 to all Charisma (Intimidation and Persuasion) checks and makes them immune to being frightened. Once per day, the wearer can 'Manifest' a second action.
 
-### 2. The Soap of Liberation
+2.  **The Soap of Liberation:**
 **Type:** Artifact Focus
 **Description:** A bar of homemade soap made from rendered human fat.
 **Mechanics:** Grants the user the ability to 'Dissolve' any corporate or magical ward. Once per day, the user can create an 'Explosive Pulse' that deals 10d10 fire damage.
 
-### 3. The IKEA Catalog
+3.  **The IKEA Catalog:**
 **Type:** Wondrous Item (Cursed)
 **Description:** A thick, clinical book that defines the user's worth by their possessions.
 **Mechanics:** Grants the user +5 to all Intelligence (Investigation) checks inside urban environments. **Curse:** The user begins to see the world in 'Sterile Whites' and suffers disadvantage on all empathy checks.

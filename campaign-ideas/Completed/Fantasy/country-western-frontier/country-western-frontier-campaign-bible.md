@@ -18,7 +18,8 @@ The World is not a planet; it's a road that never ends. In the beginning, 'The G
 ### The 'Why'
 The central conflict is the struggle for 'Authenticity' in a world of 'Stadium Performance.' It is about the 'Visceral Survival' of the human spirit—the realization that being yourself is the ultimate form of magic. The 'Why' is the question: 'Can a song told with enough grit and heart overcome even the absolute silence of the Nowhere?' It explores the warm colors of the eternal sunset, the tragedy of the 'Lonesome Crooner,' and the maternal voice of a woman who knows that wisdom is found in every word. The players are the road warriors and legends who must navigate the subculture politics and the intensity of a high-speed chase to find a truth that stays human in the light.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Traditional Union (The Order)
 **Type:** Theocratic/Nostalgic Defense Force
 **Leader:** Hank the Lonesome (Tier 1 NPC).
@@ -49,12 +50,13 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Stadium P
 **Asset:** Desaturated reality, 'Silence' magic, and a connection to the world's original purpose.
 **Rivals:** All Living Beings.
 
-## [TAG: NPC_TIER_1]
-**Dolly** (Healer - The Leader) - A woman in vibrant, jeweled silks with a warm Southern accent. **Voice:** Maternal, wise, and southern-accented. **Goal:** To protect the frontier's heart and find a way to stop the Nowhere. **Secret:** She is secretly an Adept of 'Heartland-Energy' who can 'heal' a broken reality through her storytelling.
-**Willie the Outlaw** (Rebel - The Villain) - A man in weathered leather with an authentic Texas drawl. **Voice:** Gravelly, lived-in, and unpredictable. **Goal:** To reclaim the frontier for the 'Outlaw-Children' and witness the final reset. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
-**Garth** (Modern - The Catalyst) - A man in an immaculate business suit with arena-rock energy. **Voice:** Booming, theatrical, and perfectly measured. **Goal:** To standardize the frontier and eliminate the 'Variable' vibes. **Secret:** He was the first Legend to 'Sync' with the stadium lighting, allowing him to become shadow (equivalent).
-**Hank the Lonesome** (Traditional - The Witness) - A man in sepia-toned silks who speaks in a mournful croon. **Voice:** Mournful, soft, and heartbreakingly honest. **Goal:** To record the history of the cold (equivalent) and witness the end of the song. **Secret:** she is the only person who can 'hear' the original Song of the World through the Nowhere's whispers.
-**Johnny (Ghost)** (Independent - The Lead) - A man in black with a deep, authoritative voice. **Voice:** Deep, authoritative, and world-weary. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He has discovered a 'Vulnerability' in the Nowhere's silence that he's too professional to share.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Dolly** (Healer - The Leader) - A woman in vibrant, jeweled silks with a warm Southern accent. **Voice:** Maternal, wise, and southern-accented. **Goal:** To protect the frontier's heart and find a way to stop the Nowhere. **Secret:** She is secretly an Adept of 'Heartland-Energy' who can 'heal' a broken reality through her storytelling.
+2.  **Willie the Outlaw** (Rebel - The Villain) - A man in weathered leather with an authentic Texas drawl. **Voice:** Gravelly, lived-in, and unpredictable. **Goal:** To reclaim the frontier for the 'Outlaw-Children' and witness the final reset. **Secret:** He is secretly part-Apocalypse, having consumed the 'First Ember' of the Silicon surge.
+3.  **Garth** (Modern - The Catalyst) - A man in an immaculate business suit with arena-rock energy. **Voice:** Booming, theatrical, and perfectly measured. **Goal:** To standardize the frontier and eliminate the 'Variable' vibes. **Secret:** He was the first Legend to 'Sync' with the stadium lighting, allowing him to become shadow (equivalent).
+4.  **Hank the Lonesome** (Traditional - The Witness) - A man in sepia-toned silks who speaks in a mournful croon. **Voice:** Mournful, soft, and heartbreakingly honest. **Goal:** To record the history of the cold (equivalent) and witness the end of the song. **Secret:** she is the only person who can 'hear' the original Song of the World through the Nowhere's whispers.
+5.  **Johnny (Ghost)** (Independent - The Lead) - A man in black with a deep, authoritative voice. **Voice:** Deep, authoritative, and world-weary. **Goal:** To stay alive and outrun his own ghosts. **Secret:** He has discovered a 'Vulnerability' in the Nowhere's silence that he's too professional to share.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -70,7 +72,8 @@ The central conflict is the struggle for 'Authenticity' in a world of 'Stadium P
 | The newsie | Street Kid | Village Market | Can name every frontier district by the sound of its train-whistle. |
 | The Guard | Modern Security | Main Gate | Wears armor so desaturated it looks like artificial shadow. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### The Grand Jamboree (The Hub)
 A high-contrast landscape of golden sunlight, vibrant colors, and festival energy.
 *   **The Main Stage:** A site of 'Saturated Golds' and harsh afternoon sunlight. **Smell:** BBQ, dust, and old wood. **Sound:** The rhythmic 'strum-strum' of a thousand guitars.
@@ -89,7 +92,8 @@ A high-contrast nightmare of dusty browns and weathered metal.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The White-Field:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the sand. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Song:** Wake up on the highway. You must survive your first 'Outlaw Ambush' using only your survival knife and your 'Spiritual intuition.'
 2.  **The Honky-Tonk Run:** Navigate the traditional territories to find Hank. You must identify the 'Heartland-Energy' node before the rivals arrive.
 3.  **The Stadium Heist:** Infiltrate the Modern Syndicate HQ to retrieve a stolen 'Fame-Focus.' You must bypass Garth's security.
@@ -98,18 +102,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Reset:** The frontier's central crystal has begun its final 'Reset.' You must defend the Temple while the self-destruct activates.
 7.  **The Final Bloodletting at the Source:** Face Johnny face-to-face in a final, reality-bending standoff. The truth is revealed—will you build the stars or reclaim the mud?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of the Heartland
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of the Heartland:**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha Legend.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Harmony-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Heartland-Energy Capsule
+3.  **The Heartland-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Nowhere' magic.

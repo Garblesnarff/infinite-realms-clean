@@ -19,7 +19,8 @@ The Earth is not a silent rock; it's a living geode that's being mined for its s
 ### The 'Why'
 The central conflict is the struggle between 'Economic Justice' and 'Crystalline Transcendence.' It is about the 'Industrial Exploitation' of the human spirit—the realization that natural beauty is often a mask for human ugliness. The 'Why' is the question: 'Can humanity survive the siren call of a perfect, alien evolution, or is the apocalypse just justice?' It explores the sharp geometry of the crystal formations, the visceral horror of the splitting skin, and the dreamy, synesthetic voice of a being that speaks in colors and sensations. The players are the miners and revolutionaries who must navigate the gurgling chambers and pressure-cooker politics to find a truth that stays human in the dark.
 
-## [TAG: FACTION_DATA]
+## Factions
+[TAG: FACTION_DATA]
 ### The Radiant Crown (The Order)
 **Type:** Theocratic/Industrial Bureaucracy
 **Leader:** Magistrate Cornelius Brightgem (Tier 1 NPC).
@@ -50,12 +51,13 @@ The central conflict is the struggle between 'Economic Justice' and 'Crystalline
 **Asset:** Living constellations, light-language, and a connection to the world's original purpose.
 **Rivals:** All Living Beers.
 
-## [TAG: NPC_TIER_1]
-**Magistrate Cornelius Brightgem** (Order - The Leader) - A man in opulent robes with refined features and crystal jewelry. **Voice:** Refined, upper-class British, smooth and persuasive. **Goal:** To build a 'New Gemhaven' on the graves of the old. **Secret:** He is secretly an Adept of 'Karma-Energy' who can 'persuade' a target's limbs to become plant-life through his touch.
-**The Faceless Broker** (Dissonant - The Catalyst) - A being whose voice is distorted by a crystal mask, multiple voices out of sync. **Voice:** Distorted, processed, and multi-voiced. **Goal:** To control the city's underbelly and trade 'The List' for his own profit. **Secret:** He is already part-Apocalypse, having stayed in the 'Void Quarter' too long to maintain his physical form.
-**Kara Stoneheart** (Independent - The Witness) - A woman in ragged, dust-covered work clothes with a determined expression. **Voice:** Strong, clear, rallying quality, Scottish/Irish accent. **Goal:** To save her community and find a way to stop the Great Decay. **Secret:** she is the only person who can 'hear' the original Song of the World through the crystal's screams.
-**Ironhand Magnus** (Deep Vein - The Inquisitor) - A man whose body is a map of countless mining scars. **Voice:** Deep, rough, and damaged. **Goal:** To maintain his bloodline and rule the Wasteland through the control of water. **Secret:** He has discovered a 'Vulnerability' in the Crystal Wyrm's armor that he's too professional to share.
-**The Crystal Wyrm (Echo)** (Ocean - Mythic Leader) - A massive, queen-like being of biomechanical beauty. **Voice:** Thousands of voices speaking in perfect harmony. **Goal:** To complete the 'Final Evolution' and merge all souls into its own decay. **Secret:** It is actually an Architect construct designed to compost the universe.
+## NPC Roster
+[TAG: NPC_TIER_1]
+1.  **Magistrate Cornelius Brightgem** (Order - The Leader) - A man in opulent robes with refined features and crystal jewelry. **Voice:** Refined, upper-class British, smooth and persuasive. **Goal:** To build a 'New Gemhaven' on the graves of the old. **Secret:** He is secretly an Adept of 'Karma-Energy' who can 'persuade' a target's limbs to become plant-life through his touch.
+2.  **The Faceless Broker** (Dissonant - The Catalyst) - A being whose voice is distorted by a crystal mask, multiple voices out of sync. **Voice:** Distorted, processed, and multi-voiced. **Goal:** To control the city's underbelly and trade 'The List' for his own profit. **Secret:** He is already part-Apocalypse, having stayed in the 'Void Quarter' too long to maintain his physical form.
+3.  **Kara Stoneheart** (Independent - The Witness) - A woman in ragged, dust-covered work clothes with a determined expression. **Voice:** Strong, clear, rallying quality, Scottish/Irish accent. **Goal:** To save her community and find a way to stop the Great Decay. **Secret:** she is the only person who can 'hear' the original Song of the World through the crystal's screams.
+4.  **Ironhand Magnus** (Deep Vein - The Inquisitor) - A man whose body is a map of countless mining scars. **Voice:** Deep, rough, and damaged. **Goal:** To maintain his bloodline and rule the Wasteland through the control of water. **Secret:** He has discovered a 'Vulnerability' in the Crystal Wyrm's armor that he's too professional to share.
+5.  **The Crystal Wyrm (Echo)** (Ocean - Mythic Leader) - A massive, queen-like being of biomechanical beauty. **Voice:** Thousands of voices speaking in perfect harmony. **Goal:** To complete the 'Final Evolution' and merge all souls into its own decay. **Secret:** It is actually an Architect construct designed to compost the universe.
 
 ## [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
@@ -71,7 +73,8 @@ The central conflict is the struggle between 'Economic Justice' and 'Crystalline
 | The Monk | Ancient Worshipper | Stone Altar | Spends all his time painting murals of the 'Flow's Beginning.' |
 | The Clerk | Congress Admin | Headquarters | Only communicates through a rhythmic 'Stamping' noise. |
 
-## [TAG: LOCATIONS_MAIN]
+## Locations
+[TAG: LOCATIONS_MAIN]
 ### Upper Gemhaven (The Hub)
 An organic, Art Nouveau monument to symmetry and stained-glass effects.
 *   **The Harbor Docks:** A site of 'Refined Formality' and harbor sounds. **Smell:** Brine, expensive coffee, and machine oil. **Sound:** The rhythmic 'bong-bong' of a distant bell.
@@ -90,7 +93,8 @@ A dark, narrow labyrinth of wooden support beams and organic chambers.
 A clinical white-blue space of absolute knowledge and desaturated reality.
 *   **The Soul-Core:** Where the 'Final Story' was first spoken. **Visual:** A single, broken mirror on the wall. **Feeling:** A heavy, silent pressure on the mind.
 
-## [TAG: QUEST_MAIN]
+## Quest Architecture
+[TAG: QUEST_MAIN]
 1.  **The First Squelch:** Wake up in a narrow, wet tunnel. You must escape a 'Crawler Ambush' using only your improvised bone-cleaver (equivalent).
 2.  **The Crystal Run:** Navigate the islands of the acidic sea to find Kara. You must identify the 'Respiration Seed' (equivalent) before the flicker.
 3.  **The Cartel Infiltration:** Infiltrate the Radiant Crown's garden to find evidence of their 'Reverse-Ingestion' plan. You must bypass the 'Blighted Guard.'
@@ -99,18 +103,19 @@ A clinical white-blue space of absolute knowledge and desaturated reality.
 6.  **The Final Digestion:** The Beast has begun its final 'Reset.' You must defend the Heart Chamber while the self-destruct activates.
 7.  **The Bloodletting at the Source:** Face the Queen Leech face-to-face in a final, reality-bending standoff. The truth is revealed—will you serve the Beast or die for the individual?
 
-## [TAG: ITEM_LEGENDARY]
-### 1. The Blade of Ibelin (Equivalent)
+## Item Database
+[TAG: ITEM_LEGENDARY]
+1.  **The Blade of Ibelin (Equivalent):**
 **Type:** Legendary Weapon
 **Description:** A massive sword crafted from the fossilized remains of the original Alpha god.
 **Mechanics:** Grants the user +5 to all attack rolls and allows them to perform the 'Life-Strike' (once per combat, deals 10d10 radiant damage).
 
-### 2. The Mandala Signet
+2.  **The Mandala Signet:**
 **Type:** Wondrous Item (Ring)
 **Description:** A simple, silver ring with the mandala seal.
 **Mechanics:** Grants the holder absolute authority in the spiritual world. Once per day, the user can 'Harmonize' with an ally, granting them advantage on their next check.
 
-### 3. The Crystal-Energy Capsule
+3.  **The Crystal-Energy Capsule:**
 **Type:** Artifact Focus
 **Description:** A small, sapphire crystal that hums with the key of the first Islander (equivalent).
 **Mechanics:** Grants the user the ability to 'Stabilize' a 30ft area of reality, making them immune to the effects of 'Crystal' magic.
