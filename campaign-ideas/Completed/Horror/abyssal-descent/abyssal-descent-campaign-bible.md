@@ -191,6 +191,11 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   **Goal:** Warn travelers.
 *   **Secret:** It’s a trap; the voice lures people to a pit.
 
+**21. Valerius the Upside Down** (Human Anarchist Mage) - Leader of the Gravity-Deniers, who lives on ceilings and treats the floor as a matter of opinion.
+*   **Voice:** Amused, unhurried, always slightly above you.
+*   **Goal:** Prove that down is a local convention and not a law.
+*   **Secret:** He fell once, early, and has never touched a floor since.
+
 `[TAG: NPC_TIER_2]`
 ### Minor NPC Table (High Density)
 

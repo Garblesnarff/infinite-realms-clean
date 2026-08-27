@@ -123,6 +123,8 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 18. **Sir Loin** (Minotaur Paladin) - Honorable, vegetarian. **Voice:** Booming, bovine, proud. **Goal:** Prove cows are friends, not food. **Secret:** Craves hamburgers.
 19. **Flicker** (Fire Beetle Familiar) - Mascot. **Voice:** Clicks and hisses (needs translator). **Goal:** Find crumbs. **Secret:** Can breathe nuclear fire once per year.
 20. **The Old Man** (Human Commoner?) - Unremarkable. **Voice:** Wheezy, quiet. **Goal:** Just wants toast. **Secret:** He is the physical anchor of the Restaurant. If he dies, it vanishes.
+21. **Head Chef Balthazar** (Human Chef) - Runs the kitchen absolutely and teaches the party every advanced technique they will need. **Voice:** Explosive, carrying, drops to a whisper when he is actually angry. **Goal:** Get this brigade good enough to survive without him. **Secret:** He intends to be the sacrifice in the finale, and has already decided.
+22. **Quill** (Kenku Critic) - Leader of the Critics' Circle, who delivers every judgement in a borrowed voice. **Voice:** Mimicry, most often the voice of God. **Goal:** Find the Perfect Meal. **Secret:** Three disappointments and he authorises the Hunger to feed; he is on two.
 
 [TAG: NPC_TIER_2]
 ### Minor NPCs (Table of 50)
@@ -198,6 +200,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 *   **The Under-Booth:** Tables for subterranean races, located in a cave system beneath the floor. **Smell:** Damp earth and truffles.
 *   **The Aquarium Room:** Submerged dining for aquatic guests. **Smell:** Salt water. **Sound:** Muffled echoes.
 *   **The VIP Void:** A private room of absolute silence. **Smell:** Nothing. **Sound:** Your own blood rushing.
+*   **The Forest Door:** One of the Restaurant's entrances, opening onto old woodland for guests who arrive on foot. Snort the wereboar truffler works this door. **Smell:** Leaf mould and rain. **Sound:** Branches settling behind you.
 
 ### Zone 3: The Cellar & Seal
 *   **The Wine Library:** Infinite shelves of bottles. **Smell:** Cork, dust, and fermenting grapes.
@@ -205,6 +208,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 *   **The Door of Locks:** The entrance to the Seal. Covered in 1,000 chains.
 *   **The Sapper's Tunnel:** A hidden tunnel dug by the Weeping Spoons.
 *   **The Hunger's Grate:** A sewer grate where the "void" leaks through. Whispers can be heard here.
+*   **The Hunger Between Worlds:** The appetite the Seal was built to hold shut, pressed flat against the far side of the cellar wall. It is older than the Restaurant and it is patient. **Smell:** Nothing whatsoever, which is the tell. **Sound:** Chewing, when the kitchen has gone quiet.
 
 ### Zone 4: The Ingredient Worlds (Outposts)
 *   **Infernus Market (Fire):** Stalls made of obsidian.
@@ -212,6 +216,10 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 *   **Oneiros Orchards (Dream):** Fruit changes shape when you look at it.
 *   **Thanatos Fields (Death):** Wheat that moans when harvested.
 *   **Mechanis Abattoir (Order):** Cows are cubes.
+*   **Empyrea (Light):** Terraced orchards of pure radiance, worked by celestials. Everything here is already perfect, which makes it very hard to cook with. **Smell:** Warm honey and clean linen. **Sound:** A choral note that never resolves.
+*   **Erebus (Shadow):** Harvest is done by touch, because looking directly at the crop spoils it. The forbidden ingredients are the good ones. **Smell:** Cold iron and wet ash. **Sound:** Your own footsteps, arriving slightly late.
+*   **Pandemonium (Chaos):** The stalls rearrange between one glance and the next, and no ingredient is ever the same twice. **Smell:** Different every few seconds. **Sound:** A market crowd that is never quite where you look.
+*   **The Last Supper (Rival):** Chef Mordant's establishment, a dark mirror of the Restaurant that serves tyrants and believes the Hunger should be released. **Smell:** Expensive smoke. **Sound:** Cutlery, and no conversation at all.
 
 ---
 
@@ -281,7 +289,9 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 2.  **The Pan of Eternity:** A cast-iron skillet that can grow to any size. Acts as a +3 Shield. Can cook a meal for an army in 1 round.
 3.  **The Tablecloth of Hosting:** Can be laid on any surface (lava, water, air) to create a flat, stable, invulnerable platform for 6 people.
 4.  **The Pepper Grinder of Cataclysm:** Shoots a cone of fire, ice, or acid depending on setting. 3 charges/day.
+
 5.  **The Reservation Book:** Contains the true name of every being who has ever eaten. Can summon any past customer once for 1 minute.
+6.  **The Golden Star:** The Critics' Circle's physical token of approval. While it hangs in the Restaurant its power is measurably greater. Losing it is worse than never having earned it.
 
 [TAG: ITEM_LOOT]
 ### Unique Loot (Weird/Low Probability)
@@ -305,6 +315,12 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 18. **Salt of Preservation:** Anything sprinkled with this cannot die for 1 minute (Zombie state).
 19. **Water of Dryness:** A powder that instantly dehydrates a target (4d6 necrotic).
 20. **The Tip Jar:** Any coin put in disappears and reappears in your pocket 1 day later.
+21. **Sazón's Journal:** The founder's working notebook, recovered from the sludge in the cellar. Its later pages describe the Seal, and stop mid-sentence.
+22. **The Black Sludge:** The residue leaking from beneath the cellar. It is not a substance so much as an absence with a texture, and it remembers being tasted.
+23. **The Dish of Reconciliation:** The recipe that ends the campaign, cooked inside the Hunger's own mouth. Every ingredient must come from a different dimension.
+24. **Soul Wine:** Erebus vintage. Drinking it returns one memory you had agreed to forget.
+25. **Time Honey:** Harvested in Oneiros. A spoonful buys a minute you have already spent.
+26. **Wish Fruit:** Pandemonium produce. It grants exactly what you asked for, in the order you said it.
 
 ---
 

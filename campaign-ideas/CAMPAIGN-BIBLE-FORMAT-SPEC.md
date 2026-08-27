@@ -22,11 +22,33 @@ To check a bible before you touch the database, run the pre-flight checker
 (Section 10). To check the database, ask Rob or the Hetzner session to run:
 
 ```
-bun run reingest -- --campaign <slug> --repo-path ../../../infinite-realms-clean
+bun run reingest -- --campaign <slug> --repo-path ../../../infinite-realms
 ```
 
-That command is a dry run. It prints added, renamed and unchanged entity counts.
-It does not write.
+That command is a dry run. It does not write.
+
+**Path warning.** On Hetzner the content checkout is `../../../infinite-realms`,
+even though its git origin is `infinite-realms-clean.git`. The path
+`../../../infinite-realms-clean` on that box is a failed `git init` from Jan 5
+with no commits and no working tree, and the command dies on `Campaign repo not
+found`. `DEFAULT_CAMPAIGN_REPO_PATH` in `index.ts` still points at the dead one.
+
+**The dry run counts ENTITIES, not rows.** `summarizeReingestDiff()` skips every
+chunk whose `entityName` is null before it counts added, renamed and unchanged.
+`reingestCampaignChunks()` writes all of them and asserts
+`rowsWritten === dedupeCampaignChunks(chunks).length`. So:
+
+```
+rows written = entities reported by the dry run + unnamed chunks
+```
+
+Unnamed chunks are the whole-file `world_building` chunk, which never carries an
+entity name, and the `creative_brief` chunk when the brief is under 2000
+characters and is therefore not split into named sections. That is 1 or 2 per
+campaign. Compare like with like, or a healthy run looks 1-2 rows short.
+
+`duplicateRowsRemoved` and `sectionMarkerRowsRemoved` exist only on the `--apply`
+path. Do not ask for them from a dry run.
 
 ---
 

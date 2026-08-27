@@ -113,6 +113,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 18. **The Bitter End Mercenary** (Human Mercenary) - A mercenary who believes all flavor must be earned through suffering. **Voice:** A harsh, cynical voice, full of bitterness. **Goal:** To inflict suffering on all who seek pleasure. **Secret:** He is secretly addicted to pleasure.
 19. **The Umami Philosopher** (Human Umami Collective) - A philosopher who seeks to balance all flavors. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious dish. **Secret:** They are slowly losing their own flavor.
 20. **The First Palate's Herald** (Celestial Flavor Guardian) - A being whose palate is directly connected to the First Palate. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of flavor. **Secret:** They are slowly losing their own divinity.
+21. **Headmaster Goldwhisk** (Human Archchef) - The Academy's head, a kindly grandfather with something desperate underneath. **Voice:** Warm and unhurried, turning sinister only when he thinks no student is listening. **Goal:** Keep the Academy standing for one more generation. **Secret:** He discovered the founding technique 150 years ago and has not aged since.
 
 [TAG: NPC_TIER_2]
 ### Minor NPCs (Table of 50)
@@ -276,6 +277,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 3.  **The Flavor-Vault Key:** A key that can open the Flavor-Vault, granting access to the essence of every known flavor in existence.
 4.  **The First Palate's Tongue:** A fragment of the First Palate's own tongue. When held, it grants the user a divine palate, capable of tasting the essence of all things.
 5.  **The Monotony's Anti-Spoon:** A spoon that, when used, drains all flavor from any dish, rendering it utterly bland. It is the ultimate weapon of the Monotony.
+6.  **The Essence of Pure Joy:** The Academy's most prized ingredient, stolen ten years ago. A single grain restores the capacity for delight to anything it touches.
 
 [TAG: ITEM_LOOT]
 ### Custom Loot (Weird/Low Probability)
@@ -299,6 +301,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 18. **The First Palate's Herald's Trumpet:** It's a trumpet that, when blown, announces the arrival of a new flavor.
 19. **A Monotony Cultist's Robe:** Wearing it makes you feel strangely bland and emotionless.
 20. **The Pepper King's Crown:** A crown made of chili peppers that makes your head feel incredibly hot.
+21. **The Memory Spoon:** A Recipe Thief tool that lifts a recipe straight out of a chef's mind. The chef keeps the memory of cooking it and loses the method.
 
 ---
 
