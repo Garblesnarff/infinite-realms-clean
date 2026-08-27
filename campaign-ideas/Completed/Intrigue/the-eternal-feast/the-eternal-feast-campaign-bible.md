@@ -216,10 +216,10 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 *   **Oneiros Orchards (Dream):** Fruit changes shape when you look at it.
 *   **Thanatos Fields (Death):** Wheat that moans when harvested.
 *   **Mechanis Abattoir (Order):** Cows are cubes.
-*   **Empyrea (Light):** Terraced orchards of pure radiance, worked by celestials. Everything here is already perfect, which makes it very hard to cook with. **Smell:** Warm honey and clean linen. **Sound:** A choral note that never resolves.
-*   **Erebus (Shadow):** Harvest is done by touch, because looking directly at the crop spoils it. The forbidden ingredients are the good ones. **Smell:** Cold iron and wet ash. **Sound:** Your own footsteps, arriving slightly late.
-*   **Pandemonium (Chaos):** The stalls rearrange between one glance and the next, and no ingredient is ever the same twice. **Smell:** Different every few seconds. **Sound:** A market crowd that is never quite where you look.
-*   **The Last Supper (Rival):** Chef Mordant's establishment, a dark mirror of the Restaurant that serves tyrants and believes the Hunger should be released. **Smell:** Expensive smoke. **Sound:** Cutlery, and no conversation at all.
+*   **Empyrea:** The Light Dimension. Terraced orchards of pure radiance, worked by celestials. Everything here is already perfect, which makes it very hard to cook with. **Smell:** Warm honey and clean linen. **Sound:** A choral note that never resolves.
+*   **Erebus:** The Shadow Dimension. Harvest is done by touch, because looking directly at the crop spoils it. The forbidden ingredients are the good ones. **Smell:** Cold iron and wet ash. **Sound:** Your own footsteps, arriving slightly late.
+*   **Pandemonium:** The Chaos Dimension. The stalls rearrange between one glance and the next, and no ingredient is ever the same twice. **Smell:** Different every few seconds. **Sound:** A market crowd that is never quite where you look.
+*   **The Last Supper:** The rival restaurant. Chef Mordant's establishment, a dark mirror of the Restaurant that serves tyrants and believes the Hunger should be released. **Smell:** Expensive smoke. **Sound:** Cutlery, and no conversation at all.
 
 ---
 
