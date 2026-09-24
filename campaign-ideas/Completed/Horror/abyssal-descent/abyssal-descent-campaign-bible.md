@@ -404,6 +404,9 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **1. The Chiropteran Hulk (CR 5)**
 *   *Visual:* A bat the size of a bear, face resembles a screaming man.
 *   *HP:* 80, *AC:* 14, *Speed:* 10ft / 50ft Fly.
+*   *Attack:* +3 to hit, 2d10 slashing
+*   *Size:* large
+*   *Resistances:* thunder
 *   *Abilities:*
     *   **Echolocation:** Blindsight 120ft. Blind beyond that.
     *   **Sonic Screech:** Cone 30ft. 4d6 Thunder + Stun.
@@ -411,6 +414,11 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **2. The Light-Eater (CR 1/2)**
 *   *Visual:* Small, shadowy moth-like swarm.
 *   *HP:* 15, *AC:* 12.
+*   *Attack:* +3 to hit, 1d6 necrotic
+*   *Speed:* 30
+*   *Size:* small
+*   *Resistances:* necrotic
+*   *Vulnerabilities:* radiant
 *   *Abilities:*
     *   **Douse:** Action to extinguish 1 non-magical light source.
     *   **Swarm:** Resistance to weapon damage.
@@ -418,6 +426,9 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **3. The Wall-Mouth (CR 3)**
 *   *Visual:* Camouflaged section of wall that opens into teeth.
 *   *HP:* 50, *AC:* 16 (looks like stone).
+*   *Attack:* +3 to hit, 2d6 piercing
+*   *Speed:* 0
+*   *Size:* large
 *   *Abilities:*
     *   **Trap:** False Appearance.
     *   **Swallow:** Grapples and digests (2d6 acid/turn).
@@ -425,6 +436,9 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **4. The Vitruvian Spider (CR 4)**
 *   *Visual:* A humanoid with limbs broken and stretched into spider legs.
 *   *HP:* 45, *AC:* 15.
+*   *Attack:* +3 to hit, 1d8 piercing
+*   *Speed:* 40
+*   *Size:* medium
 *   *Abilities:*
     *   **Spider Climb:** Can walk on ceilings.
     *   **Many Limbs:** 4 attacks per turn.
@@ -432,36 +446,61 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **5. The Silent Monk (CR 2)**
 *   *Visual:* Robed figure, mouth sewn shut.
 *   *HP:* 30, *AC:* 15.
+*   *Attack:* +3 to hit, 1d6 force
+*   *Speed:* 30
+*   *Size:* medium
+*   *Resistances:* psychic
+*   *Vulnerabilities:* thunder
 *   *Abilities:*
     *   **Aura of Silence:** 10ft radius. No casting spells.
 
 **6. The Faceless Stalker (CR 3)**
 *   *Visual:* Smooth skin, no features.
 *   *HP:* 40, *AC:* 13.
+*   *Attack:* +3 to hit, 1d6+1 psychic
+*   *Speed:* 30
+*   *Size:* medium
 *   *Abilities:*
     *   **Mimicry:** Can sound exactly like a party member.
 
 **7. The Gravity Golem (CR 6)**
 *   *Visual:* Floating rocks held together by purple energy.
 *   *HP:* 100, *AC:* 18.
+*   *Attack:* +3 to hit, range 60 ft, 4d8 force
+*   *Speed:* 20
+*   *Size:* large
+*   *Resistances:* bludgeoning
 *   *Abilities:*
     *   **Reverse Gravity:** 30ft radius. Players fall upward (take ceiling fall damage).
 
 **8. The Spore-Zombie (CR 1)**
 *   *Visual:* Corpse exploding with fungus.
 *   *HP:* 22, *AC:* 10.
+*   *Attack:* +3 to hit, 1d6 poison
+*   *Speed:* 20
+*   *Size:* medium
+*   *Immunities:* poison
+*   *Vulnerabilities:* fire
 *   *Abilities:*
     *   **Burst:** On death, explodes. CON save or infected.
 
 **9. The Deep Angler (CR 5)**
 *   *Visual:* Massive land-fish with a glowing lure that looks like a lost child.
 *   *HP:* 90, *AC:* 14.
+*   *Attack:* +3 to hit, 5d6 piercing
+*   *Speed:* 30
+*   *Size:* large
 *   *Abilities:*
     *   **Lure:** Wis save or compelled to move toward it.
 
 **10. The Thing Below (Avatar) (CR 12)**
 *   *Visual:* Shifting geometry, eyes, tentacles, starlight.
 *   *HP:* 200, *AC:* 19.
+*   *Attack:* +7 to hit, range 60 ft, 10d10+4 psychic
+*   *Speed:* 30
+*   *Size:* huge
+*   *Resistances:* force
+*   *Immunities:* psychic
 *   *Abilities:*
     *   **Reality Break:** Int save or take 6d10 Psychic damage.
     *   **Gaze of the Void:** Paralyzes viewers.
