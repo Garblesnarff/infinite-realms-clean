@@ -330,7 +330,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 1. Gluten Golem (CR 5)
 **HP:** 90 **AC:** 14 **Speed:** 30ft
 **Attack:** +3 to hit, 5d6 bludgeoning
-**Speed:** 30
 **Size:** large
 **Vulnerabilities:** fire
 **Abilities:**
@@ -340,7 +339,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 2. Rot-Maw (CR 3)
 **HP:** 45 **AC:** 12 **Speed:** 40ft
 **Attack:** +3 to hit, 1d8 piercing
-**Speed:** 40
 **Size:** medium
 **Abilities:**
 *   *Stench:* Aura 10ft. DC 13 Con or Poisoned.
@@ -348,8 +346,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 ### 3. Chrono-Weevil (CR 1/2)
 **HP:** 10 **AC:** 18 **Speed:** 0ft (Teleport 30ft)
-**Attack:** +3 to hit, 1d3 psychic
-**Speed:** 0
+**Attack:** +3 to hit, 1d6 psychic
 **Size:** tiny
 **Abilities:**
 *   *Eat Time:* Target must succeed DC 12 Wis or lose their Action this turn.
@@ -357,8 +354,7 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 ### 4. Shadow Roach (CR 1)
 **HP:** 20 **AC:** 13 **Speed:** 50ft (Climb)
-**Attack:** +3 to hit, 1d3 necrotic
-**Speed:** 50
+**Attack:** +3 to hit, 1d6 necrotic
 **Size:** small
 **Resistances:** necrotic
 **Vulnerabilities:** radiant
@@ -369,7 +365,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 5. Freezer Burn Elemental (CR 6)
 **HP:** 110 **AC:** 16 **Speed:** 30ft
 **Attack:** +4 to hit, 5d8 cold
-**Speed:** 30
 **Size:** large
 **Immunities:** cold
 **Abilities:**
@@ -379,7 +374,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 6. Spice Drake (CR 4)
 **HP:** 60 **AC:** 15 **Speed:** 40ft (Fly)
 **Attack:** +3 to hit, range 60 ft, 2d6 fire
-**Speed:** 40
 **Size:** medium
 **Resistances:** fire
 **Abilities:**
@@ -389,7 +383,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 7. Void Shark (CR 8)
 **HP:** 150 **AC:** 17 **Speed:** 60ft (Swim through air/ground)
 **Attack:** +6 to hit, 8d8+5 piercing
-**Speed:** 60
 **Size:** huge
 **Abilities:**
 *   *Reality Bite:* Crit range 19-20. On crit, erases a spell slot from target.
@@ -398,7 +391,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 8. Alcohol Ooze (CR 2)
 **HP:** 40 **AC:** 8 **Speed:** 20ft
 **Attack:** +3 to hit, 1d6+1 bludgeoning
-**Speed:** 20
 **Size:** medium
 **Vulnerabilities:** fire
 **Abilities:**
@@ -408,7 +400,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 9. Vegan Lich (CR 10)
 **HP:** 130 **AC:** 17 **Speed:** 30ft
 **Attack:** +5 to hit, range 60 ft, 6d8+2 necrotic
-**Speed:** 30
 **Size:** medium
 **Resistances:** necrotic
 **Immunities:** poison
@@ -419,7 +410,6 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### 10. The Unwashed Dish (CR 7)
 **HP:** 100 **AC:** 19 (Hardened Crust) **Speed:** 20ft
 **Attack:** +3 to hit, 4d8 bludgeoning
-**Speed:** 20
 **Size:** large
 **Abilities:**
 *   *Grease Slick:* 20ft radius, difficult terrain, Dex save or prone.
