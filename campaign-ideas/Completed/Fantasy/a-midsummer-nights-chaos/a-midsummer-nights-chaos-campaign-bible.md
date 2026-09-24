@@ -379,16 +379,108 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 ## 7. BESTIARY & ENCOUNTERS
 
 ### Custom Stat Blocks (10)
-1.  **The Critic (CR 3 Aberration):** Floating eye/mouth. *Vicious Mockery* reaction; *Bad Review* (Disadv on rolls).
-2.  **Stage-Hand Goblin (CR 1/2 Fae):** Invisible in dim light. *Set Change* (rotate terrain); *Hook* (drag player).
-3.  **Script-Spider (CR 2 Construct):** Ink/paper. *Rewrite* (change dmg type reaction); *Ink Blot* (Blind).
-4.  **Heckling Harpy (CR 4 Monstrosity):** *Demoralize* aura (-1d4 atk); *Discordant Screech* (Thunder/Stun).
-5.  **Prop-Mimic (CR 5 Monstrosity):** Fake tree/rock. *Splinter* (dmg on touch); *Stage Crash* (Line AOE).
-6.  **Spotlight Stalker (CR 6 Fae):** Invisible in dark. *Blinding Flash*; *Shadow Jump*.
-7.  **Method Actor (CR 3 Humanoid):** *Mirror Technique* (copies last attack used against it).
-8.  **The Director (CR 8 Boss):** Chair/Megaphone. *Cut!* (End player turn); *Action!* (Force player attack ally).
-9.  **Costume Swarm (CR 2 Construct):** Capes/hats. *Smother* (Grapple); *Blind*.
-10. **Rotten Tomato Elemental (CR 4 Plant):** *Stench* (Poison); *Splat* (Acid/Prone).
+### 1. The Critic (CR 3)
+(CR 3). Aberration. **HP:** 45, **AC:** 14.
+**Attack:** +3 to hit, 1d8 psychic
+**Speed:** 30
+**Size:** small
+**Abilities:**
+*   **Appearance:** Floating eye and mouth.
+*   **Vicious Mockery:** Reaction; a cutting remark that rattles its target.
+*   **Bad Review:** Inflicts disadvantage on rolls.
+
+### 2. Stage-Hand Goblin (CR 1/2)
+(CR 1/2). Fae. **HP:** 15, **AC:** 12.
+**Attack:** +3 to hit, 1d3 bludgeoning
+**Speed:** 30
+**Size:** small
+**Abilities:**
+*   **Invisibility:** Invisible in dim light.
+*   **Set Change:** Rotates the terrain.
+*   **Hook:** Drags a player.
+
+### 3. Script-Spider (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13.
+**Attack:** +3 to hit, 1d3 piercing
+**Speed:** 30
+**Size:** small
+**Vulnerabilities:** fire
+**Abilities:**
+*   **Appearance:** Made of ink and paper.
+*   **Rewrite:** Reaction; changes damage type.
+*   **Ink Blot:** Blinds its target.
+
+### 4. Heckling Harpy (CR 4)
+(CR 4). Monstrosity. **HP:** 60, **AC:** 15.
+**Attack:** +3 to hit, range 60 ft, 2d6 thunder
+**Speed:** 40
+**Size:** medium
+**Abilities:**
+*   **Demoralize:** Aura; −1d4 to attack rolls.
+*   **Discordant Screech:** Thunder damage and stun.
+
+### 5. Prop-Mimic (CR 5)
+(CR 5). Monstrosity. **HP:** 80, **AC:** 16.
+**Attack:** +3 to hit, 2d10 bludgeoning
+**Speed:** 20
+**Size:** large
+**Resistances:** bludgeoning
+**Abilities:**
+*   **Appearance:** Disguised as a fake tree or rock.
+*   **Splinter:** Damages creatures that touch it.
+*   **Stage Crash:** Line area attack.
+
+### 6. Spotlight Stalker (CR 6)
+(CR 6). Fae. **HP:** 90, **AC:** 16.
+**Attack:** +3 to hit, 5d6 radiant
+**Speed:** 40
+**Size:** medium
+**Resistances:** radiant
+**Abilities:**
+*   **Invisibility:** Invisible in darkness.
+*   **Blinding Flash:** Dazzling burst of light.
+*   **Shadow Jump:** Steps between shadows.
+
+### 7. Method Actor (CR 3)
+(CR 3). Humanoid. **HP:** 45, **AC:** 14.
+**Attack:** +3 to hit, 1d6+1 slashing
+**Speed:** 30
+**Size:** medium
+**Abilities:**
+*   **Mirror Technique:** Copies the last attack used against it.
+
+### 8. The Director (CR 8)
+(CR 8). Fey. **HP:** 120, **AC:** 18.
+**Attack:** +5 to hit, range 60 ft, 6d8+2 psychic
+**Speed:** 30
+**Size:** medium
+**Resistances:** psychic
+**Abilities:**
+*   **Appearance:** Director's chair and megaphone.
+*   **Cut!:** Ends a player's turn.
+*   **Action!:** Forces a player to attack an ally.
+
+### 9. Costume Swarm (CR 2)
+(CR 2). Construct. **HP:** 30, **AC:** 13.
+**Attack:** +3 to hit, 1d3 bludgeoning
+**Speed:** 30
+**Size:** medium
+**Resistances:** bludgeoning, piercing
+**Vulnerabilities:** fire
+**Abilities:**
+*   **Appearance:** A swirling mass of capes and hats.
+*   **Smother:** Grapples its victims.
+*   **Blind:** Blinds its victims.
+
+### 10. Rotten Tomato Elemental (CR 4)
+(CR 4). Plant. **HP:** 60, **AC:** 15.
+**Attack:** +3 to hit, range 60 ft, 2d6 acid
+**Speed:** 30
+**Size:** medium
+**Immunities:** poison
+**Abilities:**
+*   **Stench:** Poisonous reek.
+*   **Splat:** Acidic splatter that knocks prone.
 
 ### Encounter Tables (d20)
 *   **Urban:** 1: Noble shouting at horse. 20: Theseus inspecting sewers.
