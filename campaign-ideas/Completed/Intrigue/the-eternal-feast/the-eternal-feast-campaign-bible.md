@@ -329,60 +329,98 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 
 ### 1. Gluten Golem (CR 5)
 **HP:** 90 **AC:** 14 **Speed:** 30ft
+**Attack:** +3 to hit, 5d6 bludgeoning
+**Speed:** 30
+**Size:** large
+**Vulnerabilities:** fire
 **Abilities:**
 *   *Rising Dough:* At start of turn, regains 10 HP and grows one size category (Max Huge).
 *   *Sticky Grasp:* On hit, target is restrained (Str DC 15).
 
 ### 2. Rot-Maw (CR 3)
 **HP:** 45 **AC:** 12 **Speed:** 40ft
+**Attack:** +3 to hit, 1d8 piercing
+**Speed:** 40
+**Size:** medium
 **Abilities:**
 *   *Stench:* Aura 10ft. DC 13 Con or Poisoned.
 *   *Devour:* Advantage on attacks against prone targets.
 
 ### 3. Chrono-Weevil (CR 1/2)
 **HP:** 10 **AC:** 18 **Speed:** 0ft (Teleport 30ft)
+**Attack:** +3 to hit, 1d3 psychic
+**Speed:** 0
+**Size:** tiny
 **Abilities:**
 *   *Eat Time:* Target must succeed DC 12 Wis or lose their Action this turn.
 *   *Small Target:* Disadvantage on ranged attacks against it.
 
 ### 4. Shadow Roach (CR 1)
 **HP:** 20 **AC:** 13 **Speed:** 50ft (Climb)
+**Attack:** +3 to hit, 1d3 necrotic
+**Speed:** 50
+**Size:** small
+**Resistances:** necrotic
+**Vulnerabilities:** radiant
 **Abilities:**
 *   *Light Sensitivity:* Disadvantage in bright light.
 *   *Multiply:* When killed, splits into 2 smaller roaches with half HP.
 
 ### 5. Freezer Burn Elemental (CR 6)
 **HP:** 110 **AC:** 16 **Speed:** 30ft
+**Attack:** +4 to hit, 5d8 cold
+**Speed:** 30
+**Size:** large
+**Immunities:** cold
 **Abilities:**
 *   *Cold Snap:* 15ft cone, 4d6 Cold.
 *   *Desiccate:* Melee hit deals extra 2d6 Necrotic (removes moisture).
 
 ### 6. Spice Drake (CR 4)
 **HP:** 60 **AC:** 15 **Speed:** 40ft (Fly)
+**Attack:** +3 to hit, range 60 ft, 2d6 fire
+**Speed:** 40
+**Size:** medium
+**Resistances:** fire
 **Abilities:**
 *   *Breath Weapon:* Cone of Paprika (Blindness).
 *   *Explosive Scales:* Melee attackers take 1d6 Fire damage.
 
 ### 7. Void Shark (CR 8)
 **HP:** 150 **AC:** 17 **Speed:** 60ft (Swim through air/ground)
+**Attack:** +6 to hit, 8d8+5 piercing
+**Speed:** 60
+**Size:** huge
 **Abilities:**
 *   *Reality Bite:* Crit range 19-20. On crit, erases a spell slot from target.
 *   *Blood Scent:* Senses anyone below half HP anywhere in the restaurant.
 
 ### 8. Alcohol Ooze (CR 2)
 **HP:** 40 **AC:** 8 **Speed:** 20ft
+**Attack:** +3 to hit, 1d6+1 bludgeoning
+**Speed:** 20
+**Size:** medium
+**Vulnerabilities:** fire
 **Abilities:**
 *   *Intoxicate:* Slam attack applies "Drunk" condition (Poisoned).
 *   *Flammable:* If hit with fire, explodes (3d6 Fire to all within 10ft).
 
 ### 9. Vegan Lich (CR 10)
 **HP:** 130 **AC:** 17 **Speed:** 30ft
+**Attack:** +5 to hit, range 60 ft, 6d8+2 necrotic
+**Speed:** 30
+**Size:** medium
+**Resistances:** necrotic
+**Immunities:** poison
 **Abilities:**
 *   *Power Word: Kale:* Target is restrained by magical vines.
 *   *Life Drain:* Sucks the nutrients out of target (Necrotic).
 
 ### 10. The Unwashed Dish (CR 7)
 **HP:** 100 **AC:** 19 (Hardened Crust) **Speed:** 20ft
+**Attack:** +3 to hit, 4d8 bludgeoning
+**Speed:** 20
+**Size:** large
 **Abilities:**
 *   *Grease Slick:* 20ft radius, difficult terrain, Dex save or prone.
 *   *Filth Fever:* Hits inflict disease.
