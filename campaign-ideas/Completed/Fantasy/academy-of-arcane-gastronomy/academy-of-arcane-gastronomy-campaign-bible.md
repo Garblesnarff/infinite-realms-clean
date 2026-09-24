@@ -319,7 +319,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 
 ### 2. Monotony Cultist (CR 2)
 **HP:** 30 **AC:** 12
-**Attack:** +3 to hit, 1d3 necrotic
+**Attack:** +3 to hit, 1d6 necrotic
 **Speed:** 30
 **Size:** medium
 **Abilities:** *Bland Touch* (Melee attack deals necrotic damage and makes target's food taste like ash for 1 hour), *Anti-Flavor Aura* (Dulls all magic within 10ft).
