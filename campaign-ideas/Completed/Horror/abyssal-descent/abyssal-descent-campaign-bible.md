@@ -405,7 +405,6 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Visual:* A bat the size of a bear, face resembles a screaming man.
 *   *HP:* 80, *AC:* 14, *Speed:* 10ft / 50ft Fly.
 *   *Attack:* +3 to hit, 2d10 slashing
-*   *Speed:* 50
 *   *Size:* large
 *   *Resistances:* thunder
 *   *Abilities:*
@@ -415,7 +414,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **2. The Light-Eater (CR 1/2)**
 *   *Visual:* Small, shadowy moth-like swarm.
 *   *HP:* 15, *AC:* 12.
-*   *Attack:* +3 to hit, 1d3 necrotic
+*   *Attack:* +3 to hit, 1d6 necrotic
 *   *Speed:* 30
 *   *Size:* small
 *   *Resistances:* necrotic
@@ -447,7 +446,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **5. The Silent Monk (CR 2)**
 *   *Visual:* Robed figure, mouth sewn shut.
 *   *HP:* 30, *AC:* 15.
-*   *Attack:* +3 to hit, 1d3 force
+*   *Attack:* +3 to hit, 1d6 force
 *   *Speed:* 30
 *   *Size:* medium
 *   *Resistances:* psychic
@@ -477,7 +476,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 **8. The Spore-Zombie (CR 1)**
 *   *Visual:* Corpse exploding with fungus.
 *   *HP:* 22, *AC:* 10.
-*   *Attack:* +3 to hit, 1d3 poison
+*   *Attack:* +3 to hit, 1d6 poison
 *   *Speed:* 20
 *   *Size:* medium
 *   *Immunities:* poison
