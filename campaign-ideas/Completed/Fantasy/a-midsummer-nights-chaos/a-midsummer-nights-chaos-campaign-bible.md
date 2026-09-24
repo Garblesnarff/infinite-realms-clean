@@ -390,8 +390,8 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 *   **Bad Review:** Inflicts disadvantage on rolls.
 
 ### 2. Stage-Hand Goblin (CR 1/2)
-(CR 1/2). Fae. **HP:** 15, **AC:** 12.
-**Attack:** +3 to hit, 1d3 bludgeoning
+(CR 1/2). Fey. **HP:** 15, **AC:** 12.
+**Attack:** +3 to hit, 1d6 bludgeoning
 **Speed:** 30
 **Size:** small
 **Abilities:**
@@ -401,7 +401,7 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 
 ### 3. Script-Spider (CR 2)
 (CR 2). Construct. **HP:** 30, **AC:** 13.
-**Attack:** +3 to hit, 1d3 piercing
+**Attack:** +3 to hit, 1d6 piercing
 **Speed:** 30
 **Size:** small
 **Vulnerabilities:** fire
@@ -431,7 +431,7 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 *   **Stage Crash:** Line area attack.
 
 ### 6. Spotlight Stalker (CR 6)
-(CR 6). Fae. **HP:** 90, **AC:** 16.
+(CR 6). Fey. **HP:** 90, **AC:** 16.
 **Attack:** +3 to hit, 5d6 radiant
 **Speed:** 40
 **Size:** medium
@@ -462,7 +462,7 @@ Before the material plane solidified, the Cosmos was a script written by the **T
 
 ### 9. Costume Swarm (CR 2)
 (CR 2). Construct. **HP:** 30, **AC:** 13.
-**Attack:** +3 to hit, 1d3 bludgeoning
+**Attack:** +3 to hit, 1d6 bludgeoning
 **Speed:** 30
 **Size:** medium
 **Resistances:** bludgeoning, piercing
