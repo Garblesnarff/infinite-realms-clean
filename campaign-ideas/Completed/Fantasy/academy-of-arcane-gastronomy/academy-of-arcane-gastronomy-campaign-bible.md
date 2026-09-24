@@ -311,42 +311,80 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 ### Custom Stat Blocks
 ### 1. Flavor-Elemental (Corrupted) (CR 5)
 **HP:** 80 **AC:** 14
+**Attack:** +3 to hit, 2d8+2 psychic
+**Speed:** 30
+**Size:** medium
+**Vulnerabilities:** radiant
 **Abilities:** *Discordant Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on taste-related checks), *Volatile Burst* (Explodes on death, dealing 3d6 damage of a random flavor type).
 
 ### 2. Monotony Cultist (CR 2)
 **HP:** 30 **AC:** 12
+**Attack:** +3 to hit, 1d3 necrotic
+**Speed:** 30
+**Size:** medium
 **Abilities:** *Bland Touch* (Melee attack deals necrotic damage and makes target's food taste like ash for 1 hour), *Anti-Flavor Aura* (Dulls all magic within 10ft).
 
 ### 3. Sugar-Golem (CR 6)
 **HP:** 100 **AC:** 16
+**Attack:** +3 to hit, 4d8 bludgeoning
+**Speed:** 20
+**Size:** large
+**Resistances:** bludgeoning
+**Vulnerabilities:** fire
 **Abilities:** *Sticky Grasp* (Grapples and restrains target, dealing bludgeoning damage), *Sweet Explosion* (Explodes on death, dealing 4d6 piercing damage from sugar shards).
 
 ### 4. Sour Knight (CR 4)
 **HP:** 60 **AC:** 17
+**Attack:** +3 to hit, 2d6 slashing
+**Speed:** 30
+**Size:** medium
 **Abilities:** *Bitter Blade* (Melee attack deals extra necrotic damage and inflicts a lingering bitter taste), *Cynical Aura* (Creatures within 10ft have disadvantage on morale checks).
 
 ### 5. Recipe Thief (Master) (CR 5)
 **HP:** 75 **AC:** 15
+**Attack:** +3 to hit, 2d10 piercing
+**Speed:** 40
+**Size:** medium
 **Abilities:** *Memory-Spoon* (Can extract a recipe directly from a chef's mind), *Disguise Self* (Can change its appearance as a bonus action).
 
 ### 6. Culinary Critic (Disgraced) (CR 3)
 **HP:** 45 **AC:** 13
+**Attack:** +3 to hit, 1d8 psychic
+**Speed:** 30
+**Size:** medium
 **Abilities:** *Scathing Critique* (Forces a WIS save vs. taking psychic damage and being demoralized), *Golden Spoon (Lost)* (Has a faint aura of lost power).
 
 ### 7. Pepper King (Crime Lord) (CR 8)
 **HP:** 120 **AC:** 18
+**Attack:** +5 to hit, range 60 ft, 6d8+2 fire
+**Speed:** 30
+**Size:** medium
+**Resistances:** fire
 **Abilities:** *Chili Breath* (15-ft cone, 4d6 fire damage and blinds targets), *Flavor-Elemental Bodyguards* (Always accompanied by 1d4 Flavor-Elementals).
 
 ### 8. Umami Overlord (Avatar) (CR 12)
 **HP:** 200 **AC:** 16
+**Attack:** +7 to hit, range 60 ft, 10d10+4 force
+**Speed:** 30
+**Size:** huge
+**Resistances:** psychic
 **Abilities:** *Savory Aura* (Creatures within 30ft are filled with a sense of contentment and have disadvantage on attack rolls), *Flavor Blast* (Deals massive force damage).
 
 ### 9. The Bland One (Monotony Avatar) (CR 15)
 **HP:** 250 **AC:** 19
+**Attack:** +8 to hit, 12d10+11 necrotic
+**Speed:** 30
+**Size:** huge
+**Immunities:** psychic
+**Vulnerabilities:** radiant
 **Abilities:** *Anti-Flavor Aura* (Drains all color and taste from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
 
 ### 10. Grand Chef Sazón (Corrupted) (CR 10)
 **HP:** 150 **AC:** 17
+**Attack:** +6 to hit, range 60 ft, 6d12+2 fire
+**Speed:** 30
+**Size:** medium
+**Resistances:** fire
 **Abilities:** *Divine Palate (Corrupted)* (Can identify any flavor, but it always tastes bland), *Recipe of Destruction* (Can cast powerful flavor-based spells that cause chaos).
 
 
