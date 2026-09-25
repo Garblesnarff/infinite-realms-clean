@@ -82,7 +82,7 @@ A gothic investigation into curses, hereditary evil, and the sins of the past.
 
 1.  **The Pine Barrens:** A vast, dense forest of pine and oak, filled with bogs, abandoned towns, and secret paths known only to locals.
 2.  **Leeds Point:** The colonial-era village where the Leeds family once lived, now a half-abandoned community.
-3.  **The Devil's Homestead:** The ruins of the original Leeds family manor, deep in the most remote part of the Barrens. The devil's lair.
+3.  **The Leeds Homestead:** The ruins of the original Leeds family manor, deep in the most remote part of the Barrens. The devil's lair.
 4.  **The Cult's Sanctuary:** A hidden chapel in the woods where the Devil Worshippers conduct their rituals.
 
 ---
