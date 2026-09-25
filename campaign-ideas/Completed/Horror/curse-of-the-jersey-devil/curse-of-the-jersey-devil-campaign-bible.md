@@ -328,36 +328,58 @@ The deepest, most remote heart of the Barrens, where the original pact was struc
 ## Bestiary
 ### 1. Bog Wight (CR 1)
 (CR 1). Undead. **HP:** 18, **AC:** 12.
+**Attack:** +3 to hit, 1d6 necrotic
+**Speed:** 20
+**Size:** medium
+**Vulnerabilities:** radiant
 **Abilities:**
 *   **Passive: Marsh-Born:** Ignores difficult terrain caused by mud, bogs, or standing water.
 *   **Action: Clutching Grasp:** Melee attack. On hit, 1d8 necrotic damage and the target's speed is halved until the end of their next turn.
 
 ### 2. Devil Worshipper Zealot (CR 2)
 (CR 2). Humanoid. **HP:** 30, **AC:** 13.
+**Attack:** +3 to hit, 1d6 slashing
+**Speed:** 30
+**Size:** medium
 **Abilities:**
 *   **Passive: Fanatic's Resolve:** Advantage on saving throws against being frightened while an ally is within 10 feet.
 *   **Action: Sacrificial Blade:** Melee attack. On hit, 2d6 slashing damage; if the target is below half hit points, this attack deals an extra 1d6 damage.
 
 ### 3. Charcoal Collier Ghost (CR 3)
 (CR 3). Undead. **HP:** 45, **AC:** 14.
+**Attack:** +3 to hit, range 30 ft, 1d8 fire
+**Speed:** 30
+**Size:** medium
+**Immunities:** fire
 **Abilities:**
 *   **Passive: Furnace-Bound:** Cannot move more than 60 feet from the Furnace Ruins or the Collier's Row.
 *   **Action: Smothering Ash:** Ranged attack, 30 feet. On hit, 3d6 fire damage and the target is blinded until the end of their next turn.
 
 ### 4. Feral Bog Hound (CR 4)
 (CR 4). Monstrosity. **HP:** 60, **AC:** 15.
+**Attack:** +3 to hit, 1d12+1 piercing
+**Speed:** 40
+**Size:** medium
 **Abilities:**
 *   **Passive: Devil-Tainted Scent:** Has advantage on Wisdom (Perception) checks to track any Leeds descendant.
 *   **Action: Rending Bite:** Melee attack. On hit, 3d8 piercing damage, and the target must succeed on a Strength save or be knocked prone.
 
 ### 5. The Sin-Eater's Wraith (CR 5)
 (CR 5). Undead. **HP:** 80, **AC:** 16.
+**Attack:** +3 to hit, 3d6 psychic
+**Speed:** 40
+**Size:** medium
+**Resistances:** necrotic
 **Abilities:**
 *   **Passive: Weight of Guilt:** Any creature that starts its turn within 15 feet and has a false confession or hidden lie must succeed on a Wisdom save or have disadvantage on attack rolls until the start of its next turn.
 *   **Action: Devour the Unspoken:** Melee attack. On hit, 4d6 psychic damage, and the wraith regains hit points equal to half the damage dealt.
 
 ### 6. Devil's Blood Hound (CR 6)
 (CR 6). Monstrosity. **HP:** 90, **AC:** 16.
+**Attack:** +3 to hit, 4d8 piercing
+**Speed:** 50
+**Size:** large
+**Resistances:** fire
 **Abilities:**
 *   **Passive: Sulfur Hide:** Resistant to fire damage.
 *   **Action: Twin Fangs:** Makes two bite attacks, each dealing 2d8 piercing damage.
@@ -365,18 +387,30 @@ The deepest, most remote heart of the Barrens, where the original pact was struc
 
 ### 7. Devil Worshipper Ritualist (CR 7)
 (CR 7). Humanoid. **HP:** 110, **AC:** 17.
+**Attack:** +4 to hit, range 60 ft, 5d8 necrotic
+**Speed:** 30
+**Size:** medium
+**Resistances:** necrotic
 **Abilities:**
 *   **Passive: Blood-Marked:** Resistant to necrotic damage.
 *   **Action: Bind the Faithful:** Ranged spell attack, 60 feet. On hit, 5d8 necrotic damage, and the target cannot willingly move further than 30 feet from the ritualist until the start of the ritualist's next turn.
 
 ### 8. The Widow of the Bog (CR 8)
 (CR 8). Fey. **HP:** 120, **AC:** 18.
+**Attack:** +5 to hit, 6d8 bludgeoning
+**Speed:** 30
+**Size:** medium
+**Vulnerabilities:** fire
 **Abilities:**
 *   **Passive: Bog Camouflage:** Has advantage on Dexterity (Stealth) checks made while within 5 feet of standing water.
 *   **Action: Drowning Embrace:** Melee attack. On hit, 5d8 bludgeoning damage, and the target is grappled; while grappled this way, the target begins to suffocate.
 
 ### 9. Young Jersey Devil (CR 9)
 (CR 9). Fiend. **HP:** 140, **AC:** 17.
+**Attack:** +6 to hit, 8d8 slashing
+**Speed:** 40
+**Size:** large
+**Resistances:** fire
 **Abilities:**
 *   **Passive: Unstable Wings:** Has a flying speed of 60 feet but must land at the end of any turn in which it takes damage.
 *   **Action: Talon Rake:** Makes two claw attacks, each dealing 3d8 slashing damage.
@@ -384,6 +418,11 @@ The deepest, most remote heart of the Barrens, where the original pact was struc
 
 ### 10. The Jersey Devil (CR 12)
 (CR 12). Fiend. **HP:** 180, **AC:** 18.
+**Attack:** +7 to hit, 10d10 piercing
+**Speed:** 40
+**Size:** huge
+**Resistances:** necrotic, psychic
+**Vulnerabilities:** radiant
 **Abilities:**
 *   **Passive: Three Centuries of Rage:** Immune to being frightened; resistant to necrotic and psychic damage.
 *   **Passive: Devil's Cry:** Once per long rest as a bonus action, lets out a hunting shriek; all Leeds descendants within one mile become aware, on some level, that it is coming for them.
