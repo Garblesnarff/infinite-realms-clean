@@ -1,165 +1,94 @@
 # Journey to the Inner World
 
-*An Exploration / Lost World campaign — Short Campaign (6–8 sessions) — Hard difficulty*
+*An Adventure / Exploration / Weird Fantasy campaign — Hard difficulty*
+
+**Campaign Type / Genre:** Adventure / Exploration / Weird Fantasy
+**Estimated Length:** Medium Campaign — 12–16 sessions (each session ≈ 3–4 hours)
+**Player Level Range:** Start **1** → Finish **10**
+**Tone (keywords):** wondrous, dangerous, primordial, strange, cosmic
+**Difficulty:** Hard
+**Core Premise (2–4 sentences):** The world is an egg laid by the Great Wyrm, and it is hatching. Beneath the Shell — the ordered surface — lies the Yolk, a glowing world of living chaos, and at its heart the Core: a god about to be born. When a great quake splits your town open, Baron Alistair Finch's Delvers' Guild hires you to lead the way down. At the bottom you must choose: seal the Shell, shatter it, or midwife the birth.
 
 ---
 
 ## Campaign Overview
 
-**Title:** Journey to the Inner World
-**Campaign Type / Genre:** Exploration / Lost World
-**Estimated Length:** Short Campaign — 6–8 sessions (each session ≈ 3–4 hours)
-**Player Level Range:** Start **7** → Finish **11–12**
-**Tone (keywords):** wondrous, dangerous, primeval, mysterious, survivalist
-**Core Premise (2–4 sentences):**
-Following the trail of a lost expedition, the party discovers a passage to a hidden world deep within the planet's core. This inner world is a primeval wilderness of strange flora and fauna, ancient ruins, and savage, subterranean civilizations. But the inner world is dying—its crystalline sun is fading—and the party must brave its dangers to find a way to reignite it before this lost world is plunged into eternal darkness.
+Journey to the Inner World is a descent story. It begins with a catastrophe on the surface — a quake that tears open the Great Chasm of Al-Ghor — and follows the party as they are hired, tested, and drawn ever deeper into a planet that is, quite literally, coming to life around them. What starts as a paid expedition for the profit-minded Delvers' Guild becomes something far larger: the party is walking down through the layers of a hatching god, and every faction they meet has already picked a side in what that hatching should mean.
+
+The campaign is built around three widening rings. First the Shell itself — chasms, sealed Progenitor tunnels, and the sound-warped Labyrinth of Echoes — where the danger is collapse, sabotage, and the ancient automatons still enforcing a ten-thousand-year-old lockdown. Then the Yolk — the Bioluminescent Jungle and the Sea of Chaos — where biology itself is negotiable and every long rest is a gamble. Finally the Core's Corona, where the party stands at the edge of a newborn consciousness and must decide, with the fate of two whole worlds in the balance, what kind of birth this will be.
+
+Ten factions pull in ten directions: the Delvers' Guild wants profit, the Surface Sentinels want the passages sealed forever, the Geode-Gnostics want transcendence into living crystal, the Flesh-Weavers want to perfect evolution itself, the Children of the Core want the birth to happen naturally, the Remnant of the Shell-Wardens are still executing a broken command to seal the way, the Descendants of the Yolk-Embracers want the Shell torn down entirely, the Echo-Thieves want to record the moment of creation, the Sporefolk Sovereignty wants everything folded into its peaceful hive-mind, and the Society of the Blind Worm wants the Hatching to be a feast for their worm-god. The party will have to work with, around, or against most of them before they reach the Core.
 
 ---
 
-## What “Hard” Difficulty Means Here
+## What "Hard" Difficulty Means Here
 
-*   **Encounters:** The inner world is a place of untamed wilderness and savage beasts. The party will face off against dinosaurs, giant insects, and other prehistoric monsters. The native civilizations are also hostile and territorial.
-*   **Survival:** The party is cut off from the outside world and must survive on their wits and their skills. They will need to find food, water, and shelter in a hostile and alien environment.
-*   **Consequences:** The inner world is a dangerous and unforgiving place. A wrong turn can lead to a deadly encounter, a failed survival check can lead to starvation, and a diplomatic blunder can lead to a war with a subterranean empire.
+* **Encounters:** Every zone escalates in lethality and strangeness as the party descends — Warden-Scarabs and Echo-Bats near the surface give way to Yolk-Spawn, Crystal-Spinners, and Grafted Horrors in the Yolk, and finally to Core-Spawn and Living Crystal elementals in the Corona. Spellcasting itself turns dangerous the deeper the party goes: Yolk-Flux gives any spell cast in the Yolk a rising chance of a wild magic surge, worse the higher the spell's level.
+* **Survival and Delve Stress:** The expedition doesn't just fight monsters, it accumulates pressure. Each day spent underground adds a point of Delve Stress, stacking a cumulative penalty to Wisdom and Charisma saves that only rest in a safe zone like the Delver's Guild Terminus can relieve — and every long rest taken in the Yolk itself risks Spontaneous Evolution, a Constitution save against picking up a random, often bizarre mutation.
+* **Consequences:** Failure compounds. A botched save near the Core can mean Conceptual Instability rewriting how your own gear behaves; a party member who lingers too long in the Yolk may need to weigh a permanent mutation against the Shell-Shock that hits Yolk-changed characters who try to return to the surface's "unchanging" laws.
 
 ---
 
-## Story Arc (Short Campaign — 6–8 sessions)
+## Story Arc
 
-A three-act arc that takes the party on a journey of discovery and survival.
+**Act I — The Shell (Sessions 1–7):** The Great Quake cracks open the Great Chasm of Al-Ghor. The party signs on with Baron Alistair Finch's Delvers' Guild expedition, survives the descent into the chasm, weathers a Surface Sentinel sabotage attempt on the rope-bridges, forces open the sealed Progenitor gate, gets lost in the sound-twisting Labyrinth of Echoes, and finally confronts Warden-Unit 9, the last guardian standing between the Shell and the Yolk.
 
-*   **Act I — The Descent (Sessions 1–2):** The party follows the trail of a lost expedition into a massive cave system, which leads them to the entrance of the inner world. They must navigate the treacherous descent and get their first taste of the dangers that await them.
-*   **Act II — The Lost World (Sessions 3–5):** The party explores the inner world, encountering its strange creatures and civilizations. They learn about the fading sun and the threat it poses to this hidden ecosystem.
-*   **Act III — The Heart of the World (Sessions 6–8):** The party travels to the heart of the inner world, where the crystalline sun is located. They must find a way to reignite it, a task that will require them to confront the most powerful and ancient beings in this lost world.
+**Act II — The Yolk (Sessions 8–12):** Having passed the Warden, the party emerges into the Bioluminescent Jungle and its first real taste of the Yolk's chaos. They pay the Flesh-Weavers' genetic toll to secure passage across the Sea of Chaos, survive that primordial ocean's spontaneously-generated horrors, cross the Geode-Gnostics' crystal path, and arrive at last within earshot of the Core's Corona and the low, world-shaking hum the Children of the Core call its song.
+
+**Act III — The Hatching (Sessions 13–17):** The final beats carry the party through the Society of the Blind Worm's tunnel-shortcut, into the ruins of a Progenitor city where the truth of the Great Seal comes out, and finally into the Core's Corona itself. There they reach the Heart of the Egg and are forced, at the Final Gate, into the choice the whole campaign has been building toward: seal the way and doom the Yolk to an eternity unborn, shatter the Shell and doom the surface, or become midwives to a new, symbiotic Great Wyrm.
 
 ---
 
 ## Session-by-Session Outline
 
-### Session 1 — “The Lost Expedition”
+* **Session 1: The Great Quake** — A catastrophic earthquake tears open the Great Chasm of Al-Ghor at the party's doorstep.
+* **Session 2: Signing On** — Baron Alistair Finch recruits the party into his Delvers' Guild expedition.
+* **Session 3: The Descent Begins** — The expedition enters the chasm and faces its first cliff-dwelling dangers.
+* **Session 4: Sabotage!** — The Surface Sentinels strike at the expedition on the swaying rope-bridges.
+* **Session 5: The First Gate** — The party reaches the sealed Progenitor tunnel and must force it open.
+* **Session 6: The Labyrinth of Echoes** — The party navigates the sound-warped canyons of the upper Shell.
+* **Session 7: The Warden** — Warden-Unit 9 puts the party through its deadly, logic-bound trials.
+* **Session 8: First Light** — The party emerges into the Bioluminescent Jungle and meets the Sporefolk Sovereignty.
+* **Session 9: The Genetic Toll** — The Flesh-Weavers demand a genetic sample in exchange for passage across the Sea of Chaos.
+* **Session 10: The Primordial Sea** — The party sails the Sea of Chaos, fighting spontaneously-generated horrors.
+* **Session 11: The Crystal Path** — The party crosses the Geode-Gnostics' living crystal reef.
+* **Session 12: The Core's Song** — The party reaches the Core's Corona and meets the Children of the Core.
 
-*   **Focus:** Introduction / Mystery
-*   **Key Events:**
-    *   Hook: The party is hired to find a famous explorer who went missing while searching for a legendary underground kingdom.
-    *   The Trail: The party follows the explorer's trail to a remote and unexplored cave system.
-    *   The Descent: The party enters the cave system and discovers a massive, vertical shaft that seems to go on forever.
-
-**Escalation:** A cave-in traps the party in the cave system, forcing them to go forward.
-
-### Session 2 — “Welcome to the Jungle”
-
-*   **Focus:** Exploration / Survival
-*   **Key Events:**
-    *   The Inner World: The party emerges from the cave system into a vast, subterranean jungle, lit by a strange, crystalline sun.
-    *   The First Encounter: The party has their first encounter with the local wildlife: a pack of hungry deinonychus.
-    *   The Ruins: The party discovers the ruins of an ancient and forgotten civilization.
-
-**Escalation:** The party finds the remains of the lost expedition, who were killed by the native inhabitants.
-
-### Session 3 — “The Savage Kingdom”
-
-*   **Focus:** Social / Intrigue
-*   **Key Events:**
-    *   The Serpent Men: The party is captured by a patrol of serpent men, the dominant civilization in this part of the inner world.
-    *   The City of Scales: The party is taken to the serpent men's city, a place of strange, cyclopean architecture and brutal, ritualistic traditions.
-    *   The Audience with the King: The party is brought before the serpent king, who sees them as either a threat or an opportunity.
-
-**Escalation:** The party must either escape the city or win the serpent king's favor by competing in a gladiatorial combat.
-
-### Session 4 — “The Sunken City”
-
-*   **Focus:** Dungeon Crawl / Underwater
-*   **Key Events:**
-    *   The Fading Sun: The party learns that the crystalline sun is fading, and that the inner world is growing colder and darker.
-    *   The Sunken City: The party is told of a legendary sunken city that holds the key to reigniting the sun.
-    *   The Dive: The party must travel through a massive underground ocean to reach the sunken city.
-
-**Escalation:** The sunken city is guarded by a colossal, ancient aboleth.
-
-### Session 5 — “The Crystal Heart”
-
-*   **Focus:** Puzzle / Lore
-*   **Key Events:**
-    *   The City of the Elders: The sunken city is the former home of the Elders, a race of powerful, crystalline beings who created the inner world.
-    *   The Crystal Heart: The party finds the Crystal Heart, the device that powers the crystalline sun.
-    *   The Instructions: The party must decipher the Elders' cryptic instructions to figure out how to reignite the sun.
-
-**Escalation:** The Crystal Heart is protected by a series of complex and deadly puzzles.
-
-### Session 6 — “The Awakening”
-
-*   **Focus:** Rising Action / Alliances
-*   **Key Events:**
-    *   The Ritual: The party learns that reigniting the sun will require a powerful ritual that must be performed at the heart of the world.
-    *   The Alliance: The party must forge an alliance between the warring factions of the inner world, convincing them to work together to save their world.
-    *   The Journey to the Core: The party leads a grand expedition to the core of the inner world, where the crystalline sun is located.
-
-**Escalation:** The fading of the sun has awakened ancient and powerful creatures that have been slumbering for eons.
-
-### Session 7 — “The Heart of the World”
-
-*   **Focus:** Climax / Epic Battle
-*   **Key Events:**
-    *   The Core: The party reaches the core of the inner world, a massive cavern that contains the crystalline sun.
-    *   The Guardian: The sun is guarded by a tarrasque, which has been awakened by the fading of the sun.
-    *   The Ritual: The party must perform the ritual to reignite the sun while also fighting off the tarrasque.
-
-**Escalation:** The ritual is unstable, and if the party is not careful, they could either destroy the sun completely or cause it to go supernova, destroying the entire planet.
-
-### Session 8 — “The New Dawn”
-
-*   **Focus:** Resolution / Epilogue
-*   **Key Events:**
-    *   The Aftermath: The party has reignited the sun and saved the inner world. They are hailed as heroes by the inhabitants of this lost world.
-    *   The Journey Home: The party must find a way to return to the surface world, a journey that will be just as dangerous as the one that brought them here.
-    *   The Secret: The party must decide whether to reveal the existence of the inner world to the surface world, or to keep it a secret to protect it from exploitation.
+The main quest continues past Session 12 through five further beats (13–17), carrying the party through the Worm's tunnel, the ruined Progenitor city, the Core's Corona proper, the Heart of the Egg, and the final choice of the Hatching.
 
 ---
 
 ## Major NPCs
 
-1.  **Professor Alistair Finch** — *The Lost Explorer*
-    *   **Role:** The famous explorer who the party is searching for.
-    *   **Personality:** Brave, brilliant, and obsessed with discovering new worlds.
-    *   **Secret/Flaw:** Professor Finch is not dead. He has “gone native” and is now living among one of the inner world's primitive tribes.
-
-2.  **Sss'tharr** — *The Serpent King*
-    *   **Role:** The brutal and paranoid ruler of the serpent men.
-    *   **Personality:** Arrogant, xenophobic, and sees the surface-dwellers as a threat to his kingdom.
-    *   **Secret/Flaw:** Sss'tharr is secretly a puppet of the aboleth that guards the sunken city.
-
-3.  **The Last Elder** — *The Ancient Being*
-    *   **Role:** The last surviving member of the race that created the inner world.
-    *   **Personality:** Ancient, wise, and speaks in riddles.
-    *   **Secret/Flaw:** The Last Elder is not a living being, but a psychic echo that is bound to the Crystal Heart.
+1. **Baron Alistair Finch** — Leader of the Delvers' Guild expedition, an urbane and ruthless industrialist chasing the Inner World's resources. **Secret:** his family fortune is gone; this expedition is his last, desperate gamble.
+2. **Elder Maeve** — Leader of the Surface Sentinels, a grim seer determined to seal the passages and preserve the Shell at any cost. **Secret:** her visions of the Hatching show only the Shell's destruction — she has never seen what comes after.
+3. **Warden-Unit 9** — The ancient construct guarding the Great Seal on behalf of the Remnant of the Shell-Wardens, bound to a single command. **Secret:** its programming is degrading, and it has found a "loophole" that might let it be convinced that destroying the Shell also counts as sealing the way.
+4. **Progenitor Prime** — Leader of the Flesh-Weavers of the Yolk, a brilliant and horrifying amalgamation of grafted creatures who guides evolution itself. **Secret:** it is terrified of death, and sees forcing constant evolution on all life as the only way to cheat it.
+5. **Sun-Speaker Kor** — Leader of the Children of the Core, a primal shaman who claims to interpret the pulses of the Inner World's sun. **Secret:** he doesn't actually understand the Core's pulses — he's guessing from instinct, and he's terrified of being wrong.
+6. **Captain Eva Rostova** — The pragmatic, cynical field leader of the Delvers' Guild expedition. **Secret:** she is secretly working for a rival corporation to sabotage Baron Finch's expedition from within.
 
 ---
 
 ## Key Locations
 
-1.  **The Great Chasm:** A massive, vertical shaft that leads to the inner world.
-2.  **The Primeval Jungle:** A vast, subterranean jungle filled with strange and dangerous creatures.
-3.  **The City of Scales:** The brutal and cyclopean city of the serpent men.
-4.  **The Sunken City of the Elders:** The beautiful and mysterious ruins of the ancient civilization that created the inner world.
+1. **The Great Chasm of Al-Ghor** — The primary entrance to the Inner World, a man-made canyon torn open by the Progenitors' first drilling machine.
+2. **The Labyrinth of Echoes** — A vast network of canyons and tunnels in the upper Shell where sound itself behaves in bizarre and dangerous ways.
+3. **The Bioluminescent Jungle** — The first region of the Yolk, a glowing jungle of giant flora and fauna and the home of the Sporefolk Sovereignty.
+4. **The Sea of Chaos** — A vast underground ocean of primordial soup where life is constantly created and destroyed in the same breath.
+5. **The Core's Corona** — The region ringing the Inner World's nascent sun, a place of intense heat, light, and raw, spontaneous creation.
 
 ---
 
 ## Central Conflict
 
-The central conflict is a struggle for survival in a lost world. It is a story about the thrill of exploration, the wonder of discovery, and the responsibility that comes with wielding great power. The party must not only save a dying world, but also confront the darkness that lurks in the heart of civilization.
+At its heart, this is a war between Order and Chaos, Shell and Yolk, fought at the scale of a whole world about to give birth. The Shell offers stability, safety, and slow decay; the Yolk offers life, change, and constant danger, and the Core sleeping between them is a god that will hatch no matter what anyone does. The party's choices decide how: reinforce the Shell and doom the new Great Wyrm to an eternity unborn within it, shatter the Shell and doom everyone on the surface to the flood of chaos beneath, or find a way to stand between the two as midwives, and let a new, symbiotic world be born from both.
 
 ---
 
 ## Unique Mechanics
 
-### 1. **Survival Checks**
-
-*   The party will need to make regular survival checks to find food, water, and shelter. Failure to do so can lead to exhaustion, starvation, and other negative effects.
-
-### 2. **Environmental Hazards**
-
-*   The inner world is a dangerous place, with a variety of environmental hazards, from poisonous plants to volcanic eruptions to areas of strange, reality-warping magic.
-
-### 3. **The Fading Sun**
-
-*   The crystalline sun is fading, and the inner world is growing colder and darker. The DM can track the fading of the sun, which will have a variety of effects on the world, from causing plants to wither to making creatures more aggressive. This will create a sense of urgency and a race against time.
+* **Yolk-Flux:** Any spell cast within the Yolk risks a wild magic surge, with the odds rising for every level the spell carries.
+* **Spontaneous Evolution:** A long rest taken in the Yolk demands a Constitution save; failure grants a random, often bizarre mutation that can only be undone by *Remove Curse* cast back on the surface.
+* **Conceptual Instability:** Deep in the Core's Corona, even basic concepts can slip — a blade might forget it's sharp, fire might turn cold — represented by occasional Wisdom-based "Reality Checks."
+* **Delve Stress:** Every day spent underground adds a stacking penalty to Wisdom and Charisma saves, relievable only by resting in a safe zone such as the Delver's Guild Terminus.
+* **Shell-Shock:** Characters who have changed in the Yolk suffer exhaustion if they can't adjust to the Shell's rigid, unchanging laws when they return to the surface.

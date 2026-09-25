@@ -31,7 +31,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 ### The Surface Sentinels
 **Type:** Luddite Preservationists
 **Leader:** Elder Maeve, a seer who believes the "Hatching" will destroy their world.
-**Leader:** To destroy the passages to the Inner World and reinforce the "Shell," preserving their way of life at all costs.
+**Agenda:** To destroy the passages to the Inner World and reinforce the "Shell," preserving their way of life at all costs.
 **Asset:** Ancient knowledge of the Progenitor's sealing rituals and a fanatical willingness to sacrifice themselves for their cause.
 **Rivals:** The Delvers' Guild, The Geode-Gnostics.
 
@@ -55,7 +55,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 
 ### The Remnant of the Shell-Wardens
 **Type:** Undead Progenitor AI
-**Leader:** Warden-Unit 734, a sentient construct of stone and fading magic, tasked with maintaining the Great Seal.
+**Leader:** Warden-Unit 9, a sentient construct of stone and fading magic, tasked with maintaining the Great Seal.
 **Asset:** Control over the Progenitor-built "dungeons" that guard the passages. They command ancient, tireless automatons.
 **Rivals:** Everyone, but especially the Yolk-Embracers.
 
@@ -71,7 +71,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 **Asset:** Sonic weaponry and tools. They have learned to "record" and "replay" the unique frequencies of the Inner World, from the hatching song of the Core to the sonar-clicks of deep-world creatures.
 **Rivals:** The Children of the Core (who see their actions as blasphemy).
 
-### The Myconid Sovereignty
+### The Sporefolk Sovereignty
 **Type:** Hive-Mind Fungal Kingdom
 **Leader:** The Great Mind-Spore, a single, continent-sized fungal entity.
 **Asset:** A telepathic network that connects every member of the Sovereignty. They have a perfect, shared knowledge of their vast, underground territory.
@@ -87,23 +87,23 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 [TAG: NPC_TIER_1]
 1.  **Baron Alistair Finch** (Human Rogue) - Urbane, ruthless, and impeccably dressed, even underground. **Voice:** A smooth, confident baritone, like a practiced politician. **Goal:** To claim the resources of the Inner World and become the richest man in history. **Secret:** His family is broke; this expedition is his last, desperate gamble.
 2.  **Elder Maeve** (Human Druid) - Grim, determined, with the weight of the world on her shoulders. **Voice:** A low, urgent whisper, as if the world might crack if she speaks too loudly. **Goal:** To seal the Inner World forever, even if it means sacrificing everyone who has gone down. **Secret:** Her visions of the "Hatching" are incomplete; she has only seen the destruction of the Shell, not what comes after.
-3.  **The Luminous One** (Aasimar Warlock) - Serene, detached, speaks in crystalline metaphors. **Voice:** Resonant, chiming, with a faint, musical echo. **Goal:** To achieve the final stage of crystal-transcendence by merging with the Core. **Secret:** The crystal transformation is slowly erasing its original personality and memories.
-4.  **Progenitor Prime** (Aberration Artificer) - A terrifying but intellectually brilliant being of mismatched limbs and organs. **Voice:** A chorus of several voices speaking at once, some gurgling, some clicking, some perfectly eloquent. **Goal:** To guide the evolution of all life towards a "perfect," final form. **Secret:** It is terrified of death and sees constant, forced evolution as the only way to cheat it.
+3.  **The Luminous One** (Celestialborn Warlock) - Serene, detached, speaks in crystalline metaphors. **Voice:** Resonant, chiming, with a faint, musical echo. **Goal:** To achieve the final stage of crystal-transcendence by merging with the Core. **Secret:** The crystal transformation is slowly erasing its original personality and memories.
+4.  **Progenitor Prime** (Aberration Wizard) - A terrifying but intellectually brilliant being of mismatched limbs and organs. **Voice:** A chorus of several voices speaking at once, some gurgling, some clicking, some perfectly eloquent. **Goal:** To guide the evolution of all life towards a "perfect," final form. **Secret:** It is terrified of death and sees constant, forced evolution as the only way to cheat it.
 5.  **Sun-Speaker Kor** (Human Barbarian) - Primal, fierce, and deeply spiritual. **Voice:** A series of guttural clicks, growls, and deep hums that are translated by his "speaker" staff. **Goal:** To protect the Core and ensure the "Birth" happens naturally. **Secret:** He doesn't actually understand the Core's pulses; he's interpreting them based on his own intuition, and is terrified of being wrong.
-6.  **Warden-Unit 734** (Construct Paladin) - Logical, relentless, and bound by its ancient programming. **Voice:** A monotone, synthesized voice, like a vintage text-to-speech program. **Goal:** To uphold its final command: "Seal the Way. Permit no passage." **Secret:** Its programming is degrading, and it has developed a "loophole" that might allow it to be convinced that destroying the Shell is a form of "sealing the way."
+6.  **Warden-Unit 9** (Construct Paladin) - Logical, relentless, and bound by its ancient programming. **Voice:** A monotone, synthesized voice, like a vintage text-to-speech program. **Goal:** To uphold its final command: "Seal the Way. Permit no passage." **Secret:** Its programming is degrading, and it has developed a "loophole" that might allow it to be convinced that destroying the Shell is a form of "sealing the way."
 7.  **The First-Mutant** (Tiefling Mutant) - Charismatic, unstable, and wracked by constant, painful transformations. **Voice:** Constantly shifting in pitch and tone, sometimes breaking into a pained scream mid-sentence. **Goal:** To tear down the Great Seal and allow the Yolk's energy to "bless" the surface world with chaotic mutation. **Secret:** He is desperately searching for a way to stabilize his own form, which is slowly killing him.
-8.  **The Silent** (Kenku Bard) - A being in a sound-dampening suit, communicates only through a device that plays back stolen sounds. **Voice:** A collage of sounds: a rockslide, a bird's call, a dying man's last words, a steam whistle. **Goal:** To record the "sound of creation" when the new Great Wyrm is born. **Secret:** It is a Progenitor who has been kept alive by its suit, and it wants to record the birth as a final apology to the universe for its people's hubris.
+8.  **The Silent** (Ravenfolk Bard) - A being in a sound-dampening suit, communicates only through a device that plays back stolen sounds. **Voice:** A collage of sounds: a rockslide, a bird's call, a dying man's last words, a steam whistle. **Goal:** To record the "sound of creation" when the new Great Wyrm is born. **Secret:** It is a Progenitor who has been kept alive by its suit, and it wants to record the birth as a final apology to the universe for its people's hubris.
 9.  **The Great Mind-Spore** (Fungus) - A vast, ancient, and alien intelligence. **Voice:** A telepathic "voice" that feels like warm moss growing in your brain. **Goal:** To connect all living things into its peaceful, silent, thoughtless network. **Secret:** It is not native to the planet; it is a cosmic spore that landed on the egg long ago and has been waiting for it to hatch.
 10.  **The Worm-That-Walks** (Swarm Warlock) - A writhing mass of worms in a suit, driven by a singular, horrifying purpose. **Voice:** The sound of thousands of worms squirming against each other, forming a dry, rustling speech. **Goal:** To ensure the Shell cracks, so its children may feast on the dying world. **Secret:** It was once a surface scholar who became obsessed with immortality and made a pact with a being of pure decay.
 11.  **Captain Eva Rostova** (Human Fighter) - A pragmatic, cynical Delver's Guild expedition leader. **Voice:** Gruff, no-nonsense, with a thick accent. **Goal:** To get her crew in, get the loot, and get out alive. **Secret:** She is secretly working for a rival corporation to sabotage Baron Finch's expedition.
-12.  **Dr. Aris Thorne** (Elf Wizard) - A brilliant but reckless academic on the expedition. **Voice:** Fast, excited, full of academic jargon. **Goal:** To be the first to categorize and document the Inner World's flora and fauna. **Secret:** He is the disgraced younger brother of Master Navigator Elias Thorne.
+12.  **Dr. Tobias Venn** (Elf Wizard) - A brilliant but reckless academic on the expedition. **Voice:** Fast, excited, full of academic jargon. **Goal:** To be the first to categorize and document the Inner World's flora and fauna. **Secret:** He is the disgraced younger brother of a famous Guild navigator who vanished on an earlier expedition.
 13.  **Grak, the "Tame" Troglodyte** (Troglodyte Barbarian) - A member of the Children of the Core who acts as a guide. **Voice:** A series of clicks and grunts, but with surprisingly expressive eyes. **Goal:** To lead the "surface-dwellers" to their doom without them realizing it. **Secret:** He is actually highly intelligent and speaks perfect Common, but finds it amusing to pretend to be a simple-minded brute.
 14.  **The Crystal-Hearted** (Dwarf Paladin) - A former Delver who has joined the Geode-Gnostics. **Voice:** Slow, deliberate, with a faint crystalline ringing. **Goal:** To convince others to embrace the "gift" of crystal transformation. **Secret:** He desperately misses the taste of beer and bread.
 15.  **The Bio-Scout** (Goblin Rogue) - A scout for the Flesh-Weavers, with multiple eyes and wings grafted to its back. **Voice:** A high-pitched, chittering sound. **Goal:** To collect genetic samples of surface-dwellers for its master. **Secret:** It wants to be "woven" into a new, more powerful form and is looking for a suitable "donor."
 16.  **Sentinel Joric** (Human Ranger) - A grim, determined scout for the Surface Sentinels. **Voice:** A low growl, speaks in clipped sentences. **Goal:** To map the weaknesses in the Great Seal's tunnels so they can be collapsed. **Secret:** His family was killed in the earthquake that opened the passage, and he is driven by pure revenge against the Inner World.
 17.  **The Last Yolk-Embracer** (Deva Sorcerer) - An ancient, winged being who has lived in the Inner World for millennia. **Voice:** A sad, beautiful, melodic tone. **Goal:** To find a way for the Shell and Yolk to coexist. **Secret:** It was the one who convinced the Progenitors to first enter the Yolk, and it bears the guilt of all that has happened since.
-18.  **The Echo-Hunter** (Tabaxi Ranger) - A mercenary who hunts sonic creatures for the Echo-Thieves. **Voice:** A purr-like, quiet voice, almost a whisper. **Goal:** To capture the "sound" of a specific, rare bird that only lives in the deepest caverns. **Secret:** The bird's song is the key to a Progenitor weapon.
-19.  **Mind-Spore Muriel** (Human Druid) - A surface-dweller who has joined the Myconid Sovereignty. **Voice:** A calm, flat, telepathic voice. **Goal:** To expand the Sovereignty's network to the surface world, believing it will bring peace. **Secret:** She is terrified of her own individuality being completely subsumed by the hive mind.
+18.  **The Echo-Hunter** (Catfolk Ranger) - A mercenary who hunts sonic creatures for the Echo-Thieves. **Voice:** A purr-like, quiet voice, almost a whisper. **Goal:** To capture the "sound" of a specific, rare bird that only lives in the deepest caverns. **Secret:** The bird's song is the key to a Progenitor weapon.
+19.  **Mind-Spore Muriel** (Human Druid) - A surface-dweller who has joined the Sporefolk Sovereignty. **Voice:** A calm, flat, telepathic voice. **Goal:** To expand the Sovereignty's network to the surface world, believing it will bring peace. **Secret:** She is terrified of her own individuality being completely subsumed by the hive mind.
 20.  **Brother Ouroboros** (Dragonborn Cleric) - A member of the Society of the Blind Worm. **Voice:** A hissing, sibilant whisper. **Goal:** To find the "Heart of the Egg" and feed it to his worm-god. **Secret:** He believes the Great Wyrm at the end of the hatching will be his worm-god, and he will be its prophet.
 
 ### [TAG: NPC_TIER_2]
@@ -117,7 +117,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 | **Goro** | Warden-Unit | The First Gate | Can only count in prime numbers. |
 | **Hettie** | Yolk-Embracer Mutant | The Chaos Wastes | Her skin changes color and pattern based on the weather. |
 | **Ilo** | Echo-Thief Listener | The Resonant Canyons | Can hear the sound of colors. |
-| **Jex** | Myconid Spore-Bearer | The Fungal Forests | Communicates by releasing puffs of differently-scented spores. |
+| **Jex** | Sporefolk Spore-Bearer | The Fungal Forests | Communicates by releasing puffs of differently-scented spores. |
 | **Kael** | Blind Worm Initiate | The Worm Tunnels | Is actually a colony of sentient worms that have forgotten they are a colony. |
 | **Lila** | Delver's Guild Cook | The Mess Hall | Makes stew that tastes different with every spoonful. |
 | **Milo** | Surface Sentinel Saboteur | The Rope-Bridge | Is afraid of heights. |
@@ -127,7 +127,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 | **Quon** | Warden-Unit Smith | The Automaton Forge | Sings binary lullabies to the constructs he repairs. |
 | **Rhee** | Yolk-Embracer Storyteller | The Mutation Pools | Her stories cause minor, temporary mutations in her listeners. |
 | **Silas** | Echo-Thief Scout | The Whispering Falls | His footsteps make no sound, but their echo is deafening. |
-| **Tork** | Myconid Cultivator | The Spore-Farms | Is trying to grow a mushroom that tastes like courage. |
+| **Tork** | Sporefolk Cultivator | The Spore-Farms | Is trying to grow a mushroom that tastes like courage. |
 | **Ula** | Blind Worm Digger | The Deep Tunnels | Navigates by the taste of the dirt. |
 | **Val** | Delver's Guild Cartographer | The Map Room | Her maps are edible and taste like the terrain they depict. |
 | **Wex** | Surface Sentinel Priest | The Chapel of the Firmament | Preaches that the sky is a solid dome that must be protected. |
@@ -142,7 +142,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 | **Faelan** | Warden-Unit Archivist | The Data-Crypt | Stores its data on clay tablets, believing digital storage is ephemeral. |
 | **Griz** | Yolk-Embracer Brute | The Fighting Pits | Has a second, smaller head that whispers terrible advice. |
 | **Hiko** | Echo-Thief Musician | The Sound Market | Sells instruments that play sounds that have never existed before. |
-| **Iona** | Myconid Diplomat | The Neutral Zone | Its "head" is a beautiful, glowing flower that entrances those who look at it. |
+| **Iona** | Sporefolk Diplomat | The Neutral Zone | Its "head" is a beautiful, glowing flower that entrances those who look at it. |
 | **Jax** | Blind Worm Scout | The Surface Wastes | Wears a suit filled with dirt from his home tunnel. |
 | **Kaelen** | Delver's Guild Quartermaster | The Supply Depot | Is obsessed with perfect, symmetrical organization. |
 | **Lyra** | Surface Sentinel Archer | The High Ledges | Uses arrows fletched with her own hair. |
@@ -152,7 +152,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 | **Pella** | Warden-Unit Analyst | The Observation Deck | Can calculate the exact probability of any event, but is always wrong. |
 | **Quill** | Yolk-Embracer Poet | The Chaos Garden | Writes poems that, when read aloud, cause the listener's hair to change color. |
 | **Roric** | Echo-Thief Saboteur | The Delver's Guild Drill | Can perfectly mimic the sound of a machine breaking down. |
-| **Syla** | Myconid Dream-Weaver | The Spore-Dream Den | Can guide the dreams of those who sleep within the hive-mind's range. |
+| **Syla** | Sporefolk Dream-Weaver | The Spore-Dream Den | Can guide the dreams of those who sleep within the hive-mind's range. |
 | **Thrax** | Blind Worm Executioner | The Pit of Consumption | Is just a very large, very intelligent worm. |
 | **Umbra** | Delver's Guild Blaster | The Quarry | Is half-deaf from the explosions and communicates mostly by shouting. |
 | **Vorn** | Surface Sentinel Watcher | The Great Chasm | Has not slept in ten years, sustained by sheer willpower and alchemical stimulants. |
@@ -181,13 +181,13 @@ A vast network of canyons and tunnels in the upper Shell, where sound behaves in
 The first region of the Inner World, a jungle of giant, glowing flora and fauna.
 *   **The Sun-Fruit Grove:** A forest of trees that bear a fruit that glows with a warm, golden light. **Smell:** Ripe fruit, nectar, damp earth. **Sound:** The buzzing of giant insects, the chirping of unseen creatures.
 *   **The River of Light:** A river not of water, but of glowing, bioluminescent algae that flows through the jungle. **Smell:** Algae, ozone, wet vegetation. **Sound:** A soft, liquid, humming sound.
-*   **The Myconid Sovereignty's Capital:** A city made of giant, interconnected mushrooms, glowing with a soft, internal light. **Smell:** Damp earth, mushrooms, ozone. **Sound:** A profound, peaceful silence, punctuated by telepathic "whispers."
+*   **The Sporefolk Sovereignty's Capital:** A city made of giant, interconnected mushrooms, glowing with a soft, internal light. **Smell:** Damp earth, mushrooms, ozone. **Sound:** A profound, peaceful silence, punctuated by telepathic "whispers."
 *   **The Flesh-Weavers' Menagerie:** A clearing where the Flesh-Weavers keep their failed experiments. **Smell:** Rot, chemicals, blood, and a dozen other unidentifiable organic smells. **Sound:** The pained cries, roars, and whimpers of a hundred different creatures.
 *   **The Canopy of Stars:** The "roof" of the jungle, where the glowing moss and fungi resemble a starry sky. **Smell:** Pollen, night-blooming flowers. **Sound:** The flutter of leathery wings, the chirps of nocturnal creatures.
 
 ### The Sea of Chaos (The Middle Yolk)
 A vast, underground ocean of thick, primordial soup, where life is constantly being created and destroyed.
-*   **The shores of the Sea of Chaos:** A beach of black sand and shattered obsidian. **Smell:** Brine, ammonia, and the scent of rapid evolution. **Sound:** The thick, syrupy slosh of the waves, the bubbling of new life forming in the surf.
+*   **The Shores of the Sea of Chaos:** A beach of black sand and shattered obsidian. **Smell:** Brine, ammonia, and the scent of rapid evolution. **Sound:** The thick, syrupy slosh of the waves, the bubbling of new life forming in the surf.
 *   **The Floating Isles of the Yolk-Embracers:** Islands of flesh and bone that float on the sea, home to the mutated descendants of the Progenitors. **Smell:** Meat, salt, and strange perfumes. **Sound:** Chanting, the squelch of wet flesh, pained screams.
 *   **The Geode-Gnostics' Crystal Reef:** A massive, growing reef of living crystal that juts out of the sea. **Smell:** Clean, sterile ozone. **Sound:** A constant, high-pitched, crystalline chiming.
 *   **The Great Maelstrom:** The center of the sea, a perpetual whirlpool where the creative energy is at its most intense. **Smell:** Ozone, raw magic, life, and death. **Sound:** A deafening roar, the sound of creation itself.
@@ -208,9 +208,9 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 3.  **The Sentinel's Gambit:** The Surface Sentinels try to sabotage the expedition, believing it will doom the world.
 4.  **The Progenitor's Gate:** The players reach the bottom of the chasm and must open the sealed Progenitor tunnel.
 5.  **The Labyrinth of Echoes:** The expedition must navigate the sound-twisting canyons of the upper Shell.
-6.  **The Warden's Test:** The players encounter Warden-Unit 734, who puts them through a series of deadly tests to prove their worthiness.
+6.  **The Warden's Test:** The players encounter Warden-Unit 9, who puts them through a series of deadly tests to prove their worthiness.
 7.  **Welcome to the Jungle:** The players emerge into the Bioluminescent Jungle of the Inner World.
-8.  **The Mushroom's Message:** The players encounter the Myconid Sovereignty, who offer cryptic, telepathic warnings about the Yolk's instability.
+8.  **The Mushroom's Message:** The players encounter the Sporefolk Sovereignty, who offer cryptic, telepathic warnings about the Yolk's instability.
 9.  **The Flesh-Weaver's Price:** To cross the Sea of Chaos, the players need a living, biological ship from the Flesh-Weavers, who demand a "genetic sample" in return.
 10. **The Sun-Speaker's Prophecy:** The Children of the Core reveal that the "Hatching" is imminent and that the players are the "catalysts."
 11. **The Crystal Sickness:** One of the players is "infected" by the Geode-Gnostics' living crystal and must seek a cure or embrace the transformation.
@@ -221,39 +221,40 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 16. **The Heart of the Egg:** The players reach the Final Gate and must confront the nascent consciousness of the Core.
 17. **Midwives to a God:** The players must make a choice: reinforce the Shell (dooming the Inner World), shatter the Shell (dooming the surface), or find a way to merge the two, acting as midwives to the birth of a new Great Wyrm.
 
-## [TAG: QUEST_SIDE]
+## Side Quests
+[TAG: QUEST_SIDE]
 | Quest Name | Giver | Objective | Reward |
 |---|---|---|---|
-| The Singing Mountain | A Surface Sentinel | Find the source of the mountain's "hatching song" and silence it. | A sonic-dampening cloak. |
-| The Crystal Tear | A Geode-Gnostic | Retrieve a "tear" from a creature made of pure emotion. | A small, living crystal that whispers encouragement. |
-| The Perfect Specimen | A Flesh-Weaver | Capture a specific, rare surface-dweller alive. | A custom-grown biological tool (e.g., a grappling hook tongue). |
-| The Lost Lullaby | Warden-Unit 734 | Find the "lullaby" protocol that can temporarily pacify its corrupted sub-routines. | Command over a squad of Progenitor automatons for one day. |
-| The Taste of the Sun | A Child of the Core | Bring them a piece of fruit from the surface world. | They will teach you how to navigate by the light of the Core. |
-| The Sound of Silence | An Echo-Thief | "Record" the absolute silence of the Silent Grotto. | A device that can create a 20-foot sphere of magical silence. |
-| The Fungal Pilgrimage | A Myconid | Escort a "Mind-Spore" to a new location to start a new colony. | The ability to telepathically communicate with the Myconid Sovereignty. |
-| The Worm's Word | The Worm-That-Walks | Translate a text written in the squirming language of the worms. | A pouch of worms that will eat through any non-magical barrier. |
-| The Edible Map | Val, the Cartographer | Survive for a week by only eating her maps. | A map of a dangerous, treasure-filled region. |
-| The Fourth-Dimensional Sculpture | Doro, the Carver | Help him find a "hinge" into the fourth dimension. | A tesseract that can store one object in a pocket dimension. |
-| The Animal Tree | Yarrow, the Gardener | Find a mate for the "monkey" growing on his tree. | A piece of fruit that, when eaten, gives you the abilities of a random animal for 1 hour. |
-| The Probability Engine | Pella, the Analyst | Help her "re-calibrate" her probability engine by showing it a truly impossible event. | A coin that, when flipped, has a 1% chance of rewriting a minor event from the past minute. |
-| The Color of Courage | Zinn, the Artist | Help him find and mine a vein of "courageous" pigment. | A small amount of paint that can make an object appear terrifying to its enemies. |
-| The Unhappy Engine | Orla, the Engineer | Cheer up the bio-mechanical engine of a Flesh-Weaver craft. | The engine will grant you a single, powerful burst of speed. |
-| The Deaf Lookout | Rhys, the Lookout | Design a system of signals so he can communicate with the crew. | He will teach you to see twice as far as a normal person. |
-| The Symmetrical Quartermaster | Kaelen, the Quartermaster | Help him organize a particularly chaotic shipment of goods. | He will give you a perfectly balanced weapon (+1 to hit). |
-| The Homesick Spyglass | A retired Delver | Take his spyglass to a place that looks like his childhood home. | The spyglass will show you the location of the nearest "home" or safe haven. |
-| The Existential Parrot's Question | The Parrot | Find the answer to its latest, most profound question. | The parrot will give you a piece of cosmic, but ultimately useless, advice. |
-| The Sobering Rum's Origin | A reformed pirate | Find the spring from which the "sobering rum" is made. | A bottle of water that can cure any hangover. |
-| The Moody Figurehead's Past | A ship's captain | Find out who the figurehead is modeled after. | The figurehead will give you hints about the weather and sea conditions. |
-| The Backwards River | A desperate family | Retrieve a de-aged loved one from the River of Time. | A single, de-aged, but now very confused, person. |
-| The Singing Crystal | Xyla, the Singer | Protect her while she sings a new crystal reef into existence. | A small, singing crystal that acts as a permanent light source. |
-| The Advice-Giving Head | Griz, the Brute | Find a way to silence the second, smaller head that gives him bad advice. | The second head will give YOU bad advice instead. |
-| The Binary Lullaby | Quon, the Smith | Find a new, more complex binary lullaby for his constructs. | A small construct that will follow you and perform simple tasks. |
-| The Silent Bard | Silas, the Scout | Help him perform a "silent" song in the Canyon of a Thousand-Fold Replies. | A musical instrument that only you can hear. |
-| The Worm-That-Forgets | Kael, the Initiate | Remind the worm colony that it is, in fact, a colony. | The worms will grant you passage through one of their tunnels. |
-| The Petting Arm | Eris, the Stitcher | Find a creature that her third arm has never petted before. | Her third arm will give you a comforting pat on the back. |
-| The Prime Number Guard | Goro, the Warden-Unit | Beat him in a math competition using only prime numbers. | He will let you pass through his gate without a key. |
-| The Sound of Color | Ilo, the Listener | Help him "capture" the sound of a specific, rare color. | He will teach you how to hear lies (they sound like a faint, sour note). |
-| The Living Hat | Flin, the Hunter | Find a special kind of moss to feed his living mushroom hat. | The hat will grant you the ability to speak with fungi. |
+| **The Singing Mountain** | A Surface Sentinel | Find the source of the mountain's "hatching song" and silence it. | A sonic-dampening cloak. |
+| **The Crystal Tear** | A Geode-Gnostic | Retrieve a "tear" from a creature made of pure emotion. | A small, living crystal that whispers encouragement. |
+| **The Perfect Specimen** | A Flesh-Weaver | Capture a specific, rare surface-dweller alive. | A custom-grown biological tool (e.g., a grappling hook tongue). |
+| **The Lost Lullaby** | Warden-Unit 9 | Find the "lullaby" protocol that can temporarily pacify its corrupted sub-routines. | Command over a squad of Progenitor automatons for one day. |
+| **The Taste of the Sun** | A Child of the Core | Bring them a piece of fruit from the surface world. | They will teach you how to navigate by the light of the Core. |
+| **The Sound of Silence** | An Echo-Thief | "Record" the absolute silence of the Silent Grotto. | A device that can create a 20-foot sphere of magical silence. |
+| **The Fungal Pilgrimage** | A Sporefolk envoy | Escort a "Mind-Spore" to a new location to start a new colony. | The ability to telepathically communicate with the Sporefolk Sovereignty. |
+| **The Worm's Word** | The Worm-That-Walks | Translate a text written in the squirming language of the worms. | A pouch of worms that will eat through any non-magical barrier. |
+| **The Edible Map** | Val, the Cartographer | Survive for a week by only eating her maps. | A map of a dangerous, treasure-filled region. |
+| **The Fourth-Dimensional Sculpture** | Doro, the Carver | Help him find a "hinge" into the fourth dimension. | A tesseract that can store one object in a pocket dimension. |
+| **The Animal Tree** | Yarrow, the Gardener | Find a mate for the "monkey" growing on his tree. | A piece of fruit that, when eaten, gives you the abilities of a random animal for 1 hour. |
+| **The Probability Engine** | Pella, the Analyst | Help her "re-calibrate" her probability engine by showing it a truly impossible event. | A coin that, when flipped, has a 1% chance of rewriting a minor event from the past minute. |
+| **The Color of Courage** | Zinn, the Artist | Help him find and mine a vein of "courageous" pigment. | A small amount of paint that can make an object appear terrifying to its enemies. |
+| **The Unhappy Engine** | Boro, the Rigger | Cheer up the bio-mechanical engine of a Flesh-Weaver craft. | The engine will grant you a single, powerful burst of speed. |
+| **The Deaf Blaster** | Umbra, the Blaster | Design a system of hand-signals so Umbra can work the Quarry without shouting. | Umbra teaches you the Guild's silent blasting signals. |
+| **The Symmetrical Quartermaster** | Kaelen, the Quartermaster | Help him organize a particularly chaotic shipment of goods. | He will give you a perfectly balanced weapon (+1 to hit). |
+| **The Homesick Spyglass** | A retired Delver | Take his spyglass to a place that looks like his childhood home. | The spyglass will show you the location of the nearest "home" or safe haven. |
+| **The Existential Parrot's Question** | A talking cave-parrot from the Canopy of Stars | Find the answer to its latest, most profound question. | The parrot will give you a piece of cosmic, but ultimately useless, advice. |
+| **The Sobering Stew's Origin** | Lila, the Cook | Find the Yolk spring whose water makes her "sobering stew". | A bottle of water that can cure any hangover. |
+| **The Moody Figurehead's Past** | The pilot of a Flesh-Weaver living ship | Find out whose face the ship's grown figurehead was modelled on. | The figurehead will warn you of storms and currents on the Sea of Chaos. |
+| **The Backwards River** | A desperate family | Retrieve a de-aged loved one from the River of Time. | A single, de-aged, but now very confused, person. |
+| **The Singing Crystal** | Xyla, the Singer | Protect her while she sings a new crystal reef into existence. | A small, singing crystal that acts as a permanent light source. |
+| **The Advice-Giving Head** | Griz, the Brute | Find a way to silence the second, smaller head that gives him bad advice. | The second head will give YOU bad advice instead. |
+| **The Binary Lullaby** | Quon, the Smith | Find a new, more complex binary lullaby for his constructs. | A small construct that will follow you and perform simple tasks. |
+| **The Silent Bard** | Silas, the Scout | Help him perform a "silent" song in the Canyon of a Thousand-Fold Replies. | A musical instrument that only you can hear. |
+| **The Worm-That-Forgets** | Kael, the Initiate | Remind the worm colony that it is, in fact, a colony. | The worms will grant you passage through one of their tunnels. |
+| **The Petting Arm** | Eris, the Stitcher | Find a creature that her third arm has never petted before. | Her third arm will give you a comforting pat on the back. |
+| **The Prime Number Guard** | Goro, the Warden-Unit | Beat him in a math competition using only prime numbers. | He will let you pass through his gate without a key. |
+| **The Sound of Color** | Ilo, the Listener | Help him "capture" the sound of a specific, rare color. | He will teach you how to hear lies (they sound like a faint, sour note). |
+| **The Living Hat** | Flin, the Hunter | Find a special kind of moss to feed his living mushroom hat. | The hat will grant you the ability to speak with fungi. |
 
 ## Item Database
 [TAG: ITEM_LEGENDARY]
@@ -289,10 +290,10 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 3.  **A Compass That Points to the Most Interesting Thing:** A compass whose needle points towards what it considers the most "interesting" thing in a 1-mile radius. Its definition of "interesting" is highly subjective.
 4.  **The Biologist's Diary:** A diary from a long-dead Flesh-Weaver. The text is unreadable, but the illustrations of impossible creatures are fascinating.
 5.  **A Bottle of Dehydrated Water:** Just add water to create... more water.
-6.  **The Self-Solving Rubik's Cube:** A Progenitor puzzle box that solves itself if you leave it alone for a minute.
+6.  **The Self-Solving Puzzle Cube:** A Progenitor puzzle box that solves itself if you leave it alone for a minute.
 7.  **A Crystal That Sings Off-Key:** A beautiful, glowing crystal from the Inner World that hums a popular tune, but is painfully out of tune.
 8.  **The Pessimistic Pickaxe:** A pickaxe that, when used to mine, whispers discouraging things like "You'll probably just find more rocks" and "Is this really how you want to spend your life?"
-9.  **A Mushroom That Tastes Like Your Fondest Memory:** A rare Myconid mushroom. Eating it causes you to vividly re-experience your happiest memory.
+9.  **A Mushroom That Tastes Like Your Fondest Memory:** A rare Sporefolk mushroom. Eating it causes you to vividly re-experience your happiest memory.
 10. **The Reversible Gloves:** A pair of gloves that are always inside-out, no matter how many times you turn them.
 11. **A Rope Made of Woven Light:** A 50-foot rope that emits dim light and weighs nothing. It is, however, terrified of the dark.
 12. **The Geologist's Candy:** A bag of what looks like delicious hard candies, but they are actually just interesting, inedible rocks.
@@ -301,7 +302,7 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 15. **The Anti-Map:** A map that shows you everywhere you *haven't* been.
 16. **A Piece of Fossilized Gravity:** A small, incredibly dense rock. Anything that comes within 1 foot of it is suddenly 10 times heavier.
 17. **The Sentimental Construct:** A small, clockwork bird from the Warden-Units that has fallen in love with one of the party members and refuses to leave them.
-18. **A Spore That Tells Jokes:** A Myconid spore that, when inhaled, telepathically tells you a single, terrible pun.
+18. **A Spore That Tells Jokes:** A Sporefolk spore that, when inhaled, telepathically tells you a single, terrible pun.
 19. **The Philosopher's Fungus:** A fungus that, when eaten, makes you ponder the deep, philosophical questions of the universe, like "Why do we wear shoes?" and "Do rocks feel pain?"
 20. **A Shovel That Digs Its Own Grave:** A shovel that, if left unattended, will slowly and sadly dig a shovel-sized hole and then bury itself.
 
@@ -332,14 +333,14 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 *   **Passive: Immutable Logic:** Immune to being charmed or frightened.
 *   **Action: Sealing Beam:** The scarab fires a beam of golden light. The target must make a WIS save or be partially petrified, having their speed reduced to 0 for 1 minute.
 
-### 5. Fungal-Zombie (Myconid) (CR 2)
-(CR 2). **HP:** 40, **AC:** 12.
+### 5. Fungal-Zombie (CR 2)
+(CR 2). Plant, Sporefolk thrall. **HP:** 40, **AC:** 12.
 **Abilities:**
 *   **Passive: Rapport Spores:** Any creature that starts its turn within 10 feet of the zombie must make a WIS save or be unable to attack the zombie, believing it to be a friend.
 *   **Action: Pacifying Spores:** The zombie releases a puff of spores at one creature. The target must make a CON save or fall into a peaceful, magical sleep for 1 minute.
 
-### 6. Grafted Horror (Flesh-Weaver) (CR 7)
-(CR 7). **HP:** 110, **AC:** 15.
+### 6. Grafted Horror (CR 7)
+(CR 7). Monstrosity, Flesh-Weaver graft. **HP:** 110, **AC:** 15.
 **Abilities:**
 *   **Passive: Mismatched Parts:** Has advantage on saves against being knocked prone or moved against its will.
 *   **Action: Multi-Attack:** Makes one attack with its crab-claw, one with its scorpion-tail, and one with its wolf-bite.
@@ -350,8 +351,8 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 *   **Passive: Tremorsense:** Can sense the location of any creature on the ground within 60 feet.
 *   **Action: Earth-Swallow:** The worm attempts to swallow a Medium or smaller creature. The target must make a DEX save or be swallowed. While swallowed, the creature is blinded, restrained, and takes 2d6 acid damage at the start of each of its turns.
 
-### 8. Chaos-Mutant (Yolk-Embracer) (CR 5)
-(CR 5). **HP:** 85, **AC:** 14.
+### 8. Chaos-Mutant (CR 5)
+(CR 5). Humanoid, Yolk-Embracer. **HP:** 85, **AC:** 14.
 **Abilities:**
 *   **Passive: Unstable Anatomy:** When hit with a critical hit, it explodes in a shower of gore and immediately reforms at the start of its next turn with full hit points.
 *   **Action: Chaotic Bolt:** Ranged spell attack. On hit, target takes 4d10 damage of a random type (roll a d8 for acid, cold, fire, force, lightning, poison, psychic, or thunder).
@@ -375,7 +376,7 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 9-10: A Warden-Scarab patrol, asking for your designation.
 11-12: A pack of Echo-Bats, drawn to the sound of your passage.
 13-14: A Blind-Worm Digger, bursting through the wall.
-15-16: A lost academic (like Dr. Thorne) who needs rescuing.
+15-16: A lost academic (like Dr. Venn) who needs rescuing.
 17: A section of the tunnel where gravity is reversed.
 18: A Progenitor-era ghost that speaks only in riddles.
 19: A vein of "Pessimistic Pyrite" that whispers discouraging thoughts.
@@ -383,7 +384,7 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 
 ### The Yolk (Inner World Jungle & Sea) Encounters (d20)
 1-4: A hunting party of the Children of the Core.
-5-7: A Myconid Sovereignty patrol, communicating telepathically.
+5-7: A Sporefolk Sovereignty patrol, communicating telepathically.
 8-9: A Flesh-Weaver scout, looking for genetic samples.
 10-11: A Yolk-Spawn, its form shifting with every step.
 12-13: A Crystal-Spinner, glittering in the bioluminescent light.
@@ -408,7 +409,8 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 19: A fragment of the planet's "shell" falls from the "sky" above.
 20: A direct, personal, telepathic "question" from the nascent Core itself.
 
-## [TAG: RULES_CUSTOM]
+## Mechanics
+[TAG: RULES_CUSTOM]
 ### Physics/Magic: The Law of Primordial Chaos
 In the Inner World, reality is a suggestion, not a rule. The closer one gets to the Core, the more chaotic it becomes.
 *   **Yolk-Flux:** Any spell cast within the Yolk has a 10% chance of triggering a wild magic surge. This chance increases by 10% for each level of the spell.
@@ -421,18 +423,18 @@ In the Inner World, reality is a suggestion, not a rule. The closer one gets to 
 
 ## [TAG: DM_GUIDE]
 ### Session-by-Session Breakdown (1-12)
-*   **Session 1:** **Primary Beat:** The Great Quake. The adventure starts in a surface town as a massive earthquake hits, revealing the Great Chasm. **Combat:** Rescuing villagers from collapsing buildings and fighting off panicked, displaced wildlife. **Social:** Dealing with the newly-arrived, opportunistic Delver's Guild. **Loot:** A strange, humming Progenitor artifact found in the rubble.
-*   **Session 2:** **Primary Beat:** Signing On. Players are hired by Baron Finch for his grand expedition. **Combat:** A staged "test" against some of the Baron's veteran mercenaries. **Social:** Negotiating their contracts with the Baron. **Loot:** An advance on their pay and standard-issue Delver's Guild equipment.
-*   **Session 3:** **Primary Beat:** The Descent Begins. The expedition enters the Great Chasm. **Combat:** Fighting off cliff-dwelling creatures like giant bats and territorial griffons. **Social:** Interacting with the other members of the expedition. **Loot:** A griffin feather, a rare bat guano.
-*   **Session 4:** **Primary Beat:** Sabotage! The Surface Sentinels attack the expedition on the Rope-Bridges. **Combat:** A thrilling, three-dimensional battle on swaying bridges over a bottomless pit. **Social:** Trying to convince a captured Sentinel of their good intentions. **Loot:** A Surface Sentinel's climbing gear.
-*   **Session 5:** **Primary Beat:** The First Gate. The party reaches the Progenitor tunnel and must open it. **Combat:** Fighting the first Warden-Scarab constructs. **Social:** Deciphering the Progenitor lock-mechanism. **Loot:** A Progenitor power cell.
-*   **Session 6:** **Primary Beat:** The Labyrinth of Echoes. The party gets lost in the sound-twisting canyons. **Combat:** Fighting Echo-Bats that use their own voices against them. **Social:** Bargaining with the Echo-Thieves for a guide. **Loot:** A "sound-compass" that points towards silence.
-*   **Session 7:** **Primary Beat:** The Warden. The party confronts Warden-Unit 734. **Combat:** A series of non-lethal trials set by the Warden. **Social:** A logical debate with the Warden, trying to find a loophole in its programming. **Loot:** A pass-key that allows safe passage through the rest of the Warden's domain.
-*   **Session 8:** **Primary Beat:** First Light. The party emerges from the tunnels into the Bioluminescent Jungle. **Combat:** Their first encounter with a Yolk-Spawn. **Social:** A first, confusing, telepathic contact with the Myconid Sovereignty. **Loot:** A glowing Sun-Fruit.
-*   **Session 9:** **Primary Beat:** The Genetic Toll. The party needs a living ship from the Flesh-Weavers. **Combat:** Hunting a specific, rare creature to provide as a "genetic sample." **Social:** Haggling with the Progenitor Prime over the "price" of the ship. **Loot:** A minor, "cosmetic" bio-upgrade.
-*   **Session 10:** **Primary Beat:** The Primordial Sea. The party sails the Sea of Chaos. **Combat:** Fighting off spontaneously-generated sea monsters. **Social:** A meeting with the Last Yolk-Embracer on its floating island. **Loot:** A flask of primordial soup.
-*   **Session 11:** **Primary Beat:** The Crystal Path. The party encounters the Geode-Gnostics' crystal reef. **Combat:** Navigating the razor-sharp reef and fighting Crystal-Spinners. **Social:** A philosophical debate with The Luminous One. **Loot:** A small, living crystal that can purify water.
-*   **Session 12:** **Primary Beat:** The Core's Song. The party arrives in the Core's Corona and meets the Children of the Core. **Combat:** A ritual combat against Sun-Speaker Kor to prove their worth. **Social:** Trying to interpret the Core's "hatching song." **Loot:** A protective charm against the Core's intense heat.
+*   **Session 1: The Great Quake** **Primary Beat:** The adventure starts in a surface town as a massive earthquake hits, revealing the Great Chasm. **Combat:** Rescuing villagers from collapsing buildings and fighting off panicked, displaced wildlife. **Social:** Dealing with the newly-arrived, opportunistic Delver's Guild. **Loot:** A strange, humming Progenitor artifact found in the rubble.
+*   **Session 2: Signing On** **Primary Beat:** Players are hired by Baron Finch for his grand expedition. **Combat:** A staged "test" against some of the Baron's veteran mercenaries. **Social:** Negotiating their contracts with the Baron. **Loot:** An advance on their pay and standard-issue Delver's Guild equipment.
+*   **Session 3: The Descent Begins** **Primary Beat:** The expedition enters the Great Chasm. **Combat:** Fighting off cliff-dwelling creatures like giant bats and territorial griffons. **Social:** Interacting with the other members of the expedition. **Loot:** A griffin feather, a rare bat guano.
+*   **Session 4: Sabotage!** **Primary Beat:** The Surface Sentinels attack the expedition on the Rope-Bridges. **Combat:** A thrilling, three-dimensional battle on swaying bridges over a bottomless pit. **Social:** Trying to convince a captured Sentinel of their good intentions. **Loot:** A Surface Sentinel's climbing gear.
+*   **Session 5: The First Gate** **Primary Beat:** The party reaches the Progenitor tunnel and must open it. **Combat:** Fighting the first Warden-Scarab constructs. **Social:** Deciphering the Progenitor lock-mechanism. **Loot:** A Progenitor power cell.
+*   **Session 6: The Labyrinth of Echoes** **Primary Beat:** The party gets lost in the sound-twisting canyons. **Combat:** Fighting Echo-Bats that use their own voices against them. **Social:** Bargaining with the Echo-Thieves for a guide. **Loot:** A "sound-compass" that points towards silence.
+*   **Session 7: The Warden** **Primary Beat:** The party confronts Warden-Unit 9. **Combat:** A series of non-lethal trials set by the Warden. **Social:** A logical debate with the Warden, trying to find a loophole in its programming. **Loot:** A pass-key that allows safe passage through the rest of the Warden's domain.
+*   **Session 8: First Light** **Primary Beat:** The party emerges from the tunnels into the Bioluminescent Jungle. **Combat:** Their first encounter with a Yolk-Spawn. **Social:** A first, confusing, telepathic contact with the Sporefolk Sovereignty. **Loot:** A glowing Sun-Fruit.
+*   **Session 9: The Genetic Toll** **Primary Beat:** The party needs a living ship from the Flesh-Weavers. **Combat:** Hunting a specific, rare creature to provide as a "genetic sample." **Social:** Haggling with the Progenitor Prime over the "price" of the ship. **Loot:** A minor, "cosmetic" bio-upgrade.
+*   **Session 10: The Primordial Sea** **Primary Beat:** The party sails the Sea of Chaos. **Combat:** Fighting off spontaneously-generated sea monsters. **Social:** A meeting with the Last Yolk-Embracer on its floating island. **Loot:** A flask of primordial soup.
+*   **Session 11: The Crystal Path** **Primary Beat:** The party encounters the Geode-Gnostics' crystal reef. **Combat:** Navigating the razor-sharp reef and fighting Crystal-Spinners. **Social:** A philosophical debate with The Luminous One. **Loot:** A small, living crystal that can purify water.
+*   **Session 12: The Core's Song** **Primary Beat:** The party arrives in the Core's Corona and meets the Children of the Core. **Combat:** A ritual combat against Sun-Speaker Kor to prove their worth. **Social:** Trying to interpret the Core's "hatching song." **Loot:** A protective charm against the Core's intense heat.
 
 ## [TAG: INDEX_KEYWORDS]
-Journey to the Inner World, Great Wyrm, World-Egg, The Shell, The Yolk, The Core, The Hatching, The Laying, The First Cracks, Age of Giants, The Gravity Shift, The First Descent, The Progenitors, The Progenitor War, Shell-Wardens, Yolk-Embracers, The Great Seal, The Great Amnesia, The River of Time Runs Backwards, The Rediscovery, The Day the Mountains Sang, The Delvers' Guild, Baron Alistair Finch, The Surface Sentinels, Elder Maeve, The Geode-Gnostics, The Luminous One, The Flesh-Weavers of the Yolk, Progenitor Prime, The Children of the Core, Sun-Speaker Kor, The Remnant of the Shell-Wardens, Warden-Unit 734, The Descendants of the Yolk-Embracers, The First-Mutant, The Echo-Thieves, The Silent, The Myconid Sovereignty, The Great Mind-Spore, The Society of the Blind Worm, The Worm-That-Walks, Captain Eva Rostova, Dr. Aris Thorne, Grak, The Crystal-Hearted, The Bio-Scout, Sentinel Joric, The Last Yolk-Embracer, The Echo-Hunter, Mind-Spore Muriel, Brother Ouroboros, The Great Chasm of Al-Ghor, The Delver's Guild Terminus, The Rope-Bridges, The Sentinel's Ledge, The Progenitor's Scar, The Graveyard of Ambition, The Labyrinth of Echoes, The Whispering Falls, The Canyon of a Thousand-Fold Replies, The Silent Grotto, The Sound Market, The Resonant Cathedral, The Bioluminescent Jungle, The Sun-Fruit Grove, The River of Light, The Canopy of Stars, The Sea of Chaos, The Great Maelstrom, The Core's Corona, The Fields of Glass, The Genesis Caverns, The Final Gate, The Egg-Cracker, The Heart of the Yolk, The Progenitor's Key, The Luminous Carapace, The Weaver's Loom, Law of Primordial Chaos, Yolk-Flux, Spontaneous Evolution, Conceptual Instability, Delve Stress, Shell-Shock, Yolk-Spawn, Crystal-Spinner, Echo-Bat, Warden-Scarab, Fungal-Zombie, Grafted Horror, Blind-Worm Digger, Chaos-Mutant, Living Crystal, Core-Spawn.
+Journey to the Inner World, Great Wyrm, World-Egg, The Shell, The Yolk, The Core, The Hatching, The Laying, The First Cracks, Age of Giants, The Gravity Shift, The First Descent, The Progenitors, The Progenitor War, Shell-Wardens, Yolk-Embracers, The Great Seal, The Great Amnesia, The River of Time Runs Backwards, The Rediscovery, The Day the Mountains Sang, The Delvers' Guild, Baron Alistair Finch, The Surface Sentinels, Elder Maeve, The Geode-Gnostics, The Luminous One, The Flesh-Weavers of the Yolk, Progenitor Prime, The Children of the Core, Sun-Speaker Kor, The Remnant of the Shell-Wardens, Warden-Unit 9, The Descendants of the Yolk-Embracers, The First-Mutant, The Echo-Thieves, The Silent, The Sporefolk Sovereignty, The Great Mind-Spore, The Society of the Blind Worm, The Worm-That-Walks, Captain Eva Rostova, Dr. Tobias Venn, Grak, The Crystal-Hearted, The Bio-Scout, Sentinel Joric, The Last Yolk-Embracer, The Echo-Hunter, Mind-Spore Muriel, Brother Ouroboros, The Great Chasm of Al-Ghor, The Delver's Guild Terminus, The Rope-Bridges, The Sentinel's Ledge, The Progenitor's Scar, The Graveyard of Ambition, The Labyrinth of Echoes, The Whispering Falls, The Canyon of a Thousand-Fold Replies, The Silent Grotto, The Sound Market, The Resonant Cathedral, The Bioluminescent Jungle, The Sun-Fruit Grove, The River of Light, The Canopy of Stars, The Sea of Chaos, The Great Maelstrom, The Core's Corona, The Fields of Glass, The Genesis Caverns, The Final Gate, The Egg-Cracker, The Heart of the Yolk, The Progenitor's Key, The Luminous Carapace, The Weaver's Loom, Law of Primordial Chaos, Yolk-Flux, Spontaneous Evolution, Conceptual Instability, Delve Stress, Shell-Shock, Yolk-Spawn, Crystal-Spinner, Echo-Bat, Warden-Scarab, Fungal-Zombie, Grafted Horror, Blind-Worm Digger, Chaos-Mutant, Living Crystal, Core-Spawn.

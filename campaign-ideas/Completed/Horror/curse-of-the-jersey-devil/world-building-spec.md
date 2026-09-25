@@ -87,7 +87,7 @@ This document is the primary instruction set for the world-building AI pipeline.
         *   **Potential Random Encounters (x5):** A Leeds descendant recognizing family traits in another, a tense town meeting about the attacks, finding old family portraits, a cult member spying on the party, a nighttime devil sighting.
         *   **Embedded Plot Hooks & Rumors (x3):** "The Leeds family crypt holds secrets." "Emma Leeds is pregnant with her thirteenth child." "Someone has been digging through the colonial archives at night."
         *   **Sensory Details:** Sight (Colonial architecture in disrepair, overgrown gardens, empty streets), Sound (Creaking wood, distant conversations, church bells), Smell (Old wood, dust, cooking fires).
-    *   **The Devil's Homestead:** The ruins of the original Leeds family manor, deep in the Barrens.
+    *   **The Leeds Homestead:** The ruins of the original Leeds family manor, deep in the Barrens.
         *   **Key Landmarks:** The collapsed main house, a preserved basement/cellar, the birth room where the first devil was born, a hidden ritual chamber.
         *   **Primary Inhabitants:** The Jersey Devil (lairs here), manifestations of the curse, possibly cult members.
         *   **Available Goods & Services:** None. This is a place of power and danger.
@@ -102,18 +102,11 @@ This document is the primary instruction set for the world-building AI pipeline.
         *   **Embedded Plot Hooks & Rumors (x3):** "The cult plans a mass sacrifice on the next new moon." "Silas is trying to become a devil himself." "They've been kidnapping pregnant Leeds women."
         *   **Sensory Details:** Sight (Candles, dark wood, blood stains, devil imagery), Sound (Chanting, crackling fire, screams), Smell (Incense, blood, fear).
 
-**6. Causality Chains & Dynamic World States**
-*   **Directive:** The World Simulation Agent must implement the following trigger-based state changes. For each "IF" condition, the agent must pre-generate the narrative and environmental consequences for the "THEN" outcome.
-*   **Triggers:**
-    *   **IF:** The players successfully protect Emma and slow the Curse Progression.
-    *   **THEN:** Emma trusts the players and cooperates fully. The cult becomes more desperate and attempts a direct assault. The devil's attacks decrease as it waits for the birth.
-    *   **IF:** The Curse Progression reaches 10 and Emma's child is born as a devil.
-    *   **THEN:** A second Jersey Devil now exists. The original devil may react with joy (a companion) or rage (a rival). The cult attempts to capture the newborn devil. Emma is devastated.
-    *   **IF:** The players gather all three ritual components.
-    *   **THEN:** They can attempt the curse-breaking ritual at the Devil's Homestead. Reverend Crane may assist or sabotage based on their relationship. The ritual requires difficult skill checks and attracts both the devil and the cult.
-    *   **IF:** The players kill the original Jersey Devil before breaking the curse.
-    *   **THEN:** The curse is not broken; it simply awaits the next thirteenth child. The cult elevates the devil to martyrdom and becomes more fanatical.
-    *   **IF:** The players expose the cult's sanctuary and defeat Silas.
-    *   **THEN:** The cult scatters, but some members escape to continue their mission. Silas may reveal critical information about the curse in his final moments.
-    *   **IF:** The players successfully perform the curse-breaking ritual.
-    *   **THEN:** The original Jersey Devil either dies peacefully (finally released) or transforms back into its original human form (now 300 years old). All Leeds descendants are freed from the curse. The cult loses its purpose and dissolves.
+## 6. Causality Chains & Dynamic World States
+
+* IF the players successfully protect Emma and slow the Curse Progression THEN Emma trusts the players and cooperates fully. The cult becomes more desperate and attempts a direct assault. The devil's attacks decrease as it waits for the birth.
+* IF the Curse Progression reaches 10 and Emma's child is born as a devil THEN a second Jersey Devil now exists. The original devil may react with joy (a companion) or rage (a rival). The cult attempts to capture the newborn devil. Emma is devastated.
+* IF the players gather all three ritual components THEN they can attempt the curse-breaking ritual at the Leeds Homestead. Reverend Crane may assist or sabotage based on their relationship. The ritual requires difficult skill checks and attracts both the devil and the cult.
+* IF the players kill the original Jersey Devil before breaking the curse THEN the curse is not broken; it simply awaits the next thirteenth child. The cult elevates the devil to martyrdom and becomes more fanatical.
+* IF the players expose the cult's sanctuary and defeat Silas THEN the cult scatters, but some members escape to continue their mission. Silas may reveal critical information about the curse in his final moments.
+* IF the players successfully perform the curse-breaking ritual THEN the original Jersey Devil either dies peacefully (finally released) or transforms back into its original human form (now 300 years old). All Leeds descendants are freed from the curse. The cult loses its purpose and dissolves.
