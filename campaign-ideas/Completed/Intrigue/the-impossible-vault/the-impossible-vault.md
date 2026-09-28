@@ -1,138 +1,123 @@
-# The Impossible Vault: Eleven Masters, One Score
+# The Impossible Vault
+## *Eleven masters. One vault. Four hundred souls the house forgot to mention.*
 
-*A Criminal Enterprise Campaign — Medium Campaign (8-10 sessions) — Medium difficulty*
+**Campaign Type / Genre:** Heist / Intrigue / Fantasy Caper
+**Estimated Length:** Medium Campaign — 10–12 sessions
+**Player Level Range:** Start **1** → Finish **8**
+**Tone (keywords):** stylish, clever, tense, warm-hearted, high-stakes
+**Difficulty:** Medium
+**Core Premise (2–4 sentences):** Darian Ashcombe needs one more hire to rob the Grand Celestial Casino's Vault of Stars on the night of the Tournament of Eclipses. You are the Eleventh. In a city where luck is a liquid and the house drinks it, every crew member hides a secret, a weeping card keeps turning up in your hand, and the vault holds more than gold. Pull off the impossible, with style, before the eclipse ends the game.
 
----
-
-## Campaign Overview
-
-**Title:** The Impossible Vault: Eleven Masters, One Score
-**Campaign Type / Genre:** Heist / Criminal Enterprise / Team Assembly
-**Estimated Length:** Medium Campaign — 8-10 sessions
-**Player Level Range:** Start **4** → Finish **8**
-**Tone (keywords):** sophisticated, clever, stylish, high-stakes, charming
-**Core Premise (2–4 sentences):**
-The players are recruited by a charismatic mastermind to pull off the impossible: robbing the Grand Celestial Casino's legendary vault during the city's most prestigious magical tournament. To succeed, they must assemble a crew of eleven specialists—each an expert in their field—and execute a plan so audacious that no one would believe it could work. As they navigate the casino's elaborate security systems, corrupt nobility, and rival criminal organizations, the heist becomes a delicate dance of timing, teamwork, and misdirection. But the real challenge isn't just stealing the fortune—it's doing it with style and getting everyone out alive.
+### Solo Play
+The player character is **the Eleventh** — Darian's last hire, the one he insists the plan cannot work without. The AI DM voices every other member of the crew (Lyra, Jax, Sylas, Zara, Kael, Luna, Orion, Brutus, Trixie) as a full ensemble, running their banter, their Loyalty arcs, and their Flashback contributions so a solo player still gets the feel of an eleven-person heist.
 
 ---
 
-## Story Arc (Medium Campaign — 8-10 sessions)
+## Story Arc (Medium Campaign — 10–12 sessions)
 
-A symphony of expertise, timing, and audacity.
+A symphony of expertise, timing, and a debt none of the crew can name out loud.
 
-*   **Act I — Assembly (Sessions 1–3):** The mastermind recruits the players and together they assemble the perfect crew of specialists.
-*   **Act II — Preparation (Sessions 4–6):** The team infiltrates the casino, studies its defenses, and rehearses the intricate plan.
-*   **Act III — Execution (Sessions 7–10):** The heist unfolds during the tournament with precision timing, improvisation, and spectacular reveals.
+*   **Act I — Assembly (Sessions 1–4):** Darian finds the Eleventh, the crew comes together willing member by reluctant member, and the job is cased.
+*   **Act II — Preparation (Sessions 5–8):** The true schematic is stolen, a rival crew is dealt with, the plan is rehearsed, and the crew infiltrates Tournament Night.
+*   **Act III — Execution (Sessions 9–12):** The Vault falls, Lyra's divided loyalty comes to a head, the Eclipse Draw begins, and the Eleventh decides what Glimmerfall becomes.
 
 ---
 
 ## Session-by-Session Outline
 
 ### Session 1 — "The Pitch"
-*   **Focus:** Introduction / Recruitment
-*   **Key Events:**
-    *   A charismatic mastermind approaches the players with an impossible proposition: rob the unrobbable vault.
-    *   The target is revealed: the Grand Celestial Casino, owned by a corrupt noble who cheats patrons and hoards magical artifacts.
-    *   Initial team assembly begins as the players identify what specialists they'll need.
-**Escalation:** The casino owner publicly humiliates someone dear to the mastermind, making the heist personal.
+Darian Ashcombe finds the Eleventh in a back-alley card game and deals them a Weeping Ace before they've even sat down. **Key NPCs:** Darian Ashcombe, Lyra Nightingale (glimpsed). **Level:** 1.
 
-### Sessions 2-3 — "Getting the Band Together"
-*   **Focus:** Crew Assembly / Character Introduction
-*   **Key Events:**
-    *   The players travel to recruit specialists: a pickpocket, an acrobat, an explosives expert, a con artist, a surveillance mage, and more.
-    *   Each recruitment involves a mini-challenge that demonstrates the specialist's unique abilities.
-    *   The crew bonds through planning sessions and discovers their complementary skills.
-**Escalation:** A rival crew is also planning to hit the casino, and they're recruiting the same specialists.
+### Session 2 — "Getting the Crew"
+Recruit the crew's willing half — Jax Tumbler, Sylas Marrow, and Zara Emberkettle — through the Specialists' Guild. **Key NPCs:** Jax Tumbler, Sylas Marrow, Zara Emberkettle, Quillon Marsh. **Level:** 1.
 
-### Sessions 4-5 — "Inside Job"
-*   **Focus:** Infiltration / Reconnaissance
-*   **Key Events:**
-    *   The team infiltrates the casino using various covers: dealers, security, entertainers, and high-rolling patrons.
-    *   They map out security systems, guard rotations, magical wards, and vault specifications.
-    *   A practice run reveals both opportunities and unexpected complications in the plan.
-**Escalation:** Casino security is upgraded after a minor incident, forcing the team to adapt their approach.
+### Session 3 — "The Hard Recruits"
+Talk the reluctant half — Kael Stillwater, Luna Varga, Orion Vey, Brutus Hale, and Trixie Quickfoot — into one last job. **Level:** 2.
 
-### Session 6 — "The Rehearsal"
-*   **Focus:** Planning / Team Coordination
-*   **Key Events:**
-    *   The crew builds a replica of key casino areas to practice their synchronized movements.
-    *   They identify timing windows, backup plans, and potential failure points.
-    *   Personal tensions arise as the pressure mounts and everyone's criminal past catches up with them.
-**Escalation:** One crew member is recognized from a previous job, threatening to expose the entire operation.
+### Session 4 — "Casing the House"
+Map the Casino's floors, clock the guard rotations, and find the Panopticon Engine's blind seconds. **Key NPCs:** Commander Vex, Lyra Nightingale (introduced properly). **Level:** 2.
 
-### Sessions 7-8 — "Tournament Night"
-*   **Focus:** Execution / Synchronized Action
-*   **Key Events:**
-    *   The heist begins during the magical tournament's climactic final match, when all eyes are on the arena.
-    *   Multiple teams execute their roles simultaneously: the vault team, the distraction team, and the security bypass team.
-    *   Everything goes according to plan—until it doesn't, requiring brilliant improvisation.
-**Escalation:** The casino owner realizes mid-heist that he's being robbed and activates emergency protocols.
+### Session 5 — "The Blueprint"
+Steal the Vault's true schematic from the City Archives, where the building doesn't always agree with its own floor plan. **Key NPCs:** Wynne Alderoot, Orion Vey. **Level:** 3.
 
-### Sessions 9-10 — "The Big Reveal"
-*   **Focus:** Twist / Resolution
-*   **Key Events:**
-    *   The plan's true genius is revealed: the heist everyone saw was misdirection for the real score.
-    *   Multiple layers of deception unfold as the crew stays one step ahead of pursuit.
-    *   The campaign concludes with the crew's successful escape and the settling of scores.
-**Escalation:** The mastermind reveals a deeper purpose to the heist that changes everything the crew thought they knew.
+### Session 6 — "Rival Crew"
+A competing outfit with its own eye on the Vault forces a confrontation in the Sewers of Whispers. **Key NPCs:** a rival crew leader, Madame Fortuna. **Level:** 4.
+
+### Session 7 — "The Rehearsal"
+A dry run during a minor gala on the VIP Floating Isles tests the plan for real, with real consequences. **Level:** 4.
+
+### Session 8 — "Tournament Night"
+Infiltrate the Casino during the Tournament of Eclipses' opening ceremony. **Key NPCs:** Lord Midas Goldweaver, the Eclipse Committee, Sylas Marrow. **Level:** 5.
+
+### Session 9 — "The Vault"
+The crew breaches the Vault of Stars, and Darian finally reveals the real target: the Anchor Key, not the gold. **Key NPCs:** Darian Ashcombe, Lyra Nightingale. **Level:** 6.
+
+### Session 10 — "The Double-Cross"
+Lyra's divided loyalty comes to a head; Posy's chip is within reach, and Midas knows it. **Key NPCs:** Lyra Nightingale, Lord Midas Goldweaver, Posy Nightingale. **Level:** 6.
+
+### Session 11 — "The Eclipse Draw"
+Midas begins the ritual as the solar eclipse peaks; the crew must stop it, redirect it, or seize it for themselves. **Key NPCs:** Lord Midas Goldweaver, Commander Vex, the Probability Drake. **Level:** 7.
+
+### Session 12 — "Cash Out"
+The Eleventh decides the fate of the four hundred, the Anchor Key, and the house's lights. **Key NPCs:** the full crew, the Chip Widows, Lyra and Posy Nightingale. **Level:** 8.
 
 ---
 
 ## Major NPCs
 
-1.  **Darian "Silvertongue" Castellan** — *The Mastermind*
-    *   **Role:** The charismatic leader who assembles the crew and orchestrates the impossible heist.
-    *   **Personality:** Smooth, confident, always three steps ahead, with a roguish charm that inspires loyalty.
-    *   **Secret/Flaw:** The heist is revenge against the casino owner who destroyed his family's fortune and reputation.
+1.  **Darian Ashcombe** — *The Mastermind*
+    *   **Role:** Human Bard known as Silvertongue; assembles the crew to recover the Anchor Key and clear his father Edric's name.
+    *   **Personality:** Smooth baritone, speaks in metaphors, pauses before anything important.
+    *   **Secret/Flaw:** The chip he carries against his skin — stolen back from his father's theft — is turning his blood to gold dust, one grain at a time.
 
-2.  **Lord Midas Goldweaver** — *The Casino Owner*
-    *   **Role:** The wealthy antagonist who owns the Grand Celestial Casino and cheats his patrons.
-    *   **Personality:** Arrogant, greedy, and paranoid, trusting only his elaborate security systems.
-    *   **Secret/Flaw:** He's in massive debt to criminal organizations and desperately needs the vault's contents to survive.
+2.  **Lyra Nightingale** — *The Inside Woman*
+    *   **Role:** Half-Elf Rogue, head of Casino surveillance, called Whisper. Wants her sister Posy's chip out of the Vault alive.
+    *   **Personality:** Low, crisp, almost monotone until something she cares about is threatened.
+    *   **Secret/Flaw:** She designed the Vault's fatal trap herself, and Midas knows it — the leash he holds her by.
 
-3.  **Lyra "Whisper" Nightingale** — *The Inside Woman*
-    *   **Role:** A casino security specialist who provides crucial inside information to the crew.
-    *   **Personality:** Professional and cautious, torn between duty and justice.
-    *   **Secret/Flaw:** She once loved the mastermind but betrayed him to protect her family from Lord Goldweaver's threats.
+3.  **Lord Midas Goldweaver** — *The Casino Owner*
+    *   **Role:** Elf Wizard who owns the Grand Celestial Casino and intends the Eclipse Draw.
+    *   **Personality:** High, fast, interrupts his own sentences, arrogant hiding terror.
+    *   **Secret/Flaw:** His left hand is solid gold and creeping toward his heart; he has forgotten his own birth name.
 
-4.  **The Eleven Specialists** — *The Crew*
-    *   Each player can recruit or play as one of eleven archetypes: The Thief, The Muscle, The Grifter, The Hacker (Mage), The Acrobat, The Explosives Expert, The Wheelman, The Forger, The Lookout, The Fence, and The Wild Card.
+4.  **The Crew — Ten Masters and the Eleventh**
+    *   **Jax Tumbler** (Gnome Rogue, the Lock), **Sylas Marrow** (Tiefling Bard, the Face), **Zara Emberkettle** (Dwarf Wizard, the Boom), **Kael Stillwater** (Elf Ranger, the Hawk), **Luna Varga** (Human Rogue, the Drive), **Orion Vey** (Astralborn Wizard, the Mind), **Brutus Hale** (Half-Orc Fighter, the Brick), **Trixie Quickfoot** (Halfling Bard, the Shuffle) — each with a personal Loyalty arc and a secret of their own, plus Darian and Lyra. The Eleventh is the player.
 
 ---
 
 ## Key Locations
 
-1.  **The Grand Celestial Casino:** A magnificent establishment with multiple floors, from gaming halls to luxury suites, protected by magical and mundane security.
-2.  **The Vault of Stars:** The legendary vault beneath the casino, said to contain artifacts of immense power and unimaginable wealth.
-3.  **The Tournament Arena:** Where the city's greatest magical combat tournament takes place, providing the perfect distraction.
-4.  **The Crew's Hideout:** A converted warehouse where the team plans, practices, and prepares for the heist.
+1.  **The Grand Celestial Casino:** The target itself — the Gilded Lobby, the Gaming Floor, the VIP Floating Isles, and the Tournament Arena all stacked above the thing the whole city is built to feed.
+2.  **The Vault of Stars:** The legendary vault beneath the Casino, ending in the Core, where four hundred banked chips sing faintly out of time with one another.
+3.  **The Lantern Warehouse:** The crew's hideout, a disused algae-lantern depot in Glimmerfall Streets nobody looks at twice.
+4.  **The City Archives:** Where the Vault's true schematic is kept, in a building whose non-Euclidean wing relocates whole reading rooms overnight.
+5.  **The Sewers of Whispers:** Tunnels beneath Glimmerfall that carry every secret spoken near a grate to whoever knows how to listen.
+6.  **The Chip Widows' Chapel:** Built from four hundred candle-stubs, one lit fresh every year on the anniversary of the Silence of the Slots.
 
 ---
 
 ## Central Conflict
 
-This campaign explores the art of the impossible heist—how perfect planning, specialized expertise, and audacious execution can overcome any security system. The central conflict revolves around assembling and coordinating a team of specialists to rob an "unrobbable" vault while staying ahead of the paranoid casino owner, rival criminals, and their own personal demons. The players must balance individual skills with team coordination, adapt when plans go wrong, and prove that style and intelligence can triumph over brute force. The campaign asks: What makes a team unstoppable? Can criminals be heroes when they rob from the corrupt? And what happens when the perfect plan meets an imperfect reality?
+The Eleventh is hired for a straightforward theft and pulled, session by session, into a much older debt. Lord Midas Goldweaver is dying of the same luck he hoards, and on the night of the eclipse he intends to drain the Vault of Stars and the Probability Anchor into himself to become a living reservoir of fortune — erasing the four hundred people he banked into chips ten years ago, Posy Nightingale among them. Darian Ashcombe is dying of the same theft from the other end, and has told no one but Lyra. The crew's job was never really the gold; it is whether eleven people, each carrying their own secret, can decide together what four hundred stolen lives are worth — and what a city that runs on luck becomes without a house to feed.
 
 ---
 
 ## Unique Mechanics
 
-### 1. **The Specialist System**
-*   Each crew member has unique abilities that unlock special heist actions during critical moments.
-*   Players can switch between controlling different specialists during the heist, creating a ensemble cast experience.
-*   Specialist synergies provide bonuses when crew members coordinate their abilities perfectly.
+### 1. Luck Points
+Start each session with 3. Spend one to reroll any d20 immediately before or after seeing the result. Inside the Casino, a spent Luck Point drains straight into the house's Chance-Matter reserves and feeds the Eclipse Clock.
 
-### 2. **The Heist Clock**
-*   A visual timeline tracks simultaneous operations across the casino during the heist.
-*   Each team's actions affect the others, creating a complex web of cause and effect.
-*   Perfect timing provides critical successes; missed timing windows create escalating complications.
+### 2. Heat
+A 0–10 track of the Casino's suspicion. Rises from mistakes, loud fights, and failed Style checks; falls with good cover stories and quiet favors. At 5, the Panopticon Engine fixes its five-second foresight on the crew. At 10, full lockdown.
 
-### 3. **The Misdirection Mechanic**
-*   Players can establish "false plans" that NPCs believe, then reveal the real plan at critical moments.
-*   Layered deceptions allow the crew to stay ahead of countermeasures and investigations.
-*   The DM tracks what different NPCs believe is happening versus what's actually occurring.
+### 3. Style & Flashbacks
+Flair and in-character panache earn Style, max 5. Spend 1 to 3 Style to call a Flashback — a short scene establishing the crew prepared for this exact moment. Built specifically for solo play, where there's no second player to riff off of.
 
-### 4. **Style Points**
-*   Players earn style points for executing heist elements with flair, wit, and creativity.
-*   Style points can be spent to succeed at impossible tasks, reveal helpful coincidences, or add spectacular flourishes.
-*   The campaign rewards not just success, but success with panache and clever one-liners.
+### 4. Lyra's Loyalty
+A visible 0–5 track that rises when the Eleventh protects Posy's memory, keeps Lyra's secrets, or backs her against Darian, and falls when she's treated as expendable. It decides how Session 10's Double-Cross plays out.
+
+### 5. The Eclipse Clock
+A 12-segment clock that fills as sessions pass, Heat spikes, and Luck Points are spent inside the Casino. At 12, the Eclipse Draw begins, whether or not the crew is ready for it.
+
+### 6. The House Edge
+Inside the Casino, any natural 1 on a d20 roll adds 1 Heat, on top of whatever else it does narratively. The house's advantage isn't cheating. It's architecture.

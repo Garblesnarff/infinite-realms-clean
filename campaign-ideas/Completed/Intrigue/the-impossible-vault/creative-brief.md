@@ -1,58 +1,64 @@
-# Creative Brief: The Impossible Vault: Eleven Masters, One Score
+# Creative Brief: Eleven masters. One vault. Four hundred souls the house forgot to mention.
 
-This document outlines the core creative direction for the assets of this campaign, ensuring a consistent and fitting tone across all visuals, audio, and more.
+This brief sets the look, sound and feel of every asset for this campaign. It follows the campaign bible. Where they disagree, the bible wins.
 
-## Art Style: Sophisticated Heist Glamour (Ocean's Eleven meets Casino Royale)
+**Final art style:** not yet locked—to be selected by a style bake-off against this brief's direction, same as every other campaign.
 
-Inspired by the stylish criminal sophistication of *Ocean's Eleven* and the high-stakes glamour of *Casino Royale*. This style aims to capture the clever elegance, synchronized teamwork, and audacious confidence of the perfect heist, where expertise meets opportunity in a dazzling display of criminal artistry.
+## Visual Identity
 
-### Core Principles for Prompts:
+**Primary Aesthetic**: Stylish, clever, and quietly tense — a fantasy caper's glamour laid directly over the architecture of a building that is, secretly, alive on stolen luck.
+- The Grand Celestial Casino as glittering, opulent, and just slightly wrong: chandeliers, marble, and brass that hums faintly if you stand still too long.
+- Chance-Matter as a liquid, gold-bright and viscous, moving through walls and fountains the way water moves through any other city's pipes.
+- The crew as eleven distinct silhouettes reading instantly at a glance — a Lock, a Face, a Boom, a Hawk, a Drive, a Mind, a Brick, a Shuffle, a mastermind, an inside woman, and the Eleventh.
+- The Vault of Stars as cold, spiraled, and reverent — four hundred small warm lights racked like a held breath.
 
-*   **Emphasize Stylish Sophistication:** Focus on the elegance and polish of professional criminals at the top of their game, from designer suits to high-tech gadgets.
-*   **Team Coordination:** Highlight the synchronized ballet of specialists working in perfect harmony toward a common goal.
-*   **Casino Glamour:** Use the glittering opulence of the casino setting to create visual contrast with the shadowy criminal enterprise.
+**Color Palette**:
+- **Brass** — warm metal, old wealth, the Casino's public face.
+- **Neon-algae teal** — the city's bioluminescent light grid, cool and alive.
+- **Liquid-gold** — Chance-Matter itself: fountains, veins in the walls, a poisoned hand.
+- **Eclipse black** — the Vault, the ritual, the night the whole plan converges on.
 
----
+**Motifs**:
+- The Weeping Ace — a single card, mid-tear, turning up in a dealt hand, folded on a napkin, staring back from a fogged mirror.
+- Gold creeping through a hand — the visible cost of the luck both Midas and Darian are spending.
+- Chips that glow faintly warm — four hundred small, patient lights, each one a person who hasn't come home yet.
 
-### Detailed Style Guide for Image Generation:
+## Audio Design
 
-**1. Overall Vibe & Mood:**
-*   **Keywords:** Sophisticated, clever, stylish, high-stakes, charming, confident, glamorous.
-*   **Feeling:** A sense of exhilarating possibility and effortless cool. The atmosphere should evoke the thrill of pulling off the impossible with style and the camaraderie of experts who trust each other completely. The world feels both luxurious and dangerous.
+**Music**: Elegant, propulsive, and warm-hearted under the tension — jazz-adjacent caper energy shading into something sadder underneath.
+- **Planning/Assembly**: Playful, confident, a rhythm section that suggests eleven people falling into sync.
+- **Casino Floor**: Glittering, layered, chips and coins woven into the percussion.
+- **Heat Rising**: The same theme, subtly detuned, a countdown hiding in the strings.
+- **The Vault**: Sparse, reverent, four hundred faint voices just under the mix.
+- **The Eclipse Draw**: Orchestral surge breaking against something ancient and wrong.
 
-**2. Line Work & Form:**
-*   **Style:** Clean, sharp lines for architecture and character design combined with fluid, dynamic movement for heist sequences.
-*   **Forms:** Sleek casino interiors with geometric perfection, characters in tailored clothing moving with practiced precision, vault mechanisms with intricate beauty.
-*   **Prompt Example:** "A highly detailed, sophisticated illustration in the style of Ocean's Eleven, focusing on a team of eleven specialists gathered around a holographic casino blueprint, each character distinct and stylish."
+**Key Sounds**:
+- Chips clicking in a rhythm that always sounds like a countdown.
+- The long hiss of a roulette ball finally finding its pocket.
+- A held breath, repeating, that isn't yours (the Vault Airlock).
+- The Weeping Ace's soft rustle, wherever it turns up.
+- The Eclipse Clock's segments filling, one soft chime at a time.
 
-**3. Color Palette:**
-*   **Style:** Rich jewel tones of emerald, sapphire, and ruby combined with the warm gold of casino luxury and cool silver of high-tech equipment.
-*   **Luminosity:** Dramatic lighting from chandeliers, magical effects, and security monitors that creates an atmosphere of glamorous danger.
-*   **Prompt Example:** "...a glamorous color palette of emerald greens and sapphire blues, accented by the warm gold of casino wealth and the cool silver of sophisticated technology."
+## Voice Acting
 
-**4. Character Design:**
-*   **Style:** Impeccably dressed specialists in tailored suits, elegant gowns, or stylish uniforms, each with signature accessories that hint at their expertise.
-*   **Team Elements:** Visual variety showing each specialist's unique role: the thief's subtle lockpicks, the mage's arcane focus, the acrobat's flexible attire.
-*   **Expression:** Faces show confident smirks, focused concentration, playful banter, and the quiet satisfaction of a plan coming together.
-*   **Prompt Example:** "A diverse team of eleven specialists, each in distinctive stylish attire: a suave mastermind in a tailored suit, an acrobat in sleek athletic wear, a mage with elegant robes and subtle arcane tattoos, all exuding professional confidence."
+**Darian Ashcombe**: Smooth baritone, metaphors, a deliberate pause before anything important.
+**Lyra Nightingale**: Low, crisp, almost monotone until something she cares about is threatened.
+**Lord Midas Goldweaver**: High, fast, interrupts his own sentences.
+**Jax Tumbler**: Rapid-fire, skittish, punctuated by little satisfied clicks of the tongue.
+**Zara Emberkettle**: Loud, hearty, blunt about everything except one thing.
+**Brutus Hale**: Deep, slow, unexpectedly eloquent.
 
-**5. Backgrounds & Environments:**
-*   **Style:** Opulent casino interiors with art deco flourishes, high-tech security rooms, glittering gaming halls, and the imposing vault architecture. Practice spaces show makeshift replicas built with clever resourcefulness.
-*   **Atmosphere:** Electric with possibility—the hum of magical wards, the shuffle of cards, the clink of coins, the tension of synchronized timing.
-*   **Details:** Casino world-building—elaborate security systems, luxury furnishings, magical tournament displays, hidden access panels, synchronized clocks showing heist timing.
-*   **Prompt Example:** "The Grand Celestial Casino's main floor at night during the tournament, with crystal chandeliers casting warm light on gaming tables, magical displays showing the arena combat, security cameras discreetly monitoring, and crowds in formal attire creating perfect cover."
+## Cinematics
 
-**6. Shading & Lighting:**
-*   **Style:** Glamorous lighting that emphasizes sophistication and drama. Casino lighting creates warm, inviting atmospheres while security areas have cooler, more clinical illumination.
-*   **Shadows:** Carefully composed shadows that suggest hidden depths and create visual interest without overwhelming the scene's elegance.
-*   **Purpose:** Lighting creates zones of safety and danger, highlights character expressions during critical moments, and emphasizes the visual spectacle of the heist.
-*   **Prompt Example:** "...dramatically lit by golden casino chandeliers and the cool blue glow of magical security fields, creating elegant contrasts that highlight both the glamour and the danger of the heist in progress."
+**Opening**: A Weeping Ace dealt face-down onto a back-alley card table before the Eleventh has agreed to anything; it turns over on its own.
+**Tournament Night**: A wide establishing pass across the Gilded Lobby and Gaming Floor as the crew, in cover, drifts into position one specialist at a time.
+**The Vault**: The Airlock cycling open on the Hall of Mirrors, each reflection showing a slightly worse outcome of the next ten seconds.
+**The Eclipse Draw**: The Tournament Arena's crowd frozen mid-roar as the sky darkens and the Vault's four hundred lights pulse in time with Midas's raised hand.
 
-**7. Composition:**
-*   **Style:** Dynamic compositions showing multiple elements of the heist simultaneously, split-screen effects for synchronized action, and intimate close-ups for character moments.
-*   **Techniques:** Dutch angles for tension, overhead shots for strategic planning, tracking shots following characters through the casino, symmetrical compositions for vault architecture.
-*   **Prompt Example:** "A sophisticated split-screen composition showing three simultaneous heist operations: the vault team bypassing magical wards, the distraction team at the tournament creating chaos, and the mastermind watching monitors from security—all perfectly timed and interconnected."
+## Tone
 
-## Voice
+**Primary**: Stylish confidence with a warm, aching undertow.
+**Secondary**: Tense precision — every Style point spent is a bet the crew is right about each other.
+**Tertiary**: A found family closing ranks around a debt none of them chose.
 
-A smooth, confident voice with the charismatic delivery of a master storyteller recounting the perfect crime. The narrator's refined accent carries undertones of playful mischief and genuine admiration for expert craftsmanship. The pacing is measured and deliberate during planning sequences, then quick and energetic during the heist itself, with dramatic pauses for reveals and twists. The emotion is one of sophisticated excitement—the thrill of watching true professionals at work. Audio quality features casino ambience—the shuffle of cards, magical chimes, crowd murmurs, jazz music from the lounge, and the satisfying clicks of vault mechanisms. Role: The voice of someone who appreciates the artistry of the perfect heist.
+Every session should feel like watching eleven experts trust each other completely, in a building designed to make sure that trust is the one thing it can't buy.
