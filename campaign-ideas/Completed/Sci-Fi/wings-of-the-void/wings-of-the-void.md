@@ -1,13 +1,20 @@
 # Wings of the Void
 ## *They said humans can't fly. The Abyss taught us otherwise.*
 
+**Campaign Type / Genre:** Sci-Fi / Adventure / Cosmic Horror
+**Estimated Length:** Long Campaign — 20–24 sessions (each session ≈ 3–4 hours)
+**Player Level Range:** Start **1** → Finish **10**
+**Tone (keywords):** meditative, transcendent, vertiginous, liminal, haunting
+**Difficulty:** Hard
+**Core Premise (2–4 sentences):** Fifty years ago Skydancer Kaia tore a hole between worlds; the Fallers now surrender to freefall through the Skyrift Abyss to keep that wound from closing. The Nine Sacred Descents can stabilize the boundary without sealing it—but the Sky Council wants it sealed forever, trapping the Void's refugees inside. Players are newly initiated Fallers racing to finish the Descents before the Council's Barrier completes.
+
 ### Campaign Overview
 
 The Skyrift Abyss is a bottomless chasm that tore through the continent during the Shattering, a cataclysm that broke reality itself. The chasm has no bottom—or rather, falling deep enough takes you through dimensional barriers into the Void Between Worlds. But a secret society of base jumpers and wingsuit flyers called the Fallers discovered something incredible: if you achieve perfect aerodynamic grace and surrender to the fall completely, the Void doesn't consume you—it transforms you. For a few precious minutes, you can fly like a god, manipulating gravity and wind as if they're suggestions rather than laws.
 
 Players are newly initiated Fallers who discover that each jump into the Abyss is eroding the barriers between dimensions faster than expected. Creatures from the Void—entities that exist in pure freefall—have begun emerging. The Sky Council, bureaucratic rulers who govern the Abyss's edge cities, want to seal the chasm permanently with a massive barrier spell. But doing so would end the Fallers' flight forever and trap thousands of dimensional refugees in the Void. The players must complete the Nine Sacred Descents—legendary jump sites that, when flown in sequence, will stabilize the dimensional barriers without destroying the connection between worlds.
 
-This is Point Break meets Inception meets How to Train Your Dragon, where every jump is both spiritual journey and physics puzzle, where falling is the only way to rise, and where the sky is just the beginning.
+Every jump is both spiritual journey and physics puzzle—an extreme-sports philosophy of surrender fused with dream-logic dimensional strangeness and the bond between a rider and the thing they fly. Falling is the only way to rise, and the sky is just the beginning.
 
 ### Core Themes
 
@@ -116,7 +123,7 @@ Each at different depth/location:
 - Features: Reality anchors, dimensional suppressors
 
 **The Void Layers**
-- **Twilight Zone**: Dimensional shimmer begins
+- **Dusk Layer**: Dimensional shimmer begins
 - **The Between**: Physics become suggestions
 - **Deep Void**: Only entities and perfect flyers survive
 - **The Core**: Where the Void King dwells
@@ -214,7 +221,7 @@ This campaign captures the surreal beauty and primal terror of freefall—that m
 - **Watching wingsuit videos**: Pure awe and vicarious fear
 - **Liminal space aesthetics**: Being between states
 - **Cosmic horror lite**: Incomprehensible beauty
-- **Point Break's**: Philosophy of extreme sports
+- **Extreme-sports philosophy**: Surrender as mastery
 - **Dimensional weirdness**: Physics as optional
 - **Chosen family**: Trusting others with your life
 
