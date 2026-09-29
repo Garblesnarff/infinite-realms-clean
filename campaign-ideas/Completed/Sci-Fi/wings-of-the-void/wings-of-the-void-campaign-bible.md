@@ -331,34 +331,73 @@ The conflict is not Good vs. Evil; it is **Stasis vs. Flow**. The Material Plane
 
 ### Custom Monsters (10 Stat Blocks)
 ### 1. Void Glider (CR 2)
-**HP:** 30 **AC:** 14 **Speed:** 60 (fly). **Abilities:** *Swoop* (Extra damage on dive), *Phase* (Incorporeal for 1 turn).
+**HP:** 30 **AC:** 14 **Speed:** 60 (fly).
+**Attack:** +3 to hit, 1d6 force
+**Size:** large
+**Resistances:** necrotic
+**Abilities:** *Swoop* (Extra damage on dive), *Phase* (Incorporeal for 1 turn).
 
 ### 2. Sky Shark (CR 4)
-**HP:** 60 **AC:** 16 **Speed:** 80 (fly). **Abilities:** *Blood Scent* (Advantage on wounded), *Bite* (Grapples).
+**HP:** 60 **AC:** 16 **Speed:** 80 (fly).
+**Attack:** +3 to hit, 2d6 piercing
+**Size:** large
+**Resistances:** cold
+**Abilities:** *Blood Scent* (Advantage on wounded), *Bite* (Grapples).
 
 ### 3. Cloud Mimic (CR 3)
-**HP:** 45 **AC:** 12 **Speed:** 20 (fly). **Abilities:** *Engulf* (Suffocates inside cloud form), *False Appearance*.
+**HP:** 45 **AC:** 12 **Speed:** 20 (fly).
+**Attack:** +3 to hit, 1d8 acid
+**Size:** large
+**Immunities:** poison
+**Abilities:** *Engulf* (Suffocates inside cloud form), *False Appearance*.
 
 ### 4. Lightning Elemental (CR 5)
-**HP:** 70 **AC:** 15 **Speed:** 90 (fly). **Abilities:** *Arc* (Chains damage), *Flash* (Blinds).
+**HP:** 70 **AC:** 15 **Speed:** 90 (fly).
+**Attack:** +3 to hit, range 60 ft, 2d6 lightning
+**Size:** medium
+**Immunities:** lightning
+**Abilities:** *Arc* (Chains damage), *Flash* (Blinds).
 
 ### 5. Gravity Well (CR 6)
-**HP:** 100 **AC:** 18 **Speed:** 0. **Abilities:** *Crush* (Pull everyone 30ft closer), *Density* (High AC).
+**HP:** 100 **AC:** 18 **Speed:** 0.
+**Attack:** +3 to hit, range 30 ft, 4d8 bludgeoning
+**Size:** huge
+**Resistances:** force
+**Abilities:** *Crush* (Pull everyone 30ft closer), *Density* (High AC).
 
 ### 6. Siren of the Wind (CR 4)
-**HP:** 40 **AC:** 13 **Speed:** 50 (fly). **Abilities:** *Lure* (Wis save or jump), *Scream* (Thunder damage).
+**HP:** 40 **AC:** 13 **Speed:** 50 (fly).
+**Attack:** +3 to hit, range 60 ft, 1d8 thunder
+**Size:** medium
+**Vulnerabilities:** lightning
+**Abilities:** *Lure* (Wis save or jump), *Scream* (Thunder damage).
 
 ### 7. Glass Frog Swarm (CR 2)
-**HP:** 20 **AC:** 12 **Speed:** 30 (fly). **Abilities:** *Shard Explosion* (AoE on death), *Cut* (Bleed damage).
+**HP:** 20 **AC:** 12 **Speed:** 30 (fly).
+**Attack:** +3 to hit, 1d6 slashing
+**Size:** medium
+**Vulnerabilities:** thunder
+**Abilities:** *Shard Explosion* (AoE on death), *Cut* (Bleed damage).
 
 ### 8. Paper Dragon (CR 7)
-**HP:** 120 **AC:** 14 **Speed:** 60 (fly). **Abilities:** *Papercut* (High crit range), *Fold* (Changes size).
+**HP:** 120 **AC:** 14 **Speed:** 60 (fly).
+**Attack:** +5 to hit, 6d8 slashing
+**Size:** large
+**Vulnerabilities:** fire
+**Abilities:** *Papercut* (High crit range), *Fold* (Changes size).
 
 ### 9. Living Storm (CR 8)
-**HP:** 150 **AC:** 16 **Speed:** 100 (fly). **Abilities:** *Thunderclap* (Stun), *Rain of Acid*.
+**HP:** 150 **AC:** 16 **Speed:** 100 (fly).
+**Attack:** +6 to hit, range 120 ft, 9d8 lightning
+**Size:** huge
+**Resistances:** lightning, thunder
+**Abilities:** *Thunderclap* (Stun), *Rain of Acid*.
 
 ### 10. Void Leech (CR 1)
-**HP:** 10 **AC:** 11 **Speed:** 40 (fly). **Abilities:** *Drain Magic* (Reduces spell slots), *Latch*.
+**HP:** 10 **AC:** 11 **Speed:** 40 (fly).
+**Attack:** +3 to hit, 1d6 necrotic
+**Size:** small
+**Abilities:** *Drain Magic* (Reduces spell slots), *Latch*.
 
 
 [TAG: ENCOUNTER_TABLE]
