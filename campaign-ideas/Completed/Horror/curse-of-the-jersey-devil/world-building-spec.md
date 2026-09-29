@@ -14,7 +14,7 @@ This document is the primary instruction set for the world-building AI pipeline.
 *   **Directive:** The Lore Generation Agent must create detailed entries for each of the following prompts. These entries will form the historical and cultural bedrock of the world.
 *   **Prompts:**
     *   Detail the founding of the Leeds family in the Pine Barrens during the colonial era and their initial prosperity.
-    *   Write the history of the pact made by Daniel Leeds with the devil lord Astaroth in exchange for wealth and power.
+    *   Write the history of the pact made by Damian Leeds with the devil lord Astaroth in exchange for wealth and power.
     *   Describe the night Mother Leeds gave birth to the thirteenth child and its transformation into the Jersey Devil.
     *   Explain how the curse works: the mechanism of inheritance and the conditions that trigger transformation.
     *   Detail the historical sightings and attacks attributed to the Jersey Devil over 300 years.
@@ -91,7 +91,7 @@ This document is the primary instruction set for the world-building AI pipeline.
         *   **Key Landmarks:** The collapsed main house, a preserved basement/cellar, the birth room where the first devil was born, a hidden ritual chamber.
         *   **Primary Inhabitants:** The Jersey Devil (lairs here), manifestations of the curse, possibly cult members.
         *   **Available Goods & Services:** None. This is a place of power and danger.
-        *   **Potential Random Encounters (x5):** Direct confrontation with the Jersey Devil, finding Daniel Leeds' original pact document, visions of the past (Mother Leeds' screams), cult ambush, discovering the ritual chamber.
+        *   **Potential Random Encounters (x5):** Direct confrontation with the Jersey Devil, finding Damian Leeds' original pact document, visions of the past (Mother Leeds' screams), cult ambush, discovering the ritual chamber.
         *   **Embedded Plot Hooks & Rumors (x3):** "The devil returns here every full moon." "The original pact is hidden in the cellar." "Mother Leeds' ghost still haunts the birth room."
         *   **Sensory Details:** Sight (Collapsed timbers, overgrown with vines, darkness), Sound (Rustling wings, distant growls, whispers of the past), Smell (Rot, blood, sulfur).
     *   **The Cult's Sanctuary:** A hidden chapel in the woods where the Devil Worshippers conduct rituals.
