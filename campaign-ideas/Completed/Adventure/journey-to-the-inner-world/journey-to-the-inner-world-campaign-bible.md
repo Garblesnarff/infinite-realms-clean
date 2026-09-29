@@ -311,60 +311,99 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 ## Bestiary
 ### 1. Yolk-Spawn (CR 2)
 (CR 2). **HP:** 45, **AC:** 13.
+**Attack:** +3 to hit, 1d6+1 acid
+**Speed:** 20
+**Size:** medium
 **Abilities:**
 *   **Passive: Unstable Form:** At the start of each of its turns, it gains a random new ability (e.g., wings, an extra arm, acid spit) that lasts until its next turn.
 *   **Action: Primordial Slam:** Melee attack. On hit, target takes 2d6 bludgeoning damage and must make a CON save or gain a minor, cosmetic mutation for 1 hour.
 
 ### 2. Crystal-Spinner (CR 4)
 (CR 4). **HP:** 60, **AC:** 16 (Natural Armor).
+**Attack:** +3 to hit, range 60 ft, 2d6 piercing
+**Speed:** 30
+**Size:** medium
+**Resistances:** piercing
 **Abilities:**
 *   **Passive: Razor-Sharp Edges:** Any creature hitting it with a melee attack takes 1d6 piercing damage.
 *   **Action: Crystalline Shards:** Ranged attack. Fires a volley of sharp crystals in a 15-foot cone. Creatures must make a DEX save, taking 4d6 piercing damage on a failure.
 
 ### 3. Echo-Bat (CR 3)
 (CR 3). **HP:** 50, **AC:** 14.
+**Attack:** +3 to hit, range 30 ft, 1d12+1 thunder
+**Speed:** 40
+**Size:** small
+**Immunities:** thunder
 **Abilities:**
 *   **Passive: Sound-Eater:** Immune to thunder damage. It heals for half of any thunder damage it would have taken.
 *   **Action: Sonic Shriek:** The bat emits a focused sonic blast at one creature. Target must make a CON save or take 3d8 thunder damage and be deafened for 1 minute.
 
 ### 4. Warden-Scarab (CR 5)
 (CR 5). Construct. **HP:** 75, **AC:** 17.
+**Attack:** +3 to hit, range 60 ft, 3d6 radiant
+**Speed:** 30
+**Size:** medium
+**Immunities:** poison
 **Abilities:**
 *   **Passive: Immutable Logic:** Immune to being charmed or frightened.
 *   **Action: Sealing Beam:** The scarab fires a beam of golden light. The target must make a WIS save or be partially petrified, having their speed reduced to 0 for 1 minute.
 
 ### 5. Fungal-Zombie (CR 2)
 (CR 2). Plant, Sporefolk thrall. **HP:** 40, **AC:** 12.
+**Attack:** +3 to hit, 1d8 poison
+**Speed:** 20
+**Size:** medium
+**Vulnerabilities:** fire
 **Abilities:**
 *   **Passive: Rapport Spores:** Any creature that starts its turn within 10 feet of the zombie must make a WIS save or be unable to attack the zombie, believing it to be a friend.
 *   **Action: Pacifying Spores:** The zombie releases a puff of spores at one creature. The target must make a CON save or fall into a peaceful, magical sleep for 1 minute.
 
 ### 6. Grafted Horror (CR 7)
 (CR 7). Monstrosity, Flesh-Weaver graft. **HP:** 110, **AC:** 15.
+**Attack:** +4 to hit, 5d8 slashing
+**Speed:** 30
+**Size:** large
+**Resistances:** necrotic
 **Abilities:**
 *   **Passive: Mismatched Parts:** Has advantage on saves against being knocked prone or moved against its will.
 *   **Action: Multi-Attack:** Makes one attack with its crab-claw, one with its scorpion-tail, and one with its wolf-bite.
 
 ### 7. Blind-Worm Digger (CR 6)
 (CR 6). **HP:** 90, **AC:** 16, Burrow Speed 40ft.
+**Attack:** +3 to hit, 4d8 piercing
+**Speed:** 20
+**Size:** huge
 **Abilities:**
 *   **Passive: Tremorsense:** Can sense the location of any creature on the ground within 60 feet.
 *   **Action: Earth-Swallow:** The worm attempts to swallow a Medium or smaller creature. The target must make a DEX save or be swallowed. While swallowed, the creature is blinded, restrained, and takes 2d6 acid damage at the start of each of its turns.
 
 ### 8. Chaos-Mutant (CR 5)
 (CR 5). Humanoid, Yolk-Embracer. **HP:** 85, **AC:** 14.
+**Attack:** +3 to hit, range 60 ft, 3d6+1 force
+**Speed:** 30
+**Size:** medium
 **Abilities:**
 *   **Passive: Unstable Anatomy:** When hit with a critical hit, it explodes in a shower of gore and immediately reforms at the start of its next turn with full hit points.
 *   **Action: Chaotic Bolt:** Ranged spell attack. On hit, target takes 4d10 damage of a random type (roll a d8 for acid, cold, fire, force, lightning, poison, psychic, or thunder).
 
 ### 9. Living Crystal (CR 8)
 (CR 8). Elemental. **HP:** 130, **AC:** 17.
+**Attack:** +5 to hit, 6d8 slashing
+**Speed:** 20
+**Size:** large
+**Resistances:** slashing, piercing
+**Vulnerabilities:** thunder
 **Abilities:**
 *   **Passive: Crystalline Resonance:** When it takes thunder damage, all creatures within 20 feet of it take half that damage.
 *   **Action: Imprison in Crystal:** The elemental touches a creature. The target must make a DEX save or be restrained as they are slowly encased in crystal. They must repeat the save at the end of each of their turns, becoming fully petrified on the third failure.
 
 ### 10. Core-Spawn (CR 9)
 (CR 9). Celestial. **HP:** 140, **AC:** 16.
+**Attack:** +6 to hit, range 120 ft, 8d8 radiant
+**Speed:** 30
+**Size:** large
+**Resistances:** radiant
+**Vulnerabilities:** necrotic
 **Abilities:**
 *   **Passive: Hatching Aura:** The area within 30 feet of it is difficult terrain as the ground itself writhes with nascent life.
 *   **Action: Beam of Pure Creation:** The spawn fires a beam of white-hot energy. The target must make a CON save, taking 8d8 radiant damage on a failure and being blinded for 1 minute. On a success, they take half damage.
