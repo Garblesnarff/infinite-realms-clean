@@ -9,11 +9,11 @@ Skydancer Kaia, attempting the first magically-enhanced BASE jump, accidentally 
 - **Length**: 2,000 kilometers across continent
 - **Width**: Varies, 10-100 kilometers
 - **Depth**: Functionally infinite; enters dimensional space after ~10km
-- **The Rim**: Chain of cities built on edges (Cloudfall, Edgewick, Plummeton, Vertigost, etc.)
+- **The Rim**: Chain of cities built on edges (Cloudfall, Edgewick, and other cliffside settlements)
 
 ### The Void Layers
 1. **Upper Air** (0-2km): Normal physics, training depth
-2. **Twilight Zone** (2-5km): Dimensional shimmer begins, weird physics
+2. **Dusk Layer** (2-5km): Dimensional shimmer begins, weird physics
 3. **The Between** (5-10km): Reality optional, magic wild
 4. **Deep Void** (10km+): Pure dimensional space, only entities and masters survive
 5. **The Core** (unknown depth): Where Void King exists
@@ -27,10 +27,10 @@ Skydancer Kaia, attempting the first magically-enhanced BASE jump, accidentally 
 - **Hierarchy**: Based on skill and Sacred Descents completed
 
 ### Factions
-- **Purists** (Skydancer's): Traditional, spiritual, preservationist
+- **The Fallers** (Skydancer's, also called the Purists): Traditional, spiritual, preservationist
 - **Sky Demons** (Razor Wind's): Militaristic, control-focused, weaponization
 - **Void Friends** (Echo sympathizers): Want full integration with Void entities
-- **Thrill Seekers**: Just in it for the adrenaline, politically neutral
+- **The Draft-Dodgers**: Neutral debris scavengers, just in it to survive on their own terms
 
 ### The Nine Sacred Descents
 Each stabilizes a dimensional anchor point:
@@ -81,7 +81,7 @@ Five chancellors representing Rim Cities, rotating leadership. Current head: Ter
 
 ### Public Opinion
 - **Support**: Families who lost loved ones, business interests affected by incursions
-- **Opposition**: Fallers, Void sympathizers, indigenous peoples displaced by Shattering
+- **Opposition**: Fallers, Void sympathizers, the old sky-clans displaced by the Shattering
 - **Undecided**: Majority, swayed by propaganda vs reality
 
 ## Magic System
@@ -135,3 +135,14 @@ Achieved through absolute surrender to freefall plus technical skill:
 10. Is the Abyss growing?
 
 These provide campaign extension hooks and player-driven investigation opportunities.
+
+## 6. Causality Chains & Dynamic World States
+
+* IF the party completes all Nine Sacred Descents THEN the dimensional barrier stabilizes without sealing the Abyss.
+* IF the Sky Council's Barrier Project finishes before the Descents are complete THEN the Abyss seals, trapping the Void's refugees and ending Faller flight forever.
+* IF a character's Grit Meter drops to zero THEN they suffer a hallucination and must save each round until they land or recover.
+* IF the party raises their Faller Cred THEN Council Standing falls to match it, and the reverse is also true—the two cannot both run high.
+* IF a character's Void Corruption reaches 10 points THEN they gain a permanent mutation (transparent skin, floating hair, or similar).
+* IF Razor Wind learns his own bombing order killed his squadron, not the Void THEN he abandons the plan to weaponize the Abyss.
+* IF the party sides openly with Void Friends over the Sky Council THEN the Council brands them fugitives and sends Sky Demons after them.
+* IF the party carries Skydancer Kaia's true secret to the Void King THEN he reveals what the Void's refugees are truly fleeing.

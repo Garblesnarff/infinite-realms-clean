@@ -1,9 +1,13 @@
-# Wings of the Void - Creative Brief
+# Creative Brief: They said humans can't fly. The Abyss taught us otherwise.
+
+This brief sets the look, sound and feel of every asset for this campaign. It follows the campaign bible. Where they disagree, the bible wins.
+
+**Final art style:** not yet locked—selected by a style bake-off against this brief's direction, same as every other campaign.
 
 ## Visual Identity
 
-**Primary Aesthetic**: Liminal space photography meets wingsuit POV videos meets cosmic horror beauty
-- Endless Abyss with no visible bottom, dimensional shimmer at edges
+**Primary Aesthetic**: Liminal, vertiginous, and quietly cosmic—wingsuit-POV realism grounded in cosmic-horror wonder
+- The Abyss, with no visible bottom, dimensional shimmer at its edges
 - Wingsuits as prism-like fabric catching impossible light
 - Void entities as abstract, beautiful, alien geometry
 - Rim Cities: Vertigo-inducing architecture on cliff edges
@@ -11,7 +15,7 @@
 
 **Color Palette**:
 - **Upper Air**: Sky blue, cloud white, sun gold
-- **Twilight Zone**: Purple, orange twilight, dimensional shimmer (iridescent)
+- **Dusk Layer**: Purple, orange twilight, dimensional shimmer (iridescent)
 - **Deep Void**: Black, star-field silver, cosmic purple, ethereal green
 - **Flight Magic**: Contrails of cyan, sonic boom flash white, gravity ripples (distortion effect)
 - **Council**: Bureaucratic gray, warning red, sterile white
@@ -27,7 +31,7 @@
 ## Audio Design
 
 **Music**: Ambient electronic meets orchestral swells, silence as instrument
-- **Freefall**: Hans Zimmer meets Trent Reznor, building intensity
+- **Freefall**: Orchestral tension layered under an industrial electronic pulse, building with speed
 - **Void**: Ethereal, alien, use of unusual instruments and frequencies
 - **Action**: Driving electronic beats, heart-pounding
 - **Emotional**: Piano and strings, melancholic but hopeful
@@ -43,7 +47,7 @@
 
 ## Voice Acting
 
-**Skydancer Kaia**: Aged wisdom, peaceful, female voice with indigenous accent, speaks slowly
+**Skydancer Kaia**: Aged wisdom, peaceful, female voice, weathered and calm, speaks slowly
 **Razor Wind**: Military precision, male voice, suppressed emotion breaking through
 **Chancellor Terminus**: Bureaucratic, measured, genuinely concerned rather than villainous
 **Echo**: Layered, alien, gender-neutral, speaks in sensations described as words
