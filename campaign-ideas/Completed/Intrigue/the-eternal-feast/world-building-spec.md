@@ -322,49 +322,14 @@
 - Either strengthen seal forever
 - Or free the Hunger
 
-## Endings - Detailed Outcomes
+## Causality Chains & Dynamic World States
 
-### The Conservative Ending
-- Maintain status quo
-- Keep Hunger sealed
-- Restaurant continues
-- Safe but unchanged
-- Delay problem for next generation
-
-### The Integration Ending
-- Make Hunger regular customer
-- Feed it regularly at restaurant
-- Transform enemy into guest
-- Risky but brilliant
-- Requires perfect execution
-
-### The Liberation Ending
-- Free the Hunger completely
-- Negotiate new arrangement
-- Hunger becomes force of change
-- Dangerous but honest
-- Multiverse transformed
-
-### The Sacrifice Ending
-- Party member becomes new seal
-- Restaurant protected forever
-- Bittersweet victory
-- One stays, others leave
-- Emotional climax
-
-### The Transcendence Ending
-- Party and Hunger merge
-- Become new cosmic entity
-- Restaurant elevated to higher plane
-- Everyone ascends
-- Ultimate ending
-
-### The Tragic Ending
-- Hunger breaks free
-- Restaurant destroyed
-- Multiverse in chaos
-- Party failed but survived
-- Must live with consequences
+* IF the party maintains the status quo and keeps the Hunger sealed THEN the Conservative Ending: the restaurant continues, safe but unchanged, and the problem is delayed for the next generation.
+* IF the party makes the Hunger a regular customer and feeds it regularly at the restaurant THEN the Integration Ending: the enemy is transformed into a guest; it is risky but brilliant and requires perfect execution.
+* IF the party frees the Hunger completely and negotiates a new arrangement THEN the Liberation Ending: the Hunger becomes a force of change; it is dangerous but honest, and the multiverse is transformed.
+* IF a party member becomes the new seal THEN the Sacrifice Ending: the restaurant is protected forever in a bittersweet victory; one stays, the others leave, and the story reaches its emotional climax.
+* IF the party and the Hunger merge THEN the Transcendence Ending: they become a new cosmic entity, the restaurant is elevated to a higher plane, and everyone ascends; this is the ultimate ending.
+* IF the Hunger breaks free THEN the Tragic Ending: the restaurant is destroyed and the multiverse falls into chaos; the party has failed but survived and must live with the consequences.
 
 ## Secret Truths (GM Only)
 
