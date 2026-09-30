@@ -327,9 +327,9 @@
 * IF the party maintains the status quo and keeps the Hunger sealed THEN the Conservative Ending: the restaurant continues, safe but unchanged, and the problem is delayed for the next generation.
 * IF the party makes the Hunger a regular customer and feeds it regularly at the restaurant THEN the Integration Ending: the enemy is transformed into a guest; it is risky but brilliant and requires perfect execution.
 * IF the party frees the Hunger completely and negotiates a new arrangement THEN the Liberation Ending: the Hunger becomes a force of change; it is dangerous but honest, and the multiverse is transformed.
-* IF a party member becomes the new seal THEN the Sacrifice Ending: the restaurant is protected forever in a bittersweet victory; one stays, the others leave, and the story reaches its emotional climax.
-* IF the party and the Hunger merge THEN the Transcendence Ending: they become a new cosmic entity, the restaurant is elevated to a higher plane, and everyone ascends; this is the ultimate ending.
-* IF the Hunger breaks free THEN the Tragic Ending: the restaurant is destroyed and the multiverse falls into chaos; the party has failed but survived and must live with the consequences.
+* IF a party member accepts the offer to replace Sazón THEN the Sacrifice Ending: that party member becomes the new seal and the restaurant is protected forever in a bittersweet victory; one stays, the others leave, and the story reaches its emotional climax.
+* IF the party serves the Millennial Feast to perfection and feeds the Hunger their memories of working together THEN the Transcendence Ending: the party and the Hunger merge and become a new cosmic entity, the restaurant is elevated to a higher plane, and everyone ascends; this is the ultimate ending.
+* IF the Hunger Meter reaches 10 and the party cannot stop the Hunger in the final fight THEN the Tragic Ending: the Hunger breaks free, the restaurant is destroyed and the multiverse falls into chaos; the party has failed but survived and must live with the consequences.
 
 ## Secret Truths (GM Only)
 
