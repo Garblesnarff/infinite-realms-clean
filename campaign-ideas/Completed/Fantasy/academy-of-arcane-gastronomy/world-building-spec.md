@@ -169,39 +169,12 @@
 - Party must learn from this cautionary tale
 - Choice: Destroy knowledge or preserve with safeguards
 
-## Causality - Campaign Outcomes
+## Causality Chains & Dynamic World States
 
-### If Party Succeeds
-- Corruption purged from Academy
-- New ethical administration installed
-- Culinary magic continues with oversight
-- Hundreds of future students saved
-- Party becomes legendary alumni
-- Trust in institutions partially restored
-
-### If Party Fails
-- Ritual continues another cycle
-- More students harvested
-- Eventually: Discovery and scandal
-- Academy shut down permanently
-- Culinary magic stigmatized
-- Knowledge lost to fear
-
-### If Party Joins Corruption
-- Dark route: Embrace forbidden power
-- Become next generation of immortality seekers
-- Eventually: Self-destruction
-- But temporary godlike culinary powers
-- Pyrrhic victory over rivals
-- Loss of humanity
-
-### If Academy Destroyed
-- Building demolished in final battle
-- Knowledge scattered or lost
-- Culinary magic becomes rare, dangerous
-- Apprenticeship returns as teaching method
-- Safer but slower progress
-- Party must live with choice
+* IF the party succeeds THEN the corruption is purged from the Academy, a new ethical administration is installed, culinary magic continues with oversight, hundreds of future students are saved, the party becomes legendary alumni, and trust in institutions is partially restored.
+* IF the party fails THEN the ritual continues another cycle and more students are harvested; eventually discovery and scandal follow, the Academy is shut down permanently, culinary magic is stigmatized, and knowledge is lost to fear.
+* IF the party joins the corruption THEN they take the dark route: they embrace forbidden power and become the next generation of immortality seekers, gaining temporary godlike culinary powers and a pyrrhic victory over rivals, at the cost of their humanity and, eventually, self-destruction.
+* IF the Academy is destroyed THEN the building is demolished in the final battle, knowledge is scattered or lost, culinary magic becomes rare and dangerous, apprenticeship returns as the teaching method (safer but slower progress), and the party must live with the choice.
 
 ## Secret Truths (GM Only)
 
