@@ -103,17 +103,29 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 8.  **The Sour Knight** (Human Mercenary) - A warrior who believes all flavor must be earned through suffering. **Voice:** A harsh, cynical voice, full of bitterness. **Goal:** To inflict suffering on all who seek pleasure. **Secret:** He was once a renowned chef who lost his sense of taste.
 9.  **The Harmonious Chef** (Human Umami Collective) - A being who seeks to balance all flavors. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious dish. **Secret:** They are slowly losing their own flavor.
 10. **The Divine Taster** (Celestial Flavor Guardian) - A being whose palate is directly connected to the First Palate. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of flavor. **Secret:** They are slowly losing their own divinity.
+*   *HP:* 90.
+*   *AC:* 17.
+*   *Attack:* +3 to hit, 5d6 radiant (divine palate strike)
 11. **Chef Ambrosius** (Human Legendary Chef) - A legendary chef who created the Recipe of Immortality. **Voice:** A calm, wise voice, full of ancient culinary secrets. **Goal:** To find the impossible ingredient. **Secret:** He is slowly losing his memory.
 12. **The Monotony's Disciple** (Human Monotony Cultist) - A fanatical cultist who seeks to spread blandness. **Voice:** A flat, emotionless monotone. **Goal:** To erase all taste from existence. **Secret:** They are secretly addicted to flavor.
 13. **The Spice Merchant** (Human Spice Lord) - A cunning merchant who traffics in rare spices. **Voice:** A smooth, persuasive voice, full of false promises. **Goal:** To get rich. **Secret:** He is secretly working for the Academy.
 14. **The Flavor-Elemental (Corrupted)** (Flavor-Elemental) - A Flavor-Elemental that has been corrupted by the Monotony. **Voice:** A distorted, discordant cacophony of tastes. **Goal:** To spread corruption. **Secret:** It is slowly losing its own flavor.
 15. **The Culinary Critic (Disgraced)** (Human Culinary Critic) - A disgraced critic who lost his Golden Spoon. **Voice:** A bitter, resentful voice. **Goal:** To regain his Golden Spoon. **Secret:** He is secretly working for the Monotony.
 16. **The Recipe Hunter** (Human Recipe Thief) - A master thief who specializes in stealing recipes. **Voice:** A sly, wheedling voice, full of false charm. **Goal:** To acquire the Recipe of Immortality. **Secret:** They are secretly working for the Academy.
+*   *HP:* 60.
+*   *AC:* 15 (studded leather).
+*   *Attack:* +3 to hit, 2d6 piercing (filleting knife)
 17. **The Sugar Golem** (Construct) - A golem made of hardened sugar, capable of unleashing devastating sugar-based attacks. **Voice:** A series of sweet, sticky crackles. **Goal:** To protect the Sugar Queen. **Secret:** It is slowly dissolving.
 18. **The Bitter End Mercenary** (Human Mercenary) - A mercenary who believes all flavor must be earned through suffering. **Voice:** A harsh, cynical voice, full of bitterness. **Goal:** To inflict suffering on all who seek pleasure. **Secret:** He is secretly addicted to pleasure.
+*   *HP:* 45.
+*   *AC:* 14 (studded leather).
+*   *Attack:* +3 to hit, 1d6+1 poison (bitter-coated blade)
 19. **The Umami Philosopher** (Human Umami Collective) - A philosopher who seeks to balance all flavors. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious dish. **Secret:** They are slowly losing their own flavor.
-20. **The First Palate's Herald** (Celestial Flavor Guardian) - A being whose palate is directly connected to the First Palate. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of flavor. **Secret:** They are slowly losing their own divinity.
-21. **Headmaster Goldwhisk** (Human Archchef) - The Academy's head, a kindly grandfather with something desperate underneath. **Voice:** Warm and unhurried, turning sinister only when he thinks no student is listening. **Goal:** Keep the Academy standing for one more generation. **Secret:** He discovered the founding technique 150 years ago and has not aged since.
+20. **Headmaster Goldwhisk** (Human Archchef) - The Academy's head, a kindly grandfather with something desperate underneath. **Voice:** Warm and unhurried, turning sinister only when he thinks no student is listening. **Goal:** Keep the Academy standing for one more generation. **Secret:** He discovered the founding technique 150 years ago and has not aged since.
+21. **The First Palate's Herald** (Celestial Flavor Guardian) - A being whose palate is directly connected to the First Palate. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of flavor. **Secret:** They are slowly losing their own divinity.
+*   *HP:* 110.
+*   *AC:* 17.
+*   *Attack:* +4 to hit, 5d8 radiant (herald's decree)
 
 [TAG: NPC_TIER_2]
 ### Minor NPCs (Table of 50)
@@ -125,13 +137,13 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Sour"** | Student | Academy Lab | His experiments always turn out bitter. |
 | **"Umami"** | Student | Academy Garden | Can grow plants that taste like anything. |
 | **"Bland"** | Student | Academy Dorms | His food always tastes like ash. |
-| **"Pepper"** | Spice Lord Thug | Spice Market | His breath smells like chili peppers. |
+| **"Pepper"** | Spice Lord Thug | Spice Market | His breath smells like chili peppers. *HP:* 20, *AC:* 12, *Attack:* +3 to hit, 1d6 fire (chili punch) |
 | **"Sugar"** | Sweet Tooth Cultist | Confectionary | Her skin is covered in sugar crystals. |
-| **"Bitter"** | Bitter End Mercenary | Training Grounds | His weapons are coated in a bitter poison. |
+| **"Bitter"** | Bitter End Mercenary | Training Grounds | His weapons are coated in a bitter poison. *HP:* 30, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 poison (poisoned blade) |
 | **"Harmonious"** | Umami Collective Member | Meditation Hall | Can balance any flavor with a single touch. |
 | **"Divine"** | First Palate's Chosen | Flavor-Vault | His tongue glows faintly. |
 | **"Chef"** | Academy Instructor | Academy Kitchen | His cooking always causes minor explosions. |
-| **"Thief"** | Recipe Thief | Academy Library | Can steal a recipe by simply looking at it. |
+| **"Thief"** | Recipe Thief | Academy Library | Can steal a recipe by simply looking at it. *HP:* 18, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 piercing (paring knife) |
 | **"Critic"** | Culinary Critic | Academy Dining Hall | His critiques are so harsh they can make food cry. |
 | **"Elemental"** | Flavor-Elemental | Spice Market | A small, sentient spice jar. |
 | **"Gourmand"** | Student | Academy Dining Hall | Can eat anything, no matter how disgusting. |
@@ -143,7 +155,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Healer"** | Student | Academy Med-Bay | Can heal any wound with a single bite. |
 | **"Historian"** | Student | Academy Library | Knows the history of every flavor. |
 | **"Librarian"** | Student | Academy Library | Guards the Academy's vast collection of recipes. |
-| **"Mage"** | Student | Academy Lab | Can cast spells that manipulate flavor. |
+| **"Mage"** | Student | Academy Lab | Can cast spells that manipulate flavor. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 force (taste bolt) |
 | **"Merchant"** | Student | Academy Market | Sells rare and exotic ingredients. |
 | **"Monk"** | Student | Academy Meditation Hall | Can meditate for days without eating. |
 | **"Navigator"** | Student | Academy Map Room | Can navigate the Flavor-Verse with a single taste. |
@@ -155,7 +167,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Singer"** | Student | Academy Music Hall | Her voice can manipulate flavors. |
 | **"Spy"** | Student | Academy Dorms | Can steal any secret with a single taste. |
 | **"Storyteller"** | Student | Academy Library | Can tell stories that evoke powerful flavors. |
-| **"Warrior"** | Student | Academy Training Grounds | Fights with flavor-infused weapons. |
+| **"Warrior"** | Student | Academy Training Grounds | Fights with flavor-infused weapons. *HP:* 22, *AC:* 14 (training armor), *Attack:* +3 to hit, 1d6 slashing (flavor-infused blade) |
 | **"Weaver"** | Student | Academy Art Studio | Can weave flavors into tapestries. |
 | **"Writer"** | Student | Academy Library | Writes recipes that can change reality. |
 | **"Zealot"** | Student | Academy Training Grounds | Fanatically devoted to a specific flavor. |
@@ -166,7 +178,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Dragon"** | Student | Academy Lab | A student who can breathe fire, but only when he eats spicy food. |
 | **"Giant"** | Student | Academy Kitchen | A student who is so big he can only cook with giant utensils. |
 | **"Goblin"** | Student | Academy Dorms | A student who is always trying to steal food. |
-| **"Orc"** | Student | Academy Training Grounds | A student who is always trying to fight. |
+| **"Orc"** | Student | Academy Training Grounds | A student who is always trying to fight. *HP:* 22, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (fists) |
 | **"Elf"** | Student | Academy Garden | A student who can communicate with plants. |
 | **"Dwarf"** | Student | Academy Forge | A student who can forge weapons from pure flavor. |
 | **"Halfling"** | Student | Academy Bakery | A student who can bake the most delicious pastries. |
