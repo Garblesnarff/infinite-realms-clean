@@ -4,7 +4,7 @@
 ### Campaign Overview
 
 **Campaign Type / Genre:** Fantasy / Magical Academy / Conspiracy
-**Estimated Length:** Epic Campaign — 35 sessions (4-year curriculum)
+**Estimated Length:** 12–16 sessions
 **Player Level Range:** Start **1** → Finish **12**
 **Tone (keywords):** wonder, academic pressure, rivalry, conspiracy, corruption, found family
 **Difficulty:** Medium
