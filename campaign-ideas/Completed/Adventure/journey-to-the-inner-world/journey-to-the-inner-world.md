@@ -3,7 +3,7 @@
 *An Adventure / Exploration / Weird Fantasy campaign — Hard difficulty*
 
 **Campaign Type / Genre:** Adventure / Exploration / Weird Fantasy
-**Estimated Length:** 12–16 sessions (each session ≈ 3–4 hours)
+**Estimated Length:** 12–17 sessions (each session ≈ 3–4 hours)
 **Player Level Range:** Start **1** → Finish **10**
 **Tone (keywords):** wondrous, dangerous, primordial, strange, cosmic
 **Difficulty:** Hard
