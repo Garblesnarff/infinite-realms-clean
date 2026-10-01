@@ -323,42 +323,82 @@ He is not alone in the mirror. Darian Ashcombe, the mastermind pulling together 
 ### Custom Monsters
 ### 1. Card Shark (CR 1)
 (CR 1). Monstrosity. **HP:** 22, **AC:** 13.
+**Attack:** +3 to hit, 1d6 slashing
+**Speed:** 30
+**Size:** medium
+**Vulnerabilities:** fire
 **Paper Cut.** Melee attacks cause the target to bleed 1d4 at the start of its turns until bandaged. **Shuffle.** Once per short rest, teleports up to 15 feet to an unoccupied space it can see.
 
 ### 2. Table Mimic (CR 2)
 (CR 2). Monstrosity (Shapechanger). **HP:** 39, **AC:** 12.
+**Attack:** +3 to hit, 1d8 piercing
+**Speed:** 20
+**Size:** large
 **False Felt.** Indistinguishable from an ordinary gaming table until it attacks. **Sticky Grapple.** A creature hit by its bite is grappled (escape DC 13) and takes 1d6 damage at the start of each of its turns.
 
 ### 3. Whisper Shade (CR 3)
 (CR 3). Undead. **HP:** 45, **AC:** 15.
+**Attack:** +3 to hit, 1d8 necrotic
+**Speed:** 40
+**Size:** medium
+**Resistances:** necrotic
+**Vulnerabilities:** radiant
 **Incorporeal Movement.** Can move through objects and creatures as difficult terrain. **Silencing Touch.** On a hit, casts silence centered on the target for 1 minute, no save.
 
 ### 4. Roulette Spider (CR 4)
 (CR 4). Monstrosity. **HP:** 58, **AC:** 16.
+**Attack:** +3 to hit, 2d6 poison
+**Speed:** 30
+**Size:** large
 **Dizzying Gaze.** A creature that starts its turn within 30 feet and can see the spider's eyes must succeed a Wisdom save or have disadvantage on its next attack roll. **Web of Odds.** Ranged web attack; on a hit, restrains the target, who must call a number 1 to 6 correctly to escape a round early.
 
 ### 5. Neon Elemental (CR 5)
 (CR 5). Elemental. **HP:** 68, **AC:** 13.
+**Attack:** +3 to hit, range 60 ft, 2d6 radiant
+**Speed:** 40
+**Size:** medium
+**Resistances:** radiant
 **Blinding Glow.** Creatures that start their turn within 10 feet must succeed a Constitution save or be blinded until the start of their next turn. **Light Lance.** Ranged spell attack, 4d6 radiant damage.
 
 ### 6. Luck-Eater (CR 5)
 (CR 5). Aberration. **HP:** 76, **AC:** 15.
+**Attack:** +3 to hit, 3d6 psychic
+**Speed:** 30
+**Size:** medium
+**Resistances:** psychic
 **Aura of Misfortune.** Creatures within 20 feet have disadvantage on ability checks and saves tied to luck-based rules, including spending Luck Points. **Devour Luck.** On a hit, the target's next d20 roll this encounter is reduced by 1d4, and the Luck-Eater heals that amount.
 
 ### 7. Gilded Ooze (CR 6)
 (CR 6). Ooze. **HP:** 90, **AC:** 10.
+**Attack:** +3 to hit, 4d8 acid
+**Speed:** 20
+**Size:** large
+**Resistances:** acid
 **Corrosive Wealth.** Damage from its slam degrades non-magical armor by 1 point of AC, minimum 10, until repaired. **Engulf.** Can attempt to engulf a Medium or smaller creature it hits, dealing ongoing acid damage each turn the target remains inside.
 
 ### 8. Jackpot Golem (CR 6)
 (CR 6). Construct. **HP:** 102, **AC:** 18.
+**Attack:** +4 to hit, range 30 ft, 5d8 bludgeoning
+**Speed:** 30
+**Size:** large
+**Resistances:** force
 **Jackpot.** Whenever the golem scores a critical hit, it discharges a burst of Chance-Matter dealing 4d6 force damage to everyone within 10 feet, including itself. **Coin Spray.** A 15-foot cone of bludgeoning coin-fire, 3d8 damage, Dexterity save for half.
 
 ### 9. Bouncer Construct (CR 7)
 (CR 7). Construct. **HP:** 120, **AC:** 20.
+**Attack:** +5 to hit, 6d8 bludgeoning
+**Speed:** 25
+**Size:** large
+**Resistances:** bludgeoning
+**Vulnerabilities:** lightning
 **Deny Entry.** Cannot be moved, knocked prone, or pushed through a doorway it is guarding. **Toss.** On a hit, can throw a Medium or smaller creature up to 30 feet, dealing 3d6 bludgeoning damage on landing.
 
 ### 10. The Probability Drake (CR 8)
 (CR 8). Dragon, Unique. **HP:** 168, **AC:** 19.
+**Attack:** +6 to hit, range 60 ft, 10d8 force
+**Speed:** 40
+**Size:** huge
+**Resistances:** force
 **Reality Warping.** Immune to critical hits; a natural 20 against it is treated as a normal hit instead. **Breath of Chaos.** A 30-foot cone; each creature caught rolls a d8 to determine damage type (1 fire, 2 cold, 3 lightning, 4 acid, 5 poison, 6 psychic, 7 radiant, 8 necrotic), 8d6 damage, Dexterity save for half. This is the Anchor given shape at the eclipse, and it appears only in the campaign's final session.
 
 [TAG: ENCOUNTER_TABLE]
