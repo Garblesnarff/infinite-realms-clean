@@ -104,27 +104,81 @@ The Hunger is not evil; it is **entropic blandness**. It wants to turn the vibra
 ### Major NPCs (20 Profiles)
 
 1.  **Remy "The Manager"** (Changeling Rogue) - Calm, unshakeable, hiding extreme stress. **Voice:** Smooth, radio-host baritone, drops to static when angry. **Goal:** Hide Sazón's death. **Secret:** He is a construct made of menus.
+*   *HP:* 45.
+*   *AC:* 14 (studded leather).
+*   *Attack:* +3 to hit, 1d6+1 piercing (carving knife)
 2.  **Balthazar** (Ifrit Barbarian/Chef) - Volatile perfectionist. **Voice:** Gordon Ramsay meets a roaring bonfire. **Goal:** Cook a dish that makes a god cry. **Secret:** Is allergic to pepper.
+*   *HP:* 80.
+*   *AC:* 14.
+*   *Attack:* +3 to hit, 2d8+2 fire (flaming cleaver)
 3.  **Whisper** (Shadow Elemental Warlock) - Ethereal server. **Voice:** Echoing, multi-tonal, like two people speaking at once. **Goal:** Collect secrets as tips. **Secret:** Spy for the Cosmic Council.
+*   *HP:* 60.
+*   *AC:* 14.
+*   *Attack:* +3 to hit, 2d6 necrotic (shadow lash)
 4.  **Dishwasher Prime** (Awakened Gelatinous Cube) - Cheerful, bubbling. **Voice:** Wet, gurgling, enthusiastic. **Goal:** Eat the "Forbidden Grease." **Secret:** Is the avatar of a dead god.
+*   *HP:* 60.
+*   *AC:* 10.
+*   *Attack:* +3 to hit, 2d6 acid (engulfing slam)
 5.  **Vintage** (High Elf Bard/Sommelier) - Snobbish but shaky. **Voice:** Haughty, British RP, slurs slightly. **Goal:** Find the bottle of "Year Zero." **Secret:** Drank a memory of a murder to hide it.
+*   *HP:* 30.
+*   *AC:* 13 (leather).
+*   *Attack:* +3 to hit, 1d6 psychic (vicious mockery)
 6.  **Sweetness** (Dryad Druid) - Shy, literally blooms when praised. **Voice:** Whispery, sounds like rustling leaves. **Goal:** Bake a cake that stops a war. **Secret:** Her flour is ground bone.
+*   *HP:* 45.
+*   *AC:* 13.
+*   *Attack:* +3 to hit, 1d6+1 piercing (thorn whip)
 7.  **Doorkeeper** (Stone Golem) - Stoic, immobile. **Voice:** Grinding rocks, slow tempo. **Goal:** Let no one in without a reservation. **Secret:** Is in love with a gargoyle in the Chaos dimension.
+*   *HP:* 90.
+*   *AC:* 16.
+*   *Attack:* +3 to hit, 5d6 bludgeoning (stone fist)
 8.  **Lord Diabolo** (Pit Fiend) - Polite, dapper. **Voice:** Deep bass, velvet smooth, articulate. **Goal:** Enjoy a soufflé in peace. **Secret:** Hates the screams of the damned; prefers jazz.
+*   *HP:* 120.
+*   *AC:* 18.
+*   *Attack:* +5 to hit, 6d8+2 fire (hellfire rebuke)
 9.  **Saint Celestia** (Solar Angel) - Passive-aggressive, glowing. **Voice:** Resonant, overly cheerful, judgmental. **Goal:** Prove Light cuisine is superior. **Secret:** Addicted to "Sin-Berries."
+*   *HP:* 120.
+*   *AC:* 18.
+*   *Attack:* +5 to hit, 6d8+2 radiant (searing rebuke)
 10. **Dragon Goldscale** (Ancient Gold Dragon) - Hoarder of recipes. **Voice:** Smaug but like a kindly grandfather. **Goal:** Eat a dish he hasn't tasted in 4,000 years. **Secret:** Has lost his sense of taste; pretends to like things.
+*   *HP:* 140.
+*   *AC:* 18.
+*   *Attack:* +6 to hit, 8d6+6 fire (fire breath)
 11. **The Wanderer** (Human? Chronomancer) - Confused, anachronistic. **Voice:** Fast, manic, switches accents mid-sentence. **Goal:** Warn the party about next Tuesday. **Secret:** Is the party leader's future child.
+*   *HP:* 60.
+*   *AC:* 13 (robes).
+*   *Attack:* +3 to hit, 2d6 force (time snap)
 12. **Chef Mordant** (Tiefling Warlock) - Rival chef, bitter. **Voice:** Sharpening knife on steel, cold, metallic. **Goal:** Open the seal to source "Void Meat." **Secret:** Sazón's rejected apprentice.
+*   *HP:* 110.
+*   *AC:* 15.
+*   *Attack:* +4 to hit, 5d8 necrotic (void carver)
 13. **Lady Glaze** (Ice Queen) - Brittle, freezing. **Voice:** Glass cracking, high pitch. **Goal:** Order a soup that is absolute zero. **Secret:** Is melting slowly.
+*   *HP:* 80.
+*   *AC:* 15.
+*   *Attack:* +3 to hit, 2d8+2 cold (freezing touch)
 14. **Gorgonzola the Stinky** (Troll Gourmand) - Rotund, philosophically deep. **Voice:** Deep, wet, slow, guttural. **Goal:** Eat the stinkiest cheese in existence. **Secret:** Is a prince under a curse.
+*   *HP:* 85.
+*   *AC:* 14.
+*   *Attack:* +3 to hit, 2d8+2 poison (rancid bite)
 15. **Unit 734** (Cogwright Waiter) - Glitchy, precise. **Voice:** Autotuned, robotic, stutters on "irrational" concepts. **Goal:** Organise the silverware. **Secret:** Has developed a soul.
 16. **The Void-Maw** (Hunger Warlock) - Cultist disguised as a customer. **Voice:** Raspy, breathless, like inhaling constantly. **Goal:** Sabotage the stove. **Secret:** Has a mouth on his palm.
+*   *HP:* 60.
+*   *AC:* 13 (robes).
+*   *Attack:* +3 to hit, 2d6 necrotic (hungering grasp)
 17. **Madame Mushroom** (Myconid Sovereign) - Telepathic, motherly. **Voice:** Felt in the head, warm, fuzzy. **Goal:** Spread spores to the salad bar. **Secret:** Her spores induce hallucinations of home.
+*   *HP:* 60.
+*   *AC:* 14.
+*   *Attack:* +3 to hit, 2d6 poison (hallucinating spores)
 18. **Sir Loin** (Minotaur Paladin) - Honorable, vegetarian. **Voice:** Booming, bovine, proud. **Goal:** Prove cows are friends, not food. **Secret:** Craves hamburgers.
+*   *HP:* 60.
+*   *AC:* 16 (plate).
+*   *Attack:* +3 to hit, 2d6 piercing (gore)
 19. **Flicker** (Fire Beetle Familiar) - Mascot. **Voice:** Clicks and hisses (needs translator). **Goal:** Find crumbs. **Secret:** Can breathe nuclear fire once per year.
 20. **The Old Man** (Human Commoner?) - Unremarkable. **Voice:** Wheezy, quiet. **Goal:** Just wants toast. **Secret:** He is the physical anchor of the Restaurant. If he dies, it vanishes.
 21. **Head Chef Balthazar** (Human Chef) - Runs the kitchen absolutely and teaches the party every advanced technique they will need. **Voice:** Explosive, carrying, drops to a whisper when he is actually angry. **Goal:** Get this brigade good enough to survive without him. **Secret:** He intends to be the sacrifice in the finale, and has already decided.
 22. **Quill** (Kenku Critic) - Leader of the Critics' Circle, who delivers every judgement in a borrowed voice. **Voice:** Mimicry, most often the voice of God. **Goal:** Find the Perfect Meal. **Secret:** Three disappointments and he authorises the Hunger to feed; he is on two.
+*   *HP:* 75.
+*   *AC:* 14.
+*   *Attack:* +3 to hit, 2d8+2 psychic (voice-of-god verdict)
 
 [TAG: NPC_TIER_2]
 ### Minor NPCs (Table of 50)
