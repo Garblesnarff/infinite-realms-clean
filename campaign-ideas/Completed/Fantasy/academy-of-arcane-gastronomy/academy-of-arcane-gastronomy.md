@@ -3,6 +3,15 @@
 
 ### Campaign Overview
 
+**Campaign Type / Genre:** Fantasy / Magical Academy / Conspiracy
+**Estimated Length:** 12–16 sessions
+**Player Level Range:** Start **1** → Finish **12**
+**Tone (keywords):** wonder, academic pressure, rivalry, conspiracy, corruption, found family
+**Difficulty:** Medium
+**Core Premise (2–4 sentences):** The party arrives as first-year students at the Academy of Arcane Gastronomy, the realm's most prestigious school for chef-mages. When students show strange magical afflictions after eating in the Grand Dining Hall and a beloved professor disappears, the party uncovers a conspiracy of forbidden flavor-binding. The founding headmaster discovered that food magic, pushed to its limits, can grant immortality, at a cost that would destroy everything the school stands for.
+
+---
+
 The Academy of Arcane Gastronomy is the most prestigious culinary school in the realm, where only the most talented young chefs are admitted to learn the secret art of binding magic to food. For centuries, the Academy has trained the realm's greatest chef-mages, those rare individuals who can infuse their cooking with arcane power to create dishes that heal wounds, grant abilities, or even alter reality. The party arrives as first-year students, each with their own dreams of culinary greatness, but they quickly discover that the Academy holds darker secrets than burned soufflés.
 
 When students begin manifesting strange magical afflictions after eating in the Grand Dining Hall, and a beloved professor disappears under mysterious circumstances, the party must navigate not just their rigorous coursework and bitter rival houses, but an conspiracy that threatens to corrupt the very foundation of culinary magic. Someone is experimenting with forbidden flavor-binding techniques that turn food into poison and students into test subjects. As they advance through years of study, the party will uncover that the Academy's founding headmaster discovered a terrible truth: Food magic, when pushed to its limits, can grant immortality - but at a cost that would destroy everything the school stands for.
