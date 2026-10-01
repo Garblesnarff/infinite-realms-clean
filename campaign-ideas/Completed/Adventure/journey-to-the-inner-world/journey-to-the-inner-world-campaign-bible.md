@@ -90,7 +90,13 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 3.  **The Luminous One** (Celestialborn Warlock) - Serene, detached, speaks in crystalline metaphors. **Voice:** Resonant, chiming, with a faint, musical echo. **Goal:** To achieve the final stage of crystal-transcendence by merging with the Core. **Secret:** The crystal transformation is slowly erasing its original personality and memories.
 4.  **Progenitor Prime** (Aberration Wizard) - A terrifying but intellectually brilliant being of mismatched limbs and organs. **Voice:** A chorus of several voices speaking at once, some gurgling, some clicking, some perfectly eloquent. **Goal:** To guide the evolution of all life towards a "perfect," final form. **Secret:** It is terrified of death and sees constant, forced evolution as the only way to cheat it.
 5.  **Sun-Speaker Kor** (Human Barbarian) - Primal, fierce, and deeply spiritual. **Voice:** A series of guttural clicks, growls, and deep hums that are translated by his "speaker" staff. **Goal:** To protect the Core and ensure the "Birth" happens naturally. **Secret:** He doesn't actually understand the Core's pulses; he's interpreting them based on his own intuition, and is terrified of being wrong.
+*   *HP:* 75.
+*   *AC:* 14 (hide armor).
+*   *Attack:* +3 to hit, 3d6 slashing (greataxe)
 6.  **Warden-Unit 9** (Construct Paladin) - Logical, relentless, and bound by its ancient programming. **Voice:** A monotone, synthesized voice, like a vintage text-to-speech program. **Goal:** To uphold its final command: "Seal the Way. Permit no passage." **Secret:** Its programming is degrading, and it has developed a "loophole" that might allow it to be convinced that destroying the Shell is a form of "sealing the way."
+*   *HP:* 85.
+*   *AC:* 17 (steel plating).
+*   *Attack:* +3 to hit, 3d6+1 radiant (smite slam)
 7.  **The First-Mutant** (Tiefling Mutant) - Charismatic, unstable, and wracked by constant, painful transformations. **Voice:** Constantly shifting in pitch and tone, sometimes breaking into a pained scream mid-sentence. **Goal:** To tear down the Great Seal and allow the Yolk's energy to "bless" the surface world with chaotic mutation. **Secret:** He is desperately searching for a way to stabilize his own form, which is slowly killing him.
 8.  **The Silent** (Ravenfolk Bard) - A being in a sound-dampening suit, communicates only through a device that plays back stolen sounds. **Voice:** A collage of sounds: a rockslide, a bird's call, a dying man's last words, a steam whistle. **Goal:** To record the "sound of creation" when the new Great Wyrm is born. **Secret:** It is a Progenitor who has been kept alive by its suit, and it wants to record the birth as a final apology to the universe for its people's hubris.
 9.  **The Great Mind-Spore** (Fungus) - A vast, ancient, and alien intelligence. **Voice:** A telepathic "voice" that feels like warm moss growing in your brain. **Goal:** To connect all living things into its peaceful, silent, thoughtless network. **Secret:** It is not native to the planet; it is a cosmic spore that landed on the egg long ago and has been waiting for it to hatch.
@@ -98,29 +104,38 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 11.  **Captain Eva Rostova** (Human Fighter) - A pragmatic, cynical Delver's Guild expedition leader. **Voice:** Gruff, no-nonsense, with a thick accent. **Goal:** To get her crew in, get the loot, and get out alive. **Secret:** She is secretly working for a rival corporation to sabotage Baron Finch's expedition.
 12.  **Dr. Tobias Venn** (Elf Wizard) - A brilliant but reckless academic on the expedition. **Voice:** Fast, excited, full of academic jargon. **Goal:** To be the first to categorize and document the Inner World's flora and fauna. **Secret:** He is the disgraced younger brother of a famous Guild navigator who vanished on an earlier expedition.
 13.  **Grak, the "Tame" Troglodyte** (Troglodyte Barbarian) - A member of the Children of the Core who acts as a guide. **Voice:** A series of clicks and grunts, but with surprisingly expressive eyes. **Goal:** To lead the "surface-dwellers" to their doom without them realizing it. **Secret:** He is actually highly intelligent and speaks perfect Common, but finds it amusing to pretend to be a simple-minded brute.
+*   *HP:* 45.
+*   *AC:* 13 (thick hide).
+*   *Attack:* +3 to hit, 1d8 bludgeoning (stone club)
 14.  **The Crystal-Hearted** (Dwarf Paladin) - A former Delver who has joined the Geode-Gnostics. **Voice:** Slow, deliberate, with a faint crystalline ringing. **Goal:** To convince others to embrace the "gift" of crystal transformation. **Secret:** He desperately misses the taste of beer and bread.
 15.  **The Bio-Scout** (Goblin Rogue) - A scout for the Flesh-Weavers, with multiple eyes and wings grafted to its back. **Voice:** A high-pitched, chittering sound. **Goal:** To collect genetic samples of surface-dwellers for its master. **Secret:** It wants to be "woven" into a new, more powerful form and is looking for a suitable "donor."
-16.  **Sentinel Joric** (Human Ranger) - A grim, determined scout for the Surface Sentinels. **Voice:** A low growl, speaks in clipped sentences. **Goal:** To map the weaknesses in the Great Seal's tunnels so they can be collapsed. **Secret:** His family was killed in the earthquake that opened the passage, and he is driven by pure revenge against the Inner World.
+*   *HP:* 18.
+*   *AC:* 13 (leather).
+*   *Attack:* +3 to hit, 1d6 piercing (bone dagger)
+16.  **Brother Ouroboros** (Dragonborn Cleric) - A member of the Society of the Blind Worm. **Voice:** A hissing, sibilant whisper. **Goal:** To find the "Heart of the Egg" and feed it to his worm-god. **Secret:** He believes the Great Wyrm at the end of the hatching will be his worm-god, and he will be its prophet.
 17.  **The Last Yolk-Embracer** (Deva Sorcerer) - An ancient, winged being who has lived in the Inner World for millennia. **Voice:** A sad, beautiful, melodic tone. **Goal:** To find a way for the Shell and Yolk to coexist. **Secret:** It was the one who convinced the Progenitors to first enter the Yolk, and it bears the guilt of all that has happened since.
 18.  **The Echo-Hunter** (Catfolk Ranger) - A mercenary who hunts sonic creatures for the Echo-Thieves. **Voice:** A purr-like, quiet voice, almost a whisper. **Goal:** To capture the "sound" of a specific, rare bird that only lives in the deepest caverns. **Secret:** The bird's song is the key to a Progenitor weapon.
 19.  **Mind-Spore Muriel** (Human Druid) - A surface-dweller who has joined the Sporefolk Sovereignty. **Voice:** A calm, flat, telepathic voice. **Goal:** To expand the Sovereignty's network to the surface world, believing it will bring peace. **Secret:** She is terrified of her own individuality being completely subsumed by the hive mind.
-20.  **Brother Ouroboros** (Dragonborn Cleric) - A member of the Society of the Blind Worm. **Voice:** A hissing, sibilant whisper. **Goal:** To find the "Heart of the Egg" and feed it to his worm-god. **Secret:** He believes the Great Wyrm at the end of the hatching will be his worm-god, and he will be its prophet.
+20.  **Sentinel Joric** (Human Ranger) - A grim, determined scout for the Surface Sentinels. **Voice:** A low growl, speaks in clipped sentences. **Goal:** To map the weaknesses in the Great Seal's tunnels so they can be collapsed. **Secret:** His family was killed in the earthquake that opened the passage, and he is driven by pure revenge against the Inner World.
+*   *HP:* 40.
+*   *AC:* 14 (studded leather).
+*   *Attack:* +3 to hit, 1d8 piercing (longbow)
 
 ### [TAG: NPC_TIER_2]
 | Name | Role | Location | Quirk (Low Probability) |
 |---|---|---|---|
 | **Boro** | Delver's Guild Rigger | The Great Drill | Chews on rocks instead of tobacco. |
-| **Cally** | Surface Sentinel Scout | The Fissure's Edge | Believes she can hear the Shell "groaning" in pain. |
+| **Cally** | Surface Sentinel Scout | The Fissure's Edge | Believes she can hear the Shell "groaning" in pain. *HP:* 18, *AC:* 13, *Attack:* +3 to hit, 1d6 piercing (shortbow) |
 | **Doro** | Geode-Gnostic Carver | The Crystal Caves | Carves sculptures that are only visible from the fourth dimension. |
 | **Eris** | Flesh-Weaver Stitcher | The Splicing Vats | Has a third arm that she uses exclusively for petting small animals. |
-| **Flin** | Child of the Core Hunter | The Bioluminescent Jungle | Wears a hat made from a still-living, glowing mushroom. |
+| **Flin** | Child of the Core Hunter | The Bioluminescent Jungle | Wears a hat made from a still-living, glowing mushroom. *HP:* 30, *AC:* 13, *Attack:* +3 to hit, 1d6 piercing (hunting spear) |
 | **Goro** | Warden-Unit | The First Gate | Can only count in prime numbers. |
 | **Hettie** | Yolk-Embracer Mutant | The Chaos Wastes | Her skin changes color and pattern based on the weather. |
 | **Ilo** | Echo-Thief Listener | The Resonant Canyons | Can hear the sound of colors. |
 | **Jex** | Sporefolk Spore-Bearer | The Fungal Forests | Communicates by releasing puffs of differently-scented spores. |
 | **Kael** | Blind Worm Initiate | The Worm Tunnels | Is actually a colony of sentient worms that have forgotten they are a colony. |
 | **Lila** | Delver's Guild Cook | The Mess Hall | Makes stew that tastes different with every spoonful. |
-| **Milo** | Surface Sentinel Saboteur | The Rope-Bridge | Is afraid of heights. |
+| **Milo** | Surface Sentinel Saboteur | The Rope-Bridge | Is afraid of heights. *HP:* 18, *AC:* 13, *Attack:* +3 to hit, 1d6 fire (alchemist's fire) |
 | **Nena** | Geode-Gnostic Polisher | The Hall of Facets | Believes each crystal facet is a gateway to another world. |
 | **Orin** | Flesh-Weaver Beast-Handler | The Menagerie | Has replaced his own eyes with those of a cat for better night vision. |
 | **Pip** | Child of the Core Gatherer | The Sun-Fruit Grove | Can ask plants for permission before picking their fruit. |
@@ -145,7 +160,7 @@ The metaphysical conflict is a battle between Order and Chaos, Stability and Cre
 | **Iona** | Sporefolk Diplomat | The Neutral Zone | Its "head" is a beautiful, glowing flower that entrances those who look at it. |
 | **Jax** | Blind Worm Scout | The Surface Wastes | Wears a suit filled with dirt from his home tunnel. |
 | **Kaelen** | Delver's Guild Quartermaster | The Supply Depot | Is obsessed with perfect, symmetrical organization. |
-| **Lyra** | Surface Sentinel Archer | The High Ledges | Uses arrows fletched with her own hair. |
+| **Lyra** | Surface Sentinel Archer | The High Ledges | Uses arrows fletched with her own hair. *HP:* 18, *AC:* 13, *Attack:* +3 to hit, 1d6 piercing (shortbow) |
 | **Mort** | Geode-Gnostic Guide | The Crystal Labyrinth | Is slowly forgetting his original language, replacing it with crystalline chimes. |
 | **Nym** | Flesh-Weaver Surgeon | The Chirurgeon's Tent | Has fingers that can split into smaller, more precise surgical tools. |
 | **Olen** | Child of the Core Elder | The Story-Cave | His cave-paintings move and re-enact the stories he tells. |
@@ -316,7 +331,7 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 **Size:** medium
 **Abilities:**
 *   **Passive: Unstable Form:** At the start of each of its turns, it gains a random new ability (e.g., wings, an extra arm, acid spit) that lasts until its next turn.
-*   **Action: Primordial Slam:** Melee attack. On hit, target takes 2d6 bludgeoning damage and must make a CON save or gain a minor, cosmetic mutation for 1 hour.
+*   **Action: Primordial Slam:** Melee attack. On hit, target takes 1d6+1 acid damage and must make a CON save or gain a minor, cosmetic mutation for 1 hour.
 
 ### 2. Crystal-Spinner (CR 4)
 (CR 4). **HP:** 60, **AC:** 16 (Natural Armor).
@@ -384,7 +399,7 @@ The region immediately surrounding the Inner World's "sun," a place of intense l
 **Size:** medium
 **Abilities:**
 *   **Passive: Unstable Anatomy:** When hit with a critical hit, it explodes in a shower of gore and immediately reforms at the start of its next turn with full hit points.
-*   **Action: Chaotic Bolt:** Ranged spell attack. On hit, target takes 4d10 damage of a random type (roll a d8 for acid, cold, fire, force, lightning, poison, psychic, or thunder).
+*   **Action: Chaotic Bolt:** Ranged spell attack (range 60 ft). On hit, target takes 3d6+1 force damage as the bolt's wild energies collapse into pure force.
 
 ### 9. Living Crystal (CR 8)
 (CR 8). Elemental. **HP:** 130, **AC:** 17.

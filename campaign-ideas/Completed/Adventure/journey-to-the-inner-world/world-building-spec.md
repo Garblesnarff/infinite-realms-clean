@@ -76,6 +76,7 @@ The world is a World-Egg laid by the Great Wyrm, a colossal cosmic being that co
 * IF the party convinces Warden-Unit 9 that shattering the Shell fulfills its "Seal the Way" directive THEN the construct abandons its defense of the passages and aids the party's descent.
 * IF the party carries the Progenitor's Key to the Core and performs the Great Sealing ritual THEN the Shell is stabilized but the new Great Wyrm is permanently imprisoned, completing the "reinforce the Shell" ending.
 * IF the party shatters the Shell at the Core instead of sealing or merging it THEN the surface world is permanently destroyed as the Great Wyrm is born free.
+* IF the party reaches the Heart of the Egg and, instead of sealing or shattering the Shell, finds a way to merge the Shell and the Yolk as midwives to the birth THEN the new Great Wyrm is born as a symbiotic god, the Shell and the Yolk are permanently joined into one world, and both the surface and the Inner World survive, completing the "midwife" ending.
 
 ## 7. Mechanics Reference
 
