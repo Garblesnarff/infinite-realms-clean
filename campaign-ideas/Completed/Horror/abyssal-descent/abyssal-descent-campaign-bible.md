@@ -98,6 +98,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 30.
 *   *AC:* 12 (robes).
 *   *Attack:* +3 to hit, 1d6 fire (fire bolt)
+*   *Encounters:* group: default; with: Captain Sarah Reeves; morale: default
 
 **2. Captain Sarah Reeves** (Human Fighter) - Stoic, scarred, pragmatic.
 *   **Voice:** Low, raspy, clipped military cadence. No contractions.
@@ -106,6 +107,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 45.
 *   *AC:* 15 (chain shirt).
 *   *Attack:* +3 to hit, 1d8 slashing (longsword)
+*   *Encounters:* group: default; with: Professor Emil Darkwater; morale: default
 
 **3. "Rat" Kincaid** (Halfling Rogue) - Nervous, superstitious, greedy.
 *   **Voice:** Whiny, nasally, constantly sniffing.
@@ -114,6 +116,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 18.
 *   *AC:* 13 (leather).
 *   *Attack:* +3 to hit, 1d6 piercing (shortsword)
+*   *Encounters:* group: default; with: "Iron" Jawn; morale: default
 
 **4. Brother Olam** (Dwarf Cleric) - Pessimistic, drunkard, mourning.
 *   **Voice:** Deep, slurred, slow. Heavy breathing between words.
@@ -132,6 +135,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 80.
 *   *AC:* 14.
 *   *Attack:* +3 to hit, 2d8+2 psychic (mind-rending whisper)
+*   *Encounters:* group: default; with: default; morale: default
 
 **7. "Iron" Jawn** (Goliath Barbarian) - Gentle giant, claustrophobic.
 *   **Voice:** Booming but trembling. Stammers when stressed.
@@ -140,6 +144,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 60.
 *   *AC:* 13.
 *   *Attack:* +3 to hit, 2d6 bludgeoning (maul)
+*   *Encounters:* group: default; with: "Rat" Kincaid; morale: default
 
 **8. Sister Vola** (Tiefling Paladin) - Fanatical, burning, intense.
 *   **Voice:** Sharp, commanding, bordering on shouting.
@@ -148,6 +153,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 60.
 *   *AC:* 16 (chain mail).
 *   *Attack:* +3 to hit, 2d6 radiant (divine smite)
+*   *Encounters:* group: default; with: default; morale: fights to the death
 
 **9. Xal the Mapper** (Kenku Ranger) - Silent, mimics sounds of the cave.
 *   **Voice:** Only speaks in the recorded voices of dead party members.
@@ -156,6 +162,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 30.
 *   *AC:* 13 (leather).
 *   *Attack:* +3 to hit, 1d6 piercing (shortbow)
+*   *Encounters:* group: default; with: default; morale: default
 
 **10. Lady Elara** (Noble Patron) - Haughty, out of place, terrified.
 *   **Voice:** Posh, trembling, indignant.
@@ -169,6 +176,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 45.
 *   *AC:* 15 (chain shirt).
 *   *Attack:* +3 to hit, 1d8 slashing (longsword)
+*   *Encounters:* group: default; with: Captain Sarah Reeves; morale: fights to the death
 
 **12. "Click"** (Warforged Artificer) - Malfunctioning, glitchy logic.
 *   **Voice:** Metallic, synthesized, skips syllables.
@@ -187,6 +195,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 40.
 *   *AC:* 13.
 *   *Attack:* +3 to hit, 1d6+1 slashing (claws)
+*   *Encounters:* group: default; with: default; morale: default
 
 **15. Spore-Lord Vex** (Myconid Hybrid) - Euphoric, hazy.
 *   **Voice:** Dreamy, echoes slightly (magical effect).
@@ -195,6 +204,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 60.
 *   *AC:* 14.
 *   *Attack:* +3 to hit, 2d6 poison (spore burst)
+*   *Encounters:* group: default; with: default; morale: default
 
 **16. Curator Phineus** (Gnome Wizard) - Mad, ink-stained mouth.
 *   **Voice:** Cackling, whispers secrets, shifts pitch randomly.
@@ -203,6 +213,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 45.
 *   *AC:* 12 (robes).
 *   *Attack:* +3 to hit, 1d8 psychic (psychic lash)
+*   *Encounters:* group: default; with: default; morale: default
 
 **17. Zero** (Human Monk) - Blank, emotionless.
 *   **Voice:** Flat. Zero inflection.
@@ -211,6 +222,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 30.
 *   *AC:* 14.
 *   *Attack:* +3 to hit, 1d6 bludgeoning (unarmed strike)
+*   *Encounters:* group: default; with: default; morale: default
 
 **18. The Stitch-Master** (Duergar Rogue) - Sadistic, clinical.
 *   **Voice:** Raspy, sounds like sharpening knives.
@@ -219,6 +231,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 45.
 *   *AC:* 14 (studded leather).
 *   *Attack:* +3 to hit, 1d6+1 slashing (surgical blade)
+*   *Encounters:* group: default; with: default; morale: default
 
 **19. Valerius** (High Elf Sorcerer) - Arrogant, inverted.
 *   **Voice:** Haughty, speaks as if looking down on you (even if below).
@@ -227,6 +240,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 80.
 *   *AC:* 13 (robes).
 *   *Attack:* +3 to hit, 2d8+2 force (gravity lash)
+*   *Encounters:* group: default; with: default; morale: default
 
 **20. The Corpse of Expedition Beta** (Undead) - Warning.
 *   **Voice:** A magically preserved mouth that repeats "Turn back."
@@ -240,6 +254,7 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 *   *HP:* 60.
 *   *AC:* 13 (robes).
 *   *Attack:* +3 to hit, 2d6 force (repulsion burst)
+*   *Encounters:* group: default; with: inverted gravity (lives on ceilings); morale: default
 
 `[TAG: NPC_TIER_2]`
 ### Minor NPC Table (High Density)
@@ -249,35 +264,35 @@ The conflict exists because the Siphon feeds on **Ordered Reality**. The descent
 | **Born** | Porter | Base Camp | Collects finger bones in a velvet pouch. |
 | **Silas** | Cook | Base Camp | Can only taste things that are rotting. |
 | **Mina** | Scout | The Drop | Refuses to walk on stone; lays rugs down first. |
-| **Oric** | Guard | The Drop | Hums a lullaby that attracts bats. *HP:* 18, *AC:* 14 (chain shirt), *Attack:* +3 to hit, 1d6 slashing (shortsword) |
+| **Oric** | Guard | The Drop | Hums a lullaby that attracts bats. *Encounters:* group: default; with: The Chiropteran Hulk; morale: default. *HP:* 18, *AC:* 14 (chain shirt), *Attack:* +3 to hit, 1d6 slashing (shortsword) |
 | **Krell** | Miner | Level 1 | Believes his pickaxe is his wife. |
 | **Vex** | Scribe | Level 1 | Writes exclusively in blood (his own). |
 | **Jinx** | Jester | Level 1 | Laughs whenever someone gets hurt. |
 | **Tor** | Smith | Level 1 | Forges nails into religious icons. |
 | **Lia** | Medic | Level 2 | Bandages healthy limbs "just in case." |
-| **Gorn** | Thug | Level 2 | Has a pet rock he claims speaks Elvish. *HP:* 22, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (club) |
+| **Gorn** | Thug | Level 2 | Has a pet rock he claims speaks Elvish. *Encounters:* group: default; with: default; morale: default. *HP:* 22, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (club) |
 | **Fae** | Torchbearer | Level 2 | Is terrified of fire, ironically. |
 | **Droop** | Goblin Guide | Level 2 | Walks backward to "watch the ghosts." |
 | **Hix** | Trapfinder | Blind Cathedral | Taps everything 3 times before touching. |
 | **Mara** | Mystic | Blind Cathedral | Her eyes are sewn shut with gold thread. |
-| **Kahn** | Mercenary | Blind Cathedral | Sharpening sword reduces his anxiety. *HP:* 30, *AC:* 14 (studded leather), *Attack:* +3 to hit, 1d6 slashing (scimitar) |
+| **Kahn** | Mercenary | Blind Cathedral | Sharpening sword reduces his anxiety. *Encounters:* group: default; with: default; morale: default. *HP:* 30, *AC:* 14 (studded leather), *Attack:* +3 to hit, 1d6 slashing (scimitar) |
 | **Poe** | Poet | Blind Cathedral | Speaks only in rhyming couplets about death. |
 | **Zane** | Cartographer | Inverted Halls | Draws maps on the insides of his eyelids. |
-| **Lux** | Mage | Inverted Halls | Casts "Light" on his own teeth. *HP:* 30, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 fire (fire bolt) |
+| **Lux** | Mage | Inverted Halls | Casts "Light" on his own teeth. *Encounters:* group: default; with: default; morale: default. *HP:* 30, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 fire (fire bolt) |
 | **Brix** | Mason | Inverted Halls | Eats gravel to "strengthen bones." |
 | **Yull** | Porter | Inverted Halls | Carries an empty cage "for the soul." |
 | **Qara** | Scout | Screaming Gallery | Wears earplugs made of wax and dead flies. |
-| **Voss** | Hunter | Screaming Gallery | Hunts rats to make "squeaking armor." *HP:* 20, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 piercing (shortbow) |
+| **Voss** | Hunter | Screaming Gallery | Hunts rats to make "squeaking armor." *Encounters:* group: default; with: default; morale: default. *HP:* 20, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 piercing (shortbow) |
 | **Nix** | Thief | Screaming Gallery | Steals left shoes only. |
-| **Jarl** | Fighter | Screaming Gallery | Believes he is already dead. *HP:* 30, *AC:* 15 (chain mail), *Attack:* +3 to hit, 1d6 slashing (shortsword) |
-| **Oona** | Druid | The Bottom | Photosynthesizes moonlight that isn't there. *HP:* 30, *AC:* 13 (hide), *Attack:* +3 to hit, 1d6 cold (frostbite) |
+| **Jarl** | Fighter | Screaming Gallery | Believes he is already dead. *Encounters:* group: default; with: default; morale: default. *HP:* 30, *AC:* 15 (chain mail), *Attack:* +3 to hit, 1d6 slashing (shortsword) |
+| **Oona** | Druid | The Bottom | Photosynthesizes moonlight that isn't there. *Encounters:* group: default; with: default; morale: default. *HP:* 30, *AC:* 13 (hide), *Attack:* +3 to hit, 1d6 cold (frostbite) |
 | **Kip** | Runner | The Bottom | Has cut off his own ears. |
-| **Zok** | Barbarian | The Bottom | Uses a tombstone as a shield. *HP:* 35, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (tombstone shield) |
-| **Ria** | Sorcerer | The Bottom | Her hair floats in zero-gravity. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 lightning (shocking grasp) |
-| **Tull** | Warlock | The Bottom | His shadow moves independently. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 necrotic (chill touch) |
+| **Zok** | Barbarian | The Bottom | Uses a tombstone as a shield. *Encounters:* group: default; with: default; morale: default. *HP:* 35, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (tombstone shield) |
+| **Ria** | Sorcerer | The Bottom | Her hair floats in zero-gravity. *Encounters:* group: default; with: default; morale: default. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 lightning (shocking grasp) |
+| **Tull** | Warlock | The Bottom | His shadow moves independently. *Encounters:* group: default; with: default; morale: default. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 necrotic (chill touch) |
 | **Mog** | Cook | Base Camp | Cooks soup using dungeon slime. |
 | **Pim** | Scribe | Base Camp | Is writing a suicide note in 100 volumes. |
-| **Vera** | Guard | Level 1 | Sleeps with eyes open. *HP:* 18, *AC:* 14 (chain shirt), *Attack:* +3 to hit, 1d6 piercing (spear) |
+| **Vera** | Guard | Level 1 | Sleeps with eyes open. *Encounters:* group: default; with: default; morale: default. *HP:* 18, *AC:* 14 (chain shirt), *Attack:* +3 to hit, 1d6 piercing (spear) |
 | **Gus** | Miner | Level 1 | Smells like sulfur and lavender. |
 | **Rin** | Scout | Level 2 | Carries a doll that looks like Reeves. |
 | **Zed** | Porter | Level 2 | Has no fingernails (removed them). |
@@ -452,6 +467,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Attack:* +3 to hit, 2d10 slashing
 *   *Size:* large
 *   *Resistances:* thunder
+*   *Encounters:* group: pack (1d4); with: default; morale: default
 *   *Abilities:*
     *   **Echolocation:** Blindsight 120ft. Blind beyond that.
     *   **Sonic Screech:** Cone 30ft. 4d6 Thunder + Stun.
@@ -464,6 +480,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Size:* small
 *   *Resistances:* necrotic
 *   *Vulnerabilities:* radiant
+*   *Encounters:* group: pack (2d4); with: default; morale: default
 *   *Abilities:*
     *   **Douse:** Action to extinguish 1 non-magical light source.
     *   **Swarm:** Resistance to weapon damage.
@@ -474,6 +491,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Attack:* +3 to hit, 2d6 piercing
 *   *Speed:* 0
 *   *Size:* large
+*   *Encounters:* group: solo; with: default; morale: default
 *   *Abilities:*
     *   **Trap:** False Appearance.
     *   **Swallow:** Grapples and digests (2d6 acid/turn).
@@ -484,6 +502,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Attack:* +3 to hit, 1d8 piercing
 *   *Speed:* 40
 *   *Size:* medium
+*   *Encounters:* group: solo; with: default; morale: default
 *   *Abilities:*
     *   **Spider Climb:** Can walk on ceilings.
     *   **Many Limbs:** 4 attacks per turn.
@@ -496,6 +515,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Size:* medium
 *   *Resistances:* psychic
 *   *Vulnerabilities:* thunder
+*   *Encounters:* group: default; with: default; morale: default
 *   *Abilities:*
     *   **Aura of Silence:** 10ft radius. No casting spells.
 
@@ -505,6 +525,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Attack:* +3 to hit, 1d6+1 psychic
 *   *Speed:* 30
 *   *Size:* medium
+*   *Encounters:* group: default; with: default; morale: default
 *   *Abilities:*
     *   **Mimicry:** Can sound exactly like a party member.
 
@@ -515,6 +536,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Speed:* 20
 *   *Size:* large
 *   *Resistances:* bludgeoning
+*   *Encounters:* group: default; with: default; morale: default
 *   *Abilities:*
     *   **Reverse Gravity:** 30ft radius. Players fall upward (take ceiling fall damage).
 
@@ -526,6 +548,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Size:* medium
 *   *Immunities:* poison
 *   *Vulnerabilities:* fire
+*   *Encounters:* group: pack (3); with: default; morale: default
 *   *Abilities:*
     *   **Burst:** On death, explodes. CON save or infected.
 
@@ -535,6 +558,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Attack:* +3 to hit, 5d6 piercing
 *   *Speed:* 30
 *   *Size:* large
+*   *Encounters:* group: default; with: default; morale: default
 *   *Abilities:*
     *   **Lure:** Wis save or compelled to move toward it.
 
@@ -546,6 +570,7 @@ Reality breakdown. Geometry is non-Euclidean. The Siphon's lair.
 *   *Size:* huge
 *   *Resistances:* force
 *   *Immunities:* psychic
+*   *Encounters:* group: solo; with: default; morale: default
 *   *Abilities:*
     *   **Reality Break:** Int save or take 6d10 Psychic damage.
     *   **Gaze of the Void:** Paralyzes viewers.
