@@ -106,6 +106,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 *   *HP:* 90.
 *   *AC:* 17.
 *   *Attack:* +3 to hit, 5d6 radiant (divine palate strike)
+*   *Encounters:* group: default; with: default; morale: default
 11. **Chef Ambrosius** (Human Legendary Chef) - A legendary chef who created the Recipe of Immortality. **Voice:** A calm, wise voice, full of ancient culinary secrets. **Goal:** To find the impossible ingredient. **Secret:** He is slowly losing his memory.
 12. **The Monotony's Disciple** (Human Monotony Cultist) - A fanatical cultist who seeks to spread blandness. **Voice:** A flat, emotionless monotone. **Goal:** To erase all taste from existence. **Secret:** They are secretly addicted to flavor.
 13. **The Spice Merchant** (Human Spice Lord) - A cunning merchant who traffics in rare spices. **Voice:** A smooth, persuasive voice, full of false promises. **Goal:** To get rich. **Secret:** He is secretly working for the Academy.
@@ -115,17 +116,20 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 *   *HP:* 60.
 *   *AC:* 15 (studded leather).
 *   *Attack:* +3 to hit, 2d6 piercing (filleting knife)
+*   *Encounters:* group: default; with: default; morale: default
 17. **The Sugar Golem** (Construct) - A golem made of hardened sugar, capable of unleashing devastating sugar-based attacks. **Voice:** A series of sweet, sticky crackles. **Goal:** To protect the Sugar Queen. **Secret:** It is slowly dissolving.
 18. **The Bitter End Mercenary** (Human Mercenary) - A mercenary who believes all flavor must be earned through suffering. **Voice:** A harsh, cynical voice, full of bitterness. **Goal:** To inflict suffering on all who seek pleasure. **Secret:** He is secretly addicted to pleasure.
 *   *HP:* 45.
 *   *AC:* 14 (studded leather).
 *   *Attack:* +3 to hit, 1d6+1 poison (bitter-coated blade)
+*   *Encounters:* group: pack (3); with: Sour Knight; morale: default
 19. **The Umami Philosopher** (Human Umami Collective) - A philosopher who seeks to balance all flavors. **Voice:** A calm, soothing voice, full of inner peace. **Goal:** To create a perfect, harmonious dish. **Secret:** They are slowly losing their own flavor.
 20. **Headmaster Goldwhisk** (Human Archchef) - The Academy's head, a kindly grandfather with something desperate underneath. **Voice:** Warm and unhurried, turning sinister only when he thinks no student is listening. **Goal:** Keep the Academy standing for one more generation. **Secret:** He discovered the founding technique 150 years ago and has not aged since.
 21. **The First Palate's Herald** (Celestial Flavor Guardian) - A being whose palate is directly connected to the First Palate. **Voice:** A clear, resonant voice, full of divine authority. **Goal:** To protect the purity of flavor. **Secret:** They are slowly losing their own divinity.
 *   *HP:* 110.
 *   *AC:* 17.
 *   *Attack:* +4 to hit, 5d8 radiant (herald's decree)
+*   *Encounters:* group: default; with: default; morale: default
 
 [TAG: NPC_TIER_2]
 ### Minor NPCs (Table of 50)
@@ -137,13 +141,13 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Sour"** | Student | Academy Lab | His experiments always turn out bitter. |
 | **"Umami"** | Student | Academy Garden | Can grow plants that taste like anything. |
 | **"Bland"** | Student | Academy Dorms | His food always tastes like ash. |
-| **"Pepper"** | Spice Lord Thug | Spice Market | His breath smells like chili peppers. *HP:* 20, *AC:* 12, *Attack:* +3 to hit, 1d6 fire (chili punch) |
+| **"Pepper"** | Spice Lord Thug | Spice Market | His breath smells like chili peppers. *Encounters:* group: default; with: default; morale: default. *HP:* 20, *AC:* 12, *Attack:* +3 to hit, 1d6 fire (chili punch) |
 | **"Sugar"** | Sweet Tooth Cultist | Confectionary | Her skin is covered in sugar crystals. |
-| **"Bitter"** | Bitter End Mercenary | Training Grounds | His weapons are coated in a bitter poison. *HP:* 30, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 poison (poisoned blade) |
+| **"Bitter"** | Bitter End Mercenary | Training Grounds | His weapons are coated in a bitter poison. *Encounters:* group: pack (3); with: Sour Knight; morale: default. *HP:* 30, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 poison (poisoned blade) |
 | **"Harmonious"** | Umami Collective Member | Meditation Hall | Can balance any flavor with a single touch. |
 | **"Divine"** | First Palate's Chosen | Flavor-Vault | His tongue glows faintly. |
 | **"Chef"** | Academy Instructor | Academy Kitchen | His cooking always causes minor explosions. |
-| **"Thief"** | Recipe Thief | Academy Library | Can steal a recipe by simply looking at it. *HP:* 18, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 piercing (paring knife) |
+| **"Thief"** | Recipe Thief | Academy Library | Can steal a recipe by simply looking at it. *Encounters:* group: default; with: default; morale: default. *HP:* 18, *AC:* 13 (leather), *Attack:* +3 to hit, 1d6 piercing (paring knife) |
 | **"Critic"** | Culinary Critic | Academy Dining Hall | His critiques are so harsh they can make food cry. |
 | **"Elemental"** | Flavor-Elemental | Spice Market | A small, sentient spice jar. |
 | **"Gourmand"** | Student | Academy Dining Hall | Can eat anything, no matter how disgusting. |
@@ -155,7 +159,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Healer"** | Student | Academy Med-Bay | Can heal any wound with a single bite. |
 | **"Historian"** | Student | Academy Library | Knows the history of every flavor. |
 | **"Librarian"** | Student | Academy Library | Guards the Academy's vast collection of recipes. |
-| **"Mage"** | Student | Academy Lab | Can cast spells that manipulate flavor. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 force (taste bolt) |
+| **"Mage"** | Student | Academy Lab | Can cast spells that manipulate flavor. *Encounters:* group: default; with: default; morale: default. *HP:* 18, *AC:* 12 (robes), *Attack:* +3 to hit, 1d6 force (taste bolt) |
 | **"Merchant"** | Student | Academy Market | Sells rare and exotic ingredients. |
 | **"Monk"** | Student | Academy Meditation Hall | Can meditate for days without eating. |
 | **"Navigator"** | Student | Academy Map Room | Can navigate the Flavor-Verse with a single taste. |
@@ -167,7 +171,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Singer"** | Student | Academy Music Hall | Her voice can manipulate flavors. |
 | **"Spy"** | Student | Academy Dorms | Can steal any secret with a single taste. |
 | **"Storyteller"** | Student | Academy Library | Can tell stories that evoke powerful flavors. |
-| **"Warrior"** | Student | Academy Training Grounds | Fights with flavor-infused weapons. *HP:* 22, *AC:* 14 (training armor), *Attack:* +3 to hit, 1d6 slashing (flavor-infused blade) |
+| **"Warrior"** | Student | Academy Training Grounds | Fights with flavor-infused weapons. *Encounters:* group: default; with: default; morale: default. *HP:* 22, *AC:* 14 (training armor), *Attack:* +3 to hit, 1d6 slashing (flavor-infused blade) |
 | **"Weaver"** | Student | Academy Art Studio | Can weave flavors into tapestries. |
 | **"Writer"** | Student | Academy Library | Writes recipes that can change reality. |
 | **"Zealot"** | Student | Academy Training Grounds | Fanatically devoted to a specific flavor. |
@@ -178,7 +182,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 | **"Dragon"** | Student | Academy Lab | A student who can breathe fire, but only when he eats spicy food. |
 | **"Giant"** | Student | Academy Kitchen | A student who is so big he can only cook with giant utensils. |
 | **"Goblin"** | Student | Academy Dorms | A student who is always trying to steal food. |
-| **"Orc"** | Student | Academy Training Grounds | A student who is always trying to fight. *HP:* 22, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (fists) |
+| **"Orc"** | Student | Academy Training Grounds | A student who is always trying to fight. *Encounters:* group: default; with: default; morale: default. *HP:* 22, *AC:* 12, *Attack:* +3 to hit, 1d6 bludgeoning (fists) |
 | **"Elf"** | Student | Academy Garden | A student who can communicate with plants. |
 | **"Dwarf"** | Student | Academy Forge | A student who can forge weapons from pure flavor. |
 | **"Halfling"** | Student | Academy Bakery | A student who can bake the most delicious pastries. |
@@ -327,6 +331,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Speed:** 30
 **Size:** medium
 **Vulnerabilities:** radiant
+**Encounters:** group: default; with: default; morale: default
 **Abilities:** *Discordant Aura* (Creatures within 10ft take 1d6 psychic damage and have disadvantage on taste-related checks), *Volatile Burst* (Explodes on death, dealing 3d6 damage of a random flavor type).
 
 ### 2. Monotony Cultist (CR 2)
@@ -334,6 +339,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Attack:** +3 to hit, 1d6 necrotic
 **Speed:** 30
 **Size:** medium
+**Encounters:** group: pack (3); with: default; morale: default
 **Abilities:** *Bland Touch* (Melee attack deals necrotic damage and makes target's food taste like ash for 1 hour), *Anti-Flavor Aura* (Dulls all magic within 10ft).
 
 ### 3. Sugar-Golem (CR 6)
@@ -343,6 +349,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Size:** large
 **Resistances:** bludgeoning
 **Vulnerabilities:** fire
+**Encounters:** group: pack (3); with: default; morale: default
 **Abilities:** *Sticky Grasp* (Grapples and restrains target, dealing bludgeoning damage), *Sweet Explosion* (Explodes on death, dealing 4d6 piercing damage from sugar shards).
 
 ### 4. Sour Knight (CR 4)
@@ -350,6 +357,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Attack:** +3 to hit, 2d6 slashing
 **Speed:** 30
 **Size:** medium
+**Encounters:** group: default; with: The Bitter End Mercenary; morale: default
 **Abilities:** *Bitter Blade* (Melee attack deals extra necrotic damage and inflicts a lingering bitter taste), *Cynical Aura* (Creatures within 10ft have disadvantage on morale checks).
 
 ### 5. Recipe Thief (Master) (CR 5)
@@ -357,6 +365,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Attack:** +3 to hit, 2d10 piercing
 **Speed:** 40
 **Size:** medium
+**Encounters:** group: default; with: default; morale: flees when bloodied
 **Abilities:** *Memory-Spoon* (Can extract a recipe directly from a chef's mind), *Disguise Self* (Can change its appearance as a bonus action).
 
 ### 6. Culinary Critic (Disgraced) (CR 3)
@@ -364,6 +373,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Attack:** +3 to hit, 1d8 psychic
 **Speed:** 30
 **Size:** medium
+**Encounters:** group: default; with: default; morale: default
 **Abilities:** *Scathing Critique* (Forces a WIS save vs. taking psychic damage and being demoralized), *Golden Spoon (Lost)* (Has a faint aura of lost power).
 
 ### 7. Pepper King (Crime Lord) (CR 8)
@@ -372,6 +382,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Speed:** 30
 **Size:** medium
 **Resistances:** fire
+**Encounters:** group: default; with: 1d4 Flavor-Elemental (Corrupted) bodyguards; morale: default
 **Abilities:** *Chili Breath* (15-ft cone, 4d6 fire damage and blinds targets), *Flavor-Elemental Bodyguards* (Always accompanied by 1d4 Flavor-Elementals).
 
 ### 8. Umami Overlord (Avatar) (CR 12)
@@ -380,6 +391,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Speed:** 30
 **Size:** huge
 **Resistances:** psychic
+**Encounters:** group: default; with: default; morale: default
 **Abilities:** *Savory Aura* (Creatures within 30ft are filled with a sense of contentment and have disadvantage on attack rolls), *Flavor Blast* (Deals massive force damage).
 
 ### 9. The Bland One (Monotony Avatar) (CR 15)
@@ -389,6 +401,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Size:** huge
 **Immunities:** psychic
 **Vulnerabilities:** radiant
+**Encounters:** group: solo; with: default; morale: default
 **Abilities:** *Anti-Flavor Aura* (Drains all color and taste from its surroundings), *Existential Dread* (Forces a WIS save vs. taking massive psychic damage and being paralyzed by despair).
 
 ### 10. Grand Chef Sazón (Corrupted) (CR 10)
@@ -397,6 +410,7 @@ The central conflict is the struggle between **Flavor and Monotony**. The Flavor
 **Speed:** 30
 **Size:** medium
 **Resistances:** fire
+**Encounters:** group: default; with: default; morale: default
 **Abilities:** *Divine Palate (Corrupted)* (Can identify any flavor, but it always tastes bland), *Recipe of Destruction* (Can cast powerful flavor-based spells that cause chaos).
 
 
